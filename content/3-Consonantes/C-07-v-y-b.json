@@ -1,0 +1,1851 @@
+{
+  "id": "C-07",
+  "block": "C",
+  "title": "V <em>y</em> B",
+  "file_title": "V y B",
+  "subtitle": "Teeth on your lip · very ≠ berry",
+  "icon": "🎻",
+  "map": {
+    "center": "En inglés la <b>V</b> y la <b>B</b> son sonidos distintos: V = <b>dientes en el labio</b> y zumbido. very ≠ berry.",
+    "listen": "very",
+    "nodes": [
+      {
+        "title": "La V",
+        "icon": "🦷",
+        "color": "green",
+        "items": [
+          "dientes de arriba <b>sobre el labio</b>",
+          "aire y <b>voz</b>: vvvv 🐝",
+          "es una <b>F con zumbido</b>"
+        ]
+      },
+      {
+        "title": "La B",
+        "icon": "💋",
+        "color": "blue",
+        "items": [
+          "<b>los dos labios</b> se juntan",
+          "se abren de golpe: <b>¡pop!</b>",
+          "cerrados también en ba<b>b</b>y"
+        ]
+      },
+      {
+        "title": "¡Cambia la palabra!",
+        "icon": "🔄",
+        "color": "purple",
+        "rows": [
+          [
+            "very ≠ berry",
+            "<code>véri</code> · <code>béri</code>"
+          ],
+          [
+            "vote ≠ boat",
+            "<code>vout</code> · <code>bout</code>"
+          ],
+          [
+            "vest ≠ best",
+            "<code>vest</code> · <code>best</code>"
+          ]
+        ]
+      },
+      {
+        "title": "En medio y al final",
+        "icon": "🎯",
+        "color": "orange",
+        "rows": [
+          [
+            "seven",
+            "<code>sévən</code>"
+          ],
+          [
+            "never",
+            "<code>néver</code>"
+          ],
+          [
+            "love",
+            "<code>lav</code>"
+          ]
+        ],
+        "after": "¡muerde el labio hasta el final!"
+      },
+      {
+        "title": "Ancla española",
+        "icon": "⚓",
+        "color": "pink",
+        "html": "Di «<b>fan</b>» y enciende la voz 🐝: <code>væn</code>. «<b>Feri</b>a» con voz: <code>véri</code>."
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "<b>B</b> = un beso 💋 (labios). <b>V</b> = un mordisquito de vampiro (dientes).",
+        "art": "🧛"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "very con B → <code>béri</code>"
+      ],
+      "good": [
+        "<code>véri</code> 🦷"
+      ],
+      "note": "«Very good» con B suena a «berry good»: ¡baya buena! 🫐"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "💯 very → ____",
+          "a": "véri"
+        },
+        {
+          "q": "7️⃣ seven → ____",
+          "a": "sévən"
+        },
+        {
+          "q": "❤️ love → ____",
+          "a": "lav"
+        },
+        {
+          "q": "🎬 video → ____",
+          "a": "vídiou"
+        },
+        {
+          "q": "🗳️ vote → ____",
+          "a": "vout"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué pasa con la V y la B?",
+      "title_en": "What's the deal with V and B?",
+      "icon": "🔎",
+      "es": "En español, «vaca» y «baca» suenan igual: la V y la B son <b>el mismo sonido</b>. En inglés, no. La <b>B</b> se hace con los dos labios, como en español. Pero la <b>V</b> es otro sonido: los dientes de arriba se apoyan en el labio de abajo y el aire sale zumbando. <mark>Si las confundes, cambias la palabra</mark>: very (muy) se convierte en berry (baya), y vote (votar) en boat (barco). ⛵",
+      "en": "In Spanish, B and V sound the same. In English, they don't: B uses both lips, but V uses your top teeth on your bottom lip, with a buzz.",
+      "formula": [
+        "dientes 🦷 + labio + *voz* → *V*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "lips",
+          "es": "Para la <b>V</b>, el labio de abajo sube y toca los dientes de arriba (por la parte de dentro). Para la <b>B</b>, se juntan <b>los dos labios</b>.",
+          "en": "V: your bottom lip touches your top teeth. B: both lips together."
+        },
+        {
+          "part": "teeth",
+          "es": "En la V, los dientes de arriba se apoyan suavecito sobre el labio, como si te lo mordieras sin hacerte daño. En la B, los dientes no hacen nada.",
+          "en": "For V, rest your top teeth lightly on your bottom lip."
+        },
+        {
+          "part": "air",
+          "es": "La V es <b>continua</b>: puedes alargarla, «vvvvvv». La B es una <b>explosión</b>: se cierra, se abre de golpe y ya está.",
+          "en": "V is a long, continuous sound. B is a quick pop."
+        },
+        {
+          "part": "voice",
+          "es": "Las dos <b>vibran</b> (pon la mano en el cuello). La V es una F con voz: di «ffff» y enciende la voz → «vvvv», como un moscardón 🐝.",
+          "en": "Both are voiced. V is just F with your voice on."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · La V: dientes en el labio",
+      "title_en": "V: teeth on lip",
+      "icon": "🦷",
+      "es": "Cada vez que veas una <b>V</b>, apoya los dientes de arriba en el labio de abajo y deja salir el aire con voz. Tiene que sonar un zumbido suave, «vvv». Si los labios se tocan entre sí, ya no es una V: es una B. Mírate en el espejo: <mark>¡se tienen que ver los dientes!</mark>",
+      "en": "Every time you see a V, put your top teeth on your bottom lip and buzz. If your lips touch each other, it's a B.",
+      "formula": [
+        "f + *voz* 🐝 → *v*",
+        "ffff → *vvvv*"
+      ],
+      "examples": [
+        {
+          "en": "very",
+          "say": "véri",
+          "es": "muy",
+          "icon": "💯"
+        },
+        {
+          "en": "video",
+          "say": "vídiou",
+          "es": "vídeo",
+          "icon": "🎬"
+        },
+        {
+          "en": "voice",
+          "say": "vois",
+          "es": "voz",
+          "icon": "🗣️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · La B: labios cerrados",
+      "title_en": "B: lips closed",
+      "icon": "💋",
+      "es": "La B inglesa es como la de «<b>b</b>oca» al empezar a hablar: los dos labios se cierran del todo y se abren de golpe. Ojo: en español, entre vocales (<i>ca<b>b</b>o, sa<b>b</b>er</i>) los labios casi no se tocan. En inglés <mark>siempre se cierran</mark>, también en medio: ba<b>b</b>y, ra<b>b</b>bit, a<b>b</b>out.",
+      "en": "English B always closes both lips completely, even between vowels: baby, rabbit, about.",
+      "examples": [
+        {
+          "en": "baby",
+          "say": "béibi",
+          "es": "bebé",
+          "icon": "👶"
+        },
+        {
+          "en": "rabbit",
+          "say": "rǽbit",
+          "es": "conejo",
+          "icon": "🐰"
+        },
+        {
+          "en": "about",
+          "say": "əbáut",
+          "es": "sobre, acerca de",
+          "icon": "💬"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · La V en medio",
+      "title_en": "V in the middle",
+      "icon": "🎯",
+      "es": "En medio de la palabra es donde más se nos escapa la V: decimos «se<b>b</b>en» en vez de <code>sévən</code>. Para entrenar, ve despacio y exagera: se-<b>vvv</b>-en, ne-<b>vvv</b>-er, ri-<b>vvv</b>-er. Cuando te salga, acelera.",
+      "en": "In the middle of a word, slow down and exaggerate the buzz: se-vvv-en, ne-vvv-er.",
+      "examples": [
+        {
+          "en": "seven",
+          "say": "sévən",
+          "es": "siete",
+          "icon": "7️⃣"
+        },
+        {
+          "en": "never",
+          "say": "néver",
+          "es": "nunca",
+          "icon": "🚫"
+        },
+        {
+          "en": "river",
+          "say": "ríver",
+          "es": "río",
+          "icon": "🏞️"
+        },
+        {
+          "en": "every",
+          "say": "évri",
+          "es": "cada, todos",
+          "icon": "🔁"
+        },
+        {
+          "en": "over",
+          "say": "óuver",
+          "es": "encima / se acabó",
+          "icon": "⬆️"
+        },
+        {
+          "en": "movie",
+          "say": "múuvi",
+          "es": "peli",
+          "icon": "🍿"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · La V al final",
+      "title_en": "V at the end",
+      "icon": "🔚",
+      "es": "Muchas palabras acaban en <b>-ve</b>: la E no suena, pero la <b>V sí</b>. Termina con los dientes en el labio y un zumbido cortito: love → <code>lav</code>, five → <code>faiv</code>. ¡Nada de «laf», «faif» ni «la»! Además, la vocal de delante se alarga un poquito (mapa C-14).",
+      "en": "Many words end in -ve. The E is silent, but the V is not: finish with your teeth on your lip.",
+      "examples": [
+        {
+          "en": "love",
+          "say": "lav",
+          "es": "amor, querer",
+          "icon": "❤️"
+        },
+        {
+          "en": "five",
+          "say": "faiv",
+          "es": "cinco",
+          "icon": "5️⃣"
+        },
+        {
+          "en": "have",
+          "say": "jæv",
+          "es": "tener",
+          "icon": "🤲"
+        },
+        {
+          "en": "give",
+          "say": "guiv",
+          "es": "dar",
+          "icon": "🎁"
+        },
+        {
+          "en": "live",
+          "say": "liv",
+          "es": "vivir",
+          "icon": "🏡"
+        },
+        {
+          "en": "leave",
+          "say": "liiv",
+          "es": "irse, dejar",
+          "icon": "🚪"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · OF suena con V",
+      "title_en": "OF sounds like V",
+      "icon": "🍵",
+      "es": "¡Sorpresa! En la palabrita <b>of</b> («de») la F suena <b>V</b>: <code>av</code>, y dentro de la frase, más débil todavía: <code>əv</code>. No confundas <b>of</b> (<code>əv</code>, de) con <b>off</b> (<code>of</code>, apagado). Más formas débiles en el mapa H-03.",
+      "en": "In «of», the F sounds like V: a cup of tea sounds like «a cuppav tea». Don't mix up of /əv/ and off /ɔf/.",
+      "formula": [
+        "cup + *of* → kápə*v*"
+      ],
+      "examples": [
+        {
+          "en": "a cup of tea",
+          "say": "ə kápəv tíi",
+          "es": "una taza de té",
+          "icon": "🍵"
+        },
+        {
+          "en": "a glass of water",
+          "say": "ə glǽsəv wárer",
+          "es": "un vaso de agua",
+          "icon": "🥛"
+        },
+        {
+          "en": "a lot of fun",
+          "say": "ə lárəv fán",
+          "es": "muy divertido",
+          "icon": "🎉"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · F frente a V",
+      "title_en": "F vs. V",
+      "icon": "🌬️",
+      "es": "La F y la V se hacen <b>igual con la boca</b>; la única diferencia es la voz. F = solo aire (no vibra). V = aire + zumbido (vibra). Pon la mano en el cuello y alterna: «ffff-vvvv-ffff». Por eso <b>fan</b> y <b>van</b>, <b>safe</b> y <b>save</b> u <b>off</b> y <b>of</b> son palabras distintas.",
+      "en": "F and V use the same mouth position. F is just air; V adds your voice.",
+      "examples": [
+        {
+          "en": "fan",
+          "say": "fæn",
+          "es": "fan, ventilador",
+          "icon": "🙌"
+        },
+        {
+          "en": "safe",
+          "say": "seif",
+          "es": "seguro",
+          "icon": "🔒"
+        },
+        {
+          "en": "off",
+          "say": "of",
+          "es": "apagado",
+          "icon": "📴"
+        },
+        {
+          "en": "van",
+          "say": "væn",
+          "es": "furgoneta",
+          "icon": "🚐"
+        },
+        {
+          "en": "save",
+          "say": "seiv",
+          "es": "guardar, salvar",
+          "icon": "💾"
+        },
+        {
+          "en": "of",
+          "say": "əv",
+          "es": "de",
+          "icon": "🔗"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "van",
+          "ipa": "væn",
+          "say": "væn",
+          "es": "furgoneta",
+          "icon": "🚐",
+          "anchor": "«<b>fan</b>» + voz 🐝",
+          "tip": "Di «fan» (soy fan) y, sin mover la boca, enciende la voz: vvvan. Abre la a hacia la e."
+        },
+        {
+          "en": "very",
+          "ipa": "ˈvɛri",
+          "say": "véri",
+          "es": "muy",
+          "icon": "💯",
+          "anchor": "«<b>feri</b>a» + voz 🐝",
+          "tip": "Di «feria» sin la a y con zumbido: VÉ-ri. ¡Si cierras los labios, dices berry!"
+        },
+        {
+          "en": "vest",
+          "ipa": "vɛst",
+          "say": "vest",
+          "es": "chaleco",
+          "icon": "🦺",
+          "anchor": "«<b>fest</b>ival» + voz 🐝",
+          "tip": "El «fest» de festival, con voz: vest. Con B sería best (el mejor)."
+        },
+        {
+          "en": "vet",
+          "ipa": "vɛt",
+          "say": "vet",
+          "es": "veterinario",
+          "icon": "🩺",
+          "anchor": "queso «<b>fet</b>a» + voz 🐝",
+          "tip": "Queso feta con zumbido: vet. ¡Rocky va al vet!"
+        },
+        {
+          "en": "best",
+          "ipa": "bɛst",
+          "say": "best",
+          "es": "el mejor",
+          "icon": "🏆",
+          "anchor": "<b>best</b>ia 🦍",
+          "tip": "Aquí sí: la B de «bestia», con los labios bien cerrados. You're the best!"
+        },
+        {
+          "en": "violin",
+          "ipa": "ˌvaɪ.əˈlɪn",
+          "say": "vaiəlín",
+          "es": "violín",
+          "icon": "🎻",
+          "anchor": "<b>violín</b> 🎻",
+          "tip": "Di «violín» mordiéndote el labio. Ojo, empieza por «vai»: vai-ə-LÍN."
+        },
+        {
+          "en": "video",
+          "ipa": "ˈvɪdioʊ",
+          "say": "vídiou",
+          "es": "vídeo",
+          "icon": "🎬",
+          "anchor": "<b>víde</b>o 🎬",
+          "tip": "Misma fuerza (VÍ). Muerde el labio y termina en «ou»: VÍ-di-ou."
+        },
+        {
+          "en": "visit",
+          "ipa": "ˈvɪzɪt",
+          "say": "vísit",
+          "es": "visitar",
+          "icon": "🧳",
+          "anchor": "<b>visit</b>a 🧳",
+          "tip": "«Visita» sin la a, con V de verdad y la fuerza en VÍ."
+        },
+        {
+          "en": "never",
+          "ipa": "ˈnɛvɚ",
+          "say": "néver",
+          "es": "nunca",
+          "icon": "🚫",
+          "anchor": "<b>never</b>a 🧊",
+          "tip": "«Nevera» sin la a… ¡pero con la fuerza en NE: NÉ-ver! Y muerde el labio."
+        },
+        {
+          "en": "love",
+          "ipa": "lʌv",
+          "say": "lav",
+          "es": "amor",
+          "icon": "❤️",
+          "anchor": "<b>lav</b>ar 🧼",
+          "tip": "Lavar con amor: «lav» sin -ar, terminando con los dientes en el labio."
+        },
+        {
+          "en": "November",
+          "ipa": "noʊˈvɛmbɚ",
+          "say": "nouvémber",
+          "es": "noviembre",
+          "icon": "🍂",
+          "anchor": "no<b>viem</b>bre 🍂",
+          "tip": "La fuerza cae en el mismo sitio (VEM). Di «nou» y muerde el labio en la V."
+        },
+        {
+          "en": "Las Vegas",
+          "ipa": "lɑs ˈveɪɡəs",
+          "say": "las véigəs",
+          "es": "Las Vegas",
+          "icon": "🎰",
+          "anchor": "Las <b>Vegas</b> 🎰",
+          "tip": "Con diptongo y V de verdad: VÉI-gəs. ¡Nada de «Las Begas»!"
+        },
+        {
+          "en": "vampire",
+          "ipa": "ˈvæmpaɪɚ",
+          "say": "vǽmpaier",
+          "es": "vampiro",
+          "icon": "🧛",
+          "anchor": "<b>vamp</b>iro 🧛",
+          "tip": "Los colmillos sobre el labio: ¡V perfecta! Pero la fuerza va en VǼM."
+        },
+        {
+          "en": "vanilla",
+          "ipa": "vəˈnɪlə",
+          "say": "vənílə",
+          "es": "vainilla",
+          "icon": "🍦",
+          "anchor": "<s>vainilla</s> → <b>və</b>NÍlə",
+          "tip": "Sin «i» después de la a: və-NÍ-lə. Y V de verdad, nada de «bainíla»."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "very",
+          "es": "muy"
+        },
+        {
+          "q": "seven",
+          "es": "siete"
+        },
+        {
+          "q": "never",
+          "es": "nunca"
+        },
+        {
+          "q": "love",
+          "es": "amor"
+        },
+        {
+          "q": "video",
+          "es": "vídeo"
+        },
+        {
+          "q": "very good",
+          "es": "muy bien"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Labios o dientes?",
+      "title_en": "Lips or teeth?",
+      "icon": "🧭",
+      "head": [
+        "Palabra · Word",
+        "Letra",
+        "¿Qué hace la boca?",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "very",
+          "V",
+          "dientes en el labio + zumbido",
+          "<code>véri</code>"
+        ],
+        [
+          "berry",
+          "B",
+          "labios cerrados → ¡pop!",
+          "<code>béri</code>"
+        ],
+        [
+          "vote",
+          "V",
+          "dientes en el labio + zumbido",
+          "<code>vout</code>"
+        ],
+        [
+          "boat",
+          "B",
+          "labios cerrados → ¡pop!",
+          "<code>bout</code>"
+        ],
+        [
+          "baby",
+          "B y B",
+          "labios cerrados las dos veces",
+          "<code>béibi</code>"
+        ],
+        [
+          "seven",
+          "V en medio",
+          "¡no la ablandes a «b»!",
+          "<code>sévən</code>"
+        ],
+        [
+          "five",
+          "V al final",
+          "termina mordiendo el labio",
+          "<code>faiv</code>"
+        ],
+        [
+          "of",
+          "F que suena V",
+          "dientes en el labio + zumbido",
+          "<code>əv</code>"
+        ],
+        [
+          "off",
+          "F",
+          "dientes en el labio, solo aire",
+          "<code>of</code>"
+        ],
+        [
+          "volleyball",
+          "V … B",
+          "primero dientes, luego labios",
+          "<code>válibol</code>"
+        ],
+        [
+          "everybody",
+          "V … B",
+          "primero dientes, luego labios",
+          "<code>évribari</code>"
+        ],
+        [
+          "above",
+          "B … V",
+          "primero labios, luego dientes",
+          "<code>əbáv</code>"
+        ]
+      ],
+      "note": "Truco: la <b>B</b> es un beso 💋 (los labios se juntan) y la <b>V</b> es un mordisco 🦷 (los dientes en el labio). Si dudas, mírate en el espejo.",
+      "note_en": "Trick: B is a kiss (lips together). V is a bite (teeth on lip)."
+    },
+    {
+      "t": "compare",
+      "title": "B, V y F",
+      "title_en": "B, V and F",
+      "icon": "⚖️",
+      "es": "La V inglesa se parece más a la <b>F</b> que a la B. ¡Esa es la clave!",
+      "en": "The English V is closer to F than to B. That's the key!",
+      "cols": [
+        {
+          "head": "💋 B (boat)",
+          "color": "blue",
+          "items": [
+            "los dos labios se tocan",
+            "se abren de golpe: ¡pop!",
+            "con voz (vibra)",
+            "baby, best, boat"
+          ]
+        },
+        {
+          "head": "🦷 V (vote)",
+          "color": "green",
+          "items": [
+            "dientes en el labio",
+            "aire continuo: vvvv",
+            "con voz (vibra) 🐝",
+            "very, vest, vote"
+          ]
+        },
+        {
+          "head": "🦷 F (fun)",
+          "color": "orange",
+          "items": [
+            "dientes en el labio",
+            "aire continuo: ffff",
+            "sin voz (no vibra)",
+            "fan, five, off"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "B o V: cambia la palabra",
+      "title_en": "B or V: a different word",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "very",
+            "ipa": "ˈvɛri",
+            "say": "véri",
+            "es": "muy",
+            "icon": "💯"
+          },
+          "b": {
+            "en": "berry",
+            "ipa": "ˈbɛri",
+            "say": "béri",
+            "es": "baya",
+            "icon": "🫐"
+          },
+          "tip": "«Very good» o «berry good»: ¡muy bien o baya buena!"
+        },
+        {
+          "a": {
+            "en": "vote",
+            "ipa": "voʊt",
+            "say": "vout",
+            "es": "votar",
+            "icon": "🗳️"
+          },
+          "b": {
+            "en": "boat",
+            "ipa": "boʊt",
+            "say": "bout",
+            "es": "barco",
+            "icon": "⛵"
+          },
+          "tip": "«Vote for me!» Con B, pides un barco."
+        },
+        {
+          "a": {
+            "en": "van",
+            "ipa": "væn",
+            "say": "væn",
+            "es": "furgoneta",
+            "icon": "🚐"
+          },
+          "b": {
+            "en": "ban",
+            "ipa": "bæn",
+            "say": "bæn",
+            "es": "prohibir",
+            "icon": "🚫"
+          },
+          "tip": "Dientes para la furgoneta, labios para prohibir."
+        },
+        {
+          "a": {
+            "en": "vest",
+            "ipa": "vɛst",
+            "say": "vest",
+            "es": "chaleco",
+            "icon": "🦺"
+          },
+          "b": {
+            "en": "best",
+            "ipa": "bɛst",
+            "say": "best",
+            "es": "el mejor",
+            "icon": "🏆"
+          },
+          "tip": "«The best vest» = el mejor chaleco. ¡Dilo cinco veces!"
+        },
+        {
+          "a": {
+            "en": "vet",
+            "ipa": "vɛt",
+            "say": "vet",
+            "es": "veterinario",
+            "icon": "🩺"
+          },
+          "b": {
+            "en": "bet",
+            "ipa": "bɛt",
+            "say": "bet",
+            "es": "apuesta",
+            "icon": "🎲"
+          },
+          "tip": "Rocky va al vet, no a una apuesta."
+        },
+        {
+          "a": {
+            "en": "curve",
+            "ipa": "kɝv",
+            "say": "kerv",
+            "es": "curva",
+            "icon": "↪️"
+          },
+          "b": {
+            "en": "curb",
+            "ipa": "kɝb",
+            "say": "kerb",
+            "es": "bordillo",
+            "icon": "🛣️"
+          },
+          "tip": "Al final también importa: muerde para la curva, cierra para el bordillo."
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "La V se pega",
+      "title_en": "Linking the V",
+      "items": [
+        {
+          "written": "Have a nice day!",
+          "spoken": "Hava nice day!",
+          "say": "jǽvə náis déi",
+          "es": "¡Que tengas un buen día!"
+        },
+        {
+          "written": "I love it!",
+          "spoken": "I luvit!",
+          "say": "ai lávit",
+          "es": "¡Me encanta!"
+        },
+        {
+          "written": "Give it to me.",
+          "spoken": "Givit to me.",
+          "say": "guívit tə mi",
+          "es": "Dámelo."
+        },
+        {
+          "written": "Leave it there.",
+          "spoken": "Leevit there.",
+          "say": "líivit der",
+          "es": "Déjalo ahí."
+        },
+        {
+          "written": "Move over!",
+          "spoken": "Moovover!",
+          "say": "muuvóuver",
+          "es": "¡Hazte a un lado!"
+        },
+        {
+          "written": "Of course!",
+          "spoken": "Uv course!",
+          "say": "əv kórs",
+          "es": "¡Claro!"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I love you very much.",
+          "say": "ai láv iu véri mách",
+          "es": "Te quiero muchísimo.",
+          "icon": "❤️"
+        },
+        {
+          "en": "Never give up!",
+          "say": "néver guiváp!",
+          "es": "¡No te rindas nunca!",
+          "icon": "💪"
+        },
+        {
+          "en": "My favorite movie is about a vampire.",
+          "say": "mai féivrit múuvi is əbáut ə vǽmpaier",
+          "es": "Mi peli favorita va de un vampiro.",
+          "icon": "🧛"
+        },
+        {
+          "en": "The baby has a blue van.",
+          "say": "də béibi jæs ə blúu vǽn",
+          "es": "El bebé tiene una furgoneta azul.",
+          "icon": "👶"
+        },
+        {
+          "en": "Vote for the best boat!",
+          "say": "vóut fer də bést bóut!",
+          "es": "¡Vota por el mejor barco!",
+          "icon": "⛵"
+        },
+        {
+          "en": "Bob lives by the river.",
+          "say": "bab livs bai də ríver",
+          "es": "Bob vive junto al río.",
+          "icon": "🏞️"
+        },
+        {
+          "en": "Everybody loves volleyball.",
+          "say": "évribari lavs válibol",
+          "es": "A todo el mundo le encanta el voleibol.",
+          "icon": "🏐"
+        },
+        {
+          "en": "Can I have a glass of water?",
+          "say": "kən ai jǽv ə glǽsəv wárer?",
+          "es": "¿Me das un vaso de agua?",
+          "icon": "🥛"
+        },
+        {
+          "en": "I'll be there in November.",
+          "say": "ail bi der in nouvémber",
+          "es": "Estaré allí en noviembre.",
+          "icon": "🍂"
+        },
+        {
+          "en": "Turn off the TV, Vicky!",
+          "say": "ternóf də tiivíi, víki!",
+          "es": "¡Apaga la tele, Vicky!",
+          "icon": "📺"
+        },
+        {
+          "en": "We have seven videos.",
+          "say": "wi jǽv sévən vídious",
+          "es": "Tenemos siete vídeos.",
+          "icon": "🎬"
+        },
+        {
+          "en": "Have a very nice weekend!",
+          "say": "jǽvə véri náis wíikend!",
+          "es": "¡Que pases muy buen fin de semana!",
+          "icon": "🌞"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "very → <code>béri</code>",
+          "good": "<code>véri</code>",
+          "why": "Con B dices berry (baya). Muerde el labio.",
+          "why_en": "With a B, you say «berry»."
+        },
+        {
+          "bad": "vote → <code>bout</code>",
+          "good": "<code>vout</code>",
+          "why": "Boat es barco. ¡Votar se dice con dientes!",
+          "why_en": "Boat is a different word."
+        },
+        {
+          "bad": "seven → <code>sében</code>",
+          "good": "<code>sévən</code>",
+          "why": "En medio de la palabra también hay que morder el labio.",
+          "why_en": "Keep the V in the middle of the word."
+        },
+        {
+          "bad": "five → <code>faif</code>",
+          "good": "<code>faiv</code>",
+          "why": "Termina con zumbido, no con soplido: la V vibra, la F no.",
+          "why_en": "End with a buzz, not just air."
+        },
+        {
+          "bad": "love → <code>laf</code> o <code>la</code>",
+          "good": "<code>lav</code>",
+          "why": "No te comas la V final ni la conviertas en F.",
+          "why_en": "Don't drop the final V or turn it into F."
+        },
+        {
+          "bad": "of → <code>of</code>",
+          "good": "<code>əv</code>",
+          "why": "Of suena con V. Off (apagado) sí lleva F.",
+          "why_en": "«Of» has a V sound. «Off» has an F."
+        },
+        {
+          "bad": "baby → con los labios abiertos en la 2.ª b",
+          "good": "<code>béibi</code>, labios cerrados",
+          "why": "En inglés la B siempre cierra los labios, también en medio.",
+          "why_en": "English B always closes the lips."
+        },
+        {
+          "bad": "vanilla → <code>bainíla</code>",
+          "good": "<code>vənílə</code>",
+          "why": "Ni B ni «ai»: və-NÍ-lə.",
+          "why_en": "Say V, not B, and no «ai»."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Noche de pelis",
+      "title_en": "Movie night",
+      "lines": [
+        {
+          "who": "Tyler",
+          "en": "Hey Mario! Do you want to watch a movie?",
+          "say": "jei mário! du iu wánə wách ə múuvi?",
+          "es": "¡Eh, Mario! ¿Quieres ver una peli?"
+        },
+        {
+          "who": "Mario",
+          "en": "Sure! I love vampire movies.",
+          "say": "shur! ai láv vǽmpaier múuvis",
+          "es": "¡Claro! Me encantan las pelis de vampiros."
+        },
+        {
+          "who": "Tyler",
+          "en": "Me too! This one is very good.",
+          "say": "mi túu! dis wan is véri gud",
+          "es": "¡A mí también! Esta es muy buena."
+        },
+        {
+          "who": "Mario",
+          "en": "Do we have popcorn?",
+          "say": "du wi jǽv pápkorn?",
+          "es": "¿Tenemos palomitas?"
+        },
+        {
+          "who": "Tyler",
+          "en": "Yes, and seven bags of chips!",
+          "say": "iés, ənd sévən bǽgs əv chíps!",
+          "es": "¡Sí, y siete bolsas de patatas!"
+        },
+        {
+          "who": "Mario",
+          "en": "Seven? Wow, you're the best!",
+          "say": "sévən? wáu, ior də bést!",
+          "es": "¿Siete? ¡Hala, eres el mejor!"
+        },
+        {
+          "who": "Tyler",
+          "en": "Never forget: a movie is better with snacks.",
+          "say": "néver ferguét: ə múuvi is bérer wid snǽks",
+          "es": "Nunca lo olvides: una peli es mejor con picoteo."
+        },
+        {
+          "who": "Mario",
+          "en": "Very true! Give me the remote.",
+          "say": "véri trúu! guív mi də rimóut",
+          "es": "¡Muy cierto! Dame el mando."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di «ffff» como si apagaras una vela: dientes de arriba en el labio de abajo.",
+          "en": "Say «ffff» like blowing out a candle."
+        },
+        {
+          "es": "Sin mover la boca, enciende la voz: «ffff → vvvv». Pon la mano en el cuello: ¡vibra!",
+          "en": "Without moving, turn your voice on: ffff → vvvv."
+        },
+        {
+          "es": "Añade vocales: «vvva, vvve, vvvi». Y compara con «ba, be, bi», con los labios cerrados.",
+          "en": "Add vowels, then compare with ba, be, bi."
+        },
+        {
+          "es": "Ahora parejas, delante del espejo: <code>véri</code> / <code>béri</code>, <code>vout</code> / <code>bout</code>, <code>vest</code> / <code>best</code>.",
+          "en": "Practice pairs in front of a mirror."
+        },
+        {
+          "es": "Escanea los QR, escucha 3 vídeos y <b>grábate</b> diciendo «very, very, very good».",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Vicky's very best vest is in Bob's van.",
+          "say": "víkis véri bést vést is in bábs vǽn",
+          "es": "El mejor chaleco de Vicky está en la furgoneta de Bob."
+        },
+        {
+          "en": "Five brave vets visit Beverly Hills.",
+          "say": "fáiv bréiv véts vísit béverli jíls",
+          "es": "Cinco veterinarios valientes visitan Beverly Hills."
+        },
+        {
+          "en": "Bobby loves very big blueberries.",
+          "say": "bábi lávs véri bíg blúuberis",
+          "es": "A Bobby le encantan los arándanos muy grandes."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Besos y mordiscos",
+      "title_en": "Kisses and bites",
+      "es": "Para no liarte: la <b>B</b> es un <b>beso</b> 💋 (los labios se juntan) y la <b>V</b> es un <b>mordisco</b> de vampiro 🧛 (los dientes en el labio). Y si alguien te dice «very good!», ya lo sabes: ¡muy bien, no baya buena! 🫐",
+      "en": "B is a kiss (lips together). V is a vampire bite (teeth on lip)."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Labios o dientes?",
+      "title_en": "Lips or teeth?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta. ¿Qué haces con la boca en el sonido marcado? Rodea.",
+      "en": "Say the word. Circle what your mouth does.",
+      "items": [
+        {
+          "q": "<b>v</b>ery → [labios|dientes]",
+          "a": "dientes"
+        },
+        {
+          "q": "<b>b</b>erry → [labios|dientes]",
+          "a": "labios"
+        },
+        {
+          "q": "se<b>v</b>en → [labios|dientes]",
+          "a": "dientes"
+        },
+        {
+          "q": "ba<b>b</b>y → [labios|dientes]",
+          "a": "labios"
+        },
+        {
+          "q": "o<b>f</b> → [labios|dientes]",
+          "a": "dientes"
+        },
+        {
+          "q": "<b>b</b>oat → [labios|dientes]",
+          "a": "labios"
+        },
+        {
+          "q": "fi<b>v</b>e → [labios|dientes]",
+          "a": "dientes"
+        },
+        {
+          "q": "a<b>b</b>out → [labios|dientes]",
+          "a": "labios"
+        },
+        {
+          "q": "<b>v</b>ote → [labios|dientes]",
+          "a": "dientes"
+        },
+        {
+          "q": "ra<b>bb</b>it → [labios|dientes]",
+          "a": "labios"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna. ¡Hay dos trampas!",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "💋 Suena B",
+          "words": [
+            "berry",
+            "boat",
+            "baby",
+            "best",
+            "rabbit",
+            "about",
+            "bus",
+            "job"
+          ]
+        },
+        {
+          "name": "🦷 Suena V",
+          "words": [
+            "very",
+            "vote",
+            "seven",
+            "never",
+            "love",
+            "five",
+            "of",
+            "Stephen"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "very",
+          "<code>véri</code>"
+        ],
+        [
+          "berry",
+          "<code>béri</code>"
+        ],
+        [
+          "vote",
+          "<code>vout</code>"
+        ],
+        [
+          "boat",
+          "<code>bout</code>"
+        ],
+        [
+          "vest",
+          "<code>vest</code>"
+        ],
+        [
+          "best",
+          "<code>best</code>"
+        ],
+        [
+          "love",
+          "<code>lav</code>"
+        ],
+        [
+          "five",
+          "<code>faiv</code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada: <b>v</b> si muerdes el labio, <b>b</b> si cierras los labios. Pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "🕚 eleven → ____",
+          "a": "ilévən"
+        },
+        {
+          "q": "🚫 never → ____",
+          "a": "néver"
+        },
+        {
+          "q": "🏞️ river → ____",
+          "a": "ríver"
+        },
+        {
+          "q": "🍿 movie → ____",
+          "a": "múuvi"
+        },
+        {
+          "q": "🎁 give → ____",
+          "a": "guiv"
+        },
+        {
+          "q": "🤲 have → ____",
+          "a": "jæv"
+        },
+        {
+          "q": "🗣️ voice → ____",
+          "a": "vois"
+        },
+        {
+          "q": "👶 baby → ____",
+          "a": "béibi"
+        },
+        {
+          "q": "🔁 every → ____",
+          "a": "évri"
+        },
+        {
+          "q": "✈️ travel → ____",
+          "a": "trǽvəl"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Qué palabra es?",
+      "title_en": "Which word is it?",
+      "icon": "🧩",
+      "es": "Lee la frase y rodea la palabra correcta. Después dila en voz alta, con labios o con dientes.",
+      "en": "Circle the right word, then say the sentence.",
+      "items": [
+        {
+          "q": "Rocky is sick. Let's go to the [vet|bet].",
+          "a": "vet"
+        },
+        {
+          "q": "You're the [vest|best]!",
+          "a": "best"
+        },
+        {
+          "q": "I'm [very|berry] happy!",
+          "a": "very"
+        },
+        {
+          "q": "We crossed the river by [vote|boat].",
+          "a": "boat"
+        },
+        {
+          "q": "Don't forget to [vote|boat] on Sunday.",
+          "a": "vote"
+        },
+        {
+          "q": "A [van|ban] full of pizzas.",
+          "a": "van"
+        },
+        {
+          "q": "Put on your [vest|best], it's cold.",
+          "a": "vest"
+        },
+        {
+          "q": "The car took the [curve|curb] too fast.",
+          "a": "curve"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "In English, B and V sound the same.",
+          "a": false,
+          "why": "B: labios; V: dientes en el labio"
+        },
+        {
+          "q": "For V, your top teeth touch your bottom lip.",
+          "a": true
+        },
+        {
+          "q": "V is like F with your voice on.",
+          "a": true
+        },
+        {
+          "q": "«Very» and «berry» sound the same.",
+          "a": false,
+          "why": "<code>véri</code> / <code>béri</code>"
+        },
+        {
+          "q": "In «of», the F sounds like a V.",
+          "a": true
+        },
+        {
+          "q": "In «five», the final E is silent but the V is not.",
+          "a": true
+        },
+        {
+          "q": "In English, the B in «baby» is soft, with open lips.",
+          "a": false,
+          "why": "los labios siempre se cierran"
+        },
+        {
+          "q": "«Stephen» has a V sound.",
+          "a": true,
+          "why": "PH suena V en este nombre: <code>stíivən</code>"
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "¿Cómo se escribe?",
+      "title_en": "How do you spell it?",
+      "icon": "✏️",
+      "es": "Escribe la palabra en inglés. ¿Lleva B o V? Luego dila delante del espejo.",
+      "en": "Write the English word. Does it have a B or a V?",
+      "items": [
+        {
+          "q": "7️⃣ siete",
+          "a": "seven"
+        },
+        {
+          "q": "💯 muy",
+          "a": "very"
+        },
+        {
+          "q": "🚐 furgoneta",
+          "a": "van"
+        },
+        {
+          "q": "🦺 chaleco",
+          "a": "vest"
+        },
+        {
+          "q": "👶 bebé",
+          "a": "baby"
+        },
+        {
+          "q": "🐰 conejo",
+          "a": "rabbit"
+        },
+        {
+          "q": "🎻 violín",
+          "a": "violin"
+        },
+        {
+          "q": "⛵ barco",
+          "a": "boat"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Después di la palabra mordiendo el labio en cada V.",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "se",
+            "ven"
+          ],
+          "s": 0,
+          "es": "siete"
+        },
+        {
+          "syl": [
+            "ne",
+            "ver"
+          ],
+          "s": 0,
+          "es": "nunca"
+        },
+        {
+          "syl": [
+            "vi",
+            "o",
+            "lin"
+          ],
+          "s": 2,
+          "es": "violín"
+        },
+        {
+          "syl": [
+            "vi",
+            "de",
+            "o"
+          ],
+          "s": 0,
+          "es": "vídeo"
+        },
+        {
+          "syl": [
+            "No",
+            "vem",
+            "ber"
+          ],
+          "s": 1,
+          "es": "noviembre"
+        },
+        {
+          "syl": [
+            "va",
+            "nil",
+            "la"
+          ],
+          "s": 1,
+          "es": "vainilla"
+        },
+        {
+          "syl": [
+            "vam",
+            "pire"
+          ],
+          "s": 0,
+          "es": "vampiro"
+        },
+        {
+          "syl": [
+            "va",
+            "ca",
+            "tion"
+          ],
+          "s": 1,
+          "es": "vacaciones"
+        },
+        {
+          "syl": [
+            "vol",
+            "ley",
+            "ball"
+          ],
+          "s": 0,
+          "es": "voleibol"
+        },
+        {
+          "syl": [
+            "e",
+            "lev",
+            "en"
+          ],
+          "s": 1,
+          "es": "once"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pega la V",
+      "title_en": "Link the V",
+      "icon": "🔗",
+      "es": "Escribe cómo suena la frase entera, pegando la V a la vocal que viene detrás.",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        {
+          "q": "Have a nice day!",
+          "a": "jǽvə náis déi"
+        },
+        {
+          "q": "I love it!",
+          "a": "ai lávit"
+        },
+        {
+          "q": "Give it to me.",
+          "a": "guívit tə mi"
+        },
+        {
+          "q": "a cup of tea",
+          "a": "ə kápəv tíi"
+        },
+        {
+          "q": "Leave it!",
+          "a": "líivit"
+        },
+        {
+          "q": "a glass of water",
+          "a": "ə glǽsəv wárer"
+        },
+        {
+          "q": "Of course!",
+          "a": "əv kórs"
+        },
+        {
+          "q": "Move it!",
+          "a": "múuvit"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "very → <code>béri</code>",
+          "a": "véri"
+        },
+        {
+          "q": "vote → <code>bout</code>",
+          "a": "vout"
+        },
+        {
+          "q": "five → <code>faif</code>",
+          "a": "faiv"
+        },
+        {
+          "q": "love → <code>laf</code>",
+          "a": "lav"
+        },
+        {
+          "q": "seven → <code>sében</code>",
+          "a": "sévən"
+        },
+        {
+          "q": "video → <code>bídeo</code>",
+          "a": "vídiou"
+        },
+        {
+          "q": "of → <code>of</code>",
+          "a": "əv"
+        },
+        {
+          "q": "vanilla → <code>bainíla</code>",
+          "a": "vənílə"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez. ¡Mírate los dientes en cada V!",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Very good!",
+          "say": "véri gud!"
+        },
+        {
+          "q": "I love you.",
+          "say": "ai láv iu"
+        },
+        {
+          "q": "Vote for me!",
+          "say": "vóut fer mi!"
+        },
+        {
+          "q": "You're the best!",
+          "say": "ior də bést!"
+        },
+        {
+          "q": "Seven vans",
+          "say": "sévən vǽns"
+        },
+        {
+          "q": "Never ever give up!",
+          "say": "néver éver guiváp!"
+        },
+        {
+          "q": "Bob has a very big van.",
+          "say": "bab jæs ə véri big vǽn"
+        },
+        {
+          "q": "Everybody loves volleyball.",
+          "say": "évribari lavs válibol"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta: ¿labios o dientes?",
+      "en": "Translate into English and say it.",
+      "items": [
+        {
+          "q": "muy",
+          "a": "very (véri)"
+        },
+        {
+          "q": "siete",
+          "a": "seven (sévən)"
+        },
+        {
+          "q": "nunca",
+          "a": "never (néver)"
+        },
+        {
+          "q": "amor",
+          "a": "love (lav)"
+        },
+        {
+          "q": "cinco",
+          "a": "five (faiv)"
+        },
+        {
+          "q": "voz",
+          "a": "voice (vois)"
+        },
+        {
+          "q": "el mejor",
+          "a": "the best (də best)"
+        },
+        {
+          "q": "barco",
+          "a": "boat (bout)"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En la última columna escribe labios (B) o dientes (V).",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "¿Labios o dientes?"
+      ],
+      "rows": [
+        [
+          "very",
+          "muy",
+          "?véri",
+          "?dientes"
+        ],
+        [
+          "berry",
+          "?baya",
+          "béri",
+          "?labios"
+        ],
+        [
+          "?vote",
+          "votar",
+          "vout",
+          "dientes"
+        ],
+        [
+          "boat",
+          "?barco",
+          "?bout",
+          "labios"
+        ],
+        [
+          "?seven",
+          "siete",
+          "sévən",
+          "?dientes"
+        ],
+        [
+          "baby",
+          "?bebé",
+          "béibi",
+          "?labios"
+        ],
+        [
+          "five",
+          "cinco",
+          "?faiv",
+          "?dientes"
+        ],
+        [
+          "?best",
+          "el mejor",
+          "best",
+          "labios"
+        ]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de uves",
+      "title_en": "V word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con V. Dila en voz alta, mordiendo el labio, cada vez que encuentres una.",
+      "en": "Find 10 words with a V.",
+      "words": [
+        "very",
+        "seven",
+        "never",
+        "love",
+        "five",
+        "video",
+        "violin",
+        "vest",
+        "voice",
+        "river"
+      ],
+      "clues": [
+        "very · muy",
+        "seven · siete",
+        "never · nunca",
+        "love · amor",
+        "five · cinco",
+        "video · vídeo",
+        "violin · violín",
+        "vest · chaleco",
+        "voice · voz",
+        "river · río"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las uves",
+      "title_en": "Read and find the V's",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Grandma Beverly",
+      "text": [
+        "Vicky and her brother Bob have a big blue van. Every November, they drive to Las Vegas to visit their grandma, Beverly.",
+        "Beverly loves volleyball and old movies. “You're the best!” she says when they arrive. “Have a cup of coffee, and never leave before seven!”"
+      ],
+      "items": [
+        {
+          "q": "What color is the van?",
+          "a": "Blue. «A big blue van» = <code>ə big blúu vǽn</code>: B, B y V."
+        },
+        {
+          "q": "Find three words in the text with a V sound.",
+          "a": "Vicky, have, van, every, November, Vegas, visit, Beverly, loves, volleyball, movies, never, leave, seven, of (cualquiera)"
+        },
+        {
+          "q": "Which two words in the text have both a B and a V?",
+          "a": "Beverly, volleyball"
+        },
+        {
+          "q": "They visit their grandma every November.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «a cup of coffee», «of» sounds like «off».",
+          "tf": true,
+          "a": false,
+          "why": "suena <code>əv</code>, con V"
+        },
+        {
+          "q": "Beverly hates old movies.",
+          "tf": true,
+          "a": false,
+          "why": "she loves old movies"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con B y V. Léelas en voz alta delante del espejo y grábate.",
+      "en": "Write three sentences with B and V and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con very y best.",
+          "lines": 2,
+          "a": "Ej.: My mom is the best. She's very funny."
+        },
+        {
+          "q": "Una frase sobre algo que te encanta (I love…).",
+          "lines": 2,
+          "a": "Ej.: I love volleyball and vampire movies."
+        },
+        {
+          "q": "Una frase con un número: seven, five, eleven…",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Hago la <b>V</b> con los dientes en el labio y zumbido 🦷.",
+      "en": "I can make a real V: teeth on lip, with a buzz."
+    },
+    {
+      "es": "Distingo very/berry, vote/boat y vest/best.",
+      "en": "I can say very/berry, vote/boat and vest/best."
+    },
+    {
+      "es": "Cierro bien los labios en la <b>B</b>, también en baby y rabbit.",
+      "en": "I close my lips for every B."
+    },
+    {
+      "es": "No me como la V final: <code>lav</code>, <code>faiv</code>, <code>jæv</code>.",
+      "en": "I say the final V in love, five, have."
+    },
+    {
+      "es": "Sé que «of» suena <code>əv</code>, con V.",
+      "en": "I know «of» sounds like «uv»."
+    },
+    {
+      "es": "Puedo decir el trabalenguas del chaleco de Vicky sin trabarme.",
+      "en": "I can say the Vicky's vest tongue twister."
+    }
+  ]
+}

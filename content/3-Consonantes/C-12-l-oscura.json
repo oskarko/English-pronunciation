@@ -1,0 +1,1720 @@
+{
+  "id": "C-12",
+  "block": "C",
+  "title": "LA L OSCURA",
+  "file_title": "La L oscura (dark L)",
+  "subtitle": "The dark L · ball, milk, people",
+  "icon": "🌑",
+  "map": {
+    "center": "La L tiene dos caras: <b>clara</b> al empezar (light) y <b>oscura</b> al final (ball, milk), con la lengua <b>atrás</b>, casi una «u».",
+    "listen": "people",
+    "nodes": [
+      {
+        "title": "L clara",
+        "icon": "☀️",
+        "color": "green",
+        "rows": [
+          [
+            "light",
+            "<code>lait</code>"
+          ],
+          [
+            "love",
+            "<code>lav</code>"
+          ],
+          [
+            "hello",
+            "<code>jəlóu</code>"
+          ]
+        ],
+        "after": "como la L de «<b>l</b>una»"
+      },
+      {
+        "title": "L oscura",
+        "icon": "🌑",
+        "color": "blue",
+        "rows": [
+          [
+            "ball",
+            "<code>bol</code>"
+          ],
+          [
+            "milk",
+            "<code>milk</code>"
+          ],
+          [
+            "feel",
+            "<code>fiil</code>"
+          ]
+        ],
+        "after": "lengua <b>atrás</b>, sabor a «u»"
+      },
+      {
+        "title": "¿Cuándo es oscura?",
+        "icon": "🧭",
+        "color": "purple",
+        "items": [
+          "al <b>final</b>: ball, school",
+          "antes de <b>consonante</b>: milk, help",
+          "en <b>-le</b>, <b>-al</b>: apple, animal"
+        ]
+      },
+      {
+        "title": "Truco «Brasiu»",
+        "icon": "⚽",
+        "color": "orange",
+        "html": "Un brasileño dice <b>Brasil</b> como «Brasi<b>u</b>». Imítalo: milk ≈ «mi<b>u</b>k», help ≈ «je<b>u</b>p»… y luego toca arriba con la punta."
+      },
+      {
+        "title": "L sin vocal",
+        "icon": "🍎",
+        "color": "pink",
+        "rows": [
+          [
+            "little",
+            "<code>lírəl</code>"
+          ],
+          [
+            "apple",
+            "<code>ǽpəl</code>"
+          ],
+          [
+            "people",
+            "<code>píipəl</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Anclas",
+        "icon": "⚓",
+        "color": "yellow",
+        "rows": [
+          [
+            "un <b>bol</b> 🥣",
+            "= ball"
+          ],
+          [
+            "una <b>col</b> 🥬",
+            "= call"
+          ],
+          [
+            "<b>béisbol</b>",
+            "= baseball"
+          ]
+        ],
+        "art": "⚾"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "people → <code>pípol</code>"
+      ],
+      "good": [
+        "<code>píipəl</code> 👥"
+      ],
+      "note": "La L final es oscura y casi sin vocal: nada de «pípol» ni «lítel»."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "⚽ ball → ____",
+          "a": "bol"
+        },
+        {
+          "q": "🍎 apple → ____",
+          "a": "ǽpəl"
+        },
+        {
+          "q": "👥 people → ____",
+          "a": "píipəl"
+        },
+        {
+          "q": "🤏 little → ____",
+          "a": "lírəl"
+        },
+        {
+          "q": "🏫 school → ____",
+          "a": "skuul"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la L oscura?",
+      "title_en": "What is the dark L?",
+      "icon": "🔎",
+      "es": "En español la L es siempre <b>clara</b>: la de «<b>l</b>una» o «so<b>l</b>». En inglés americano hay <b>dos</b>. Al empezar sílaba suena casi como la nuestra (<b>l</b>ight, <b>l</b>ove), pero al <b>final</b> de palabra o antes de consonante se vuelve <b>oscura</b>: la parte de atrás de la lengua sube, como si fueras a decir una «u». Por eso <b>ball</b>, <b>milk</b> o <b>people</b> suenan tan «huecos». <mark>Con una L española al final, el acento se nota al instante.</mark>",
+      "en": "Spanish has one L, always clear. American English has two: a clear L at the start of a syllable (light, love) and a dark L at the end or before a consonant (ball, milk, people), with the back of the tongue raised, almost like an «u».",
+      "formula": [
+        "*L* + vocal → clara: *l*ight",
+        "vocal + *L* → oscura: ba*ll*, mi*l*k"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "tongue",
+          "es": "<b>L clara</b>: la punta toca la encía de arriba, como en español. <b>L oscura</b>: la punta puede tocar igual, pero lo importante es que la <b>parte de atrás</b> de la lengua <b>sube</b> hacia el fondo de la boca, como al decir «u».",
+          "en": "Clear L: tongue tip up, like in Spanish. Dark L: the back of the tongue also rises, as for an «u»."
+        },
+        {
+          "part": "lips",
+          "es": "Los labios <b>no</b> se redondean: es una «u» que se hace solo con la lengua. Nada de morritos.",
+          "en": "No lip rounding: the «u» color comes from the tongue."
+        },
+        {
+          "part": "jaw",
+          "es": "Mandíbula relajada: el sonido sale «del fondo», hueco, como un eco en una cueva.",
+          "en": "Relaxed jaw: the sound comes from the back, hollow."
+        },
+        {
+          "part": "voice",
+          "es": "La garganta vibra todo el rato. La L oscura dura un pelín más que la nuestra: <b>no la cortes</b>.",
+          "en": "Your voice keeps buzzing. Don't cut the dark L short."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · L clara al empezar",
+      "title_en": "Clear L at the start",
+      "icon": "☀️",
+      "es": "Cuando la L <b>abre la sílaba</b> (va delante de vocal), es <b>clara</b> y casi igual que la española: <b>l</b>ight, <b>l</b>ove, he<b>l</b>lo, <b>l</b>emon. ¡Esta ya la sabes! <i>(En americano es un pelín más oscura que la nuestra, pero no te preocupes por eso.)</i>",
+      "en": "When L starts a syllable (before a vowel), it's clear, almost like the Spanish L.",
+      "examples": [
+        {
+          "en": "light",
+          "say": "lait",
+          "es": "luz",
+          "icon": "💡"
+        },
+        {
+          "en": "love",
+          "say": "lav",
+          "es": "amor / encantar",
+          "icon": "❤️"
+        },
+        {
+          "en": "hello",
+          "say": "jəlóu",
+          "es": "hola",
+          "icon": "👋"
+        },
+        {
+          "en": "lemon",
+          "say": "lémən",
+          "es": "limón",
+          "icon": "🍋"
+        },
+        {
+          "en": "yellow",
+          "say": "iélou",
+          "es": "amarillo",
+          "icon": "💛"
+        },
+        {
+          "en": "lion",
+          "say": "láiən",
+          "es": "león",
+          "icon": "🦁"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · L oscura al final",
+      "title_en": "Dark L at the end",
+      "icon": "🌑",
+      "es": "Cuando la L <b>cierra la sílaba</b> (al final de palabra o antes de consonante), se vuelve <b>oscura</b>: la lengua se va hacia atrás y suena hueca, con sabor a u. Es la L de ba<b>ll</b>, schoo<b>l</b>, fee<b>l</b>, mi<b>l</b>k, he<b>l</b>p y wor<b>l</b>d. En la figurada la seguimos escribiendo <code>l</code>, ¡pero ya sabes que es oscura!",
+      "en": "When L ends a syllable (at the end of a word or before a consonant), it's dark: the tongue pulls back and it sounds hollow, almost like an «u».",
+      "examples": [
+        {
+          "en": "ball",
+          "say": "bol",
+          "es": "pelota",
+          "icon": "⚽"
+        },
+        {
+          "en": "school",
+          "say": "skuul",
+          "es": "colegio",
+          "icon": "🏫"
+        },
+        {
+          "en": "feel",
+          "say": "fiil",
+          "es": "sentir",
+          "icon": "🤗"
+        },
+        {
+          "en": "milk",
+          "say": "milk",
+          "es": "leche",
+          "icon": "🥛"
+        },
+        {
+          "en": "help",
+          "say": "jelp",
+          "es": "ayuda / ayudar",
+          "icon": "🆘"
+        },
+        {
+          "en": "cold",
+          "say": "kould",
+          "es": "frío",
+          "icon": "🥶"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · El truco «Brasiu»",
+      "title_en": "The «Brasiu» trick",
+      "icon": "⚽",
+      "es": "¿Sabes cómo dicen los brasileños «Brasil»? ¡«Brasi<b>u</b>»! Convierten la L final en una u. El americano se queda <b>a medio camino</b>. Para empezar, haz como ellos: milk ≈ «mi<b>u</b>k», help ≈ «je<b>u</b>p». Cuando te salga, apoya además la punta de la lengua arriba, sin perder ese «fondo» de u. ¡Ya tienes una L oscura de verdad!",
+      "en": "Brazilians say «Brasil» as «Brasiu». Start like them (milk ≈ «miuk»), then add a light touch of the tongue tip: that's a real dark L.",
+      "formula": [
+        "Brasi*l* → Brasi*u*",
+        "mi*l*k → «mi*u*k» → *milk* (punta arriba)"
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Tras vocal larga, una ə de regalo",
+      "title_en": "After a long vowel: a hidden schwa",
+      "icon": "🎁",
+      "es": "Después de vocales largas y diptongos (<code>ii</code>, <code>ei</code>, <code>ai</code>, <code>oi</code>, <code>uu</code>), la lengua viaja tanto hacia atrás que aparece una <b>mini ə</b> antes de la L: feel suena casi «fíi-əl»; smile, «smái-əl»; school, «skúu-əl». No es una sílaba entera, es un deslizamiento. Si dices «fil» rapidito, ¡suena a fill (llenar)!",
+      "en": "After long vowels and diphthongs, a tiny schwa slips in before the dark L: feel ≈ «fee-uhl», smile ≈ «smy-uhl».",
+      "examples": [
+        {
+          "en": "feel",
+          "say": "fiil",
+          "es": "sentir",
+          "icon": "🤗"
+        },
+        {
+          "en": "real",
+          "say": "riil",
+          "es": "real / de verdad",
+          "icon": "✔️"
+        },
+        {
+          "en": "smile",
+          "say": "smail",
+          "es": "sonrisa / sonreír",
+          "icon": "😊"
+        },
+        {
+          "en": "mail",
+          "say": "meil",
+          "es": "correo",
+          "icon": "📬"
+        },
+        {
+          "en": "cool",
+          "say": "kuul",
+          "es": "guay / fresco",
+          "icon": "😎"
+        },
+        {
+          "en": "oil",
+          "say": "oil",
+          "es": "aceite",
+          "icon": "🫒"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · L sin vocal (L silábica)",
+      "title_en": "Syllabic L",
+      "icon": "🍎",
+      "es": "En las terminaciones sin acento <b>-le</b>, <b>-al</b>, <b>-el</b>, <b>-il</b>, la L se come la vocal y forma ella sola una sílaba: apple = <code>ǽpəl</code>, casi «ǽp-l». La ə es tan corta que casi no existe. Nada de «a-pel» ni «a-pol». Y si delante hay una T o una D, ¡suena r! (little = <code>lírəl</code>, mapa C-02)",
+      "en": "In unstressed -le, -al, -el, -il, the L becomes its own syllable with almost no vowel: apple ≈ «ap-l», little ≈ «lirl».",
+      "formula": [
+        "ap + *ple* → ǽp*əl*",
+        "lit + *tle* → lír*əl*"
+      ],
+      "examples": [
+        {
+          "en": "apple",
+          "say": "ǽpəl",
+          "es": "manzana",
+          "icon": "🍎"
+        },
+        {
+          "en": "little",
+          "say": "lírəl",
+          "es": "pequeño",
+          "icon": "🤏"
+        },
+        {
+          "en": "bottle",
+          "say": "bárəl",
+          "es": "botella",
+          "icon": "🍼"
+        },
+        {
+          "en": "table",
+          "say": "téibəl",
+          "es": "mesa",
+          "icon": "🍽️"
+        },
+        {
+          "en": "people",
+          "say": "píipəl",
+          "es": "gente",
+          "icon": "👥"
+        },
+        {
+          "en": "pencil",
+          "say": "pénsəl",
+          "es": "lápiz",
+          "icon": "✏️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · El jefe final: girl y world",
+      "title_en": "The final boss: girl and world",
+      "icon": "👾",
+      "es": "R americana + L oscura juntas: <b>girl</b>, <b>world</b>, <b>curl</b>. La lengua va de la R (atrás, sin tocar) a la L sin vocal en medio… ¡pero casi! Truco: di <code>guer</code> + una mini «əl»: «guér-əl», cada vez más rápido, hasta que se funda en una sola sílaba. Para world: «wér-əl-d». <i>(La vocal de bird la tienes en el mapa V-09.)</i>",
+      "en": "R + dark L together (girl, world) is the final boss. Say «gur» + a tiny «uhl», faster and faster until it's one syllable.",
+      "examples": [
+        {
+          "en": "girl",
+          "say": "guerl",
+          "es": "chica",
+          "icon": "👧"
+        },
+        {
+          "en": "world",
+          "say": "werld",
+          "es": "mundo",
+          "icon": "🌍"
+        },
+        {
+          "en": "curl",
+          "say": "kerl",
+          "es": "rizo",
+          "icon": "🌀"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "ball",
+          "ipa": "bɔl",
+          "say": "bol",
+          "es": "pelota",
+          "icon": "⚽",
+          "anchor": "un <b>bol</b> 🥣",
+          "tip": "Como el bol de los cereales… con la lengua hacia atrás al final."
+        },
+        {
+          "en": "call",
+          "ipa": "kɔl",
+          "say": "kol",
+          "es": "llamar",
+          "icon": "📞",
+          "anchor": "una <b>col</b> 🥬",
+          "tip": "¡Una col al teléfono! Muchos americanos dicen también <code>kal</code>."
+        },
+        {
+          "en": "doll",
+          "ipa": "dɑl",
+          "say": "dal",
+          "es": "muñeca",
+          "icon": "🪆",
+          "anchor": "<b>dál</b>mata 🐶",
+          "tip": "Quédate con «dál» de «dálmata»: doll. L oscura al final."
+        },
+        {
+          "en": "milk",
+          "ipa": "mɪlk",
+          "say": "milk",
+          "es": "leche",
+          "icon": "🥛",
+          "anchor": "<b>mil</b> 🔢 + k",
+          "tip": "«Mil» + k, con la L oscura: casi «miuk»."
+        },
+        {
+          "en": "help",
+          "ipa": "hɛlp",
+          "say": "jelp",
+          "es": "ayuda",
+          "icon": "🆘",
+          "anchor": "<b>gel</b> 🧴 + p",
+          "tip": "Con j suave, de vaho (no de jota fuerte). Casi «jeup»."
+        },
+        {
+          "en": "pool",
+          "ipa": "puːl",
+          "say": "puul",
+          "es": "piscina",
+          "icon": "🏊",
+          "anchor": "<b>pul</b>po 🐙",
+          "tip": "Un pulpo en la piscina: quédate con «pul» y alarga la u."
+        },
+        {
+          "en": "baseball",
+          "ipa": "ˈbeɪsbɔl",
+          "say": "béisbol",
+          "es": "béisbol",
+          "icon": "⚾",
+          "anchor": "<b>béisbol</b> 🧢",
+          "tip": "¡Es nuestra palabra! Solo cambia la L del final: oscura."
+        },
+        {
+          "en": "football",
+          "ipa": "ˈfʊtbɔl",
+          "say": "fútbol",
+          "es": "fútbol americano",
+          "icon": "🏈",
+          "anchor": "<b>fútbol</b> ⚽",
+          "tip": "Suena como nuestro «fútbol», con L oscura… ¡pero en EE. UU. es el americano! El nuestro es soccer."
+        },
+        {
+          "en": "film",
+          "ipa": "fɪlm",
+          "say": "film",
+          "es": "película",
+          "icon": "🎬",
+          "anchor": "un <b>film</b> 🎞️",
+          "tip": "Ya la usas. Oscurece la L: casi «fium». (Los americanos dicen más movie.)"
+        },
+        {
+          "en": "hotel",
+          "ipa": "hoʊˈtɛl",
+          "say": "joutél",
+          "es": "hotel",
+          "icon": "🏨",
+          "anchor": "ho<b>tel</b> 🛎️",
+          "tip": "La fuerza va en el mismo sitio que en español… con h suave y L oscura."
+        },
+        {
+          "en": "Brazil",
+          "ipa": "brəˈzɪl",
+          "say": "brəsíl",
+          "es": "Brasil",
+          "icon": "🌎",
+          "anchor": "«Bra<b>siu</b>» 🗣️",
+          "tip": "Un brasileño diría «Brasiu». El americano, brəSÍL con L oscura: a medio camino."
+        },
+        {
+          "en": "people",
+          "ipa": "ˈpiːpəl",
+          "say": "píipəl",
+          "es": "gente",
+          "icon": "👥",
+          "anchor": "<s>pípol</s> → <b>PÍI</b>pəl",
+          "tip": "Nada de «pípol»: alarga la i y di la L final casi sin vocal."
+        },
+        {
+          "en": "little",
+          "ipa": "ˈlɪɾəl",
+          "say": "lírəl",
+          "es": "pequeño",
+          "icon": "🤏",
+          "anchor": "<s>lítel</s> → <b>LÍ</b>rəl",
+          "tip": "Dos L distintas: la primera clara, la última oscura. Y la T suena r (mapa C-02)."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "people",
+          "es": "gente"
+        },
+        {
+          "q": "milk",
+          "es": "leche"
+        },
+        {
+          "q": "little",
+          "es": "pequeño"
+        },
+        {
+          "q": "school",
+          "es": "colegio"
+        },
+        {
+          "q": "world",
+          "es": "mundo"
+        },
+        {
+          "q": "girl",
+          "es": "chica"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Clara u oscura?",
+      "title_en": "Clear or dark?",
+      "icon": "🧭",
+      "head": [
+        "Palabra · Word",
+        "¿Dónde está la L?",
+        "¿Qué L?",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "light",
+          "al principio, delante de vocal",
+          "☀️ clara",
+          "<code>lait</code>"
+        ],
+        [
+          "hello",
+          "abre la sílaba fuerte (he-LLO)",
+          "☀️ clara",
+          "<code>jəlóu</code>"
+        ],
+        [
+          "ball",
+          "al final",
+          "🌑 oscura",
+          "<code>bol</code>"
+        ],
+        [
+          "milk",
+          "antes de consonante",
+          "🌑 oscura",
+          "<code>milk</code>"
+        ],
+        [
+          "feel",
+          "al final, tras vocal larga",
+          "🌑 oscura (+ mini ə)",
+          "<code>fiil</code>"
+        ],
+        [
+          "apple",
+          "terminación -le sin acento",
+          "🌑 oscura y sin vocal",
+          "<code>ǽpəl</code>"
+        ],
+        [
+          "little",
+          "una al principio y otra al final",
+          "☀️ + 🌑",
+          "<code>lírəl</code>"
+        ],
+        [
+          "help",
+          "antes de consonante",
+          "🌑 oscura",
+          "<code>jelp</code>"
+        ],
+        [
+          "walk",
+          "¡no suena!",
+          "🙊 muda",
+          "<code>wok</code>"
+        ]
+      ],
+      "note": "La regla de oro: <b>L + vocal = clara</b>; <b>vocal + L</b> (al final o antes de consonante) <b>= oscura</b>. Y ojo: en walk, talk, could o half, la L ni siquiera suena (mapa C-15).",
+      "note_en": "Golden rule: L + vowel = clear; vowel + L (at the end or before a consonant) = dark. In walk or could, the L is silent."
+    },
+    {
+      "t": "pairs",
+      "title": "¡Que no desaparezca!",
+      "title_en": "Don't drop the L",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "goal",
+            "ipa": "ɡoʊl",
+            "say": "goul",
+            "es": "gol / meta",
+            "icon": "🥅"
+          },
+          "b": {
+            "en": "go",
+            "ipa": "ɡoʊ",
+            "say": "gou",
+            "es": "ir",
+            "icon": "🏃"
+          },
+          "tip": "Si conviertes la L en u del todo, goal suena go. ¡Que se note la L!"
+        },
+        {
+          "a": {
+            "en": "cold",
+            "ipa": "koʊld",
+            "say": "kould",
+            "es": "frío",
+            "icon": "🥶"
+          },
+          "b": {
+            "en": "code",
+            "ipa": "koʊd",
+            "say": "koud",
+            "es": "código",
+            "icon": "💻"
+          },
+          "tip": "La L oscura va justo antes de la d: «kóu-ld»."
+        },
+        {
+          "a": {
+            "en": "wild",
+            "ipa": "waɪld",
+            "say": "waild",
+            "es": "salvaje",
+            "icon": "🦁"
+          },
+          "b": {
+            "en": "wide",
+            "ipa": "waɪd",
+            "say": "waid",
+            "es": "ancho",
+            "icon": "↔️"
+          },
+          "tip": "Wild lleva la mini ə: casi «wái-əld»."
+        },
+        {
+          "a": {
+            "en": "ball",
+            "ipa": "bɔl",
+            "say": "bol",
+            "es": "pelota",
+            "icon": "⚽"
+          },
+          "b": {
+            "en": "bowl",
+            "ipa": "boʊl",
+            "say": "boul",
+            "es": "cuenco (bol)",
+            "icon": "🥣"
+          },
+          "tip": "¡Trampa! Nuestro «bol» suena a ball (pelota). El cuenco es bowl, con «ou»."
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "I will",
+          "spoken": "I'll",
+          "say": "ail",
+          "es": "yo + futuro (I'll call you = te llamo)"
+        },
+        {
+          "written": "We will",
+          "spoken": "We'll",
+          "say": "wiil",
+          "es": "nosotros + futuro"
+        },
+        {
+          "written": "It will be fine.",
+          "spoken": "It'll be fine.",
+          "say": "írəl bi fáin",
+          "es": "Saldrá bien.",
+          "yg": "it'll be fine"
+        },
+        {
+          "written": "All right!",
+          "spoken": "Alright!",
+          "say": "olráit",
+          "es": "¡Vale! / ¡De acuerdo!"
+        },
+        {
+          "written": "Call me later.",
+          "spoken": "Call me later.",
+          "say": "kol mi léirer",
+          "es": "Llámame luego."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I love my little school.",
+          "say": "ai lav mai lírəl skuul",
+          "es": "Me encanta mi pequeño colegio.",
+          "icon": "🏫"
+        },
+        {
+          "en": "Can you help me?",
+          "say": "kən iu jelp mi?",
+          "es": "¿Me puedes ayudar?",
+          "icon": "🆘"
+        },
+        {
+          "en": "A glass of cold milk, please.",
+          "say": "ə glæs əv kould milk, pliis",
+          "es": "Un vaso de leche fría, por favor.",
+          "icon": "🥛"
+        },
+        {
+          "en": "Call me at twelve.",
+          "say": "kol mi ət twelv",
+          "es": "Llámame a las doce.",
+          "icon": "📞"
+        },
+        {
+          "en": "People all over the world.",
+          "say": "píipəl ol óuver də werld",
+          "es": "Gente de todo el mundo.",
+          "icon": "🌍"
+        },
+        {
+          "en": "The ball is in the hall.",
+          "say": "də bol is in də jol",
+          "es": "La pelota está en el pasillo.",
+          "icon": "⚽"
+        },
+        {
+          "en": "I'll tell you a little secret.",
+          "say": "ail tel iu ə lírəl síikrit",
+          "es": "Te voy a contar un secretito.",
+          "icon": "🤫"
+        },
+        {
+          "en": "An apple a day.",
+          "say": "ən ǽpəl ə dei",
+          "es": "Una manzana al día.",
+          "icon": "🍎"
+        },
+        {
+          "en": "Jenny has a purple bottle.",
+          "say": "yéni jæs ə pérpəl bárəl",
+          "es": "Jenny tiene una botella morada.",
+          "icon": "🍼"
+        },
+        {
+          "en": "Rocky is a cool dog.",
+          "say": "ráki isə kuul dog",
+          "es": "Rocky es un perro guay.",
+          "icon": "🐶"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "ball con la L de «lata»",
+          "good": "<code>bol</code> con L oscura",
+          "why": "La lengua tiene que irse hacia atrás al final. Piensa en «Brasiu».",
+          "why_en": "Pull the back of your tongue up at the end."
+        },
+        {
+          "bad": "people → <code>pípol</code>",
+          "good": "<code>píipəl</code>",
+          "why": "La i es larga y la L final casi no lleva vocal.",
+          "why_en": "Long i, and almost no vowel before the L."
+        },
+        {
+          "bad": "little → <code>lítel</code>",
+          "good": "<code>lírəl</code>",
+          "why": "T que suena r y L final oscura, sin e.",
+          "why_en": "Flap T and a dark syllabic L."
+        },
+        {
+          "bad": "apple → <code>apél</code>",
+          "good": "<code>ǽpəl</code>",
+          "why": "La fuerza va en la A y la L se come la vocal: ǼP-əl.",
+          "why_en": "Stress the first syllable; the L swallows the vowel."
+        },
+        {
+          "bad": "goal → <code>gou</code>",
+          "good": "<code>goul</code>",
+          "why": "¡No te pases de brasileño! Si la L desaparece, dices go.",
+          "why_en": "Don't drop the L completely."
+        },
+        {
+          "bad": "feel → <code>fil</code>",
+          "good": "<code>fiil</code>",
+          "why": "Alarga la i y deja que salga la mini ə: «fíi-əl». Si no, dices fill.",
+          "why_en": "Long i plus a tiny schwa, or it sounds like fill."
+        },
+        {
+          "bad": "world → <code>guórld</code>",
+          "good": "<code>werld</code>",
+          "why": "Sin g, con la vocal de bird (mapa V-09) y la L oscura antes de la d.",
+          "why_en": "No g; the vowel of bird, then a dark L."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el partido de béisbol",
+      "title_en": "At the baseball game",
+      "lines": [
+        {
+          "who": "Tyler",
+          "en": "Hello, Mario! Do you like baseball?",
+          "say": "jəlóu, mário! du iu laik béisbol?",
+          "es": "¡Hola, Mario! ¿Te gusta el béisbol?"
+        },
+        {
+          "who": "Mario",
+          "en": "I don't know. I only play football.",
+          "say": "ai dount nóu. ai óunli plei fútbol",
+          "es": "No sé. Yo solo juego al fútbol."
+        },
+        {
+          "who": "Tyler",
+          "en": "Football? You mean soccer! Look, a ball!",
+          "say": "fútbol? iu miin sáker! luk, ə bol!",
+          "es": "¿Fútbol? ¡Querrás decir soccer! ¡Mira, una pelota!"
+        },
+        {
+          "who": "Mario",
+          "en": "Wow! It almost hit the wall!",
+          "say": "wau! it ólmoust jit də wol!",
+          "es": "¡Hala! ¡Casi da en la pared!"
+        },
+        {
+          "who": "Tyler",
+          "en": "Everybody is yelling. It's a home run!",
+          "say": "évribari is iéling. its ə jóum ran!",
+          "es": "Todo el mundo está gritando. ¡Es un home run!"
+        },
+        {
+          "who": "Mario",
+          "en": "I feel cold. Can I have some hot milk?",
+          "say": "ai fiil kould. kən ai jæv səm jat milk?",
+          "es": "Tengo frío. ¿Me tomo una leche calentita?"
+        },
+        {
+          "who": "Tyler",
+          "en": "Sure! And a little pretzel?",
+          "say": "shur! ənd ə lírəl prétsəl?",
+          "es": "¡Claro! ¿Y un pretzel pequeñito?"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes, please! This is so cool!",
+          "say": "iés, pliis! dis is sou kuul!",
+          "es": "¡Sí, por favor! ¡Esto es muy guay!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di «Brasil» como un brasileño: «Brasi<b>u</b>». Esa u final es la pista de la L oscura.",
+          "en": "Say «Brasil» like a Brazilian: «Brasiu»."
+        },
+        {
+          "es": "Practica con la u: «mi-uk», «je-up», «sku-ul». Nota cómo <b>sube la parte de atrás</b> de la lengua.",
+          "en": "Practice with the u: «mi-uk», «je-up». Feel the back of your tongue rise."
+        },
+        {
+          "es": "Sin perder ese fondo de u, apoya la punta arriba: <code>milk</code>, <code>jelp</code>, <code>skuul</code>.",
+          "en": "Keep that u color and touch the tip up: milk, help, school."
+        },
+        {
+          "es": "Pasa a la L sin vocal: «ǽp-l», «píip-l», «lír-l»… <code>ǽpəl</code>, <code>píipəl</code>, <code>lírəl</code>.",
+          "en": "Now the syllabic L: apple, people, little."
+        },
+        {
+          "es": "Escanea los QR, escucha 3 vídeos de «people» y <b>grábate</b> diciendo «People all over the world». Compara.",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Little Lily's yellow ball fell in the pool.",
+          "say": "lírəl lílis iélou bol fel in də puul",
+          "es": "La pelota amarilla de la pequeña Lily se cayó a la piscina."
+        },
+        {
+          "en": "Tell Bill to fill the bottle with cold milk.",
+          "say": "tel bil tə fil də bárəl wid kould milk",
+          "es": "Dile a Bill que llene la botella de leche fría."
+        },
+        {
+          "en": "People feel well when they smile.",
+          "say": "píipəl fiil wel wen dei smail",
+          "es": "La gente se siente bien cuando sonríe."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Piensa en Brasil",
+      "title_en": "Think of Brazil",
+      "es": "Cada vez que una palabra <b>acabe en L</b> (o tenga una L antes de consonante), piensa en un brasileño diciendo «Brasiu» ⚽: lengua atrás, sabor a u… y la punta arriba al final. Al principio de palabra, tranquilo: tu L de «<b>l</b>una» funciona. <mark>L clara para abrir, L oscura para cerrar.</mark>",
+      "en": "Whenever a word ends in L, think of a Brazilian saying «Brasiu»: tongue back, a hint of u. Clear L to open, dark L to close."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Clara u oscura?",
+      "title_en": "Clear or dark?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea cómo es su L.",
+      "en": "Say the word and circle the kind of L.",
+      "items": [
+        {
+          "q": "light → [clara|oscura]",
+          "a": "clara"
+        },
+        {
+          "q": "ball → [clara|oscura]",
+          "a": "oscura"
+        },
+        {
+          "q": "love → [clara|oscura]",
+          "a": "clara"
+        },
+        {
+          "q": "milk → [clara|oscura]",
+          "a": "oscura"
+        },
+        {
+          "q": "hello → [clara|oscura]",
+          "a": "clara"
+        },
+        {
+          "q": "school → [clara|oscura]",
+          "a": "oscura"
+        },
+        {
+          "q": "lemon → [clara|oscura]",
+          "a": "clara"
+        },
+        {
+          "q": "help → [clara|oscura]",
+          "a": "oscura"
+        },
+        {
+          "q": "yellow → [clara|oscura]",
+          "a": "clara"
+        },
+        {
+          "q": "apple → [clara|oscura]",
+          "a": "oscura"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "☀️ L clara",
+          "words": [
+            "light",
+            "love",
+            "lemon",
+            "hello",
+            "yellow",
+            "lion",
+            "color",
+            "believe"
+          ]
+        },
+        {
+          "name": "🌑 L oscura",
+          "words": [
+            "ball",
+            "milk",
+            "feel",
+            "help",
+            "school",
+            "world",
+            "girl",
+            "cold"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "people",
+          "<code>píipəl</code>"
+        ],
+        [
+          "apple",
+          "<code>ǽpəl</code>"
+        ],
+        [
+          "little",
+          "<code>lírəl</code>"
+        ],
+        [
+          "bottle",
+          "<code>bárəl</code>"
+        ],
+        [
+          "school",
+          "<code>skuul</code>"
+        ],
+        [
+          "help",
+          "<code>jelp</code>"
+        ],
+        [
+          "world",
+          "<code>werld</code>"
+        ],
+        [
+          "ball",
+          "<code>bol</code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Pon tilde en la sílaba fuerte y usa <b>əl</b> para la L sin vocal.",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "🍽️ table → ____",
+          "a": "téibəl"
+        },
+        {
+          "q": "✏️ pencil → ____",
+          "a": "pénsəl"
+        },
+        {
+          "q": "🟣 purple → ____",
+          "a": "pérpəl"
+        },
+        {
+          "q": "🏊 pool → ____",
+          "a": "puul"
+        },
+        {
+          "q": "📞 call → ____",
+          "a": "kol"
+        },
+        {
+          "q": "🥶 cold → ____",
+          "a": "kould"
+        },
+        {
+          "q": "😊 smile → ____",
+          "a": "smail"
+        },
+        {
+          "q": "🦁 animal → ____",
+          "a": "ǽnəməl"
+        },
+        {
+          "q": "🏨 hotel → ____",
+          "a": "joutél"
+        },
+        {
+          "q": "🌍 world → ____",
+          "a": "werld"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "En inglés americano, ¿estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "In American English, do they sound the same or different?",
+      "items": [
+        {
+          "q": "goal · go → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "cold · code → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "wild · wide → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "ball · bowl → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "feel · fill → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "whole · hole → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "role · roll → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "steal · steel → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "film · firm → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "mail · male → [igual|diferente]",
+          "a": "igual"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "The Spanish L is dark, like in «ball».",
+          "a": false,
+          "why": "la L española es siempre clara"
+        },
+        {
+          "q": "The L in «light» is clear.",
+          "a": true
+        },
+        {
+          "q": "The L in «milk» is dark.",
+          "a": true
+        },
+        {
+          "q": "For the dark L, the back of the tongue goes up.",
+          "a": true
+        },
+        {
+          "q": "In «apple», you say a clear «e» before the L: «a-pel».",
+          "a": false,
+          "why": "casi sin vocal: <code>ǽpəl</code>"
+        },
+        {
+          "q": "Brazilians say «Brasil» almost like «Brasiu».",
+          "a": true
+        },
+        {
+          "q": "«Goal» and «go» sound the same.",
+          "a": false,
+          "why": "goal lleva L: <code>goul</code>"
+        },
+        {
+          "q": "You round your lips for the dark L.",
+          "a": false,
+          "why": "la u se hace con la lengua, no con los labios"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Fíjate: las terminaciones -le, -al, -el sin vocal casi nunca llevan el golpe.",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "ap",
+            "ple"
+          ],
+          "s": 0,
+          "es": "manzana"
+        },
+        {
+          "syl": [
+            "lit",
+            "tle"
+          ],
+          "s": 0,
+          "es": "pequeño"
+        },
+        {
+          "syl": [
+            "peo",
+            "ple"
+          ],
+          "s": 0,
+          "es": "gente"
+        },
+        {
+          "syl": [
+            "an",
+            "i",
+            "mal"
+          ],
+          "s": 0,
+          "es": "animal"
+        },
+        {
+          "syl": [
+            "hos",
+            "pi",
+            "tal"
+          ],
+          "s": 0,
+          "es": "hospital"
+        },
+        {
+          "syl": [
+            "ho",
+            "tel"
+          ],
+          "s": 1,
+          "es": "hotel"
+        },
+        {
+          "syl": [
+            "un",
+            "til"
+          ],
+          "s": 1,
+          "es": "hasta"
+        },
+        {
+          "syl": [
+            "cam",
+            "el"
+          ],
+          "s": 0,
+          "es": "camello"
+        },
+        {
+          "syl": [
+            "tun",
+            "nel"
+          ],
+          "s": 0,
+          "es": "túnel"
+        },
+        {
+          "syl": [
+            "Bra",
+            "zil"
+          ],
+          "s": 1,
+          "es": "Brasil"
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "¿Cómo se escribe?",
+      "title_en": "Spell it",
+      "icon": "🔤",
+      "es": "Escribe la palabra en inglés. Todas tienen una L oscura.",
+      "en": "Write the English word. They all have a dark L.",
+      "items": [
+        {
+          "q": "🍎 manzana",
+          "a": "apple"
+        },
+        {
+          "q": "👥 gente",
+          "a": "people"
+        },
+        {
+          "q": "🥛 leche",
+          "a": "milk"
+        },
+        {
+          "q": "⚽ pelota",
+          "a": "ball"
+        },
+        {
+          "q": "🏫 colegio",
+          "a": "school"
+        },
+        {
+          "q": "🌍 mundo",
+          "a": "world"
+        },
+        {
+          "q": "👧 chica",
+          "a": "girl"
+        },
+        {
+          "q": "🍼 botella",
+          "a": "bottle"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "people → <code>pípol</code>",
+          "a": "píipəl"
+        },
+        {
+          "q": "little → <code>lítel</code>",
+          "a": "lírəl"
+        },
+        {
+          "q": "apple → <code>apél</code>",
+          "a": "ǽpəl"
+        },
+        {
+          "q": "goal → <code>gou</code>",
+          "a": "goul"
+        },
+        {
+          "q": "feel → <code>fil</code>",
+          "a": "fiil"
+        },
+        {
+          "q": "world → <code>guórld</code>",
+          "a": "werld"
+        },
+        {
+          "q": "hotel → <code>jóutel</code>",
+          "a": "joutél"
+        },
+        {
+          "q": "bottle → <code>bótel</code>",
+          "a": "bárəl"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Hello, little girl!",
+          "say": "jəlóu, lírəl guerl!"
+        },
+        {
+          "q": "Call me later.",
+          "say": "kol mi léirer"
+        },
+        {
+          "q": "I feel cool.",
+          "say": "ai fiil kuul"
+        },
+        {
+          "q": "A bottle of cold milk.",
+          "say": "ə bárələv kould milk"
+        },
+        {
+          "q": "People all over the world.",
+          "say": "píipəl ol óuver də werld"
+        },
+        {
+          "q": "Help! The ball is in the pool!",
+          "say": "jelp! də bol is in də puul!"
+        },
+        {
+          "q": "An apple for the teacher.",
+          "say": "ən ǽpəl fər də tíicher"
+        },
+        {
+          "q": "Little Lily's yellow ball fell in the pool.",
+          "say": "lírəl lílis iélou bol fel in də puul"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con la L oscura.",
+      "en": "Translate into English and say it with a dark L.",
+      "items": [
+        {
+          "q": "pelota",
+          "a": "ball (bol)"
+        },
+        {
+          "q": "leche",
+          "a": "milk (milk)"
+        },
+        {
+          "q": "ayuda",
+          "a": "help (jelp)"
+        },
+        {
+          "q": "gente",
+          "a": "people (píipəl)"
+        },
+        {
+          "q": "manzana",
+          "a": "apple (ǽpəl)"
+        },
+        {
+          "q": "colegio",
+          "a": "school (skuul)"
+        },
+        {
+          "q": "mundo",
+          "a": "world (werld)"
+        },
+        {
+          "q": "frío",
+          "a": "cold (kould)"
+        },
+        {
+          "q": "pequeño",
+          "a": "little (lírəl)"
+        },
+        {
+          "q": "mesa",
+          "a": "table (téibəl)"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «L» escribe clara u oscura.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "L"
+      ],
+      "rows": [
+        [
+          "light",
+          "luz",
+          "?lait",
+          "?clara"
+        ],
+        [
+          "?ball",
+          "pelota",
+          "bol",
+          "oscura"
+        ],
+        [
+          "milk",
+          "?leche",
+          "milk",
+          "?oscura"
+        ],
+        [
+          "?lemon",
+          "limón",
+          "lémən",
+          "?clara"
+        ],
+        [
+          "apple",
+          "?manzana",
+          "?ǽpəl",
+          "oscura"
+        ],
+        [
+          "?people",
+          "gente",
+          "?píipəl",
+          "oscura"
+        ],
+        [
+          "hello",
+          "?hola",
+          "jəlóu",
+          "?clara"
+        ],
+        [
+          "school",
+          "colegio",
+          "?skuul",
+          "?oscura"
+        ]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de L oscuras",
+      "title_en": "Dark L word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con L oscura. Dila en voz alta, lengua atrás, cada vez que encuentres una.",
+      "en": "Find 10 words with a dark L.",
+      "words": [
+        "ball",
+        "milk",
+        "school",
+        "people",
+        "apple",
+        "little",
+        "bottle",
+        "girl",
+        "world",
+        "help"
+      ],
+      "clues": [
+        "ball · pelota",
+        "milk · leche",
+        "school · colegio",
+        "people · gente",
+        "apple · manzana",
+        "little · pequeño",
+        "bottle · botella",
+        "girl · chica",
+        "world · mundo",
+        "help · ayuda"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Paul's Little Hotel",
+      "text": [
+        "Paul has a little hotel near the hills. It's small, but people from all over the world love it.",
+        "Every morning, Paul helps in the kitchen. He makes apple pancakes and serves cold milk. «It's a simple life,» he says with a smile, «but I feel very well.»"
+      ],
+      "items": [
+        {
+          "q": "Where is Paul's hotel?",
+          "a": "Near the hills (<code>jils</code>)."
+        },
+        {
+          "q": "Find four words with a dark L.",
+          "a": "Paul, hotel, hills, small, all, world, helps, apple, cold, milk, simple, smile, feel, well (cualquiera)."
+        },
+        {
+          "q": "Find two words with a clear L.",
+          "a": "little (la 1.ª L), love, life (cualquiera)."
+        },
+        {
+          "q": "Paul's hotel is very big.",
+          "tf": true,
+          "a": false,
+          "why": "es pequeño (little, small)"
+        },
+        {
+          "q": "In «simple», the L makes its own syllable.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "«Milk» has a clear L.",
+          "tf": true,
+          "a": false,
+          "why": "oscura: va antes de consonante"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con L oscura. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with dark L words and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con tres palabras con L oscura (ball, milk, school…).",
+          "lines": 2,
+          "a": "Ej.: I drink cold milk at school."
+        },
+        {
+          "q": "Una frase con apple, little o people.",
+          "lines": 2,
+          "a": "Ej.: Little people love apples."
+        },
+        {
+          "q": "Una frase sobre deporte (football, baseball, ball…).",
+          "lines": 2,
+          "a": "Ej.: I play football with a yellow ball."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Distingo la L <b>clara</b> (light) de la L <b>oscura</b> (ball).",
+      "en": "I can tell a clear L from a dark L."
+    },
+    {
+      "es": "Digo la L final con la lengua atrás, como en «Brasiu»: <code>milk</code>, <code>skuul</code>.",
+      "en": "I can say a dark L at the end."
+    },
+    {
+      "es": "Digo <b>people</b>, <b>apple</b> y <b>little</b> casi sin vocal antes de la L.",
+      "en": "I can say the syllabic L."
+    },
+    {
+      "es": "No me paso: goal no suena go.",
+      "en": "I don't drop the L completely."
+    },
+    {
+      "es": "Me atrevo con el jefe final: <b>girl</b> y <b>world</b>.",
+      "en": "I can say girl and world."
+    },
+    {
+      "es": "Puedo leer el trabalenguas de la pelota de Lily sin trabarme.",
+      "en": "I can say the Lily tongue twister."
+    }
+  ]
+}

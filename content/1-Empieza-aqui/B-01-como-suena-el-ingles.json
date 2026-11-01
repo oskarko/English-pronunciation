@@ -1,0 +1,1774 @@
+{
+  "id": "B-01",
+  "block": "B",
+  "title": "CÓMO SUENA EL INGLÉS",
+  "file_title": "Cómo suena el inglés",
+  "subtitle": "How English sounds · empieza por aquí",
+  "icon": "👂",
+  "map": {
+    "center": "El inglés <b>no se lee como se escribe</b>: 26 letras y unos <b>40 sonidos</b>. ¡Aquí aprendes a leerlos!",
+    "listen": "hello",
+    "nodes": [
+      {
+        "title": "26 letras, 40 sonidos",
+        "icon": "🔤",
+        "color": "green",
+        "items": [
+          "una letra, varios sonidos: c<b>a</b>t, c<b>a</b>ke, c<b>a</b>r",
+          "un sonido, varias letras: s<b>ee</b>, t<b>ea</b>, m<b>e</b>",
+          "letras mudas: <b>k</b>nife, <b>w</b>rite"
+        ]
+      },
+      {
+        "title": "Las 3 claves",
+        "icon": "🔑",
+        "color": "blue",
+        "items": [
+          "<b>vocales</b> nuevas: ¡más de 15!",
+          "<b>golpe</b> fuerte y ritmo de tambor 🥁",
+          "palabras <b>pegadas</b>: got it = <code>gárit</code>"
+        ]
+      },
+      {
+        "title": "Lee la figurada",
+        "icon": "✍️",
+        "color": "purple",
+        "rows": [
+          [
+            "hello",
+            "<code>jəlóu</code>"
+          ],
+          [
+            "happy",
+            "<code>jǽpi</code>"
+          ],
+          [
+            "think",
+            "<code>zink</code>"
+          ]
+        ],
+        "after": "la <b>tilde</b> marca el golpe"
+      },
+      {
+        "title": "Anclas españolas",
+        "icon": "⚓",
+        "color": "orange",
+        "rows": [
+          [
+            "I",
+            "¡<b>ay</b>!"
+          ],
+          [
+            "boy",
+            "<b>voy</b>"
+          ],
+          [
+            "key",
+            "a<b>quí</b>"
+          ]
+        ],
+        "after": "¡palabras que <b>ya</b> sabes decir!"
+      },
+      {
+        "title": "IPA y QR",
+        "icon": "📱",
+        "color": "pink",
+        "items": [
+          "/ˈwɑɾɚ/ = el código del diccionario",
+          "escanea el <b>QR</b>: americanos de verdad 🎧"
+        ]
+      },
+      {
+        "title": "Practica así",
+        "icon": "🔁",
+        "color": "yellow",
+        "items": [
+          "1. <b>escucha</b> 👂",
+          "2. <b>imita</b> como un loro",
+          "3. <b>grábate</b> y compara 📱"
+        ],
+        "art": "🦜"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "leer letra a letra: <code>chokoláte</code>"
+      ],
+      "good": [
+        "<code>cháklət</code> 🍫"
+      ],
+      "note": "En inglés, ¡las letras engañan!"
+    },
+    "mini": {
+      "es": "Escribe la palabra inglesa:",
+      "en": "Write the English word.",
+      "items": [
+        {
+          "q": "👋 <code>jəlóu</code> → ____",
+          "a": "hello"
+        },
+        {
+          "q": "💧 <code>wárer</code> → ____",
+          "a": "water"
+        },
+        {
+          "q": "🐱 <code>kæt</code> → ____",
+          "a": "cat"
+        },
+        {
+          "q": "😊 <code>jǽpi</code> → ____",
+          "a": "happy"
+        },
+        {
+          "q": "🤔 <code>zink</code> → ____",
+          "a": "think"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Por qué el inglés «no se lee»?",
+      "title_en": "Why English isn't read as it's written",
+      "icon": "🤯",
+      "es": "En español casi todo se lee como se escribe: cada letra tiene su sonido y listo. En inglés, <mark>no</mark>. Tiene <b>26 letras</b> pero unos <b>40 sonidos</b> (24 consonantes y más de 15 vocales), así que las letras tienen que hacer «horas extra». Además, su ortografía es muy antigua: la gente fue cambiando su forma de hablar, pero no su forma de escribir. Resultado: la misma letra suena distinto en cada palabra. ¡No es culpa tuya!",
+      "en": "Spanish is mostly read as it's written. English is not: it has 26 letters but about 40 sounds, and its spelling is very old. The same letter can sound different in every word.",
+      "formula": [
+        "🇪🇸 a e i o u → *5 vocales*",
+        "🇺🇸 a e i o u → *más de 15*"
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Una letra, muchos sonidos",
+      "title_en": "One letter, many sounds",
+      "icon": "🔠",
+      "es": "Fíjate en la letra <b>A</b>: suena distinto en <b>cat</b>, <b>cake</b>, <b>car</b>, <b>ball</b>, <b>any</b> y <b>about</b>. ¡Seis sonidos para una sola letra! Por eso, en esta colección, al lado de cada palabra inglesa verás cómo <mark>suena de verdad</mark>.",
+      "en": "The letter A sounds different in cat, cake, car, ball, any and about. That's why every English word in this book comes with its real sound.",
+      "examples": [
+        {
+          "en": "cat",
+          "say": "kæt",
+          "es": "gato",
+          "icon": "🐱"
+        },
+        {
+          "en": "cake",
+          "say": "keik",
+          "es": "pastel",
+          "icon": "🎂"
+        },
+        {
+          "en": "car",
+          "say": "kar",
+          "es": "coche",
+          "icon": "🚗"
+        },
+        {
+          "en": "ball",
+          "say": "bol",
+          "es": "pelota",
+          "icon": "⚽"
+        },
+        {
+          "en": "any",
+          "say": "éni",
+          "es": "algún / cualquier",
+          "icon": "❓"
+        },
+        {
+          "en": "about",
+          "say": "əbáut",
+          "es": "sobre / acerca de",
+          "icon": "💬"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Un sonido, muchas letras",
+      "title_en": "One sound, many spellings",
+      "icon": "🎭",
+      "es": "Y al revés: el sonido <code>ii</code> (una i larga) se puede escribir de un montón de maneras: <b>ee</b> (see), <b>ea</b> (tea), <b>e</b> (me), <b>ey</b> (key), <b>ie</b> (piece) o <b>eo</b> (people). Si te fías de las letras, fallas. Si te fías del <mark>sonido</mark>, aciertas.",
+      "en": "The long sound «ii» can be spelled ee, ea, e, ey, ie or eo. Trust the sound, not the letters.",
+      "examples": [
+        {
+          "en": "see",
+          "say": "sii",
+          "es": "ver",
+          "icon": "👀"
+        },
+        {
+          "en": "tea",
+          "say": "tii",
+          "es": "té",
+          "icon": "🍵"
+        },
+        {
+          "en": "me",
+          "say": "mii",
+          "es": "me / mí",
+          "icon": "🙋"
+        },
+        {
+          "en": "key",
+          "say": "kii",
+          "es": "llave",
+          "icon": "🔑"
+        },
+        {
+          "en": "piece",
+          "say": "piis",
+          "es": "trozo",
+          "icon": "🍕"
+        },
+        {
+          "en": "people",
+          "say": "píipəl",
+          "es": "gente",
+          "icon": "👨‍👩‍👧"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Letras que no suenan",
+      "title_en": "Silent letters",
+      "icon": "🤫",
+      "es": "Muchas palabras llevan letras «fantasma»: se escriben, pero <b>no se dicen</b>. La <b>k</b> de knife, la <b>w</b> de write, la <b>h</b> de hour, la <b>l</b> de walk, la <b>b</b> de climb, la <b>t</b> de listen… En la figurada <mark>no las escribimos</mark>: knife = <code>naif</code>. Las cazarás todas en el mapa C-15.",
+      "en": "Many words have silent letters. We don't write them in the sound spelling: knife = «naif».",
+      "examples": [
+        {
+          "en": "knife",
+          "say": "naif",
+          "es": "cuchillo",
+          "icon": "🔪"
+        },
+        {
+          "en": "write",
+          "say": "rait",
+          "es": "escribir",
+          "icon": "✍️"
+        },
+        {
+          "en": "hour",
+          "say": "áuer",
+          "es": "hora",
+          "icon": "⏰"
+        },
+        {
+          "en": "walk",
+          "say": "wok",
+          "es": "caminar",
+          "icon": "🚶"
+        },
+        {
+          "en": "climb",
+          "say": "klaim",
+          "es": "escalar",
+          "icon": "🧗"
+        },
+        {
+          "en": "listen",
+          "say": "lísən",
+          "es": "escuchar",
+          "icon": "👂"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Clave 1: vocales nuevas",
+      "title_en": "Key 1: new vowels",
+      "icon": "👄",
+      "es": "El español tiene 5 vocales, siempre claras y enteras. El inglés americano tiene <b>más de 15 sonidos vocálicos</b>: largos y cortos, abiertos, perezosos, con R… Y cambiar la vocal <mark>cambia la palabra</mark>: ship (barco) no es sheep (oveja), y cap (gorra) no es cup (taza). Tranqui: los verás uno a uno en el bloque de Vocales (V-01 a V-11).",
+      "en": "Spanish has 5 vowels; American English has more than 15 vowel sounds. Change the vowel and you change the word: ship/sheep, cap/cup.",
+      "examples": [
+        {
+          "en": "sheep",
+          "say": "shiip",
+          "es": "oveja",
+          "icon": "🐑"
+        },
+        {
+          "en": "ship",
+          "say": "ship",
+          "es": "barco",
+          "icon": "🚢"
+        },
+        {
+          "en": "cap",
+          "say": "kæp",
+          "es": "gorra",
+          "icon": "🧢"
+        },
+        {
+          "en": "cup",
+          "say": "kap",
+          "es": "taza",
+          "icon": "☕"
+        },
+        {
+          "en": "bed",
+          "say": "bed",
+          "es": "cama",
+          "icon": "🛏️"
+        },
+        {
+          "en": "bird",
+          "say": "berd",
+          "es": "pájaro",
+          "icon": "🐦"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Clave 2: golpe y ritmo",
+      "title_en": "Key 2: stress and rhythm",
+      "icon": "🥁",
+      "es": "En cada palabra inglesa hay una sílaba que <b>pega fuerte</b>: más larga, más alta y más clara. Las demás se encogen. Por eso banana suena <code>bənǽnə</code>, y no «ba-na-na» con tres a iguales. En la frase pasa lo mismo: el inglés suena como un <mark>tambor</mark> (pum-pa-pum) y el español como una ametralladora (ta-ta-ta-ta). Lo verás en el bloque R.",
+      "en": "Every English word has one strong syllable; the others shrink. English sounds like a drum, Spanish like a machine gun.",
+      "formula": [
+        "ba + *NA* + na → bə*nǽ*nə"
+      ],
+      "examples": [
+        {
+          "en": "banana",
+          "say": "bənǽnə",
+          "es": "plátano",
+          "icon": "🍌"
+        },
+        {
+          "en": "hotel",
+          "say": "joutél",
+          "es": "hotel",
+          "icon": "🏨"
+        },
+        {
+          "en": "chocolate",
+          "say": "cháklət",
+          "es": "chocolate",
+          "icon": "🍫"
+        },
+        {
+          "en": "hamburger",
+          "say": "jǽmberguer",
+          "es": "hamburguesa",
+          "icon": "🍔"
+        },
+        {
+          "en": "tomato",
+          "say": "təméirou",
+          "es": "tomate",
+          "icon": "🍅"
+        },
+        {
+          "en": "animal",
+          "say": "ǽniməl",
+          "es": "animal",
+          "icon": "🐾"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · Clave 3: palabras pegadas",
+      "title_en": "Key 3: linked words",
+      "icon": "🔗",
+      "es": "Los americanos no hablan palabra… por… palabra. <b>Pegan</b> el final de una con el principio de la siguiente, como si fuera una sola: an apple = <code>ənǽpəl</code>. Si esperas oír palabras sueltas, ¡te pierdes! Lo verás en el bloque H (Habla real).",
+      "en": "Americans link words together: «an apple» sounds like one word. If you wait for separate words, you'll get lost.",
+      "examples": [
+        {
+          "en": "an apple",
+          "say": "ənǽpəl",
+          "es": "una manzana",
+          "icon": "🍎"
+        },
+        {
+          "en": "got it",
+          "say": "gárit",
+          "es": "entendido",
+          "icon": "💡"
+        },
+        {
+          "en": "come on",
+          "say": "kamán",
+          "es": "¡venga!",
+          "icon": "🙌"
+        },
+        {
+          "en": "pick it up",
+          "say": "pikiráp",
+          "es": "recógelo",
+          "icon": "🧸"
+        },
+        {
+          "en": "look at it",
+          "say": "lúkərit",
+          "es": "míralo",
+          "icon": "👀"
+        },
+        {
+          "en": "let it go",
+          "say": "lérigóu",
+          "es": "suéltalo",
+          "icon": "❄️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 7,
+      "title": "7 · Cómo leer la figurada",
+      "title_en": "How to read the sound spelling",
+      "icon": "✍️",
+      "es": "Debajo de cada palabra inglesa verás, en <b>letra roja manuscrita</b>, cómo la leería un español para que suene americana: water = <code>wárer</code>. Tres reglas de oro: <mark>la tilde marca siempre el golpe</mark> (aunque en español no la llevaría); se escribe lo que <b>suena</b>, no lo que se ve (knife = <code>naif</code>); y hay dos letras nuevas: <code>ə</code> (una e perezosa) y <code>æ</code> (una a con boca de e).",
+      "en": "Under each English word you'll see how a Spanish speaker should read it: water = «wárer». The accent mark always shows the strong syllable.",
+      "examples": [
+        {
+          "en": "water",
+          "say": "wárer",
+          "es": "agua",
+          "icon": "💧"
+        },
+        {
+          "en": "hello",
+          "say": "jəlóu",
+          "es": "hola",
+          "icon": "👋"
+        },
+        {
+          "en": "happy",
+          "say": "jǽpi",
+          "es": "feliz",
+          "icon": "😊"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 8,
+      "title": "8 · Las anclas españolas",
+      "title_en": "Spanish anchors",
+      "icon": "⚓",
+      "es": "Un <b>ancla</b> es una palabra española que ya sabes decir y que <b>esconde</b> el sonido inglés. El trozo útil va en negrita: boy = <b>voy</b>, key = a<b>quí</b>, ten = <b>ten</b>go. Di el ancla en voz alta, quédate con el trozo en negrita… ¡y ya está! A veces verás también <mark>anclas de aviso</mark>, tachadas: lo que <s>no</s> hay que decir.",
+      "en": "An anchor is a Spanish word you already know that hides the English sound: boy = «voy», key = «aquí». Say it aloud and keep the bold part."
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "La figurada: vocales",
+      "title_en": "Sound spelling: vowels",
+      "icon": "🅰️",
+      "head": [
+        "Ves · You see",
+        "Sonido",
+        "Ejemplo · Example",
+        "Cómo decirlo · How to say it"
+      ],
+      "rows": [
+        [
+          "<code>á é í ó ú</code>",
+          "sílaba fuerte",
+          "water → <code>wárer</code>",
+          "la tilde marca el <b>golpe</b>, aunque en español no la llevaría"
+        ],
+        [
+          "<code>ii</code>",
+          "/iː/",
+          "sheep → <code>shiip</code>",
+          "i <b>larga</b> y tensa, sonriendo"
+        ],
+        [
+          "<code>i</code>",
+          "/ɪ/",
+          "ship → <code>ship</code>",
+          "i <b>corta</b> y floja, casi e"
+        ],
+        [
+          "<code>e</code>",
+          "/ɛ/",
+          "bed → <code>bed</code>",
+          "como la e española"
+        ],
+        [
+          "<code>æ</code>",
+          "/æ/",
+          "cat → <code>kæt</code>",
+          "una a con boca de <b>e</b>: abre y sonríe"
+        ],
+        [
+          "<code>a</code>",
+          "/ʌ/ · /ɑ/",
+          "cup → <code>kap</code> · hot → <code>jat</code>",
+          "una a española (en cup, más corta y floja)"
+        ],
+        [
+          "<code>o</code>",
+          "/ɔ/",
+          "talk → <code>tok</code>",
+          "una o abierta (muchos americanos dicen <code>tak</code>)"
+        ],
+        [
+          "<code>uu</code>",
+          "/uː/",
+          "food → <code>fuud</code>",
+          "u <b>larga</b>, con los labios redondos"
+        ],
+        [
+          "<code>u</code>",
+          "/ʊ/",
+          "good → <code>gud</code>",
+          "u <b>corta</b> y floja, casi o"
+        ],
+        [
+          "<code>ə</code>",
+          "/ə/",
+          "about → <code>əbáut</code>",
+          "la <b>schwa</b>: una e perezosa y cortita"
+        ],
+        [
+          "<code>er</code>",
+          "/ɝ/ · /ɚ/",
+          "bird → <code>berd</code>",
+          "no es e + r: es una vocal con R, lengua hacia atrás"
+        ],
+        [
+          "<code>ei ai oi au ou</code>",
+          "diptongos",
+          "day → <code>dei</code> · go → <code>gou</code>",
+          "como en s<b>ei</b>s, b<b>ai</b>le, v<b>oy</b>, c<b>au</b>sa; <b>ou</b> es nuevo"
+        ]
+      ],
+      "note": "Tienes la tabla completa de sonidos en el mapa <b>B-02</b>. Si quieres, escribe <code>e</code> en vez de <code>ə</code> y <code>a</code> en vez de <code>æ</code> en tus ejercicios: lo importante es cómo lo <b>dices</b>.",
+      "note_en": "The full sound chart is in map B-02."
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "La figurada: consonantes",
+      "title_en": "Sound spelling: consonants",
+      "icon": "🔡",
+      "head": [
+        "Ves · You see",
+        "Sonido",
+        "Ejemplo · Example",
+        "Cómo decirlo · How to say it"
+      ],
+      "rows": [
+        [
+          "<code>j</code>",
+          "/h/",
+          "hello → <code>jəlóu</code>",
+          "una j <b>suave</b>, como el vaho en un cristal"
+        ],
+        [
+          "<code>z</code>",
+          "/θ/",
+          "think → <code>zink</code>",
+          "la z de «<b>z</b>apato» (¡asoma la lengua!)"
+        ],
+        [
+          "<code>d</code>",
+          "/ð/",
+          "the → <code>də</code>",
+          "la d suave de «na<b>d</b>a»"
+        ],
+        [
+          "<code>s</code>",
+          "/s/ · /z/",
+          "zoo → <code>suu</code>",
+          "en /z/ la s <b>zumba</b> como una abeja 🐝"
+        ],
+        [
+          "<code>v</code>",
+          "/v/",
+          "very → <code>véri</code>",
+          "¡v de verdad! Dientes de arriba en el labio"
+        ],
+        [
+          "<code>sh</code>",
+          "/ʃ/",
+          "she → <code>shii</code>",
+          "como cuando mandas callar: ¡shhh!"
+        ],
+        [
+          "<code>ch</code>",
+          "/tʃ/",
+          "cheese → <code>chiis</code>",
+          "como en «<b>ch</b>ocolate»"
+        ],
+        [
+          "<code>y</code>",
+          "/dʒ/ · /ʒ/",
+          "job → <code>yab</code>",
+          "una y <b>fuerte</b>, como un «¡<b>y</b>o!» enfadado"
+        ],
+        [
+          "<code>i</code>",
+          "/j/",
+          "yes → <code>iés</code>",
+          "una i rapidita, como en «p<b>ie</b>»"
+        ],
+        [
+          "<code>w</code>",
+          "/w/",
+          "we → <code>wii</code>",
+          "como la u de «<b>hu</b>evo»"
+        ],
+        [
+          "<code>k</code> · <code>gu</code>",
+          "/k/ · /g/",
+          "cake → <code>keik</code> · give → <code>guiv</code>",
+          "k siempre; gu delante de e, i (como en «<b>gu</b>itarra»)"
+        ],
+        [
+          "<code>ng</code>",
+          "/ŋ/",
+          "sing → <code>sing</code>",
+          "la n de «te<b>n</b>go», sin decir la g"
+        ],
+        [
+          "<code>r</code>",
+          "/r/ · /ɾ/",
+          "red → <code>red</code> · water → <code>wárer</code>",
+          "<b>una</b> sola r, nunca rr"
+        ],
+        [
+          "<code>'</code>",
+          "/ʔ/",
+          "button → <code>bá'n</code>",
+          "un cortecito en la garganta (mapa C-03)"
+        ],
+        [
+          "—",
+          "letras mudas",
+          "knife → <code>naif</code>",
+          "no se escriben"
+        ]
+      ],
+      "note": "La <b>j</b> de la figurada nunca es una jota fuerte: es un soplo suave. Y la <b>z</b> es siempre la de «zapato» (la del IPA /θ/).",
+      "note_en": "The «j» is always a soft breath, never a strong Spanish jota."
+    },
+    {
+      "t": "anchors",
+      "title": "Tus primeras anclas",
+      "title_en": "Your first anchors",
+      "items": [
+        {
+          "en": "I",
+          "ipa": "aɪ",
+          "say": "ai",
+          "es": "yo",
+          "icon": "🙋",
+          "anchor": "¡<b>ay</b>! 😖",
+          "tip": "Como cuando te pisan: «¡ay!». Así se dice «yo» en inglés."
+        },
+        {
+          "en": "boy",
+          "ipa": "bɔɪ",
+          "say": "boi",
+          "es": "chico",
+          "icon": "👦",
+          "anchor": "<b>voy</b> 🚶",
+          "tip": "En español, «voy» suena con b: <code>boi</code>. ¡Igualito que boy!"
+        },
+        {
+          "en": "two",
+          "ipa": "tuː",
+          "say": "tuu",
+          "es": "dos",
+          "icon": "2️⃣",
+          "anchor": "<b>tú</b> 👉",
+          "tip": "«Tú», con la u más larga y un soplido en la t (mapa B-03)."
+        },
+        {
+          "en": "see",
+          "ipa": "siː",
+          "say": "sii",
+          "es": "ver",
+          "icon": "👀",
+          "anchor": "¡<b>sí</b>! 👍",
+          "tip": "Un «sí» largo y sonriente: «síííí». Sea (mar) suena igual."
+        },
+        {
+          "en": "key",
+          "ipa": "kiː",
+          "say": "kii",
+          "es": "llave",
+          "icon": "🔑",
+          "anchor": "a<b>quí</b> 📍",
+          "tip": "Di «aquí» y quédate con el final, alargado: <code>kii</code>."
+        },
+        {
+          "en": "bye",
+          "ipa": "baɪ",
+          "say": "bai",
+          "es": "adiós",
+          "icon": "👋",
+          "anchor": "<b>bai</b>le 💃",
+          "tip": "Despídete bailando. Buy (comprar) suena igual."
+        },
+        {
+          "en": "ear",
+          "ipa": "ɪr",
+          "say": "ir",
+          "es": "oreja",
+          "icon": "👂",
+          "anchor": "<b>ir</b> 🏃",
+          "tip": "Casi: la i es más floja y la R americana no toca nada (mapa C-01)."
+        },
+        {
+          "en": "well",
+          "ipa": "wɛl",
+          "say": "wel",
+          "es": "bien",
+          "icon": "👌",
+          "anchor": "<b>huel</b>ga 🪧",
+          "tip": "La «hue» de «huelga» es la w inglesa. La L final, oscura (mapa C-12)."
+        },
+        {
+          "en": "ten",
+          "ipa": "tɛn",
+          "say": "ten",
+          "es": "diez",
+          "icon": "🔟",
+          "anchor": "<b>ten</b>go ✋",
+          "tip": "«Tengo» sin el «-go», y con un soplido en la t."
+        },
+        {
+          "en": "blue",
+          "ipa": "bluː",
+          "say": "bluu",
+          "es": "azul",
+          "icon": "🔵",
+          "anchor": "<b>blu</b>sa 👚",
+          "tip": "Una blusa azul: <code>bluu</code>, con la u larga."
+        },
+        {
+          "en": "sun",
+          "ipa": "sʌn",
+          "say": "san",
+          "es": "sol",
+          "icon": "☀️",
+          "anchor": "<b>san</b>to 😇",
+          "tip": "Casi: la a de sun es más corta y floja (mapa V-04)."
+        },
+        {
+          "en": "Spain",
+          "ipa": "speɪn",
+          "say": "spein",
+          "es": "España",
+          "icon": "🇪🇸",
+          "anchor": "sss + <b>pein</b>e 🪮",
+          "tip": "¡Sin e delante! Alarga la s y pégale «peine» sin la e final (mapa C-11)."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "es": "En cada mapa hay <b>códigos QR</b>. Escanéalos con la cámara del móvil (o haz clic en el PDF) y verás <b>vídeos reales de YouTube</b> con americanos diciendo esa palabra: es la web YouGlish. Escucha 3 vídeos distintos y repite como un loro 🦜.",
+      "en": "Every map has QR codes. Scan one to see real Americans say the word in YouTube videos (YouGlish). Listen to 3 clips and repeat.",
+      "items": [
+        {
+          "q": "hello",
+          "es": "hola"
+        },
+        {
+          "q": "banana",
+          "es": "plátano"
+        },
+        {
+          "q": "chocolate",
+          "es": "chocolate"
+        },
+        {
+          "q": "got it",
+          "es": "entendido"
+        },
+        {
+          "q": "think",
+          "es": "pensar"
+        },
+        {
+          "q": "How are you?",
+          "es": "¿qué tal?"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 9,
+      "title": "9 · El IPA, el código secreto",
+      "title_en": "IPA, the secret code",
+      "icon": "🔐",
+      "es": "En los diccionarios (y en este libro) verás palabras entre barras: /ˈwɑɾɚ/. Es el <b>Alfabeto Fonético Internacional</b> (IPA, en inglés): un código en el que <mark>cada símbolo es siempre el mismo sonido</mark>, en cualquier idioma. No hace falta que lo memorices: úsalo para comprobar. La rayita ˈ va delante de la sílaba fuerte, y los símbolos raros (ə, æ, θ, ʃ…) los tienes todos en el mapa B-02.",
+      "en": "Words between slashes are written in IPA, an alphabet where each symbol is always one sound. You don't need to memorize it: use it to check.",
+      "examples": [
+        {
+          "en": "water",
+          "say": "wárer",
+          "es": "agua · /ˈwɑɾɚ/",
+          "icon": "💧"
+        },
+        {
+          "en": "think",
+          "say": "zink",
+          "es": "pensar · /θɪŋk/",
+          "icon": "🤔"
+        },
+        {
+          "en": "banana",
+          "say": "bənǽnə",
+          "es": "plátano · /bəˈnænə/",
+          "icon": "🍌"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿Por qué inglés americano?",
+      "title_en": "Why American English?",
+      "icon": "🌍",
+      "es": "Hay muchos ingleses: británico, australiano, irlandés… En esta colección aprendemos el de <b>Estados Unidos</b> (General American): es el de la mayoría de series, pelis, canciones, YouTubers y videojuegos. ¡Y si entiendes uno, entiendes los demás!",
+      "en": "There are many Englishes. This book teaches General American, the English of most series, movies, songs and video games.",
+      "cols": [
+        {
+          "head": "🇺🇸 Estados Unidos (este libro)",
+          "color": "red",
+          "items": [
+            "car → <code>kar</code> (¡la R se oye!)",
+            "water → <code>wárer</code>",
+            "hot → <code>jat</code>",
+            "can't → <code>kænt</code>"
+          ]
+        },
+        {
+          "head": "🇬🇧 Reino Unido",
+          "color": "blue",
+          "items": [
+            "car → <code>kaa</code> (sin R)",
+            "water → <code>wóota</code>",
+            "hot → <code>jot</code>",
+            "can't → <code>kaant</code>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Cómo es cada mapa",
+      "title_en": "What's inside each map",
+      "icon": "🧭",
+      "head": [
+        "Página · Page",
+        "Qué encuentras",
+        "Qué haces tú"
+      ],
+      "rows": [
+        [
+          "🗺️ Mapa",
+          "la idea clave en el óvalo, 6 cajas, el error común y un QR",
+          "léelo en voz alta y haz el mini ejercicio"
+        ],
+        [
+          "📖 Explicación",
+          "reglas, anclas, tablas, frases y trabalenguas",
+          "di en voz alta <b>cada</b> palabra inglesa"
+        ],
+        [
+          "✏️ Ejercicios",
+          "de reconocer a producir: rodear, completar, leer, traducir",
+          "di cada palabra <b>antes</b> de escribirla"
+        ],
+        [
+          "🏆 Repaso",
+          "la lista «Lo sé decir» y tus estrellas",
+          "marca lo que ya dominas"
+        ],
+        [
+          "🔑 Solucionario",
+          "todas las respuestas",
+          "corrige y repite 3 veces cada fallo"
+        ]
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "El método: escucha, imita, grábate",
+      "title_en": "The method: listen, imitate, record",
+      "icon": "🔁",
+      "items": [
+        {
+          "es": "<b>Escucha</b> primero: escanea el QR y oye a 3 americanos distintos decir la palabra.",
+          "en": "Listen first: scan the QR code and hear three different speakers."
+        },
+        {
+          "es": "<b>Imita</b> en voz alta, exagerando un poco: más golpe, más soplido, más boca.",
+          "en": "Imitate aloud, exaggerating a little."
+        },
+        {
+          "es": "<b>Grábate</b> con el móvil diciendo la palabra o la frase.",
+          "en": "Record yourself with your phone."
+        },
+        {
+          "es": "<b>Compara</b> tu grabación con el vídeo. ¿Dónde pega el golpe? ¿Suena igual la vocal?",
+          "en": "Compare your recording with the video."
+        },
+        {
+          "es": "<b>Repite</b> 5 minutos cada día. La boca aprende como las piernas: entrenando.",
+          "en": "Repeat for five minutes every day."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Tus primeras frases",
+      "title_en": "Your first sentences",
+      "items": [
+        {
+          "en": "Hello! I'm Mario.",
+          "say": "jəlóu! aim mário",
+          "es": "¡Hola! Soy Mario.",
+          "icon": "👋"
+        },
+        {
+          "en": "Nice to meet you.",
+          "say": "náis tə míit iu",
+          "es": "Encantado de conocerte.",
+          "icon": "🤝"
+        },
+        {
+          "en": "What's your name?",
+          "say": "wats ier néim?",
+          "es": "¿Cómo te llamas?",
+          "icon": "❓"
+        },
+        {
+          "en": "My name is Lucía.",
+          "say": "mai néim is lusíiə",
+          "es": "Me llamo Lucía.",
+          "icon": "👧"
+        },
+        {
+          "en": "I like chocolate.",
+          "say": "ai láik cháklət",
+          "es": "Me gusta el chocolate.",
+          "icon": "🍫"
+        },
+        {
+          "en": "I love my dog, Rocky.",
+          "say": "ai láv mai dóg, ráki",
+          "es": "Quiero a mi perro, Rocky.",
+          "icon": "🐶"
+        },
+        {
+          "en": "Thank you very much!",
+          "say": "zǽnkiu véri mách",
+          "es": "¡Muchas gracias!",
+          "icon": "🙏"
+        },
+        {
+          "en": "See you later!",
+          "say": "síi iu léirer",
+          "es": "¡Hasta luego!",
+          "icon": "👋"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se aprende!",
+      "title_en": "Don't do this",
+      "items": [
+        {
+          "bad": "chocolate → <code>chokoláte</code>",
+          "good": "<code>cháklət</code>",
+          "why": "No leas letra a letra: en inglés, las letras engañan.",
+          "why_en": "Don't read letter by letter."
+        },
+        {
+          "bad": "banana → <code>banána</code> (tres a iguales)",
+          "good": "<code>bənǽnə</code>",
+          "why": "Solo una sílaba pega fuerte; las demás se encogen a <code>ə</code>.",
+          "why_en": "Only one syllable is strong."
+        },
+        {
+          "bad": "hello → <code>jélo</code> con jota fuerte",
+          "good": "<code>jəlóu</code>",
+          "why": "La j de la figurada es un soplo suave. Y el golpe va en LOU.",
+          "why_en": "Soft h, and the stress is on the second syllable."
+        },
+        {
+          "bad": "Spain → <code>espéin</code>",
+          "good": "<code>spein</code>",
+          "why": "Nada de e delante de s + consonante (mapa C-11).",
+          "why_en": "No «e» before s + consonant."
+        },
+        {
+          "bad": "very → <code>béri</code>",
+          "good": "<code>véri</code>",
+          "why": "En inglés, b y v son sonidos distintos (mapa C-07).",
+          "why_en": "B and V are different sounds."
+        },
+        {
+          "bad": "cat → <code>kat</code>",
+          "good": "<code>kæt</code>",
+          "why": "No todas las a son españolas: esta es una a con boca de e (mapa V-03).",
+          "why_en": "This A is a new sound."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas para calentar",
+      "title_en": "Warm-up tongue twisters",
+      "items": [
+        {
+          "en": "She sells seashells by the seashore.",
+          "say": "shi sels síishels bai də síishor",
+          "es": "Ella vende conchas en la orilla del mar."
+        },
+        {
+          "en": "Fred's friend Fran fries fresh fish on Fridays.",
+          "say": "freds frend fræn frais fresh fish an fráideis",
+          "es": "Fran, la amiga de Fred, fríe pescado fresco los viernes."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de oro",
+      "title_en": "The golden trick",
+      "es": "Lee <b>siempre en voz alta</b>, aunque estés solo (¡susurrar no vale!). La pronunciación es un deporte: se aprende con la boca, no solo con los ojos. Cinco minutos al día valen más que una hora el domingo. 💪",
+      "en": "Always read aloud. Pronunciation is a sport: five minutes a day beats one hour on Sunday."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Cuál suena de verdad?",
+      "title_en": "Which one is right?",
+      "icon": "🔍",
+      "es": "Rodea la pronunciación figurada correcta. Dila en voz alta.",
+      "en": "Circle the right sound spelling and say it.",
+      "items": [
+        {
+          "q": "water → [wáter|wárer]",
+          "a": "wárer"
+        },
+        {
+          "q": "hello → [jəlóu|hélo]",
+          "a": "jəlóu"
+        },
+        {
+          "q": "knife → [knáif|naif]",
+          "a": "naif"
+        },
+        {
+          "q": "think → [tink|zink]",
+          "a": "zink"
+        },
+        {
+          "q": "banana → [banána|bənǽnə]",
+          "a": "bənǽnə"
+        },
+        {
+          "q": "cat → [kæt|kat]",
+          "a": "kæt"
+        },
+        {
+          "q": "very → [béri|véri]",
+          "a": "véri"
+        },
+        {
+          "q": "sheep → [shiip|ship]",
+          "a": "shiip"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une palabra y sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une cada palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "hello",
+          "<code>jəlóu</code>"
+        ],
+        [
+          "happy",
+          "<code>jǽpi</code>"
+        ],
+        [
+          "think",
+          "<code>zink</code>"
+        ],
+        [
+          "knife",
+          "<code>naif</code>"
+        ],
+        [
+          "sheep",
+          "<code>shiip</code>"
+        ],
+        [
+          "people",
+          "<code>píipəl</code>"
+        ],
+        [
+          "about",
+          "<code>əbáut</code>"
+        ],
+        [
+          "bird",
+          "<code>berd</code>"
+        ]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Mismo sonido?",
+      "title_en": "Same sound?",
+      "icon": "👂",
+      "es": "Di las dos palabras. ¿Las letras en azul suenan igual o diferente?",
+      "en": "Say both words. Do the blue letters sound the same?",
+      "items": [
+        {
+          "q": "s<b>ee</b> · t<b>ea</b> → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "c<b>a</b>t · c<b>a</b>ke → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "k<b>ey</b> · m<b>e</b> → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "sh<b>i</b>p · sh<b>ee</b>p → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "d<b>ay</b> · c<b>a</b>ke → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "c<b>a</b>r · c<b>a</b>t → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "t<b>wo</b> · bl<b>ue</b> → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "g<b>oo</b>d · f<b>oo</b>d → [igual|diferente]",
+          "a": "diferente"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Hay letra fantasma?",
+      "title_en": "Is there a silent letter?",
+      "icon": "👻",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "🤫 Con letra muda",
+          "words": [
+            "knife",
+            "write",
+            "hour",
+            "walk",
+            "listen",
+            "know",
+            "climb",
+            "island"
+          ]
+        },
+        {
+          "name": "🔊 Suenan todas",
+          "words": [
+            "cat",
+            "bed",
+            "red",
+            "sun",
+            "stop",
+            "pen",
+            "map",
+            "dog"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Descifra la figurada",
+      "title_en": "Decode the sound spelling",
+      "icon": "🕵️",
+      "es": "Lee la figurada en voz alta y escribe la palabra inglesa.",
+      "en": "Read the sound spelling aloud and write the English word.",
+      "items": [
+        {
+          "q": "🍌 <code>bənǽnə</code> → ____",
+          "a": "banana"
+        },
+        {
+          "q": "🐦 <code>berd</code> → ____",
+          "a": "bird"
+        },
+        {
+          "q": "🔪 <code>naif</code> → ____",
+          "a": "knife"
+        },
+        {
+          "q": "🍫 <code>cháklət</code> → ____",
+          "a": "chocolate"
+        },
+        {
+          "q": "🔑 <code>kii</code> → ____",
+          "a": "key"
+        },
+        {
+          "q": "👨‍👩‍👧 <code>píipəl</code> → ____",
+          "a": "people"
+        },
+        {
+          "q": "🏨 <code>joutél</code> → ____",
+          "a": "hotel"
+        },
+        {
+          "q": "🧢 <code>kæp</code> → ____",
+          "a": "cap"
+        },
+        {
+          "q": "☕ <code>kap</code> → ____",
+          "a": "cup"
+        },
+        {
+          "q": "⏰ <code>áuer</code> → ____",
+          "a": "hour"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Di la palabra dando un golpe en una sílaba. Rodea la que suena más fuerte.",
+      "en": "Circle the strong syllable.",
+      "items": [
+        {
+          "syl": [
+            "ba",
+            "na",
+            "na"
+          ],
+          "s": 1,
+          "es": "plátano"
+        },
+        {
+          "syl": [
+            "ho",
+            "tel"
+          ],
+          "s": 1,
+          "es": "hotel"
+        },
+        {
+          "syl": [
+            "to",
+            "ma",
+            "to"
+          ],
+          "s": 1,
+          "es": "tomate"
+        },
+        {
+          "syl": [
+            "an",
+            "i",
+            "mal"
+          ],
+          "s": 0,
+          "es": "animal"
+        },
+        {
+          "syl": [
+            "ham",
+            "bur",
+            "ger"
+          ],
+          "s": 0,
+          "es": "hamburguesa"
+        },
+        {
+          "syl": [
+            "com",
+            "pu",
+            "ter"
+          ],
+          "s": 1,
+          "es": "ordenador"
+        },
+        {
+          "syl": [
+            "hel",
+            "lo"
+          ],
+          "s": 1,
+          "es": "hola"
+        },
+        {
+          "syl": [
+            "a",
+            "bout"
+          ],
+          "s": 1,
+          "es": "sobre"
+        },
+        {
+          "syl": [
+            "piz",
+            "za"
+          ],
+          "s": 0,
+          "es": "pizza"
+        },
+        {
+          "syl": [
+            "wa",
+            "ter"
+          ],
+          "s": 0,
+          "es": "agua"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "English has more sounds than letters.",
+          "a": true
+        },
+        {
+          "q": "English has the same 5 vowels as Spanish.",
+          "a": false,
+          "why": "tiene más de 15 sonidos vocálicos"
+        },
+        {
+          "q": "In the sound spelling, the accent mark (á) shows the strong syllable.",
+          "a": true
+        },
+        {
+          "q": "The «j» in <code>jəlóu</code> is a strong Spanish jota.",
+          "a": false,
+          "why": "es un soplo suave, como vaho"
+        },
+        {
+          "q": "<code>ə</code> is a short, lazy vowel.",
+          "a": true
+        },
+        {
+          "q": "We write silent letters in the sound spelling.",
+          "a": false,
+          "why": "knife = naif"
+        },
+        {
+          "q": "The QR codes show real Americans saying the word.",
+          "a": true
+        },
+        {
+          "q": "In this book we learn British English.",
+          "a": false,
+          "why": "aprendemos inglés americano"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Letras y sonidos",
+      "title_en": "Letters and sounds",
+      "icon": "🧮",
+      "es": "Completa la figurada y cuenta los sonidos. Un diptongo como <code>ai</code> es <b>un</b> solo sonido.",
+      "en": "Complete the sound spelling and count the sounds.",
+      "head": [
+        "Palabra",
+        "Suena",
+        "Letras",
+        "Sonidos"
+      ],
+      "rows": [
+        [
+          "cat",
+          "kæt",
+          "3",
+          "?3"
+        ],
+        [
+          "knife",
+          "?naif",
+          "5",
+          "?3"
+        ],
+        [
+          "ship",
+          "ship",
+          "4",
+          "?3"
+        ],
+        [
+          "eight",
+          "?eit",
+          "5",
+          "?2"
+        ],
+        [
+          "box",
+          "baks",
+          "3",
+          "?4"
+        ],
+        [
+          "phone",
+          "?foun",
+          "5",
+          "?3"
+        ],
+        [
+          "know",
+          "nou",
+          "4",
+          "?2"
+        ],
+        [
+          "cheese",
+          "?chiis",
+          "6",
+          "?3"
+        ]
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la figurada",
+      "title_en": "Fix the sound spelling",
+      "icon": "🩹",
+      "es": "Cada figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "hello → <code>hélou</code>",
+          "a": "jəlóu"
+        },
+        {
+          "q": "knife → <code>knáif</code>",
+          "a": "naif"
+        },
+        {
+          "q": "think → <code>tink</code>",
+          "a": "zink"
+        },
+        {
+          "q": "very → <code>béri</code>",
+          "a": "véri"
+        },
+        {
+          "q": "banana → <code>banána</code>",
+          "a": "bənǽnə"
+        },
+        {
+          "q": "cheese → <code>chis</code>",
+          "a": "chiis"
+        },
+        {
+          "q": "cat → <code>kat</code>",
+          "a": "kæt"
+        },
+        {
+          "q": "people → <code>peóple</code>",
+          "a": "píipəl"
+        },
+        {
+          "q": "Spain → <code>espéin</code>",
+          "a": "spein"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pega las palabras",
+      "title_en": "Link the words",
+      "icon": "🔗",
+      "es": "Escribe cómo suena todo junto, como una sola palabra.",
+      "en": "Write how it sounds, linked together.",
+      "items": [
+        {
+          "q": "an apple",
+          "a": "ənǽpəl"
+        },
+        {
+          "q": "an egg",
+          "a": "ənég"
+        },
+        {
+          "q": "an hour",
+          "a": "ənáuer"
+        },
+        {
+          "q": "come in",
+          "a": "kamín"
+        },
+        {
+          "q": "got it",
+          "a": "gárit"
+        },
+        {
+          "q": "get up",
+          "a": "gueráp"
+        },
+        {
+          "q": "turn it on",
+          "a": "térnirán"
+        },
+        {
+          "q": "pick it up",
+          "a": "pikiráp"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés y escribe al lado la figurada. Dilo en voz alta.",
+      "en": "Translate into English and write how it sounds.",
+      "items": [
+        {
+          "q": "hola",
+          "a": "hello (jəlóu)"
+        },
+        {
+          "q": "agua",
+          "a": "water (wárer)"
+        },
+        {
+          "q": "gato",
+          "a": "cat (kæt)"
+        },
+        {
+          "q": "oveja",
+          "a": "sheep (shiip)"
+        },
+        {
+          "q": "barco",
+          "a": "ship (ship)"
+        },
+        {
+          "q": "llave",
+          "a": "key (kii)"
+        },
+        {
+          "q": "cuchillo",
+          "a": "knife (naif)"
+        },
+        {
+          "q": "plátano",
+          "a": "banana (bənǽnə)"
+        },
+        {
+          "q": "pájaro",
+          "a": "bird (berd)"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Hello! I'm Mario.",
+          "say": "jəlóu! aim mário"
+        },
+        {
+          "q": "Nice to meet you.",
+          "say": "náis tə míit iu"
+        },
+        {
+          "q": "I like chocolate.",
+          "say": "ai láik cháklət"
+        },
+        {
+          "q": "Thank you very much!",
+          "say": "zǽnkiu véri mách"
+        },
+        {
+          "q": "See you later!",
+          "say": "síi iu léirer"
+        },
+        {
+          "q": "I have an apple.",
+          "say": "ai jǽv ənǽpəl"
+        },
+        {
+          "q": "I don't know.",
+          "say": "ai dóun nóu"
+        },
+        {
+          "q": "Let's go!",
+          "say": "lets góu"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de sonidos",
+      "title_en": "Sound word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras sobre pronunciación. Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 pronunciation words.",
+      "words": [
+        "sound",
+        "letter",
+        "vowel",
+        "stress",
+        "rhythm",
+        "listen",
+        "repeat",
+        "record",
+        "anchor",
+        "mouth"
+      ],
+      "clues": [
+        "sound · sonido",
+        "letter · letra",
+        "vowel · vocal",
+        "stress · golpe (acento)",
+        "rhythm · ritmo",
+        "listen · escuchar",
+        "repeat · repetir",
+        "record · grabar",
+        "anchor · ancla",
+        "mouth · boca"
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe y después dilo en voz alta. ¡Grábate!",
+      "en": "Write, then say it aloud and record yourself.",
+      "items": [
+        {
+          "q": "Tu nombre y cómo crees que lo diría un americano (en figurada).",
+          "lines": 2,
+          "a": "Ej.: Lucía → lusíiə"
+        },
+        {
+          "q": "Inventa un ancla española para una palabra inglesa.",
+          "lines": 2,
+          "a": "Ej.: two = tú 👉"
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Mario's first English class",
+      "text": [
+        "Mario is ten. Today is his first English class. His teacher, Jenny, is from Chicago.",
+        "“English is not read like Spanish,” says Jenny. “Listen, repeat and record yourself!” Mario listens to the word «water» and says <code>wárer</code>. Jenny smiles: “Great job, Mario!”"
+      ],
+      "items": [
+        {
+          "q": "How old is Mario?",
+          "a": "He's ten."
+        },
+        {
+          "q": "Where is Jenny from?",
+          "a": "From Chicago (<code>shikágou</code>: ¡la ch suena sh!)."
+        },
+        {
+          "q": "What three things does Jenny tell Mario to do?",
+          "a": "Listen, repeat and record himself."
+        },
+        {
+          "q": "Jenny says English is read like Spanish.",
+          "tf": true,
+          "a": false,
+          "why": "dice que no"
+        },
+        {
+          "q": "Mario says «water» like <code>wárer</code>.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Jenny is from Spain.",
+          "tf": true,
+          "a": false,
+          "why": "es de Chicago"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé por qué el inglés no se lee como se escribe: 26 letras y unos 40 sonidos.",
+      "en": "I know why English isn't read as it's written."
+    },
+    {
+      "es": "Sé leer la figurada: la tilde marca el golpe y <code>ə</code> es una e perezosa.",
+      "en": "I can read the sound spelling."
+    },
+    {
+      "es": "Conozco las 3 claves: vocales nuevas, golpe y ritmo, palabras pegadas.",
+      "en": "I know the 3 keys of spoken English."
+    },
+    {
+      "es": "Sé usar un ancla: boy = <b>voy</b>, key = a<b>quí</b>.",
+      "en": "I can use a Spanish anchor."
+    },
+    {
+      "es": "Sé qué es el IPA (/ˈwɑɾɚ/) y uso los QR para escuchar americanos de verdad.",
+      "en": "I know what IPA is and I use the QR codes."
+    },
+    {
+      "es": "Practico así: escucho, imito, me grabo y comparo.",
+      "en": "I listen, imitate, record myself and compare."
+    }
+  ]
+}

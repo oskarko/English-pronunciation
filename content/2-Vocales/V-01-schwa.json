@@ -1,0 +1,873 @@
+{
+  "id": "V-01",
+  "block": "V",
+  "title": "LA SCHWA /ə/",
+  "file_title": "La schwa",
+  "subtitle": "The lazy vowel · la vocal perezosa",
+  "icon": "😴",
+  "map": {
+    "center": "La <b>schwa</b> es la vocal más común del inglés: un sonido flojito y corto, casi <b>e</b>, que escribimos <code>ə</code>.",
+    "listen": "banana",
+    "nodes": [
+      {
+        "title": "¿Qué es?",
+        "icon": "😴",
+        "color": "green",
+        "items": [
+          "una vocal <b>floja y cortita</b>, casi «e»",
+          "vive en las sílabas <b>débiles</b>",
+          "la sílaba <b>fuerte</b> nunca la lleva"
+        ]
+      },
+      {
+        "title": "Suena como…",
+        "icon": "👂",
+        "color": "blue",
+        "rows": [
+          ["banana", "<code>bənǽnə</code>"],
+          ["about", "<code>əbáut</code>"],
+          ["lemon", "<code>lémən</code>"]
+        ]
+      },
+      {
+        "title": "Con cualquier vocal",
+        "icon": "🔤",
+        "color": "purple",
+        "items": [
+          "<b>a</b>bout, probl<b>e</b>m, penc<b>i</b>l",
+          "lem<b>o</b>n, s<b>u</b>pport",
+          "¡la letra <b>no importa</b>!"
+        ]
+      },
+      {
+        "title": "Palabras pequeñas",
+        "icon": "🐜",
+        "color": "orange",
+        "rows": [
+          ["a", "<code>ə</code>"],
+          ["the", "<code>də</code>"],
+          ["to", "<code>tə</code>"]
+        ],
+        "after": "(más en el mapa H-03)"
+      },
+      {
+        "title": "Ancla española",
+        "icon": "⚓",
+        "color": "pink",
+        "html": "Es el <b>«eeh…»</b> que dices cuando dudas. Boca floja, sin pensar.",
+        "art": "🤔"
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Di <b>clara</b> la sílaba fuerte; las demás, ¡a echar la siesta! <code>bənǽnə</code>",
+        "art": "🍌"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["<code>ba-na-na</code> (tres a enteras)"],
+      "good": ["<code>bənǽnə</code> 🍌"],
+      "note": "Solo la sílaba fuerte suena clara; las otras, flojitas."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "🍌 banana → ____", "a": "bənǽnə" },
+        { "q": "🍋 lemon → ____", "a": "lémən" },
+        { "q": "🛋️ sofa → ____", "a": "sóufə" },
+        { "q": "📅 today → ____", "a": "tədéi" },
+        { "q": "🍕 pizza → ____", "a": "píitsə" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la schwa?",
+      "title_en": "What is the schwa?",
+      "icon": "🔎",
+      "es": "El sonido más frecuente del inglés <b>no tiene letra propia</b>. Se llama <b>schwa</b> y se escribe /ə/. Es una vocal <b>floja, corta y sin fuerza</b>, parecida al «eeh…» que dices cuando dudas. Aparece en casi todas las <b>sílabas débiles</b> (las que no llevan el golpe), da igual la letra: la primera a de <b>about</b>, la o de <b>lemon</b>, la e de <b>the</b>. <mark>Si dominas la schwa, tu inglés sonará mucho más natural.</mark>",
+      "en": "The schwa /ə/ is the most common sound in English. It is a short, lazy vowel, a bit like a relaxed «e». You hear it in weak (unstressed) syllables, whatever the letter.",
+      "formula": [
+        "sílaba *fuerte* + sílaba débil → vocal *ə*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "jaw",
+          "es": "Mandíbula <b>medio abierta y suelta</b>, como cuando estás muy cansado.",
+          "en": "Jaw half open and loose, like when you're very tired."
+        },
+        {
+          "part": "lips",
+          "es": "Labios <b>relajados</b>: ni sonrisa ni morritos.",
+          "en": "Relaxed lips: no smile, no rounding."
+        },
+        {
+          "part": "tongue",
+          "es": "Lengua <b>en reposo</b>, en el centro de la boca. No sube ni baja: no hace nada.",
+          "en": "Tongue resting in the middle of the mouth. It does nothing."
+        },
+        {
+          "part": "voice",
+          "es": "Un golpecito de voz <b>muy corto</b>, más corto que cualquier vocal española.",
+          "en": "A very short puff of voice, shorter than any Spanish vowel."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Solo en sílabas débiles",
+      "title_en": "Only in weak syllables",
+      "icon": "🥁",
+      "es": "Cada palabra inglesa tiene <b>una sílaba fuerte</b> que suena clara y larga. Las demás se relajan y su vocal se convierte en schwa. En español decimos todas las vocales enteras; en inglés, <mark>solo la fuerte</mark>.",
+      "en": "Every English word has one strong syllable. The other vowels relax and usually become a schwa.",
+      "formula": [
+        "ba + *NA* + na → bə*nǽ*nə"
+      ],
+      "examples": [
+        { "en": "banana", "say": "bənǽnə", "es": "plátano", "icon": "🍌" },
+        { "en": "about", "say": "əbáut", "es": "sobre, acerca de", "icon": "💬" },
+        { "en": "today", "say": "tədéi", "es": "hoy", "icon": "📅" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Cualquier letra vale",
+      "title_en": "Any letter can be a schwa",
+      "icon": "🔤",
+      "es": "La schwa es un sonido, no una letra. Se puede escribir con <b>a, e, i, o, u</b>. Por eso no sirve leer como se escribe: hay que saber <b>dónde va el golpe</b>.",
+      "en": "The schwa is a sound, not a letter. It can be spelled with a, e, i, o or u.",
+      "examples": [
+        { "en": "about", "say": "əbáut", "es": "A → ə", "icon": "🅰️" },
+        { "en": "problem", "say": "prábləm", "es": "E → ə", "icon": "😬" },
+        { "en": "pencil", "say": "pénsəl", "es": "I → ə", "icon": "✏️" },
+        { "en": "lemon", "say": "lémən", "es": "O → ə", "icon": "🍋" },
+        { "en": "support", "say": "səpórt", "es": "U → ə", "icon": "🤝" },
+        { "en": "Canada", "say": "kǽnədə", "es": "A, A → ə, ə", "icon": "🍁" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Finales flojos",
+      "title_en": "Lazy endings",
+      "icon": "🔚",
+      "es": "Muchísimas palabras acaban en sílaba débil: <b>-a</b> (pizza), <b>-en, -on, -an</b> (seven, lemon, woman), <b>-al, -el, -le</b> (animal, apple), <b>-us</b> (cactus). Todas suenan con schwa. El final se dice <b>rápido y flojo</b>, sin abrir la boca.",
+      "en": "Many words end in a weak syllable: -a, -en, -on, -al, -le, -us. They all have a schwa.",
+      "examples": [
+        { "en": "pizza", "say": "píitsə", "es": "pizza", "icon": "🍕" },
+        { "en": "seven", "say": "sévən", "es": "siete", "icon": "7️⃣" },
+        { "en": "chicken", "say": "chíkən", "es": "pollo", "icon": "🐔" },
+        { "en": "animal", "say": "ǽnəməl", "es": "animal", "icon": "🐾" },
+        { "en": "apple", "say": "ǽpəl", "es": "manzana", "icon": "🍎" },
+        { "en": "cactus", "say": "kǽktəs", "es": "cactus", "icon": "🌵" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Las palabras pequeñas",
+      "title_en": "Little words",
+      "icon": "🐜",
+      "es": "Las palabritas que unen la frase (<b>a</b>, <b>the</b>, <b>to</b>…) casi nunca llevan el golpe, así que suenan con schwa: <code>ə</code>, <code>də</code>, <code>tə</code>. Dilas pegadas a la palabra siguiente. Las verás a fondo en el mapa <b>H-03</b>.",
+      "en": "Small grammar words like a, the and to are usually weak, so they have a schwa.",
+      "examples": [
+        { "en": "a banana", "say": "ə bənǽnə", "es": "un plátano", "icon": "🍌" },
+        { "en": "the sofa", "say": "də sóufə", "es": "el sofá", "icon": "🛋️" },
+        { "en": "Go to bed!", "say": "góu tə béd", "es": "¡A la cama!", "icon": "🛏️" },
+        { "en": "a pizza", "say": "ə píitsə", "es": "una pizza", "icon": "🍕" },
+        { "en": "the panda", "say": "də pǽndə", "es": "el panda", "icon": "🐼" },
+        { "en": "to Canada", "say": "tə kǽnədə", "es": "a Canadá", "icon": "🍁" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "a",
+          "ipa": "ə",
+          "say": "ə",
+          "es": "un, una",
+          "icon": "🤔",
+          "anchor": "el <b>eeh…</b> de cuando dudas 🤔",
+          "tip": "Ese ruidito flojo, sin abrir casi la boca, ES la schwa. «A banana» = <code>ə bənǽnə</code>."
+        },
+        {
+          "en": "the",
+          "ipa": "ðə",
+          "say": "də",
+          "es": "el, la, los, las",
+          "icon": "👉",
+          "anchor": "casa <b>de</b> Lucía 🏠",
+          "tip": "Casi: con la d suave de «nada» (mapa C-05) y la e muy floja."
+        },
+        {
+          "en": "banana",
+          "ipa": "bəˈnænə",
+          "say": "bənǽnə",
+          "es": "plátano",
+          "icon": "🍌",
+          "anchor": "ba<b>na</b>na 🍌",
+          "tip": "El golpe en NA, igual que en español. Las otras dos a, flojitas. La del medio, con sonrisa (V-03)."
+        },
+        {
+          "en": "America",
+          "ipa": "əˈmɛrəkə",
+          "say": "əmérəkə",
+          "es": "América, EE. UU.",
+          "icon": "🌎",
+          "anchor": "A<b>mé</b>rica 🌎",
+          "tip": "Mismo golpe en MÉ. Las otras tres vocales casi ni se oyen: ə-MÉ-rə-kə."
+        },
+        {
+          "en": "gorilla",
+          "ipa": "ɡəˈrɪlə",
+          "say": "gərílə",
+          "es": "gorila",
+          "icon": "🦍",
+          "anchor": "go<b>ri</b>la 🦍",
+          "tip": "Fuerza en RI, como en español. La «go» se queda en <code>gə</code> y la a final, en <code>ə</code>."
+        },
+        {
+          "en": "pasta",
+          "ipa": "ˈpɑstə",
+          "say": "pástə",
+          "es": "pasta",
+          "icon": "🍝",
+          "anchor": "<b>pas</b>ta 🍝",
+          "tip": "Como en español, pero la a del final sale floja: PÁS-tə."
+        },
+        {
+          "en": "salsa",
+          "ipa": "ˈsɑlsə",
+          "say": "sálsə",
+          "es": "salsa",
+          "icon": "💃",
+          "anchor": "<b>sal</b>sa 💃",
+          "tip": "Baila la primera sílaba y deja caer la última: SÁL-sə."
+        },
+        {
+          "en": "siesta",
+          "ipa": "siˈɛstə",
+          "say": "siéstə",
+          "es": "siesta",
+          "icon": "😴",
+          "anchor": "si<b>es</b>ta 😴",
+          "tip": "¡La palabra perfecta para la vocal perezosa! La a final se queda dormida."
+        },
+        {
+          "en": "Christmas",
+          "ipa": "ˈkrɪsməs",
+          "say": "krísməs",
+          "es": "Navidad",
+          "icon": "🎄",
+          "anchor": "un <b>cris</b>mas 💌",
+          "tip": "Como la tarjeta de Navidad, pero con la última vocal floja: KRÍS-məs."
+        },
+        {
+          "en": "sofa",
+          "ipa": "ˈsoʊfə",
+          "say": "sóufə",
+          "es": "sofá",
+          "icon": "🛋️",
+          "anchor": "<s>sofá</s> → <b>sóu</b>fə",
+          "tip": "¡Al revés que en español! El golpe va al principio y la a final se apaga."
+        },
+        {
+          "en": "lemon",
+          "ipa": "ˈlɛmən",
+          "say": "lémən",
+          "es": "limón",
+          "icon": "🍋",
+          "anchor": "<s>limón</s> → <b>lé</b>mən",
+          "tip": "Parece «limón», pero el golpe va delante y la o se vuelve schwa."
+        },
+        {
+          "en": "Florida",
+          "ipa": "ˈflɔrədə",
+          "say": "flórədə",
+          "es": "Florida",
+          "icon": "🌴",
+          "anchor": "<s>flo-RI-da</s> → <b>FLÓ</b>rədə",
+          "tip": "En España decimos flo-RI-da; en EE. UU., FLÓ-rə-də, con dos schwas."
+        },
+        {
+          "en": "animal",
+          "ipa": "ˈænəməl",
+          "say": "ǽnəməl",
+          "es": "animal",
+          "icon": "🐾",
+          "anchor": "<s>a-ni-MAL</s> → <b>ǽ</b>nəməl",
+          "tip": "Golpe al principio, en la a de sonrisa (V-03), y dos schwas detrás."
+        },
+        {
+          "en": "chocolate",
+          "ipa": "ˈtʃɑklət",
+          "say": "cháklət",
+          "es": "chocolate",
+          "icon": "🍫",
+          "anchor": "<s>cho-co-la-te</s> → <b>CHÁK</b>lət",
+          "tip": "¡De cuatro sílabas a dos! La última vocal es schwa y la «co» se esfuma (H-07)."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "banana", "es": "plátano" },
+        { "q": "about", "es": "sobre, acerca de" },
+        { "q": "problem", "es": "problema" },
+        { "q": "America", "es": "América" },
+        { "q": "chocolate", "es": "chocolate" },
+        { "q": "today", "es": "hoy" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Dónde está la schwa?",
+      "title_en": "Where is the schwa?",
+      "icon": "🧭",
+      "head": ["Palabra · Word", "Sílaba fuerte", "Schwa en…", "Suena"],
+      "rows": [
+        ["banana", "ba-<b>NA</b>-na", "la 1.ª y la 3.ª", "<code>bənǽnə</code>"],
+        ["about", "a-<b>BOUT</b>", "la 1.ª (a)", "<code>əbáut</code>"],
+        ["lemon", "<b>LE</b>-mon", "la 2.ª (o)", "<code>lémən</code>"],
+        ["pencil", "<b>PEN</b>-cil", "la 2.ª (i)", "<code>pénsəl</code>"],
+        ["support", "sup-<b>PORT</b>", "la 1.ª (u)", "<code>səpórt</code>"],
+        ["problem", "<b>PROB</b>-lem", "la 2.ª (e)", "<code>prábləm</code>"],
+        ["Canada", "<b>CAN</b>-a-da", "la 2.ª y la 3.ª", "<code>kǽnədə</code>"],
+        ["America", "a-<b>MER</b>-i-ca", "la 1.ª, 3.ª y 4.ª", "<code>əmérəkə</code>"],
+        ["police", "po-<b>LICE</b>", "la 1.ª (o)", "<code>pəlíis</code>"],
+        ["elephant", "<b>EL</b>-e-phant", "la 2.ª y la 3.ª", "<code>éləfənt</code>"],
+        ["today", "to-<b>DAY</b>", "la 1.ª (o)", "<code>tədéi</code>"],
+        ["chocolate", "<b>CHOC</b>-late", "la 2.ª (a)", "<code>cháklət</code>"]
+      ],
+      "note": "La regla de oro: primero busca la <b>sílaba fuerte</b>. Casi todas las demás vocales serán schwa. (Algunas sílabas débiles llevan una i corta, como en <b>happy</b>: lo verás en V-02.)",
+      "note_en": "Golden rule: find the stressed syllable first. Most of the other vowels will be schwas."
+    },
+    {
+      "t": "stress",
+      "title": "Una fuerte, las demás dormidas",
+      "title_en": "One strong, the rest asleep",
+      "icon": "🥁",
+      "es": "La sílaba con ● suena clara. Las sílabas con • llevan casi siempre schwa.",
+      "en": "The ● syllable is clear. The • syllables usually have a schwa.",
+      "items": [
+        { "syl": ["ba", "na", "na"], "s": 1, "say": "bənǽnə", "es": "plátano" },
+        { "syl": ["a", "bout"], "s": 1, "say": "əbáut", "es": "sobre" },
+        { "syl": ["le", "mon"], "s": 0, "say": "lémən", "es": "limón" },
+        { "syl": ["so", "fa"], "s": 0, "say": "sóufə", "es": "sofá" },
+        { "syl": ["to", "day"], "s": 1, "say": "tədéi", "es": "hoy" },
+        { "syl": ["po", "lice"], "s": 1, "say": "pəlíis", "es": "policía" },
+        { "syl": ["Can", "a", "da"], "s": 0, "say": "kǽnədə", "es": "Canadá" },
+        { "syl": ["A", "mer", "i", "ca"], "s": 1, "say": "əmérəkə", "es": "América" }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿Por qué nos cuesta?",
+      "title_en": "Why is it hard for us?",
+      "icon": "⚖️",
+      "es": "En español, todas las vocales suenan <b>enteras</b>. En inglés, solo la de la sílaba fuerte.",
+      "en": "In Spanish, every vowel is full. In English, only the stressed one is.",
+      "cols": [
+        {
+          "head": "🇪🇸 Español",
+          "color": "orange",
+          "items": [
+            "5 vocales, siempre <b>iguales</b>",
+            "plátano → pla-ta-no: tres a claras",
+            "todas las sílabas duran casi lo mismo",
+            "ritmo de metralleta: ta-ta-ta-ta"
+          ]
+        },
+        {
+          "head": "🇺🇸 Inglés",
+          "color": "blue",
+          "items": [
+            "la vocal <b>cambia</b> según el golpe",
+            "banana → <code>bənǽnə</code>: dos schwas",
+            "la sílaba fuerte es larga; las débiles, cortitas",
+            "ritmo de tambor: ta-TAM-ta (mapa R-03)"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así la escriben los americanos",
+      "title_en": "How Americans write it",
+      "icon": "✍️",
+      "items": [
+        { "written": "banana", "spoken": "buh-NAN-uh", "say": "bənǽnə", "es": "plátano («uh» = schwa)" },
+        { "written": "about", "spoken": "uh-BOUT", "say": "əbáut", "es": "sobre, acerca de" },
+        { "written": "sofa", "spoken": "SO-fuh", "say": "sóufə", "es": "sofá" },
+        { "written": "lemon", "spoken": "LEM-un", "say": "lémən", "es": "limón" },
+        { "written": "today", "spoken": "tuh-DAY", "say": "tədéi", "es": "hoy" },
+        { "written": "the", "spoken": "thuh", "say": "də", "es": "el, la, los, las" }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "Let's go to Canada!", "say": "lets góu tə kǽnədə", "es": "¡Vamos a Canadá!", "icon": "🍁" },
+        { "en": "The lemon is on the table.", "say": "də lémən is an də téibəl", "es": "El limón está en la mesa.", "icon": "🍋" },
+        { "en": "I have a problem.", "say": "ai jǽv ə prábləm", "es": "Tengo un problema.", "icon": "😬" },
+        { "en": "Can I have a pencil?", "say": "kən ai jǽv ə pénsəl", "es": "¿Me das un lápiz?", "icon": "✏️" },
+        { "en": "It's about seven o'clock.", "say": "its əbáut sévən əklák", "es": "Son más o menos las siete.", "icon": "🕖" },
+        { "en": "My family is from America.", "say": "mai fǽməli is frəm əmérəkə", "es": "Mi familia es de América.", "icon": "👨‍👩‍👧" },
+        { "en": "The gorilla ate a banana.", "say": "də gərílə éirə bənǽnə", "es": "El gorila se comió un plátano.", "icon": "🦍" },
+        { "en": "I love chocolate.", "say": "ai lav cháklət", "es": "Me encanta el chocolate.", "icon": "🍫" },
+        { "en": "We need a new sofa.", "say": "wi níid ə nuu sóufə", "es": "Necesitamos un sofá nuevo.", "icon": "🛋️" },
+        { "en": "See you tomorrow!", "say": "sii iu təmárou", "es": "¡Hasta mañana!", "icon": "👋" },
+        { "en": "Today is Christmas!", "say": "tədéi is krísməs", "es": "¡Hoy es Navidad!", "icon": "🎄" },
+        { "en": "The baby is asleep.", "say": "də béibi is əslíip", "es": "El bebé está dormido.", "icon": "👶" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "banana → <code>ba-ná-na</code> (tres a iguales)",
+          "good": "<code>bənǽnə</code>",
+          "why": "Solo NA suena clara. Las otras dos a, flojitas.",
+          "why_en": "Only the stressed syllable is clear."
+        },
+        {
+          "bad": "sofa → <code>sofá</code>",
+          "good": "<code>sóufə</code>",
+          "why": "El golpe va al principio, y la a final es schwa.",
+          "why_en": "Stress the first syllable; the final a is a schwa."
+        },
+        {
+          "bad": "about → <code>a-báut</code> (a española)",
+          "good": "<code>əbáut</code>",
+          "why": "La primera a casi no se oye: un «ə» rapidísimo.",
+          "why_en": "The first a is a tiny, quick schwa."
+        },
+        {
+          "bad": "problem → <code>problém</code>",
+          "good": "<code>prábləm</code>",
+          "why": "Fuerza en PROB. La e del final se vuelve schwa.",
+          "why_en": "Stress PROB; the e becomes a schwa."
+        },
+        {
+          "bad": "chocolate → <code>cho-ko-lá-te</code>",
+          "good": "<code>cháklət</code>",
+          "why": "Dos sílabas, golpe en CHOC y final flojo.",
+          "why_en": "Two syllables, stress on CHOC."
+        },
+        {
+          "bad": "the → <code>dé</code> (fuerte, con d de «dedo»)",
+          "good": "<code>də</code>",
+          "why": "Floja y rápida, pegada a la palabra siguiente.",
+          "why_en": "Weak and quick, linked to the next word."
+        },
+        {
+          "bad": "Canada → <code>kanadá</code>",
+          "good": "<code>kǽnədə</code>",
+          "why": "En inglés el golpe va en CAN y las dos a finales se apagan.",
+          "why_en": "Stress CAN; the last two a's are schwas."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¿Qué merendamos?",
+      "title_en": "Snack time",
+      "lines": [
+        { "who": "Jenny", "en": "Mario, do you want a banana?", "say": "mário, du iu wánt ə bənǽnə?", "es": "Mario, ¿quieres un plátano?" },
+        { "who": "Mario", "en": "No, thanks. I want chocolate!", "say": "nóu, zænks. ai wánt cháklət!", "es": "No, gracias. ¡Quiero chocolate!" },
+        { "who": "Jenny", "en": "Chocolate again? That's a problem!", "say": "cháklət əguén? dæts ə prábləm!", "es": "¿Chocolate otra vez? ¡Eso es un problema!" },
+        { "who": "Mario", "en": "Why? It's only seven o'clock.", "say": "wai? its óunli sévən əklák.", "es": "¿Por qué? Solo son las siete." },
+        { "who": "Jenny", "en": "OK, but tomorrow it's pasta and salad.", "say": "óukéi, bət təmárou its pástə ən sǽləd.", "es": "Vale, pero mañana toca pasta y ensalada." },
+        { "who": "Mario", "en": "Pasta with lemon?", "say": "pástə wid lémən?", "es": "¿Pasta con limón?" },
+        { "who": "Jenny", "en": "No, with tomato. It's delicious!", "say": "nóu, wid təméirou. its dilíshəs!", "es": "No, con tomate. ¡Está buenísima!" },
+        { "who": "Mario", "en": "OK! Pasta tomorrow… and chocolate today!", "say": "óukéi! pástə təmárou… ən cháklət tədéi!", "es": "¡Vale! Pasta mañana… ¡y chocolate hoy!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarla en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di «eeh…» como cuando dudas. Ahora hazlo <b>cortito</b>: «ə». Ese es el sonido.",
+          "en": "Say «eeh…» like when you hesitate, then make it very short."
+        },
+        {
+          "es": "Coge una palabra y busca su <b>sílaba fuerte</b> (en el diccionario lleva ˈ delante).",
+          "en": "Find the stressed syllable (marked ˈ in the dictionary)."
+        },
+        {
+          "es": "Exagera: la fuerte larga y alta, las débiles mínimas: «bə-<b>nǽǽǽ</b>-nə».",
+          "en": "Exaggerate: long strong syllable, tiny weak ones."
+        },
+        {
+          "es": "Pasa a frases cortas: <code>ə bənǽnə</code>, <code>də sóufə</code>, <code>tə kǽnədə</code>.",
+          "en": "Move on to short phrases."
+        },
+        {
+          "es": "Escanea los QR, escucha 3 vídeos y <b>grábate</b>. ¿Tus vocales débiles son flojitas?",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "A banana, a lemon and a gorilla in America.",
+          "say": "ə bənǽnə, ə lémən ən ə gərílə in əmérəkə",
+          "es": "Un plátano, un limón y un gorila en América."
+        },
+        {
+          "en": "Amanda's panda ate a banana on the sofa.",
+          "say": "əmǽndəs pǽndə éirə bənǽnə an də sóufə",
+          "es": "El panda de Amanda se comió un plátano en el sofá."
+        },
+        {
+          "en": "Today, tomorrow, again and again.",
+          "say": "tədéi, təmárou, əguén ən əguén",
+          "es": "Hoy, mañana, otra vez y otra vez."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de la siesta",
+      "title_en": "The siesta trick",
+      "es": "Imagina que cada palabra es una familia a la hora de la siesta 😴: solo <b>una sílaba</b> está despierta y habla alto; las demás duermen y apenas murmuran «ə». En <b>banana</b>, dos duermen y una habla: <code>bənǽnə</code>. ¡No despiertes a las dormidas!",
+      "en": "Imagine a word at siesta time: only one syllable is awake and speaks clearly. The others are asleep and just murmur «uh»."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Cuántas schwas?",
+      "title_en": "How many schwas?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea cuántas schwas tiene.",
+      "en": "Say the word and circle how many schwas it has.",
+      "items": [
+        { "q": "banana → [1|2|3]", "a": "2" },
+        { "q": "about → [1|2|3]", "a": "1" },
+        { "q": "lemon → [1|2|3]", "a": "1" },
+        { "q": "America → [1|2|3]", "a": "3" },
+        { "q": "Canada → [1|2|3]", "a": "2" },
+        { "q": "sofa → [1|2|3]", "a": "1" },
+        { "q": "today → [1|2|3]", "a": "1" },
+        { "q": "elephant → [1|2|3]", "a": "2" },
+        { "q": "gorilla → [1|2|3]", "a": "2" },
+        { "q": "pencil → [1|2|3]", "a": "1" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Delante o detrás?",
+      "title_en": "Before or after?",
+      "icon": "🗂️",
+      "es": "Di cada palabra. ¿La schwa está antes de la sílaba fuerte (como en <b>about</b>) o después (como en <b>sofa</b>)? Escríbela en su columna.",
+      "en": "Is the schwa before the stressed syllable or after it?",
+      "cats": [
+        {
+          "name": "👈 Schwa delante: about",
+          "words": ["again", "today", "police", "support", "asleep", "away", "around", "ago"]
+        },
+        {
+          "name": "👉 Schwa detrás: sofa",
+          "words": ["lemon", "pizza", "seven", "pencil", "open", "chicken", "salad", "pasta"]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["banana", "<code>bənǽnə</code>"],
+        ["about", "<code>əbáut</code>"],
+        ["lemon", "<code>lémən</code>"],
+        ["sofa", "<code>sóufə</code>"],
+        ["today", "<code>tədéi</code>"],
+        ["problem", "<code>prábləm</code>"],
+        ["pencil", "<code>pénsəl</code>"],
+        ["America", "<code>əmérəkə</code>"]
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Después tacha con una raya las vocales que suenan schwa.",
+      "en": "Circle the stressed syllable, then cross out the schwa vowels.",
+      "items": [
+        { "syl": ["ba", "na", "na"], "s": 1, "es": "plátano" },
+        { "syl": ["a", "bout"], "s": 1, "es": "sobre" },
+        { "syl": ["le", "mon"], "s": 0, "es": "limón" },
+        { "syl": ["so", "fa"], "s": 0, "es": "sofá" },
+        { "syl": ["to", "day"], "s": 1, "es": "hoy" },
+        { "syl": ["A", "mer", "i", "ca"], "s": 1, "es": "América" },
+        { "syl": ["Can", "a", "da"], "s": 0, "es": "Canadá" },
+        { "syl": ["po", "lice"], "s": 1, "es": "policía" },
+        { "syl": ["prob", "lem"], "s": 0, "es": "problema" },
+        { "syl": ["el", "e", "phant"], "s": 0, "es": "elefante" }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Usa <b>ə</b> para la schwa y pon tilde en la sílaba fuerte (si te cuesta, escribe una e pequeñita).",
+      "en": "Write how each word sounds. Use ə for the schwa.",
+      "items": [
+        { "q": "🍕 pizza → ____", "a": "píitsə" },
+        { "q": "7️⃣ seven → ____", "a": "sévən" },
+        { "q": "🚪 open → ____", "a": "óupən" },
+        { "q": "💃 salsa → ____", "a": "sálsə" },
+        { "q": "🔁 again → ____", "a": "əguén" },
+        { "q": "👮 police → ____", "a": "pəlíis" },
+        { "q": "🐔 chicken → ____", "a": "chíkən" },
+        { "q": "🐾 animal → ____", "a": "ǽnəməl" },
+        { "q": "🎄 Christmas → ____", "a": "krísməs" },
+        { "q": "🏃 away → ____", "a": "əwéi" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "The schwa is the most common vowel sound in English.", "a": true },
+        { "q": "The schwa is always spelled with the letter A.", "a": false, "why": "puede ser a, e, i, o, u" },
+        { "q": "The schwa appears in stressed syllables.", "a": false, "why": "en las débiles" },
+        { "q": "In «banana», the three A's sound the same.", "a": false, "why": "dos schwas y una æ: bənǽnə" },
+        { "q": "«Sofa» is stressed on the first syllable.", "a": true },
+        { "q": "The schwa sounds like a short, lazy «e».", "a": true },
+        { "q": "In «lemon», the O sounds like the Spanish o.", "a": false, "why": "es schwa: lémən" },
+        { "q": "American dictionaries often write the schwa as «uh».", "a": true }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Qué letra es la schwa?",
+      "title_en": "Which letter is the schwa?",
+      "icon": "🔤",
+      "es": "Di la palabra y rodea la letra que suena como schwa.",
+      "en": "Say the word and circle the letter that sounds like a schwa.",
+      "items": [
+        { "q": "pencil → [e|i]", "a": "i" },
+        { "q": "lemon → [e|o]", "a": "o" },
+        { "q": "about → [a|ou]", "a": "a" },
+        { "q": "support → [u|o]", "a": "u" },
+        { "q": "problem → [o|e]", "a": "e" },
+        { "q": "sofa → [o|a]", "a": "a" },
+        { "q": "today → [o|a]", "a": "o" },
+        { "q": "Christmas → [i|a]", "a": "a" },
+        { "q": "kitchen → [i|e]", "a": "e" },
+        { "q": "salad → [1.ª a|2.ª a]", "a": "2.ª a" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "banana → <code>banána</code>", "a": "bənǽnə" },
+        { "q": "sofa → <code>sofá</code>", "a": "sóufə" },
+        { "q": "lemon → <code>lemón</code>", "a": "lémən" },
+        { "q": "chocolate → <code>chokoláte</code>", "a": "cháklət" },
+        { "q": "Canada → <code>kanadá</code>", "a": "kǽnədə" },
+        { "q": "problem → <code>problém</code>", "a": "prábləm" },
+        { "q": "today → <code>tódei</code>", "a": "tədéi" },
+        { "q": "Florida → <code>florída</code>", "a": "flórədə" }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "¿Cómo se escribe?",
+      "title_en": "How do you spell it?",
+      "icon": "🔡",
+      "es": "Escribe la palabra en inglés. ¡Cuidado! La schwa puede escribirse con cualquier vocal.",
+      "en": "Write the English word. The schwa can be any vowel letter!",
+      "items": [
+        { "q": "🍋 limón", "a": "lemon" },
+        { "q": "🍌 plátano", "a": "banana" },
+        { "q": "🛋️ sofá", "a": "sofa" },
+        { "q": "✏️ lápiz", "a": "pencil" },
+        { "q": "7️⃣ siete", "a": "seven" },
+        { "q": "🐔 pollo", "a": "chicken" },
+        { "q": "🦍 gorila", "a": "gorilla" },
+        { "q": "🥗 ensalada", "a": "salad" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «Sílaba fuerte» escribe la sílaba en mayúsculas.",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Español", "Suena", "Sílaba fuerte"],
+      "rows": [
+        ["banana", "plátano", "?bənǽnə", "?NA"],
+        ["?lemon", "limón", "lémən", "LE"],
+        ["sofa", "?sofá", "sóufə", "?SO"],
+        ["today", "hoy", "?tədéi", "?DAY"],
+        ["?pencil", "lápiz", "pénsəl", "?PEN"],
+        ["about", "?sobre", "əbáut", "?BOUT"],
+        ["police", "policía", "?pəlíis", "?LICE"],
+        ["?seven", "siete", "?sévən", "SEV"]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Dilo todo junto",
+      "title_en": "Say it all together",
+      "icon": "🔗",
+      "es": "Escribe cómo suena cada grupo, con schwa en las palabritas y en las sílabas débiles.",
+      "en": "Write how each phrase sounds, with schwas in the weak parts.",
+      "items": [
+        { "q": "a banana", "a": "ə bənǽnə" },
+        { "q": "the lemon", "a": "də lémən" },
+        { "q": "to Canada", "a": "tə kǽnədə" },
+        { "q": "a sofa", "a": "ə sóufə" },
+        { "q": "the problem", "a": "də prábləm" },
+        { "q": "about seven", "a": "əbáut sévən" },
+        { "q": "a pencil", "a": "ə pénsəl" },
+        { "q": "again and again", "a": "əguén ən əguén" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez. ¡Sílabas débiles flojitas!",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "a banana", "say": "ə bənǽnə" },
+        { "q": "the problem", "say": "də prábləm" },
+        { "q": "about seven o'clock", "say": "əbáut sévən əklák" },
+        { "q": "I love chocolate.", "say": "ai lav cháklət" },
+        { "q": "See you tomorrow!", "say": "sii iu təmárou" },
+        { "q": "The gorilla ate a banana.", "say": "də gərílə éirə bənǽnə" },
+        { "q": "My family is from Canada.", "say": "mai fǽməli is frəm kǽnədə" },
+        { "q": "Open the window, please.", "say": "óupən də wíndou, pliis" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con sus schwas.",
+      "en": "Translate into English and say it with its schwas.",
+      "items": [
+        { "q": "hoy", "a": "today (tədéi)" },
+        { "q": "mañana", "a": "tomorrow (təmárou)" },
+        { "q": "problema", "a": "problem (prábləm)" },
+        { "q": "policía", "a": "police (pəlíis)" },
+        { "q": "otra vez", "a": "again (əguén)" },
+        { "q": "familia", "a": "family (fǽməli)" },
+        { "q": "elefante", "a": "elephant (éləfənt)" },
+        { "q": "abrir", "a": "open (óupən)" },
+        { "q": "animal", "a": "animal (ǽnəməl)" },
+        { "q": "Navidad", "a": "Christmas (krísməs)" }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de schwas",
+      "title_en": "Schwa word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con schwa. Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 words with a schwa.",
+      "words": ["banana", "lemon", "sofa", "pencil", "about", "today", "seven", "gorilla", "pizza", "panda"],
+      "clues": ["banana · plátano", "lemon · limón", "sofa · sofá", "pencil · lápiz", "about · sobre", "today · hoy", "seven · siete", "gorilla · gorila", "pizza · pizza", "panda · panda"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las schwas",
+      "title_en": "Read and find the schwas",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "A Day at the Zoo",
+      "text": [
+        "Amanda and her family are at the zoo in Florida. They see a gorilla, an elephant and a panda. The gorilla is eating a banana.",
+        "“Look! It's like a person!” says Amanda. At about seven o'clock, the animals go to sleep. “Siesta time!” says her dad."
+      ],
+      "items": [
+        { "q": "Where is Amanda?", "a": "At the zoo in Florida (<code>flórədə</code>)." },
+        { "q": "Write three animals from the text.", "a": "gorilla, elephant, panda (<code>gərílə</code>, <code>éləfənt</code>, <code>pǽndə</code>)" },
+        { "q": "How many schwas are there in «banana»?", "a": "Two: <code>bənǽnə</code>." },
+        { "q": "The gorilla is eating a lemon.", "tf": true, "a": false, "why": "a banana" },
+        { "q": "In «Florida», the stress is on «RI».", "tf": true, "a": false, "why": "FLÓ-rə-də" },
+        { "q": "The animals go to sleep at about seven.", "tf": true, "a": true }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con palabras que tengan schwa. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with schwa words and record yourself.",
+      "items": [
+        {
+          "q": "Una frase sobre comida (banana, lemon, pasta, chocolate…).",
+          "lines": 2,
+          "a": "Ej.: I want a banana and a lemon."
+        },
+        {
+          "q": "Una frase sobre animales (gorilla, panda, elephant…).",
+          "lines": 2,
+          "a": "Ej.: The panda is asleep on the sofa."
+        },
+        {
+          "q": "Una frase con «today», «tomorrow» o «again».",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé qué es la schwa y cómo suena: <code>ə</code>, un «eeh» cortito y flojo.", "en": "I know what the schwa is and how it sounds." },
+    { "es": "Encuentro la sílaba fuerte y aflojo las demás.", "en": "I find the stressed syllable and relax the others." },
+    { "es": "Digo <b>banana</b> como <code>bənǽnə</code>, no «ba-na-na».", "en": "I can say banana with two schwas." },
+    { "es": "Sé que la schwa puede escribirse con a, e, i, o, u.", "en": "I know the schwa can be spelled with any vowel." },
+    { "es": "Digo bien <b>sofa</b>, <b>lemon</b>, <b>Canada</b> y <b>chocolate</b>.", "en": "I can say sofa, lemon, Canada and chocolate." },
+    { "es": "Digo «a», «the» y «to» flojitas y pegadas.", "en": "I say a, the and to weak and linked." }
+  ]
+}

@@ -1,0 +1,1723 @@
+{
+  "id": "C-01",
+  "block": "C",
+  "title": "LA <em>R</em> AMERICANA",
+  "file_title": "La R americana",
+  "subtitle": "The American R · la r que no vibra",
+  "icon": "🏴‍☠️",
+  "map": {
+    "center": "La <b>R americana</b> no vibra y no toca nada: la lengua se va <b>hacia atrás</b> y se queda en el aire.",
+    "listen": "red",
+    "nodes": [
+      {
+        "title": "Así se pone la boca",
+        "icon": "👅",
+        "color": "green",
+        "items": [
+          "lengua <b>hacia atrás</b>, sin tocar nada",
+          "labios un poco <b>redondos</b>",
+          "vibra la garganta, <b>no la lengua</b>"
+        ]
+      },
+      {
+        "title": "Truco de la u",
+        "icon": "👄",
+        "color": "blue",
+        "rows": [
+          [
+            "red",
+            "<code>(u)red</code>"
+          ],
+          [
+            "run",
+            "<code>(u)ran</code>"
+          ],
+          [
+            "Rocky",
+            "<code>(u)ráki</code>"
+          ]
+        ],
+        "after": "una <b>u</b> mudita que redondea los labios"
+      },
+      {
+        "title": "En grupos",
+        "icon": "🔗",
+        "color": "purple",
+        "rows": [
+          [
+            "tree",
+            "<code>trii</code>"
+          ],
+          [
+            "green",
+            "<code>griin</code>"
+          ],
+          [
+            "three",
+            "<code>zrii</code>"
+          ]
+        ]
+      },
+      {
+        "title": "¡Al final se oye!",
+        "icon": "🔊",
+        "color": "orange",
+        "rows": [
+          [
+            "car",
+            "<code>kar</code>"
+          ],
+          [
+            "four",
+            "<code>for</code>"
+          ],
+          [
+            "never",
+            "<code>néver</code>"
+          ]
+        ]
+      },
+      {
+        "title": "R y RR: igual",
+        "icon": "🥕",
+        "color": "pink",
+        "rows": [
+          [
+            "sorry",
+            "<code>sári</code>"
+          ],
+          [
+            "carrot",
+            "<code>kérət</code>"
+          ]
+        ],
+        "after": "una sola R, <b>sin vibrar</b>"
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Di una <b>a</b> larga y curva la lengua <b>hacia atrás</b> sin tocar nada: <code>aaar</code>. ¡Como un pirata!",
+        "art": "🏴‍☠️"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "<code>rred</code> con la rr de «perro»"
+      ],
+      "good": [
+        "<code>red</code> sin vibrar 🔴"
+      ],
+      "note": "Si la lengua vibra, suena a español. ¡No toca nada!"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🚗 car → ____",
+          "a": "kar"
+        },
+        {
+          "q": "🌳 tree → ____",
+          "a": "trii"
+        },
+        {
+          "q": "🙏 sorry → ____",
+          "a": "sári"
+        },
+        {
+          "q": "🚪 door → ____",
+          "a": "dor"
+        },
+        {
+          "q": "🥕 carrot → ____",
+          "a": "kérət"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué tiene de especial?",
+      "title_en": "What makes it special?",
+      "icon": "🔎",
+      "es": "En español tenemos dos erres: la <b>r</b> de «pe<b>r</b>o» (un toque) y la <b>rr</b> de «pe<b>rr</b>o» (vibra como un motor). La R americana <mark>no es ninguna de las dos</mark>: la lengua se va <b>hacia atrás</b> y <b>no toca nada</b>. Suena suave, casi como un gruñido. Y en Estados Unidos se pronuncia <b>siempre</b>: al principio (red), en grupos (tree), entre vocales (sorry) y al final (car). En la figurada, la <code>r</code> es siempre esta R (la de water es otra historia: mapa C-02).",
+      "en": "The American R never taps or trills. Your tongue pulls back and touches nothing. And in the US you always say it: red, tree, sorry, car.",
+      "formula": [
+        "lengua *atrás* + labios *redondos* + sin tocar nada → *R americana*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "tongue",
+          "es": "La punta se curva <b>hacia atrás</b> (o toda la lengua se encoge hacia el fondo). <b>No toca</b> el paladar ni la encía: se queda flotando.",
+          "en": "Pull your tongue back. The tip doesn't touch the roof of your mouth."
+        },
+        {
+          "part": "teeth",
+          "es": "Los <b>lados</b> de la lengua se apoyan en las muelas de arriba. Es lo único que toca algo.",
+          "en": "The sides of your tongue touch your upper back teeth."
+        },
+        {
+          "part": "lips",
+          "es": "Labios un poco <b>redondos</b> y hacia delante, sobre todo al principio de palabra: red, right, run.",
+          "en": "Round your lips a little, especially at the start of a word."
+        },
+        {
+          "part": "voice",
+          "es": "La garganta <b>vibra</b> (mano en el cuello), pero la lengua <b>no vibra</b>: nada de «rrrr».",
+          "en": "Your voice vibrates, but your tongue doesn't trill."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · R al principio",
+      "title_en": "R at the start",
+      "icon": "🔴",
+      "es": "En español, la R al principio de palabra vibra fuerte (<i>rojo, Roma, ratón</i>). En inglés, <mark>nunca</mark>. Pon los labios como para decir <b>u</b>, echa la lengua atrás y deslízate hacia la vocal: <code>(u)red</code>. Esa u es mudita: solo prepara la boca.",
+      "en": "Spanish trills an R at the start of a word. English never does. Round your lips, pull your tongue back and glide into the vowel.",
+      "formula": [
+        "labios en *u* + lengua *atrás* → *red* sin vibrar"
+      ],
+      "examples": [
+        {
+          "en": "red",
+          "say": "red",
+          "es": "rojo",
+          "icon": "🔴"
+        },
+        {
+          "en": "run",
+          "say": "ran",
+          "es": "correr",
+          "icon": "🏃"
+        },
+        {
+          "en": "rabbit",
+          "say": "rǽbit",
+          "es": "conejo",
+          "icon": "🐰"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · R en grupos",
+      "title_en": "R in clusters",
+      "icon": "🌳",
+      "es": "Cuando la R va detrás de otra consonante (<b>tr, dr, br, gr, fr, pr, cr, thr</b>), pasa directa a la R: sin meter vocal en medio y sin dar toque. Curiosidad: en <b>TR</b> muchos americanos dicen casi «ch»: tree suena casi <code>chrii</code>.",
+      "en": "After another consonant, glide straight into the R: no extra vowel, no tap. In TR, many Americans say something close to «chr».",
+      "examples": [
+        {
+          "en": "tree",
+          "say": "trii",
+          "es": "árbol",
+          "icon": "🌳"
+        },
+        {
+          "en": "green",
+          "say": "griin",
+          "es": "verde",
+          "icon": "💚"
+        },
+        {
+          "en": "friend",
+          "say": "frend",
+          "es": "amigo",
+          "icon": "🤝"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · R entre vocales (y RR)",
+      "title_en": "R between vowels",
+      "icon": "🥕",
+      "es": "Entre vocales, el español hace un toque (pe<b>r</b>o) o vibra (pe<b>rr</b>o). El inglés, ni lo uno ni lo otro: la misma R americana de siempre. Y ojo con la <b>RR escrita</b> (sorry, carrot, mirror): <mark>en inglés, RR = una sola R</mark>, sin vibrar.",
+      "en": "Between vowels, the American R stays the same. A written RR is just one R: no trill.",
+      "examples": [
+        {
+          "en": "very",
+          "say": "véri",
+          "es": "muy",
+          "icon": "💯"
+        },
+        {
+          "en": "sorry",
+          "say": "sári",
+          "es": "perdón",
+          "icon": "🙏"
+        },
+        {
+          "en": "carrot",
+          "say": "kérət",
+          "es": "zanahoria",
+          "icon": "🥕"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · R al final: ¡se oye!",
+      "title_en": "Final R: say it!",
+      "icon": "🚗",
+      "es": "En Estados Unidos la R final <mark>se pronuncia siempre</mark> (los británicos se la suelen comer). Al final de palabra o antes de consonante, termina con la lengua hacia atrás: <code>kar</code>, <code>for</code>, <code>park</code>. La vocal que va delante de la R la verás a fondo en los mapas V-09 y V-10.",
+      "en": "Americans always pronounce a final R: car, four, park. British speakers usually drop it.",
+      "examples": [
+        {
+          "en": "car",
+          "say": "kar",
+          "es": "coche",
+          "icon": "🚗"
+        },
+        {
+          "en": "four",
+          "say": "for",
+          "es": "cuatro",
+          "icon": "4️⃣"
+        },
+        {
+          "en": "never",
+          "say": "néver",
+          "es": "nunca",
+          "icon": "🙅"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "red",
+          "ipa": "rɛd",
+          "say": "red",
+          "es": "rojo",
+          "icon": "🔴",
+          "anchor": "<s>red</s> 🎣 → <b>(u)red</b>",
+          "tip": "Se escribe como la red de pescar, pero sin vibrar: labios en u y lengua atrás."
+        },
+        {
+          "en": "rain",
+          "ipa": "reɪn",
+          "say": "rein",
+          "es": "lluvia",
+          "icon": "🌧️",
+          "anchor": "<b>rein</b>a 👑",
+          "tip": "«Reina» sin la -a… y sin vibrar la r. ¡Una reina bajo la lluvia!"
+        },
+        {
+          "en": "run",
+          "ipa": "rʌn",
+          "say": "ran",
+          "es": "correr",
+          "icon": "🏃",
+          "anchor": "<b>ran</b>a 🐸",
+          "tip": "Una rana que corre: run! «Rana» sin la -a y con la R suave."
+        },
+        {
+          "en": "tree",
+          "ipa": "triː",
+          "say": "trii",
+          "es": "árbol",
+          "icon": "🌳",
+          "anchor": "<b>tri</b>go 🌾",
+          "tip": "Casi: alarga la i y no toques con la lengua. Suena casi <code>chrii</code>."
+        },
+        {
+          "en": "green",
+          "ipa": "ɡriːn",
+          "say": "griin",
+          "es": "verde",
+          "icon": "💚",
+          "anchor": "el <b>Grin</b>ch 🎄",
+          "tip": "¡El Grinch es verde! Pero alarga la i: <code>griin</code>."
+        },
+        {
+          "en": "friend",
+          "ipa": "frɛnd",
+          "say": "frend",
+          "es": "amigo",
+          "icon": "🤝",
+          "anchor": "<b>fren</b>te 🙂",
+          "tip": "«Frente» sin -te, más una d final. La r, sin toque."
+        },
+        {
+          "en": "sorry",
+          "ipa": "ˈsɑri",
+          "say": "sári",
+          "es": "perdón",
+          "icon": "🙏",
+          "anchor": "un <b>sari</b> de la India 🥻",
+          "tip": "Como el vestido indio, pero con la lengua atrás en la r. ¡Nada de «so-rri»!"
+        },
+        {
+          "en": "carrot",
+          "ipa": "ˈkɛrət",
+          "say": "kérət",
+          "es": "zanahoria",
+          "icon": "🥕",
+          "anchor": "<s>ca-rrot</s> → <b>KÉ</b>rət",
+          "tip": "Ni «ca» ni rr: KÉ-rət, con una sola R suave."
+        },
+        {
+          "en": "car",
+          "ipa": "kɑr",
+          "say": "kar",
+          "es": "coche",
+          "icon": "🚗",
+          "anchor": "<b>car</b>ta ✉️",
+          "tip": "«Carta» sin -ta, terminando con la lengua curvada hacia atrás."
+        },
+        {
+          "en": "park",
+          "ipa": "pɑrk",
+          "say": "park",
+          "es": "parque",
+          "icon": "🛝",
+          "anchor": "<b>parqu</b>e 🌳",
+          "tip": "«Parque» sin la e final. La r no toca: se queda flotando."
+        },
+        {
+          "en": "star",
+          "ipa": "stɑr",
+          "say": "star",
+          "es": "estrella",
+          "icon": "⭐",
+          "anchor": "e<b>star</b> ⭐",
+          "tip": "Quítale la e a «estar» (¡nada de «Espain»!, mapa C-11) y deja la R final en el aire."
+        },
+        {
+          "en": "four",
+          "ipa": "fɔr",
+          "say": "for",
+          "es": "cuatro",
+          "icon": "4️⃣",
+          "anchor": "<b>for</b>ma 🔺",
+          "tip": "«Forma» sin -ma. ¡Y que se oiga la R del final!"
+        },
+        {
+          "en": "door",
+          "ipa": "dɔr",
+          "say": "dor",
+          "es": "puerta",
+          "icon": "🚪",
+          "anchor": "<b>Dor</b>a la exploradora 🗺️",
+          "tip": "Dora sin la -a: <code>dor</code>. ¡Dora abre la door!"
+        },
+        {
+          "en": "mister",
+          "ipa": "ˈmɪstɚ",
+          "say": "míster",
+          "es": "señor (Mr.)",
+          "icon": "🎩",
+          "anchor": "el <b>míster</b> del equipo ⚽",
+          "tip": "Como llaman los futbolistas al entrenador, pero acabando con la lengua atrás."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "red",
+          "es": "rojo"
+        },
+        {
+          "q": "really",
+          "es": "de verdad"
+        },
+        {
+          "q": "green",
+          "es": "verde"
+        },
+        {
+          "q": "sorry",
+          "es": "perdón"
+        },
+        {
+          "q": "car",
+          "es": "coche"
+        },
+        {
+          "q": "never",
+          "es": "nunca"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Dónde está la R?",
+      "title_en": "Where is the R?",
+      "icon": "🧭",
+      "head": [
+        "Palabra · Word",
+        "¿Dónde está la R?",
+        "Suena",
+        "Ojo"
+      ],
+      "rows": [
+        [
+          "red",
+          "al principio",
+          "<code>red</code>",
+          "labios en u, sin vibrar"
+        ],
+        [
+          "Rocky",
+          "al principio",
+          "<code>ráki</code>",
+          "¡nada de rr!"
+        ],
+        [
+          "tree",
+          "grupo TR",
+          "<code>trii</code>",
+          "suena casi <code>chrii</code>"
+        ],
+        [
+          "three",
+          "grupo THR",
+          "<code>zrii</code>",
+          "z + R (mapa C-04)"
+        ],
+        [
+          "bread",
+          "grupo BR",
+          "<code>bred</code>",
+          "sin vocal en medio"
+        ],
+        [
+          "very",
+          "entre vocales",
+          "<code>véri</code>",
+          "sin toque"
+        ],
+        [
+          "sorry",
+          "RR escrita",
+          "<code>sári</code>",
+          "una sola R"
+        ],
+        [
+          "car",
+          "al final",
+          "<code>kar</code>",
+          "¡se oye!"
+        ],
+        [
+          "park",
+          "antes de consonante",
+          "<code>park</code>",
+          "¡se oye!"
+        ],
+        [
+          "teacher",
+          "-ER final",
+          "<code>tíicher</code>",
+          "¡se oye! (mapa V-09)"
+        ],
+        [
+          "write",
+          "WR al principio",
+          "<code>rait</code>",
+          "la W no suena (mapa C-15)"
+        ]
+      ],
+      "note": "En inglés americano <b>todas</b> las R suenan igual: lengua atrás, sin tocar nada. Lo único que cambia es lo que hay alrededor.",
+      "note_en": "Every American R sounds the same: tongue back, touching nothing."
+    },
+    {
+      "t": "compare",
+      "wide": true,
+      "title": "Tres erres distintas",
+      "title_en": "Three different Rs",
+      "icon": "🔁",
+      "es": "El español tiene dos erres. El inglés americano usa una tercera que <b>no existe</b> en español.",
+      "en": "Spanish has two Rs. American English uses a third one.",
+      "cols": [
+        {
+          "head": "🇪🇸 r de «pero»",
+          "color": "blue",
+          "items": [
+            "un <b>toque</b> rápido de la lengua",
+            "pero, cara, para",
+            "en inglés: la T de water (mapa C-02)"
+          ]
+        },
+        {
+          "head": "🇪🇸 rr de «perro»",
+          "color": "orange",
+          "items": [
+            "la lengua <b>vibra</b> varias veces",
+            "perro, rojo, Roma",
+            "en inglés: <b>no existe</b>"
+          ]
+        },
+        {
+          "head": "🇺🇸 R americana",
+          "color": "red",
+          "items": [
+            "lengua <b>atrás</b>, no toca nada",
+            "red, tree, sorry, car",
+            "es la que suena en cada letra R"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Británico vs. americano",
+      "title_en": "British vs. American",
+      "icon": "🌍",
+      "es": "Los británicos se suelen «comer» la R final. Los americanos, nunca: es una de las marcas del acento de EE. UU.",
+      "en": "British speakers usually drop a final R. Americans always say it.",
+      "cols": [
+        {
+          "head": "🇬🇧 Reino Unido",
+          "color": "blue",
+          "items": [
+            "car → <code>kaa</code>",
+            "four → <code>foo</code>",
+            "never → <code>néva</code>",
+            "la R solo suena delante de vocal"
+          ]
+        },
+        {
+          "head": "🇺🇸 Estados Unidos",
+          "color": "red",
+          "items": [
+            "car → <code>kar</code>",
+            "four → <code>for</code>",
+            "never → <code>néver</code>",
+            "¡la R suena siempre!"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "¡No cambies de palabra!",
+      "title_en": "Don't change the word!",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "ring",
+            "ipa": "rɪŋ",
+            "say": "ring",
+            "es": "anillo",
+            "icon": "💍"
+          },
+          "b": {
+            "en": "wing",
+            "ipa": "wɪŋ",
+            "say": "wing",
+            "es": "ala",
+            "icon": "🐦"
+          },
+          "tip": "Si la u del truco suena de verdad, ring se convierte en wing. ¡La u es mudita!"
+        },
+        {
+          "a": {
+            "en": "right",
+            "ipa": "raɪt",
+            "say": "rait",
+            "es": "correcto",
+            "icon": "✅"
+          },
+          "b": {
+            "en": "white",
+            "ipa": "waɪt",
+            "say": "wait",
+            "es": "blanco",
+            "icon": "🤍"
+          },
+          "tip": "En right la lengua se va atrás; en white solo trabajan los labios."
+        },
+        {
+          "a": {
+            "en": "rest",
+            "ipa": "rɛst",
+            "say": "rest",
+            "es": "descansar",
+            "icon": "😴"
+          },
+          "b": {
+            "en": "west",
+            "ipa": "wɛst",
+            "say": "west",
+            "es": "oeste",
+            "icon": "🤠"
+          },
+          "tip": "El oeste de las pelis va con W. Descansar, con R."
+        },
+        {
+          "a": {
+            "en": "heart",
+            "ipa": "hɑrt",
+            "say": "jart",
+            "es": "corazón",
+            "icon": "❤️"
+          },
+          "b": {
+            "en": "hot",
+            "ipa": "hɑt",
+            "say": "jat",
+            "es": "caliente",
+            "icon": "🔥"
+          },
+          "tip": "Si te comes la R, tu corazón se vuelve «caliente». 😄"
+        },
+        {
+          "a": {
+            "en": "card",
+            "ipa": "kɑrd",
+            "say": "kard",
+            "es": "tarjeta",
+            "icon": "💳"
+          },
+          "b": {
+            "en": "cod",
+            "ipa": "kɑd",
+            "say": "kad",
+            "es": "bacalao",
+            "icon": "🐟"
+          },
+          "tip": "Sin R, ¡pagas con un bacalao!"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "Rocky is running in the rain.",
+          "say": "ráki is ráning in də rein",
+          "es": "Rocky está corriendo bajo la lluvia.",
+          "icon": "🐶"
+        },
+        {
+          "en": "My favorite color is red.",
+          "say": "mai féivərit káler is red",
+          "es": "Mi color favorito es el rojo.",
+          "icon": "🔴"
+        },
+        {
+          "en": "I'm sorry, I'm late.",
+          "say": "aim sári, aim leit",
+          "es": "Perdón, llego tarde.",
+          "icon": "⏰"
+        },
+        {
+          "en": "There are three trees in the park.",
+          "say": "dérer zrii triis in də park",
+          "es": "Hay tres árboles en el parque.",
+          "icon": "🌳"
+        },
+        {
+          "en": "My friend Ryan has a red car.",
+          "say": "mai frend ráiən jæs ə red kar",
+          "es": "Mi amigo Ryan tiene un coche rojo.",
+          "icon": "🚗"
+        },
+        {
+          "en": "Turn right at the river.",
+          "say": "tern rait ət də ríver",
+          "es": "Gira a la derecha en el río.",
+          "icon": "➡️"
+        },
+        {
+          "en": "We eat bread for breakfast.",
+          "say": "wi iit bred fer brékfəst",
+          "es": "Desayunamos pan.",
+          "icon": "🍞"
+        },
+        {
+          "en": "Never say never!",
+          "say": "néver sei néver!",
+          "es": "¡Nunca digas nunca!",
+          "icon": "🙅"
+        },
+        {
+          "en": "Open the door, please.",
+          "say": "óupən də dor, pliis",
+          "es": "Abre la puerta, por favor.",
+          "icon": "🚪"
+        },
+        {
+          "en": "I have four carrots.",
+          "say": "ai jæv for kérəts",
+          "es": "Tengo cuatro zanahorias.",
+          "icon": "🥕"
+        },
+        {
+          "en": "The rabbit is very hungry.",
+          "say": "də rǽbit is véri jángri",
+          "es": "El conejo tiene mucha hambre.",
+          "icon": "🐰"
+        },
+        {
+          "en": "The stars are bright tonight.",
+          "say": "də stars ar brait tənáit",
+          "es": "Las estrellas brillan esta noche.",
+          "icon": "⭐"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "red → <code>rred</code> (vibrando)",
+          "good": "<code>red</code>",
+          "why": "Al principio de palabra el español vibra; el inglés, nunca. Labios en u y lengua atrás.",
+          "why_en": "Never trill an English R."
+        },
+        {
+          "bad": "sorry → <code>sórri</code>",
+          "good": "<code>sári</code>",
+          "why": "La RR escrita es una sola R americana. Y la o suena «a» (mapa V-05).",
+          "why_en": "A written RR is just one R."
+        },
+        {
+          "bad": "car → <code>ka</code>",
+          "good": "<code>kar</code>",
+          "why": "En Estados Unidos la R final se pronuncia. Sin ella suena británico.",
+          "why_en": "Americans always say the final R."
+        },
+        {
+          "bad": "red → <code>wed</code>",
+          "good": "<code>red</code>",
+          "why": "La u del truco no se oye. Si suena, red se convierte en «wed» (casarse).",
+          "why_en": "Don't turn R into W."
+        },
+        {
+          "bad": "tree → <code>tri</code> con toque",
+          "good": "<code>trii</code>",
+          "why": "La lengua no toca: pasa directa de la t a la R. Y alarga la i.",
+          "why_en": "No tap after the T, and a long «ee»."
+        },
+        {
+          "bad": "teacher → <code>tíicha</code>",
+          "good": "<code>tíicher</code>",
+          "why": "La -er final lleva R americana (mapa V-09).",
+          "why_en": "Say the R in -er."
+        },
+        {
+          "bad": "Ferrari → <code>ferrári</code>",
+          "good": "<code>fərári</code>",
+          "why": "En boca americana ni la rr vibra: fə-RÁ-ri. 🏎️",
+          "why_en": "Even Ferrari has no trill in American English."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Rocky bajo la lluvia",
+      "title_en": "Rocky in the rain",
+      "lines": [
+        {
+          "who": "Mario",
+          "en": "Rocky, come here! It's raining!",
+          "say": "ráki, kam jir! its réining!",
+          "es": "¡Rocky, ven aquí! ¡Está lloviendo!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Where is he? Is he near the river?",
+          "say": "wer is ji? is ji nir də ríver?",
+          "es": "¿Dónde está? ¿Está cerca del río?"
+        },
+        {
+          "who": "Mario",
+          "en": "No, he's running around the tree!",
+          "say": "nou, jiis ráning əráund də trii!",
+          "es": "¡No, está corriendo alrededor del árbol!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Oh no! He's brown from the mud!",
+          "say": "ou nou! jiis braun frəm də mad!",
+          "es": "¡Oh, no! ¡Está marrón del barro!"
+        },
+        {
+          "who": "Mario",
+          "en": "Sorry, Jenny! He's a crazy dog.",
+          "say": "sári, yéni! jiis ə kréisi dog",
+          "es": "¡Perdón, Jenny! Es un perro loco."
+        },
+        {
+          "who": "Jenny",
+          "en": "That's OK. Run, Rocky, run!",
+          "say": "dæts oukéi. ran, ráki, ran!",
+          "es": "No pasa nada. ¡Corre, Rocky, corre!"
+        },
+        {
+          "who": "Mario",
+          "en": "Now we're all wet. Let's go home!",
+          "say": "nau wir ol wet. lets gou joum!",
+          "es": "Ahora estamos todos mojados. ¡Vámonos a casa!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Yes! And Rocky needs a bath!",
+          "say": "iés! ənd ráki niids ə bæz!",
+          "es": "¡Sí! ¡Y Rocky necesita un baño!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di una <b>a</b> larga: <code>aaa</code>. Ahora, sin cerrar la boca, curva la punta de la lengua <b>hacia atrás</b>: <code>aaar</code>.",
+          "en": "Say a long «ah» and curl your tongue back."
+        },
+        {
+          "es": "Comprueba: la lengua <b>no toca</b> el paladar y no vibra. Solo los lados rozan las muelas de arriba.",
+          "en": "Check: the tip touches nothing and doesn't trill."
+        },
+        {
+          "es": "Para la R del principio, pon los labios en <b>u</b> y suelta: <code>(u)red</code>, <code>(u)ran</code>, <code>(u)rein</code>.",
+          "en": "For a first R, round your lips first."
+        },
+        {
+          "es": "Practica los grupos despacio y luego júntalos: <code>t…rii</code>, <code>g…riin</code>, <code>f…rend</code>.",
+          "en": "Practise clusters slowly, then join them."
+        },
+        {
+          "es": "Termina las palabras con la lengua atrás: <code>kar</code>, <code>for</code>, <code>néver</code>. <b>Grábate</b> y compara con los QR.",
+          "en": "End words with your tongue back. Record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Rocky runs around the red rocks in the rain.",
+          "say": "ráki rans əráund də red raks in də rein",
+          "es": "Rocky corre alrededor de las rocas rojas bajo la lluvia."
+        },
+        {
+          "en": "Three green trees for four friends.",
+          "say": "zrii griin triis fer for frends",
+          "es": "Tres árboles verdes para cuatro amigos."
+        },
+        {
+          "en": "Round the rugged rock the ragged rascal ran.",
+          "say": "ráund də ráguid rak də rǽguid rǽskəl ræn",
+          "es": "Alrededor de la roca escarpada corrió el pícaro harapiento (tradicional)."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del pirata",
+      "title_en": "The pirate trick",
+      "es": "¿Se te escapa la rr? Imagina que eres un <b>pirata de película americana</b>: <code>aaar</code>, con la lengua hacia atrás y sin vibrar. Esa es tu R para red, tree, sorry y car. 🏴‍☠️",
+      "en": "Can't stop trilling? Be a movie pirate: «Arrr!», with your tongue pulled back and no trill."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Dónde está la R?",
+      "title_en": "Where is the R?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea dónde está la R.",
+      "en": "Say the word and circle where the R is.",
+      "items": [
+        {
+          "q": "red → [principio|grupo|final]",
+          "a": "principio"
+        },
+        {
+          "q": "car → [principio|grupo|final]",
+          "a": "final"
+        },
+        {
+          "q": "tree → [principio|grupo|final]",
+          "a": "grupo"
+        },
+        {
+          "q": "run → [principio|grupo|final]",
+          "a": "principio"
+        },
+        {
+          "q": "four → [principio|grupo|final]",
+          "a": "final"
+        },
+        {
+          "q": "green → [principio|grupo|final]",
+          "a": "grupo"
+        },
+        {
+          "q": "door → [principio|grupo|final]",
+          "a": "final"
+        },
+        {
+          "q": "rabbit → [principio|grupo|final]",
+          "a": "principio"
+        },
+        {
+          "q": "friend → [principio|grupo|final]",
+          "a": "grupo"
+        },
+        {
+          "q": "star → [principio|grupo|final]",
+          "a": "final"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "🔴 R al principio",
+          "words": [
+            "rain",
+            "rock",
+            "room",
+            "Rocky",
+            "right",
+            "rice"
+          ]
+        },
+        {
+          "name": "🔗 R en grupo",
+          "words": [
+            "bread",
+            "three",
+            "dream",
+            "cry",
+            "price",
+            "Friday"
+          ]
+        },
+        {
+          "name": "🔚 R al final",
+          "words": [
+            "car",
+            "door",
+            "more",
+            "never",
+            "teacher",
+            "color"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "rain",
+          "<code>rein</code>"
+        ],
+        [
+          "run",
+          "<code>ran</code>"
+        ],
+        [
+          "sorry",
+          "<code>sári</code>"
+        ],
+        [
+          "carrot",
+          "<code>kérət</code>"
+        ],
+        [
+          "three",
+          "<code>zrii</code>"
+        ],
+        [
+          "never",
+          "<code>néver</code>"
+        ],
+        [
+          "door",
+          "<code>dor</code>"
+        ],
+        [
+          "rabbit",
+          "<code>rǽbit</code>"
+        ]
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "The American R is a trill, like the Spanish rr.",
+          "a": false,
+          "why": "no vibra nunca"
+        },
+        {
+          "q": "For the American R, the tip of the tongue doesn't touch the roof of the mouth.",
+          "a": true
+        },
+        {
+          "q": "In American English, the R in «car» is silent.",
+          "a": false,
+          "why": "se pronuncia: kar"
+        },
+        {
+          "q": "«Sorry» has a trilled RR.",
+          "a": false,
+          "why": "RR = una sola R: sári"
+        },
+        {
+          "q": "Your lips are a little round for the R in «red».",
+          "a": true
+        },
+        {
+          "q": "British speakers often drop the final R.",
+          "a": true
+        },
+        {
+          "q": "«Ring» and «wing» sound the same.",
+          "a": false,
+          "why": "R y W son sonidos distintos"
+        },
+        {
+          "q": "In «write», the W is silent.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿R o W? ¿Con R o sin R?",
+      "title_en": "R or W?",
+      "icon": "👂",
+      "es": "Lee la pista y rodea la palabra correcta. Después dila en voz alta.",
+      "en": "Read the clue and circle the right word. Then say it.",
+      "items": [
+        {
+          "q": "💍 anillo → [ring|wing]",
+          "a": "ring"
+        },
+        {
+          "q": "🐦 ala → [ring|wing]",
+          "a": "wing"
+        },
+        {
+          "q": "✅ correcto → [right|white]",
+          "a": "right"
+        },
+        {
+          "q": "🤍 blanco → [right|white]",
+          "a": "white"
+        },
+        {
+          "q": "😴 descansar → [rest|west]",
+          "a": "rest"
+        },
+        {
+          "q": "🤠 oeste → [rest|west]",
+          "a": "west"
+        },
+        {
+          "q": "❤️ corazón → [heart|hot]",
+          "a": "heart"
+        },
+        {
+          "q": "🔥 caliente → [heart|hot]",
+          "a": "hot"
+        },
+        {
+          "q": "💳 tarjeta → [card|cod]",
+          "a": "card"
+        },
+        {
+          "q": "🐟 bacalao → [card|cod]",
+          "a": "cod"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Usa una sola <b>r</b> (nunca rr) y pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "🍞 bread → ____",
+          "a": "bred"
+        },
+        {
+          "q": "💚 green → ____",
+          "a": "griin"
+        },
+        {
+          "q": "🤝 friend → ____",
+          "a": "frend"
+        },
+        {
+          "q": "💯 very → ____",
+          "a": "véri"
+        },
+        {
+          "q": "🪞 mirror → ____",
+          "a": "mírer"
+        },
+        {
+          "q": "🌈 rainbow → ____",
+          "a": "réinbou"
+        },
+        {
+          "q": "👩‍🏫 teacher → ____",
+          "a": "tíicher"
+        },
+        {
+          "q": "🏞️ river → ____",
+          "a": "ríver"
+        },
+        {
+          "q": "📅 Friday → ____",
+          "a": "fráidei"
+        },
+        {
+          "q": "📖 story → ____",
+          "a": "stóri"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte y di la palabra con R americana.",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "sor",
+            "ry"
+          ],
+          "s": 0,
+          "es": "perdón"
+        },
+        {
+          "syl": [
+            "car",
+            "rot"
+          ],
+          "s": 0,
+          "es": "zanahoria"
+        },
+        {
+          "syl": [
+            "a",
+            "round"
+          ],
+          "s": 1,
+          "es": "alrededor"
+        },
+        {
+          "syl": [
+            "to",
+            "mor",
+            "row"
+          ],
+          "s": 1,
+          "es": "mañana"
+        },
+        {
+          "syl": [
+            "mir",
+            "ror"
+          ],
+          "s": 0,
+          "es": "espejo"
+        },
+        {
+          "syl": [
+            "ri",
+            "ver"
+          ],
+          "s": 0,
+          "es": "río"
+        },
+        {
+          "syl": [
+            "rab",
+            "bit"
+          ],
+          "s": 0,
+          "es": "conejo"
+        },
+        {
+          "syl": [
+            "ar",
+            "rive"
+          ],
+          "s": 1,
+          "es": "llegar"
+        },
+        {
+          "syl": [
+            "rain",
+            "bow"
+          ],
+          "s": 0,
+          "es": "arcoíris"
+        },
+        {
+          "syl": [
+            "Fri",
+            "day"
+          ],
+          "s": 0,
+          "es": "viernes"
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Escríbelo en inglés",
+      "title_en": "Spell it",
+      "icon": "🔤",
+      "es": "Escribe la palabra inglesa. ¡Todas tienen R!",
+      "en": "Write the English word. They all have an R.",
+      "items": [
+        {
+          "q": "🐰 conejo",
+          "a": "rabbit"
+        },
+        {
+          "q": "🌳 árbol",
+          "a": "tree"
+        },
+        {
+          "q": "3️⃣ tres",
+          "a": "three"
+        },
+        {
+          "q": "🚪 puerta",
+          "a": "door"
+        },
+        {
+          "q": "🥕 zanahoria",
+          "a": "carrot"
+        },
+        {
+          "q": "🪞 espejo",
+          "a": "mirror"
+        },
+        {
+          "q": "🌧️ lluvia",
+          "a": "rain"
+        },
+        {
+          "q": "💚 verde",
+          "a": "green"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "red → <code>rred</code>",
+          "a": "red (sin vibrar)"
+        },
+        {
+          "q": "sorry → <code>sórri</code>",
+          "a": "sári"
+        },
+        {
+          "q": "car → <code>ka</code>",
+          "a": "kar"
+        },
+        {
+          "q": "tree → <code>tíri</code>",
+          "a": "trii"
+        },
+        {
+          "q": "teacher → <code>tíicha</code>",
+          "a": "tíicher"
+        },
+        {
+          "q": "never → <code>nevér</code>",
+          "a": "néver"
+        },
+        {
+          "q": "four → <code>fo</code>",
+          "a": "for"
+        },
+        {
+          "q": "around → <code>árraund</code>",
+          "a": "əráund"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧩",
+      "es": "Ordena las palabras y lee la frase con R americana.",
+      "en": "Put the words in order and read the sentence.",
+      "items": [
+        {
+          "q": "red / Rocky's / is / ball",
+          "a": "Rocky's ball is red."
+        },
+        {
+          "q": "river / The / near / is / tree / the",
+          "a": "The tree is near the river."
+        },
+        {
+          "q": "late / sorry / I'm / I'm",
+          "a": "I'm sorry, I'm late."
+        },
+        {
+          "q": "four / have / carrots / I",
+          "a": "I have four carrots."
+        },
+        {
+          "q": "rain / the / in / runs / Rocky",
+          "a": "Rocky runs in the rain."
+        },
+        {
+          "q": "car / friend's / red / My / is",
+          "a": "My friend's car is red."
+        },
+        {
+          "q": "say / never / Never",
+          "a": "Never say never!"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Red, green, brown.",
+          "say": "red, griin, braun"
+        },
+        {
+          "q": "Rocky, run!",
+          "say": "ráki, ran!"
+        },
+        {
+          "q": "I'm sorry.",
+          "say": "aim sári"
+        },
+        {
+          "q": "Three trees.",
+          "say": "zrii triis"
+        },
+        {
+          "q": "My car is red.",
+          "say": "mai kar is red"
+        },
+        {
+          "q": "Never ever!",
+          "say": "néver éver!"
+        },
+        {
+          "q": "Four friends at the door.",
+          "say": "for frends ət də dor"
+        },
+        {
+          "q": "The rabbit runs around the river.",
+          "say": "də rǽbit rans əráund də ríver"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta, sin vibrar la R.",
+      "en": "Translate into English and say it with an American R.",
+      "items": [
+        {
+          "q": "lluvia",
+          "a": "rain (rein)"
+        },
+        {
+          "q": "correr",
+          "a": "run (ran)"
+        },
+        {
+          "q": "árbol",
+          "a": "tree (trii)"
+        },
+        {
+          "q": "verde",
+          "a": "green (griin)"
+        },
+        {
+          "q": "amigo",
+          "a": "friend (frend)"
+        },
+        {
+          "q": "perdón",
+          "a": "sorry (sári)"
+        },
+        {
+          "q": "coche",
+          "a": "car (kar)"
+        },
+        {
+          "q": "cuatro",
+          "a": "four (for)"
+        },
+        {
+          "q": "puerta",
+          "a": "door (dor)"
+        },
+        {
+          "q": "nunca",
+          "a": "never (néver)"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En la última columna escribe: principio, grupo, entre vocales o final.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "¿Dónde va la R?"
+      ],
+      "rows": [
+        [
+          "red",
+          "rojo",
+          "?red",
+          "?principio"
+        ],
+        [
+          "?tree",
+          "árbol",
+          "trii",
+          "?grupo"
+        ],
+        [
+          "car",
+          "?coche",
+          "?kar",
+          "final"
+        ],
+        [
+          "sorry",
+          "?perdón",
+          "sári",
+          "?entre vocales"
+        ],
+        [
+          "?rabbit",
+          "conejo",
+          "?rǽbit",
+          "principio"
+        ],
+        [
+          "green",
+          "verde",
+          "?griin",
+          "?grupo"
+        ],
+        [
+          "never",
+          "?nunca",
+          "néver",
+          "?final"
+        ],
+        [
+          "?carrot",
+          "zanahoria",
+          "?kérət",
+          "entre vocales"
+        ]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de erres",
+      "title_en": "R word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con R. Dila en voz alta, sin vibrar, cada vez que encuentres una.",
+      "en": "Find 10 words with an R.",
+      "words": [
+        "red",
+        "rain",
+        "tree",
+        "green",
+        "three",
+        "car",
+        "door",
+        "sorry",
+        "rabbit",
+        "river"
+      ],
+      "clues": [
+        "red · rojo",
+        "rain · lluvia",
+        "tree · árbol",
+        "green · verde",
+        "three · tres",
+        "car · coche",
+        "door · puerta",
+        "sorry · perdón",
+        "rabbit · conejo",
+        "river · río"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las erres",
+      "title_en": "Read and find the Rs",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta con R americana. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Ryan's red car",
+      "text": [
+        "Ryan has a red car. Every Friday, he drives his friend Rachel to the river. They bring bread, carrots and three oranges.",
+        "Rocky, Ryan's dog, runs around the trees. Then it starts to rain, and they run to the car. “Sorry, Rocky,” says Ryan. “No more river today!”"
+      ],
+      "items": [
+        {
+          "q": "What color is Ryan's car?",
+          "a": "Red: <code>red</code>, sin vibrar."
+        },
+        {
+          "q": "Write three words from the text that start with R.",
+          "a": "Ryan, red, Rachel, river, Rocky, runs, rain, run (cualquiera)."
+        },
+        {
+          "q": "Write two words with an R at the end.",
+          "a": "car, river, more (cualquiera)."
+        },
+        {
+          "q": "Rocky runs around the trees.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «sorry», the RR is a trill.",
+          "tf": true,
+          "a": false,
+          "why": "RR = una sola R: sári"
+        },
+        {
+          "q": "They go to the river on Monday.",
+          "tf": true,
+          "a": false,
+          "why": "on Friday"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con muchas erres. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with lots of Rs and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con colores (red, green, brown…).",
+          "lines": 2,
+          "a": "Ej.: My room is green and brown."
+        },
+        {
+          "q": "Una frase con un número (three, four…).",
+          "lines": 2,
+          "a": "Ej.: I have three friends and four rabbits."
+        },
+        {
+          "q": "Una frase con sorry, car o door.",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Digo la R sin vibrar y sin tocar el paladar con la lengua.",
+      "en": "I can say an R without a trill."
+    },
+    {
+      "es": "Sé el truco de la u: <code>(u)red</code>, <code>(u)ran</code>.",
+      "en": "I know the «u» trick."
+    },
+    {
+      "es": "Digo grupos como <code>trii</code>, <code>griin</code>, <code>frend</code> sin meter vocales.",
+      "en": "I can say R clusters."
+    },
+    {
+      "es": "Pronuncio la R final: <code>kar</code>, <code>for</code>, <code>néver</code>.",
+      "en": "I always say the final R."
+    },
+    {
+      "es": "Sé que la RR escrita es una sola R: <code>sári</code>, <code>kérət</code>.",
+      "en": "I know that RR is just one R."
+    },
+    {
+      "es": "Distingo ring / wing y right / white.",
+      "en": "I can tell R from W."
+    }
+  ]
+}

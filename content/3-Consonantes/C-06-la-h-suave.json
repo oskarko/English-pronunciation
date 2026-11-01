@@ -1,0 +1,1831 @@
+{
+  "id": "C-06",
+  "block": "C",
+  "title": "LA H SUAVE",
+  "file_title": "La H suave",
+  "subtitle": "The breathy American H · hello = «jəlóu»",
+  "icon": "😮‍💨",
+  "map": {
+    "center": "La <b>H</b> inglesa es <b>solo aire</b>, como el vaho en un cristal. En la figurada, <code>j</code> suave: hello = <code>jəlóu</code>.",
+    "listen": "hello",
+    "nodes": [
+      {
+        "title": "¿Cómo se hace?",
+        "icon": "🌫️",
+        "color": "green",
+        "items": [
+          "<b>aire caliente</b> desde la garganta",
+          "la lengua <b>no toca nada</b>",
+          "nada de rascar: <b>sin jota</b>"
+        ]
+      },
+      {
+        "title": "Suena como…",
+        "icon": "🇪🇸",
+        "color": "blue",
+        "rows": [
+          [
+            "hi",
+            "<code>jai</code> (¡Jaime!)"
+          ],
+          [
+            "happy",
+            "<code>jǽpi</code>"
+          ],
+          [
+            "house",
+            "<code>jaus</code>"
+          ]
+        ]
+      },
+      {
+        "title": "¡En inglés SÍ suena!",
+        "icon": "🏨",
+        "color": "purple",
+        "rows": [
+          [
+            "hotel",
+            "<code>joutél</code>"
+          ],
+          [
+            "hospital",
+            "<code>jáspirəl</code>"
+          ],
+          [
+            "human",
+            "<code>jiúmən</code>"
+          ]
+        ],
+        "after": "en español es muda; aquí, ¡sopla!"
+      },
+      {
+        "title": "H muda",
+        "icon": "🤫",
+        "color": "orange",
+        "rows": [
+          [
+            "hour",
+            "<code>áuer</code>"
+          ],
+          [
+            "honest",
+            "<code>ánist</code>"
+          ],
+          [
+            "honor",
+            "<code>áner</code>"
+          ]
+        ],
+        "after": "como la H de «hora» 🕐"
+      },
+      {
+        "title": "Se cae en la frase",
+        "icon": "🍃",
+        "color": "pink",
+        "rows": [
+          [
+            "tell him",
+            "<code>télim</code>"
+          ],
+          [
+            "ask her",
+            "<code>ǽsker</code>"
+          ]
+        ],
+        "after": "him, her, his <b>sin fuerza</b>"
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Empaña un espejo con el aliento: «hhh». ¡Esa es la <b>H</b> inglesa!",
+        "art": "🪞"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "hello con la jota de «<b>j</b>amón»"
+      ],
+      "good": [
+        "<code>jəlóu</code>: solo aire 🌫️"
+      ],
+      "note": "La jota rasca como un gato que bufa 🐱; la H solo empaña el cristal."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🏠 house → ____",
+          "a": "jaus"
+        },
+        {
+          "q": "😀 happy → ____",
+          "a": "jǽpi"
+        },
+        {
+          "q": "🏨 hotel → ____",
+          "a": "joutél"
+        },
+        {
+          "q": "🕐 hour → ____",
+          "a": "áuer"
+        },
+        {
+          "q": "🗣️ tell him → ____",
+          "a": "télim"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la H suave?",
+      "title_en": "What is the soft H?",
+      "icon": "🔎",
+      "es": "En español la H no suena nunca (<i>hola, hotel</i>) y la J es una jota fuerte que rasca la garganta (<i>jamón</i>). La <b>H inglesa</b> /h/ está justo en medio: <mark>sí suena, pero es solo aire</mark>. Es el vaho que haces para empañar un cristal, o el suspiro de «¡ahhh, qué cansancio!». En nuestra figurada la escribimos <code>j</code>, pero acuérdate siempre: es una <b>j suave, de aliento</b>, nunca la de «jamón».",
+      "en": "The English H /h/ is just breath, like fogging up a window. It's never silent like the Spanish h, and never scratchy like the Spanish j.",
+      "formula": [
+        "*vaho* 🌫️ + ello → *j*əlóu"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "air",
+          "es": "Sale <b>aire caliente</b> del fondo de la garganta, como cuando empañas un espejo o te calientas las manos en invierno 🥶.",
+          "en": "Warm air comes up from your throat, like fogging a mirror."
+        },
+        {
+          "part": "tongue",
+          "es": "La lengua <b>no toca nada</b> y no sube hacia atrás (la jota española sí: por eso rasca). Ya está colocada para la vocal que viene.",
+          "en": "Your tongue touches nothing. It's already in place for the next vowel."
+        },
+        {
+          "part": "voice",
+          "es": "La H en sí <b>no vibra</b>: es puro aliento. La voz se enciende justo en la vocal: h-<b>a</b>, h-<b>e</b>, h-<b>i</b>.",
+          "en": "The H itself is voiceless. Your voice starts on the vowel."
+        },
+        {
+          "part": "jaw",
+          "es": "La boca ya tiene la forma de la vocal siguiente: abierta para <b>h</b>at, redondita para <b>wh</b>o.",
+          "en": "Your mouth is already shaped for the next vowel."
+        },
+        {
+          "part": "ear",
+          "es": "Escucha la diferencia: la jota fuerte suena a carraspeo 🐱; la H inglesa, a suspiro 😮‍💨.",
+          "en": "A Spanish j sounds scratchy; an English H sounds like a sigh."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Al principio: puro aliento",
+      "title_en": "At the start: pure breath",
+      "icon": "💨",
+      "es": "Casi todas las H inglesas suenan, sobre todo al empezar una palabra: hello, house, happy, home, help. Empieza con un suspiro suave y pasa a la vocal sin cortar el aire. Si notas un «grrr» en la garganta, te estás pasando: <mark>menos fuerza, más aire</mark>.",
+      "en": "Most English H's are pronounced, especially at the start of a word. Start with a soft breath and glide into the vowel.",
+      "formula": [
+        "*h* + ello → *j*əlóu",
+        "*h* + ouse → *j*aus"
+      ],
+      "examples": [
+        {
+          "en": "hello",
+          "say": "jəlóu",
+          "es": "hola",
+          "icon": "👋"
+        },
+        {
+          "en": "house",
+          "say": "jaus",
+          "es": "casa",
+          "icon": "🏠"
+        },
+        {
+          "en": "happy",
+          "say": "jǽpi",
+          "es": "feliz",
+          "icon": "😀"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Palabras que ya conoces",
+      "title_en": "Words you already know",
+      "icon": "🏨",
+      "es": "¡Cuidado con los parecidos! En español la H de <i>hotel</i>, <i>hospital</i> o <i>humano</i> es muda y tu boca se la salta sin pensar. En inglés <b>sí suena</b>: <code>joutél</code>, <code>jáspirəl</code>, <code>jiúmən</code>. Si dices «otel», un americano tardará un segundo en entenderte.",
+      "en": "In Spanish, the H in hotel or hospital is silent. In English, you must pronounce it.",
+      "examples": [
+        {
+          "en": "hotel",
+          "say": "joutél",
+          "es": "hotel",
+          "icon": "🏨"
+        },
+        {
+          "en": "hospital",
+          "say": "jáspirəl",
+          "es": "hospital",
+          "icon": "🏥"
+        },
+        {
+          "en": "human",
+          "say": "jiúmən",
+          "es": "humano",
+          "icon": "🧍"
+        },
+        {
+          "en": "hamburger",
+          "say": "jǽmberguer",
+          "es": "hamburguesa",
+          "icon": "🍔"
+        },
+        {
+          "en": "history",
+          "say": "jístəri",
+          "es": "historia",
+          "icon": "📜"
+        },
+        {
+          "en": "helicopter",
+          "say": "jélikapter",
+          "es": "helicóptero",
+          "icon": "🚁"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · WH que suena H",
+      "title_en": "WH that sounds like H",
+      "icon": "🦉",
+      "es": "En unas pocas palabras, la pareja <b>WH</b> suena H y la W se calla: <b>who</b> (quién), <b>whose</b> (de quién), <b>whom</b> y <b>whole</b> (entero). Fíjate: todas llevan una O detrás. En <i>what, where, why, when</i> pasa al revés: suena la W y la H se calla (lo verás en el mapa C-10).",
+      "en": "In who, whose, whom and whole, WH sounds like H. In what, where, why and when, it sounds like W.",
+      "examples": [
+        {
+          "en": "who",
+          "say": "juu",
+          "es": "¿quién?",
+          "icon": "🦉"
+        },
+        {
+          "en": "whole",
+          "say": "joul",
+          "es": "entero",
+          "icon": "🍕"
+        },
+        {
+          "en": "whose",
+          "say": "juus",
+          "es": "¿de quién?",
+          "icon": "🎒"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · En medio de la palabra",
+      "title_en": "In the middle of a word",
+      "icon": "🧩",
+      "es": "La H también suena en medio: be<b>h</b>ind, per<b>h</b>aps, un<b>h</b>appy, O<b>h</b>io. Es como un suspiro pequeñito dentro de la palabra. Y ojo con <b>alcohol</b>: en español la H es muda, pero un americano dice <code>ǽlkəjol</code>.",
+      "en": "H is also pronounced in the middle of a word: behind, perhaps, unhappy, alcohol.",
+      "examples": [
+        {
+          "en": "behind",
+          "say": "bijáind",
+          "es": "detrás",
+          "icon": "🙈"
+        },
+        {
+          "en": "perhaps",
+          "say": "perjǽps",
+          "es": "quizás",
+          "icon": "🤔"
+        },
+        {
+          "en": "unhappy",
+          "say": "anjǽpi",
+          "es": "triste",
+          "icon": "😢"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · El club de la H muda",
+      "title_en": "The silent H club",
+      "icon": "🤫",
+      "es": "Hay un club pequeñito de palabras con <b>H muda</b>, como en español: <b>hour</b>, <b>honest</b>, <b>honor</b>, <b>heir</b>. Por eso se dice <mark><i>an</i> hour</mark>, con <i>an</i>: la palabra empieza por sonido de vocal. En americano también es muda la de <b>herb</b> (hierba aromática): <code>erb</code>. Truco: hour y «hora» son primas, ¡y las dos tienen la H calladita!",
+      "en": "A few words have a silent H: hour, honest, honor, heir. That's why we say «an hour». In American English, herb is «erb» too.",
+      "examples": [
+        {
+          "en": "hour",
+          "say": "áuer",
+          "es": "hora",
+          "icon": "🕐"
+        },
+        {
+          "en": "honest",
+          "say": "ánist",
+          "es": "sincero",
+          "icon": "😇"
+        },
+        {
+          "en": "herb",
+          "say": "erb",
+          "es": "hierba aromática",
+          "icon": "🌿"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · La H que se cae",
+      "title_en": "The H that disappears",
+      "icon": "🍃",
+      "es": "En una frase rápida, las palabritas <b>him</b>, <b>her</b>, <b>his</b> (y también <b>he</b>, <b>have</b>, <b>has</b>) pierden la H cuando van sin fuerza y pegadas a la palabra de delante: <i>tell him</i> → <code>télim</code>. Pero si van al principio de la frase o las recalcas, la H vuelve: <i><b>H</b>e's my friend</i>. Más formas débiles en el mapa H-03.",
+      "en": "In fast speech, unstressed him, her and his lose their H: tell him sounds like «tellim». At the start of a sentence, the H comes back.",
+      "formula": [
+        "tell + him → *télim*",
+        "ask + her → *ǽsker*"
+      ],
+      "examples": [
+        {
+          "en": "Tell him!",
+          "say": "télim",
+          "es": "¡Díselo!",
+          "icon": "🗣️"
+        },
+        {
+          "en": "Ask her.",
+          "say": "ǽsker",
+          "es": "Pregúntale.",
+          "icon": "🙋"
+        },
+        {
+          "en": "What's his name?",
+          "say": "wáts is néim",
+          "es": "¿Cómo se llama?",
+          "icon": "🏷️"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "hi",
+          "ipa": "haɪ",
+          "say": "jai",
+          "es": "hola",
+          "icon": "👋",
+          "anchor": "<b>Jai</b>me 🙋",
+          "tip": "«Hi, Jaime!» Pero suave: la j de Jaime dicha con un suspiro, sin rascar."
+        },
+        {
+          "en": "he",
+          "ipa": "hiː",
+          "say": "jii",
+          "es": "él",
+          "icon": "👦",
+          "anchor": "<b>ji</b>, ji, ji 🤭",
+          "tip": "La risita bajita: ji-ji-ji. ¡Si te ríes flojito, ya haces la H inglesa! Alarga la i: jii."
+        },
+        {
+          "en": "who",
+          "ipa": "huː",
+          "say": "juu",
+          "es": "¿quién?",
+          "icon": "🦉",
+          "anchor": "búho: «<b>juu</b>, juu» 🦉",
+          "tip": "En inglés los búhos dicen «hoo, hoo»: parece que preguntan who? who? La W no suena."
+        },
+        {
+          "en": "ham",
+          "ipa": "hæm",
+          "say": "jæm",
+          "es": "jamón",
+          "icon": "🍖",
+          "anchor": "<b>jam</b>ón 🍖",
+          "tip": "¡Hasta el significado coincide! Pero sin rascar, y abre la a hacia la e: jæm (mapa V-03)."
+        },
+        {
+          "en": "hippie",
+          "ipa": "ˈhɪpi",
+          "say": "jípi",
+          "es": "hippie",
+          "icon": "🌼",
+          "anchor": "<b>jipi</b> ✌️",
+          "tip": "Como «jipi», pero con aliento en vez de jota: JÍ-pi."
+        },
+        {
+          "en": "heavy",
+          "ipa": "ˈhɛvi",
+          "say": "jévi",
+          "es": "pesado",
+          "icon": "🏋️",
+          "anchor": "un <b>jevi</b> 🤘",
+          "tip": "Como los «jevis» del rock. Suaviza la j y muerde el labio en la v (mapa C-07)."
+        },
+        {
+          "en": "hamster",
+          "ipa": "ˈhæmstɚ",
+          "say": "jǽmster",
+          "es": "hámster",
+          "icon": "🐹",
+          "anchor": "<b>hám</b>ster 🐹",
+          "tip": "En español ya lo dices con jota. Ahora con vaho: JǼM-ster, y la R final se oye."
+        },
+        {
+          "en": "Halloween",
+          "ipa": "ˌhæləˈwiːn",
+          "say": "jæləwíin",
+          "es": "Halloween",
+          "icon": "🎃",
+          "anchor": "«<b>jalouín</b>» 🎃",
+          "tip": "Ya lo dices casi bien: suaviza la j, relaja la o (ə) y alarga la i: jæ-lə-WÍIN."
+        },
+        {
+          "en": "hip hop",
+          "ipa": "ˈhɪp ˌhɑp",
+          "say": "jip jap",
+          "es": "hip hop",
+          "icon": "🎧",
+          "anchor": "«<b>jip</b> jop» 🎤",
+          "tip": "La primera mitad ya la tienes. La segunda es «jap», con a: hop = /hɑp/."
+        },
+        {
+          "en": "hotel",
+          "ipa": "hoʊˈtɛl",
+          "say": "joutél",
+          "es": "hotel",
+          "icon": "🏨",
+          "anchor": "<s>otel</s> → <b>jou</b>tél",
+          "tip": "En español la H se calla; en inglés sopla: jou-TÉL, con la fuerza al final."
+        },
+        {
+          "en": "hamburger",
+          "ipa": "ˈhæmbɝɡɚ",
+          "say": "jǽmberguer",
+          "es": "hamburguesa",
+          "icon": "🍔",
+          "anchor": "<s>amburguesa</s> → <b>JǼM</b>berguer",
+          "tip": "Sopla al empezar y pon la fuerza en JǼM, no en «gue»."
+        },
+        {
+          "en": "hungry",
+          "ipa": "ˈhʌŋɡri",
+          "say": "jángri",
+          "es": "hambriento",
+          "icon": "🤤",
+          "anchor": "<s>angry</s> 😡 → <b>j</b>ángri",
+          "tip": "Sin H dices angry (enfadado). ¡Aunque con hambre se enfada cualquiera! (mapa P-04)."
+        },
+        {
+          "en": "hour",
+          "ipa": "ˈaʊɚ",
+          "say": "áuer",
+          "es": "hora",
+          "icon": "🕐",
+          "anchor": "H muda, como «hora» 🕐",
+          "tip": "Hour y hora: ¡las dos con la H calladita! Suena igual que <b>our</b> (nuestro)."
+        },
+        {
+          "en": "honest",
+          "ipa": "ˈɑnɪst",
+          "say": "ánist",
+          "es": "sincero",
+          "icon": "😇",
+          "anchor": "<s>jónest</s> → <b>Á</b>nist",
+          "tip": "H muda, como en «honesto». Y la o suena a: Á-nist. Por eso: an honest man."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "hello",
+          "es": "hola"
+        },
+        {
+          "q": "house",
+          "es": "casa"
+        },
+        {
+          "q": "who",
+          "es": "¿quién?"
+        },
+        {
+          "q": "hotel",
+          "es": "hotel"
+        },
+        {
+          "q": "an hour",
+          "es": "una hora"
+        },
+        {
+          "q": "tell him",
+          "es": "díselo"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Suena la H?",
+      "title_en": "Do you say the H?",
+      "icon": "🧭",
+      "head": [
+        "Palabra · Word",
+        "¿Dónde está la H?",
+        "¿Suena?",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "hello",
+          "al principio",
+          "✅ sí",
+          "<code>jəlóu</code>"
+        ],
+        [
+          "hotel",
+          "al principio (en español, muda)",
+          "✅ sí",
+          "<code>joutél</code>"
+        ],
+        [
+          "behind",
+          "en medio",
+          "✅ sí",
+          "<code>bijáind</code>"
+        ],
+        [
+          "who",
+          "WH + o",
+          "✅ sí (la W no)",
+          "<code>juu</code>"
+        ],
+        [
+          "what",
+          "WH + a",
+          "❌ no (suena la W)",
+          "<code>wat</code>"
+        ],
+        [
+          "hour",
+          "club de la H muda",
+          "❌ no",
+          "<code>áuer</code>"
+        ],
+        [
+          "honest",
+          "club de la H muda",
+          "❌ no",
+          "<code>ánist</code>"
+        ],
+        [
+          "herb",
+          "muda en americano",
+          "❌ no",
+          "<code>erb</code>"
+        ],
+        [
+          "Thomas",
+          "TH que suena t",
+          "❌ no",
+          "<code>táməs</code>"
+        ],
+        [
+          "ghost",
+          "GH que suena g",
+          "❌ no",
+          "<code>goust</code>"
+        ],
+        [
+          "tell him",
+          "palabrita débil en la frase",
+          "❌ casi nunca",
+          "<code>télim</code>"
+        ],
+        [
+          "He's happy!",
+          "al empezar la frase",
+          "✅ sí",
+          "<code>jiis jǽpi</code>"
+        ]
+      ],
+      "note": "Regla de oro: <b>en inglés la H suena casi siempre</b>. Las excepciones son pocas: el club de la H muda (hour, honest, honor, heir, herb), la WH de what o why, y la H de him, her, his dentro de la frase.",
+      "note_en": "Golden rule: in English, the H is almost always pronounced. Only a few words have a silent H."
+    },
+    {
+      "t": "compare",
+      "title": "Jota, H muda y H inglesa",
+      "title_en": "Spanish J, silent H and English H",
+      "icon": "⚖️",
+      "es": "Tres sonidos que parecen primos, pero no lo son. Solo el tercero es la H americana.",
+      "en": "Three sounds that look related, but aren't. Only the third one is the American H.",
+      "cols": [
+        {
+          "head": "🇪🇸 Jota (jamón)",
+          "color": "orange",
+          "items": [
+            "la lengua sube atrás y <b>rasca</b>",
+            "suena a gato que bufa 🐱",
+            "<s>JJJello</s> ❌"
+          ]
+        },
+        {
+          "head": "🇪🇸 H española (hola)",
+          "color": "purple",
+          "items": [
+            "<b>muda</b>: no suena nada",
+            "hotel = «otel»",
+            "<s>ello</s>, <s>otel</s> ❌"
+          ]
+        },
+        {
+          "head": "🇺🇸 H inglesa (hello)",
+          "color": "green",
+          "items": [
+            "<b>solo aire</b>, como vaho 🌫️",
+            "la lengua no toca nada",
+            "<code>jəlóu</code>, <code>joutél</code> ✅"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "Con H o sin H",
+      "title_en": "With or without H",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "hat",
+            "ipa": "hæt",
+            "say": "jæt",
+            "es": "sombrero",
+            "icon": "🎩"
+          },
+          "b": {
+            "en": "at",
+            "ipa": "æt",
+            "say": "æt",
+            "es": "en",
+            "icon": "📍"
+          },
+          "tip": "Sin el soplido, el sombrero desaparece."
+        },
+        {
+          "a": {
+            "en": "heat",
+            "ipa": "hiːt",
+            "say": "jiit",
+            "es": "calor",
+            "icon": "🔥"
+          },
+          "b": {
+            "en": "eat",
+            "ipa": "iːt",
+            "say": "iit",
+            "es": "comer",
+            "icon": "🍽️"
+          },
+          "tip": "Un soplido de diferencia: calor o comer."
+        },
+        {
+          "a": {
+            "en": "hate",
+            "ipa": "heɪt",
+            "say": "jeit",
+            "es": "odiar",
+            "icon": "😠"
+          },
+          "b": {
+            "en": "eight",
+            "ipa": "eɪt",
+            "say": "eit",
+            "es": "ocho",
+            "icon": "8️⃣"
+          },
+          "tip": "«I hate eight» = Odio el ocho. ¡Que se note el soplido!"
+        },
+        {
+          "a": {
+            "en": "hold",
+            "ipa": "hoʊld",
+            "say": "jould",
+            "es": "sujetar",
+            "icon": "✊"
+          },
+          "b": {
+            "en": "old",
+            "ipa": "oʊld",
+            "say": "ould",
+            "es": "viejo",
+            "icon": "👴"
+          },
+          "tip": "«Hold on!» = ¡Espera! Sin H suena a «old on»."
+        },
+        {
+          "a": {
+            "en": "hair",
+            "ipa": "hɛr",
+            "say": "jer",
+            "es": "pelo",
+            "icon": "💇"
+          },
+          "b": {
+            "en": "air",
+            "ipa": "ɛr",
+            "say": "er",
+            "es": "aire",
+            "icon": "🌬️"
+          },
+          "tip": "Y heir (heredero) suena igual que air: ¡H muda!"
+        },
+        {
+          "a": {
+            "en": "whole",
+            "ipa": "hoʊl",
+            "say": "joul",
+            "es": "entero",
+            "icon": "🍕"
+          },
+          "b": {
+            "en": "hole",
+            "ipa": "hoʊl",
+            "say": "joul",
+            "es": "agujero",
+            "icon": "🕳️"
+          },
+          "tip": "¡Suenan igual! Las dos con H, y la W de whole, callada."
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "Tell him.",
+          "spoken": "Tellim.",
+          "say": "télim",
+          "es": "Díselo (a él)."
+        },
+        {
+          "written": "Ask her.",
+          "spoken": "Asker.",
+          "say": "ǽsker",
+          "es": "Pregúntale (a ella)."
+        },
+        {
+          "written": "What's his name?",
+          "spoken": "Whatsiz name?",
+          "say": "wáts is néim",
+          "es": "¿Cómo se llama?"
+        },
+        {
+          "written": "I love her.",
+          "spoken": "I lover.",
+          "say": "ai láver",
+          "es": "La quiero."
+        },
+        {
+          "written": "Give him a call.",
+          "spoken": "Givima call.",
+          "say": "guívimə kól",
+          "es": "Llámale."
+        },
+        {
+          "written": "Did he go?",
+          "spoken": "Diddy go?",
+          "say": "díri góu",
+          "es": "¿Se fue?"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "Hello! How are you?",
+          "say": "jəlóu! jáu er iu?",
+          "es": "¡Hola! ¿Cómo estás?",
+          "icon": "👋"
+        },
+        {
+          "en": "Happy birthday, Harry!",
+          "say": "jǽpi bérzdei, jǽri!",
+          "es": "¡Feliz cumpleaños, Harry!",
+          "icon": "🎂"
+        },
+        {
+          "en": "My house is behind the hospital.",
+          "say": "mai jáus is bijáind də jáspirəl",
+          "es": "Mi casa está detrás del hospital.",
+          "icon": "🏠"
+        },
+        {
+          "en": "He has a hamster.",
+          "say": "ji jǽs ə jǽmster",
+          "es": "Él tiene un hámster.",
+          "icon": "🐹"
+        },
+        {
+          "en": "I'm hungry. Let's have a hamburger!",
+          "say": "aim jángri. lets jǽv ə jǽmberguer!",
+          "es": "Tengo hambre. ¡Vamos a comer una hamburguesa!",
+          "icon": "🍔"
+        },
+        {
+          "en": "We'll be there in an hour.",
+          "say": "wil bi der inən áuer",
+          "es": "Llegaremos dentro de una hora.",
+          "icon": "🕐"
+        },
+        {
+          "en": "Who is that?",
+          "say": "juu is dǽt?",
+          "es": "¿Quién es ese?",
+          "icon": "🦉"
+        },
+        {
+          "en": "I ate the whole pizza!",
+          "say": "ai éit də jóul píitsə!",
+          "es": "¡Me comí la pizza entera!",
+          "icon": "🍕"
+        },
+        {
+          "en": "Be honest with me.",
+          "say": "bi ánist wid mi",
+          "es": "Sé sincero conmigo.",
+          "icon": "😇"
+        },
+        {
+          "en": "Tell him I'm at home.",
+          "say": "télim aim æt jóum",
+          "es": "Dile que estoy en casa.",
+          "icon": "🏡"
+        },
+        {
+          "en": "Can you help her?",
+          "say": "kən iu jélper?",
+          "es": "¿Puedes ayudarla?",
+          "icon": "🤝"
+        },
+        {
+          "en": "Perhaps Harry is at the hotel.",
+          "say": "perjǽps jǽri is æt də joutél",
+          "es": "Quizás Harry está en el hotel.",
+          "icon": "🏨"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "hello → con la jota de «jamón», rascando",
+          "good": "<code>jəlóu</code>, solo aire",
+          "why": "La jota española rasca la garganta. La H inglesa es un suspiro suave.",
+          "why_en": "The English H is just breath, not a scratchy sound."
+        },
+        {
+          "bad": "hotel → <code>outél</code>",
+          "good": "<code>joutél</code>",
+          "why": "En español la H de hotel es muda; en inglés suena.",
+          "why_en": "In English, the H in hotel is pronounced."
+        },
+        {
+          "bad": "hamburger → <code>amburguer</code>",
+          "good": "<code>jǽmberguer</code>",
+          "why": "Sopla al principio y pon la fuerza en JǼM.",
+          "why_en": "Say the H and stress the first syllable."
+        },
+        {
+          "bad": "hour → <code>jáuer</code>",
+          "good": "<code>áuer</code>",
+          "why": "Hour es del club de la H muda: suena igual que our.",
+          "why_en": "Hour has a silent H. It sounds like «our»."
+        },
+        {
+          "bad": "who → <code>wuu</code>",
+          "good": "<code>juu</code>",
+          "why": "En who suena la H y se calla la W.",
+          "why_en": "In who, you say the H, not the W."
+        },
+        {
+          "bad": "honest → <code>jónest</code>",
+          "good": "<code>ánist</code>",
+          "why": "H muda, y la o suena a.",
+          "why_en": "Silent H, and the o sounds like «a»."
+        },
+        {
+          "bad": "hungry → <code>ángri</code>",
+          "good": "<code>jángri</code>",
+          "why": "¡Sin H dices angry, enfadado!",
+          "why_en": "Without the H, you say «angry»."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el hotel",
+      "title_en": "At the hotel",
+      "lines": [
+        {
+          "who": "Ashley",
+          "en": "Hi, Mario! How was your trip?",
+          "say": "jai, mário! jáu wəs ior tríp?",
+          "es": "¡Hola, Mario! ¿Qué tal el viaje?"
+        },
+        {
+          "who": "Mario",
+          "en": "Horrible! I waited an hour at the hotel.",
+          "say": "jórəbəl! ai wéirid ən áuer æt də joutél",
+          "es": "¡Horrible! Esperé una hora en el hotel."
+        },
+        {
+          "who": "Ashley",
+          "en": "An hour? Who was at the desk?",
+          "say": "ən áuer? juu wəs æt də désk?",
+          "es": "¿Una hora? ¿Quién estaba en recepción?"
+        },
+        {
+          "who": "Mario",
+          "en": "A man in a hat. He was very honest.",
+          "say": "ə mǽn inə jǽt. ji wəs véri ánist",
+          "es": "Un hombre con sombrero. Fue muy sincero."
+        },
+        {
+          "who": "Ashley",
+          "en": "Ha! Let's have a hamburger. I'm hungry!",
+          "say": "ja! lets jǽv ə jǽmberguer. aim jángri!",
+          "es": "¡Ja! Vamos a comer una hamburguesa. ¡Tengo hambre!"
+        },
+        {
+          "who": "Mario",
+          "en": "Me too! Tell him we want two.",
+          "say": "mi túu! télim wi wánt túu",
+          "es": "¡Yo también! Dile que queremos dos."
+        },
+        {
+          "who": "Ashley",
+          "en": "And a hot dog for you?",
+          "say": "ənd ə ját dog fer iu?",
+          "es": "¿Y un perrito caliente para ti?"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes! Now I'm happy.",
+          "say": "iés! náu aim jǽpi",
+          "es": "¡Sí! Ahora estoy contento."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Pon la mano delante de la boca y suspira «ahhh»: notas el <b>aire caliente</b>.",
+          "en": "Put your hand in front of your mouth and sigh. Feel the warm air."
+        },
+        {
+          "es": "Empaña un espejo o unas gafas con el aliento. Ese soplido es la H.",
+          "en": "Fog up a mirror with your breath. That's the H."
+        },
+        {
+          "es": "Añade vocales sin cortar el aire: ha, he, hi, ho, hu (con vaho, nada de jota).",
+          "en": "Add vowels without stopping the air."
+        },
+        {
+          "es": "Pasa a palabras, cada vez con menos aire: <code>jǽt</code>, <code>jóum</code>, <code>jəlóu</code>.",
+          "en": "Move on to words: hat, home, hello."
+        },
+        {
+          "es": "Escanea los QR, escucha 3 vídeos y <b>grábate</b>: ¿se oye un suspiro o un carraspeo?",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Harry's happy hamster has a hairy hat.",
+          "say": "jǽris jǽpi jǽmster jǽs ə jéri jǽt",
+          "es": "El hámster feliz de Harry tiene un sombrero peludo."
+        },
+        {
+          "en": "Hello, Hannah! How's your hungry hippo?",
+          "say": "jəlóu, jǽnə! jáus ior jángri jípou?",
+          "es": "¡Hola, Hannah! ¿Qué tal tu hipopótamo hambriento?"
+        },
+        {
+          "en": "Hold the hot hamburger with both hands.",
+          "say": "jóuld də ját jǽmberguer wid bóuz jǽnds",
+          "es": "Sujeta la hamburguesa caliente con las dos manos."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del espejo",
+      "title_en": "The mirror trick",
+      "es": "¿Dudas? Imagina que empañas un espejo 🪞 justo antes de hablar: «hhhello». Si el espejo se empaña, es una H inglesa. Si suena a gato enfadado 🐱, es una jota: ¡suavízala! Y si tu español es de Andalucía, Canarias o América, tu jota suave ya es casi perfecta.",
+      "en": "Imagine fogging up a mirror before you speak. If it sounds like an angry cat, it's too strong."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Suena la H?",
+      "title_en": "Do you say the H?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea si la H suena o no.",
+      "en": "Say the word and circle: do you hear the H?",
+      "items": [
+        {
+          "q": "hello → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "hour → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "hotel → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "honest → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "who → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "what → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "house → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "herb → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "behind → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "honor → [sí|no]",
+          "a": "no"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "🌫️ La H suena",
+          "words": [
+            "happy",
+            "hotel",
+            "who",
+            "hospital",
+            "behind",
+            "whole",
+            "human",
+            "Halloween"
+          ]
+        },
+        {
+          "name": "🤫 La H no suena",
+          "words": [
+            "hour",
+            "honest",
+            "honor",
+            "heir",
+            "herb",
+            "what",
+            "why",
+            "ghost"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "hello",
+          "<code>jəlóu</code>"
+        ],
+        [
+          "house",
+          "<code>jaus</code>"
+        ],
+        [
+          "happy",
+          "<code>jǽpi</code>"
+        ],
+        [
+          "hour",
+          "<code>áuer</code>"
+        ],
+        [
+          "who",
+          "<code>juu</code>"
+        ],
+        [
+          "honest",
+          "<code>ánist</code>"
+        ],
+        [
+          "hotel",
+          "<code>joutél</code>"
+        ],
+        [
+          "behind",
+          "<code>bijáind</code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Usa <b>j</b> para la H que suena (¡suave!), no escribas la H muda y pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "🏡 home → ____",
+          "a": "joum"
+        },
+        {
+          "q": "🆘 help → ____",
+          "a": "jelp"
+        },
+        {
+          "q": "✋ hand → ____",
+          "a": "jænd"
+        },
+        {
+          "q": "🧠 head → ____",
+          "a": "jed"
+        },
+        {
+          "q": "🔥 hot → ____",
+          "a": "jat"
+        },
+        {
+          "q": "🎩 hat → ____",
+          "a": "jæt"
+        },
+        {
+          "q": "🦛 hippo → ____",
+          "a": "jípou"
+        },
+        {
+          "q": "🍯 honey → ____",
+          "a": "jáni"
+        },
+        {
+          "q": "🧙 Harry → ____",
+          "a": "jǽri"
+        },
+        {
+          "q": "🏅 honor → ____",
+          "a": "áner"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "En inglés americano, ¿estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "In American English, do they sound the same or different?",
+      "items": [
+        {
+          "q": "hour · our → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "whole · hole → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "heir · air → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "hi · high → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "hat · at → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "eat · heat → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "hold · old → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "who · how → [igual|diferente]",
+          "a": "diferente"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "The English H sounds like the Spanish J in «jamón».",
+          "a": false,
+          "why": "es solo aire, mucho más suave"
+        },
+        {
+          "q": "In «hotel», the H is pronounced in English.",
+          "a": true
+        },
+        {
+          "q": "In «hour», the H is silent.",
+          "a": true
+        },
+        {
+          "q": "«Who» and «how» start with the same sound.",
+          "a": true,
+          "why": "las dos empiezan por /h/: juu, jau"
+        },
+        {
+          "q": "In «what», you pronounce the H.",
+          "a": false,
+          "why": "suena la W: <code>wat</code>"
+        },
+        {
+          "q": "We say «a hour».",
+          "a": false,
+          "why": "an hour, porque la H es muda"
+        },
+        {
+          "q": "In American English, «herb» has a silent H.",
+          "a": true
+        },
+        {
+          "q": "In «tell him», the H of «him» is usually dropped.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "¿Cómo se escribe?",
+      "title_en": "How do you spell it?",
+      "icon": "✏️",
+      "es": "Escribe la palabra en inglés. ¡Todas llevan H! Luego dila con vaho.",
+      "en": "Write the English word. They all have an H.",
+      "items": [
+        {
+          "q": "🏠 casa",
+          "a": "house"
+        },
+        {
+          "q": "😀 feliz",
+          "a": "happy"
+        },
+        {
+          "q": "🎩 sombrero",
+          "a": "hat"
+        },
+        {
+          "q": "✋ mano",
+          "a": "hand"
+        },
+        {
+          "q": "🍯 miel",
+          "a": "honey"
+        },
+        {
+          "q": "🐴 caballo",
+          "a": "horse"
+        },
+        {
+          "q": "🕐 hora",
+          "a": "hour"
+        },
+        {
+          "q": "❤️ corazón",
+          "a": "heart"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Después di la palabra con su H suave (si suena).",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "hel",
+            "lo"
+          ],
+          "s": 1,
+          "es": "hola"
+        },
+        {
+          "syl": [
+            "ho",
+            "tel"
+          ],
+          "s": 1,
+          "es": "hotel"
+        },
+        {
+          "syl": [
+            "hos",
+            "pi",
+            "tal"
+          ],
+          "s": 0,
+          "es": "hospital"
+        },
+        {
+          "syl": [
+            "be",
+            "hind"
+          ],
+          "s": 1,
+          "es": "detrás"
+        },
+        {
+          "syl": [
+            "per",
+            "haps"
+          ],
+          "s": 1,
+          "es": "quizás"
+        },
+        {
+          "syl": [
+            "un",
+            "hap",
+            "py"
+          ],
+          "s": 1,
+          "es": "triste"
+        },
+        {
+          "syl": [
+            "ham",
+            "bur",
+            "ger"
+          ],
+          "s": 0,
+          "es": "hamburguesa"
+        },
+        {
+          "syl": [
+            "hon",
+            "est"
+          ],
+          "s": 0,
+          "es": "sincero"
+        },
+        {
+          "syl": [
+            "Hal",
+            "low",
+            "een"
+          ],
+          "s": 2,
+          "es": "Halloween"
+        },
+        {
+          "syl": [
+            "al",
+            "co",
+            "hol"
+          ],
+          "s": 0,
+          "es": "alcohol"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pega las palabras",
+      "title_en": "Link the words",
+      "icon": "🔗",
+      "es": "Escribe cómo suena en una frase rápida: la H de him o her se cae y se pega a la palabra de delante.",
+      "en": "Write how it sounds in fast speech.",
+      "items": [
+        {
+          "q": "tell him",
+          "a": "télim"
+        },
+        {
+          "q": "ask her",
+          "a": "ǽsker"
+        },
+        {
+          "q": "help him",
+          "a": "jélpim"
+        },
+        {
+          "q": "call her",
+          "a": "kóler"
+        },
+        {
+          "q": "love him",
+          "a": "lávim"
+        },
+        {
+          "q": "kiss her",
+          "a": "kíser"
+        },
+        {
+          "q": "give him",
+          "a": "guívim"
+        },
+        {
+          "q": "What's his name?",
+          "a": "wáts is néim"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "hotel → <code>outél</code>",
+          "a": "joutél"
+        },
+        {
+          "q": "hour → <code>jáuer</code>",
+          "a": "áuer"
+        },
+        {
+          "q": "who → <code>wuu</code>",
+          "a": "juu"
+        },
+        {
+          "q": "honest → <code>jónest</code>",
+          "a": "ánist"
+        },
+        {
+          "q": "hospital → <code>ospitál</code>",
+          "a": "jáspirəl"
+        },
+        {
+          "q": "hungry → <code>ángri</code>",
+          "a": "jángri"
+        },
+        {
+          "q": "behind → <code>biáind</code>",
+          "a": "bijáind"
+        },
+        {
+          "q": "herb → <code>jerb</code>",
+          "a": "erb (en EE. UU.)"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez. ¡Vaho, no jota!",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Hi! How are you?",
+          "say": "jai! jáu er iu?"
+        },
+        {
+          "q": "Happy Halloween!",
+          "say": "jǽpi jæləwíin!"
+        },
+        {
+          "q": "Who's he?",
+          "say": "júus jíi?"
+        },
+        {
+          "q": "I'm hungry!",
+          "say": "aim jángri!"
+        },
+        {
+          "q": "See you in an hour.",
+          "say": "sii iu inən áuer"
+        },
+        {
+          "q": "Tell him to call me.",
+          "say": "télim tə kól mi"
+        },
+        {
+          "q": "Help! My hamster is hungry!",
+          "say": "jélp! mai jǽmster is jángri!"
+        },
+        {
+          "q": "Hold the hot hamburger.",
+          "say": "jóuld də ját jǽmberguer"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con la H suave (o muda, si toca).",
+      "en": "Translate into English and say it.",
+      "items": [
+        {
+          "q": "hola",
+          "a": "hello (jəlóu)"
+        },
+        {
+          "q": "casa",
+          "a": "house (jaus)"
+        },
+        {
+          "q": "feliz",
+          "a": "happy (jǽpi)"
+        },
+        {
+          "q": "¿quién?",
+          "a": "who (juu)"
+        },
+        {
+          "q": "hora",
+          "a": "hour (áuer)"
+        },
+        {
+          "q": "detrás",
+          "a": "behind (bijáind)"
+        },
+        {
+          "q": "hambriento",
+          "a": "hungry (jángri)"
+        },
+        {
+          "q": "sincero",
+          "a": "honest (ánist)"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «¿Suena la H?» escribe sí o no.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "¿Suena la H?"
+      ],
+      "rows": [
+        [
+          "hello",
+          "hola",
+          "?jəlóu",
+          "?sí"
+        ],
+        [
+          "hour",
+          "?hora",
+          "áuer",
+          "?no"
+        ],
+        [
+          "?house",
+          "casa",
+          "jaus",
+          "sí"
+        ],
+        [
+          "honest",
+          "?sincero",
+          "?ánist",
+          "no"
+        ],
+        [
+          "who",
+          "¿quién?",
+          "?juu",
+          "?sí"
+        ],
+        [
+          "?hotel",
+          "hotel",
+          "joutél",
+          "?sí"
+        ],
+        [
+          "herb",
+          "?hierba",
+          "erb",
+          "?no"
+        ],
+        [
+          "?behind",
+          "detrás",
+          "?bijáind",
+          "sí"
+        ]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de haches",
+      "title_en": "H word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con H. Dila en voz alta cada vez que encuentres una: ¿suena o es muda?",
+      "en": "Find 10 words with an H.",
+      "words": [
+        "hello",
+        "house",
+        "happy",
+        "hotel",
+        "hour",
+        "honest",
+        "whole",
+        "behind",
+        "hungry",
+        "hamster"
+      ],
+      "clues": [
+        "hello · hola",
+        "house · casa",
+        "happy · feliz",
+        "hotel · hotel",
+        "hour · hora",
+        "honest · sincero",
+        "whole · entero",
+        "behind · detrás",
+        "hungry · hambriento",
+        "hamster · hámster"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las haches",
+      "title_en": "Read and find the H's",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Harry's Hotel",
+      "text": [
+        "Harry works at a small hotel in Ohio. Every morning he says “Hello!” to the guests and helps them with their bags.",
+        "Today a woman arrives an hour late. She is hungry and unhappy. Harry is honest: “The kitchen is closed, but I have a hamburger for you!” She laughs: “Ha! You're my hero, Harry!”"
+      ],
+      "items": [
+        {
+          "q": "Where does Harry work?",
+          "a": "At a hotel in Ohio. <code>joutél</code>, con H que suena."
+        },
+        {
+          "q": "Find two words in the text with a silent H.",
+          "a": "hour, honest"
+        },
+        {
+          "q": "Why does the text say «an hour» and not «a hour»?",
+          "a": "Porque la H de hour es muda: empieza por sonido de vocal."
+        },
+        {
+          "q": "The woman is happy.",
+          "tf": true,
+          "a": false,
+          "why": "she is hungry and unhappy"
+        },
+        {
+          "q": "In «Ohio», you pronounce the H.",
+          "tf": true,
+          "a": true,
+          "why": "<code>oujáiou</code>"
+        },
+        {
+          "q": "The H in «honest» sounds like a soft breath.",
+          "tf": true,
+          "a": false,
+          "why": "es muda: <code>ánist</code>"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con palabras de H. Léelas en voz alta con vaho y grábate.",
+      "en": "Write three sentences with H words and record yourself.",
+      "items": [
+        {
+          "q": "Una frase sobre tu casa (house, home, happy…).",
+          "lines": 2,
+          "a": "Ej.: My house is behind the hospital."
+        },
+        {
+          "q": "Una frase con una palabra de H muda (hour, honest…).",
+          "lines": 2,
+          "a": "Ej.: I'll be home in an hour."
+        },
+        {
+          "q": "Una frase con «tell him» o «ask her».",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Hago la H inglesa como <b>vaho</b>, sin jota rasposa.",
+      "en": "I can say a soft, breathy H."
+    },
+    {
+      "es": "Digo hotel, hospital y hamburger con H: <code>joutél</code>.",
+      "en": "I say the H in hotel and hospital."
+    },
+    {
+      "es": "Conozco el club de la H muda: hour, honest, honor, heir, herb.",
+      "en": "I know the silent H words."
+    },
+    {
+      "es": "Sé que en who y whole suena la H (y no la W).",
+      "en": "I know WH sounds like H in who and whole."
+    },
+    {
+      "es": "Pego <code>télim</code> y <code>ǽsker</code> como un americano.",
+      "en": "I can drop the H in tell him, ask her."
+    },
+    {
+      "es": "Puedo decir el trabalenguas del hámster de Harry sin carraspear.",
+      "en": "I can say the Harry's hamster tongue twister."
+    }
+  ]
+}

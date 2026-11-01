@@ -1,0 +1,1741 @@
+{
+  "id": "C-10",
+  "block": "C",
+  "title": "Y <em>y</em> W",
+  "file_title": "Y y W (los sonidos /j/ y /w/)",
+  "subtitle": "The glides /j/ & /w/ · yes = «iés», we = «wii»",
+  "icon": "🐧",
+  "map": {
+    "center": "La <b>Y</b> inglesa es la <b>i</b> suave de «p<b>ie</b>s», y la <b>W</b> es la <b>u</b> de «c<b>ua</b>ndo»: yes = <code>iés</code>, we = <code>wii</code>.",
+    "listen": "yes",
+    "nodes": [
+      {
+        "title": "La Y suave /j/",
+        "icon": "😁",
+        "color": "green",
+        "rows": [
+          [
+            "yes",
+            "<code>iés</code>"
+          ],
+          [
+            "you",
+            "<code>iu</code>"
+          ],
+          [
+            "yellow",
+            "<code>iélou</code>"
+          ]
+        ],
+        "after": "la i de «p<b>ie</b>s», cortita y sin fuerza"
+      },
+      {
+        "title": "La W /w/",
+        "icon": "😘",
+        "color": "blue",
+        "rows": [
+          [
+            "we",
+            "<code>wii</code> (¡Wii!)"
+          ],
+          [
+            "way",
+            "<code>wei</code>"
+          ],
+          [
+            "woman",
+            "<code>wúmən</code>"
+          ]
+        ],
+        "after": "labios en <b>beso</b> y se abren"
+      },
+      {
+        "title": "¡Y fuerte = J!",
+        "icon": "🚫",
+        "color": "purple",
+        "items": [
+          "con la y de «¡<b>yo</b>!», yes suena <b>Jess</b> 👧",
+          "y yet suena <b>jet</b> ✈️",
+          "la lengua <b>no toca</b> el paladar"
+        ]
+      },
+      {
+        "title": "¡W sin g ni b!",
+        "icon": "✋",
+        "color": "orange",
+        "items": [
+          "<s>güud</s>: would con g suena <b>good</b>",
+          "<s>váter</s>: water es <code>wárer</code>",
+          "nada de dientes: eso es la <b>V</b>"
+        ]
+      },
+      {
+        "title": "Se esconde en…",
+        "icon": "🔍",
+        "color": "pink",
+        "rows": [
+          [
+            "<b>WH</b>",
+            "what <code>wat</code>, why <code>wai</code>"
+          ],
+          [
+            "<b>QU</b>",
+            "queen <code>kwiin</code>"
+          ],
+          [
+            "<b>O</b>",
+            "one <code>wan</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "<b>Y</b> = sonrisa 😁: «i…» y desliza.<br><b>W</b> = beso 😘: «u…» y abre.<br>¡Suave y rapidito!",
+        "art": "🐧"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "yes con la y de «¡yo!»: <code>yes</code>"
+      ],
+      "good": [
+        "<code>iés</code> 👍"
+      ],
+      "note": "Con y fuerte, yes suena a <b>Jess</b>, ¡un nombre de chica! 👧"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "👍 yes → ____",
+          "a": "iés"
+        },
+        {
+          "q": "🍯 yellow → ____",
+          "a": "iélou"
+        },
+        {
+          "q": "🎮 we → ____",
+          "a": "wii"
+        },
+        {
+          "q": "1️⃣ one → ____",
+          "a": "wan"
+        },
+        {
+          "q": "🤔 why → ____",
+          "a": "wai"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué son la Y y la W?",
+      "title_en": "What are Y and W?",
+      "icon": "🔎",
+      "es": "La <b>Y</b> de <b>yes</b> y la <b>W</b> de <b>we</b> son sonidos «a medio camino» entre vocal y consonante: una <b>i</b> y una <b>u</b> cortitas que <mark>se deslizan</mark> hacia la vocal siguiente. En español ya los tienes: la i de «p<b>ie</b>s» y la u de «c<b>ua</b>ndo». El problema es que, al empezar palabra, el español los <b>endurece</b>: «yo» suena casi «dyo» y «huevo» suena «güevo». En inglés <mark>nunca se endurecen</mark>. En el alfabeto fonético son /j/ y /w/.",
+      "en": "The Y in <b>yes</b> /j/ and the W in <b>we</b> /w/ are glides: a quick i or u sliding into the next vowel. Spanish has them too (pies, cuando), but English never makes them hard like the Spanish «yo» or «güevo».",
+      "formula": [
+        "*i* cortita + vocal → yes = *iés*",
+        "*u* cortita + vocal → we = *wii*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "tongue",
+          "es": "<b>Y</b>: la lengua sube cerca del paladar, como para decir «i», pero <b>sin tocarlo</b>. Si toca, te sale la J de <b>job</b>.",
+          "en": "For Y, the tongue rises near the roof of your mouth but never touches it."
+        },
+        {
+          "part": "lips",
+          "es": "<b>W</b>: labios redondos y hacia delante, como para dar un <b>beso</b> 😘 o soplar una vela. Enseguida se abren hacia la vocal.",
+          "en": "For W, round your lips like a kiss, then open them."
+        },
+        {
+          "part": "teeth",
+          "es": "La W <b>no usa los dientes</b>. Si el labio de abajo toca los dientes de arriba, te sale una <b>V</b>: wine se convierte en vine.",
+          "en": "W never touches your teeth: that would be a V."
+        },
+        {
+          "part": "voice",
+          "es": "Las dos son <b>sonoras</b> (la garganta vibra) y <b>rapidísimas</b>: duran lo que un parpadeo.",
+          "en": "Both are voiced and very quick."
+        },
+        {
+          "part": "air",
+          "es": "El aire sale <b>libre</b>, sin ruido ni golpe: nada de «g» ni «b» delante.",
+          "en": "Air flows freely: no g or b before them."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · La Y suave /j/",
+      "title_en": "The soft Y",
+      "icon": "😁",
+      "es": "La <b>Y</b> inglesa delante de vocal (yes, you, yellow, year) es una <b>i cortita</b> que se desliza hacia la vocal siguiente, como en «p<b>ie</b>s», «b<b>ie</b>n» o «c<b>iu</b>dad». En la figurada la escribimos <code>i</code>: yes = <code>iés</code>. Sin fuerza y sin ruido: <mark>la lengua no toca nada</mark>.",
+      "en": "English Y before a vowel is a quick, soft i sliding into the next vowel, like the i in «pies» or «bien».",
+      "formula": [
+        "p + *ies* → *iés* = yes",
+        "m + *iel* + ou → *iél*ou = yellow"
+      ],
+      "examples": [
+        {
+          "en": "yes",
+          "say": "iés",
+          "es": "sí",
+          "icon": "👍"
+        },
+        {
+          "en": "you",
+          "say": "iu",
+          "es": "tú / vosotros",
+          "icon": "👉"
+        },
+        {
+          "en": "yellow",
+          "say": "iélou",
+          "es": "amarillo",
+          "icon": "💛"
+        },
+        {
+          "en": "year",
+          "say": "iír",
+          "es": "año",
+          "icon": "📅"
+        },
+        {
+          "en": "yesterday",
+          "say": "iésterdei",
+          "es": "ayer",
+          "icon": "⏪"
+        },
+        {
+          "en": "young",
+          "say": "iáng",
+          "es": "joven",
+          "icon": "👶"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · ¡Que no suene a J!",
+      "title_en": "Don't turn it into a J",
+      "icon": "🚫",
+      "es": "En español, la y de «<b>yo</b>», «<b>ya</b>» o «<b>llave</b>» suele sonar fuerte, casi «dyo» (y en Argentina, «sho»). En inglés ese sonido fuerte es <b>otra letra</b>: la <b>J</b> de <b>job</b>, /dʒ/. Si dices yes con la y de «¡yo!», un americano oye <b>Jess</b>. Recuerda: en la figurada, <code>i</code> = Y suave y <code>y</code> = J fuerte. ¡Ojo con las palabras que ya usas en español!",
+      "en": "A hard Spanish «y» (as in «yo») sounds like the English J /dʒ/. Say yes with a hard y and Americans hear «Jess». Careful with words you already use in Spanish.",
+      "examples": [
+        {
+          "en": "yoga",
+          "say": "ióugə",
+          "es": "yoga",
+          "icon": "🧘"
+        },
+        {
+          "en": "yogurt",
+          "say": "ióuguert",
+          "es": "yogur",
+          "icon": "🥣"
+        },
+        {
+          "en": "New York",
+          "say": "nu iórk",
+          "es": "Nueva York",
+          "icon": "🗽"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · La Y escondida",
+      "title_en": "The hidden Y",
+      "icon": "🦄",
+      "es": "A veces la Y suave está <b>escondida</b>: muchas palabras que empiezan por <b>U</b> o <b>EU</b> suenan con <code>iu</code> delante. Por eso se dice <b>a</b> university y <b>a</b> unicorn, y no «an»: ¡empiezan por el sonido /j/, no por vocal! <i>(La U de music o cute la verás en el mapa V-06.)</i>",
+      "en": "Many words starting with U or EU begin with a hidden /j/ sound. That's why we say «a university», not «an university».",
+      "examples": [
+        {
+          "en": "unicorn",
+          "say": "iúnikorn",
+          "es": "unicornio",
+          "icon": "🦄"
+        },
+        {
+          "en": "university",
+          "say": "iunivérsəri",
+          "es": "universidad",
+          "icon": "🎓"
+        },
+        {
+          "en": "Europe",
+          "say": "iúrəp",
+          "es": "Europa",
+          "icon": "🗺️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · La W /w/, sin g ni b",
+      "title_en": "The W sound: no g, no b",
+      "icon": "😘",
+      "es": "La <b>W</b> es una <b>u cortita</b> con los labios en beso, que enseguida se abre hacia la vocal: como la u de «c<b>ua</b>ndo», «b<b>ue</b>no» o «s<b>ue</b>ño». La escribimos <code>w</code>. Al empezar palabra, el español tiene dos manías: <b>meter una g</b> («güevo») o <b>convertirla en b</b> (por eso el «water» español se dice «váter» 🚽). <mark>Ni g ni b</mark>: solo labios.",
+      "en": "W is a quick u with rounded lips that opens into the next vowel, like the u in «cuando». Don't add a g and don't turn it into a b.",
+      "formula": [
+        "c + *uan* + do → *wan* = one"
+      ],
+      "examples": [
+        {
+          "en": "we",
+          "say": "wii",
+          "es": "nosotros",
+          "icon": "🙋"
+        },
+        {
+          "en": "one",
+          "say": "wan",
+          "es": "uno",
+          "icon": "1️⃣"
+        },
+        {
+          "en": "window",
+          "say": "wíndou",
+          "es": "ventana",
+          "icon": "🪟"
+        },
+        {
+          "en": "week",
+          "say": "wiik",
+          "es": "semana",
+          "icon": "📆"
+        },
+        {
+          "en": "water",
+          "say": "wárer",
+          "es": "agua",
+          "icon": "💧"
+        },
+        {
+          "en": "wait",
+          "say": "weit",
+          "es": "esperar",
+          "icon": "⏳"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · W + U: la más difícil",
+      "title_en": "W before an u sound",
+      "icon": "🐺",
+      "es": "Cuando detrás de la W viene un sonido <b>u</b> u <b>ou</b> (wood, woman, wolf, won't), los labios ya están redondos… ¡y parece que no hay nada que decir! El truco: empieza con los labios <b>muy</b> en beso y di «u-ud» rapidito: <code>wud</code>. Si se te escapa una g («güud»), has dicho <b>good</b>. 👍",
+      "en": "W before an u or ou sound (wood, woman, won't) is the hardest. Start with very rounded lips and say «u-ud» quickly. No g!",
+      "examples": [
+        {
+          "en": "wood",
+          "say": "wud",
+          "es": "madera",
+          "icon": "🪵"
+        },
+        {
+          "en": "would",
+          "say": "wud",
+          "es": "-ría (condicional)",
+          "icon": "💭"
+        },
+        {
+          "en": "woman",
+          "say": "wúmən",
+          "es": "mujer",
+          "icon": "👩"
+        },
+        {
+          "en": "wolf",
+          "say": "wulf",
+          "es": "lobo",
+          "icon": "🐺"
+        },
+        {
+          "en": "woke up",
+          "say": "woukáp",
+          "es": "se despertó",
+          "icon": "⏰"
+        },
+        {
+          "en": "won't",
+          "say": "wount",
+          "es": "no lo hará",
+          "icon": "🙅"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · WH, QU y la O de one",
+      "title_en": "W hiding in other letters",
+      "icon": "🔍",
+      "es": "El sonido W se esconde en otras letras. <b>WH</b> suena simplemente <code>w</code>: what, why, where (la H no suena). <b>QU</b> suena <code>kw</code>, como el «<b>cu</b>» de «cuatro»: queen, quick, question. Y la <b>O</b> de <b>one</b> y <b>once</b> suena <code>wa</code>. ¡Ojo! <b>Who</b> es la excepción: suena <code>juu</code> (mapa C-06).",
+      "en": "WH sounds like a plain W (what, why); QU sounds kw (queen, quick); one and once start with a W sound. «Who» is the exception.",
+      "examples": [
+        {
+          "en": "what",
+          "say": "wat",
+          "es": "qué",
+          "icon": "❓"
+        },
+        {
+          "en": "why",
+          "say": "wai",
+          "es": "por qué",
+          "icon": "🤔"
+        },
+        {
+          "en": "where",
+          "say": "wer",
+          "es": "dónde",
+          "icon": "📍"
+        },
+        {
+          "en": "queen",
+          "say": "kwiin",
+          "es": "reina",
+          "icon": "👑"
+        },
+        {
+          "en": "quick",
+          "say": "kwik",
+          "es": "rápido",
+          "icon": "⚡"
+        },
+        {
+          "en": "once",
+          "say": "wans",
+          "es": "una vez",
+          "icon": "☝️"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "yes",
+          "ipa": "jɛs",
+          "say": "iés",
+          "es": "sí",
+          "icon": "👍",
+          "anchor": "p<b>ies</b> 👣",
+          "tip": "Di «pies» y quita la p: «iés». ¡Nada de y de «¡yo!»!"
+        },
+        {
+          "en": "yellow",
+          "ipa": "ˈjɛloʊ",
+          "say": "iélou",
+          "es": "amarillo",
+          "icon": "💛",
+          "anchor": "m<b>iel</b> 🍯 + ou",
+          "tip": "La miel es amarilla: quítale la m y añade «ou». IÉL-ou."
+        },
+        {
+          "en": "yummy",
+          "ipa": "ˈjʌmi",
+          "say": "iámi",
+          "es": "¡qué rico!",
+          "icon": "😋",
+          "anchor": "M<b>iami</b> 🌴",
+          "tip": "Di «Miami» sin la M: «iámi». ¡Yummy!"
+        },
+        {
+          "en": "you",
+          "ipa": "juː",
+          "say": "iu",
+          "es": "tú / vosotros",
+          "icon": "👉",
+          "anchor": "c<b>iu</b>dad 🏙️",
+          "tip": "La «iu» de «ciudad», con la u un pelín más larga."
+        },
+        {
+          "en": "year",
+          "ipa": "jɪr",
+          "say": "iír",
+          "es": "año",
+          "icon": "📅",
+          "anchor": "<b>i</b> + <b>ir</b> 🏃",
+          "tip": "Una i cortita y luego «ir» (con R americana). Sin la i, dices ear: ¡oreja! 👂"
+        },
+        {
+          "en": "Europe",
+          "ipa": "ˈjʊrəp",
+          "say": "iúrəp",
+          "es": "Europa",
+          "icon": "🗺️",
+          "anchor": "<s>eu-RO-pa</s> → <b>IÚ</b>rəp",
+          "tip": "Empieza con «iu» y la fuerza va al principio: IÚ-rəp."
+        },
+        {
+          "en": "we",
+          "ipa": "wiː",
+          "say": "wii",
+          "es": "nosotros",
+          "icon": "🙋",
+          "anchor": "la consola <b>Wii</b> 🎮",
+          "tip": "Igual que la consola de Nintendo… dicha sin g: «uii», no «güi»."
+        },
+        {
+          "en": "one",
+          "ipa": "wʌn",
+          "say": "wan",
+          "es": "uno",
+          "icon": "1️⃣",
+          "anchor": "c<b>uan</b>do ⏰",
+          "tip": "Quédate con «uan» de «cuando». ¡Es «Juan» sin la jota!"
+        },
+        {
+          "en": "way",
+          "ipa": "weɪ",
+          "say": "wei",
+          "es": "camino / manera",
+          "icon": "🛣️",
+          "anchor": "b<b>uey</b> 🐂",
+          "tip": "Di «buey» sin la b. No way! = <code>nou wéi</code>."
+        },
+        {
+          "en": "wow",
+          "ipa": "waʊ",
+          "say": "wau",
+          "es": "¡hala!",
+          "icon": "🤩",
+          "anchor": "g<b>uau</b> 🐶",
+          "tip": "Rocky ladra «guau»: quítale la g y tienes wow."
+        },
+        {
+          "en": "why",
+          "ipa": "waɪ",
+          "say": "wai",
+          "es": "¿por qué?",
+          "icon": "🤔",
+          "anchor": "<b>¡u!</b> + <b>¡ay!</b> 😖",
+          "tip": "Pégalos rapidito: «u-ay» = why. ¡Y no digas «guay»! 😎"
+        },
+        {
+          "en": "would",
+          "ipa": "wʊd",
+          "say": "wud",
+          "es": "-ría (condicional)",
+          "icon": "💭",
+          "anchor": "<s>güud</s> → <b>u</b> + <b>ud</b>",
+          "tip": "Labios en beso y «u-ud», rapidísimo. Con g sale good 👍."
+        },
+        {
+          "en": "sweater",
+          "ipa": "ˈswɛɾɚ",
+          "say": "swérer",
+          "es": "jersey",
+          "icon": "🧥",
+          "anchor": "<b>sué</b>ter 🧶",
+          "tip": "La «sué» de «suéter» es igualita. Y la T suena r (mapa C-02)."
+        },
+        {
+          "en": "penguin",
+          "ipa": "ˈpɛŋɡwɪn",
+          "say": "péngwin",
+          "es": "pingüino",
+          "icon": "🐧",
+          "anchor": "pin<b>güin</b>o 🐧",
+          "tip": "La ü de pingüino es justo una W: «gwin». Pero la fuerza va delante: PÉN-gwin."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "yes",
+          "es": "sí"
+        },
+        {
+          "q": "year",
+          "es": "año"
+        },
+        {
+          "q": "yellow",
+          "es": "amarillo"
+        },
+        {
+          "q": "would",
+          "es": "-ría"
+        },
+        {
+          "q": "woman",
+          "es": "mujer"
+        },
+        {
+          "q": "one",
+          "es": "uno"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Qué letras hacen estos sonidos?",
+      "title_en": "Which letters make these sounds?",
+      "icon": "🧭",
+      "head": [
+        "Se escribe · Spelling",
+        "Sonido · Sound",
+        "Ejemplos · Examples",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "<b>Y</b> + vocal",
+          "/j/",
+          "yes, yellow, you",
+          "<code>iés</code>, <code>iélou</code>, <code>iu</code>"
+        ],
+        [
+          "<b>U-</b> / <b>EU-</b> (muchas)",
+          "/j/ + u",
+          "unicorn, Europe",
+          "<code>iúnikorn</code>, <code>iúrəp</code>"
+        ],
+        [
+          "<b>W</b>",
+          "/w/",
+          "we, window, woman",
+          "<code>wii</code>, <code>wíndou</code>, <code>wúmən</code>"
+        ],
+        [
+          "<b>WH</b>",
+          "/w/ (la H no suena)",
+          "what, why, where",
+          "<code>wat</code>, <code>wai</code>, <code>wer</code>"
+        ],
+        [
+          "<b>QU</b>",
+          "/kw/",
+          "queen, quick, quiet",
+          "<code>kwiin</code>, <code>kwik</code>, <code>kwáiət</code>"
+        ],
+        [
+          "<b>O</b> de one, once",
+          "/w/ + a",
+          "one, once, someone",
+          "<code>wan</code>, <code>wans</code>, <code>sámwan</code>"
+        ],
+        [
+          "<b>Y</b> al final",
+          "vocal (¡no es /j/!)",
+          "my, happy, day",
+          "<code>mai</code>, <code>jǽpi</code>, <code>dei</code>"
+        ],
+        [
+          "<b>W</b> muda",
+          "no suena",
+          "write, two, who",
+          "<code>rait</code>, <code>tuu</code>, <code>juu</code>"
+        ]
+      ],
+      "note": "<b>Who</b> se escribe con W pero suena <code>juu</code> (mapa C-06). Las W mudas de write, two o answer las verás en el mapa C-15. Y la Y al final de palabra es <b>vocal</b>, no consonante.",
+      "note_en": "Who sounds «huu». Silent W: see map C-15. A final Y is a vowel, not the /j/ sound."
+    },
+    {
+      "t": "pairs",
+      "title": "Parejas que se confunden",
+      "title_en": "Minimal pairs",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "yes",
+            "ipa": "jɛs",
+            "say": "iés",
+            "es": "sí",
+            "icon": "👍"
+          },
+          "b": {
+            "en": "Jess",
+            "ipa": "dʒɛs",
+            "say": "yes",
+            "es": "Jess (nombre)",
+            "icon": "👧"
+          },
+          "tip": "Solo cambia el principio: i suave o y fuerte de «¡yo!»."
+        },
+        {
+          "a": {
+            "en": "yet",
+            "ipa": "jɛt",
+            "say": "iét",
+            "es": "todavía",
+            "icon": "⏳"
+          },
+          "b": {
+            "en": "jet",
+            "ipa": "dʒɛt",
+            "say": "yet",
+            "es": "avión a reacción",
+            "icon": "✈️"
+          },
+          "tip": "«Not yet» (todavía no) con y fuerte suena «not jet». 😄"
+        },
+        {
+          "a": {
+            "en": "year",
+            "ipa": "jɪr",
+            "say": "iír",
+            "es": "año",
+            "icon": "📅"
+          },
+          "b": {
+            "en": "ear",
+            "ipa": "ɪr",
+            "say": "ir",
+            "es": "oreja",
+            "icon": "👂"
+          },
+          "tip": "Happy New Year! con la i de entrada; sin ella, ¡felicitas a una oreja!"
+        },
+        {
+          "a": {
+            "en": "would",
+            "ipa": "wʊd",
+            "say": "wud",
+            "es": "-ría",
+            "icon": "💭"
+          },
+          "b": {
+            "en": "good",
+            "ipa": "ɡʊd",
+            "say": "gud",
+            "es": "bueno",
+            "icon": "👍"
+          },
+          "tip": "Labios en beso y sin g: <code>wud</code>. Con g: good."
+        },
+        {
+          "a": {
+            "en": "wine",
+            "ipa": "waɪn",
+            "say": "wain",
+            "es": "vino",
+            "icon": "🍷"
+          },
+          "b": {
+            "en": "vine",
+            "ipa": "vaɪn",
+            "say": "vain",
+            "es": "parra (planta)",
+            "icon": "🍇"
+          },
+          "tip": "W = labios redondos. V = dientes en el labio (mapa C-07)."
+        },
+        {
+          "a": {
+            "en": "wet",
+            "ipa": "wɛt",
+            "say": "wet",
+            "es": "mojado",
+            "icon": "💦"
+          },
+          "b": {
+            "en": "vet",
+            "ipa": "vɛt",
+            "say": "vet",
+            "es": "veterinario",
+            "icon": "🩺"
+          },
+          "tip": "Rocky está wet (mojado) y lo llevan al vet. 🐾"
+        }
+      ]
+    },
+    {
+      "t": "vocab",
+      "cols": 2,
+      "title": "¡Reacciona en inglés!",
+      "title_en": "Fun reaction words",
+      "icon": "🤩",
+      "items": [
+        {
+          "en": "yeah",
+          "es": "<code>iéə</code> · sí (informal)",
+          "icon": "🙂"
+        },
+        {
+          "en": "yep",
+          "es": "<code>iép</code> · sip",
+          "icon": "👌"
+        },
+        {
+          "en": "yay!",
+          "es": "<code>iéi</code> · ¡bieeen!",
+          "icon": "🎉"
+        },
+        {
+          "en": "yikes!",
+          "es": "<code>iáiks</code> · ¡uy, qué miedo!",
+          "icon": "😬"
+        },
+        {
+          "en": "yummy!",
+          "es": "<code>iámi</code> · ¡qué rico!",
+          "icon": "😋"
+        },
+        {
+          "en": "yuck!",
+          "es": "<code>iák</code> · ¡puaj!",
+          "icon": "🤢"
+        },
+        {
+          "en": "wow!",
+          "es": "<code>wau</code> · ¡hala!",
+          "icon": "🤩"
+        },
+        {
+          "en": "whoa!",
+          "es": "<code>wou</code> · ¡eh, para!",
+          "icon": "😮"
+        },
+        {
+          "en": "woo-hoo!",
+          "es": "<code>wuujúu</code> · ¡yujuuu!",
+          "icon": "🥳"
+        },
+        {
+          "en": "no way!",
+          "es": "<code>nou wéi</code> · ¡anda ya!",
+          "icon": "🙅"
+        },
+        {
+          "en": "you bet!",
+          "es": "<code>iu bét</code> · ¡ya te digo!",
+          "icon": "😎"
+        },
+        {
+          "en": "why not?",
+          "es": "<code>wai nát</code> · ¿por qué no?",
+          "icon": "🤷"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "My yellow yo-yo is new.",
+          "say": "mai iélou ióuiou is nu",
+          "es": "Mi yoyó amarillo es nuevo.",
+          "icon": "🪀"
+        },
+        {
+          "en": "See you next year!",
+          "say": "sii iu nekst iír!",
+          "es": "¡Hasta el año que viene!",
+          "icon": "🎆"
+        },
+        {
+          "en": "We want water, please.",
+          "say": "wi want wárer, pliis",
+          "es": "Queremos agua, por favor.",
+          "icon": "💧"
+        },
+        {
+          "en": "Why is the woman so quiet?",
+          "say": "wai is də wúmən sou kwáiət?",
+          "es": "¿Por qué está tan callada la mujer?",
+          "icon": "🤫"
+        },
+        {
+          "en": "Woody wants a yellow yogurt.",
+          "say": "wúri wants ə iélou ióuguert",
+          "es": "Woody quiere un yogur amarillo.",
+          "icon": "🤠"
+        },
+        {
+          "en": "One woman, one wolf, one window.",
+          "say": "wan wúmən, wan wulf, wan wíndou",
+          "es": "Una mujer, un lobo, una ventana.",
+          "icon": "🐺"
+        },
+        {
+          "en": "What a wonderful world!",
+          "say": "warə wánderfəl werld!",
+          "es": "¡Qué mundo tan maravilloso!",
+          "icon": "🌍"
+        },
+        {
+          "en": "Wait! Where is the queen?",
+          "say": "weit! wer is də kwiin?",
+          "es": "¡Espera! ¿Dónde está la reina?",
+          "icon": "👑"
+        },
+        {
+          "en": "Yesterday I ate a yummy pie.",
+          "say": "iésterdei ai éit ə iámi pai",
+          "es": "Ayer me comí una tarta riquísima.",
+          "icon": "🥧"
+        },
+        {
+          "en": "We go to a university in New York.",
+          "say": "wi gou tə ə iunivérsəri in nu iórk",
+          "es": "Vamos a una universidad de Nueva York.",
+          "icon": "🎓"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "yes → <code>yes</code> (y de «¡yo!»)",
+          "good": "<code>iés</code>",
+          "why": "Con y fuerte suena «Jess». La Y inglesa es la i suave de «pies».",
+          "why_en": "Use a soft i, not a hard Spanish y."
+        },
+        {
+          "bad": "year → <code>ir</code>",
+          "good": "<code>iír</code>",
+          "why": "Sin la i de entrada dices ear (oreja). Happy New Year!",
+          "why_en": "Without the /j/, year becomes ear."
+        },
+        {
+          "bad": "would → <code>gud</code>",
+          "good": "<code>wud</code>",
+          "why": "Con g suena good (bueno). Labios en beso y nada de garganta.",
+          "why_en": "With a g, would sounds like good."
+        },
+        {
+          "bad": "woman → <code>guóman</code>",
+          "good": "<code>wúmən</code>",
+          "why": "Sin g, y la o suena u corta: WÚ-mən.",
+          "why_en": "No g, and the o sounds like a short u."
+        },
+        {
+          "bad": "why → <code>guai</code> (como «guay»)",
+          "good": "<code>wai</code>",
+          "why": "¡No es «guay»! 😎 Di «u-ay» rapidito.",
+          "why_en": "Why is not «guay»: no g."
+        },
+        {
+          "bad": "an university",
+          "good": "a university <code>ə iunivérsəri</code>",
+          "why": "University empieza por el sonido /j/, no por vocal: se dice «a».",
+          "why_en": "It starts with a /j/ sound, so it's «a», not «an»."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el zoo",
+      "title_en": "At the zoo",
+      "lines": [
+        {
+          "who": "Jenny",
+          "en": "Wow! Look at the penguins, Mario!",
+          "say": "wau! luk ət də péngwins, mário!",
+          "es": "¡Hala! ¡Mira los pingüinos, Mario!"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes! One, two, three… twelve penguins!",
+          "say": "iés! wan, tuu, zrii… twelv péngwins!",
+          "es": "¡Sí! Uno, dos, tres… ¡doce pingüinos!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Which one is your favorite?",
+          "say": "wich wan is iór féivrit?",
+          "es": "¿Cuál es tu favorito?"
+        },
+        {
+          "who": "Mario",
+          "en": "The young one with yellow hair. He wants a yummy fish!",
+          "say": "də iáng wan wid iélou jer. ji wants ə iámi fish!",
+          "es": "El jovencito del pelo amarillo. ¡Quiere un pez riquísimo!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Yuck! Not for me. I want a waffle!",
+          "say": "iák! nat fər mii. ai want ə wáfəl!",
+          "es": "¡Puaj! Para mí no. ¡Yo quiero un gofre!"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes! Waffles with yogurt. Why not?",
+          "say": "iés! wáfəls wid ióuguert. wai nat?",
+          "es": "¡Sí! Gofres con yogur. ¿Por qué no?"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di «p<b>ie</b>s», «b<b>ie</b>n», «c<b>iu</b>dad» y fíjate en esa i que se desliza. ¡Esa es la Y inglesa!",
+          "en": "Say «pies», «bien»: that gliding i is the English Y."
+        },
+        {
+          "es": "Quita la consonante de delante: «p-ies» → <code>iés</code>, «m-iel» → <code>iél</code>. La lengua <b>no toca</b> el paladar.",
+          "en": "Drop the first consonant: «ies» = yes. Your tongue never touches the roof of your mouth."
+        },
+        {
+          "es": "Para la W, labios en beso 😘 y di «u-a», «u-i», «u-e», cada vez más rápido, hasta que suene <code>wa</code>, <code>wi</code>, <code>we</code>.",
+          "en": "Kiss-shaped lips, then «u-a», «u-i», «u-e», faster and faster."
+        },
+        {
+          "es": "Ahora las difíciles: <code>wud</code>, <code>wúmən</code>, <code>iír</code>. Mírate en un espejo: ¿se redondean los labios? ¿se cuela una g?",
+          "en": "Now the hard ones: would, woman, year. Check yourself in a mirror."
+        },
+        {
+          "es": "Escanea los QR, escucha 3 vídeos y <b>grábate</b> diciendo «Yes, we would!». Compara.",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Yellow yo-yos and yummy yogurt: yes, yes, yes!",
+          "say": "iélou ióuious ənd iámi ióuguert: iés, iés, iés!",
+          "es": "Yoyós amarillos y yogur riquísimo: ¡sí, sí, sí!"
+        },
+        {
+          "en": "Would a wet wolf wear wool on Wednesday?",
+          "say": "wud ə wet wulf wer wul an wénsdei?",
+          "es": "¿Llevaría lana un lobo mojado el miércoles?"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Sonrisa y beso",
+      "title_en": "Smile and kiss",
+      "es": "Antes de una <b>Y</b>, sonríe 😁 (lengua arriba, sin tocar). Antes de una <b>W</b>, lanza un beso 😘. Y en las dos: <mark>suave y rapidito</mark>. Si se cuela una g, una b o la y de «¡yo!», ¡otra vez!",
+      "en": "Smile for Y, kiss for W. Soft and quick: no g, no b."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Y suave o J fuerte?",
+      "title_en": "Soft Y or J?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta. ¿Empieza por la <b>Y suave</b> /j/ o por la <b>J fuerte</b> /dʒ/? Rodea. ¡Ojo, que hay trampas!",
+      "en": "Say the word. Does it start with a soft Y /j/ or a J /dʒ/?",
+      "items": [
+        {
+          "q": "yes → [Y suave|J fuerte]",
+          "a": "Y suave"
+        },
+        {
+          "q": "job → [Y suave|J fuerte]",
+          "a": "J fuerte"
+        },
+        {
+          "q": "unicorn → [Y suave|J fuerte]",
+          "a": "Y suave"
+        },
+        {
+          "q": "giraffe → [Y suave|J fuerte]",
+          "a": "J fuerte"
+        },
+        {
+          "q": "year → [Y suave|J fuerte]",
+          "a": "Y suave"
+        },
+        {
+          "q": "Europe → [Y suave|J fuerte]",
+          "a": "Y suave"
+        },
+        {
+          "q": "juice → [Y suave|J fuerte]",
+          "a": "J fuerte"
+        },
+        {
+          "q": "yellow → [Y suave|J fuerte]",
+          "a": "Y suave"
+        },
+        {
+          "q": "gym → [Y suave|J fuerte]",
+          "a": "J fuerte"
+        },
+        {
+          "q": "young → [Y suave|J fuerte]",
+          "a": "Y suave"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica por el primer sonido",
+      "title_en": "Sort by the first sound",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna según el <b>primer sonido</b> (¡no la primera letra!).",
+      "en": "Say each word and sort it by its first sound, not its first letter.",
+      "cats": [
+        {
+          "name": "😁 Empieza por /j/",
+          "words": [
+            "yes",
+            "yellow",
+            "unicorn",
+            "Europe",
+            "young",
+            "year"
+          ]
+        },
+        {
+          "name": "😘 Empieza por /w/",
+          "words": [
+            "one",
+            "what",
+            "window",
+            "woman",
+            "once",
+            "why"
+          ]
+        },
+        {
+          "name": "🙈 ¡Ni /j/ ni /w/!",
+          "words": [
+            "who",
+            "write",
+            "two",
+            "umbrella",
+            "jeans",
+            "wrong"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "yes",
+          "<code>iés</code>"
+        ],
+        [
+          "yellow",
+          "<code>iélou</code>"
+        ],
+        [
+          "year",
+          "<code>iír</code>"
+        ],
+        [
+          "one",
+          "<code>wan</code>"
+        ],
+        [
+          "would",
+          "<code>wud</code>"
+        ],
+        [
+          "why",
+          "<code>wai</code>"
+        ],
+        [
+          "queen",
+          "<code>kwiin</code>"
+        ],
+        [
+          "woman",
+          "<code>wúmən</code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Usa <b>i</b> para la Y suave y <b>w</b> para la W, y pon tilde en la sílaba fuerte.",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "🙋 we → ____",
+          "a": "wii"
+        },
+        {
+          "q": "🛣️ way → ____",
+          "a": "wei"
+        },
+        {
+          "q": "🤩 wow → ____",
+          "a": "wau"
+        },
+        {
+          "q": "🪟 window → ____",
+          "a": "wíndou"
+        },
+        {
+          "q": "😋 yummy → ____",
+          "a": "iámi"
+        },
+        {
+          "q": "📆 week → ____",
+          "a": "wiik"
+        },
+        {
+          "q": "👶 young → ____",
+          "a": "iáng"
+        },
+        {
+          "q": "⏪ yesterday → ____",
+          "a": "iésterdei"
+        },
+        {
+          "q": "🦄 unicorn → ____",
+          "a": "iúnikorn"
+        },
+        {
+          "q": "🐺 wolf → ____",
+          "a": "wulf"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "En inglés americano, ¿estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "In American English, do they sound the same or different?",
+      "items": [
+        {
+          "q": "yes · Jess → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "would · wood → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "wine · vine → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "year · ear → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "whale · wail → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "one · won → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "which · witch → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "would · good → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "wet · vet → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "weather · whether → [igual|diferente]",
+          "a": "igual"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "The Y in «yes» sounds like the Spanish «y» in «¡yo!».",
+          "a": false,
+          "why": "es una i suave, como en «pies»"
+        },
+        {
+          "q": "In «why», «what» and «where», the H is silent.",
+          "a": true
+        },
+        {
+          "q": "«Would» and «wood» sound the same.",
+          "a": true
+        },
+        {
+          "q": "«One» starts with a W sound.",
+          "a": true
+        },
+        {
+          "q": "«Who» starts with a W sound.",
+          "a": false,
+          "why": "suena «juu»"
+        },
+        {
+          "q": "We say «an university».",
+          "a": false,
+          "why": "a university: empieza por /j/"
+        },
+        {
+          "q": "For the W, your lower lip touches your top teeth.",
+          "a": false,
+          "why": "eso es la V; la W va con labios en beso"
+        },
+        {
+          "q": "«Year» and «ear» sound the same.",
+          "a": false,
+          "why": "year lleva una i suave delante: «iír»"
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "¿Cómo se escribe?",
+      "title_en": "Spell it",
+      "icon": "🔤",
+      "es": "Escribe la palabra en inglés. Todas tienen el sonido /j/ o /w/ (¡pero no siempre escrito con Y o W!).",
+      "en": "Write the English word.",
+      "items": [
+        {
+          "q": "🐧 pingüino",
+          "a": "penguin"
+        },
+        {
+          "q": "💛 amarillo",
+          "a": "yellow"
+        },
+        {
+          "q": "🪟 ventana",
+          "a": "window"
+        },
+        {
+          "q": "📅 año",
+          "a": "year"
+        },
+        {
+          "q": "👑 reina",
+          "a": "queen"
+        },
+        {
+          "q": "🐺 lobo",
+          "a": "wolf"
+        },
+        {
+          "q": "1️⃣ uno",
+          "a": "one"
+        },
+        {
+          "q": "🦄 unicornio",
+          "a": "unicorn"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe la frase como suena",
+      "title_en": "Write how the phrase sounds",
+      "icon": "🗣️",
+      "es": "Escribe cómo suena la frase entera con la figurada.",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        {
+          "q": "Yes, we can!",
+          "a": "iés, wi kæn!"
+        },
+        {
+          "q": "What a week!",
+          "a": "warə wiik!"
+        },
+        {
+          "q": "No way!",
+          "a": "nou wéi!"
+        },
+        {
+          "q": "Why not?",
+          "a": "wai nat?"
+        },
+        {
+          "q": "See you next year!",
+          "a": "sii iu nekst iír!"
+        },
+        {
+          "q": "one yellow yo-yo",
+          "a": "wan iélou ióuiou"
+        },
+        {
+          "q": "Wait for me!",
+          "a": "weit fər mii!"
+        },
+        {
+          "q": "Who wants one?",
+          "a": "juu wants wan?"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "yes → <code>yes</code>",
+          "a": "iés"
+        },
+        {
+          "q": "yellow → <code>yélou</code>",
+          "a": "iélou"
+        },
+        {
+          "q": "would → <code>gud</code>",
+          "a": "wud"
+        },
+        {
+          "q": "woman → <code>guóman</code>",
+          "a": "wúmən"
+        },
+        {
+          "q": "why → <code>guai</code>",
+          "a": "wai"
+        },
+        {
+          "q": "year → <code>ir</code>",
+          "a": "iír"
+        },
+        {
+          "q": "wine → <code>bain</code>",
+          "a": "wain"
+        },
+        {
+          "q": "queen → <code>kiin</code>",
+          "a": "kwiin"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Yes, you can!",
+          "say": "iés, iu kæn!"
+        },
+        {
+          "q": "Yummy yellow yogurt!",
+          "say": "iámi iélou ióuguert!"
+        },
+        {
+          "q": "We want water.",
+          "say": "wi want wárer"
+        },
+        {
+          "q": "Why is the woman quiet?",
+          "say": "wai is də wúmən kwáiət?"
+        },
+        {
+          "q": "One wet wolf.",
+          "say": "wan wet wulf"
+        },
+        {
+          "q": "Happy New Year!",
+          "say": "jǽpi nu iír!"
+        },
+        {
+          "q": "Wow! What a wonderful world!",
+          "say": "wau! warə wánderfəl werld!"
+        },
+        {
+          "q": "Yes, we would!",
+          "say": "iés, wi wud!"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta: Y suave y W sin g.",
+      "en": "Translate into English and say it.",
+      "items": [
+        {
+          "q": "sí",
+          "a": "yes (iés)"
+        },
+        {
+          "q": "amarillo",
+          "a": "yellow (iélou)"
+        },
+        {
+          "q": "año",
+          "a": "year (iír)"
+        },
+        {
+          "q": "uno",
+          "a": "one (wan)"
+        },
+        {
+          "q": "ventana",
+          "a": "window (wíndou)"
+        },
+        {
+          "q": "mujer",
+          "a": "woman (wúmən)"
+        },
+        {
+          "q": "¿por qué?",
+          "a": "why? (wai)"
+        },
+        {
+          "q": "reina",
+          "a": "queen (kwiin)"
+        },
+        {
+          "q": "semana",
+          "a": "week (wiik)"
+        },
+        {
+          "q": "joven",
+          "a": "young (iáng)"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «Sonido» escribe /j/, /w/ o /kw/.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "Sonido"
+      ],
+      "rows": [
+        [
+          "yes",
+          "sí",
+          "?iés",
+          "?/j/"
+        ],
+        [
+          "?window",
+          "ventana",
+          "wíndou",
+          "/w/"
+        ],
+        [
+          "yellow",
+          "?amarillo",
+          "?iélou",
+          "/j/"
+        ],
+        [
+          "?queen",
+          "reina",
+          "kwiin",
+          "?/kw/"
+        ],
+        [
+          "one",
+          "?uno",
+          "?wan",
+          "/w/"
+        ],
+        [
+          "?year",
+          "año",
+          "iír",
+          "?/j/"
+        ],
+        [
+          "what",
+          "?qué",
+          "wat",
+          "?/w/"
+        ],
+        [
+          "unicorn",
+          "unicornio",
+          "?iúnikorn",
+          "?/j/"
+        ]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de Y y W",
+      "title_en": "Y and W word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Dila en voz alta cada vez que encuentres una: ¡Y suave y W sin g!",
+      "en": "Find 10 words with a Y or W sound.",
+      "words": [
+        "yes",
+        "yellow",
+        "year",
+        "young",
+        "yummy",
+        "window",
+        "woman",
+        "wolf",
+        "queen",
+        "water"
+      ],
+      "clues": [
+        "yes · sí",
+        "yellow · amarillo",
+        "year · año",
+        "young · joven",
+        "yummy · riquísimo",
+        "window · ventana",
+        "woman · mujer",
+        "wolf · lobo",
+        "queen · reina",
+        "water · agua"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Woody's Yellow Week",
+      "text": [
+        "Every year, Woody the penguin waits for one special week. Why? Because it's Yellow Week at the zoo!",
+        "On Wednesday, a young woman gives him a yummy fish. «Wow!» says Woody. «Yes, yes, yes!»"
+      ],
+      "items": [
+        {
+          "q": "What does Woody wait for?",
+          "a": "For Yellow Week at the zoo (one special week)."
+        },
+        {
+          "q": "How does «year» sound? Write it.",
+          "a": "<code>iír</code>"
+        },
+        {
+          "q": "Find three words that start with a /w/ sound.",
+          "a": "Woody, waits, one, week, why, Wednesday, woman, wow (cualquiera)."
+        },
+        {
+          "q": "Find two words that start with a soft Y /j/.",
+          "a": "year, Yellow, young, yummy, yes (cualquiera)."
+        },
+        {
+          "q": "Woody is a wolf.",
+          "tf": true,
+          "a": false,
+          "why": "es un pingüino (penguin)"
+        },
+        {
+          "q": "In «Why?», the H is silent.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "«One» and «Wednesday» start with the same sound.",
+          "tf": true,
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con muchas Y y W. Léelas en voz alta y grábate.",
+      "en": "Write three sentences full of Y and W sounds and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con yes, you y yellow.",
+          "lines": 2,
+          "a": "Ej.: Yes, you can use my yellow pencil."
+        },
+        {
+          "q": "Una frase con why, what o where.",
+          "lines": 2,
+          "a": "Ej.: Why is the window open?"
+        },
+        {
+          "q": "Una frase con would, woman o wolf.",
+          "lines": 2,
+          "a": "Ej.: The woman would like a wolf T-shirt."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé decir <b>yes</b> como <code>iés</code>, con la i suave de «pies» (¡no «Jess»!).",
+      "en": "I can say yes with a soft Y."
+    },
+    {
+      "es": "Distingo <b>year</b> <code>iír</code> de <b>ear</b> <code>ir</code>.",
+      "en": "I can tell year from ear."
+    },
+    {
+      "es": "Digo la W con labios de beso, sin g ni b: <code>wud</code>, <code>wúmən</code>.",
+      "en": "I can say W without a g or a b."
+    },
+    {
+      "es": "Sé que WH suena <code>w</code> y QU suena <code>kw</code>: what, queen.",
+      "en": "I know WH = w and QU = kw."
+    },
+    {
+      "es": "Sé que one empieza por W y university por Y: <code>wan</code>, <code>iunivérsəri</code>.",
+      "en": "I know the hidden W and Y sounds."
+    },
+    {
+      "es": "Puedo decir el trabalenguas del lobo mojado sin trabarme.",
+      "en": "I can say the wet wolf tongue twister."
+    }
+  ]
+}

@@ -1,0 +1,1891 @@
+{
+  "id": "C-15",
+  "block": "C",
+  "title": "LETRAS MUDAS",
+  "file_title": "Letras mudas",
+  "subtitle": "Silent letters · se escriben, pero no suenan",
+  "icon": "🤫",
+  "map": {
+    "center": "Muchas palabras inglesas tienen <b>letras fantasma</b> 👻: se escriben, pero <b>no suenan</b>. knife = <code>naif</code>.",
+    "listen": "knife",
+    "nodes": [
+      {
+        "title": "K muda · KN-",
+        "icon": "🔪",
+        "color": "green",
+        "rows": [
+          [
+            "knife",
+            "<code>naif</code>"
+          ],
+          [
+            "know",
+            "<code>nou</code>"
+          ],
+          [
+            "knee",
+            "<code>nii</code>"
+          ]
+        ],
+        "after": "KN- al principio: ¡la k, fuera!"
+      },
+      {
+        "title": "W muda",
+        "icon": "✍️",
+        "color": "blue",
+        "rows": [
+          [
+            "write",
+            "<code>rait</code>"
+          ],
+          [
+            "who",
+            "<code>juu</code>"
+          ],
+          [
+            "two",
+            "<code>tuu</code>"
+          ],
+          [
+            "answer",
+            "<code>ǽnser</code>"
+          ]
+        ]
+      },
+      {
+        "title": "L muda",
+        "icon": "🚶",
+        "color": "purple",
+        "rows": [
+          [
+            "walk",
+            "<code>wok</code>"
+          ],
+          [
+            "talk",
+            "<code>tok</code>"
+          ],
+          [
+            "could",
+            "<code>kud</code>"
+          ],
+          [
+            "half",
+            "<code>jæf</code>"
+          ]
+        ]
+      },
+      {
+        "title": "B muda · -MB, -BT",
+        "icon": "👍",
+        "color": "orange",
+        "rows": [
+          [
+            "climb",
+            "<code>klaim</code>"
+          ],
+          [
+            "thumb",
+            "<code>zam</code>"
+          ],
+          [
+            "doubt",
+            "<code>daut</code>"
+          ]
+        ]
+      },
+      {
+        "title": "T, G y H mudas",
+        "icon": "👂",
+        "color": "pink",
+        "rows": [
+          [
+            "listen",
+            "<code>lísən</code>"
+          ],
+          [
+            "sign",
+            "<code>sain</code>"
+          ],
+          [
+            "hour",
+            "<code>áuer</code>"
+          ]
+        ]
+      },
+      {
+        "title": "D y S mudas",
+        "icon": "🏝️",
+        "color": "yellow",
+        "rows": [
+          [
+            "Wednesday",
+            "<code>wénsdei</code>"
+          ],
+          [
+            "island",
+            "<code>áilənd</code>"
+          ]
+        ],
+        "after": "¡dos sílabas cada una!",
+        "art": "👻"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "salmon → <code>salmón</code>"
+      ],
+      "good": [
+        "<code>sǽmən</code> 🐟"
+      ],
+      "note": "Ni L ni fuerza al final: SǼ‑mən."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🔪 knife → ____",
+          "a": "naif"
+        },
+        {
+          "q": "✍️ write → ____",
+          "a": "rait"
+        },
+        {
+          "q": "🚶 walk → ____",
+          "a": "wok"
+        },
+        {
+          "q": "👂 listen → ____",
+          "a": "lísən"
+        },
+        {
+          "q": "🏝️ island → ____",
+          "a": "áilənd"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué son las letras mudas?",
+      "title_en": "What are silent letters?",
+      "icon": "👻",
+      "es": "En español casi todo lo que se escribe se pronuncia: solo la <b>h</b> (y la u de «que») va de adorno. El inglés está lleno de <b>letras fantasma</b> 👻: se escriben porque <b>hace siglos sí se decían</b> (en la Edad Media se oía la k de «knight»), pero la pronunciación cambió y la ortografía se quedó igual. Si las lees, te delatas: <s>k‑naif</s>, <s>wálk</s>, <s>sálmon</s>. La buena noticia: casi siempre siguen <mark>patrones</mark> fáciles de reconocer.",
+      "en": "Many English words have silent letters: they are written but not pronounced. Centuries ago people said them, but the pronunciation changed and the spelling didn't. Luckily, they follow patterns.",
+      "formula": [
+        "*k* + nife → naif 🔪",
+        "*w* + rite → rait ✍️",
+        "wa + *l* + k → wok 🚶"
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · K muda: KN-",
+      "title_en": "Silent K: KN-",
+      "icon": "🔪",
+      "es": "Cuando una palabra empieza por <b>KN</b>, la k <b>no suena</b>: empiezas directamente con la n. Pasa en toda la familia: know, knew, known = <code>nou</code>, <code>nuu</code>, <code>noun</code>. Truco: <b>knight</b> (caballero) y <b>night</b> (noche) suenan <mark>exactamente igual</mark>: <code>nait</code>.",
+      "en": "In words that start with KN, the K is silent: knife, know, knee.",
+      "examples": [
+        {
+          "en": "knife",
+          "say": "naif",
+          "es": "cuchillo",
+          "icon": "🔪"
+        },
+        {
+          "en": "know",
+          "say": "nou",
+          "es": "saber / conocer",
+          "icon": "🧠"
+        },
+        {
+          "en": "knee",
+          "say": "nii",
+          "es": "rodilla",
+          "icon": "🦵"
+        },
+        {
+          "en": "knock",
+          "say": "nak",
+          "es": "llamar a la puerta",
+          "icon": "🚪"
+        },
+        {
+          "en": "knight",
+          "say": "nait",
+          "es": "caballero",
+          "icon": "🛡️"
+        },
+        {
+          "en": "knowledge",
+          "say": "náliy",
+          "es": "conocimiento",
+          "icon": "📚"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · W muda",
+      "title_en": "Silent W",
+      "icon": "✍️",
+      "es": "La <b>w</b> se calla en tres casos: <b>WR</b> al principio (write, wrong, wrap), en <b>who</b> y su familia (whose, whole = <code>joul</code>) y en palabras sueltas como <b>two</b>, <b>answer</b> o <b>sword</b>. Con WR empiezas directamente con la r americana: write = <code>rait</code>.",
+      "en": "W is silent in WR (write, wrong), in who and whole, and in two, answer and sword.",
+      "examples": [
+        {
+          "en": "write",
+          "say": "rait",
+          "es": "escribir",
+          "icon": "✍️"
+        },
+        {
+          "en": "wrong",
+          "say": "rong",
+          "es": "equivocado",
+          "icon": "❌"
+        },
+        {
+          "en": "wrap",
+          "say": "ræp",
+          "es": "envolver",
+          "icon": "🎁"
+        },
+        {
+          "en": "who",
+          "say": "juu",
+          "es": "quién",
+          "icon": "🙋"
+        },
+        {
+          "en": "answer",
+          "say": "ǽnser",
+          "es": "respuesta",
+          "icon": "💬"
+        },
+        {
+          "en": "two",
+          "say": "tuu",
+          "es": "dos",
+          "icon": "✌️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · L muda",
+      "title_en": "Silent L",
+      "icon": "🚶",
+      "es": "La <b>l</b> se calla detrás de <b>a</b> u <b>o</b> en unos grupos fijos: <b>-ALK</b> (walk, talk, chalk), <b>-ALF</b> (half, calf), <b>-OULD</b> (could, would, should), <b>-OLK</b> (folk, yolk) y en <b>salmon</b>. ¡Ojo!: en <b>milk</b>, <b>help</b>, <b>film</b> o <b>golf</b> la l <b>sí suena</b>. Por cierto, muchos americanos dicen walk y talk con a: <code>wak</code>, <code>tak</code>.",
+      "en": "L is silent in -ALK, -ALF, -OULD, -OLK and in salmon. But you do say it in milk, help and film.",
+      "examples": [
+        {
+          "en": "walk",
+          "say": "wok",
+          "es": "caminar",
+          "icon": "🚶"
+        },
+        {
+          "en": "talk",
+          "say": "tok",
+          "es": "hablar",
+          "icon": "🗣️"
+        },
+        {
+          "en": "half",
+          "say": "jæf",
+          "es": "mitad",
+          "icon": "🌗"
+        },
+        {
+          "en": "could",
+          "say": "kud",
+          "es": "podría / pudo",
+          "icon": "🤔"
+        },
+        {
+          "en": "should",
+          "say": "shud",
+          "es": "debería",
+          "icon": "☝️"
+        },
+        {
+          "en": "salmon",
+          "say": "sǽmən",
+          "es": "salmón",
+          "icon": "🐟"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · B muda: -MB y -BT",
+      "title_en": "Silent B: -MB and -BT",
+      "icon": "👍",
+      "es": "La <b>b</b> se calla en <b>-MB</b> al final (climb, comb, thumb, lamb, bomb) y en <b>-BT</b> (doubt, debt). Si añades una terminación, sigue muda: climbing = <code>kláiming</code>, plumber = <code>plámer</code>. Pero en <b>number</b>, <b>member</b>, <b>remember</b> o <b>December</b> la b <b>sí suena</b>: ahí nunca estuvo al final.",
+      "en": "B is silent in final -MB (climb, thumb) and in -BT (doubt, debt). But you say it in number and December.",
+      "examples": [
+        {
+          "en": "climb",
+          "say": "klaim",
+          "es": "escalar",
+          "icon": "🧗"
+        },
+        {
+          "en": "comb",
+          "say": "koum",
+          "es": "peine",
+          "icon": "💇"
+        },
+        {
+          "en": "thumb",
+          "say": "zam",
+          "es": "pulgar",
+          "icon": "👍"
+        },
+        {
+          "en": "lamb",
+          "say": "læm",
+          "es": "cordero",
+          "icon": "🐑"
+        },
+        {
+          "en": "doubt",
+          "say": "daut",
+          "es": "duda",
+          "icon": "🤔"
+        },
+        {
+          "en": "debt",
+          "say": "det",
+          "es": "deuda",
+          "icon": "💸"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · T muda",
+      "title_en": "Silent T",
+      "icon": "🏰",
+      "es": "La <b>t</b> se calla entre la s y una sílaba débil: <b>-STEN</b> (listen, fasten) y <b>-STLE</b> (castle, whistle), y también en <b>Christmas</b>. En <b>often</b> hay de todo: muchos americanos dicen <code>ófən</code> y otros <code>óftən</code>; las dos valen. Y en palabras francesas como <b>ballet</b> o <b>buffet</b>, la t final tampoco suena.",
+      "en": "T is silent in -STEN, -STLE and Christmas. Often can be said with or without T. French words like ballet drop the final T.",
+      "examples": [
+        {
+          "en": "listen",
+          "say": "lísən",
+          "es": "escuchar",
+          "icon": "👂"
+        },
+        {
+          "en": "castle",
+          "say": "kǽsəl",
+          "es": "castillo",
+          "icon": "🏰"
+        },
+        {
+          "en": "often",
+          "say": "ófən",
+          "es": "a menudo",
+          "icon": "🔁"
+        },
+        {
+          "en": "whistle",
+          "say": "wísəl",
+          "es": "silbato / silbar",
+          "icon": "🎶"
+        },
+        {
+          "en": "Christmas",
+          "say": "krísməs",
+          "es": "Navidad",
+          "icon": "🎄"
+        },
+        {
+          "en": "ballet",
+          "say": "bæléi",
+          "es": "ballet",
+          "icon": "🩰"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · G muda: GN y GH",
+      "title_en": "Silent G: GN and GH",
+      "icon": "🪧",
+      "es": "La <b>g</b> se calla en <b>GN</b>, al principio (gnome) o al final (sign, design, foreign). Y casi siempre en <b>GH</b>: night, light, high, eight, daughter (las mil caras de OUGH las verás en el mapa P-06). Curiosidad: en <b>signature</b> (firma) o <b>signal</b> (señal), la g de sign <b>se despierta</b> y suena.",
+      "en": "G is silent in GN (sign, foreign, gnome) and usually in GH (night, eight).",
+      "examples": [
+        {
+          "en": "sign",
+          "say": "sain",
+          "es": "señal / firmar",
+          "icon": "🪧"
+        },
+        {
+          "en": "design",
+          "say": "disáin",
+          "es": "diseño",
+          "icon": "🎨"
+        },
+        {
+          "en": "foreign",
+          "say": "fórən",
+          "es": "extranjero",
+          "icon": "🌍"
+        },
+        {
+          "en": "gnome",
+          "say": "noum",
+          "es": "gnomo",
+          "icon": "🍄"
+        },
+        {
+          "en": "night",
+          "say": "nait",
+          "es": "noche",
+          "icon": "🌙"
+        },
+        {
+          "en": "eight",
+          "say": "eit",
+          "es": "ocho",
+          "icon": "🕗"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 7,
+      "title": "7 · H muda",
+      "title_en": "Silent H",
+      "icon": "⏰",
+      "es": "Al principio de palabra, la h calla en cuatro palabras clave: <b>hour</b>, <b>honest</b>, <b>honor</b> y <b>heir</b> (heredero), y en sus familias (hourly, honestly). Por eso se dice <b>an</b> hour y no «a hour». En americano, también <b>herb</b> = <code>erb</code>. Y la h se esconde en <b>WH</b> (what, why), <b>GH</b> (ghost) y <b>RH</b> (rhythm). La h suave la tienes a fondo en el mapa C-06.",
+      "en": "H is silent in hour, honest, honor and heir, and in American herb. It also hides in WH, GH and RH.",
+      "examples": [
+        {
+          "en": "hour",
+          "say": "áuer",
+          "es": "hora",
+          "icon": "⏰"
+        },
+        {
+          "en": "honest",
+          "say": "ánist",
+          "es": "sincero",
+          "icon": "😇"
+        },
+        {
+          "en": "honor",
+          "say": "áner",
+          "es": "honor",
+          "icon": "🎖️"
+        },
+        {
+          "en": "herb",
+          "say": "erb",
+          "es": "hierba aromática",
+          "icon": "🌿"
+        },
+        {
+          "en": "what",
+          "say": "wat",
+          "es": "qué",
+          "icon": "❓"
+        },
+        {
+          "en": "ghost",
+          "say": "goust",
+          "es": "fantasma",
+          "icon": "👻"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 8,
+      "title": "8 · D y S mudas",
+      "title_en": "Silent D and S",
+      "icon": "🏝️",
+      "es": "La <b>d</b> se calla en <b>Wednesday</b> (¡dos sílabas!: <code>wénsdei</code>), <b>handsome</b> y <b>sandwich</b>, y en <b>grandma</b> o <b>grandpa</b> cuando hablas normal. La <b>s</b> se calla en <b>island</b>, en <b>aisle</b> (pasillo: an aisle seat, asiento de pasillo ✈️) y en el estado de <b>Illinois</b> = <code>ilənói</code>.",
+      "en": "D is silent in Wednesday, handsome and sandwich. S is silent in island, aisle and Illinois.",
+      "examples": [
+        {
+          "en": "Wednesday",
+          "say": "wénsdei",
+          "es": "miércoles",
+          "icon": "📅"
+        },
+        {
+          "en": "handsome",
+          "say": "jǽnsəm",
+          "es": "guapo",
+          "icon": "😎"
+        },
+        {
+          "en": "sandwich",
+          "say": "sǽnwich",
+          "es": "sándwich",
+          "icon": "🥪"
+        },
+        {
+          "en": "grandma",
+          "say": "grǽnma",
+          "es": "abuela",
+          "icon": "👵"
+        },
+        {
+          "en": "island",
+          "say": "áilənd",
+          "es": "isla",
+          "icon": "🏝️"
+        },
+        {
+          "en": "aisle",
+          "say": "ail",
+          "es": "pasillo",
+          "icon": "✈️"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "walk",
+          "ipa": "wɔk",
+          "say": "wok",
+          "es": "caminar",
+          "icon": "🚶",
+          "anchor": "un <b>wok</b> 🥢",
+          "tip": "¡Casi igual que la sartén china! La L no se dice. (Muchos americanos: «wak».)"
+        },
+        {
+          "en": "talk",
+          "ipa": "tɔk",
+          "say": "tok",
+          "es": "hablar",
+          "icon": "🗣️",
+          "anchor": "<b>toc</b> toc 🚪",
+          "tip": "Como cuando llamas a la puerta: toc. La L es muda."
+        },
+        {
+          "en": "know",
+          "ipa": "noʊ",
+          "say": "nou",
+          "es": "saber",
+          "icon": "🧠",
+          "anchor": "Camp <b>Nou</b> ⚽",
+          "tip": "Suena igual que no (/noʊ/). La k es muda: I know = <code>ai nou</code>."
+        },
+        {
+          "en": "knee",
+          "ipa": "niː",
+          "say": "nii",
+          "es": "rodilla",
+          "icon": "🦵",
+          "anchor": "<b>ni</b> sí ni no 🤷",
+          "tip": "Casi: «ni» con la i más larga, <code>nii</code>. ¡Sin k!"
+        },
+        {
+          "en": "two",
+          "ipa": "tuː",
+          "say": "tuu",
+          "es": "dos",
+          "icon": "✌️",
+          "anchor": "<b>tú</b> 👉",
+          "tip": "«Tú» con la u más larga. La w es muda: suena igual que too."
+        },
+        {
+          "en": "wrap",
+          "ipa": "ræp",
+          "say": "ræp",
+          "es": "envolver / wrap",
+          "icon": "🌯",
+          "anchor": "el <b>rap</b> 🎤",
+          "tip": "En inglés wrap y rap suenan igual: la w no se dice."
+        },
+        {
+          "en": "sword",
+          "ipa": "sɔrd",
+          "say": "sord",
+          "es": "espada",
+          "icon": "⚔️",
+          "anchor": "<b>sord</b>o 🦻",
+          "tip": "Di «sordo» sin la o y con R americana. ¡La w no suena!"
+        },
+        {
+          "en": "bomb",
+          "ipa": "bɑm",
+          "say": "bam",
+          "es": "bomba",
+          "icon": "💣",
+          "anchor": "¡<b>bam</b>! 💥",
+          "tip": "Como en los cómics. La b final es muda."
+        },
+        {
+          "en": "thumb",
+          "ipa": "θʌm",
+          "say": "zam",
+          "es": "pulgar",
+          "icon": "👍",
+          "anchor": "<b>zam</b>bomba 🎄",
+          "tip": "Di «zambomba» y quédate en «zam», con z castellana. La b, muda."
+        },
+        {
+          "en": "lamb",
+          "ipa": "læm",
+          "say": "læm",
+          "es": "cordero",
+          "icon": "🐑",
+          "anchor": "<b>lám</b>para 💡",
+          "tip": "Casi: «lam» con boca de sonrisa (æ). La b no suena."
+        },
+        {
+          "en": "folk",
+          "ipa": "foʊk",
+          "say": "fouk",
+          "es": "folk / gente",
+          "icon": "🪕",
+          "anchor": "<b>foc</b>a 🦭",
+          "tip": "Casi: di «foca» sin la a y con «ou»: <code>fouk</code>. La L es muda."
+        },
+        {
+          "en": "sign",
+          "ipa": "saɪn",
+          "say": "sain",
+          "es": "señal / firmar",
+          "icon": "🪧",
+          "anchor": "Carlos <b>Sain</b>z 🏎️",
+          "tip": "Como el piloto, sin la z final. La g no suena."
+        },
+        {
+          "en": "Christmas",
+          "ipa": "ˈkrɪsməs",
+          "say": "krísməs",
+          "es": "Navidad",
+          "icon": "🎄",
+          "anchor": "<b>Cris</b> + məs 🎁",
+          "tip": "¡Cris quiere más regalos! KRÍS‑məs: la h y la t, mudas."
+        },
+        {
+          "en": "salmon",
+          "ipa": "ˈsæmən",
+          "say": "sǽmən",
+          "es": "salmón",
+          "icon": "🐟",
+          "anchor": "<s>salmón</s> → <b>SǼ</b>mən",
+          "tip": "Ni L ni fuerza al final: SǼ‑mən."
+        },
+        {
+          "en": "Wednesday",
+          "ipa": "ˈwɛnzdeɪ",
+          "say": "wénsdei",
+          "es": "miércoles",
+          "icon": "📅",
+          "anchor": "<s>wed‑nes‑day</s> → <b>WÉNS</b>dei",
+          "tip": "Solo dos sílabas. La primera d y la segunda e se esconden."
+        },
+        {
+          "en": "island",
+          "ipa": "ˈaɪlənd",
+          "say": "áilənd",
+          "es": "isla",
+          "icon": "🏝️",
+          "anchor": "<s>is‑land</s> → <b>ÁI</b>lənd",
+          "tip": "La s es muda: ÁI‑lənd. ¡Nada de «isla» en inglés!"
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "knife",
+          "es": "cuchillo"
+        },
+        {
+          "q": "walk",
+          "es": "caminar"
+        },
+        {
+          "q": "could",
+          "es": "podría"
+        },
+        {
+          "q": "listen",
+          "es": "escuchar"
+        },
+        {
+          "q": "Wednesday",
+          "es": "miércoles"
+        },
+        {
+          "q": "island",
+          "es": "isla"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Más letras fantasma",
+      "title_en": "More silent letters",
+      "icon": "🔦",
+      "head": [
+        "Letra muda",
+        "¿Dónde?",
+        "Ejemplos",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "N",
+          "-MN al final",
+          "autumn · column",
+          "<code>órəm</code> · <code>káləm</code>"
+        ],
+        [
+          "P",
+          "PS- al principio, -PT",
+          "psychology · receipt",
+          "<code>saikáləyi</code> · <code>risíit</code>"
+        ],
+        [
+          "C",
+          "-SC-",
+          "muscle · scissors",
+          "<code>másəl</code> · <code>sísers</code>"
+        ],
+        [
+          "U",
+          "GU-, BU-",
+          "guess · guitar · build",
+          "<code>gues</code> · <code>guitár</code> · <code>bild</code>"
+        ],
+        [
+          "E",
+          "al final (e mágica)",
+          "make · home · like",
+          "<code>meik</code> · <code>joum</code> · <code>laik</code>"
+        ],
+        [
+          "GH",
+          "-IGH, -AUGH, -EIGH",
+          "night · daughter · eight",
+          "<code>nait</code> · <code>dórer</code> · <code>eit</code>"
+        ],
+        [
+          "H",
+          "CH que suena k",
+          "school · stomach",
+          "<code>skuul</code> · <code>stámək</code>"
+        ]
+      ],
+      "note": "¡Hay más! Si dudas, mira el IPA en el diccionario: allí las letras fantasma <b>no aparecen</b>. (La e mágica la tienes en el mapa V-11.)",
+      "note_en": "There are more! When in doubt, check the IPA in a dictionary: silent letters don't appear there."
+    },
+    {
+      "t": "pairs",
+      "title": "Suenan igual gracias a los fantasmas",
+      "title_en": "Same sound, thanks to silent letters",
+      "icon": "👯",
+      "items": [
+        {
+          "a": {
+            "en": "knight",
+            "ipa": "naɪt",
+            "say": "nait",
+            "es": "caballero",
+            "icon": "🛡️"
+          },
+          "b": {
+            "en": "night",
+            "ipa": "naɪt",
+            "say": "nait",
+            "es": "noche",
+            "icon": "🌙"
+          },
+          "tip": "¡Un caballero de noche! Las dos: <code>nait</code>."
+        },
+        {
+          "a": {
+            "en": "know",
+            "ipa": "noʊ",
+            "say": "nou",
+            "es": "saber",
+            "icon": "🧠"
+          },
+          "b": {
+            "en": "no",
+            "ipa": "noʊ",
+            "say": "nou",
+            "es": "no",
+            "icon": "🙅"
+          },
+          "tip": "I know = <code>ai nou</code>. Y no también es <code>nou</code>, ¡no «no»!"
+        },
+        {
+          "a": {
+            "en": "write",
+            "ipa": "raɪt",
+            "say": "rait",
+            "es": "escribir",
+            "icon": "✍️"
+          },
+          "b": {
+            "en": "right",
+            "ipa": "raɪt",
+            "say": "rait",
+            "es": "correcto / derecha",
+            "icon": "✅"
+          },
+          "tip": "Dos fantasmas: la w de write y la gh de right."
+        },
+        {
+          "a": {
+            "en": "would",
+            "ipa": "wʊd",
+            "say": "wud",
+            "es": "(condicional)",
+            "icon": "🤔"
+          },
+          "b": {
+            "en": "wood",
+            "ipa": "wʊd",
+            "say": "wud",
+            "es": "madera",
+            "icon": "🪵"
+          },
+          "tip": "La L de would no suena: <code>wud</code>, igual que wood."
+        },
+        {
+          "a": {
+            "en": "hour",
+            "ipa": "ˈaʊɚ",
+            "say": "áuer",
+            "es": "hora",
+            "icon": "⏰"
+          },
+          "b": {
+            "en": "our",
+            "ipa": "ˈaʊɚ",
+            "say": "áuer",
+            "es": "nuestro",
+            "icon": "👨‍👩‍👧"
+          },
+          "tip": "Iguales. (Muchos americanos dicen our también como <code>ar</code>.)"
+        },
+        {
+          "a": {
+            "en": "whole",
+            "ipa": "hoʊl",
+            "say": "joul",
+            "es": "entero",
+            "icon": "🍕"
+          },
+          "b": {
+            "en": "hole",
+            "ipa": "hoʊl",
+            "say": "joul",
+            "es": "agujero",
+            "icon": "🕳️"
+          },
+          "tip": "La w de whole no suena: <code>joul</code>, como hole."
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "La letra que se despierta",
+      "title_en": "The letter that wakes up",
+      "icon": "⏰",
+      "es": "A veces, en otra palabra de la misma familia, ¡el fantasma vuelve a sonar! Fíjate en la letra azul.",
+      "en": "Sometimes a silent letter wakes up in another word of the same family.",
+      "cols": [
+        {
+          "head": "😴 Aquí calla",
+          "color": "purple",
+          "items": [
+            "si<b>g</b>n → <code>sain</code>",
+            "bom<b>b</b> → <code>bam</code>",
+            "mus<b>c</b>le → <code>másəl</code>",
+            "autum<b>n</b> → <code>órəm</code>"
+          ]
+        },
+        {
+          "head": "🔊 Aquí suena",
+          "color": "green",
+          "items": [
+            "si<b>g</b>nature → <code>sígnəcher</code>",
+            "bom<b>b</b>ard → <code>bambárd</code>",
+            "mus<b>c</b>ular → <code>máskiəler</code>",
+            "autum<b>n</b>al → <code>otámnəl</code>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I know the answer.",
+          "say": "ai nou di ǽnser",
+          "es": "Sé la respuesta.",
+          "icon": "🧠"
+        },
+        {
+          "en": "I write stories.",
+          "say": "ai rait stóris",
+          "es": "Escribo cuentos.",
+          "icon": "✍️"
+        },
+        {
+          "en": "Listen to me!",
+          "say": "lísən tə mi!",
+          "es": "¡Escúchame!",
+          "icon": "👂"
+        },
+        {
+          "en": "We walk and talk.",
+          "say": "wi wok ən tok",
+          "es": "Caminamos y hablamos.",
+          "icon": "🚶"
+        },
+        {
+          "en": "You should listen.",
+          "say": "iu shud lísən",
+          "es": "Deberías escuchar.",
+          "icon": "☝️"
+        },
+        {
+          "en": "Wait half an hour.",
+          "say": "weit jǽfən áuer",
+          "es": "Espera media hora.",
+          "icon": "⏰"
+        },
+        {
+          "en": "My knee hurts.",
+          "say": "mai nii jerts",
+          "es": "Me duele la rodilla.",
+          "icon": "🦵"
+        },
+        {
+          "en": "Let's climb that tree.",
+          "say": "lets klaim dæt trii",
+          "es": "Vamos a subir a ese árbol.",
+          "icon": "🧗"
+        },
+        {
+          "en": "Christmas is on Wednesday.",
+          "say": "krísməs isan wénsdei",
+          "es": "Navidad cae en miércoles.",
+          "icon": "🎄"
+        },
+        {
+          "en": "There's a castle on the island.",
+          "say": "ders ə kǽsəl an di áilənd",
+          "es": "Hay un castillo en la isla.",
+          "icon": "🏰"
+        },
+        {
+          "en": "I doubt it.",
+          "say": "ai dáurit",
+          "es": "Lo dudo.",
+          "icon": "🤔"
+        },
+        {
+          "en": "Who wrote this?",
+          "say": "juu rout dis?",
+          "es": "¿Quién ha escrito esto?",
+          "icon": "❓"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "knife → <code>knáif</code>",
+          "good": "<code>naif</code>",
+          "why": "La k de KN- es muda: empieza con n.",
+          "why_en": "The K in KN is silent."
+        },
+        {
+          "bad": "walk → <code>wálk</code>",
+          "good": "<code>wok</code>",
+          "why": "La L no suena. Y cuidado: walk (caminar) no es work (<code>werk</code>, trabajar).",
+          "why_en": "The L is silent. And walk is not work."
+        },
+        {
+          "bad": "salmon → <code>salmón</code>",
+          "good": "<code>sǽmən</code>",
+          "why": "Sin l y con la fuerza al principio.",
+          "why_en": "No L, stress on the first syllable."
+        },
+        {
+          "bad": "Wednesday → <code>wédnesdei</code>",
+          "good": "<code>wénsdei</code>",
+          "why": "Dos sílabas, no tres. La primera d se esconde.",
+          "why_en": "Two syllables, not three."
+        },
+        {
+          "bad": "listen → <code>lísten</code>",
+          "good": "<code>lísən</code>",
+          "why": "La t de -STEN no suena.",
+          "why_en": "The T is silent."
+        },
+        {
+          "bad": "island → <code>ísland</code>",
+          "good": "<code>áilənd</code>",
+          "why": "La s es muda y la i suena «ai».",
+          "why_en": "Silent S, and I sounds «ai»."
+        },
+        {
+          "bad": "hour → <code>jáuer</code>",
+          "good": "<code>áuer</code>",
+          "why": "La h no suena: por eso decimos an hour.",
+          "why_en": "Silent H: an hour."
+        },
+        {
+          "bad": "doubt → <code>dáubt</code>",
+          "good": "<code>daut</code>",
+          "why": "La b de -BT es muda.",
+          "why_en": "The B in -BT is silent."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Una carta misteriosa",
+      "title_en": "A mysterious letter",
+      "lines": [
+        {
+          "who": "Ashley",
+          "en": "Mario, listen! Someone knocked on the door.",
+          "say": "mário, lísən! sámwan nakt an də dor",
+          "es": "¡Mario, escucha! Alguien ha llamado a la puerta."
+        },
+        {
+          "who": "Mario",
+          "en": "Who? Was it Jenny?",
+          "say": "juu? wəsit yéni?",
+          "es": "¿Quién? ¿Era Jenny?"
+        },
+        {
+          "who": "Ashley",
+          "en": "No. Look, a letter! It says: “Meet me at the castle on Wednesday.”",
+          "say": "nou. luk, ə lérer! it ses: míit mi ət də kǽsəl an wénsdei",
+          "es": "No. ¡Mira, una carta! Dice: «Nos vemos en el castillo el miércoles»."
+        },
+        {
+          "who": "Mario",
+          "en": "The castle on the island? We could walk there!",
+          "say": "də kǽsəl an di áilənd? wi kud wok der!",
+          "es": "¿El castillo de la isla? ¡Podemos ir andando!"
+        },
+        {
+          "who": "Ashley",
+          "en": "We should take a knife… for the sandwiches!",
+          "say": "wi shud téikə naif… fər də sǽnwichis!",
+          "es": "Deberíamos llevar un cuchillo… ¡para los sándwiches!"
+        },
+        {
+          "who": "Mario",
+          "en": "Ha! And a whistle, just in case.",
+          "say": "ja! ən ə wísəl, yástin kéis",
+          "es": "¡Ja! Y un silbato, por si acaso."
+        },
+        {
+          "who": "Ashley",
+          "en": "I know who wrote it… Grandma!",
+          "say": "ai nou juu róurit… grǽnma!",
+          "es": "Ya sé quién la ha escrito… ¡la abuela!"
+        },
+        {
+          "who": "Mario",
+          "en": "No doubt! She loves castles.",
+          "say": "nou daut! shi lavs kǽsəls",
+          "es": "¡Sin duda! Le encantan los castillos."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo cazar fantasmas en 5 pasos",
+      "title_en": "Ghost hunting in 5 steps",
+      "items": [
+        {
+          "es": "Antes de leer una palabra nueva, busca los grupos sospechosos: <b>KN, WR, MB, ALK, OULD, STEN, GN</b>.",
+          "en": "Look for suspicious groups: KN, WR, MB, ALK, OULD, STEN, GN."
+        },
+        {
+          "es": "Tacha mentalmente la letra muda: <s>k</s>nife, wa<s>l</s>k, clim<s>b</s>, lis<s>t</s>en.",
+          "en": "Cross out the silent letter in your head."
+        },
+        {
+          "es": "Lee lo que queda: <code>naif</code>, <code>wok</code>, <code>klaim</code>, <code>lísən</code>.",
+          "en": "Read what is left."
+        },
+        {
+          "es": "¿No hay patrón? Mira el IPA en el diccionario: los fantasmas no salen en las fotos 📸.",
+          "en": "No pattern? Check the IPA in a dictionary."
+        },
+        {
+          "es": "Escanea los QR, escucha y <b>grábate</b> leyendo el diálogo.",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "The knight knew the knife was in the knot.",
+          "say": "də nait nuu də naif wəsin də nat",
+          "es": "El caballero sabía que el cuchillo estaba en el nudo."
+        },
+        {
+          "en": "Walk and talk with chalk in your hand.",
+          "say": "wok ən tok wid chok in ior jænd",
+          "es": "Camina y habla con una tiza en la mano."
+        },
+        {
+          "en": "Climb, comb, thumb and lamb: the B is numb!",
+          "say": "klaim, koum, zam ən læm: də bii is nam!",
+          "es": "Escalar, peine, pulgar y cordero: ¡la B está dormida!"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del fantasma",
+      "title_en": "The ghost trick",
+      "es": "Cuando veas <b>KN, WR, MB, ALK</b> o <b>STEN</b>, imagina que una de esas letras lleva una sábana de fantasma 👻: está ahí, pero <b>no se oye</b>. Y si dudas, recuerda que los fantasmas tampoco salen en el IPA del diccionario.",
+      "en": "When you see KN, WR, MB, ALK or STEN, imagine one letter is a ghost: it's there, but you can't hear it."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Cuál es la letra muda?",
+      "title_en": "Which letter is silent?",
+      "icon": "👻",
+      "es": "Di la palabra en voz alta y rodea la letra fantasma.",
+      "en": "Say the word and circle the silent letter.",
+      "items": [
+        {
+          "q": "knife → [k|n|f]",
+          "a": "k"
+        },
+        {
+          "q": "write → [w|r|t]",
+          "a": "w"
+        },
+        {
+          "q": "walk → [w|l|k]",
+          "a": "l"
+        },
+        {
+          "q": "climb → [c|m|b]",
+          "a": "b"
+        },
+        {
+          "q": "listen → [s|t|n]",
+          "a": "t"
+        },
+        {
+          "q": "sign → [s|g|n]",
+          "a": "g"
+        },
+        {
+          "q": "hour → [h|r]",
+          "a": "h"
+        },
+        {
+          "q": "island → [s|l|d]",
+          "a": "s"
+        },
+        {
+          "q": "doubt → [d|b|t]",
+          "a": "b"
+        },
+        {
+          "q": "answer → [n|s|w]",
+          "a": "w"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica los fantasmas",
+      "title_en": "Sort the ghosts",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en la columna de su letra muda.",
+      "en": "Say each word and sort it by its silent letter.",
+      "cats": [
+        {
+          "name": "👻 K muda",
+          "words": [
+            "knife",
+            "know",
+            "knee",
+            "knock",
+            "knight",
+            "knot"
+          ]
+        },
+        {
+          "name": "👻 W muda",
+          "words": [
+            "write",
+            "wrong",
+            "wrap",
+            "who",
+            "two",
+            "answer"
+          ]
+        },
+        {
+          "name": "👻 L muda",
+          "words": [
+            "walk",
+            "talk",
+            "half",
+            "could",
+            "would",
+            "salmon"
+          ]
+        },
+        {
+          "name": "👻 B muda",
+          "words": [
+            "climb",
+            "comb",
+            "thumb",
+            "lamb",
+            "doubt",
+            "debt"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "knife",
+          "<code>naif</code>"
+        ],
+        [
+          "write",
+          "<code>rait</code>"
+        ],
+        [
+          "walk",
+          "<code>wok</code>"
+        ],
+        [
+          "climb",
+          "<code>klaim</code>"
+        ],
+        [
+          "listen",
+          "<code>lísən</code>"
+        ],
+        [
+          "sign",
+          "<code>sain</code>"
+        ],
+        [
+          "hour",
+          "<code>áuer</code>"
+        ],
+        [
+          "island",
+          "<code>áilənd</code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada sin la letra fantasma. Pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, without the silent letter.",
+      "items": [
+        {
+          "q": "🦵 knee → ____",
+          "a": "nii"
+        },
+        {
+          "q": "❌ wrong → ____",
+          "a": "rong"
+        },
+        {
+          "q": "🗣️ talk → ____",
+          "a": "tok"
+        },
+        {
+          "q": "👍 thumb → ____",
+          "a": "zam"
+        },
+        {
+          "q": "🏰 castle → ____",
+          "a": "kǽsəl"
+        },
+        {
+          "q": "🌙 night → ____",
+          "a": "nait"
+        },
+        {
+          "q": "😇 honest → ____",
+          "a": "ánist"
+        },
+        {
+          "q": "📅 Wednesday → ____",
+          "a": "wénsdei"
+        },
+        {
+          "q": "🐟 salmon → ____",
+          "a": "sǽmən"
+        },
+        {
+          "q": "🤔 could → ____",
+          "a": "kud"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Suena o no suena?",
+      "title_en": "Silent or not?",
+      "icon": "🔊",
+      "es": "¡Cuidado, no todas son fantasmas! Di la palabra y rodea.",
+      "en": "Careful: not every letter is silent. Circle.",
+      "items": [
+        {
+          "q": "la L de milk → [suena|no suena]",
+          "a": "suena"
+        },
+        {
+          "q": "la L de walk → [suena|no suena]",
+          "a": "no suena"
+        },
+        {
+          "q": "la L de help → [suena|no suena]",
+          "a": "suena"
+        },
+        {
+          "q": "la L de half → [suena|no suena]",
+          "a": "no suena"
+        },
+        {
+          "q": "la B de number → [suena|no suena]",
+          "a": "suena"
+        },
+        {
+          "q": "la B de climb → [suena|no suena]",
+          "a": "no suena"
+        },
+        {
+          "q": "la G de signal → [suena|no suena]",
+          "a": "suena"
+        },
+        {
+          "q": "la G de sign → [suena|no suena]",
+          "a": "no suena"
+        },
+        {
+          "q": "la T de listen → [suena|no suena]",
+          "a": "no suena"
+        },
+        {
+          "q": "la K de kite → [suena|no suena]",
+          "a": "suena"
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Escribe la palabra con su fantasma",
+      "title_en": "Spell it with its ghost",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra. ¡No te olvides de la letra muda!",
+      "en": "Unscramble the letters. Don't forget the silent one!",
+      "items": [
+        {
+          "q": "🔪 cuchillo (<code>naif</code>)",
+          "a": "knife"
+        },
+        {
+          "q": "✍️ escribir (<code>rait</code>)",
+          "a": "write"
+        },
+        {
+          "q": "🚶 caminar (<code>wok</code>)",
+          "a": "walk"
+        },
+        {
+          "q": "👍 pulgar (<code>zam</code>)",
+          "a": "thumb"
+        },
+        {
+          "q": "👂 escuchar (<code>lísən</code>)",
+          "a": "listen"
+        },
+        {
+          "q": "🏝️ isla (<code>áilənd</code>)",
+          "a": "island"
+        },
+        {
+          "q": "⏰ hora (<code>áuer</code>)",
+          "a": "hour"
+        },
+        {
+          "q": "🧗 escalar (<code>klaim</code>)",
+          "a": "climb"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "In «knife», the K is silent.",
+          "a": true
+        },
+        {
+          "q": "In «milk», the L is silent.",
+          "a": false,
+          "why": "en milk la l suena; en walk, no"
+        },
+        {
+          "q": "«Knight» and «night» sound the same.",
+          "a": true
+        },
+        {
+          "q": "«Wednesday» has three syllables.",
+          "a": false,
+          "why": "dos: WÉNS‑dei"
+        },
+        {
+          "q": "In «number», the B is silent.",
+          "a": false,
+          "why": "en number y December la b suena"
+        },
+        {
+          "q": "We say «an hour» because the H is silent.",
+          "a": true
+        },
+        {
+          "q": "In «sign» the G is silent, but in «signature» you say it.",
+          "a": true
+        },
+        {
+          "q": "«Salmon» sounds like the Spanish «salmón».",
+          "a": false,
+          "why": "<code>sǽmən</code>: sin l y con la fuerza delante"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "¿Estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "Do they sound the same or different?",
+      "items": [
+        {
+          "q": "knight · night → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "write · right → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "would · wood → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "hour · our → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "walk · work → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "know · now → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "whole · hole → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "two · too → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "knew · new → [igual|diferente]",
+          "a": "igual"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «Letra muda» escribe la letra fantasma.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "Letra muda"
+      ],
+      "rows": [
+        [
+          "knife",
+          "cuchillo",
+          "?naif",
+          "?k"
+        ],
+        [
+          "?write",
+          "escribir",
+          "rait",
+          "w"
+        ],
+        [
+          "half",
+          "?mitad",
+          "?jæf",
+          "l"
+        ],
+        [
+          "comb",
+          "peine",
+          "?koum",
+          "?b"
+        ],
+        [
+          "?castle",
+          "castillo",
+          "kǽsəl",
+          "?t"
+        ],
+        [
+          "foreign",
+          "?extranjero",
+          "fórən",
+          "?g"
+        ],
+        [
+          "honest",
+          "sincero",
+          "?ánist",
+          "?h"
+        ],
+        [
+          "?handsome",
+          "guapo",
+          "jǽnsəm",
+          "d"
+        ]
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Alguien ha leído la letra fantasma. Escribe la figurada correcta.",
+      "en": "Someone pronounced the silent letter. Fix it.",
+      "items": [
+        {
+          "q": "knee → <code>knii</code>",
+          "a": "nii"
+        },
+        {
+          "q": "write → <code>wrait</code>",
+          "a": "rait"
+        },
+        {
+          "q": "talk → <code>tolk</code>",
+          "a": "tok"
+        },
+        {
+          "q": "climb → <code>klaimb</code>",
+          "a": "klaim"
+        },
+        {
+          "q": "castle → <code>kǽstəl</code>",
+          "a": "kǽsəl"
+        },
+        {
+          "q": "sign → <code>saign</code>",
+          "a": "sain"
+        },
+        {
+          "q": "honest → <code>jánist</code>",
+          "a": "ánist"
+        },
+        {
+          "q": "island → <code>ísland</code>",
+          "a": "áilənd"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez. ¡Que no se te escape ningún fantasma!",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "I know!",
+          "say": "ai nou!"
+        },
+        {
+          "q": "Knock, knock! Who's there?",
+          "say": "nak, nak! juus der?"
+        },
+        {
+          "q": "Listen to this.",
+          "say": "lísən tə dis"
+        },
+        {
+          "q": "Walk and talk.",
+          "say": "wok ən tok"
+        },
+        {
+          "q": "Half an hour.",
+          "say": "jǽfən áuer"
+        },
+        {
+          "q": "I could climb it.",
+          "say": "ai kud kláimit"
+        },
+        {
+          "q": "Write the answer.",
+          "say": "rait di ǽnser"
+        },
+        {
+          "q": "See you on Wednesday!",
+          "say": "sii iu an wénsdei!"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Escribe la palabra con su letra muda… y dila sin ella.",
+      "en": "Translate into English. Write the silent letter, but don't say it.",
+      "items": [
+        {
+          "q": "cuchillo",
+          "a": "knife (naif)"
+        },
+        {
+          "q": "saber",
+          "a": "know (nou)"
+        },
+        {
+          "q": "rodilla",
+          "a": "knee (nii)"
+        },
+        {
+          "q": "escribir",
+          "a": "write (rait)"
+        },
+        {
+          "q": "caminar",
+          "a": "walk (wok)"
+        },
+        {
+          "q": "hablar",
+          "a": "talk (tok)"
+        },
+        {
+          "q": "escalar",
+          "a": "climb (klaim)"
+        },
+        {
+          "q": "escuchar",
+          "a": "listen (lísən)"
+        },
+        {
+          "q": "miércoles",
+          "a": "Wednesday (wénsdei)"
+        },
+        {
+          "q": "isla",
+          "a": "island (áilənd)"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de fantasmas",
+      "title_en": "Ghost word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con letra muda. Cuando encuentres una, dila en voz alta… ¡sin el fantasma!",
+      "en": "Find 10 words with a silent letter.",
+      "words": [
+        "knife",
+        "know",
+        "write",
+        "walk",
+        "talk",
+        "climb",
+        "thumb",
+        "listen",
+        "island",
+        "half"
+      ],
+      "clues": [
+        "knife · cuchillo",
+        "know · saber",
+        "write · escribir",
+        "walk · caminar",
+        "talk · hablar",
+        "climb · escalar",
+        "thumb · pulgar",
+        "listen · escuchar",
+        "island · isla",
+        "half · mitad"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza fantasmas",
+      "title_en": "Read and hunt the ghosts",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "The Silent Castle",
+      "text": [
+        "On Wednesday, Mario and Lucía walk to an old castle on an island. A knight with a sword guards the door.",
+        "“Who are you?” asks the knight. “We're two friends,” answers Lucía. “Listen,” says the knight. “You can come in, but you should be quiet. This is a silent castle!”"
+      ],
+      "items": [
+        {
+          "q": "Where is the castle?",
+          "a": "On an island. island = <code>áilənd</code>, sin s."
+        },
+        {
+          "q": "Find three words in the text with a silent W.",
+          "a": "who, two, answers, sword (cualquiera)"
+        },
+        {
+          "q": "How do you say «knight»?",
+          "a": "<code>nait</code>, igual que night."
+        },
+        {
+          "q": "Mario and Lucía go there on Wednesday.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «walk», you pronounce the L.",
+          "tf": true,
+          "a": false,
+          "why": "walk = <code>wok</code>"
+        },
+        {
+          "q": "In «listen» and «castle», the T is silent.",
+          "tf": true,
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con letras mudas. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with silent letters and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con dos palabras de K muda (know, knee, knife…).",
+          "lines": 2,
+          "a": "Ej.: I know my knee hurts."
+        },
+        {
+          "q": "Una frase con could, would o should.",
+          "lines": 2,
+          "a": "Ej.: You should listen to me."
+        },
+        {
+          "q": "Una frase con Wednesday, island o Christmas.",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé que la k de <b>KN-</b> no suena: <code>naif</code>, <code>nou</code>, <code>nii</code>.",
+      "en": "I know the K in KN is silent."
+    },
+    {
+      "es": "Digo <b>write</b>, <b>who</b> y <b>two</b> sin w: <code>rait</code>, <code>juu</code>, <code>tuu</code>.",
+      "en": "I can say write, who and two without W."
+    },
+    {
+      "es": "Digo <b>walk</b>, <b>talk</b> y <b>could</b> sin l: <code>wok</code>, <code>tok</code>, <code>kud</code>.",
+      "en": "I can say walk, talk and could without L."
+    },
+    {
+      "es": "Sé que la b de <b>-MB</b> y la t de <b>-STEN</b> se callan: <code>klaim</code>, <code>lísən</code>.",
+      "en": "I know B in -MB and T in -STEN are silent."
+    },
+    {
+      "es": "Digo <b>Wednesday</b> en dos sílabas: <code>wénsdei</code>.",
+      "en": "I can say Wednesday in two syllables."
+    },
+    {
+      "es": "Pronuncio <b>salmon</b> e <b>island</b> sin su letra fantasma.",
+      "en": "I can say salmon and island correctly."
+    }
+  ]
+}

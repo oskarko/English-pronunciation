@@ -1,0 +1,1889 @@
+{
+  "id": "C-08",
+  "block": "C",
+  "title": "S <em>y</em> Z",
+  "file_title": "S y Z",
+  "subtitle": "The buzzing Z · is, was, zoo, music",
+  "icon": "🐝",
+  "map": {
+    "center": "La <b>/z/</b> inglesa es una <b>s que zumba</b> como una abeja. En la figurada va subrayada: zoo = <code><u>s</u>uu</code>.",
+    "listen": "zoo",
+    "nodes": [
+      {
+        "title": "¿Cómo se hace?",
+        "icon": "🐝",
+        "color": "green",
+        "items": [
+          "la boca, <b>igual que la s</b>",
+          "pero <b>enciende la voz</b>: zzzz",
+          "mano en el cuello: <b>¡vibra!</b>"
+        ]
+      },
+      {
+        "title": "Ya la dices en español",
+        "icon": "🇪🇸",
+        "color": "blue",
+        "rows": [
+          [
+            "is",
+            "<code>i<u>s</u></code> = <b>is</b>la 🏝️"
+          ],
+          [
+            "Ms.",
+            "<code>mi<u>s</u></code> = <b>mis</b>mo"
+          ]
+        ],
+        "after": "la s antes de l, m, d <b>zumba sola</b>"
+      },
+      {
+        "title": "La Z escrita",
+        "icon": "⚡",
+        "color": "purple",
+        "rows": [
+          [
+            "zoo",
+            "<code><u>s</u>uu</code>"
+          ],
+          [
+            "zero",
+            "<code><u>s</u>írou</code>"
+          ],
+          [
+            "lazy",
+            "<code>léi<u>s</u>i</code>"
+          ]
+        ],
+        "after": "¡nunca la z de «zapato»!"
+      },
+      {
+        "title": "S que suena Z",
+        "icon": "🎵",
+        "color": "orange",
+        "rows": [
+          [
+            "music",
+            "<code>miú<u>s</u>ik</code>"
+          ],
+          [
+            "easy",
+            "<code>íi<u>s</u>i</code>"
+          ],
+          [
+            "was",
+            "<code>wa<u>s</u></code>"
+          ]
+        ],
+        "after": "entre vocales y en palabritas"
+      },
+      {
+        "title": "¡Cambia la palabra!",
+        "icon": "🔄",
+        "color": "pink",
+        "rows": [
+          [
+            "ice ≠ eyes",
+            "<code>ais</code> · <code>ai<u>s</u></code>"
+          ],
+          [
+            "price ≠ prize",
+            "<code>prais</code> · <code>prai<u>s</u></code>"
+          ],
+          [
+            "bus ≠ buzz",
+            "<code>bas</code> · <code>ba<u>s</u></code>"
+          ]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Di «ssss» como una serpiente y, sin mover la boca, conviértela en abeja: «zzzz» 🐝.",
+        "art": "🐍"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "zoo con la z de «zapato» o con s seca"
+      ],
+      "good": [
+        "<code><u>s</u>uu</code>, con zumbido 🐝"
+      ],
+      "note": "Ni lengua entre los dientes ni serpiente muda: ¡abeja!"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🦁 zoo → ____",
+          "a": "<u>s</u>uu"
+        },
+        {
+          "q": "0️⃣ zero → ____",
+          "a": "<u>s</u>írou"
+        },
+        {
+          "q": "🎵 music → ____",
+          "a": "miú<u>s</u>ik"
+        },
+        {
+          "q": "😌 easy → ____",
+          "a": "íi<u>s</u>i"
+        },
+        {
+          "q": "🧀 cheese → ____",
+          "a": "chii<u>s</u>"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la /z/ inglesa?",
+      "title_en": "What is the English /z/?",
+      "icon": "🔎",
+      "es": "La <b>/z/</b> inglesa no es la z de «<i>zapato</i>» (esa es la TH de <i>think</i>, mapa C-04). Es una <b>s que zumba</b>: la boca se pone igual que para la s, pero la garganta vibra, como una abeja 🐝. Y lo más curioso: <mark>casi siempre se escribe con S</mark> (is, was, music, easy). En la figurada la escribimos <code>s</code>, y en este mapa la <b>subrayamos</b> cuando zumba: is = <code>i<u>s</u></code>, ice = <code>ais</code>.",
+      "en": "The English /z/ is a buzzing s, like a bee. Your mouth is the same as for s, but your voice is on. It's often spelled with an S: is, was, music.",
+      "formula": [
+        "s + *voz* 🐝 → *z*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "tongue",
+          "es": "La punta de la lengua, cerca de la encía de arriba, <b>igual que para la s</b>. No la saques entre los dientes: eso sería la z de «zapato».",
+          "en": "Your tongue is just like for s, near the ridge behind your top teeth. Don't put it between your teeth."
+        },
+        {
+          "part": "teeth",
+          "es": "Los dientes casi juntos, sin morder nada. El aire pasa por el huequito y silba.",
+          "en": "Teeth almost together. The air hisses through."
+        },
+        {
+          "part": "voice",
+          "es": "Aquí está la magia: <b>la garganta vibra</b>. Pon la mano en el cuello y di «ssss-zzzz-ssss»: en la z notarás cosquillas 🐝.",
+          "en": "Your throat vibrates. Feel it with your hand: ssss-zzzz."
+        },
+        {
+          "part": "air",
+          "es": "El aire sale continuo y suave. Una /z/ se puede alargar todo lo que quieras: «zzzzzoo».",
+          "en": "The air flows non-stop. You can make a /z/ as long as you want."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · La Z escrita: siempre zumba",
+      "title_en": "Written Z always buzzes",
+      "icon": "⚡",
+      "es": "Cuando ves una <b>Z</b>, suena /z/: zoo, zero, crazy, size, lazy. ¡Ojo! En España tendemos a decirla como la de «zapato», y en América como una s seca. Las dos fallan: es un <b>zumbido</b>. Y una trampa divertida: <mark>pizza es la excepción</mark>, suena «ts», igual que ya la dices tú.",
+      "en": "A written Z sounds /z/: zoo, zero, crazy, size. It's not the «zapato» sound and not a dry s. (Exception: pizza = «ts».)",
+      "examples": [
+        {
+          "en": "zoo",
+          "say": "<u>s</u>uu",
+          "es": "zoo",
+          "icon": "🦁"
+        },
+        {
+          "en": "zero",
+          "say": "<u>s</u>írou",
+          "es": "cero",
+          "icon": "0️⃣"
+        },
+        {
+          "en": "crazy",
+          "say": "kréi<u>s</u>i",
+          "es": "loco",
+          "icon": "🤪"
+        },
+        {
+          "en": "size",
+          "say": "sai<u>s</u>",
+          "es": "talla, tamaño",
+          "icon": "📏"
+        },
+        {
+          "en": "lazy",
+          "say": "léi<u>s</u>i",
+          "es": "vago",
+          "icon": "🦥"
+        },
+        {
+          "en": "pizza",
+          "say": "píitsə",
+          "es": "pizza (¡ts!)",
+          "icon": "🍕"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · La S entre vocales",
+      "title_en": "S between vowels",
+      "icon": "🎵",
+      "es": "Una <b>S entre dos vocales</b> suele sonar /z/: mu<b>s</b>ic, ea<b>s</b>y, bu<b>s</b>y, vi<b>s</b>it, pre<b>s</b>ident. Es la trampa más grande para un hispanohablante, porque en español esa s siempre es seca (<i>música, casa, mesa</i>). No es una regla al 100 % (basic, crisis), pero <mark>si dudas entre vocales, apuesta por el zumbido</mark>.",
+      "en": "An S between vowels often sounds /z/: music, easy, busy, visit, president. Not always (basic), but it's a good bet.",
+      "examples": [
+        {
+          "en": "music",
+          "say": "miú<u>s</u>ik",
+          "es": "música",
+          "icon": "🎵"
+        },
+        {
+          "en": "easy",
+          "say": "íi<u>s</u>i",
+          "es": "fácil",
+          "icon": "😌"
+        },
+        {
+          "en": "busy",
+          "say": "bí<u>s</u>i",
+          "es": "ocupado",
+          "icon": "📅"
+        },
+        {
+          "en": "visit",
+          "say": "ví<u>s</u>it",
+          "es": "visitar",
+          "icon": "🧳"
+        },
+        {
+          "en": "president",
+          "say": "pré<u>s</u>idənt",
+          "es": "presidente",
+          "icon": "🏛️"
+        },
+        {
+          "en": "reason",
+          "say": "ríi<u>s</u>ən",
+          "es": "razón, motivo",
+          "icon": "💡"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Las palabritas que zumban",
+      "title_en": "Little words that buzz",
+      "icon": "🐝",
+      "es": "Algunas de las palabras más usadas del inglés acaban en una S que zumba: <b>is, was, has, his, as, does</b>, y también <b>these</b> y <b>those</b>. Como salen en casi todas las frases, si las dices bien ya suenas mucho más natural. Truco: is = «<b>is</b>la» sin el «-la».",
+      "en": "Some of the most common English words end in a buzzing S: is, was, has, his, as, does, these, those.",
+      "examples": [
+        {
+          "en": "is",
+          "say": "i<u>s</u>",
+          "es": "es, está",
+          "icon": "✅"
+        },
+        {
+          "en": "was",
+          "say": "wa<u>s</u>",
+          "es": "era, estaba",
+          "icon": "⏪"
+        },
+        {
+          "en": "has",
+          "say": "jæ<u>s</u>",
+          "es": "tiene",
+          "icon": "🤲"
+        },
+        {
+          "en": "his",
+          "say": "ji<u>s</u>",
+          "es": "su (de él)",
+          "icon": "👦"
+        },
+        {
+          "en": "does",
+          "say": "da<u>s</u>",
+          "es": "hace",
+          "icon": "🔧"
+        },
+        {
+          "en": "these",
+          "say": "dii<u>s</u>",
+          "es": "estos, estas",
+          "icon": "👇"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · La -SE del final",
+      "title_en": "Final -SE",
+      "icon": "🌹",
+      "es": "Muchas palabras que acaban en <b>vocal + SE</b> zumban al final: rose, nose, cheese, please, choose, because. La E final no suena; la S sí, ¡y con voz! Pero cuidado, también hay unas cuantas con <b>s seca</b>: house (casa), mouse, case, base, loose.",
+      "en": "Many words ending in vowel + SE buzz at the end: rose, nose, cheese, please. Some don't: house, case, loose.",
+      "examples": [
+        {
+          "en": "please",
+          "say": "plii<u>s</u>",
+          "es": "por favor",
+          "icon": "🙏"
+        },
+        {
+          "en": "cheese",
+          "say": "chii<u>s</u>",
+          "es": "queso",
+          "icon": "🧀"
+        },
+        {
+          "en": "nose",
+          "say": "nou<u>s</u>",
+          "es": "nariz",
+          "icon": "👃"
+        },
+        {
+          "en": "rose",
+          "say": "rou<u>s</u>",
+          "es": "rosa",
+          "icon": "🌹"
+        },
+        {
+          "en": "choose",
+          "say": "chuu<u>s</u>",
+          "es": "elegir",
+          "icon": "🤔"
+        },
+        {
+          "en": "because",
+          "say": "biká<u>s</u>",
+          "es": "porque",
+          "icon": "💬"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Tu S ya zumba en español",
+      "title_en": "Your Spanish S already buzzes",
+      "icon": "🇪🇸",
+      "es": "¡Buena noticia! En español ya haces la /z/ sin darte cuenta: la S que va justo antes de <b>b, d, g, l, m, n</b> zumba sola. Di «mi<b>s</b>mo», «de<b>s</b>de» o «i<b>s</b>la» con la mano en el cuello: ¡vibra! Por eso Disney, husband o Tuesday te salen bien casi solas. El reto es <mark>zumbar también entre vocales y al final</mark>.",
+      "en": "Good news: in Spanish, an S before b, d, g, l, m or n already buzzes (mismo, desde, isla). Use that feeling in English.",
+      "examples": [
+        {
+          "en": "Disney",
+          "say": "dí<u>s</u>ni",
+          "es": "Disney",
+          "icon": "🏰"
+        },
+        {
+          "en": "husband",
+          "say": "já<u>s</u>bənd",
+          "es": "marido",
+          "icon": "🤵"
+        },
+        {
+          "en": "Tuesday",
+          "say": "túu<u>s</u>dei",
+          "es": "martes",
+          "icon": "📅"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · Misma palabra, otra S",
+      "title_en": "Same spelling, different S",
+      "icon": "🔀",
+      "es": "Algunas palabras se escriben igual y cambian de sonido: con <b>s seca</b> son nombres o adjetivos; con <b>zumbido</b>, verbos. <i>A close friend</i> (un amigo cercano) lleva <code>klous</code>, pero <i>Close the door</i> (cierra la puerta) lleva <code>klou<u>s</u></code>. Igual pasa con <b>use</b> (el uso / usar) y <b>excuse</b> (la excusa / perdonar).",
+      "en": "Some words change sound and meaning: close /s/ (near) vs. close /z/ (shut), use /s/ (noun) vs. use /z/ (verb).",
+      "examples": [
+        {
+          "en": "a close friend",
+          "say": "ə klóus frénd",
+          "es": "un amigo cercano",
+          "icon": "🤝"
+        },
+        {
+          "en": "a good excuse",
+          "say": "ə gud ikskiúus",
+          "es": "una buena excusa",
+          "icon": "🙊"
+        },
+        {
+          "en": "What's the use?",
+          "say": "wáts də iúus?",
+          "es": "¿De qué sirve?",
+          "icon": "🤷"
+        },
+        {
+          "en": "Close the door.",
+          "say": "klóu<u>s</u> də dór",
+          "es": "Cierra la puerta.",
+          "icon": "🚪"
+        },
+        {
+          "en": "Excuse me!",
+          "say": "ikskiúu<u>s</u> mi!",
+          "es": "¡Perdone!",
+          "icon": "🙋"
+        },
+        {
+          "en": "Can I use it?",
+          "say": "kən ai iúu<u>s</u>it?",
+          "es": "¿Puedo usarlo?",
+          "icon": "📱"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "is",
+          "ipa": "ɪz",
+          "say": "i<u>s</u>",
+          "es": "es, está",
+          "icon": "✅",
+          "anchor": "<b>is</b>la 🏝️",
+          "tip": "En «isla» tu s ya zumba (mano en el cuello). Quítale el «-la» y tienes is."
+        },
+        {
+          "en": "Ms.",
+          "ipa": "mɪz",
+          "say": "mi<u>s</u>",
+          "es": "señora (Sra.)",
+          "icon": "👩‍🏫",
+          "anchor": "<b>mis</b>mo",
+          "tip": "La profe, Ms. Lee: el «mis» de «mismo», con la s que zumba sola."
+        },
+        {
+          "en": "as",
+          "ipa": "æz",
+          "say": "æ<u>s</u>",
+          "es": "como",
+          "icon": "🐴",
+          "anchor": "<b>as</b>no 🐴",
+          "tip": "En «asno» la s zumba. Abre la a hacia la e: æs. «As fast as a horse!»"
+        },
+        {
+          "en": "Liz",
+          "ipa": "lɪz",
+          "say": "li<u>s</u>",
+          "es": "Liz (nombre)",
+          "icon": "👧",
+          "anchor": "<b>Lis</b>boa 🚋",
+          "tip": "En «Lisboa» la s va antes de b y zumba sola: ¡esa es la Z de Liz!"
+        },
+        {
+          "en": "buzz",
+          "ipa": "bʌz",
+          "say": "ba<u>s</u>",
+          "es": "zumbido",
+          "icon": "🐝",
+          "anchor": "arroz <b>bas</b>mati 🍚",
+          "tip": "En «basmati» la s zumba. Ahora alárgala sin la m: bazzzz."
+        },
+        {
+          "en": "does",
+          "ipa": "dʌz",
+          "say": "da<u>s</u>",
+          "es": "hace",
+          "icon": "🔧",
+          "anchor": "¿me <b>das</b> más? 🍪",
+          "tip": "En «das más» la s zumba porque va antes de m. Does = ese «das»."
+        },
+        {
+          "en": "cheese",
+          "ipa": "tʃiːz",
+          "say": "chii<u>s</u>",
+          "es": "queso",
+          "icon": "🧀",
+          "anchor": "<b>chis</b>me 🗣️",
+          "tip": "La s de «chisme» zumba. Alarga la i: chiiis. ¡Y sonríe para la foto! 📸"
+        },
+        {
+          "en": "plasma",
+          "ipa": "ˈplæzmə",
+          "say": "plǽ<u>s</u>mə",
+          "es": "plasma",
+          "icon": "📺",
+          "anchor": "<b>plas</b>ma 📺",
+          "tip": "Como en español, la s antes de m zumba. Solo abre la a: PLǼS-mə."
+        },
+        {
+          "en": "Disney",
+          "ipa": "ˈdɪzni",
+          "say": "dí<u>s</u>ni",
+          "es": "Disney",
+          "icon": "🏰",
+          "anchor": "<b>Dis</b>ney 🏰",
+          "tip": "Como ya lo dices: la s antes de n zumba sola. Termina en «ni»: DÍS-ni."
+        },
+        {
+          "en": "zoo",
+          "ipa": "zuː",
+          "say": "<u>s</u>uu",
+          "es": "zoo",
+          "icon": "🦁",
+          "anchor": "abeja: «<b>bzzz</b>» 🐝",
+          "tip": "Empieza zumbando como una abeja y suelta «uu»: zzzuu. ¡Nunca con la z de «zapato»!"
+        },
+        {
+          "en": "zero",
+          "ipa": "ˈzɪroʊ",
+          "say": "<u>s</u>írou",
+          "es": "cero",
+          "icon": "0️⃣",
+          "anchor": "<s>cero</s> → 🐝 <b>s</b>írou",
+          "tip": "Ni «cero» con z de «zapato» ni con s seca: zzzí-rou, con zumbido."
+        },
+        {
+          "en": "music",
+          "ipa": "ˈmjuːzɪk",
+          "say": "miú<u>s</u>ik",
+          "es": "música",
+          "icon": "🎵",
+          "anchor": "<s>música</s> → miú<b>s</b>ik",
+          "tip": "En español la s de «música» es seca; en inglés zumba. Y empieza por «miú»."
+        },
+        {
+          "en": "pizza",
+          "ipa": "ˈpiːtsə",
+          "say": "píitsə",
+          "es": "pizza",
+          "icon": "🍕",
+          "anchor": "<b>pizza</b> 🍕 (¡como ya la dices!)",
+          "tip": "La trampa: aquí la Z no zumba, suena «ts». ¡Justo como en español!"
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "zoo",
+          "es": "zoo"
+        },
+        {
+          "q": "music",
+          "es": "música"
+        },
+        {
+          "q": "easy",
+          "es": "fácil"
+        },
+        {
+          "q": "busy",
+          "es": "ocupado"
+        },
+        {
+          "q": "please",
+          "es": "por favor"
+        },
+        {
+          "q": "excuse me",
+          "es": "perdone"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Serpiente o abeja?",
+      "title_en": "Hiss or buzz?",
+      "icon": "🧭",
+      "head": [
+        "Palabra · Word",
+        "¿Dónde está la S o la Z?",
+        "¿Zumba?",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "zoo",
+          "Z escrita",
+          "🐝 sí",
+          "<code><u>s</u>uu</code>"
+        ],
+        [
+          "pizza",
+          "ZZ = «ts» (excepción)",
+          "🐍 no",
+          "<code>píitsə</code>"
+        ],
+        [
+          "music",
+          "S entre vocales",
+          "🐝 sí",
+          "<code>miú<u>s</u>ik</code>"
+        ],
+        [
+          "basic",
+          "S entre vocales (excepción)",
+          "🐍 no",
+          "<code>béisik</code>"
+        ],
+        [
+          "is",
+          "palabrita corta",
+          "🐝 sí",
+          "<code>i<u>s</u></code>"
+        ],
+        [
+          "this",
+          "palabrita corta",
+          "🐍 no",
+          "<code>dis</code>"
+        ],
+        [
+          "cheese",
+          "-SE final",
+          "🐝 sí",
+          "<code>chii<u>s</u></code>"
+        ],
+        [
+          "house (casa)",
+          "-SE final (excepción)",
+          "🐍 no",
+          "<code>jaus</code>"
+        ],
+        [
+          "Disney",
+          "S antes de n",
+          "🐝 sí",
+          "<code>dí<u>s</u>ni</code>"
+        ],
+        [
+          "sun",
+          "S al principio",
+          "🐍 no",
+          "<code>san</code>"
+        ],
+        [
+          "exam",
+          "X = «gz»",
+          "🐝 sí",
+          "<code>ig<u>s</u>ǽm</code>"
+        ],
+        [
+          "box",
+          "X = «ks»",
+          "🐍 no",
+          "<code>baks</code>"
+        ]
+      ],
+      "note": "Pistas: la <b>Z</b> casi siempre zumba; la <b>S al principio</b>, casi nunca; <b>entre vocales</b> y en la <b>-se final</b>, muchas veces sí. Y la <b>X</b> de ex- + vocal suena «gz»: exam, example, exactly.",
+      "note_en": "Hints: Z almost always buzzes; S at the start almost never; between vowels and in final -se, often."
+    },
+    {
+      "t": "compare",
+      "title": "S, Z inglesa y z española",
+      "title_en": "S, English Z and Spanish z",
+      "icon": "⚖️",
+      "es": "La Z inglesa es prima de la S, no de la z de «zapato».",
+      "en": "The English Z is a cousin of S, not of the Spanish z.",
+      "cols": [
+        {
+          "head": "🐍 S (sun)",
+          "color": "blue",
+          "items": [
+            "lengua detrás de los dientes",
+            "solo aire: sssss",
+            "no vibra",
+            "sun, ice, bus"
+          ]
+        },
+        {
+          "head": "🐝 Z inglesa (zoo)",
+          "color": "green",
+          "items": [
+            "lengua igual que la s",
+            "aire + voz: zzzzz",
+            "¡vibra!",
+            "zoo, is, music"
+          ]
+        },
+        {
+          "head": "🇪🇸 z de «zapato»",
+          "color": "orange",
+          "items": [
+            "lengua entre los dientes",
+            "es la TH de think (C-04)",
+            "<s>zoo</s> así ❌",
+            "think, three, thanks"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "Seca o con zumbido",
+      "title_en": "Hiss or buzz",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "ice",
+            "ipa": "aɪs",
+            "say": "ais",
+            "es": "hielo",
+            "icon": "🧊"
+          },
+          "b": {
+            "en": "eyes",
+            "ipa": "aɪz",
+            "say": "ai<u>s</u>",
+            "es": "ojos",
+            "icon": "👀"
+          },
+          "tip": "Con zumbido, la «ai» dura un poquito más. ¡Hielo en los ojos no!"
+        },
+        {
+          "a": {
+            "en": "price",
+            "ipa": "praɪs",
+            "say": "prais",
+            "es": "precio",
+            "icon": "🏷️"
+          },
+          "b": {
+            "en": "prize",
+            "ipa": "praɪz",
+            "say": "prai<u>s</u>",
+            "es": "premio",
+            "icon": "🏆"
+          },
+          "tip": "El precio no zumba; el premio, sí. 🐝🏆"
+        },
+        {
+          "a": {
+            "en": "bus",
+            "ipa": "bʌs",
+            "say": "bas",
+            "es": "autobús",
+            "icon": "🚌"
+          },
+          "b": {
+            "en": "buzz",
+            "ipa": "bʌz",
+            "say": "ba<u>s</u>",
+            "es": "zumbido",
+            "icon": "🐝"
+          },
+          "tip": "Un autobús lleno de abejas: bus… buzzzz!"
+        },
+        {
+          "a": {
+            "en": "rice",
+            "ipa": "raɪs",
+            "say": "rais",
+            "es": "arroz",
+            "icon": "🍚"
+          },
+          "b": {
+            "en": "rise",
+            "ipa": "raɪz",
+            "say": "rai<u>s</u>",
+            "es": "subir, salir (el sol)",
+            "icon": "🌅"
+          },
+          "tip": "El arroz es seco; el sol que sale, zumba."
+        },
+        {
+          "a": {
+            "en": "Sue",
+            "ipa": "suː",
+            "say": "suu",
+            "es": "Sue (nombre)",
+            "icon": "👩"
+          },
+          "b": {
+            "en": "zoo",
+            "ipa": "zuː",
+            "say": "<u>s</u>uu",
+            "es": "zoo",
+            "icon": "🦁"
+          },
+          "tip": "Sue goes to the zoo: misma boca, distinta garganta."
+        },
+        {
+          "a": {
+            "en": "loose",
+            "ipa": "luːs",
+            "say": "luus",
+            "es": "suelto, flojo",
+            "icon": "👖"
+          },
+          "b": {
+            "en": "lose",
+            "ipa": "luːz",
+            "say": "luu<u>s</u>",
+            "es": "perder",
+            "icon": "😞"
+          },
+          "tip": "Al revés de lo que parece: lose (una o) es la que zumba. Más en P-03."
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "La Z se pega",
+      "title_en": "Linking the Z",
+      "items": [
+        {
+          "written": "Is it easy?",
+          "spoken": "Izit eezy?",
+          "say": "í<u>s</u>it íi<u>s</u>i?",
+          "es": "¿Es fácil?"
+        },
+        {
+          "written": "Was it fun?",
+          "spoken": "Wuzit fun?",
+          "say": "wá<u>s</u>it fán?",
+          "es": "¿Fue divertido?"
+        },
+        {
+          "written": "Does it work?",
+          "spoken": "Duzit work?",
+          "say": "dá<u>s</u>it wérk?",
+          "es": "¿Funciona?"
+        },
+        {
+          "written": "Close it, please.",
+          "spoken": "Clozit, pleez.",
+          "say": "klóu<u>s</u>it, plíi<u>s</u>",
+          "es": "Ciérralo, por favor."
+        },
+        {
+          "written": "Excuse me!",
+          "spoken": "'Scuze me!",
+          "say": "skiúu<u>s</u> mi!",
+          "es": "¡Perdón!"
+        },
+        {
+          "written": "How's it going?",
+          "spoken": "Howzit going?",
+          "say": "jáu<u>s</u>it góuing?",
+          "es": "¿Qué tal va?"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "The zoo is closed on Tuesday.",
+          "say": "də <u>s</u>úu i<u>s</u> klóu<u>s</u>d an túu<u>s</u>dei",
+          "es": "El zoo cierra los martes.",
+          "icon": "🦁"
+        },
+        {
+          "en": "This is easy!",
+          "say": "dis i<u>s</u> íi<u>s</u>i!",
+          "es": "¡Esto es fácil!",
+          "icon": "😌"
+        },
+        {
+          "en": "My cousin is very busy.",
+          "say": "mai ká<u>s</u>ən i<u>s</u> véri bí<u>s</u>i",
+          "es": "Mi primo está muy ocupado.",
+          "icon": "📅"
+        },
+        {
+          "en": "I love jazz music.",
+          "say": "ai láv yǽ<u>s</u> miú<u>s</u>ik",
+          "es": "Me encanta el jazz.",
+          "icon": "🎷"
+        },
+        {
+          "en": "Please choose a prize.",
+          "say": "plíi<u>s</u> chúu<u>s</u> ə prái<u>s</u>",
+          "es": "Elige un premio, por favor.",
+          "icon": "🏆"
+        },
+        {
+          "en": "Rocky is a lazy dog.",
+          "say": "ráki i<u>s</u> ə léi<u>s</u>i dóg",
+          "es": "Rocky es un perro vago.",
+          "icon": "🐶"
+        },
+        {
+          "en": "Your nose is red.",
+          "say": "ior nóu<u>s</u> i<u>s</u> réd",
+          "es": "Tienes la nariz roja.",
+          "icon": "👃"
+        },
+        {
+          "en": "Excuse me, is this seat free?",
+          "say": "ikskiúu<u>s</u> mi, i<u>s</u> dis síit fríi?",
+          "es": "Perdone, ¿está libre este asiento?",
+          "icon": "💺"
+        },
+        {
+          "en": "The president was in Arizona.",
+          "say": "də pré<u>s</u>idənt wə<u>s</u> in æri<u>s</u>óunə",
+          "es": "El presidente estuvo en Arizona.",
+          "icon": "🌵"
+        },
+        {
+          "en": "Say cheese!",
+          "say": "séi chíi<u>s</u>!",
+          "es": "¡Di «patata»!",
+          "icon": "📸"
+        },
+        {
+          "en": "He was crazy about pizza.",
+          "say": "ji wə<u>s</u> kréi<u>s</u>i əbáut píitsə",
+          "es": "Le volvía loco la pizza.",
+          "icon": "🍕"
+        },
+        {
+          "en": "Close your eyes.",
+          "say": "klóu<u>s</u> ior ái<u>s</u>",
+          "es": "Cierra los ojos.",
+          "icon": "😌"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "zoo → <code>zuu</code> (z de «zapato»)",
+          "good": "<code><u>s</u>uu</code>",
+          "why": "La Z inglesa no saca la lengua entre los dientes: es una s que zumba.",
+          "why_en": "English Z is a buzzing s, not the Spanish «zapato» sound."
+        },
+        {
+          "bad": "is → con s seca, de serpiente 🐍",
+          "good": "<code>i<u>s</u></code>, con zumbido 🐝",
+          "why": "Is zumba. Piensa en «isla».",
+          "why_en": "«Is» ends in a buzzing /z/."
+        },
+        {
+          "bad": "music → <code>músik</code>, como «música»",
+          "good": "<code>miú<u>s</u>ik</code>",
+          "why": "Entre vocales, la s inglesa suele zumbar. Y empieza por «miú».",
+          "why_en": "The S in music buzzes, and it starts with «myoo»."
+        },
+        {
+          "bad": "eyes → igual que ice, seco",
+          "good": "<code>ai<u>s</u></code>",
+          "why": "Sin zumbido dices ice (hielo).",
+          "why_en": "Without the buzz, you say «ice»."
+        },
+        {
+          "bad": "prize → seco, como price",
+          "good": "<code>prai<u>s</u></code>",
+          "why": "Sin zumbido, el premio se convierte en precio.",
+          "why_en": "Without the buzz, prize becomes price."
+        },
+        {
+          "bad": "pizza → <code>pí<u>s</u>a</code>, con zumbido",
+          "good": "<code>píitsə</code>",
+          "why": "Pizza es la excepción: suena «ts», como en español.",
+          "why_en": "Pizza has a «ts» sound."
+        },
+        {
+          "bad": "cheese → <code>chis</code>, corto y seco",
+          "good": "<code>chii<u>s</u></code>",
+          "why": "Alarga la i y haz que la s zumbe.",
+          "why_en": "Make the vowel long and the S buzz."
+        },
+        {
+          "bad": "house (casa) → <code>jau<u>s</u></code>",
+          "good": "<code>jaus</code>",
+          "why": "House (casa) va con s seca. ¡No todo zumba!",
+          "why_en": "The noun «house» has a dry /s/."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el zoo",
+      "title_en": "At the zoo",
+      "lines": [
+        {
+          "who": "Jenny",
+          "en": "Look, Lucía! The zebras are so lazy.",
+          "say": "luk, lusía! də <u>s</u>íibrə<u>s</u> ar sou léi<u>s</u>i",
+          "es": "¡Mira, Lucía! Las cebras son muy vagas."
+        },
+        {
+          "who": "Lucía",
+          "en": "Is it easy to be a zebra?",
+          "say": "í<u>s</u>it íi<u>s</u>i tə bi ə <u>s</u>íibrə?",
+          "es": "¿Es fácil ser una cebra?"
+        },
+        {
+          "who": "Jenny",
+          "en": "Sure! They eat, they sleep, and they're never busy.",
+          "say": "shur! dei íit, dei slíip, ənd der néver bí<u>s</u>i",
+          "es": "¡Claro! Comen, duermen y nunca están ocupadas."
+        },
+        {
+          "who": "Lucía",
+          "en": "What's that noise?",
+          "say": "wáts dæt nói<u>s</u>?",
+          "es": "¿Qué es ese ruido?"
+        },
+        {
+          "who": "Jenny",
+          "en": "It's a bee! It loves the roses.",
+          "say": "its ə bíi! it láv<u>s</u> də róu<u>s</u>i<u>s</u>",
+          "es": "¡Es una abeja! Le encantan las rosas."
+        },
+        {
+          "who": "Lucía",
+          "en": "Please close the bag! My cheese sandwich is in there!",
+          "say": "plíi<u>s</u> klóu<u>s</u> də bǽg! mai chíi<u>s</u> sǽnwich i<u>s</u> in der!",
+          "es": "¡Cierra la bolsa, por favor! ¡Ahí está mi bocadillo de queso!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Too late! The bee was faster. It's crazy!",
+          "say": "túu léit! də bíi wə<u>s</u> fǽster. its kréi<u>s</u>i!",
+          "es": "¡Demasiado tarde! La abeja fue más rápida. ¡Es una locura!"
+        },
+        {
+          "who": "Lucía",
+          "en": "Let's go see the lions. They're easy to visit!",
+          "say": "lets góu síi də láiən<u>s</u>. der íi<u>s</u>i tə ví<u>s</u>it!",
+          "es": "Vamos a ver a los leones. ¡Esos son fáciles de visitar!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di «sssss» como una serpiente 🐍: lengua detrás de los dientes, sin morder.",
+          "en": "Say «sssss» like a snake."
+        },
+        {
+          "es": "Pon la mano en el cuello y, sin mover la boca, enciende la voz: «sssss → zzzzz». ¡Cosquillas!",
+          "en": "Hand on your throat: turn sssss into zzzzz."
+        },
+        {
+          "es": "Di «mismo», «desde», «isla» y fíjate en la s: ya zumba. Esa es la sensación.",
+          "en": "Feel the buzz in Spanish «mismo» and «isla»."
+        },
+        {
+          "es": "Pasa a palabras, alargando el zumbido: <code><u>s</u>uu</code>, <code>i<u>s</u></code>, <code>íi<u>s</u>i</code>, <code>miú<u>s</u>ik</code>.",
+          "en": "Move on to words: zoo, is, easy, music."
+        },
+        {
+          "es": "Escanea los QR, escucha 3 vídeos y <b>grábate</b> con parejas: ice / eyes, price / prize.",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Lazy Liz has a dozen zebras at the zoo.",
+          "say": "léi<u>s</u>i lí<u>s</u> jæ<u>s</u> ə dá<u>s</u>ən <u>s</u>íibrə<u>s</u> æt də <u>s</u>úu",
+          "es": "La vaga de Liz tiene una docena de cebras en el zoo."
+        },
+        {
+          "en": "Busy bees buzz in the roses.",
+          "say": "bí<u>s</u>i bíi<u>s</u> bá<u>s</u> in də róu<u>s</u>i<u>s</u>",
+          "es": "Las abejas atareadas zumban en las rosas."
+        },
+        {
+          "en": "Zack's crazy cousin's music is amazing.",
+          "say": "<u>s</u>æks kréi<u>s</u>i ká<u>s</u>ən<u>s</u> miú<u>s</u>ik i<u>s</u> əméi<u>s</u>ing",
+          "es": "La música del primo loco de Zack es increíble."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "De serpiente a abeja",
+      "title_en": "From snake to bee",
+      "es": "Cuando veas una Z, o una S entre vocales, convierte la serpiente 🐍 en abeja 🐝: misma boca, pero con el motor encendido. Y si te lías, acuérdate de la <b>isla</b> 🏝️: ese «is» ya zumba en tu español.",
+      "en": "Turn the snake into a bee: same mouth, but with your voice on."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Serpiente o abeja?",
+      "title_en": "Hiss or buzz?",
+      "icon": "🔍",
+      "es": "Di la palabra con la mano en el cuello. ¿La S o Z marcada suena /s/ (seca) o /z/ (zumba)? Rodea.",
+      "en": "Say the word. Does the marked letter sound /s/ or /z/?",
+      "items": [
+        {
+          "q": "<b>z</b>oo → [s|z]",
+          "a": "z"
+        },
+        {
+          "q": "<b>s</b>un → [s|z]",
+          "a": "s"
+        },
+        {
+          "q": "i<b>s</b> → [s|z]",
+          "a": "z"
+        },
+        {
+          "q": "i<b>c</b>e → [s|z]",
+          "a": "s"
+        },
+        {
+          "q": "mu<b>s</b>ic → [s|z]",
+          "a": "z"
+        },
+        {
+          "q": "thi<b>s</b> → [s|z]",
+          "a": "s"
+        },
+        {
+          "q": "ea<b>s</b>y → [s|z]",
+          "a": "z"
+        },
+        {
+          "q": "bu<b>s</b> → [s|z]",
+          "a": "s"
+        },
+        {
+          "q": "chee<b>s</b>e → [s|z]",
+          "a": "z"
+        },
+        {
+          "q": "hou<b>s</b>e (casa) → [s|z]",
+          "a": "s"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra con la mano en el cuello y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "🐍 S seca /s/",
+          "words": [
+            "sun",
+            "ice",
+            "bus",
+            "price",
+            "rice",
+            "house",
+            "basic",
+            "this"
+          ]
+        },
+        {
+          "name": "🐝 Zumba /z/",
+          "words": [
+            "zoo",
+            "is",
+            "eyes",
+            "prize",
+            "rise",
+            "music",
+            "busy",
+            "please"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada. La <u>s</u> subrayada zumba.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "zoo",
+          "<code><u>s</u>uu</code>"
+        ],
+        [
+          "zero",
+          "<code><u>s</u>írou</code>"
+        ],
+        [
+          "easy",
+          "<code>íi<u>s</u>i</code>"
+        ],
+        [
+          "busy",
+          "<code>bí<u>s</u>i</code>"
+        ],
+        [
+          "music",
+          "<code>miú<u>s</u>ik</code>"
+        ],
+        [
+          "lazy",
+          "<code>léi<u>s</u>i</code>"
+        ],
+        [
+          "ice",
+          "<code>ais</code>"
+        ],
+        [
+          "eyes",
+          "<code>ai<u>s</u></code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada y <b>subraya la s que zumba</b> 🐝. Pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds and underline the buzzing s.",
+      "items": [
+        {
+          "q": "🤪 crazy → ____",
+          "a": "kréi<u>s</u>i"
+        },
+        {
+          "q": "📏 size → ____",
+          "a": "sai<u>s</u>"
+        },
+        {
+          "q": "🧳 visit → ____",
+          "a": "ví<u>s</u>it"
+        },
+        {
+          "q": "🙏 please → ____",
+          "a": "plii<u>s</u>"
+        },
+        {
+          "q": "👃 nose → ____",
+          "a": "nou<u>s</u>"
+        },
+        {
+          "q": "🤲 has → ____",
+          "a": "jæ<u>s</u>"
+        },
+        {
+          "q": "⏪ was → ____",
+          "a": "wa<u>s</u>"
+        },
+        {
+          "q": "👫 cousin → ____",
+          "a": "ká<u>s</u>ən"
+        },
+        {
+          "q": "🤩 amazing → ____",
+          "a": "əméi<u>s</u>ing"
+        },
+        {
+          "q": "🏛️ president → ____",
+          "a": "pré<u>s</u>idənt"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "En inglés americano, ¿estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "In American English, do they sound the same or different?",
+      "items": [
+        {
+          "q": "ice · eyes → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "price · prize → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "knows · nose → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "Sue · zoo → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "who's · whose → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "bus · buzz → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "rice · rise → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "lose · loose → [igual|diferente]",
+          "a": "diferente"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "The English Z sounds like the Spanish z in «zapato».",
+          "a": false,
+          "why": "esa es la TH de think"
+        },
+        {
+          "q": "For /z/, your throat vibrates.",
+          "a": true
+        },
+        {
+          "q": "The S in «music» buzzes.",
+          "a": true
+        },
+        {
+          "q": "The S in «sun» buzzes.",
+          "a": false,
+          "why": "S al principio: seca"
+        },
+        {
+          "q": "«Pizza» has a /z/ sound.",
+          "a": false,
+          "why": "suena «ts»: <code>píitsə</code>"
+        },
+        {
+          "q": "In «Close the door», «close» ends in /z/.",
+          "a": true
+        },
+        {
+          "q": "«Ice» and «eyes» sound the same.",
+          "a": false,
+          "why": "<code>ais</code> / <code>ai<u>s</u></code>"
+        },
+        {
+          "q": "In Spanish, the s in «mismo» already buzzes.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "¿Cómo se escribe?",
+      "title_en": "How do you spell it?",
+      "icon": "✏️",
+      "es": "Escribe la palabra en inglés. ¿Lleva S o Z? Luego dila zumbando.",
+      "en": "Write the English word. Does it have an S or a Z?",
+      "items": [
+        {
+          "q": "🦁 zoo",
+          "a": "zoo"
+        },
+        {
+          "q": "0️⃣ cero",
+          "a": "zero"
+        },
+        {
+          "q": "🧀 queso",
+          "a": "cheese"
+        },
+        {
+          "q": "👃 nariz",
+          "a": "nose"
+        },
+        {
+          "q": "🏆 premio",
+          "a": "prize"
+        },
+        {
+          "q": "🎵 música",
+          "a": "music"
+        },
+        {
+          "q": "😌 fácil",
+          "a": "easy"
+        },
+        {
+          "q": "🦓 cebra",
+          "a": "zebra"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Después di la palabra haciendo zumbar la S o la Z.",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "mu",
+            "sic"
+          ],
+          "s": 0,
+          "es": "música"
+        },
+        {
+          "syl": [
+            "ea",
+            "sy"
+          ],
+          "s": 0,
+          "es": "fácil"
+        },
+        {
+          "syl": [
+            "bu",
+            "sy"
+          ],
+          "s": 0,
+          "es": "ocupado"
+        },
+        {
+          "syl": [
+            "ze",
+            "ro"
+          ],
+          "s": 0,
+          "es": "cero"
+        },
+        {
+          "syl": [
+            "pres",
+            "i",
+            "dent"
+          ],
+          "s": 0,
+          "es": "presidente"
+        },
+        {
+          "syl": [
+            "a",
+            "maz",
+            "ing"
+          ],
+          "s": 1,
+          "es": "increíble"
+        },
+        {
+          "syl": [
+            "be",
+            "cause"
+          ],
+          "s": 1,
+          "es": "porque"
+        },
+        {
+          "syl": [
+            "mu",
+            "se",
+            "um"
+          ],
+          "s": 1,
+          "es": "museo"
+        },
+        {
+          "syl": [
+            "Ar",
+            "i",
+            "zo",
+            "na"
+          ],
+          "s": 2,
+          "es": "Arizona"
+        },
+        {
+          "syl": [
+            "ex",
+            "am"
+          ],
+          "s": 1,
+          "es": "examen"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pega la Z",
+      "title_en": "Link the Z",
+      "icon": "🔗",
+      "es": "Escribe cómo suena la frase entera, pegando la S que zumba a la vocal de detrás.",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        {
+          "q": "Is it easy?",
+          "a": "í<u>s</u>it íi<u>s</u>i?"
+        },
+        {
+          "q": "Was it fun?",
+          "a": "wá<u>s</u>it fán?"
+        },
+        {
+          "q": "Does it work?",
+          "a": "dá<u>s</u>it wérk?"
+        },
+        {
+          "q": "Close it!",
+          "a": "klóu<u>s</u>it!"
+        },
+        {
+          "q": "How's it going?",
+          "a": "jáu<u>s</u>it góuing?"
+        },
+        {
+          "q": "Excuse me!",
+          "a": "ikskiúu<u>s</u> mi!"
+        },
+        {
+          "q": "Please open it.",
+          "a": "plíi<u>s</u> óupənit"
+        },
+        {
+          "q": "Use it!",
+          "a": "iúu<u>s</u>it!"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo (recuerda: la <u>s</u> subrayada zumba). Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "zoo → <code>zuu</code>",
+          "a": "<u>s</u>uu"
+        },
+        {
+          "q": "zero → <code>zéro</code>",
+          "a": "<u>s</u>írou"
+        },
+        {
+          "q": "music → <code>músik</code>",
+          "a": "miú<u>s</u>ik"
+        },
+        {
+          "q": "busy → <code>búsi</code>",
+          "a": "bí<u>s</u>i"
+        },
+        {
+          "q": "president → <code>presidént</code>",
+          "a": "pré<u>s</u>idənt"
+        },
+        {
+          "q": "pizza → <code>pí<u>s</u>a</code>",
+          "a": "píitsə"
+        },
+        {
+          "q": "house (casa) → <code>jau<u>s</u></code>",
+          "a": "jaus"
+        },
+        {
+          "q": "cheese → <code>chis</code>",
+          "a": "chii<u>s</u>"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez. ¡Mano en el cuello!",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Zero, zero, zero!",
+          "say": "<u>s</u>írou, <u>s</u>írou, <u>s</u>írou!"
+        },
+        {
+          "q": "It's so easy!",
+          "say": "its sóu íi<u>s</u>i!"
+        },
+        {
+          "q": "Please close the door.",
+          "say": "plíi<u>s</u> klóu<u>s</u> də dór"
+        },
+        {
+          "q": "Say cheese!",
+          "say": "séi chíi<u>s</u>!"
+        },
+        {
+          "q": "Is it busy?",
+          "say": "í<u>s</u>it bí<u>s</u>i?"
+        },
+        {
+          "q": "Liz loves music.",
+          "say": "lí<u>s</u> láv<u>s</u> miú<u>s</u>ik"
+        },
+        {
+          "q": "Excuse me, is this yours?",
+          "say": "ikskiúu<u>s</u> mi, i<u>s</u> dis iór<u>s</u>?"
+        },
+        {
+          "q": "The zoo has crazy zebras.",
+          "say": "də <u>s</u>úu jæ<u>s</u> kréi<u>s</u>i <u>s</u>íibrə<u>s</u>"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta: ¿serpiente o abeja?",
+      "en": "Translate into English and say it.",
+      "items": [
+        {
+          "q": "cero",
+          "a": "zero (<u>s</u>írou)"
+        },
+        {
+          "q": "música",
+          "a": "music (miú<u>s</u>ik)"
+        },
+        {
+          "q": "fácil",
+          "a": "easy (íi<u>s</u>i)"
+        },
+        {
+          "q": "ocupado",
+          "a": "busy (bí<u>s</u>i)"
+        },
+        {
+          "q": "queso",
+          "a": "cheese (chii<u>s</u>)"
+        },
+        {
+          "q": "premio",
+          "a": "prize (prai<u>s</u>)"
+        },
+        {
+          "q": "ojos",
+          "a": "eyes (ai<u>s</u>)"
+        },
+        {
+          "q": "por favor",
+          "a": "please (plii<u>s</u>)"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «¿Zumba?» escribe sí o no.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "¿Zumba?"
+      ],
+      "rows": [
+        [
+          "zoo",
+          "zoo",
+          "?<u>s</u>uu",
+          "?sí"
+        ],
+        [
+          "ice",
+          "?hielo",
+          "ais",
+          "?no"
+        ],
+        [
+          "?eyes",
+          "ojos",
+          "ai<u>s</u>",
+          "sí"
+        ],
+        [
+          "music",
+          "?música",
+          "?miú<u>s</u>ik",
+          "sí"
+        ],
+        [
+          "?bus",
+          "autobús",
+          "bas",
+          "?no"
+        ],
+        [
+          "easy",
+          "?fácil",
+          "?íi<u>s</u>i",
+          "sí"
+        ],
+        [
+          "?pizza",
+          "pizza",
+          "píitsə",
+          "?no"
+        ],
+        [
+          "prize",
+          "?premio",
+          "prai<u>s</u>",
+          "?sí"
+        ]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de abejas",
+      "title_en": "Buzzing word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con /z/. Dila zumbando cada vez que encuentres una.",
+      "en": "Find 10 words with a /z/ sound.",
+      "words": [
+        "zoo",
+        "zero",
+        "zebra",
+        "lazy",
+        "crazy",
+        "music",
+        "easy",
+        "busy",
+        "cheese",
+        "prize"
+      ],
+      "clues": [
+        "zoo · zoo",
+        "zero · cero",
+        "zebra · cebra",
+        "lazy · vago",
+        "crazy · loco",
+        "music · música",
+        "easy · fácil",
+        "busy · ocupado",
+        "cheese · queso",
+        "prize · premio"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las abejas",
+      "title_en": "Read and find the buzz",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "A Busy Day at the Zoo",
+      "text": [
+        "Zack works at a zoo in Arizona. He is always busy. Every morning he feeds the zebras and plays easy music for the lazy lions.",
+        "Today a girl named Liz asks: “Excuse me, is the zoo closed on Tuesday?” Zack smiles: “No, it's open every day. Please visit us!”"
+      ],
+      "items": [
+        {
+          "q": "Where is the zoo?",
+          "a": "In Arizona: <code>æri<u>s</u>óunə</code>, con zumbido."
+        },
+        {
+          "q": "Find four words in the text with a written Z.",
+          "a": "Zack, zoo, Arizona, zebras, lazy (cualquiera)"
+        },
+        {
+          "q": "Find two words where an S sounds /z/.",
+          "a": "is, busy, music, easy, excuse, closed, Tuesday, please, visit (cualquiera)"
+        },
+        {
+          "q": "Zack is never busy.",
+          "tf": true,
+          "a": false,
+          "why": "he is always busy"
+        },
+        {
+          "q": "In «Excuse me», «excuse» ends in a buzzing S.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "The S at the start of «smiles» buzzes.",
+          "tf": true,
+          "a": false,
+          "why": "S al principio: seca (la -s final sí zumba: mapa T-02)"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con palabras que zumban. Léelas con la mano en el cuello y grábate.",
+      "en": "Write three sentences with buzzing words and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con «is» y easy, busy o crazy.",
+          "lines": 2,
+          "a": "Ej.: My dad is very busy."
+        },
+        {
+          "q": "Una frase sobre música o sobre el zoo.",
+          "lines": 2,
+          "a": "Ej.: I love jazz music."
+        },
+        {
+          "q": "Una frase con «please» y una palabra con Z.",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Hago la /z/ como una abeja 🐝, con la garganta vibrando.",
+      "en": "I can make a buzzing /z/."
+    },
+    {
+      "es": "No digo la Z con la z de «zapato»: zoo = <code><u>s</u>uu</code>.",
+      "en": "I don't say Z like the Spanish «zapato» sound."
+    },
+    {
+      "es": "Sé que muchas S suenan /z/: is, was, music, easy, busy.",
+      "en": "I know many S's sound /z/."
+    },
+    {
+      "es": "Distingo ice/eyes, price/prize, bus/buzz y rice/rise.",
+      "en": "I can say ice/eyes, price/prize, bus/buzz, rice/rise."
+    },
+    {
+      "es": "Sé que pizza suena «ts» y house (casa), con s seca.",
+      "en": "I know pizza has «ts» and house has a dry /s/."
+    },
+    {
+      "es": "Puedo decir «Lazy Liz has a dozen zebras» sin trabarme.",
+      "en": "I can say the Lazy Liz tongue twister."
+    }
+  ]
+}

@@ -1,0 +1,717 @@
+{
+  "id": "V-05",
+  "block": "V",
+  "title": "LA O QUE SUENA <em>A</em> /ɑ/",
+  "file_title": "La O que suena A (/ɑ/)",
+  "subtitle": "The open American «ah» · hot = «jat»",
+  "icon": "☕",
+  "map": {
+    "center": "En americano, la <b>O</b> de <b>hot</b>, <b>stop</b> o <b>coffee</b> suena como una <b>a</b> muy abierta: hot = <code>jat</code>.",
+    "listen": "stop",
+    "nodes": [
+      {
+        "title": "Así se pone la boca",
+        "icon": "👄",
+        "color": "green",
+        "items": [
+          "boca <b>muy abierta</b>, como en el médico: «aaa»",
+          "labios <b>relajados</b>, sin redondear",
+          "lengua <b>baja</b> y plana"
+        ],
+        "art": "🩺"
+      },
+      {
+        "title": "Suena como…",
+        "icon": "🇪🇸",
+        "color": "blue",
+        "rows": [
+          ["hot", "<code>jat</code>"],
+          ["stop", "<code>stap</code>"],
+          ["coffee", "<code>káfi</code>"]
+        ]
+      },
+      {
+        "title": "¿Cómo se escribe?",
+        "icon": "✍️",
+        "color": "purple",
+        "items": [
+          "<b>O</b> entre consonantes: h<b>o</b>t, b<b>o</b>x, j<b>o</b>b",
+          "<b>A</b> tras W: w<b>a</b>nt, w<b>a</b>tch",
+          "y en f<b>a</b>ther, p<b>a</b>sta, t<b>a</b>co"
+        ]
+      },
+      {
+        "title": "Su prima /ɔ/",
+        "icon": "🗣️",
+        "color": "orange",
+        "rows": [
+          ["talk", "<code>tok</code> o <code>tak</code>"],
+          ["law", "<code>lo</code> o <code>la</code>"],
+          ["caught", "<code>kot</code> o <code>kat</code>"]
+        ],
+        "after": "¡las dos valen!"
+      },
+      {
+        "title": "Ancla española",
+        "icon": "⚓",
+        "color": "pink",
+        "rows": [
+          ["got", "<code>gat</code> · <b>gat</b>o 🐱"],
+          ["top", "<code>tap</code> · <b>tap</b>a"],
+          ["clock", "<code>klak</code> · ¡<b>clac</b>!"]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "¿Ves una <b>O</b> entre consonantes? Abre la boca y di <b>a</b>: <code>dákter</code>, <code>prábləm</code>.",
+        "art": "📦"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["<code>jot</code>, <code>dóktor</code> (o redonda)"],
+      "good": ["<code>jat</code> 🔥, <code>dákter</code> 🩺"],
+      "note": "La o española, redondita, suena muy extranjera en hot o stop."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "🔥 hot → ____", "a": "jat" },
+        { "q": "🛑 stop → ____", "a": "stap" },
+        { "q": "☕ coffee → ____", "a": "káfi" },
+        { "q": "🩺 doctor → ____", "a": "dákter" },
+        { "q": "📦 box → ____", "a": "baks" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la /ɑ/?",
+      "title_en": "What is /ɑ/?",
+      "icon": "🔎",
+      "es": "Abre la boca como cuando el médico te mira la garganta y di «aaa». ¡Enhorabuena: acabas de decir uno de los sonidos más americanos que hay! Se escribe /ɑ/ y es una <b>a muy abierta</b>. Lo curioso es que casi nunca se escribe con A: la <b>O</b> de <b>hot</b>, <b>stop</b>, <b>doctor</b> o <b>coffee</b> suena así. Por eso un americano dice <code>jat</code>, <code>stap</code> y <code>dákter</code>. <mark>Con la o redondita del español sonarás muy extranjero.</mark>",
+      "en": "The American /ɑ/ is a wide-open «ah», like when the doctor checks your throat. The O in hot, stop, doctor and coffee sounds like this: «jat», «stap», «dákter».",
+      "formula": ["h + *O* + t → j*a*t"]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "jaw",
+          "es": "Baja <b>mucho</b> la mandíbula, más que para la a española. Te deberían caber dos dedos entre los dientes.",
+          "en": "Drop your jaw a lot, more than for a Spanish a."
+        },
+        {
+          "part": "lips",
+          "es": "Labios <b>relajados</b> y <b>sin redondear</b>. Si haces piquito, ya no es /ɑ/: es una o.",
+          "en": "Relaxed lips, not rounded. Rounded lips turn it into an o."
+        },
+        {
+          "part": "tongue",
+          "es": "La lengua se queda <b>plana y baja</b>, un poquito hacia atrás, como cuando bostezas.",
+          "en": "Your tongue is low, flat and a little back, like in a yawn."
+        },
+        {
+          "part": "ear",
+          "es": "Escucha: es la «a» del médico y del «¡ah!» de sorpresa. Abierta, tranquila y un pelín larga.",
+          "en": "It's the «ah» you say at the doctor's: open and relaxed."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · La O entre consonantes",
+      "title_en": "O between consonants",
+      "icon": "🔥",
+      "es": "Cuando una <b>O</b> va <b>sola entre consonantes</b> y lleva el golpe de voz (sin E mágica ni otra vocal pegada), casi siempre suena /ɑ/. Pasa en palabras cortas como hot, stop o box y también en las largas: <b>DOC</b>tor, <b>PROB</b>lem, <b>COF</b>fee.",
+      "en": "A single O between consonants in a stressed syllable usually sounds /ɑ/: hot, stop, box, doctor, problem, coffee.",
+      "formula": ["st + *O* + p → st*a*p", "d + *O* + ctor → d*á*kter"],
+      "examples": [
+        { "en": "hot", "say": "jat", "es": "caliente", "icon": "🔥" },
+        { "en": "stop", "say": "stap", "es": "parar / para", "icon": "🛑" },
+        { "en": "box", "say": "baks", "es": "caja", "icon": "📦" },
+        { "en": "doctor", "say": "dákter", "es": "médico", "icon": "🩺" },
+        { "en": "problem", "say": "prábləm", "es": "problema", "icon": "🧩" },
+        { "en": "coffee", "say": "káfi", "es": "café", "icon": "☕" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · La A que suena /ɑ/",
+      "title_en": "When A sounds /ɑ/",
+      "icon": "👨",
+      "es": "A veces es una <b>A</b> la que suena /ɑ/: en <b>father</b> (padre), en palabras que vienen de otros idiomas (<b>pasta</b>, <b>taco</b>, <b>pajamas</b>) y muchas veces <b>después de W</b>: <b>want</b>, <b>watch</b>, <b>wash</b>. ¡Aquí sí la lees bien a la primera!",
+      "en": "Sometimes the letter A sounds /ɑ/: father, words from other languages (pasta, taco) and often after W (want, watch, wash).",
+      "examples": [
+        { "en": "father", "say": "fáder", "es": "padre", "icon": "👨" },
+        { "en": "pasta", "say": "pástə", "es": "pasta", "icon": "🍝" },
+        { "en": "taco", "say": "tákou", "es": "taco", "icon": "🌮" },
+        { "en": "want", "say": "want", "es": "querer", "icon": "🙋" },
+        { "en": "watch", "say": "wach", "es": "reloj / mirar", "icon": "⌚" },
+        { "en": "pajamas", "say": "pəyáməs", "es": "pijama", "icon": "😴" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Su prima /ɔ/: talk, law",
+      "title_en": "Its cousin /ɔ/",
+      "icon": "🗣️",
+      "es": "La /ɑ/ tiene una prima: la /ɔ/, una <b>o muy abierta</b>, con la boca casi como para /ɑ/ y los labios <b>un poco</b> redondeados. Aparece sobre todo con <b>AU</b> y <b>AW</b> (caught, law), <b>AL</b> (talk, walk, all), <b>OUGH</b> (thought) y en palabras como <b>dog</b>, <b>long</b> u <b>off</b>. En este libro la escribimos <code>o</code>.",
+      "en": "/ɔ/ is a very open «o» with slightly rounded lips: talk, law, thought, walk, all, dog.",
+      "examples": [
+        { "en": "talk", "say": "tok", "es": "hablar", "icon": "💬" },
+        { "en": "law", "say": "lo", "es": "ley", "icon": "⚖️" },
+        { "en": "thought", "say": "zot", "es": "pensé / pensamiento", "icon": "💭" },
+        { "en": "walk", "say": "wok", "es": "caminar", "icon": "🚶" },
+        { "en": "daughter", "say": "dórer", "es": "hija", "icon": "👧" },
+        { "en": "all", "say": "ol", "es": "todo", "icon": "💯" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · ¿Caught = cot? La gran fusión",
+      "title_en": "The cot–caught merger",
+      "icon": "🔀",
+      "es": "Aquí viene lo divertido: <mark>más o menos la mitad de los americanos ya no distingue /ɔ/ de /ɑ/</mark>. Para ellos (sobre todo en el Oeste, como California, y muchos jóvenes), <b>caught</b> (pillado) y <b>cot</b> (cama plegable) suenan igual: <code>kat</code>. En Nueva York o Filadelfia, en cambio, caught es <code>kot</code>, bien redondo. <b>Las dos formas son correctas.</b> Si dudas, di /ɑ/: te entenderán en todo el país.",
+      "en": "For about half of Americans, /ɔ/ and /ɑ/ have merged: caught and cot both sound «kat». Both ways are correct.",
+      "examples": [
+        { "en": "caught", "say": "kot / kat", "es": "pillado, cogido", "icon": "🎣" },
+        { "en": "talk", "say": "tok / tak", "es": "hablar", "icon": "💬" },
+        { "en": "dog", "say": "dog / dag", "es": "perro", "icon": "🐶" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "got", "ipa": "ɡɑt", "say": "gat", "es": "conseguí / tengo", "icon": "🎁", "anchor": "<b>gat</b>o 🐱", "tip": "Di «gato» y para antes de la o. I got it = <code>ai gárit</code> (C-02)." },
+        { "en": "not", "ipa": "nɑt", "say": "nat", "es": "no", "icon": "🚫", "anchor": "<b>nat</b>a 🥛", "tip": "Di «nata» sin la última a. Not now = <code>nat náu</code>." },
+        { "en": "top", "ipa": "tɑp", "say": "tap", "es": "parte de arriba", "icon": "🔝", "anchor": "<b>tap</b>a 🍢", "tip": "La tapa siempre va arriba del todo: on top!" },
+        { "en": "a lot", "ipa": "ə ˈlɑt", "say": "əlát", "es": "mucho", "icon": "🥫", "anchor": "<b>a lat</b>a 🥫", "tip": "Di «a lata» sin la a final. Thanks a lot = <code>zænks əlát</code>." },
+        { "en": "sock", "ipa": "sɑk", "say": "sak", "es": "calcetín", "icon": "🧦", "anchor": "<b>sac</b>o 👜", "tip": "Mete los calcetines sucios en un saco: socks!" },
+        { "en": "clock", "ipa": "klɑk", "say": "klak", "es": "reloj", "icon": "⏰", "anchor": "¡<b>clac</b>! ⏰", "tip": "El reloj hace tic, tac… ¡clac! Igualito." },
+        { "en": "dot", "ipa": "dɑt", "say": "dat", "es": "punto", "icon": "🔴", "anchor": "<b>dát</b>il 🌴", "tip": "«Punto com» es dot com: <code>dat kám</code>." },
+        { "en": "mom", "ipa": "mɑm", "say": "mam", "es": "mamá", "icon": "👩", "anchor": "<b>mam</b>á 👩", "tip": "Empieza a decir «mamá» y para: mam. ¡Boca bien abierta!" },
+        { "en": "coffee", "ipa": "ˈkɑfi", "say": "káfi", "es": "café", "icon": "☕", "anchor": "<s>cófi</s> → <b>KÁ</b>fi", "tip": "Ni o redonda ni acento al final: KÁ-fi. (En Nueva York oirás <code>kófi</code>.)" },
+        { "en": "doctor", "ipa": "ˈdɑktɚ", "say": "dákter", "es": "médico", "icon": "🩺", "anchor": "<s>dóctor</s> → <b>DÁK</b>ter", "tip": "La primera O es /ɑ/; la segunda, sin acento, suena <code>er</code>." },
+        { "en": "talk", "ipa": "tɔk", "say": "tok", "es": "hablar", "icon": "💬", "anchor": "¡<b>toc</b>, <b>toc</b>! 🚪", "tip": "Como llamar a la puerta, pero con la boca más abierta. Media América dice <code>tak</code>." },
+        { "en": "walk", "ipa": "wɔk", "say": "wok", "es": "caminar", "icon": "🚶", "anchor": "<b>wok</b> 🥘", "tip": "Como la sartén china. ¡La L es muda (C-15)! Muchos dicen <code>wak</code>." },
+        { "en": "ball", "ipa": "bɔl", "say": "bol", "es": "pelota", "icon": "⚽", "anchor": "<b>bol</b> 🥣", "tip": "El bol de los cereales, con L oscura (C-12). O, en California, <code>bal</code>." },
+        { "en": "call", "ipa": "kɔl", "say": "kol", "es": "llamar", "icon": "📞", "anchor": "<b>col</b> 🥬", "tip": "Call me! = <code>kól mi</code>. ¡Llámame, col!" },
+        { "en": "sauce", "ipa": "sɔs", "say": "sos", "es": "salsa", "icon": "🍅", "anchor": "<b>sos</b>o 😐", "tip": "Una salsa sosa: sauce. Boca abierta, o muy abierta." },
+        { "en": "awesome", "ipa": "ˈɔsəm", "say": "ósəm", "es": "genial", "icon": "🤩", "anchor": "<b>os</b>o 🐻", "tip": "¡Qué oso tan awesome! Ó-səm, con el golpe al principio." }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "hot", "es": "caliente" },
+        { "q": "coffee", "es": "café" },
+        { "q": "doctor", "es": "médico" },
+        { "q": "problem", "es": "problema" },
+        { "q": "father", "es": "padre" },
+        { "q": "caught", "es": "pillado" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Cómo se escribe /ɑ/ y /ɔ/?",
+      "title_en": "How are /ɑ/ and /ɔ/ spelled?",
+      "icon": "🧭",
+      "head": ["Letras · Letters", "Sonido", "Ejemplos", "Suena"],
+      "rows": [
+        ["O entre consonantes", "/ɑ/", "hot, stop, box, job", "<code>jat</code>, <code>stap</code>"],
+        ["O en sílaba fuerte", "/ɑ/", "doctor, problem, body", "<code>dákter</code>, <code>bári</code>"],
+        ["W + A", "/ɑ/", "want, watch, wash", "<code>want</code>, <code>wach</code>"],
+        ["A (palabras prestadas)", "/ɑ/", "father, pasta, taco", "<code>fáder</code>, <code>pástə</code>"],
+        ["AU / AW", "/ɔ/ o /ɑ/", "caught, sauce, law, saw", "<code>kot</code>, <code>lo</code>"],
+        ["AL / ALL", "/ɔ/ o /ɑ/", "talk, walk, all, ball", "<code>tok</code>, <code>bol</code>"],
+        ["OUGH", "/ɔ/ o /ɑ/", "thought, bought", "<code>zot</code>, <code>bot</code>"],
+        ["O + ng, ff, ss, g", "/ɔ/ o /ɑ/", "long, off, boss, dog", "<code>long</code>, <code>of</code>"]
+      ],
+      "note": "<b>¡Ojo!</b> Con E mágica (h<b>o</b>pe, n<b>o</b>te) o al final (g<b>o</b>, n<b>o</b>) la O suena <code>ou</code>: lo verás en V-08 y V-11. Y en s<b>o</b>n, m<b>o</b>ther o l<b>o</b>ve suena /ʌ/ (V-04).",
+      "note_en": "With a magic E (hope, note) or at the end (go, no), O sounds /oʊ/. In son, mother, love it sounds /ʌ/."
+    },
+    {
+      "t": "stress",
+      "title": "La O fuerte se abre",
+      "title_en": "Stressed O opens up",
+      "icon": "🥁",
+      "es": "Mira dónde cae el golpe (●). Si la O lo lleva, se abre en /ɑ/. Si no, se relaja en schwa /ə/ (V-01).",
+      "en": "A stressed O opens to /ɑ/; an unstressed O becomes schwa.",
+      "items": [
+        { "syl": ["doc", "tor"], "s": 0, "say": "dákter", "es": "médico · O fuerte /ɑ/" },
+        { "syl": ["prob", "lem"], "s": 0, "say": "prábləm", "es": "problema · O fuerte /ɑ/" },
+        { "syl": ["o", "pe", "ra"], "s": 0, "say": "ápərə", "es": "ópera · O fuerte /ɑ/" },
+        { "syl": ["cof", "fee"], "s": 0, "say": "káfi", "es": "café · O fuerte /ɑ/" },
+        { "syl": ["pho", "tog", "ra", "phy"], "s": 1, "say": "fətágrəfi", "es": "fotografía · 2.ª O fuerte" },
+        { "syl": ["tech", "nol", "o", "gy"], "s": 1, "say": "teknáləyi", "es": "tecnología · 1.ª O fuerte" },
+        { "syl": ["com", "pu", "ter"], "s": 1, "say": "kəmpiúrer", "es": "ordenador · O débil /ə/" },
+        { "syl": ["to", "day"], "s": 1, "say": "tədéi", "es": "hoy · O débil /ə/" }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "¿A abierta u OU?",
+      "title_en": "Open /ɑ/ or /oʊ/?",
+      "icon": "👂",
+      "items": [
+        {
+          "a": { "en": "not", "ipa": "nɑt", "say": "nat", "es": "no", "icon": "🚫" },
+          "b": { "en": "note", "ipa": "noʊt", "say": "nout", "es": "nota", "icon": "📝" },
+          "tip": "La E mágica (V-11) cambia la a abierta por <code>ou</code>."
+        },
+        {
+          "a": { "en": "got", "ipa": "ɡɑt", "say": "gat", "es": "conseguí", "icon": "🎁" },
+          "b": { "en": "goat", "ipa": "ɡoʊt", "say": "gout", "es": "cabra", "icon": "🐐" },
+          "tip": "I got a goat = <code>ai gárə góut</code>: ¡tengo una cabra!"
+        },
+        {
+          "a": { "en": "hop", "ipa": "hɑp", "say": "jap", "es": "dar saltitos", "icon": "🐇" },
+          "b": { "en": "hope", "ipa": "hoʊp", "say": "joup", "es": "esperanza", "icon": "🙏" },
+          "tip": "Boca abierta para saltar; boca que se cierra en u para la esperanza."
+        },
+        {
+          "a": { "en": "sock", "ipa": "sɑk", "say": "sak", "es": "calcetín", "icon": "🧦" },
+          "b": { "en": "soak", "ipa": "soʊk", "say": "souk", "es": "poner en remojo", "icon": "💦" },
+          "tip": "Soak the sock = <code>sóuk də sák</code>: pon el calcetín en remojo."
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "¿Iguales? Depende de dónde vivas",
+      "title_en": "Same sound? It depends where you live",
+      "icon": "🗺️",
+      "items": [
+        {
+          "a": { "en": "cot", "ipa": "kɑt", "say": "kat", "es": "cama plegable", "icon": "🏕️" },
+          "b": { "en": "caught", "ipa": "kɔt", "say": "kot", "es": "pillado", "icon": "🎣" },
+          "tip": "En California suenan igual (<code>kat</code>). En Nueva York, no."
+        },
+        {
+          "a": { "en": "Don", "ipa": "dɑn", "say": "dan", "es": "Don (nombre)", "icon": "👨" },
+          "b": { "en": "Dawn", "ipa": "dɔn", "say": "don", "es": "Dawn (nombre) / amanecer", "icon": "🌅" },
+          "tip": "Para media América, Don y Dawn son el mismo nombre de oído."
+        },
+        {
+          "a": { "en": "wok", "ipa": "wɑk", "say": "wak", "es": "wok (sartén china)", "icon": "🥘" },
+          "b": { "en": "walk", "ipa": "wɔk", "say": "wok", "es": "caminar", "icon": "🚶" },
+          "tip": "En inglés el wok se dice <code>wak</code>… ¡y para muchos, walk también!"
+        },
+        {
+          "a": { "en": "collar", "ipa": "ˈkɑlɚ", "say": "káler", "es": "cuello (camisa) / collar", "icon": "👔" },
+          "b": { "en": "caller", "ipa": "ˈkɔlɚ", "say": "kóler", "es": "el que llama", "icon": "📞" },
+          "tip": "Con la fusión, las dos suenan <code>káler</code>."
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Británico vs. americano",
+      "title_en": "British vs. American",
+      "icon": "🌍",
+      "es": "Si aprendiste inglés británico en el cole, decías hot con una o corta y redonda (/ɒ/), parecida a la española. En Estados Unidos esa o <b>se abre</b> y se convierte en a.",
+      "en": "British English uses a short rounded /ɒ/ in hot. American English opens it to /ɑ/.",
+      "cols": [
+        {
+          "head": "🇬🇧 Reino Unido",
+          "color": "blue",
+          "items": [
+            "hot → <code>jot</code>",
+            "stop → <code>stop</code>",
+            "coffee → <code>kófi</code>",
+            "labios un poco redondos"
+          ]
+        },
+        {
+          "head": "🇺🇸 Estados Unidos",
+          "color": "red",
+          "items": [
+            "hot → <code>jat</code>",
+            "stop → <code>stap</code>",
+            "coffee → <code>káfi</code>",
+            "boca muy abierta, labios relajados"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "Oh my God!", "spoken": "Oh my Gahd!", "say": "ou mai gád!", "es": "¡Madre mía! / ¡Dios mío!" },
+        { "written": "Not a lot.", "spoken": "Nadda laht.", "say": "nárə lát", "es": "No mucho." },
+        { "written": "Stop it!", "spoken": "Stahp-it!", "say": "stápit!", "es": "¡Para ya!" },
+        { "written": "Want a coffee?", "spoken": "Wanna cahfee?", "say": "wánə káfi?", "es": "¿Quieres un café?" },
+        { "written": "Call me!", "spoken": "Cawl me!", "say": "kól mi!", "es": "¡Llámame!" },
+        { "written": "I got a hot dog.", "spoken": "I gadda haht dawg.", "say": "ai gárə ját dog", "es": "Me he pillado un perrito caliente." }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "My mom drinks a lot of coffee.", "say": "mai mám drinks əlárə káfi", "es": "Mi madre bebe mucho café.", "icon": "☕" },
+        { "en": "Stop! The pot is hot!", "say": "stáp! də pát is ját!", "es": "¡Para! ¡La olla quema!", "icon": "🔥" },
+        { "en": "Rocky got my sock!", "say": "ráki gat mai sák!", "es": "¡Rocky me ha quitado el calcetín!", "icon": "🐶" },
+        { "en": "Is the doctor in the hospital?", "say": "is də dákter in də jáspirəl?", "es": "¿Está el médico en el hospital?", "icon": "🏥" },
+        { "en": "I want to watch a movie.", "say": "ai wánt tə wách ə múuvi", "es": "Quiero ver una peli.", "icon": "🎬" },
+        { "en": "My father has a job in a shop.", "say": "mai fáder jæs ə yáb in ə sháp", "es": "Mi padre trabaja en una tienda.", "icon": "👨" },
+        { "en": "The box is on top of the clock.", "say": "də báks is an tápəv də klák", "es": "La caja está encima del reloj.", "icon": "📦" },
+        { "en": "We talk and walk in the park.", "say": "wi tók ən wók in də párk", "es": "Hablamos y paseamos por el parque.", "icon": "🚶" },
+        { "en": "I thought it was a dog.", "say": "ai zórit wəs ə dóg", "es": "Creía que era un perro.", "icon": "💭" },
+        { "en": "Call me at nine o'clock.", "say": "kól mi ət náin əklák", "es": "Llámame a las nueve en punto.", "icon": "⏰" },
+        { "en": "Bob is not at the shop.", "say": "bab is nárət də sháp", "es": "Bob no está en la tienda.", "icon": "🛒" },
+        { "en": "Pasta and tacos? Awesome!", "say": "pástə ən tákous? ósəm!", "es": "¿Pasta y tacos? ¡Genial!", "icon": "🌮" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "hot → <code>jot</code> (o redonda)", "good": "<code>jat</code>", "why": "Abre la boca y no redondees los labios: es la a del médico.", "why_en": "Open wide, no rounded lips." },
+        { "bad": "coffee → <code>kofí</code>", "good": "<code>káfi</code>", "why": "El golpe va al principio (KÁ-fi) y la O suena a abierta.", "why_en": "Stress the first syllable: KÁ-fi." },
+        { "bad": "doctor → <code>dóktor</code>", "good": "<code>dákter</code>", "why": "La primera O es /ɑ/; la segunda, sin acento, suena <code>er</code>.", "why_en": "First O is /ɑ/; -or sounds «er»." },
+        { "bad": "not → <code>nout</code>", "good": "<code>nat</code>", "why": "Sin E mágica no hay <code>ou</code>: not ≠ note.", "why_en": "No magic E, no /oʊ/." },
+        { "bad": "hot → <code>jǽt</code>", "good": "<code>jat</code>", "why": "Con boca de sonrisa dices hat, sombrero (V-03). Hot es boca abierta y relajada.", "why_en": "With a smile you say hat. Hot is open and relaxed." },
+        { "bad": "talk → <code>tolk</code>", "good": "<code>tok</code> / <code>tak</code>", "why": "La L de talk y walk es muda (C-15).", "why_en": "The L in talk and walk is silent." },
+        { "bad": "want → <code>wount</code>", "good": "<code>want</code>", "why": "¡Con <code>ou</code> dices won't (no voy a)! Justo lo contrario (V-08).", "why_en": "With /oʊ/ you say won't: the opposite!" }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Rocky y el calcetín",
+      "title_en": "Rocky and the sock",
+      "lines": [
+        { "who": "Tyler", "en": "Hey Mario! Want a hot chocolate?", "say": "jei mário! wánə ját cháklət?", "es": "¡Eh, Mario! ¿Quieres un chocolate caliente?" },
+        { "who": "Mario", "en": "Not now, thanks. It's too hot!", "say": "nat náu, zænks. its tuu ját!", "es": "Ahora no, gracias. ¡Quema demasiado!" },
+        { "who": "Tyler", "en": "Oh no! Look! Rocky got your sock!", "say": "ou nóu! luk! ráki gat iur sák!", "es": "¡Oh, no! ¡Mira! ¡Rocky te ha quitado el calcetín!" },
+        { "who": "Mario", "en": "Rocky, stop! Drop it! Bad dog!", "say": "ráki, stáp! drápit! bǽd dóg!", "es": "¡Rocky, para! ¡Suéltalo! ¡Perro malo!" },
+        { "who": "Tyler", "en": "He thinks it's a toy. Let's play ball!", "say": "ji zinks its ə tói. lets plei ból!", "es": "Cree que es un juguete. ¡Juguemos a la pelota!" },
+        { "who": "Mario", "en": "OK! Let's walk to the park.", "say": "oukéi! lets wók tə də párk", "es": "¡Vale! Vamos andando al parque." },
+        { "who": "Tyler", "en": "Awesome! But call your mom first.", "say": "ósəm! bət kól iur mám férst", "es": "¡Genial! Pero llama antes a tu madre." },
+        { "who": "Mario", "en": "Mom! Can we go to the park, please?", "say": "mam! kən wi góu tə də párk, pliis?", "es": "¡Mamá! ¿Podemos ir al parque, por favor?" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        { "es": "Di «aaa» como en el médico: boca muy abierta y lengua plana.", "en": "Say «ah» like at the doctor's." },
+        { "es": "Ponte delante del espejo: los labios <b>no</b> deben redondearse.", "en": "Check in a mirror: no rounded lips." },
+        { "es": "Di «jot» y abre la boca poco a poco hasta que salga <code>jat</code>. Repite con stop, not y got.", "en": "Say «jot» and open your mouth until it becomes «jat»." },
+        { "es": "Practica las parejas not/note y got/goat: la primera abierta, la segunda cerrando en u.", "en": "Practice not/note and got/goat." },
+        { "es": "Escanea los QR, escucha 3 vídeos y <b>grábate</b> diciendo «Hot coffee, Mom!».", "en": "Scan the QR codes and record yourself." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "Bob got a hot pot of coffee at the top shop.", "say": "bab gárə ját párəv káfi ət də táp sháp", "es": "Bob compró una olla de café caliente en la mejor tienda." },
+        { "en": "Tom's mom's clock stopped at six o'clock.", "say": "táms máms klák stápt ət síks əklák", "es": "El reloj de la madre de Tom se paró a las seis en punto." },
+        { "en": "Paul saw a small dog walk into the mall.", "say": "pól só ə smól dóg wók íntə də mól", "es": "Paul vio a un perrito entrar andando en el centro comercial." }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del médico",
+      "title_en": "The doctor trick",
+      "es": "Cada vez que veas una <b>O sola entre consonantes</b>, imagina al médico con el palito: «Abre la boca y di aaa». Hot, stop, doctor, coffee… ¡aaa! 🩺 Y si una palabra lleva AU, AW o AL, abre igual la boca: con <code>tok</code> o con <code>tak</code>, te entenderán.",
+      "en": "When you see a single O between consonants, imagine the doctor: «Open wide and say ah!»"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿A abierta u OU?",
+      "title_en": "Open /ɑ/ or /oʊ/?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea cómo suena la O: <b>a</b> (/ɑ/, la del médico) u <b>ou</b> (/oʊ/, V-08).",
+      "en": "Say the word and circle how the O sounds.",
+      "items": [
+        { "q": "hot → [a|ou]", "a": "a" },
+        { "q": "note → [a|ou]", "a": "ou" },
+        { "q": "stop → [a|ou]", "a": "a" },
+        { "q": "go → [a|ou]", "a": "ou" },
+        { "q": "box → [a|ou]", "a": "a" },
+        { "q": "home → [a|ou]", "a": "ou" },
+        { "q": "doctor → [a|ou]", "a": "a" },
+        { "q": "phone → [a|ou]", "a": "ou" },
+        { "q": "job → [a|ou]", "a": "a" },
+        { "q": "nose → [a|ou]", "a": "ou" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "La O tiene tres caras",
+      "title_en": "Three sounds of O",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        { "name": "🔥 /ɑ/ como hot", "words": ["stop", "box", "mom", "clock", "doctor", "job"] },
+        { "name": "🥤 /ʌ/ como cup (V-04)", "words": ["son", "love", "mother", "money", "come", "Monday"] },
+        { "name": "🏃 /oʊ/ como go (V-08)", "words": ["home", "phone", "nose", "old", "hello", "no"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["hot", "<code>jat</code>"],
+        ["coffee", "<code>káfi</code>"],
+        ["doctor", "<code>dákter</code>"],
+        ["father", "<code>fáder</code>"],
+        ["watch", "<code>wach</code>"],
+        ["talk", "<code>tok</code>"],
+        ["box", "<code>baks</code>"],
+        ["problem", "<code>prábləm</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Usa <b>a</b> para la /ɑ/ y pon tilde en la sílaba fuerte (puedes escribir e en vez de ə).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        { "q": "🧦 sock → ____", "a": "sak" },
+        { "q": "⏰ clock → ____", "a": "klak" },
+        { "q": "🔝 top → ____", "a": "tap" },
+        { "q": "👩 mom → ____", "a": "mam" },
+        { "q": "💼 job → ____", "a": "yab" },
+        { "q": "🧩 problem → ____", "a": "prábləm" },
+        { "q": "🍼 bottle → ____", "a": "bárəl" },
+        { "q": "🌮 taco → ____", "a": "tákou" },
+        { "q": "🍝 pasta → ____", "a": "pástə" },
+        { "q": "🏥 hospital → ____", "a": "jáspirəl" }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Si en ella hay una O, ¡ábrela en /ɑ/!",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        { "syl": ["doc", "tor"], "s": 0, "es": "médico" },
+        { "syl": ["prob", "lem"], "s": 0, "es": "problema" },
+        { "syl": ["cof", "fee"], "s": 0, "es": "café" },
+        { "syl": ["hos", "pi", "tal"], "s": 0, "es": "hospital" },
+        { "syl": ["pho", "tog", "ra", "phy"], "s": 1, "es": "fotografía" },
+        { "syl": ["tech", "nol", "o", "gy"], "s": 1, "es": "tecnología" },
+        { "syl": ["com", "pu", "ter"], "s": 1, "es": "ordenador" },
+        { "syl": ["to", "day"], "s": 1, "es": "hoy" },
+        { "syl": ["bot", "tle"], "s": 0, "es": "botella" },
+        { "syl": ["o", "pe", "ra"], "s": 0, "es": "ópera" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "The O in «hot» sounds like the Spanish o.", "a": false, "why": "suena /ɑ/: jat" },
+        { "q": "/ɑ/ is said with the mouth wide open.", "a": true },
+        { "q": "In «note», the O sounds /ɑ/.", "a": false, "why": "suena ou (V-08)" },
+        { "q": "For many Americans, «cot» and «caught» sound the same.", "a": true },
+        { "q": "The L in «talk» is pronounced.", "a": false, "why": "es muda (C-15)" },
+        { "q": "British and American «hot» sound the same.", "a": false, "why": "UK: o redonda; EE. UU.: jat" },
+        { "q": "In «father», the A sounds /ɑ/.", "a": true },
+        { "q": "You must round your lips to say /ɑ/.", "a": false, "why": "labios relajados, sin redondear" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "Para un americano de California, ¿estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "For a speaker from California, do they sound the same or different?",
+      "items": [
+        { "q": "cot · caught → [igual|diferente]", "a": "igual" },
+        { "q": "Don · Dawn → [igual|diferente]", "a": "igual" },
+        { "q": "not · note → [igual|diferente]", "a": "diferente" },
+        { "q": "wok · walk → [igual|diferente]", "a": "igual" },
+        { "q": "hot · hat → [igual|diferente]", "a": "diferente" },
+        { "q": "got · goat → [igual|diferente]", "a": "diferente" },
+        { "q": "collar · caller → [igual|diferente]", "a": "igual" },
+        { "q": "cop · cup → [igual|diferente]", "a": "diferente" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pega las palabras",
+      "title_en": "Link the words",
+      "icon": "🔗",
+      "es": "Escribe cómo suena la frase entera, pegando las palabras como un americano.",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        { "q": "Stop it!", "a": "stápit" },
+        { "q": "Got it!", "a": "gárit" },
+        { "q": "Drop it!", "a": "drápit" },
+        { "q": "a lot of coffee", "a": "əlárə káfi" },
+        { "q": "Not at all.", "a": "nárəról" },
+        { "q": "on top of", "a": "an tápəv" },
+        { "q": "Call him!", "a": "kólim" },
+        { "q": "Watch out!", "a": "wacháut" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "hot → <code>jot</code>", "a": "jat" },
+        { "q": "coffee → <code>kofí</code>", "a": "káfi" },
+        { "q": "doctor → <code>dóktor</code>", "a": "dákter" },
+        { "q": "stop → <code>estóp</code>", "a": "stap" },
+        { "q": "box → <code>boks</code>", "a": "baks" },
+        { "q": "father → <code>fáter</code>", "a": "fáder (th = d suave)" },
+        { "q": "watch → <code>woch</code>", "a": "wach" },
+        { "q": "problem → <code>problém</code>", "a": "prábləm" },
+        { "q": "not → <code>nout</code>", "a": "nat" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "Hot coffee!", "say": "ját káfi!" },
+        { "q": "Stop the clock!", "say": "stáp də klák!" },
+        { "q": "I got a lot of socks.", "say": "ai gárə lárə sáks" },
+        { "q": "Mom, Dad and the doctor.", "say": "mám, dǽd ən də dákter" },
+        { "q": "Watch the dog!", "say": "wách də dóg!" },
+        { "q": "Talk to Paul.", "say": "tók tə pól" },
+        { "q": "Not on top of the box!", "say": "nát an tápəv də báks!" },
+        { "q": "My father is a doctor.", "say": "mai fáder isə dákter" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con la boca bien abierta.",
+      "en": "Translate into English and say it with an open /ɑ/.",
+      "items": [
+        { "q": "caliente", "a": "hot (jat)" },
+        { "q": "parar", "a": "stop (stap)" },
+        { "q": "café", "a": "coffee (káfi)" },
+        { "q": "médico", "a": "doctor (dákter)" },
+        { "q": "caja", "a": "box (baks)" },
+        { "q": "calcetín", "a": "sock (sak)" },
+        { "q": "reloj (de pared)", "a": "clock (klak)" },
+        { "q": "problema", "a": "problem (prábləm)" },
+        { "q": "padre", "a": "father (fáder)" },
+        { "q": "hablar", "a": "talk (tok / tak)" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «Sonido» escribe /ɑ/ o /ɔ/.",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Español", "Suena", "Sonido"],
+      "rows": [
+        ["hot", "caliente", "?jat", "?/ɑ/"],
+        ["?stop", "parar", "stap", "/ɑ/"],
+        ["talk", "?hablar", "?tok", "/ɔ/"],
+        ["coffee", "?café", "káfi", "?/ɑ/"],
+        ["?law", "ley", "lo", "?/ɔ/"],
+        ["father", "?padre", "?fáder", "/ɑ/"],
+        ["?doctor", "médico", "?dákter", "/ɑ/"],
+        ["caught", "?pillado", "kot", "?/ɔ/"]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de aes abiertas",
+      "title_en": "Open /ɑ/ word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con /ɑ/. Dila en voz alta, con la boca bien abierta, cada vez que encuentres una.",
+      "en": "Find 10 words with /ɑ/.",
+      "words": ["hot", "stop", "box", "clock", "sock", "doctor", "coffee", "father", "mom", "job"],
+      "clues": ["hot · caliente", "stop · parar", "box · caja", "clock · reloj", "sock · calcetín", "doctor · médico", "coffee · café", "father · padre", "mom · mamá", "job · trabajo"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las aes",
+      "title_en": "Read and find /ɑ/",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Doctor Tom and Rocky",
+      "text": [
+        "Tom is a doctor. Every morning he drinks a hot coffee and walks his dog, Rocky, to the park.",
+        "One day, Rocky got a sock from a shop and ran off. “Stop! Drop it!” said Tom. But Rocky did not stop, and a lot of people saw it. Now everybody calls him “Rocky the Robber”."
+      ],
+      "items": [
+        { "q": "What is Tom's job?", "a": "He's a doctor: <code>dákter</code>." },
+        { "q": "Find four words where O sounds /ɑ/.", "a": "Tom, doctor, hot, coffee, Rocky, got, sock, shop, stop, drop, not, lot, Robber (cualquiera)." },
+        { "q": "Find two words with /ɔ/ (like talk).", "a": "walks, off, saw, calls (o con /ɑ/, como media América)." },
+        { "q": "Rocky got a sock from a shop.", "tf": true, "a": true },
+        { "q": "Tom drinks a cold coffee.", "tf": true, "a": false, "why": "a hot coffee" },
+        { "q": "In «Rocky», the O sounds «ou».", "tf": true, "a": false, "why": "suena <code>ráki</code>, con /ɑ/" }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con palabras de este mapa. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with words from this map and record yourself.",
+      "items": [
+        { "q": "Una frase sobre lo que se bebe en tu casa (coffee, hot chocolate…).", "lines": 2, "a": "Ej.: My mom drinks hot coffee." },
+        { "q": "Una frase con dos palabras /ɑ/ (box, top, clock, sock…).", "lines": 2, "a": "Ej.: The clock is on top of the box." },
+        { "q": "Una frase con talk, walk o call.", "lines": 2 }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé decir <b>hot</b>, <b>stop</b> y <b>coffee</b> con la boca abierta: <code>jat</code>, <code>stap</code>, <code>káfi</code>.", "en": "I can say hot, stop and coffee with an open /ɑ/." },
+    { "es": "Sé que la O sola entre consonantes suele sonar /ɑ/.", "en": "I know a single O between consonants usually sounds /ɑ/." },
+    { "es": "Distingo not de note y got de goat.", "en": "I can tell not from note and got from goat." },
+    { "es": "Sé decir talk, law y caught con /ɔ/… o con /ɑ/, como media América.", "en": "I can say talk, law and caught with /ɔ/ or /ɑ/." },
+    { "es": "Sé que father, pasta y watch también llevan /ɑ/.", "en": "I know father, pasta and watch have /ɑ/ too." },
+    { "es": "Puedo leer el trabalenguas de Bob sin trabarme.", "en": "I can say the Bob tongue twister." }
+  ]
+}

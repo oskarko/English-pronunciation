@@ -1,0 +1,652 @@
+{
+  "id": "H-06",
+  "block": "H",
+  "title": "SONIDOS QUE SE FUNDEN",
+  "file_title": "Sonidos que se funden (asimilación)",
+  "subtitle": "When sounds melt · did you = «díyu»",
+  "icon": "🫠",
+  "map": {
+    "center": "Si una palabra acaba en <b>T, D, S o Z</b> y la siguiente es <b>you</b>, los sonidos se funden: did you = <code>díyu</code>.",
+    "listen": "nice to meet you",
+    "nodes": [
+      {
+        "title": "T + you → CH",
+        "icon": "🚂",
+        "color": "green",
+        "rows": [["got you", "<code>gáchə</code>"], ["meet you", "<code>míichu</code>"], ["don't you", "<code>dóunchə</code>"]]
+      },
+      {
+        "title": "D + you → Y",
+        "icon": "🥋",
+        "color": "blue",
+        "rows": [["did you", "<code>díyu</code>"], ["would you", "<code>wúyu</code>"], ["could you", "<code>kúyu</code>"]]
+      },
+      {
+        "title": "S + you → SH",
+        "icon": "🤫",
+        "color": "purple",
+        "rows": [["miss you", "<code>míshu</code>"], ["bless you", "<code>bléshu</code>"], ["this year", "<code>di shír</code>"]]
+      },
+      {
+        "title": "Z + you → Y suave",
+        "icon": "🐝",
+        "color": "orange",
+        "rows": [["as you know", "<code>əyunóu</code>"], ["how's your…", "<code>jáuyer</code>"], ["close your eyes", "<code>klóuyer áis</code>"]]
+      },
+      {
+        "title": "¡Aquí NO se funde!",
+        "icon": "✋",
+        "color": "pink",
+        "items": [
+          "<b>thank you</b> → <code>zǽnkiu</code> (K)",
+          "<b>love you</b> → <code>láviu</code> (V)",
+          "<b>see you</b> → <code>síi iu</code> (vocal)"
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Dilas <b>sin pausa</b>, cada vez más rápido, y deja que la lengua las funda. ¡Despacio también vale!",
+        "art": "🍦"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["<code>náis tu mít iú</code>"],
+      "good": ["<code>náis tə míichu</code> 🤝"],
+      "note": "Palabra a palabra suenas a robot 🤖"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "🙋 did you → ____", "a": "díyu" },
+        { "q": "🤝 meet you → ____", "a": "míichu" },
+        { "q": "🫵 got you → ____", "a": "gáchə" },
+        { "q": "🥺 miss you → ____", "a": "míshu" },
+        { "q": "📆 this year → ____", "a": "di shír" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es fundirse?",
+      "title_en": "What is assimilation?",
+      "icon": "🫠",
+      "es": "Al hablar rápido, las palabras no van en cajitas separadas: se tocan y a veces <b>se funden</b>, como dos helados al sol. En inglés pasa muchísimo con <b>you</b>, <b>your</b> y <b>year</b>: si la palabra de antes acaba en <b>T, D, S o Z</b>, los dos sonidos se mezclan y nace uno nuevo. Así, did you suena <code>díyu</code> y got you suena <code>gáchə</code> (gotcha). <mark>No es hablar mal</mark>: así habla todo el mundo en EE. UU. Se llama <b>asimilación</b>.",
+      "en": "In fast speech, a word ending in T, D, S or Z melts with a following you, your or year: did you → «díyu», got you → «gotcha».",
+      "formula": [
+        "*T* + you → *ch*",
+        "*D* + you → *y*",
+        "*S* + you → *sh*",
+        "*Z* + you → *y suave*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "¿Qué hace la boca?",
+      "title_en": "What your mouth does",
+      "items": [
+        { "part": "tongue", "es": "Para la T y la D, la punta toca la encía de arriba. Al llegar la «i» de you, la lengua se aplasta contra el paladar… ¡y sale un <b>ch</b> o una <b>y</b> sin querer!", "en": "The tongue slides from the T/D spot to the «y» spot, and the two sounds blend." },
+        { "part": "air", "es": "T y S son <b>sordas</b> (solo aire): dan <b>ch</b> y <b>sh</b>. D y Z son <b>sonoras</b>: dan una y fuerte (/dʒ/) y una y suave que zumba (/ʒ/).", "en": "Voiceless T and S give ch and sh; voiced D and Z give two kinds of y." },
+        { "part": "voice", "es": "Mano en el cuello: en <code>díyu</code> y <code>əyunóu</code> notas la vibración en la y; en el <b>ch</b> de <code>gáchə</code> y el <b>sh</b> de <code>míshu</code>, no.", "en": "Your throat buzzes on the y sounds, not on ch or sh." },
+        { "part": "lips", "es": "La «u» de you redondea los labios: por eso <b>chu</b>, <b>yu</b> y <b>shu</b> salen con morrito.", "en": "Round your lips for the «u» of you." }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · T + you = CH",
+      "title_en": "T + you makes CH",
+      "icon": "🚂",
+      "es": "Cuando una palabra acaba en <b>T</b> y la siguiente es <b>you</b>, <b>your</b> o <b>year</b>, la T y la «i» se juntan en un <b>ch</b> como el de «chocolate». De ahí sale <b>gotcha</b> (got you), una palabra que verás escrita en cómics y chats.",
+      "en": "T + you becomes «ch»: got you → gotcha, meet you → «míichu».",
+      "formula": ["go*t* + *y*ou → gá*ch*ə"],
+      "examples": [
+        { "en": "Got you!", "say": "gáchə!", "es": "¡Te pillé! / ¡Entendido!", "icon": "🫵" },
+        { "en": "Nice to meet you.", "say": "náis tə míichu", "es": "Encantado de conocerte.", "icon": "🤝" },
+        { "en": "Don't you know?", "say": "dóunchə nóu?", "es": "¿No lo sabes?", "icon": "🤔" },
+        { "en": "last year", "say": "læs chír", "es": "el año pasado", "icon": "📅" },
+        { "en": "I'll let you know.", "say": "ail léchə nóu", "es": "Ya te digo (te aviso).", "icon": "📲" },
+        { "en": "What about you?", "say": "wárəbáuchu?", "es": "¿Y tú?", "icon": "🙋" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · D + you = Y",
+      "title_en": "D + you makes a strong Y",
+      "icon": "🥋",
+      "es": "Con la <b>D</b> pasa lo mismo, pero el resultado vibra: una <b>y fuerte</b> (/dʒ/), como la de «yudo» o la de un «¡yo!» con energía. Did you suena <code>díyu</code>, y en cómics lo verás escrito <b>didja</b>.",
+      "en": "D + you becomes a strong y sound /dʒ/: did you → «díyu» (didja).",
+      "formula": ["di*d* + *y*ou → dí*y*u"],
+      "examples": [
+        { "en": "Did you?", "say": "díyu?", "es": "¿Ah, sí? / ¿Lo hiciste?", "icon": "🙋" },
+        { "en": "Would you?", "say": "wúyu?", "es": "¿Lo harías?", "icon": "🤲" },
+        { "en": "Could you?", "say": "kúyu?", "es": "¿Podrías?", "icon": "🙏" },
+        { "en": "I need you.", "say": "ai níiyu", "es": "Te necesito.", "icon": "🫂" },
+        { "en": "I told you!", "say": "ai tóulyu!", "es": "¡Te lo dije!", "icon": "☝️" },
+        { "en": "And you?", "say": "ənyú?", "es": "¿Y tú?", "icon": "👉" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · S + you = SH",
+      "title_en": "S + you makes SH",
+      "icon": "🤫",
+      "es": "Si la palabra acaba en <b>S</b> (de las que no zumban), la S y la «i» se juntan en un <b>sh</b>, el sonido de mandar callar: <b>¡shhh!</b> Así, miss you suena <code>míshu</code> y this year, <code>di shír</code>.",
+      "en": "S + you or year becomes «sh»: miss you → «míshu», this year → «di shír».",
+      "formula": ["mi*ss* + *y*ou → mí*sh*u"],
+      "examples": [
+        { "en": "I miss you.", "say": "ai míshu", "es": "Te echo de menos.", "icon": "🥺" },
+        { "en": "Bless you!", "say": "bléshu!", "es": "¡Jesús! (al estornudar)", "icon": "🤧" },
+        { "en": "this year", "say": "di shír", "es": "este año", "icon": "📆" },
+        { "en": "Kiss you!", "say": "kíshu!", "es": "¡Un beso! (para ti)", "icon": "😘" },
+        { "en": "Is this yours?", "say": "is di shórs?", "es": "¿Esto es tuyo?", "icon": "🎒" },
+        { "en": "I guess you're right.", "say": "ai guésher ráit", "es": "Supongo que tienes razón.", "icon": "👍" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Z + you = Y suave",
+      "title_en": "Z + you makes a soft Y",
+      "icon": "🐝",
+      "es": "Cuando la palabra acaba en una <b>S que zumba</b> como una abeja (/z/: as, is, how's, where's, close…), sale una <b>y suave</b> que vibra, /ʒ/, como la «y» de un argentino diciendo «yo». En la figurada la escribimos <b>y</b>.",
+      "en": "Z + you or your becomes a soft buzzing /ʒ/: as you know → «əyunóu», how's your → «jáuyer».",
+      "formula": ["a*s* + *y*ou → ə*y*u (zumba)"],
+      "examples": [
+        { "en": "as you know", "say": "əyunóu", "es": "como sabes", "icon": "💡" },
+        { "en": "How's your mom?", "say": "jáuyer mám?", "es": "¿Qué tal tu madre?", "icon": "👩" },
+        { "en": "Where's your phone?", "say": "wéryer fóun?", "es": "¿Dónde está tu móvil?", "icon": "📱" },
+        { "en": "Close your eyes.", "say": "klóuyer áis", "es": "Cierra los ojos.", "icon": "😌" },
+        { "en": "Raise your hand.", "say": "réiyer jǽnd", "es": "Levanta la mano.", "icon": "✋" },
+        { "en": "Use your head!", "say": "iúuyer jéd!", "es": "¡Usa la cabeza!", "icon": "🧠" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Preguntas que se encogen",
+      "title_en": "Questions that shrink",
+      "icon": "❓",
+      "es": "En las preguntas rápidas, además de fundirse, la <b>you</b> se encoge y se queda en una schwa: <code>iə</code> o <code>yə</code>. Por eso did you suena <code>díyə</code> (didja) y what do you, <code>wárəiə</code> (whaddaya). La fuerza va al verbo del final.",
+      "en": "In quick questions, you also shrinks to «yə»: did you → «díyə», what do you → «whaddaya».",
+      "examples": [
+        { "en": "What do you want?", "say": "wárəiə wánt?", "es": "¿Qué quieres?", "icon": "🤷" },
+        { "en": "Did you eat?", "say": "díyə íit?", "es": "¿Has comido?", "icon": "🍽️" },
+        { "en": "Would you like some?", "say": "wúyə láik səm?", "es": "¿Quieres un poco?", "icon": "🍪" },
+        { "en": "Could you help me?", "say": "kúyə jélp mi?", "es": "¿Me ayudas?", "icon": "🙏" },
+        { "en": "Where did you go?", "say": "wér díyə góu?", "es": "¿Adónde fuiste?", "icon": "🗺️" },
+        { "en": "How did you know?", "say": "jáu díyə nóu?", "es": "¿Cómo lo sabías?", "icon": "🔮" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · ¡También dentro de palabras!",
+      "title_en": "Inside words too",
+      "icon": "🧪",
+      "es": "Hace siglos, esto mismo pasó <b>dentro</b> de muchas palabras, y se quedó para siempre. Por eso nature no suena «na-tu-re», sino <code>néicher</code>. Lo verás a fondo en los mapas T-03 y C-09.",
+      "en": "The same melting happened inside words long ago: nature, picture, actually.",
+      "examples": [
+        { "en": "nature", "say": "néicher", "es": "naturaleza", "icon": "🌳" },
+        { "en": "picture", "say": "píkcher", "es": "foto / dibujo", "icon": "🖼️" },
+        { "en": "actually", "say": "ǽkchuəli", "es": "en realidad", "icon": "💬" },
+        { "en": "question", "say": "kwéschən", "es": "pregunta", "icon": "❓" },
+        { "en": "education", "say": "eyəkéishən", "es": "educación", "icon": "🎓" },
+        { "en": "soldier", "say": "sóulyer", "es": "soldado", "icon": "💂" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "got you", "ipa": "ˈɡɑtʃə", "say": "gáchə", "es": "te pillé / entendido", "icon": "🫵", "anchor": "<b>gacha</b>s 🥣", "tip": "Di «gachas» sin la s y con la última a floja: GÁ-chə. ¡Gotcha!" },
+        { "en": "let you", "ipa": "ˈlɛtʃə", "say": "léchə", "es": "dejarte (I'll let you know)", "icon": "📲", "anchor": "<b>leche</b> 🥛", "tip": "«Leche» con la e final muy floja. I'll let you know = <code>ail léchə nóu</code>." },
+        { "en": "meet you", "ipa": "ˈmiːtʃu", "say": "míichu", "es": "conocerte", "icon": "🤝", "anchor": "Pi<b>chu</b> ⚡ (con M)", "tip": "Di «Pichu», el Pokémon, con M y alargando la i: MÍI-chu." },
+        { "en": "did you", "ipa": "ˈdɪdʒu", "say": "díyu", "es": "¿hiciste…? / ¿has…?", "icon": "🙋", "anchor": "di + <b>yu</b>do 🥋", "tip": "La y fuerte de «yudo» es casi la /dʒ/. Di «di» + «yu» sin pausa: DÍ-yu." },
+        { "en": "could you", "ipa": "ˈkʊdʒu", "say": "kúyu", "es": "¿podrías?", "icon": "🙏", "anchor": "<b>cuyo</b> 📜 (con u final)", "tip": "Di «cuyo» con la y fuerte y cambia la o por u: KÚ-yu. Rápido: <code>kúyə</code>." },
+        { "en": "can't you", "ipa": "ˈkæntʃə", "say": "kǽnchə", "es": "¿no puedes?", "icon": "🏀", "anchor": "<b>cancha</b> 🏀", "tip": "«Cancha» abriendo la primera a como en cat (V-03). Can't you see? = ¿No lo ves?" },
+        { "en": "not your", "ipa": "ˈnɑtʃɚ", "say": "nácher", "es": "no (es) tu…", "icon": "🌮", "anchor": "<b>nach</b>os + er 🌮", "tip": "It's not your fault = <code>its nácher fólt</code> (no es culpa tuya)." },
+        { "en": "how's your", "ipa": "ˈhaʊʒɚ", "say": "jáuyer", "es": "¿qué tal tu…?", "icon": "👩", "anchor": "<b>jau</b>la + a<b>yer</b>", "tip": "JÁU-yer: la y suave de «ayer» y la r americana, sin vibrar. How's your mom?" },
+        { "en": "miss you", "ipa": "ˈmɪʃu", "say": "míshu", "es": "echarte de menos", "icon": "🥺", "anchor": "mi + <b>¡shhh!</b> + u 🤫", "tip": "Di «mi», manda callar «¡shhh!» y acaba en «u»: MÍ-shu." },
+        { "en": "as you know", "ipa": "əʒu ˈnoʊ", "say": "əyunóu", "es": "como sabes", "icon": "💡", "anchor": "«<b>yo</b>» argentino 🧉", "tip": "Un argentino dice «yo» con una y que zumba: es la /ʒ/ de as you. ¡Como sabés, che!" }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "did you", "es": "¿has…? / ¿hiciste…?" },
+        { "q": "gotcha", "es": "te pillé" },
+        { "q": "nice to meet you", "es": "encantado" },
+        { "q": "what do you", "es": "¿qué…?" },
+        { "q": "this year", "es": "este año" },
+        { "q": "miss you", "es": "echarte de menos" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Se funde o no se funde?",
+      "title_en": "Does it melt?",
+      "icon": "🧭",
+      "head": ["Final + you", "Se convierte en…", "Ejemplo · Example", "Suena"],
+      "rows": [
+        ["<b>T</b> + you", "<b>ch</b> /tʃ/", "got you", "<code>gáchə</code>"],
+        ["<b>D</b> + you", "<b>y</b> fuerte /dʒ/", "did you", "<code>díyu</code>"],
+        ["<b>S</b> + you", "<b>sh</b> /ʃ/", "miss you", "<code>míshu</code>"],
+        ["<b>Z</b> + you", "<b>y</b> suave /ʒ/", "as you know", "<code>əyunóu</code>"],
+        ["<b>TS</b> + your", "<b>ch</b> /tʃ/", "what's your", "<code>wácher</code>"],
+        ["<b>K</b> + you", "❌ no se funde", "thank you", "<code>zǽnkiu</code>"],
+        ["<b>V</b> + you", "❌ no se funde", "love you", "<code>láviu</code>"],
+        ["<b>L</b> + you", "❌ no se funde", "tell you", "<code>téliu</code>"],
+        ["vocal + you", "❌ solo se enlaza (H-02)", "see you", "<code>síi iu</code>"]
+      ],
+      "note": "Solo <b>cuatro</b> sonidos se funden con you: <b>T, D, S y Z</b>. Con los demás, la you se pega sin cambiar.",
+      "note_en": "Only T, D, S and Z melt with you. Other sounds just link."
+    },
+    {
+      "t": "compare",
+      "title": "Despacio vs. rápido",
+      "title_en": "Slow vs. fast",
+      "icon": "🐢",
+      "es": "Las dos formas son <b>correctas</b>. Despacio, las palabras se separan; hablando normal, se funden. Tú entiende las dos y usa la que te salga.",
+      "en": "Both are correct. Slow speech keeps the words apart; normal speech melts them.",
+      "cols": [
+        { "head": "🐢 Despacio (también vale)", "color": "blue", "items": ["did you → <code>díd iu</code>", "meet you → <code>míit iu</code>", "got you → <code>gát iu</code>", "this year → <code>dis iír</code>"] },
+        { "head": "🚀 Normal (lo que oirás)", "color": "red", "items": ["did you → <code>díyu</code>", "meet you → <code>míichu</code>", "got you → <code>gáchə</code>", "this year → <code>di shír</code>"] }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "Nice to meet you.", "spoken": "Nice ta meechoo.", "say": "náis tə míichu", "es": "Encantado de conocerte." },
+        { "written": "Did you see that?", "spoken": "Didja see that?", "say": "díyə síi dǽt?", "es": "¿Has visto eso?" },
+        { "written": "Got you!", "spoken": "Gotcha!", "say": "gáchə!", "es": "¡Te pillé! / ¡Entendido!" },
+        { "written": "Don't you know?", "spoken": "Doncha know?", "say": "dóunchə nóu?", "es": "¿No lo sabes?" },
+        { "written": "What do you want?", "spoken": "Whaddaya want?", "say": "wárəiə wánt?", "es": "¿Qué quieres?" },
+        { "written": "Would you like some?", "spoken": "Wouldja like some?", "say": "wúyə láik səm?", "es": "¿Quieres un poco?" },
+        { "written": "What's your name?", "spoken": "Whatcher name?", "say": "wácher néim?", "es": "¿Cómo te llamas?" },
+        { "written": "I'll miss you!", "spoken": "I'll mishoo!", "say": "ail míshu!", "es": "¡Te echaré de menos!" },
+        { "written": "How's your mom?", "spoken": "Howzher mom?", "say": "jáuyer mám?", "es": "¿Qué tal tu madre?" },
+        { "written": "Did you eat?", "spoken": "Jeet?", "say": "yíit?", "es": "¿Has comido? (¡muy rápido!)" }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "Nice to meet you, Jenny!", "say": "náis tə míichu, yéni!", "es": "¡Encantado de conocerte, Jenny!", "icon": "🤝" },
+        { "en": "Did you see that?", "say": "díyə síi dǽt?", "es": "¿Has visto eso?", "icon": "👀" },
+        { "en": "Could you help me, please?", "say": "kúyə jélp mi, plíis?", "es": "¿Me ayudas, por favor?", "icon": "🙏" },
+        { "en": "Would you like some juice?", "say": "wúyə láik səm yúus?", "es": "¿Quieres zumo?", "icon": "🧃" },
+        { "en": "I'll let you know tomorrow.", "say": "ail léchə nóu təmárou", "es": "Mañana te digo.", "icon": "📲" },
+        { "en": "Gotcha! You're it!", "say": "gáchə! iər ít!", "es": "¡Te pillé! ¡Te la quedas!", "icon": "🏃" },
+        { "en": "What do you want for dinner?", "say": "wárəiə wánt fər díner?", "es": "¿Qué quieres para cenar?", "icon": "🍝" },
+        { "en": "Don't you like pizza?", "say": "dóunchə láik píitsə?", "es": "¿No te gusta la pizza?", "icon": "🍕" },
+        { "en": "I miss you, Grandma!", "say": "ai míshu, grǽnma!", "es": "¡Te echo de menos, abuela!", "icon": "👵" },
+        { "en": "This year we're going to New York.", "say": "di shír wir góuing tə nu iórk", "es": "Este año vamos a Nueva York.", "icon": "🗽" },
+        { "en": "Last year I was eight.", "say": "læs chír ai wəs éit", "es": "El año pasado tenía ocho años.", "icon": "🎂" },
+        { "en": "As you know, Rocky loves the park.", "say": "əyunóu, ráki lávs də párk", "es": "Como sabes, a Rocky le encanta el parque.", "icon": "🐶" },
+        { "en": "How's your new school?", "say": "jáuyer nu skúul?", "es": "¿Qué tal tu nuevo cole?", "icon": "🏫" },
+        { "en": "What's your favorite color?", "say": "wácher féivrit káler?", "es": "¿Cuál es tu color favorito?", "icon": "🎨" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "Nice to meet you → <code>náis tu mít iú</code>", "good": "<code>náis tə míichu</code>", "why": "Palabra a palabra suena a robot 🤖. La T y la you se funden en «chu».", "why_en": "Don't say it word by word: T + you = «chu»." },
+        { "bad": "thank you → <code>zǽnchu</code>", "good": "<code>zǽnkiu</code>", "why": "Solo se funden T, D, S y Z. La K no: thank you nunca es «zanchu».", "why_en": "Only T, D, S and Z melt with you." },
+        { "bad": "see you → <code>síichu</code>", "good": "<code>síi iu</code>", "why": "See acaba en vocal: no hay T que fundir. Solo se enlaza (H-02).", "why_en": "No final consonant, no melting." },
+        { "bad": "gotcha → <code>góchə</code> (o española)", "good": "<code>gáchə</code>", "why": "La o de got suena a, con la boca abierta (V-05): GÁ-chə.", "why_en": "The o in got sounds like «a»." },
+        { "bad": "did you → <code>díd · iú</code> (con parón)", "good": "<code>díyu</code>", "why": "Sin pausa entre las dos: la D y la «i» se juntan en una y fuerte.", "why_en": "No pause: D + you = «díyu»." },
+        { "bad": "miss you → <code>míchu</code>", "good": "<code>míshu</code>", "why": "S + you da <b>sh</b> (¡shhh!), no ch. El ch es para la T.", "why_en": "S + you gives sh, not ch." },
+        { "bad": "don't you → <code>dónt iú</code> (o española)", "good": "<code>dóunchə</code>", "why": "La o de don't es «ou» (V-08) y la T + you hace «chə».", "why_en": "Say «dóunchə»." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Primer día de cole",
+      "title_en": "First day at school",
+      "lines": [
+        { "who": "Ashley", "en": "Hi! What's your name?", "say": "jái! wácher néim?", "es": "¡Hola! ¿Cómo te llamas?" },
+        { "who": "Mario", "en": "I'm Mario. Nice to meet you!", "say": "aim mário. náis tə míichu!", "es": "Soy Mario. ¡Encantado!" },
+        { "who": "Ashley", "en": "Nice to meet you too! Did you just move here?", "say": "náis tə míichu túu! díyə yəst múuv jír?", "es": "¡Igualmente! ¿Te acabas de mudar aquí?" },
+        { "who": "Mario", "en": "Yes, this year. I'm from Spain.", "say": "iés, di shír. aim frəm spéin", "es": "Sí, este año. Soy de España." },
+        { "who": "Ashley", "en": "Cool! Would you like to play with us?", "say": "kúul! wúyə láik tə pléi wid əs?", "es": "¡Qué guay! ¿Quieres jugar con nosotras?" },
+        { "who": "Mario", "en": "Sure! Could you tell me the rules?", "say": "shúr! kúyə tél mi də rúuls?", "es": "¡Claro! ¿Me dices las reglas?" },
+        { "who": "Ashley", "en": "It's tag. Gotcha! You're it!", "say": "its tǽg. gáchə! iər ít!", "es": "Es el pilla-pilla. ¡Te pillé! ¡Te la quedas!" },
+        { "who": "Mario", "en": "OK! Watch out, I'll get you!", "say": "óukéi! wách áut, ail guéchu!", "es": "¡Vale! ¡Cuidado, que te pillo!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        { "es": "Di las dos palabras despacio y separadas: «did… you», «meet… you».", "en": "Say both words slowly." },
+        { "es": "Acércalas <b>sin pausa</b> hasta que se toquen: «didyou», «meetyou».", "en": "Bring them together with no pause." },
+        { "es": "Deja que la lengua haga el resto: t + i = <b>ch</b>, d + i = <b>y</b>, s + i = <b>sh</b>.", "en": "Let your tongue melt them." },
+        { "es": "Pasa a frases enteras: <code>náis tə míichu</code>, <code>díyə síi dǽt?</code>", "en": "Practice whole phrases." },
+        { "es": "Escanea los QR, escucha y <b>grábate</b>. ¡Compara tu <code>díyu</code> con el de los vídeos!", "en": "Scan the QR codes, listen and record yourself." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "Gotcha! I'll miss you, I'll kiss you, I'll meet you this year!", "say": "gáchə! ail míshu, ail kíshu, ail míichu di shír!", "es": "¡Te pillé! Te echaré de menos, te daré un beso, ¡te veré este año!" },
+        { "en": "Would you? Could you? Did you? Yes, I would, I could, I did!", "say": "wúyu? kúyu? díyu? iés, ai wúd, ai kúd, ai díd!", "es": "¿Lo harías? ¿Podrías? ¿Lo hiciste? ¡Sí, sí y sí!" },
+        { "en": "What do you want? Don't you know? I bet you don't!", "say": "wárəiə wánt? dóunchə nóu? ai béchə dóunt!", "es": "¿Qué quieres? ¿No lo sabes? ¡Apuesto a que no!" }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del helado",
+      "title_en": "The ice cream trick",
+      "es": "Imagina dos helados al sol 🍦🍦: si la primera palabra acaba en <b>T, D, S o Z</b> y la segunda empieza por <b>you</b>, se derriten juntas 🫠. Y si un americano te dice <code>yíit?</code>, no ha estornudado: ¡te pregunta si has comido (Did you eat?)!",
+      "en": "Picture two ice creams melting in the sun: T, D, S or Z + you melt together."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Qué sonido sale?",
+      "title_en": "Which sound comes out?",
+      "icon": "🔍",
+      "es": "Di la frase rápido y rodea el sonido que nace al fundirse.",
+      "en": "Say it fast and circle the new sound.",
+      "items": [
+        { "q": "got you → [ch|y|sh]", "a": "ch" },
+        { "q": "did you → [ch|y|sh]", "a": "y" },
+        { "q": "miss you → [ch|y|sh]", "a": "sh" },
+        { "q": "meet you → [ch|y|sh]", "a": "ch" },
+        { "q": "would you → [ch|y|sh]", "a": "y" },
+        { "q": "this year → [ch|y|sh]", "a": "sh" },
+        { "q": "last year → [ch|y|sh]", "a": "ch" },
+        { "q": "could you → [ch|y|sh]", "a": "y" },
+        { "q": "bless you → [ch|y|sh]", "a": "sh" },
+        { "q": "don't you → [ch|y|sh]", "a": "ch" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Se funde o no?",
+      "title_en": "Does it melt?",
+      "icon": "🫠",
+      "es": "¿Estas dos palabras se funden? Recuerda: solo T, D, S y Z.",
+      "en": "Do these words melt? Only T, D, S and Z do.",
+      "items": [
+        { "q": "got you → [sí|no]", "a": "sí" },
+        { "q": "thank you → [sí|no]", "a": "no" },
+        { "q": "did you → [sí|no]", "a": "sí" },
+        { "q": "see you → [sí|no]", "a": "no" },
+        { "q": "love you → [sí|no]", "a": "no" },
+        { "q": "miss you → [sí|no]", "a": "sí" },
+        { "q": "tell you → [sí|no]", "a": "no" },
+        { "q": "meet you → [sí|no]", "a": "sí" },
+        { "q": "can you → [sí|no]", "a": "no" },
+        { "q": "as you → [sí|no]", "a": "sí" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort them",
+      "icon": "🗂️",
+      "es": "Di cada frase rápido y escríbela en la columna de su sonido.",
+      "en": "Say each phrase fast and sort it by sound.",
+      "cats": [
+        { "name": "🚂 ch /tʃ/", "words": ["got you", "meet you", "last year", "what's your"] },
+        { "name": "🥋 y fuerte /dʒ/", "words": ["did you", "would you", "could you", "need you"] },
+        { "name": "🤫 sh /ʃ/", "words": ["miss you", "bless you", "this year", "kiss you"] },
+        { "name": "🐝 y suave /ʒ/", "words": ["as you", "how's your", "close your", "where's your"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada frase con su sonido",
+      "title_en": "Match phrase and sound",
+      "icon": "🔗",
+      "es": "Une la frase escrita con su pronunciación figurada.",
+      "en": "Match each phrase with how it sounds.",
+      "pairs": [
+        ["got you", "<code>gáchə</code>"],
+        ["did you", "<code>díyu</code>"],
+        ["meet you", "<code>míichu</code>"],
+        ["miss you", "<code>míshu</code>"],
+        ["what do you", "<code>wárəiə</code>"],
+        ["don't you", "<code>dóunchə</code>"],
+        ["this year", "<code>di shír</code>"],
+        ["how's your", "<code>jáuyer</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada fundiendo las dos palabras. Pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each phrase sounds when it melts.",
+      "items": [
+        { "q": "🙏 could you → ____", "a": "kúyu" },
+        { "q": "🫵 got you → ____", "a": "gáchə" },
+        { "q": "🤝 meet you → ____", "a": "míichu" },
+        { "q": "🥺 miss you → ____", "a": "míshu" },
+        { "q": "🙋 did you → ____", "a": "díyu" },
+        { "q": "📆 this year → ____", "a": "di shír" },
+        { "q": "📅 last year → ____", "a": "læs chír" },
+        { "q": "🤔 don't you → ____", "a": "dóunchə" },
+        { "q": "🤧 bless you → ____", "a": "bléshu" },
+        { "q": "👩 how's your → ____", "a": "jáuyer" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos: la frase, cómo suena o qué significa.",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Suena", "Español"],
+      "rows": [
+        ["Nice to meet you.", "?náis tə míichu", "Encantado."],
+        ["Did you see that?", "díyə síi dǽt?", "?¿Has visto eso?"],
+        ["?Got you! / Gotcha!", "gáchə!", "¡Te pillé!"],
+        ["I miss you.", "?ai míshu", "Te echo de menos."],
+        ["What's your name?", "wácher néim?", "?¿Cómo te llamas?"],
+        ["?this year", "di shír", "este año"],
+        ["Could you help me?", "?kúyə jélp mi?", "¿Me ayudas?"],
+        ["Bless you!", "bléshu!", "?¡Jesús!"],
+        ["How's your mom?", "?jáuyer mám?", "¿Qué tal tu madre?"],
+        ["last year", "?læs chír", "el año pasado"]
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "In fast speech, «did you» can sound like «díyu».", "a": true },
+        { "q": "«Thank you» sounds like «zǽnchu».", "a": false, "why": "la K no se funde: zǽnkiu" },
+        { "q": "«Gotcha» is a short way of saying «got you».", "a": true },
+        { "q": "Only T, D, S and Z melt with «you».", "a": true },
+        { "q": "Saying «did you» slowly is wrong.", "a": false, "why": "despacio también es correcto" },
+        { "q": "«This year» can sound like «di shír».", "a": true },
+        { "q": "«See you» sounds like «síichu».", "a": false, "why": "no hay T: síi iu" },
+        { "q": "You should write «gotcha» in your English exam.", "a": false, "why": "se dice, pero en un examen se escribe got you" },
+        { "q": "«Nice to meet you» can sound like «náis tə míichu».", "a": true },
+        { "q": "«Did you» and «miss you» melt into the same sound.", "a": false, "why": "did you → y (díyu); miss you → sh (míshu)" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe la frase como suena",
+      "title_en": "Write the phrase as it sounds",
+      "icon": "🔗",
+      "es": "Escribe cómo suena la frase entera, fundiendo lo que se funde.",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        { "q": "Nice to meet you.", "a": "náis tə míichu" },
+        { "q": "Where did you go?", "a": "wér díyə góu?" },
+        { "q": "What do you think?", "a": "wárəiə zínk?" },
+        { "q": "I told you!", "a": "ai tóulyu!" },
+        { "q": "Close your eyes.", "a": "klóuyer áis" },
+        { "q": "Got you!", "a": "gáchə!" },
+        { "q": "What about you?", "a": "wárəbáuchu?" },
+        { "q": "It's not your fault.", "a": "its nácher fólt" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "meet you → <code>mítiu</code>", "a": "míichu" },
+        { "q": "thank you → <code>zǽnchu</code>", "a": "zǽnkiu (la K no se funde)" },
+        { "q": "this year → <code>dis chír</code>", "a": "di shír (S + y = sh)" },
+        { "q": "did you → <code>díshu</code>", "a": "díyu (D + you = y)" },
+        { "q": "got you → <code>góchu</code>", "a": "gáchə" },
+        { "q": "miss you → <code>míchu</code>", "a": "míshu (S + you = sh)" },
+        { "q": "see you → <code>síichu</code>", "a": "síi iu (no hay T)" },
+        { "q": "would you → <code>wúchu</code>", "a": "wúyu (la D da y, no ch)" }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧩",
+      "es": "Ordena las palabras. Después dila en voz alta fundiendo lo que se funde.",
+      "en": "Put the words in order and say it aloud.",
+      "items": [
+        { "q": "meet / to / Nice / you", "a": "Nice to meet you" },
+        { "q": "you / did / Where / go", "a": "Where did you go" },
+        { "q": "your / What's / name", "a": "What's your name" },
+        { "q": "me / you / help / Could", "a": "Could you help me" },
+        { "q": "miss / I'll / you", "a": "I'll miss you" },
+        { "q": "know / As / you", "a": "As you know" },
+        { "q": "eyes / your / Close", "a": "Close your eyes" },
+        { "q": "this / to / We're / year / going / Texas", "a": "We're going to Texas this year" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez. ¡En la tercera, que se fundan!",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "Nice to meet you!", "say": "náis tə míichu!" },
+        { "q": "Gotcha!", "say": "gáchə!" },
+        { "q": "Did you eat?", "say": "díyə íit?" },
+        { "q": "Bless you!", "say": "bléshu!" },
+        { "q": "What do you want?", "say": "wárəiə wánt?" },
+        { "q": "I'll let you know.", "say": "ail léchə nóu" },
+        { "q": "Don't you love it?", "say": "dóunchə lávit?" },
+        { "q": "Raise your hand.", "say": "réiyer jǽnd" },
+        { "q": "Last year I was in Texas.", "say": "læs chír ai wəs in téksəs" },
+        { "q": "I bet you can't do it!", "say": "ai béchə kǽn' dúu it!" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta, fundiendo los sonidos.",
+      "en": "Translate into English and say it with melting.",
+      "items": [
+        { "q": "Encantado de conocerte.", "a": "Nice to meet you. (náis tə míichu)" },
+        { "q": "¿Has visto eso?", "a": "Did you see that? (díyə síi dǽt?)" },
+        { "q": "¡Te pillé!", "a": "Gotcha! / Got you! (gáchə!)" },
+        { "q": "Te echo de menos.", "a": "I miss you. (ai míshu)" },
+        { "q": "este año", "a": "this year (di shír)" },
+        { "q": "el año pasado", "a": "last year (læs chír)" },
+        { "q": "¿Cómo te llamas?", "a": "What's your name? (wácher néim?)" },
+        { "q": "¿Me ayudas?", "a": "Could you help me? (kúyə jélp mi?)" },
+        { "q": "¡Jesús! (al estornudar)", "a": "Bless you! (bléshu!)" },
+        { "q": "Ya te digo (te aviso).", "a": "I'll let you know. (ail léchə nóu)" }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza los fundidos",
+      "title_en": "Read and find the melted sounds",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Mario's first day",
+      "text": [
+        "On his first day at school, Mario met Ashley. “Hi! What's your name?” she asked. “I'm Mario. Nice to meet you!” he said.",
+        "“Did you just move here?” “Yes, this year.” Then Ashley smiled: “Would you like to play tag? Gotcha! You're it!”"
+      ],
+      "items": [
+        { "q": "How does «What's your name?» sound?", "a": "<code>wácher néim?</code>" },
+        { "q": "Find two phrases with T + you or your in the text.", "a": "What's your, meet you, gotcha (got you)" },
+        { "q": "How does «this year» sound?", "a": "<code>di shír</code>" },
+        { "q": "Mario met Jenny on his first day.", "tf": true, "a": false, "why": "conoció a Ashley" },
+        { "q": "In «Did you just move here?», «did you» can sound like «díyə».", "tf": true, "a": true },
+        { "q": "«Would you» sounds like «wúchu».", "tf": true, "a": false, "why": "D + you = y: wúyə" }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de fundidos",
+      "title_en": "Melted word search",
+      "icon": "🔎",
+      "es": "Busca 8 formas «fundidas», tal como se escriben en cómics y chats. Di en voz alta cada una.",
+      "en": "Find 8 melted forms and say each one aloud.",
+      "words": ["gotcha", "betcha", "doncha", "didja", "wouldja", "couldja", "whaddaya", "meetcha"],
+      "clues": [
+        "gotcha · got you",
+        "betcha · bet you",
+        "doncha · don't you",
+        "didja · did you",
+        "wouldja · would you",
+        "couldja · could you",
+        "whaddaya · what do you",
+        "meetcha · meet you"
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases. Léelas en voz alta fundiendo los sonidos y grábate.",
+      "en": "Write your own sentences, read them aloud and record yourself.",
+      "items": [
+        { "q": "Preséntate con «Nice to meet you» y pregunta el nombre a alguien.", "lines": 2, "a": "Ej.: Hi, I'm Lucía. Nice to meet you! What's your name?" },
+        { "q": "Escribe una pregunta con «Did you…?» o «Could you…?».", "lines": 2, "a": "Ej.: Did you see the game? / Could you help me?" },
+        { "q": "Escribe algo que vas a hacer «this year».", "lines": 2, "a": "Ej.: This year I'm going to learn to swim." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé que <b>T, D, S y Z</b> se funden con <b>you</b>: did you = <code>díyu</code>.", "en": "I know T, D, S and Z melt with you." },
+    { "es": "Digo <code>náis tə míichu</code> sin parar entre palabras.", "en": "I can say Nice to meet you smoothly." },
+    { "es": "Entiendo gotcha, doncha, didja y whaddaya cuando los oigo.", "en": "I understand gotcha, doncha, didja and whaddaya." },
+    { "es": "Sé decir <code>di shír</code> y <code>læs chír</code>.", "en": "I can say this year and last year." },
+    { "es": "Sé que thank you, see you y love you <b>no</b> se funden.", "en": "I know which phrases don't melt." },
+    { "es": "Puedo leer el trabalenguas «Would you? Could you? Did you?».", "en": "I can say the «Would you? Could you?» tongue twister." }
+  ]
+}

@@ -1,0 +1,920 @@
+{
+  "id": "V-04",
+  "block": "V",
+  "title": "LA U QUE SUENA <em>A</em>",
+  "file_title": "La U que suena A",
+  "subtitle": "The cup vowel · una a corta y floja",
+  "icon": "☕",
+  "map": {
+    "center": "La /ʌ/ es una <b>a corta y floja</b>, como la nuestra pero más rápida. Ojo: se escribe con <b>U</b> u <b>O</b>: cup = <code>kap</code>.",
+    "listen": "cup",
+    "nodes": [
+      {
+        "title": "¿Cómo suena?",
+        "icon": "👂",
+        "color": "green",
+        "items": [
+          "una <b>a</b> española, <b>cortita</b>",
+          "boca medio abierta y <b>floja</b>",
+          "¡tu «a» te ayuda!"
+        ]
+      },
+      {
+        "title": "Escrita con U",
+        "icon": "☂️",
+        "color": "blue",
+        "rows": [
+          ["cup", "<code>kap</code>"],
+          ["bus", "<code>bas</code>"],
+          ["fun", "<code>fan</code>"]
+        ]
+      },
+      {
+        "title": "Escrita con O",
+        "icon": "💕",
+        "color": "purple",
+        "rows": [
+          ["love", "<code>lav</code>"],
+          ["money", "<code>máni</code>"],
+          ["mother", "<code>máder</code>"]
+        ]
+      },
+      {
+        "title": "Con OU, OO, OE",
+        "icon": "🔤",
+        "color": "orange",
+        "rows": [
+          ["young", "<code>iang</code>"],
+          ["blood", "<code>blad</code>"],
+          ["does", "<code>das</code>"]
+        ]
+      },
+      {
+        "title": "cap · cup · cop",
+        "icon": "⚖️",
+        "color": "pink",
+        "rows": [
+          ["cap", "<code>kæp</code> gorra"],
+          ["cup", "<code>kap</code> taza"],
+          ["cop", "<code>kap</code> poli"]
+        ],
+        "after": "cup, cortita; cop, muy abierta (V-05)"
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "En love, son, bus o money, ¡no leas u ni o! Di una <b>a cortita</b>: <code>lav</code>, <code>san</code>.",
+        "art": "☂️"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["cup → <code>kup</code> (u española)"],
+      "good": ["<code>kap</code> ☕"],
+      "note": "Con u española, cup suena a coop (gallinero) 🐔"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "☕ cup → ____", "a": "kap" },
+        { "q": "🚌 bus → ____", "a": "bas" },
+        { "q": "💕 love → ____", "a": "lav" },
+        { "q": "💰 money → ____", "a": "máni" },
+        { "q": "📅 Monday → ____", "a": "mándei" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la /ʌ/?",
+      "title_en": "What is /ʌ/?",
+      "icon": "🔎",
+      "es": "¡Buena noticia! El inglés tiene una vocal muy parecida a nuestra <b>a</b>: la /ʌ/ de <b>cup</b> (taza). Es una a <b>corta, floja y rápida</b>, con la boca a medio abrir. ¿La trampa? Que <mark>casi nunca se escribe con A</mark>: se escribe con <b>U</b> (bus, fun), con <b>O</b> (love, money, mother) y a veces con OU u OO (young, blood). Si lees como se escribe, dirás «bus» y «lov»… y no te entenderán.",
+      "en": "/ʌ/ is a short, relaxed «a», very close to the Spanish «a». The trick: it's usually spelled with U or O: cup, bus, love, money.",
+      "formula": [
+        "c + *U* + p → k*a*p",
+        "l + *O* + ve → l*a*v"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "jaw",
+          "es": "<b>Medio abierta</b>: un poco menos que para la a española.",
+          "en": "Half open, a little less than for a Spanish «a»."
+        },
+        {
+          "part": "lips",
+          "es": "<b>Relajados</b>: ni sonrisa (eso sería /æ/) ni morritos (eso sería u).",
+          "en": "Relaxed: no smile, no rounding."
+        },
+        {
+          "part": "tongue",
+          "es": "En el <b>centro</b> de la boca, un pelín más atrás que en nuestra a, sin fuerza.",
+          "en": "In the middle of the mouth, relaxed."
+        },
+        {
+          "part": "voice",
+          "es": "<b>Cortita y seca</b>, como el «¡ah!» de un pequeño susto.",
+          "en": "Short and quick, like a little «uh!» of surprise."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Una a cortita",
+      "title_en": "A short «a»",
+      "icon": "☕",
+      "es": "Para ti es fácil: di una <b>a</b> muy cortita y relajada, sin abrir mucho la boca. Es la hermana <b>fuerte</b> de la schwa (V-01): la schwa vive en las sílabas débiles y la /ʌ/, en las fuertes. En <b>above</b> tienes las dos: <code>əbáv</code>.",
+      "en": "Say a very short, relaxed Spanish «a». It's the stressed sister of the schwa: above has both.",
+      "examples": [
+        { "en": "cup", "say": "kap", "es": "taza", "icon": "☕" },
+        { "en": "sun", "say": "san", "es": "sol", "icon": "☀️" },
+        { "en": "above", "say": "əbáv", "es": "encima", "icon": "⬆️" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Escrita con U",
+      "title_en": "Spelled with U",
+      "icon": "☂️",
+      "es": "Una <b>U</b> seguida de consonante en la sílaba fuerte suele sonar /ʌ/: c<b>u</b>p, b<b>u</b>s, f<b>u</b>n, l<b>u</b>nch. <mark>¡No la digas como una u española!</mark>",
+      "en": "A U followed by a consonant in a stressed syllable usually sounds /ʌ/.",
+      "examples": [
+        { "en": "bus", "say": "bas", "es": "autobús", "icon": "🚌" },
+        { "en": "fun", "say": "fan", "es": "diversión", "icon": "🎉" },
+        { "en": "lunch", "say": "lanch", "es": "comida", "icon": "🥪" },
+        { "en": "duck", "say": "dak", "es": "pato", "icon": "🦆" },
+        { "en": "jump", "say": "yamp", "es": "saltar", "icon": "🦘" },
+        { "en": "hungry", "say": "jángri", "es": "con hambre", "icon": "😋" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Escrita con O",
+      "title_en": "Spelled with O",
+      "icon": "💕",
+      "es": "Aquí está la gran trampa: muchas palabras con <b>O</b> suenan /ʌ/, sobre todo con <b>m, n, v</b> o <b>th</b> cerca: c<b>o</b>me, s<b>o</b>n, l<b>o</b>ve, m<b>o</b>ther, M<b>o</b>nday, m<b>o</b>ney. Apréndetelas bien: están entre las palabras más usadas del inglés.",
+      "en": "Many common words with O sound /ʌ/, especially near m, n, v or th: come, son, love, mother.",
+      "examples": [
+        { "en": "love", "say": "lav", "es": "amor; encantar", "icon": "💕" },
+        { "en": "mother", "say": "máder", "es": "madre", "icon": "👩" },
+        { "en": "son", "say": "san", "es": "hijo", "icon": "👦" },
+        { "en": "come", "say": "kam", "es": "venir", "icon": "👋" },
+        { "en": "money", "say": "máni", "es": "dinero", "icon": "💰" },
+        { "en": "Monday", "say": "mándei", "es": "lunes", "icon": "📅" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Con OU, OO y OE",
+      "title_en": "Spelled OU, OO, OE",
+      "icon": "🔤",
+      "es": "Pocas, pero muy comunes: <b>ou</b> (young, country, touch, cousin), <b>oo</b> (blood, flood) y <b>oe</b> (does). Aquí no hay pista que valga: ¡hay que aprendérselas de memoria!",
+      "en": "A few common words are spelled OU, OO or OE: young, country, blood, does.",
+      "examples": [
+        { "en": "young", "say": "iang", "es": "joven", "icon": "🧒" },
+        { "en": "country", "say": "kántri", "es": "país; campo", "icon": "🏞️" },
+        { "en": "touch", "say": "tach", "es": "tocar", "icon": "👆" },
+        { "en": "cousin", "say": "kásən", "es": "primo, prima", "icon": "👫" },
+        { "en": "blood", "say": "blad", "es": "sangre", "icon": "🩸" },
+        { "en": "does", "say": "das", "es": "hace (él, ella)", "icon": "❓" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "cup",
+          "ipa": "kʌp",
+          "say": "kap",
+          "es": "taza",
+          "icon": "☕",
+          "anchor": "<b>cap</b>a 🦸",
+          "tip": "«Capa» sin la a final: kap. ¡Un superhéroe tomando una taza!"
+        },
+        {
+          "en": "bus",
+          "ipa": "bʌs",
+          "say": "bas",
+          "es": "autobús",
+          "icon": "🚌",
+          "anchor": "¡<b>bas</b>ta! ✋",
+          "tip": "«¡Basta!» sin el -ta: bas. ¡Basta de esperar el bus!"
+        },
+        {
+          "en": "fun",
+          "ipa": "fʌn",
+          "say": "fan",
+          "es": "diversión",
+          "icon": "🎉",
+          "anchor": "soy <b>fan</b> 🤩",
+          "tip": "¡El «fan» español suena justo como fun! (El fan inglés lleva /æ/: V-03.)"
+        },
+        {
+          "en": "love",
+          "ipa": "lʌv",
+          "say": "lav",
+          "es": "amor; encantar",
+          "icon": "💕",
+          "anchor": "<b>lav</b>a 🌋",
+          "tip": "«Lava» sin la a final y con v de verdad (C-07): lav. ¡Un amor ardiente!"
+        },
+        {
+          "en": "mother",
+          "ipa": "ˈmʌðɚ",
+          "say": "máder",
+          "es": "madre",
+          "icon": "👩",
+          "anchor": "<b>ma</b>dre → <b>má</b>der",
+          "tip": "¡Casi la misma palabra! Cambia «-dre» por «-der», con d suave (C-05) y r americana."
+        },
+        {
+          "en": "come",
+          "ipa": "kʌm",
+          "say": "kam",
+          "es": "venir",
+          "icon": "👋",
+          "anchor": "<b>cam</b>a 🛏️",
+          "tip": "«Cama» sin la a final: kam. «Come to bed!» = ¡ven a la cama!"
+        },
+        {
+          "en": "son",
+          "ipa": "sʌn",
+          "say": "san",
+          "es": "hijo",
+          "icon": "👦",
+          "anchor": "<b>san</b>to 😇",
+          "tip": "«Santo» sin el -to: san. ¡Y sun (sol) suena igual!"
+        },
+        {
+          "en": "one",
+          "ipa": "wʌn",
+          "say": "wan",
+          "es": "uno",
+          "icon": "☝️",
+          "anchor": "g<b>uan</b>te 🧤",
+          "tip": "Dentro de «guante» está «uan»: one. ¡Nada de leer «on»!"
+        },
+        {
+          "en": "does",
+          "ipa": "dʌz",
+          "say": "das",
+          "es": "hace (él, ella)",
+          "icon": "❓",
+          "anchor": "tú <b>das</b> 🎁",
+          "tip": "Igual que «das» (de dar), con una s que zumba (C-08)."
+        },
+        {
+          "en": "lunch",
+          "ipa": "lʌntʃ",
+          "say": "lanch",
+          "es": "comida, almuerzo",
+          "icon": "🥪",
+          "anchor": "<b>lanch</b>a 🚤",
+          "tip": "«Lancha» sin la a final: lanch. ¡A comer en la lancha!"
+        },
+        {
+          "en": "much",
+          "ipa": "mʌtʃ",
+          "say": "mach",
+          "es": "mucho",
+          "icon": "💯",
+          "anchor": "<b>Mach</b>u Picchu ⛰️",
+          "tip": "«Machu» sin la u: mach. «Thank you very much!»"
+        },
+        {
+          "en": "uncle",
+          "ipa": "ˈʌŋkəl",
+          "say": "ánkəl",
+          "es": "tío",
+          "icon": "👨",
+          "anchor": "<b>an</b>cla ⚓",
+          "tip": "«Ancla» con el final flojo: ÁN-kəl. (Ojo: ankle, con /æ/, es tobillo.)"
+        },
+        {
+          "en": "nothing",
+          "ipa": "ˈnʌθɪŋ",
+          "say": "názing",
+          "es": "nada",
+          "icon": "🤷",
+          "anchor": "<b>na</b>da → <b>ná</b>zing",
+          "tip": "Empieza como «nada» ¡y significa lo mismo! Con la z de «zapato» (C-04)."
+        },
+        {
+          "en": "young",
+          "ipa": "jʌŋ",
+          "say": "iang",
+          "es": "joven",
+          "icon": "🧒",
+          "anchor": "el yin y el <b>yang</b> ☯️",
+          "tip": "Casi: con una y suave, como una i, y sin pronunciar la g: iang."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "cup", "es": "taza" },
+        { "q": "love", "es": "amor" },
+        { "q": "money", "es": "dinero" },
+        { "q": "mother", "es": "madre" },
+        { "q": "Monday", "es": "lunes" },
+        { "q": "come on", "es": "¡vamos!" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Cómo se escribe la /ʌ/?",
+      "title_en": "How is /ʌ/ spelled?",
+      "icon": "🧭",
+      "head": ["Letras", "Ejemplos", "Suena"],
+      "rows": [
+        ["<b>u</b>", "cup, bus, fun, lunch, summer", "<code>kap, bas, fan, lanch, sámer</code>"],
+        ["<b>o</b> (+ m, n, v)", "come, some, son, one, love, money", "<code>kam, sam, san, wan, lav, máni</code>"],
+        ["<b>o</b> (+ th)", "mother, brother, other, nothing, month", "<code>máder, bráder, áder, názing, manz</code>"],
+        ["<b>ou</b>", "young, country, touch, cousin, double", "<code>iang, kántri, tach, kásən, dábəl</code>"],
+        ["<b>oo</b>", "blood, flood", "<code>blad, flad</code>"],
+        ["<b>oe</b>", "does", "<code>das</code>"]
+      ],
+      "note": "¡Ojo! No todas las U y O suenan /ʌ/: put (V-06), hot (V-05), go (V-08), cute (V-06). Las de esta tabla, apréndetelas de memoria.",
+      "note_en": "Careful! Not every U or O sounds /ʌ/: put, hot, go, cute. Learn the words in this table by heart."
+    },
+    {
+      "t": "compare",
+      "title": "cap · cup · cop",
+      "title_en": "Three «a» sounds",
+      "icon": "⚖️",
+      "es": "Tres vocales que a ti te suenan a «a» (/æ/ en V-03, /ɑ/ en V-05). En la figurada, cup y cop llevan la misma <code>a</code>: <b>la diferencia está en la boca</b>.",
+      "en": "Three vowels that all sound like «a» to Spanish ears. The difference is in the mouth.",
+      "cols": [
+        {
+          "head": "🧢 cap /æ/",
+          "color": "green",
+          "items": [
+            "a con boca de e",
+            "sonrisa abierta",
+            "<code>kæp</code> = gorra"
+          ]
+        },
+        {
+          "head": "☕ cup /ʌ/",
+          "color": "blue",
+          "items": [
+            "a española cortita",
+            "boca floja",
+            "<code>kap</code> = taza"
+          ]
+        },
+        {
+          "head": "👮 cop /ɑ/",
+          "color": "purple",
+          "items": [
+            "a abierta y larga",
+            "boca de dentista",
+            "<code>kap</code> = poli"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "A de cat vs. A de cup",
+      "title_en": "/æ/ vs. /ʌ/",
+      "icon": "👂",
+      "items": [
+        {
+          "a": { "en": "cap", "ipa": "kæp", "say": "kæp", "es": "gorra", "icon": "🧢" },
+          "b": { "en": "cup", "ipa": "kʌp", "say": "kap", "es": "taza", "icon": "☕" },
+          "tip": "Gorra con sonrisa (/æ/); taza con a cortita."
+        },
+        {
+          "a": { "en": "fan", "ipa": "fæn", "say": "fæn", "es": "fan; ventilador", "icon": "🤩" },
+          "b": { "en": "fun", "ipa": "fʌn", "say": "fan", "es": "diversión", "icon": "🎉" },
+          "tip": "El «fan» español suena a fun. El fan inglés necesita sonrisa."
+        },
+        {
+          "a": { "en": "ran", "ipa": "ræn", "say": "ræn", "es": "corrió", "icon": "🏁" },
+          "b": { "en": "run", "ipa": "rʌn", "say": "ran", "es": "correr", "icon": "🏃" },
+          "tip": "¡El pasado cambia la vocal! Run (ahora) → ran (ayer)."
+        },
+        {
+          "a": { "en": "bag", "ipa": "bæɡ", "say": "bæg", "es": "bolsa", "icon": "👜" },
+          "b": { "en": "bug", "ipa": "bʌɡ", "say": "bag", "es": "bicho", "icon": "🐛" },
+          "tip": "¡Ojo! La figurada de bug es «bag»… pero la palabra bag se dice <code>bæg</code>."
+        },
+        {
+          "a": { "en": "hat", "ipa": "hæt", "say": "jæt", "es": "sombrero", "icon": "🎩" },
+          "b": { "en": "hut", "ipa": "hʌt", "say": "jat", "es": "cabaña", "icon": "🛖" },
+          "tip": "Un sombrero en una cabaña: <code>ə jæt in ə jat</code>."
+        },
+        {
+          "a": { "en": "ankle", "ipa": "ˈæŋkəl", "say": "ǽnkəl", "es": "tobillo", "icon": "🦶" },
+          "b": { "en": "uncle", "ipa": "ˈʌŋkəl", "say": "ánkəl", "es": "tío", "icon": "👨" },
+          "tip": "«Me duele el tobillo», no «me duele mi tío». 😄"
+        },
+        {
+          "a": { "en": "cat", "ipa": "kæt", "say": "kæt", "es": "gato", "icon": "🐱" },
+          "b": { "en": "cut", "ipa": "kʌt", "say": "kat", "es": "cortar", "icon": "✂️" },
+          "tip": "Si dices cat con a española, ¡suena a cortar!"
+        },
+        {
+          "a": { "en": "match", "ipa": "mætʃ", "say": "mæch", "es": "partido; cerilla", "icon": "🎾" },
+          "b": { "en": "much", "ipa": "mʌtʃ", "say": "mach", "es": "mucho", "icon": "💯" },
+          "tip": "«Thank you very much», nunca «very match»."
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "title": "La /ʌ/ lleva el golpe",
+      "title_en": "/ʌ/ in the stressed syllable",
+      "icon": "🥁",
+      "es": "La /ʌ/ va en la sílaba fuerte (●). Fíjate en <b>above</b>: schwa en la débil y /ʌ/ en la fuerte.",
+      "en": "/ʌ/ is in the stressed syllable. Above has a schwa and a /ʌ/.",
+      "items": [
+        { "syl": ["mon", "ey"], "s": 0, "say": "máni", "es": "dinero" },
+        { "syl": ["moth", "er"], "s": 0, "say": "máder", "es": "madre" },
+        { "syl": ["broth", "er"], "s": 0, "say": "bráder", "es": "hermano" },
+        { "syl": ["coun", "try"], "s": 0, "say": "kántri", "es": "país" },
+        { "syl": ["Mon", "day"], "s": 0, "say": "mándei", "es": "lunes" },
+        { "syl": ["Lon", "don"], "s": 0, "say": "lándən", "es": "Londres" },
+        { "syl": ["a", "bove"], "s": 1, "say": "əbáv", "es": "encima" },
+        { "syl": ["won", "der", "ful"], "s": 0, "say": "wánderfəl", "es": "maravilloso" }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "Come on!", "spoken": "C'MON!", "say": "kamán", "es": "¡Vamos! / ¡Venga ya!" },
+        { "written": "What's up?", "spoken": "Whats-UP?", "say": "watsáp", "es": "¿Qué pasa? / ¿Qué tal?" },
+        { "written": "Shut up!", "spoken": "Shuh-DUP!", "say": "sharáp", "es": "¡Calla! / ¡No me digas!" },
+        { "written": "Good luck!", "spoken": "Good LUCK!", "say": "gud lák", "es": "¡Buena suerte!" },
+        { "written": "I love you.", "spoken": "I LUV-ya.", "say": "ai láviə", "es": "Te quiero." },
+        { "written": "Hurry up!", "spoken": "Hurry-UP!", "say": "jériáp", "es": "¡Date prisa!" }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "I love my mother.", "say": "ai lav mai máder", "es": "Quiero a mi madre.", "icon": "👩" },
+        { "en": "My brother is funny.", "say": "mai bráder is fáni", "es": "Mi hermano es gracioso.", "icon": "😂" },
+        { "en": "Let's take the bus on Monday.", "say": "lets téik də bas an mándei", "es": "Cojamos el autobús el lunes.", "icon": "🚌" },
+        { "en": "Come and have some fun!", "say": "kam ən jæv səm fan!", "es": "¡Ven a divertirte!", "icon": "🎉" },
+        { "en": "I need some money.", "say": "ai niid səm máni", "es": "Necesito algo de dinero.", "icon": "💰" },
+        { "en": "My uncle has a truck.", "say": "mai ánkəl jæs ə trak", "es": "Mi tío tiene un camión.", "icon": "🚚" },
+        { "en": "A cup of tea, please.", "say": "ə kápə tii, pliis", "es": "Una taza de té, por favor.", "icon": "☕" },
+        { "en": "We have lunch at one.", "say": "wi jæv lanch ət wan", "es": "Comemos a la una.", "icon": "🥪" },
+        { "en": "Thank you very much!", "say": "zǽnkiu véri mach!", "es": "¡Muchas gracias!", "icon": "🙏" },
+        { "en": "The sun is up.", "say": "də san is ap", "es": "Ha salido el sol.", "icon": "☀️" },
+        { "en": "Does your cousin live in London?", "say": "das ior kásən liv in lándən?", "es": "¿Tu primo vive en Londres?", "icon": "🇬🇧" },
+        { "en": "I'm hungry! Is lunch done?", "say": "aim jángri! is lanch dan?", "es": "¡Tengo hambre! ¿Está la comida?", "icon": "😋" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "cup → <code>kup</code> (u española)",
+          "good": "<code>kap</code> ☕",
+          "why": "Con u española suena a coop (gallinero) 🐔.",
+          "why_en": "With a Spanish «u», it sounds like «coop»."
+        },
+        {
+          "bad": "bus → <code>bus</code>",
+          "good": "<code>bas</code> 🚌",
+          "why": "La U de bus suena a: corta y floja.",
+          "why_en": "The U in bus sounds like a short «a»."
+        },
+        {
+          "bad": "love → <code>lob</code> / <code>lov</code>",
+          "good": "<code>lav</code> 💕",
+          "why": "Ni o ni b: a cortita y v de verdad (C-07).",
+          "why_en": "Not «o» and not «b»: /lʌv/."
+        },
+        {
+          "bad": "money → <code>móni</code>",
+          "good": "<code>máni</code> 💰",
+          "why": "La O de money suena a: MÁ-ni.",
+          "why_en": "The O in money sounds /ʌ/."
+        },
+        {
+          "bad": "Monday → <code>móndei</code>",
+          "good": "<code>mándei</code> 📅",
+          "why": "Los lunes también llevan /ʌ/: MÁN-dei.",
+          "why_en": "Monday has /ʌ/ too."
+        },
+        {
+          "bad": "one → <code>on</code>",
+          "good": "<code>wan</code> ☝️",
+          "why": "One suena «wan», con w delante. ¡Como «guante» sin g ni -te!",
+          "why_en": "One sounds like «won»: /wʌn/."
+        },
+        {
+          "bad": "does → <code>dous</code>",
+          "good": "<code>das</code>",
+          "why": "Does no rima con goes: suena «das».",
+          "why_en": "Does doesn't rhyme with goes."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¡Qué hambre!",
+      "title_en": "So hungry!",
+      "lines": [
+        { "who": "Tyler", "en": "Hey, Mario! What's up?", "say": "jei, mário! watsáp?", "es": "¡Eh, Mario! ¿Qué pasa?" },
+        { "who": "Mario", "en": "I'm hungry! Is it time for lunch?", "say": "aim jángri! ísit táim fer lanch?", "es": "¡Tengo hambre! ¿Es la hora de comer?" },
+        { "who": "Tyler", "en": "It's one o'clock. Come on, let's run!", "say": "its wan əklák. kamán, lets ran!", "es": "Es la una. ¡Venga, corramos!" },
+        { "who": "Mario", "en": "Run? I'm too hungry to run!", "say": "ran? aim tuu jángri tə ran!", "es": "¿Correr? ¡Tengo demasiada hambre para correr!" },
+        { "who": "Tyler", "en": "OK, let's take the bus. It's fun!", "say": "óukéi, lets téik də bas. its fan!", "es": "Vale, cojamos el autobús. ¡Es divertido!" },
+        { "who": "Mario", "en": "Do you have money for the bus?", "say": "du iu jæv máni fer də bas?", "es": "¿Tienes dinero para el autobús?" },
+        { "who": "Tyler", "en": "No, but my mother does!", "say": "nóu, bət mai máder das!", "es": "No, ¡pero mi madre sí!" },
+        { "who": "Mario", "en": "Great! Call your mom… and ask for some sandwiches!", "say": "gréit! kol ior mam… ən æsk fer səm sǽnwichis!", "es": "¡Genial! Llama a tu madre… ¡y pídele unos bocadillos!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarla en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di «a» en español y luego hazla <b>más corta</b> y con la boca menos abierta: «a!». Ese es el sonido.",
+          "en": "Say a Spanish «a», then make it shorter and more relaxed."
+        },
+        {
+          "es": "Lee la palabra y busca la U o la O de la sílaba fuerte: c<b>u</b>p, l<b>o</b>ve.",
+          "en": "Find the U or O in the stressed syllable."
+        },
+        {
+          "es": "Cámbiala por tu «a» cortita: <code>kap</code>, <code>lav</code>. ¡No leas u ni o!",
+          "en": "Replace it with your short «a»."
+        },
+        {
+          "es": "Repasa la familia de la O: love, son, come, some, money, mother, Monday.",
+          "en": "Practice the O family: love, son, come, some, money, mother, Monday."
+        },
+        {
+          "es": "Escanea los QR y <b>grábate</b> diciendo «A cup of tea, please».",
+          "en": "Scan the QR codes and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Mother's brother loves fun on Sunday.",
+          "say": "máders bráder lavs fan an sándei",
+          "es": "Al hermano de mamá le encanta divertirse los domingos."
+        },
+        {
+          "en": "A duck in a truck ate a bug for lunch.",
+          "say": "ə dak inə trak éirə bag fer lanch",
+          "es": "Un pato en un camión se comió un bicho para comer."
+        },
+        {
+          "en": "One young son, one funny uncle, one cup of honey.",
+          "say": "wan iang san, wan fáni ánkəl, wan kápə jáni",
+          "es": "Un hijo joven, un tío gracioso, una taza de miel."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de la capa",
+      "title_en": "The cape trick",
+      "es": "Imagina a tu superhéroe favorito con su <b>capa</b> 🦸 tomando una <b>taza</b> de chocolate: cup = <code>kap</code>. Cada vez que veas palabras como love, money, bus o son, acuérdate de la capa: ¡una <b>a cortita</b>, aunque se escriba U u O!",
+      "en": "Picture a superhero with a cape drinking from a cup: «capa» → kap. In words like love, money, bus or son, say a short «a»."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Cuál tiene /ʌ/?",
+      "title_en": "Which one has /ʌ/?",
+      "icon": "🔍",
+      "es": "Di las dos palabras y rodea la que tiene la a cortita de cup. ¡Cuidado con las trampas!",
+      "en": "Say both words and circle the one with the cup vowel.",
+      "items": [
+        { "q": "[cup|cap]", "a": "cup" },
+        { "q": "[love|move]", "a": "love" },
+        { "q": "[son|song]", "a": "son" },
+        { "q": "[come|home]", "a": "come" },
+        { "q": "[mother|motor]", "a": "mother" },
+        { "q": "[blood|food]", "a": "blood" },
+        { "q": "[does|goes]", "a": "does" },
+        { "q": "[run|ran]", "a": "run" },
+        { "q": "[cut|cute]", "a": "cut" },
+        { "q": "[bus|boot]", "a": "bus" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "☕ /ʌ/ como cup",
+          "words": ["bus", "fun", "love", "son", "money", "run", "duck", "much"]
+        },
+        {
+          "name": "🧢 /æ/ como cap",
+          "words": ["cat", "fan", "ran", "bag", "hat", "map", "black", "match"]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "¿Estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "Do they sound the same or different?",
+      "items": [
+        { "q": "son · sun → [igual|diferente]", "a": "igual" },
+        { "q": "one · won → [igual|diferente]", "a": "igual" },
+        { "q": "cup · cap → [igual|diferente]", "a": "diferente" },
+        { "q": "fun · fan → [igual|diferente]", "a": "diferente" },
+        { "q": "none · nun → [igual|diferente]", "a": "igual" },
+        { "q": "run · ran → [igual|diferente]", "a": "diferente" },
+        { "q": "some · sum → [igual|diferente]", "a": "igual" },
+        { "q": "luck · look → [igual|diferente]", "a": "diferente" }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["cup", "<code>kap</code>"],
+        ["cap", "<code>kæp</code>"],
+        ["love", "<code>lav</code>"],
+        ["money", "<code>máni</code>"],
+        ["mother", "<code>máder</code>"],
+        ["Monday", "<code>mándei</code>"],
+        ["one", "<code>wan</code>"],
+        ["does", "<code>das</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Recuerda: la /ʌ/ se escribe <b>a</b>.",
+      "en": "Write how each word sounds. /ʌ/ is written «a».",
+      "items": [
+        { "q": "☀️ sun → ____", "a": "san" },
+        { "q": "🦆 duck → ____", "a": "dak" },
+        { "q": "🦘 jump → ____", "a": "yamp" },
+        { "q": "🥪 lunch → ____", "a": "lanch" },
+        { "q": "👦 brother → ____", "a": "bráder" },
+        { "q": "🍯 honey → ____", "a": "jáni" },
+        { "q": "🏞️ country → ____", "a": "kántri" },
+        { "q": "👫 cousin → ____", "a": "kásən" },
+        { "q": "🧒 young → ____", "a": "iang" },
+        { "q": "🤷 nothing → ____", "a": "názing" }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte: ahí está la /ʌ/.",
+      "en": "Circle the stressed syllable: that's where /ʌ/ is.",
+      "items": [
+        { "syl": ["mon", "ey"], "s": 0, "es": "dinero" },
+        { "syl": ["moth", "er"], "s": 0, "es": "madre" },
+        { "syl": ["Mon", "day"], "s": 0, "es": "lunes" },
+        { "syl": ["coun", "try"], "s": 0, "es": "país" },
+        { "syl": ["a", "bove"], "s": 1, "es": "encima" },
+        { "syl": ["un", "cle"], "s": 0, "es": "tío" },
+        { "syl": ["hun", "gry"], "s": 0, "es": "con hambre" },
+        { "syl": ["won", "der", "ful"], "s": 0, "es": "maravilloso" },
+        { "syl": ["Lon", "don"], "s": 0, "es": "Londres" },
+        { "syl": ["um", "brel", "la"], "s": 1, "es": "paraguas" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "/ʌ/ is very similar to a short Spanish «a».", "a": true },
+        { "q": "The U in «bus» sounds like a Spanish u.", "a": false, "why": "suena a: bas" },
+        { "q": "«Love», «son» and «money» have the /ʌ/ sound.", "a": true },
+        { "q": "«Son» and «sun» sound the same.", "a": true },
+        { "q": "«Cup» and «cap» sound the same.", "a": false, "why": "/ʌ/ ≠ /æ/" },
+        { "q": "«Does» rhymes with «goes».", "a": false, "why": "das ≠ gous" },
+        { "q": "«Blood» has the same vowel as «food».", "a": false, "why": "blad ≠ fuud" },
+        { "q": "«Uncle» and «ankle» sound the same.", "a": false, "why": "ánkəl ≠ ǽnkəl" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "cup → <code>kup</code>", "a": "kap" },
+        { "q": "bus → <code>bus</code>", "a": "bas" },
+        { "q": "love → <code>lov</code>", "a": "lav" },
+        { "q": "money → <code>móni</code>", "a": "máni" },
+        { "q": "mother → <code>móder</code>", "a": "máder" },
+        { "q": "Monday → <code>móndei</code>", "a": "mándei" },
+        { "q": "one → <code>on</code>", "a": "wan" },
+        { "q": "blood → <code>bluud</code>", "a": "blad" }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "¿Cómo se escribe?",
+      "title_en": "How do you spell it?",
+      "icon": "🔡",
+      "es": "Escribe la palabra en inglés. Todas tienen /ʌ/: ¿U, O u OU?",
+      "en": "Write the English word. They all have /ʌ/.",
+      "items": [
+        { "q": "☕ taza", "a": "cup" },
+        { "q": "🚌 autobús", "a": "bus" },
+        { "q": "☀️ sol", "a": "sun" },
+        { "q": "🦆 pato", "a": "duck" },
+        { "q": "👩 madre", "a": "mother" },
+        { "q": "💰 dinero", "a": "money" },
+        { "q": "👦 hijo", "a": "son" },
+        { "q": "🧤 guante", "a": "glove" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "De /æ/ a /ʌ/",
+      "title_en": "From /æ/ to /ʌ/",
+      "icon": "🔄",
+      "es": "Cambia la a de cat por la a de cup para conseguir la palabra que significa lo que pone. Escríbela y di las dos.",
+      "en": "Change /æ/ to /ʌ/ to get the new word. Write it and say both.",
+      "items": [
+        { "q": "cap → taza", "a": "cup" },
+        { "q": "fan → diversión", "a": "fun" },
+        { "q": "ran → correr", "a": "run" },
+        { "q": "bag → bicho", "a": "bug" },
+        { "q": "hat → cabaña", "a": "hut" },
+        { "q": "cat → cortar", "a": "cut" },
+        { "q": "match → mucho", "a": "much" },
+        { "q": "ankle → tío", "a": "uncle" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "a cup of tea", "say": "ə kápə tii" },
+        { "q": "I love my mother.", "say": "ai lav mai máder" },
+        { "q": "See you on Monday!", "say": "sii iu an mándei!" },
+        { "q": "Come on!", "say": "kamán!" },
+        { "q": "Thank you very much!", "say": "zǽnkiu véri mach!" },
+        { "q": "cap, cup, cap, cup", "say": "kæp, kap, kæp, kap" },
+        { "q": "My brother has no money.", "say": "mai bráder jæs nóu máni" },
+        { "q": "One young son, one funny uncle.", "say": "wan iang san, wan fáni ánkəl" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con la a cortita.",
+      "en": "Translate into English and say it with /ʌ/.",
+      "items": [
+        { "q": "lunes", "a": "Monday (mándei)" },
+        { "q": "hermano", "a": "brother (bráder)" },
+        { "q": "amor", "a": "love (lav)" },
+        { "q": "venir", "a": "come (kam)" },
+        { "q": "uno", "a": "one (wan)" },
+        { "q": "tío", "a": "uncle (ánkəl)" },
+        { "q": "domingo", "a": "Sunday (sándei)" },
+        { "q": "país", "a": "country (kántri)" },
+        { "q": "joven", "a": "young (iang)" },
+        { "q": "nada", "a": "nothing (názing)" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En la última columna escribe con qué letras se escribe la /ʌ/.",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Español", "Suena", "¿Letras?"],
+      "rows": [
+        ["cup", "taza", "?kap", "?U"],
+        ["love", "?amor", "lav", "?O"],
+        ["?bus", "autobús", "?bas", "U"],
+        ["money", "dinero", "?máni", "?O"],
+        ["?young", "joven", "iang", "?OU"],
+        ["blood", "?sangre", "?blad", "OO"],
+        ["?mother", "madre", "máder", "?O"],
+        ["does", "?hace", "das", "?OE"]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de tazas",
+      "title_en": "Cup vowel word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con /ʌ/. Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 words with /ʌ/.",
+      "words": ["cup", "bus", "fun", "love", "son", "mother", "money", "duck", "truck", "uncle"],
+      "clues": ["cup · taza", "bus · autobús", "fun · diversión", "love · amor", "son · hijo", "mother · madre", "money · dinero", "duck · pato", "truck · camión", "uncle · tío"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las /ʌ/",
+      "title_en": "Read and find /ʌ/",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Tyler's Sunday",
+      "text": [
+        "On Sunday, Tyler and his young cousin go to the country with their uncle. They have lunch under a tree: some sandwiches and a cup of honey tea.",
+        "Suddenly, a duck jumps on the lunch! “Run!” says the uncle. They all run and laugh. “That was fun!” says Tyler."
+      ],
+      "items": [
+        { "q": "Who goes to the country?", "a": "Tyler, his young cousin and their uncle." },
+        { "q": "Write three words from the text with /ʌ/.", "a": "Sunday, young, cousin, country, uncle, lunch, under, some, cup, honey, suddenly, duck, jumps, run, fun (cualquiera)." },
+        { "q": "How does «country» sound?", "a": "<code>kántri</code> (la OU suena a)." },
+        { "q": "They have lunch in a restaurant.", "tf": true, "a": false, "why": "under a tree" },
+        { "q": "A duck jumps on the lunch.", "tf": true, "a": true },
+        { "q": "«Cup» and «cousin» have the same vowel sound.", "tf": true, "a": true }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con palabras que tengan /ʌ/. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with /ʌ/ words and record yourself.",
+      "items": [
+        {
+          "q": "Una frase sobre tu familia (mother, brother, uncle, cousin…).",
+          "lines": 2,
+          "a": "Ej.: My uncle and my cousin love fun."
+        },
+        {
+          "q": "Una frase sobre tu semana (Monday, Sunday, lunch, bus…).",
+          "lines": 2,
+          "a": "Ej.: On Monday I take the bus."
+        },
+        {
+          "q": "Una frase con «much» o «money».",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Digo la /ʌ/ como una a española cortita y floja.", "en": "I say /ʌ/ like a short, relaxed Spanish «a»." },
+    { "es": "Sé que muchas U suenan /ʌ/: cup, bus, fun, lunch.", "en": "I know many U's sound /ʌ/." },
+    { "es": "Sé que muchas O suenan /ʌ/: love, son, come, money, mother, Monday.", "en": "I know many O's sound /ʌ/." },
+    { "es": "Distingo cap, cup y cop.", "en": "I can tell cap, cup and cop apart." },
+    { "es": "Ya no digo «lov», «móni» ni «móder».", "en": "I don't say love, money or mother with an «o»." },
+    { "es": "Leo «One young son, one funny uncle» sin trabarme.", "en": "I can say the young son tongue twister." }
+  ]
+}

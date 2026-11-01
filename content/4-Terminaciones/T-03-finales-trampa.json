@@ -1,0 +1,702 @@
+{
+  "id": "T-03",
+  "block": "T",
+  "title": "FINALES TRAMPA",
+  "file_title": "Finales trampa",
+  "subtitle": "Tricky endings · -tion, -ture, -ous, -able…",
+  "icon": "🪤",
+  "map": {
+    "center": "Las terminaciones inglesas <b>no llevan el golpe</b> y su vocal se encoge en <code>ə</code>. ¡No las leas como en español!",
+    "listen": "vegetable",
+    "nodes": [
+      {
+        "title": "-TION · -SION",
+        "icon": "📺",
+        "color": "green",
+        "rows": [
+          ["nation", "<code>néishən</code>"],
+          ["vision", "<code>víyən</code>"],
+          ["question", "<code>kwéschən</code>"]
+        ]
+      },
+      {
+        "title": "-TURE",
+        "icon": "🖼️",
+        "color": "blue",
+        "rows": [
+          ["picture", "<code>píkcher</code>"],
+          ["nature", "<code>néicher</code>"],
+          ["future", "<code>fiúucher</code>"]
+        ]
+      },
+      {
+        "title": "-OUS",
+        "icon": "⭐",
+        "color": "purple",
+        "rows": [
+          ["famous", "<code>féiməs</code>"],
+          ["delicious", "<code>dilíshəs</code>"],
+          ["nervous", "<code>nérvəs</code>"]
+        ]
+      },
+      {
+        "title": "-AGE",
+        "icon": "💬",
+        "color": "orange",
+        "rows": [
+          ["message", "<code>mésiy</code>"],
+          ["village", "<code>víliy</code>"],
+          ["garage", "<code>gəráy</code> (francés)"]
+        ]
+      },
+      {
+        "title": "-ATE",
+        "icon": "🍫",
+        "color": "pink",
+        "rows": [
+          ["chocolate", "<code>cháklət</code>"],
+          ["private", "<code>práivət</code>"],
+          ["to create", "<code>kriéit</code>"]
+        ],
+        "after": "adjetivo <code>ət</code> · verbo <code>eit</code>"
+      },
+      {
+        "title": "-ABLE · -FUL · -LY",
+        "icon": "✨",
+        "color": "yellow",
+        "rows": [
+          ["comfortable", "<code>kámfterbəl</code>"],
+          ["beautiful", "<code>biúrəfəl</code>"],
+          ["really", "<code>ríili</code>"]
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["vegetable → <code>veyetéibol</code>"],
+      "good": ["<code>védytəbəl</code> 🥦"],
+      "note": "-able no es «éibol»: es <code>ə</code>‑<code>bəl</code>, flojito y sin fuerza."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "📸 picture → ____", "a": "píkcher" },
+        { "q": "⭐ famous → ____", "a": "féiməs" },
+        { "q": "💬 message → ____", "a": "mésiy" },
+        { "q": "🚉 station → ____", "a": "stéishən" },
+        { "q": "🛋️ comfortable → ____", "a": "kámfterbəl" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Por qué son una trampa?",
+      "title_en": "Why are they tricky?",
+      "icon": "🔎",
+      "es": "En español, las terminaciones se leen tal cual: na‑<b>ción</b>, fa‑<b>mo</b>‑so, con‑for‑<b>ta</b>‑ble. En inglés son una <b>trampa</b> 🪤: casi nunca llevan el golpe de voz y sus vocales se encogen hasta la <b>schwa</b> <code>ə</code> (mapa V-01). Además, algunas letras cambian de sonido: la t de <b>-tion</b> suena <code>sh</code> y la de <b>-ture</b>, <code>ch</code>. Aquí tienes las trampas más famosas, con su truco para cada una.",
+      "en": "English endings are almost never stressed, their vowels shrink to schwa, and some letters change: -tion = /ʃən/, -ture = /tʃɚ/, -ous = /əs/.",
+      "formula": [
+        "na + *tion* → néi*shən*",
+        "pic + *ture* → pík*cher*",
+        "fa + *mous* → féi*məs*"
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · -TION y -SION",
+      "title_en": "-TION and -SION",
+      "icon": "📺",
+      "es": "<b>-tion</b> suena <code>shən</code> (/ʃən/): nation, station. <b>-sion</b> suena <code>shən</code> tras consonante (tension, mansion) y <code>yən</code> (/ʒən/) tras vocal (vision, decision). La fuerza va <b>justo antes</b>: NÉI‑shən, in‑fer‑MÉI‑shən (lo verás en R-02). ¡Ojo con <b>-stion</b>!: question = <code>kwéschən</code>.",
+      "en": "-tion sounds /ʃən/; -sion sounds /ʃən/ or /ʒən/. The stress falls just before it. Question ends in /stʃən/.",
+      "examples": [
+        { "en": "nation", "say": "néishən", "es": "nación", "icon": "🏳️" },
+        { "en": "station", "say": "stéishən", "es": "estación", "icon": "🚉" },
+        { "en": "information", "say": "inferméishən", "es": "información", "icon": "ℹ️" },
+        { "en": "vision", "say": "víyən", "es": "visión / vista", "icon": "👓" },
+        { "en": "television", "say": "téləviyən", "es": "televisión", "icon": "📺" },
+        { "en": "question", "say": "kwéschən", "es": "pregunta", "icon": "❓" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · -TURE y -SURE",
+      "title_en": "-TURE and -SURE",
+      "icon": "🖼️",
+      "es": "<b>-ture</b> suena <code>cher</code> (/tʃɚ/), como el final de teacher. Nada de «‑tur»: picture = <code>píkcher</code>, nature = <code>néicher</code>. Su prima <b>-sure</b> suena <code>yer</code> (/ʒɚ/) en measure, treasure o pleasure, y <code>sher</code> (/ʃɚ/) en pressure.",
+      "en": "-ture sounds /tʃɚ/, like the end of teacher. -sure sounds /ʒɚ/ (treasure) or /ʃɚ/ (pressure).",
+      "examples": [
+        { "en": "picture", "say": "píkcher", "es": "foto / dibujo", "icon": "🖼️" },
+        { "en": "nature", "say": "néicher", "es": "naturaleza", "icon": "🌳" },
+        { "en": "future", "say": "fiúucher", "es": "futuro", "icon": "🔮" },
+        { "en": "culture", "say": "kálcher", "es": "cultura", "icon": "🎭" },
+        { "en": "adventure", "say": "ədvéncher", "es": "aventura", "icon": "🗺️" },
+        { "en": "treasure", "say": "tréyer", "es": "tesoro", "icon": "💰" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · -OUS",
+      "title_en": "-OUS",
+      "icon": "⭐",
+      "es": "<b>-ous</b> suena <code>əs</code> (/əs/): una ə floja + s. Ni «‑ous» ni «‑oso»: famous = <code>féiməs</code>, nervous = <code>nérvəs</code>. Tras ci o ti suena <code>shəs</code>: delicious = <code>dilíshəs</code>. ¡Y la fuerza nunca cae en -ous!",
+      "en": "-ous sounds /əs/: famous, nervous. After ci or ti, it sounds /ʃəs/: delicious. It's never stressed.",
+      "examples": [
+        { "en": "famous", "say": "féiməs", "es": "famoso", "icon": "⭐" },
+        { "en": "delicious", "say": "dilíshəs", "es": "delicioso", "icon": "😋" },
+        { "en": "dangerous", "say": "déinyərəs", "es": "peligroso", "icon": "⚠️" },
+        { "en": "jealous", "say": "yéləs", "es": "celoso", "icon": "😒" },
+        { "en": "serious", "say": "síriəs", "es": "serio", "icon": "😐" },
+        { "en": "enormous", "say": "inórməs", "es": "enorme", "icon": "🐘" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · -AGE",
+      "title_en": "-AGE",
+      "icon": "💬",
+      "es": "Sin acento, <b>-age</b> suena <code>iy</code> (/ɪdʒ/): una i relajada + la y fuerte de «yo». message = <code>mésiy</code>, village = <code>víliy</code>. En palabras de una sílaba suena <code>eiy</code>: page, age, stage. Y en las que vienen del francés, <code>áy</code> con la fuerza al final: garage = <code>gəráy</code>, massage = <code>məsáy</code>.",
+      "en": "Unstressed -age sounds /ɪdʒ/: message, village. French words like garage end in stressed /ɑʒ/.",
+      "examples": [
+        { "en": "message", "say": "mésiy", "es": "mensaje", "icon": "💬" },
+        { "en": "village", "say": "víliy", "es": "pueblo", "icon": "🏘️" },
+        { "en": "language", "say": "lǽngwiy", "es": "idioma", "icon": "🗣️" },
+        { "en": "package", "say": "pǽkiy", "es": "paquete", "icon": "📦" },
+        { "en": "cabbage", "say": "kǽbiy", "es": "col, repollo", "icon": "🥬" },
+        { "en": "garage", "say": "gəráy", "es": "garaje", "icon": "🚗" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · -ATE",
+      "title_en": "-ATE",
+      "icon": "🍫",
+      "es": "Doble trampa. En <b>adjetivos y nombres</b>, -ate suena <code>ət</code> (/ət/): chocolate, private, climate. En <b>verbos</b>, suena <code>eit</code> (/eɪt/): celebrate, create. ¡Y hay palabras que son las dos cosas!: a separate room (<code>sépərət</code>) / to separate (<code>sépəreit</code>).",
+      "en": "In adjectives and nouns, -ate sounds /ət/. In verbs, it sounds /eɪt/: a separate room vs. to separate.",
+      "examples": [
+        { "en": "chocolate", "say": "cháklət", "es": "chocolate", "icon": "🍫" },
+        { "en": "private", "say": "práivət", "es": "privado", "icon": "🔒" },
+        { "en": "climate", "say": "kláimət", "es": "clima", "icon": "🌡️" },
+        { "en": "celebrate", "say": "séləbreit", "es": "celebrar", "icon": "🎉" },
+        { "en": "create", "say": "kriéit", "es": "crear", "icon": "🎨" },
+        { "en": "to separate", "say": "sépəreit", "es": "separar", "icon": "✂️" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · -ABLE e -IBLE",
+      "title_en": "-ABLE and -IBLE",
+      "icon": "🛋️",
+      "es": "Sin acento, <b>-able</b> e <b>-ible</b> suenan igual: <code>ə</code>‑<code>bəl</code> (/əbəl/), flojito. Nada de «éibol». Y dos palabras famosas se comen una sílaba: comfortable = <code>kámfterbəl</code> y vegetable = <code>védytəbəl</code>, tres sílabas y no cuatro (más en H-07). Ojo: la palabra suelta <b>able</b> sí suena <code>éibəl</code>.",
+      "en": "Unstressed -able and -ible both sound /əbəl/. Comfortable and vegetable have only three syllables.",
+      "examples": [
+        { "en": "comfortable", "say": "kámfterbəl", "es": "cómodo", "icon": "🛋️" },
+        { "en": "vegetable", "say": "védytəbəl", "es": "verdura", "icon": "🥦" },
+        { "en": "possible", "say": "pásəbəl", "es": "posible", "icon": "✅" },
+        { "en": "terrible", "say": "térəbəl", "es": "terrible", "icon": "😱" },
+        { "en": "available", "say": "əvéiləbəl", "es": "disponible", "icon": "🟢" },
+        { "en": "incredible", "say": "inkrédəbəl", "es": "increíble", "icon": "🤩" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 7,
+      "title": "7 · -FUL",
+      "title_en": "-FUL",
+      "icon": "🌈",
+      "es": "<b>-ful</b> suena <code>fəl</code> (/fəl/), con ə y L oscura (mapa C-12). No es la palabra <b>full</b> (lleno, <code>ful</code>): beautiful = <code>biúrəfəl</code>, wonderful = <code>wánderfəl</code>. La fuerza se queda al principio.",
+      "en": "-ful sounds /fəl/, not like the word full. The stress stays at the beginning.",
+      "examples": [
+        { "en": "beautiful", "say": "biúrəfəl", "es": "precioso", "icon": "🌅" },
+        { "en": "wonderful", "say": "wánderfəl", "es": "maravilloso", "icon": "🌈" },
+        { "en": "careful", "say": "kérfəl", "es": "cuidadoso", "icon": "⚠️" },
+        { "en": "helpful", "say": "jélpfəl", "es": "útil, servicial", "icon": "🤝" },
+        { "en": "colorful", "say": "kálerfəl", "es": "colorido", "icon": "🎨" },
+        { "en": "awful", "say": "ófəl", "es": "horrible", "icon": "🤢" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 8,
+      "title": "8 · -LY, -EST e -ISM",
+      "title_en": "-LY, -EST and -ISM",
+      "icon": "⚡",
+      "es": "<b>-ly</b> suena <code>li</code>, sin fuerza: la sílaba fuerte se queda donde estaba (QUICK‑ly = <code>kwíkli</code>). Ojo con <b>-ically</b>: basically = <code>béisikli</code>, ¡la a ni se oye! <b>-est</b> suena <code>ist</code>: biggest = <code>bíguist</code>. Y <b>-ism</b> tiene <b>dos</b> sílabas, <code>i</code>‑<code>səm</code>: tourism = <code>túrisəm</code>, no «turism».",
+      "en": "-ly is /li/, -est is /ɪst/, and -ism has two syllables: /ɪzəm/. None of them is stressed.",
+      "examples": [
+        { "en": "really", "say": "ríili", "es": "de verdad", "icon": "💯" },
+        { "en": "quickly", "say": "kwíkli", "es": "rápidamente", "icon": "⚡" },
+        { "en": "basically", "say": "béisikli", "es": "básicamente", "icon": "🤷" },
+        { "en": "biggest", "say": "bíguist", "es": "el más grande", "icon": "🐘" },
+        { "en": "happiest", "say": "jǽpiist", "es": "el más feliz", "icon": "😄" },
+        { "en": "tourism", "say": "túrisəm", "es": "turismo", "icon": "🧳" }
+      ]
+    },
+    {
+      "t": "stress",
+      "title": "El golpe va antes",
+      "title_en": "Stress comes before",
+      "icon": "🥁",
+      "es": "Mira dónde cae el golpe (●): <b>nunca</b> en la terminación.",
+      "en": "The stress (●) never falls on the ending.",
+      "items": [
+        { "syl": ["na", "tion"], "s": 0, "say": "néishən", "es": "nación" },
+        { "syl": ["in", "for", "ma", "tion"], "s": 2, "say": "inferméishən", "es": "información" },
+        { "syl": ["pic", "ture"], "s": 0, "say": "píkcher", "es": "foto" },
+        { "syl": ["ad", "ven", "ture"], "s": 1, "say": "ədvéncher", "es": "aventura" },
+        { "syl": ["fa", "mous"], "s": 0, "say": "féiməs", "es": "famoso" },
+        { "syl": ["de", "li", "cious"], "s": 1, "say": "dilíshəs", "es": "delicioso" },
+        { "syl": ["mes", "sage"], "s": 0, "say": "mésiy", "es": "mensaje" },
+        { "syl": ["beau", "ti", "ful"], "s": 0, "say": "biúrəfəl", "es": "precioso" }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "-ATE: ¿adjetivo o verbo?",
+      "title_en": "-ATE: adjective or verb?",
+      "icon": "⚖️",
+      "es": "Algunas palabras se escriben igual, pero suenan distinto según sean adjetivo/nombre o verbo.",
+      "en": "Some words are spelled the same but sound different as adjectives/nouns or verbs.",
+      "cols": [
+        {
+          "head": "🟢 Adjetivo o nombre → <code>ət</code>",
+          "color": "green",
+          "items": [
+            "a separate room → <code>sépərət</code>",
+            "a graduate → <code>grǽyuət</code>",
+            "an estimate → <code>éstəmət</code>",
+            "chocolate → <code>cháklət</code>"
+          ]
+        },
+        {
+          "head": "🔵 Verbo → <code>eit</code>",
+          "color": "blue",
+          "items": [
+            "to separate → <code>sépəreit</code>",
+            "to graduate → <code>grǽyueit</code>",
+            "to estimate → <code>éstəmeit</code>",
+            "to celebrate → <code>séləbreit</code>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "serious", "ipa": "ˈsɪriəs", "say": "síriəs", "es": "serio", "icon": "😐", "anchor": "<b>Sirius</b> Black ⭐", "tip": "¡En inglés suenan igual! Di «Sirius» con la u floja: SÍ‑ri‑əs." },
+        { "en": "jealous", "ipa": "ˈdʒɛləs", "say": "yéləs", "es": "celoso", "icon": "😒", "anchor": "<b>hielos</b> 🧊", "tip": "Di «hielos» con la y fuerte y la o floja: YÉ‑ləs. ¡Echa hielo a los celos!" },
+        { "en": "nervous", "ipa": "ˈnɝvəs", "say": "nérvəs", "es": "nervioso", "icon": "😬", "anchor": "<b>nerv</b>ios + əs 😬", "tip": "Casi: di «nervios» sin «io» y con R americana: NÉR‑vəs." },
+        { "en": "message", "ipa": "ˈmɛsɪdʒ", "say": "mésiy", "es": "mensaje", "icon": "💬", "anchor": "<b>Messi</b> + y ⚽", "tip": "Messi te manda un message: MÉ‑siy, con la y fuerte de «yo»." },
+        { "en": "package", "ipa": "ˈpækɪdʒ", "say": "pǽkiy", "es": "paquete", "icon": "📦", "anchor": "<b>Paqui</b> + y 📦", "tip": "Paqui recibe un package. Con boca de sonrisa (æ): PǼ‑kiy." },
+        { "en": "fashion", "ipa": "ˈfæʃən", "say": "fǽshən", "es": "moda", "icon": "👗", "anchor": "ir muy <b>fashion</b> 👗", "tip": "Como en español, pero la o final se vuelve ə: FǼ‑shən. ¡Igual que -tion!" },
+        { "en": "television", "ipa": "ˈtɛləˌvɪʒən", "say": "téləviyən", "es": "televisión", "icon": "📺", "anchor": "la <b>tele</b> + viyən 📺", "tip": "Empieza como «la tele» y la fuerza se queda ahí: TÉ‑lə‑vi‑yən." },
+        { "en": "question", "ipa": "ˈkwɛstʃən", "say": "kwéschən", "es": "pregunta", "icon": "❓", "anchor": "<b>cues</b>tión ❓", "tip": "Casi: empieza como «cuestión», pero el golpe va en CUES y acaba en «chən»: KWÉS‑chən." },
+        { "en": "vegetable", "ipa": "ˈvɛdʒtəbəl", "say": "védytəbəl", "es": "verdura", "icon": "🥦", "anchor": "<s>ve‑ge‑ta‑ble</s> → <b>VÉY</b>təbəl", "tip": "Tres sílabas: VÉY‑tə‑bəl. La e del medio desaparece." },
+        { "en": "comfortable", "ipa": "ˈkʌmftɚbəl", "say": "kámfterbəl", "es": "cómodo", "icon": "🛋️", "anchor": "<s>con‑for‑TA‑ble</s> → <b>KÁMF</b>terbəl", "tip": "Tres sílabas y la fuerza al principio." },
+        { "en": "chocolate", "ipa": "ˈtʃɑklət", "say": "cháklət", "es": "chocolate", "icon": "🍫", "anchor": "<s>cho‑co‑LA‑te</s> → <b>CHÁ</b>klət", "tip": "Dos sílabas: CHÁK‑lət (muchos americanos: <code>chóklət</code>)." },
+        { "en": "garage", "ipa": "ɡəˈrɑʒ", "say": "gəráy", "es": "garaje", "icon": "🚗", "anchor": "<s>garaje</s> → gə<b>RÁY</b>", "tip": "Palabra francesa: la fuerza al final y sin jota." }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "picture", "es": "foto / dibujo" },
+        { "q": "famous", "es": "famoso" },
+        { "q": "message", "es": "mensaje" },
+        { "q": "comfortable", "es": "cómodo" },
+        { "q": "vegetable", "es": "verdura" },
+        { "q": "chocolate", "es": "chocolate" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Chuleta de finales trampa",
+      "title_en": "Tricky endings cheat sheet",
+      "icon": "📋",
+      "head": ["Se escribe", "Suena", "IPA", "Ejemplos"],
+      "rows": [
+        ["-tion", "<code>shən</code>", "/ʃən/", "nation, station"],
+        ["-sion", "<code>shən</code> · <code>yən</code>", "/ʃən/ · /ʒən/", "tension · vision"],
+        ["-stion", "<code>schən</code>", "/stʃən/", "question, suggestion"],
+        ["-ture", "<code>cher</code>", "/tʃɚ/", "picture, nature"],
+        ["-sure", "<code>yer</code> · <code>sher</code>", "/ʒɚ/ · /ʃɚ/", "treasure · pressure"],
+        ["-ous", "<code>əs</code>", "/əs/", "famous, nervous"],
+        ["-cious, -tious", "<code>shəs</code>", "/ʃəs/", "delicious, ambitious"],
+        ["-age (sin acento)", "<code>iy</code>", "/ɪdʒ/", "message, village"],
+        ["-ate (adjetivo, nombre)", "<code>ət</code>", "/ət/", "chocolate, private"],
+        ["-ate (verbo)", "<code>eit</code>", "/eɪt/", "create, celebrate"],
+        ["-able, -ible", "<code>ə</code>‑<code>bəl</code>", "/əbəl/", "possible, terrible"],
+        ["-ful", "<code>fəl</code>", "/fəl/", "careful, beautiful"],
+        ["-ly", "<code>li</code>", "/li/", "really, quickly"],
+        ["-est", "<code>ist</code>", "/ɪst/", "biggest, fastest"],
+        ["-ism", "<code>i</code>‑<code>səm</code>", "/ɪzəm/", "tourism, optimism"]
+      ],
+      "note": "Ninguna de estas terminaciones lleva el golpe de voz (salvo las francesas, como garage). <b>Golpe antes, final flojito.</b>",
+      "note_en": "None of these endings is stressed (except French ones like garage)."
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "This picture is beautiful.", "say": "dis píkcher is biúrəfəl", "es": "Esta foto es preciosa.", "icon": "🖼️" },
+        { "en": "The pizza is delicious!", "say": "də píitsə is dilíshəs!", "es": "¡La pizza está deliciosa!", "icon": "🍕" },
+        { "en": "I have a question.", "say": "ai jǽvə kwéschən", "es": "Tengo una pregunta.", "icon": "❓" },
+        { "en": "Mario sent me a message.", "say": "mário sent mi ə mésiy", "es": "Mario me mandó un mensaje.", "icon": "💬" },
+        { "en": "Is this chair comfortable?", "say": "is dis cher kámfterbəl?", "es": "¿Es cómoda esta silla?", "icon": "🪑" },
+        { "en": "Vegetables are good for you.", "say": "védytəbəls ar gud fər iu", "es": "Las verduras son buenas para ti.", "icon": "🥦" },
+        { "en": "The station is near my village.", "say": "də stéishən is nir mai víliy", "es": "La estación está cerca de mi pueblo.", "icon": "🚉" },
+        { "en": "Rocky is nervous at the vet.", "say": "ráki is nérvəs ət də vet", "es": "Rocky está nervioso en el veterinario.", "icon": "🐕" },
+        { "en": "We love nature and adventure.", "say": "wi lav néicher ən ədvéncher", "es": "Nos encantan la naturaleza y la aventura.", "icon": "🌳" },
+        { "en": "Be careful, it's dangerous!", "say": "bi kérfəl, its déinyərəs!", "es": "¡Ten cuidado, es peligroso!", "icon": "⚠️" },
+        { "en": "That's really wonderful.", "say": "dæts ríili wánderfəl", "es": "Eso es maravilloso de verdad.", "icon": "🌈" },
+        { "en": "It's the biggest chocolate in the world!", "say": "its də bíguist cháklət in də werld!", "es": "¡Es el chocolate más grande del mundo!", "icon": "🍫" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "monster": "trampas",
+      "items": [
+        { "bad": "nation → <code>nasión</code>", "good": "<code>néishən</code>", "why": "-tion suena shən y la fuerza va antes.", "why_en": "-tion is /ʃən/, stress before it." },
+        { "bad": "picture → <code>piktúr</code>", "good": "<code>píkcher</code>", "why": "-ture suena cher, sin fuerza.", "why_en": "-ture is /tʃɚ/." },
+        { "bad": "famous → <code>famóus</code>", "good": "<code>féiməs</code>", "why": "-ous es una ə floja + s.", "why_en": "-ous is /əs/." },
+        { "bad": "message → <code>mesáye</code>", "good": "<code>mésiy</code>", "why": "-age sin acento suena iy.", "why_en": "Unstressed -age is /ɪdʒ/." },
+        { "bad": "chocolate → <code>chokoláte</code>", "good": "<code>cháklət</code>", "why": "Dos sílabas y la fuerza delante.", "why_en": "Two syllables, stress first." },
+        { "bad": "comfortable → <code>konfortéibol</code>", "good": "<code>kámfterbəl</code>", "why": "Tres sílabas: KÁMF‑ter‑bəl.", "why_en": "Three syllables." },
+        { "bad": "beautiful → <code>biutifúl</code>", "good": "<code>biúrəfəl</code>", "why": "-ful es fəl, sin fuerza. Y la t hace el toque (C-02).", "why_en": "-ful is /fəl/, unstressed." },
+        { "bad": "private → <code>praivéit</code>", "good": "<code>práivət</code>", "why": "Es adjetivo: -ate suena ət.", "why_en": "Adjective: -ate is /ət/." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el museo",
+      "title_en": "At the museum",
+      "lines": [
+        { "who": "Jenny", "en": "Look at this picture! It's famous.", "say": "lúkət dis píkcher! its féiməs", "es": "¡Mira este cuadro! Es famoso." },
+        { "who": "Mario", "en": "It's beautiful! Is it a real treasure?", "say": "its biúrəfəl! ísirə ríil tréyer?", "es": "¡Es precioso! ¿Es un tesoro de verdad?" },
+        { "who": "Jenny", "en": "Yes! It's from a small village in France.", "say": "iés! its frəm ə smol víliy in fræns", "es": "¡Sí! Es de un pueblecito de Francia." },
+        { "who": "Mario", "en": "Interesting! Can I take a picture?", "say": "íntrəsting! kən ai téikə píkcher?", "es": "¡Interesante! ¿Puedo hacer una foto?" },
+        { "who": "Jenny", "en": "No, sorry. It's a private collection.", "say": "nou, sári. its ə práivət kəlékshən", "es": "No, lo siento. Es una colección privada." },
+        { "who": "Mario", "en": "OK. Let's buy some chocolate at the café, then.", "say": "oukéi. lets bai səm cháklət ət də kæféi, den", "es": "Vale. Entonces compremos chocolate en la cafetería." },
+        { "who": "Jenny", "en": "Good decision! I'm really hungry.", "say": "gud disíyən! aim ríili jángri", "es": "¡Buena decisión! Tengo muchísima hambre." },
+        { "who": "Mario", "en": "Me too. Chocolate is my future!", "say": "mi tuu. cháklət is mai fiúucher!", "es": "Yo también. ¡El chocolate es mi futuro!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo desactivar la trampa en 5 pasos",
+      "title_en": "Disarm the trap in 5 steps",
+      "items": [
+        { "es": "Busca la terminación: -tion, -ture, -ous, -age, -ate, -able, -ful…", "en": "Find the ending." },
+        { "es": "Quítale la fuerza: la sílaba fuerte está <b>antes</b>.", "en": "Take the stress off: it comes before." },
+        { "es": "Cambia sus vocales por ə: -ous → <code>əs</code>, -able → <code>ə</code>‑<code>bəl</code>, -ful → <code>fəl</code>.", "en": "Turn its vowels into schwa." },
+        { "es": "Aplica el cambio de letra: -tion → <code>shən</code>, -ture → <code>cher</code>, -age → <code>iy</code>.", "en": "Apply the sound change." },
+        { "es": "Lee las frases en voz alta y <b>grábate</b>. ¿Suena flojito el final?", "en": "Read aloud and record yourself." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "A famous, nervous nation on vacation.", "say": "ə féiməs, nérvəs néishən an veikéishən", "es": "Una nación famosa y nerviosa de vacaciones." },
+        { "en": "The creature in the picture has a treasure.", "say": "də kríicher in də píkcher jǽsə tréyer", "es": "La criatura del cuadro tiene un tesoro." },
+        { "en": "Delicious, nutritious, ambitious dishes.", "say": "dilíshəs, nutríshəs, æmbíshəs díshis", "es": "Platos deliciosos, nutritivos y ambiciosos." }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Golpe antes, final flojito",
+      "title_en": "Stress first, soft ending",
+      "es": "Las terminaciones inglesas son como la cola de un perro dormido 🐕💤: están ahí, pero <b>no se mueven</b>. Da el golpe en la sílaba de antes y deja el final flojito, con su ə. ¡Y desconfía de cualquier final que en español lleve tilde (‑ción, ‑ble, ‑oso)!",
+      "en": "English endings are like a sleeping dog's tail: they're there, but they don't move. Stress the syllable before and keep the ending soft."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Cómo suena?",
+      "title_en": "How does it sound?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea la pronunciación correcta.",
+      "en": "Say the word and circle the right pronunciation.",
+      "items": [
+        { "q": "nation → [néishən|nasión]", "a": "néishən" },
+        { "q": "picture → [píkcher|piktúr]", "a": "píkcher" },
+        { "q": "famous → [féiməs|famóus]", "a": "féiməs" },
+        { "q": "message → [mésiy|mesáye]", "a": "mésiy" },
+        { "q": "chocolate → [cháklət|chokoláte]", "a": "cháklət" },
+        { "q": "comfortable → [kámfterbəl|komfortéibəl]", "a": "kámfterbəl" },
+        { "q": "beautiful → [biúrəfəl|biutifúl]", "a": "biúrəfəl" },
+        { "q": "vision → [víyən|visión]", "a": "víyən" },
+        { "q": "private → [práivət|praivéit]", "a": "práivət" },
+        { "q": "tourism → [túrisəm|turísm]", "a": "túrisəm" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica por el final",
+      "title_en": "Sort by ending",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en la columna de su sonido final.",
+      "en": "Say each word and sort it by its ending sound.",
+      "cats": [
+        { "name": "<code>shən</code> · <code>yən</code>", "words": ["nation", "station", "action", "vision", "decision", "television"] },
+        { "name": "<code>cher</code>", "words": ["picture", "nature", "future", "culture", "adventure", "creature"] },
+        { "name": "<code>əs</code>", "words": ["famous", "nervous", "delicious", "dangerous", "jealous", "serious"] },
+        { "name": "<code>iy</code>", "words": ["message", "village", "language", "package", "cabbage", "image"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["nation", "<code>néishən</code>"],
+        ["picture", "<code>píkcher</code>"],
+        ["famous", "<code>féiməs</code>"],
+        ["message", "<code>mésiy</code>"],
+        ["chocolate", "<code>cháklət</code>"],
+        ["comfortable", "<code>kámfterbəl</code>"],
+        ["beautiful", "<code>biúrəfəl</code>"],
+        ["really", "<code>ríili</code>"]
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Comprueba que nunca es la terminación.",
+      "en": "Circle the stressed syllable. It's never the ending.",
+      "items": [
+        { "syl": ["na", "tion"], "s": 0, "es": "nación" },
+        { "syl": ["in", "for", "ma", "tion"], "s": 2, "es": "información" },
+        { "syl": ["pic", "ture"], "s": 0, "es": "foto" },
+        { "syl": ["ad", "ven", "ture"], "s": 1, "es": "aventura" },
+        { "syl": ["fa", "mous"], "s": 0, "es": "famoso" },
+        { "syl": ["de", "li", "cious"], "s": 1, "es": "delicioso" },
+        { "syl": ["dan", "ger", "ous"], "s": 0, "es": "peligroso" },
+        { "syl": ["mes", "sage"], "s": 0, "es": "mensaje" },
+        { "syl": ["pos", "si", "ble"], "s": 0, "es": "posible" },
+        { "syl": ["con", "ver", "sa", "tion"], "s": 2, "es": "conversación" }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        { "q": "🌳 nature → ____", "a": "néicher" },
+        { "q": "🔮 future → ____", "a": "fiúucher" },
+        { "q": "😬 nervous → ____", "a": "nérvəs" },
+        { "q": "🏘️ village → ____", "a": "víliy" },
+        { "q": "🔒 private → ____", "a": "práivət" },
+        { "q": "✅ possible → ____", "a": "pásəbəl" },
+        { "q": "⚠️ careful → ____", "a": "kérfəl" },
+        { "q": "⚡ quickly → ____", "a": "kwíkli" },
+        { "q": "📺 television → ____", "a": "téləviyən" },
+        { "q": "❓ question → ____", "a": "kwéschən" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "-ATE: ¿ət o eit?",
+      "title_en": "-ATE: /ət/ or /eɪt/?",
+      "icon": "⚖️",
+      "es": "¿Es adjetivo/nombre (ət) o verbo (eit)? Rodea cómo suena -ate.",
+      "en": "Adjective/noun or verb? Circle the sound of -ate.",
+      "items": [
+        { "q": "a separate room → [ət|eit]", "a": "ət" },
+        { "q": "Please separate the eggs. → [ət|eit]", "a": "eit" },
+        { "q": "chocolate cake → [ət|eit]", "a": "ət" },
+        { "q": "Let's celebrate! → [ət|eit]", "a": "eit" },
+        { "q": "a private party → [ət|eit]", "a": "ət" },
+        { "q": "I want to create a game. → [ət|eit]", "a": "eit" },
+        { "q": "She's a graduate. → [ət|eit]", "a": "ət" },
+        { "q": "They graduate in June. → [ət|eit]", "a": "eit" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "-tion sounds like «shən».", "a": true },
+        { "q": "In «famous», the stress is on «-ous».", "a": false, "why": "FÉI‑məs: la fuerza va delante" },
+        { "q": "«Picture» ends with the sound «cher».", "a": true },
+        { "q": "Americans say «comfortable» with four syllables.", "a": false, "why": "tres: <code>kámfterbəl</code>" },
+        { "q": "«Private» rhymes with «create».", "a": false, "why": "<code>práivət</code> / <code>kriéit</code>" },
+        { "q": "-age in «message» sounds like «iy».", "a": true },
+        { "q": "«Beautiful» ends like the word «full».", "a": false, "why": "-ful = <code>fəl</code>, floja" },
+        { "q": "«Tourism» has three syllables: TÚ‑ri‑səm.", "a": true }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos.",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Español", "Terminación", "Suena"],
+      "rows": [
+        ["nation", "nación", "?-tion", "?néishən"],
+        ["?picture", "foto / dibujo", "-ture", "píkcher"],
+        ["famous", "?famoso", "?-ous", "féiməs"],
+        ["message", "mensaje", "?-age", "?mésiy"],
+        ["?chocolate", "chocolate", "-ate", "?cháklət"],
+        ["possible", "?posible", "-ible", "?pásəbəl"],
+        ["careful", "cuidadoso", "?-ful", "?kérfəl"],
+        ["?really", "de verdad", "-ly", "ríili"]
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Alguien ha leído el final a la española. Escribe la figurada correcta.",
+      "en": "Someone read the ending the Spanish way. Fix it.",
+      "items": [
+        { "q": "station → <code>stasión</code>", "a": "stéishən" },
+        { "q": "nature → <code>natúr</code>", "a": "néicher" },
+        { "q": "delicious → <code>delisióus</code>", "a": "dilíshəs" },
+        { "q": "village → <code>viláye</code>", "a": "víliy" },
+        { "q": "vegetable → <code>veyetéibol</code>", "a": "védytəbəl" },
+        { "q": "wonderful → <code>wonderfúl</code>", "a": "wánderfəl" },
+        { "q": "basically → <code>basikáli</code>", "a": "béisikli" },
+        { "q": "tourism → <code>turísm</code>", "a": "túrisəm" }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Escribe la palabra",
+      "title_en": "Spell the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra. ¡Se escribe muy distinto de como suena!",
+      "en": "Unscramble and spell the word.",
+      "items": [
+        { "q": "🖼️ foto / dibujo (<code>píkcher</code>)", "a": "picture" },
+        { "q": "⭐ famoso (<code>féiməs</code>)", "a": "famous" },
+        { "q": "💬 mensaje (<code>mésiy</code>)", "a": "message" },
+        { "q": "🚉 estación (<code>stéishən</code>)", "a": "station" },
+        { "q": "🌳 naturaleza (<code>néicher</code>)", "a": "nature" },
+        { "q": "🔒 privado (<code>práivət</code>)", "a": "private" },
+        { "q": "✅ posible (<code>pásəbəl</code>)", "a": "possible" },
+        { "q": "⚠️ cuidadoso (<code>kérfəl</code>)", "a": "careful" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez. Golpe antes, final flojito.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "What a beautiful picture!", "say": "warə biúrəfəl píkcher!" },
+        { "q": "It's delicious!", "say": "its dilíshəs!" },
+        { "q": "Good question!", "say": "gud kwéschən!" },
+        { "q": "Send me a message.", "say": "send mi ə mésiy" },
+        { "q": "This sofa is really comfortable.", "say": "dis sóufə is ríili kámfterbəl" },
+        { "q": "I love vegetables.", "say": "ai lav védytəbəls" },
+        { "q": "Be careful!", "say": "bi kérfəl!" },
+        { "q": "Basically, it's possible.", "say": "béisikli, its pásəbəl" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta sin caer en la trampa.",
+      "en": "Translate into English and say it.",
+      "items": [
+        { "q": "famoso", "a": "famous (féiməs)" },
+        { "q": "naturaleza", "a": "nature (néicher)" },
+        { "q": "mensaje", "a": "message (mésiy)" },
+        { "q": "pregunta", "a": "question (kwéschən)" },
+        { "q": "cómodo", "a": "comfortable (kámfterbəl)" },
+        { "q": "verdura", "a": "vegetable (védytəbəl)" },
+        { "q": "precioso", "a": "beautiful (biúrəfəl)" },
+        { "q": "peligroso", "a": "dangerous (déinyərəs)" },
+        { "q": "idioma", "a": "language (lǽngwiy)" },
+        { "q": "televisión", "a": "television (téləviyən)" }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de finales trampa",
+      "title_en": "Tricky endings word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Cuando encuentres una, dila con el final flojito.",
+      "en": "Find 10 words and say each one with a soft ending.",
+      "words": ["picture", "nature", "famous", "nation", "message", "village", "private", "careful", "possible", "really"],
+      "clues": ["picture · foto", "nature · naturaleza", "famous · famoso", "nation · nación", "message · mensaje", "village · pueblo", "private · privado", "careful · cuidadoso", "possible · posible", "really · de verdad"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las trampas",
+      "title_en": "Read and find the traps",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "A Famous Picture",
+      "text": [
+        "In a small village, there's a famous picture of a beautiful creature. Many tourists take the train to the station to see it.",
+        "The picture is in a private house, so you need a special invitation. The owner says it's the most valuable treasure in the region!"
+      ],
+      "items": [
+        { "q": "Where is the famous picture?", "a": "In a private house in a small village. picture = <code>píkcher</code>" },
+        { "q": "Find two words ending in -tion.", "a": "station, invitation (<code>stéishən</code>, <code>invitéishən</code>)" },
+        { "q": "How does «treasure» end?", "a": "<code>tréyer</code>: -sure suena «yer»." },
+        { "q": "«Village» ends with the sound «iy».", "tf": true, "a": true },
+        { "q": "In «famous», you say «-ous» like the Spanish «-oso».", "tf": true, "a": false, "why": "<code>féiməs</code>: ə + s" },
+        { "q": "«Valuable» ends in /əbəl/.", "tf": true, "a": true }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con finales trampa. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with tricky endings and record yourself.",
+      "items": [
+        { "q": "Una frase con una palabra en -tion y otra en -ture.", "lines": 2, "a": "Ej.: I took a picture at the station." },
+        { "q": "Una frase con una palabra en -ous (famous, nervous, delicious…).", "lines": 2, "a": "Ej.: My mom's cake is delicious." },
+        { "q": "Una frase con comfortable, vegetable o chocolate.", "lines": 2 }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Digo <b>-tion</b> como <code>shən</code>: <code>néishən</code>, <code>stéishən</code>.", "en": "I say -tion as /ʃən/." },
+    { "es": "Digo <b>-ture</b> como <code>cher</code>: <code>píkcher</code>, <code>néicher</code>.", "en": "I say -ture as /tʃɚ/." },
+    { "es": "Digo <b>-ous</b> flojito: <code>féiməs</code>, <code>nérvəs</code>.", "en": "I say -ous as /əs/." },
+    { "es": "Sé que <b>-age</b> sin acento suena <code>iy</code>: <code>mésiy</code>, <code>víliy</code>.", "en": "I say unstressed -age as /ɪdʒ/." },
+    { "es": "Distingo -ate de adjetivo (<code>ət</code>) y de verbo (<code>eit</code>).", "en": "I know -ate as /ət/ or /eɪt/." },
+    { "es": "Digo <b>comfortable</b> y <b>vegetable</b> en tres sílabas.", "en": "I say comfortable and vegetable in three syllables." }
+  ]
+}

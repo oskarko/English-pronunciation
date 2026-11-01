@@ -1,0 +1,1736 @@
+{
+  "id": "H-03",
+  "block": "H",
+  "title": "LAS FORMAS DÉBILES",
+  "file_title": "Las formas débiles (weak forms)",
+  "subtitle": "Weak forms · cup of tea = «kápə tíi»",
+  "icon": "🐭",
+  "map": {
+    "center": "Las palabras pequeñas (a, the, to, of, for, and…) se dicen <b>flojito</b>, con <b>schwa</b>: cup of tea = <code>kápə tíi</code>.",
+    "listen": "cup of tea",
+    "nodes": [
+      {
+        "title": "¿Qué son?",
+        "icon": "🔎",
+        "color": "green",
+        "items": [
+          "palabras <b>gramaticales</b>: a, the, to, of…",
+          "sin acento → vocal <b>ə</b>",
+          "cortas, rápidas y pegadas"
+        ]
+      },
+      {
+        "title": "Suena como…",
+        "icon": "🇪🇸",
+        "color": "blue",
+        "rows": [
+          [
+            "cup of tea",
+            "<code>kápə tíi</code> (¡capa!)"
+          ],
+          [
+            "rock and roll",
+            "<code>rákən róul</code>"
+          ],
+          [
+            "you know",
+            "<code>iə nóu</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Débil y fuerte",
+        "icon": "⚖️",
+        "color": "purple",
+        "rows": [
+          [
+            "to",
+            "<code>tə</code> · <code>tuu</code>"
+          ],
+          [
+            "for",
+            "<code>fer</code> · <code>for</code>"
+          ],
+          [
+            "from",
+            "<code>frəm</code> · <code>fram</code>"
+          ]
+        ]
+      },
+      {
+        "title": "¿Cuándo fuerte?",
+        "icon": "💪",
+        "color": "orange",
+        "items": [
+          "al <b>final</b>: Where are you <b>from</b>?",
+          "con <b>énfasis</b>: It's <b>for</b> me!",
+          "cuando la dices sola"
+        ]
+      },
+      {
+        "title": "Pronombres flojitos",
+        "icon": "👤",
+        "color": "pink",
+        "rows": [
+          [
+            "call her",
+            "<code>kóler</code>"
+          ],
+          [
+            "tell him",
+            "<code>télim</code>"
+          ],
+          [
+            "love them",
+            "<code>lávəm</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Las palabras importantes, <b>fuertes</b>; las pequeñas, <b>como un susurro</b>: a <b>CUP</b> of <b>TEA</b>.",
+        "art": "☕"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "<code>ei kap of tii</code> (todo fuerte)"
+      ],
+      "good": [
+        "<code>ə kápə tíi</code> ☕"
+      ],
+      "note": "Todo fuerte suena a robot enfadado 🤖"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "☕ a cup of tea → ____",
+          "a": "ə kápə tíi"
+        },
+        {
+          "q": "🎸 rock and roll → ____",
+          "a": "rákən róul"
+        },
+        {
+          "q": "🎁 for Mom → ____",
+          "a": "fer mám"
+        },
+        {
+          "q": "🏫 to school → ____",
+          "a": "tə skúul"
+        },
+        {
+          "q": "🐟 fish and chips → ____",
+          "a": "físhən chíps"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué son las formas débiles?",
+      "title_en": "What are weak forms?",
+      "icon": "🔎",
+      "es": "En una frase inglesa hay palabras <b>importantes</b> (cup, tea, Mom, school) y palabras <b>pequeñas</b> que solo pegan la frase (a, the, to, of, for, and…). Las importantes se dicen fuertes y claras; las pequeñas, <mark>flojitas y rápidas</mark>, casi siempre con la vocal perezosa <code>ə</code> (la schwa del mapa V-01). Por eso <i>a cup of tea</i> suena <code>ə kápə tíi</code>: of casi desaparece. Si lo dices todo fuerte, se te entiende… ¡pero suenas a robot!",
+      "en": "Small grammar words (a, the, to, of, for, and…) are usually weak: short, quick and with a schwa. «A cup of tea» sounds like «a cuppa tea».",
+      "formula": [
+        "*CUP* + of + *TEA* → *kápə tíi*"
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Leones y ratones",
+      "title_en": "Strong and weak words",
+      "icon": "🦁",
+      "es": "Las <b>palabras de contenido</b> (nombres, verbos principales, adjetivos, adverbios) son leones 🦁: fuertes y largas. Las <b>palabras gramaticales</b> (artículos, preposiciones, conjunciones, auxiliares, pronombres) son ratones 🐭: se esconden entre los leones. El ritmo que forman lo verás en el mapa R-03.",
+      "en": "Content words (nouns, verbs, adjectives) are strong. Grammar words (a, the, to, of, and…) are weak.",
+      "formula": [
+        "🦁 cup · tea · Mom · school",
+        "🐭 a · the · to · of · for · and"
+      ],
+      "examples": [
+        {
+          "en": "a cup of tea",
+          "say": "ə kápə tíi",
+          "es": "una taza de té",
+          "icon": "☕"
+        },
+        {
+          "en": "a glass of milk",
+          "say": "ə glǽsə mílk",
+          "es": "un vaso de leche",
+          "icon": "🥛"
+        },
+        {
+          "en": "fish and chips",
+          "say": "físhən chíps",
+          "es": "pescado con patatas",
+          "icon": "🐟"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · La vocal se vuelve ə",
+      "title_en": "The vowel becomes a schwa",
+      "icon": "😴",
+      "es": "En la forma débil, la vocal se relaja y se convierte en <code>ə</code> (o en <code>er</code> si hay R): to → <code>tə</code>, at → <code>ət</code>, but → <code>bət</code>, from → <code>frəm</code>, for → <code>fer</code>, or → <code>er</code>. Ojo: delante de vocal, to y the cambian (mapa H-02).",
+      "en": "In weak forms the vowel becomes a schwa: to → «tə», at → «ət», from → «frəm», for → «fer».",
+      "formula": [
+        "to → *tə* · at → *ət* · for → *fer*"
+      ],
+      "examples": [
+        {
+          "en": "to school",
+          "say": "tə skúul",
+          "es": "al cole",
+          "icon": "🏫"
+        },
+        {
+          "en": "at home",
+          "say": "ət jóum",
+          "es": "en casa",
+          "icon": "🏠"
+        },
+        {
+          "en": "for Mom",
+          "say": "fer mám",
+          "es": "para mamá",
+          "icon": "🎁"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Letras que se caen",
+      "title_en": "Sounds that drop",
+      "icon": "🍂",
+      "es": "Algunas palabras débiles además <b>pierden una consonante</b>: of pierde la v delante de consonante (<code>kápə tíi</code>), and pierde la d y a veces se queda en una <b>n</b> (rock 'n' roll), y en medio de la frase him, her y them pierden su principio: <code>télim</code>, <code>kóler</code>, <code>lávəm</code> (la h en C-06).",
+      "en": "Some weak forms lose a consonant: of → «ə», and → «ən» or «n», him → «im», her → «er», them → «əm».",
+      "examples": [
+        {
+          "en": "rock and roll",
+          "say": "rákən róul",
+          "es": "rock and roll",
+          "icon": "🎸"
+        },
+        {
+          "en": "Call her!",
+          "say": "kóler",
+          "es": "¡Llámala!",
+          "icon": "📞"
+        },
+        {
+          "en": "Help them!",
+          "say": "jélpəm",
+          "es": "¡Ayúdalos!",
+          "icon": "🆘"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Auxiliares flojitos",
+      "title_en": "Weak helper verbs",
+      "icon": "🧰",
+      "es": "Los verbos que «ayudan» a otro también son débiles: can → <code>kən</code>, do → <code>də</code>, does → <code>dəs</code>, was → <code>wəs</code>, were → <code>wer</code>, have → <code>əv</code>, has → <code>əs</code>. El verbo importante es el otro: I can <b>SWIM</b>. (Can y can't, a fondo, en el mapa H-08.)",
+      "en": "Helper verbs are weak too: can → «kən», was → «wəs», have → «əv». The main verb carries the stress.",
+      "examples": [
+        {
+          "en": "I can swim.",
+          "say": "ai kən swím",
+          "es": "Sé nadar.",
+          "icon": "🏊"
+        },
+        {
+          "en": "It was fun.",
+          "say": "it wəs fán",
+          "es": "Fue divertido.",
+          "icon": "🎢"
+        },
+        {
+          "en": "Where have you been?",
+          "say": "wérəv iə bín",
+          "es": "¿Dónde has estado?",
+          "icon": "🧭"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Pronombres flojitos",
+      "title_en": "Weak pronouns",
+      "icon": "👤",
+      "es": "Los pronombres casi nunca llevan la fuerza: you → <code>iə</code>, your → <code>ier</code>, him → <code>im</code>, her → <code>er</code>, them → <code>əm</code> (a veces escrito <b>'em</b>). Se pegan a la palabra de delante como si fueran una sílaba más.",
+      "en": "Pronouns are usually weak: you → «iə», your → «ier», them → «əm» ('em).",
+      "examples": [
+        {
+          "en": "you know",
+          "say": "iə nóu",
+          "es": "¿sabes?",
+          "icon": "🤔"
+        },
+        {
+          "en": "Is this your bag?",
+          "say": "is dis ier bǽg",
+          "es": "¿Es esta tu bolsa?",
+          "icon": "👜"
+        },
+        {
+          "en": "I love 'em!",
+          "say": "ai lávəm",
+          "es": "¡Me encantan!",
+          "icon": "😍"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · Cuándo van fuertes",
+      "title_en": "When they're strong",
+      "icon": "💪",
+      "es": "Los ratones se vuelven leones en tres casos: <b>al final de la frase</b> (Where are you <b>from</b>?), con <b>énfasis o contraste</b> (It's <b>for</b> me, not <b>from</b> me!) y cuando dices la palabra <b>sola</b>. Entonces suenan enteras: <code>fram</code>, <code>for</code>, <code>tuu</code>, <code>kæn</code>.",
+      "en": "Weak words become strong at the end of a sentence, for emphasis or contrast, and when said alone.",
+      "examples": [
+        {
+          "en": "Where are you from?",
+          "say": "wérer iə frám",
+          "es": "¿De dónde eres?",
+          "icon": "🌍"
+        },
+        {
+          "en": "What's it for?",
+          "say": "wátsit fór",
+          "es": "¿Para qué es?",
+          "icon": "❓"
+        },
+        {
+          "en": "Yes, I can!",
+          "say": "iés, ai kǽn",
+          "es": "¡Sí que puedo!",
+          "icon": "✅"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "cup of",
+          "ipa": "ˈkʌpə",
+          "say": "kápə",
+          "es": "taza de",
+          "icon": "☕",
+          "anchor": "<b>capa</b> 🦸",
+          "tip": "A cup of tea = «una capa tíi». Of se queda en una ə chiquitita."
+        },
+        {
+          "en": "pair of",
+          "ipa": "ˈpɛrə",
+          "say": "pérə",
+          "es": "un par de",
+          "icon": "👟",
+          "anchor": "<b>pera</b> 🍐",
+          "tip": "A pair of shoes = «una pera shúus». Con R americana (C-01)."
+        },
+        {
+          "en": "rock and roll",
+          "ipa": "ˌrɑkənˈroʊl",
+          "say": "rákən róul",
+          "es": "rock and roll",
+          "icon": "🎸",
+          "anchor": "<b>rocanrol</b> 🤘",
+          "tip": "¡El español ya lo pegó! Pero abre la primera o («rak») y di «róul»."
+        },
+        {
+          "en": "M&M's",
+          "ipa": "ˌɛmənˈɛmz",
+          "say": "émənéms",
+          "es": "los caramelos M&M's",
+          "icon": "🍬",
+          "anchor": "<b>Eminem</b> 🎤",
+          "tip": "El & (and) se queda en «ən»: em-ən-ÉMS, ¡como el rapero + s!"
+        },
+        {
+          "en": "Mom and Dad",
+          "ipa": "ˌmɑmənˈdæd",
+          "say": "mámən dǽd",
+          "es": "mamá y papá",
+          "icon": "👪",
+          "anchor": "<b>Mamen</b> 👩",
+          "tip": "Como el nombre «Mamen» + dǽd. And se queda en «ən»."
+        },
+        {
+          "en": "salt and pepper",
+          "ipa": "ˌsɔltənˈpɛpɚ",
+          "say": "sóltən péper",
+          "es": "sal y pimienta",
+          "icon": "🧂",
+          "anchor": "<b>soltan</b> 🎈",
+          "tip": "«Soltan» + péper. Muchos americanos dicen «sáltən»."
+        },
+        {
+          "en": "you know",
+          "ipa": "jəˈnoʊ",
+          "say": "iə nóu",
+          "es": "¿sabes? / ya sabes",
+          "icon": "🤔",
+          "anchor": "¿<b>ya no</b>? 🙅",
+          "tip": "Con la y muy suave (casi i) y «nou» al final. ¡La muletilla más famosa!"
+        },
+        {
+          "en": "call her",
+          "ipa": "ˈkɔlɚ",
+          "say": "kóler",
+          "es": "llámala",
+          "icon": "📞",
+          "anchor": "<b>cóler</b>a 😡",
+          "tip": "La h de her se cae y queda la R: KÓ-ler. ¡Sin enfadarte!"
+        },
+        {
+          "en": "tell her",
+          "ipa": "ˈtɛlɚ",
+          "say": "téler",
+          "es": "díselo (a ella)",
+          "icon": "💬",
+          "anchor": "la <b>tele</b> + r 📺",
+          "tip": "La h de her se cae: «tele» con R americana al final, TÉ-ler."
+        },
+        {
+          "en": "love 'em",
+          "ipa": "ˈlʌvəm",
+          "say": "lávəm",
+          "es": "me encantan",
+          "icon": "😍",
+          "anchor": "<b>lávam</b>e 🧼",
+          "tip": "I love 'em! = ¡me encantan! Con v de verdad: LÁ-vəm."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "cup of tea",
+          "es": "taza de té"
+        },
+        {
+          "q": "rock and roll",
+          "es": "rock and roll"
+        },
+        {
+          "q": "you know",
+          "es": "¿sabes?"
+        },
+        {
+          "q": "fish and chips",
+          "es": "pescado con patatas"
+        },
+        {
+          "q": "where are you from",
+          "es": "¿de dónde eres?"
+        },
+        {
+          "q": "call her",
+          "es": "llámala"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Las formas débiles más comunes",
+      "title_en": "The most common weak forms",
+      "icon": "📋",
+      "head": [
+        "Palabra",
+        "Débil (casi siempre)",
+        "Fuerte (final, énfasis)",
+        "Ejemplo débil"
+      ],
+      "rows": [
+        [
+          "a",
+          "<code>ə</code>",
+          "<code>ei</code>",
+          "a cup → <code>ə káp</code>"
+        ],
+        [
+          "the",
+          "<code>də</code> · <code>di</code> (+ vocal)",
+          "<code>dii</code>",
+          "the dog → <code>də dóg</code>"
+        ],
+        [
+          "to",
+          "<code>tə</code> · <code>tu</code> (+ vocal)",
+          "<code>tuu</code>",
+          "to school → <code>tə skúul</code>"
+        ],
+        [
+          "for",
+          "<code>fer</code>",
+          "<code>for</code>",
+          "for Mom → <code>fer mám</code>"
+        ],
+        [
+          "of",
+          "<code>əv</code> · <code>ə</code> (+ consonante)",
+          "<code>av</code>",
+          "cup of tea → <code>kápə tíi</code>"
+        ],
+        [
+          "and",
+          "<code>ən</code> · <code>n</code>",
+          "<code>ǽnd</code>",
+          "you and me → <code>iu ən míi</code>"
+        ],
+        [
+          "or",
+          "<code>er</code>",
+          "<code>or</code>",
+          "black or white → <code>blǽker wáit</code>"
+        ],
+        [
+          "but",
+          "<code>bət</code>",
+          "<code>bat</code>",
+          "but why? → <code>bət wái</code>"
+        ],
+        [
+          "at",
+          "<code>ət</code>",
+          "<code>æt</code>",
+          "at home → <code>ət jóum</code>"
+        ],
+        [
+          "from",
+          "<code>frəm</code>",
+          "<code>fram</code>",
+          "from Spain → <code>frəm spéin</code>"
+        ],
+        [
+          "can",
+          "<code>kən</code>",
+          "<code>kæn</code>",
+          "I can swim → <code>ai kən swím</code>"
+        ],
+        [
+          "do · does",
+          "<code>də</code> · <code>dəs</code>",
+          "<code>duu</code> · <code>das</code>",
+          "Does it work? → <code>dəsit wérk</code>"
+        ],
+        [
+          "was · were",
+          "<code>wəs</code> · <code>wer</code>",
+          "<code>was</code> · <code>wer</code> (más largo)",
+          "It was fun → <code>it wəs fán</code>"
+        ],
+        [
+          "have · has",
+          "<code>əv</code> · <code>əs</code>",
+          "<code>jæv</code> · <code>jæs</code>",
+          "Where have you been? → <code>wérəv iə bín</code>"
+        ],
+        [
+          "you · your",
+          "<code>iə</code> · <code>ier</code>",
+          "<code>iuu</code> · <code>iur</code>",
+          "you know → <code>iə nóu</code>"
+        ],
+        [
+          "him · her · them",
+          "<code>im</code> · <code>er</code> · <code>əm</code>",
+          "<code>jim</code> · <code>jer</code> · <code>dem</code>",
+          "call her → <code>kóler</code>"
+        ]
+      ],
+      "note": "Regla práctica: si la palabra pequeña va <b>en medio</b> de la frase, usa la forma débil. Si va <b>al final</b>, si la dices <b>sola</b> o si quieres <b>destacarla</b>, usa la fuerte. Have y has solo son débiles cuando ayudan a otro verbo (I have <b>two cats</b> = <code>jæv</code>).",
+      "note_en": "In the middle of a sentence, use the weak form. At the end, alone or for emphasis, use the strong form."
+    },
+    {
+      "t": "compare",
+      "title": "Ratón 🐭 o león 🦁",
+      "title_en": "Weak or strong?",
+      "icon": "⚖️",
+      "es": "La misma palabra cambia según su <b>sitio</b> en la frase.",
+      "en": "The same word changes depending on where it is.",
+      "cols": [
+        {
+          "head": "🐭 Débil (en medio)",
+          "color": "blue",
+          "items": [
+            "Thanks <b>for</b> coming → <code>fer</code>",
+            "Go <b>to</b> bed → <code>tə</code>",
+            "I'm <b>from</b> Spain → <code>frəm</code>",
+            "I <b>can</b> swim → <code>kən</code>"
+          ]
+        },
+        {
+          "head": "🦁 Fuerte (final o énfasis)",
+          "color": "orange",
+          "items": [
+            "What's it <b>for</b>? → <code>for</code>",
+            "Who are you talking <b>to</b>? → <code>tuu</code>",
+            "Where are you <b>from</b>? → <code>fram</code>",
+            "Yes, I <b>can</b>! → <code>kæn</code>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "title": "¿Quién manda aquí?",
+      "title_en": "Who's the boss?",
+      "icon": "🥁",
+      "es": "En cada pareja, el golpe (●) va en la palabra de contenido. La pequeña se dice flojita.",
+      "en": "The content word gets the stress; the small word is weak.",
+      "items": [
+        {
+          "syl": [
+            "to",
+            "school"
+          ],
+          "s": 1,
+          "say": "tə skúul",
+          "es": "al cole"
+        },
+        {
+          "syl": [
+            "for",
+            "Mom"
+          ],
+          "s": 1,
+          "say": "fer mám",
+          "es": "para mamá"
+        },
+        {
+          "syl": [
+            "at",
+            "home"
+          ],
+          "s": 1,
+          "say": "ət jóum",
+          "es": "en casa"
+        },
+        {
+          "syl": [
+            "from",
+            "Spain"
+          ],
+          "s": 1,
+          "say": "frəm spéin",
+          "es": "de España"
+        },
+        {
+          "syl": [
+            "call",
+            "her"
+          ],
+          "s": 0,
+          "say": "kóler",
+          "es": "llámala"
+        },
+        {
+          "syl": [
+            "help",
+            "them"
+          ],
+          "s": 0,
+          "say": "jélpəm",
+          "es": "ayúdalos"
+        },
+        {
+          "syl": [
+            "tell",
+            "him"
+          ],
+          "s": 0,
+          "say": "télim",
+          "es": "díselo"
+        },
+        {
+          "syl": [
+            "the",
+            "park"
+          ],
+          "s": 1,
+          "say": "də párk",
+          "es": "el parque"
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "A cup of tea",
+          "spoken": "A cuppa tea",
+          "say": "ə kápə tíi",
+          "es": "Una taza de té"
+        },
+        {
+          "written": "Rock and roll",
+          "spoken": "Rock 'n' roll",
+          "say": "rákən róul",
+          "es": "Rock and roll"
+        },
+        {
+          "written": "Fish and chips",
+          "spoken": "Fish 'n' chips",
+          "say": "físhən chíps",
+          "es": "Pescado con patatas fritas"
+        },
+        {
+          "written": "Black or white?",
+          "spoken": "Black er white?",
+          "say": "blǽker wáit",
+          "es": "¿Negro o blanco?"
+        },
+        {
+          "written": "Tell her I'm sorry.",
+          "spoken": "Teller I'm sorry.",
+          "say": "téler aim sári",
+          "es": "Dile que lo siento."
+        },
+        {
+          "written": "I love them!",
+          "spoken": "I love 'em!",
+          "say": "ai lávəm",
+          "es": "¡Me encantan!"
+        },
+        {
+          "written": "Where are you from?",
+          "spoken": "Where-er-ya FROM?",
+          "say": "wérer iə frám",
+          "es": "¿De dónde eres?"
+        },
+        {
+          "written": "What's it for?",
+          "spoken": "Whatsit FOR?",
+          "say": "wátsit fór",
+          "es": "¿Para qué es?"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I'd like a glass of water.",
+          "say": "aid láik ə glǽsə wárer",
+          "es": "Querría un vaso de agua.",
+          "icon": "🥛"
+        },
+        {
+          "en": "This is for my mom.",
+          "say": "dísis fer mai mám",
+          "es": "Esto es para mi madre.",
+          "icon": "🎁"
+        },
+        {
+          "en": "Go to bed, Mario!",
+          "say": "góu tə béd, mário",
+          "es": "¡A la cama, Mario!",
+          "icon": "🛏️"
+        },
+        {
+          "en": "Lucía is at home.",
+          "say": "lusíiə isət jóum",
+          "es": "Lucía está en casa.",
+          "icon": "🏠"
+        },
+        {
+          "en": "I'm from Spain.",
+          "say": "aim frəm spéin",
+          "es": "Soy de España.",
+          "icon": "🇪🇸"
+        },
+        {
+          "en": "Bread and butter, please.",
+          "say": "brédən bárer, pliis",
+          "es": "Pan con mantequilla, por favor.",
+          "icon": "🍞"
+        },
+        {
+          "en": "It was a great day.",
+          "say": "it wəsə gréit déi",
+          "es": "Fue un día genial.",
+          "icon": "☀️"
+        },
+        {
+          "en": "Can you help me?",
+          "say": "kən iə jélp mi",
+          "es": "¿Puedes ayudarme?",
+          "icon": "🙋"
+        },
+        {
+          "en": "Where does she live?",
+          "say": "wér dəs shi lív",
+          "es": "¿Dónde vive ella?",
+          "icon": "🏡"
+        },
+        {
+          "en": "Call her and ask her.",
+          "say": "kóler ən ǽsker",
+          "es": "Llámala y pregúntale.",
+          "icon": "📞"
+        },
+        {
+          "en": "Tea or coffee?",
+          "say": "tíi-ier káfi",
+          "es": "¿Té o café?",
+          "icon": "☕"
+        },
+        {
+          "en": "A pair of socks for Dad.",
+          "say": "ə pérə sáks fer dǽd",
+          "es": "Un par de calcetines para papá.",
+          "icon": "🧦"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "a cup of tea → <code>ei kap of tii</code>",
+          "good": "<code>ə kápə tíi</code>",
+          "why": "A y of son ratones: «ə». Solo cup y tea van fuertes.",
+          "why_en": "«A» and «of» are weak. Only «cup» and «tea» are strong."
+        },
+        {
+          "bad": "to school → <code>tuu skúul</code>",
+          "good": "<code>tə skúul</code>",
+          "why": "To delante de consonante es «tə», rapidito. «Tuu» solo al final o con énfasis.",
+          "why_en": "Before a consonant, «to» is «tə»."
+        },
+        {
+          "bad": "Thanks for coming → <code>zænks for káming</code>",
+          "good": "<code>zænks fer káming</code>",
+          "why": "For va flojito, «fer». Dicho fuerte suena igual que four (cuatro).",
+          "why_en": "Strong «for» sounds like «four»."
+        },
+        {
+          "bad": "you and me → <code>iu ǽnd mi</code>",
+          "good": "<code>iu ən míi</code>",
+          "why": "And casi siempre es «ən»: la d desaparece y la a se relaja.",
+          "why_en": "«And» is usually just «ən»."
+        },
+        {
+          "bad": "Where are you from? → <code>wérer iə frəm</code>",
+          "good": "<code>wérer iə frám</code>",
+          "why": "Al final de la frase, from va fuerte: «fram».",
+          "why_en": "At the end of a sentence, «from» is strong."
+        },
+        {
+          "bad": "call her → <code>kol jer</code>",
+          "good": "<code>kóler</code>",
+          "why": "En medio de la frase, la h de her, him y have se cae y todo se pega.",
+          "why_en": "The h of «her» drops and the words link."
+        },
+        {
+          "bad": "I can swim → <code>ai kǽn swím</code>",
+          "good": "<code>ai kən swím</code>",
+          "why": "Can afirmativo es débil, «kən». Si lo dices fuerte, ¡pueden entender can't! (mapa H-08)",
+          "why_en": "Positive «can» is weak; a strong one may sound like «can't»."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el restaurante",
+      "title_en": "At the diner",
+      "lines": [
+        {
+          "who": "Mike",
+          "en": "Hi! What can I get for you?",
+          "say": "jai! wat kənái guét fer iu?",
+          "es": "¡Hola! ¿Qué os pongo?"
+        },
+        {
+          "who": "Mario",
+          "en": "A cup of tea and a glass of milk, please.",
+          "say": "ə kápə tíi ənə glǽsə mílk, pliis",
+          "es": "Una taza de té y un vaso de leche, por favor."
+        },
+        {
+          "who": "Mike",
+          "en": "Anything to eat?",
+          "say": "énizing tu-wíit?",
+          "es": "¿Algo de comer?"
+        },
+        {
+          "who": "Mario",
+          "en": "Fish and chips for me and a salad for my sister.",
+          "say": "físhən chíps fer mi ənə sǽləd fer mai síster",
+          "es": "Pescado con patatas para mí y una ensalada para mi hermana."
+        },
+        {
+          "who": "Lucía",
+          "en": "No salad for me! Fish and chips, please.",
+          "say": "nou sǽləd fer míi! físhən chíps, pliis",
+          "es": "¡Nada de ensalada para mí! Pescado con patatas, por favor."
+        },
+        {
+          "who": "Mike",
+          "en": "Sure. Is it for here or to go?",
+          "say": "shur. ísit fer jírer tə góu?",
+          "es": "Claro. ¿Es para tomar aquí o para llevar?"
+        },
+        {
+          "who": "Mario",
+          "en": "For here. And can we have some water?",
+          "say": "fer jír. ən kən wi jǽv səm wárer?",
+          "es": "Para aquí. ¿Y nos trae agua?"
+        },
+        {
+          "who": "Mike",
+          "en": "Of course! Coming right up!",
+          "say": "əv kórs! káming rairáp!",
+          "es": "¡Por supuesto! ¡Marchando!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Subraya las palabras <b>importantes</b> (nombres, verbos, adjetivos): esas son los leones 🦁.",
+          "en": "Underline the content words."
+        },
+        {
+          "es": "Las demás (a, the, to, of, for, and…) son ratones 🐭: dilas con <code>ə</code>, rápidas y flojitas.",
+          "en": "Say the small words quickly, with a schwa."
+        },
+        {
+          "es": "Da una <b>palmada</b> en cada león: «a CUP of TEA for MOM» → 3 palmadas.",
+          "en": "Clap on each strong word."
+        },
+        {
+          "es": "Mete los ratones entre palmada y palmada, sin darles fuerza: «ə KÁ-pə TÍI fer MÁM».",
+          "en": "Squeeze the weak words between the claps."
+        },
+        {
+          "es": "Escanea los QR y <b>grábate</b>. ¿Los ratones casi no se oyen? ¡Perfecto!",
+          "en": "Listen, record yourself and compare."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "A cup of tea and a cup of coffee for Mom and Dad.",
+          "say": "ə kápə tíi ənə kápə káfi fer mámən dǽd",
+          "es": "Una taza de té y una taza de café para mamá y papá."
+        },
+        {
+          "en": "Bread and butter or salt and pepper?",
+          "say": "brédən bárer er sóltən péper?",
+          "es": "¿Pan con mantequilla o sal y pimienta?"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Leones y ratones",
+      "title_en": "Lions and mice",
+      "es": "Piensa en cada frase como en una sabana: los <b>leones</b> 🦁 (palabras importantes) rugen fuerte y largo; los <b>ratones</b> 🐭 (a, the, to, of, for, and…) corren rapidito entre ellos con su <code>ə</code>. Si los ratones rugen, ¡la frase suena rarísima! Pero sin ratones, la frase no se sostiene.",
+      "en": "Lions (content words) roar; mice (grammar words) run quickly with a schwa."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Ratón o león?",
+      "title_en": "Weak or strong?",
+      "icon": "🔍",
+      "es": "Fíjate en la palabra en negrita. ¿Se dice débil o fuerte en esta frase? Rodea.",
+      "en": "Is the word in bold weak or strong here?",
+      "items": [
+        {
+          "q": "I'm <b>from</b> Spain. → [débil|fuerte]",
+          "a": "débil"
+        },
+        {
+          "q": "Where are you <b>from</b>? → [débil|fuerte]",
+          "a": "fuerte"
+        },
+        {
+          "q": "Go <b>to</b> bed. → [débil|fuerte]",
+          "a": "débil"
+        },
+        {
+          "q": "Who are you talking <b>to</b>? → [débil|fuerte]",
+          "a": "fuerte"
+        },
+        {
+          "q": "It's <b>for</b> you. → [débil|fuerte]",
+          "a": "débil"
+        },
+        {
+          "q": "What's it <b>for</b>? → [débil|fuerte]",
+          "a": "fuerte"
+        },
+        {
+          "q": "I <b>can</b> swim. → [débil|fuerte]",
+          "a": "débil"
+        },
+        {
+          "q": "Yes, I <b>can</b>! → [débil|fuerte]",
+          "a": "fuerte"
+        },
+        {
+          "q": "Look <b>at</b> me. → [débil|fuerte]",
+          "a": "débil"
+        },
+        {
+          "q": "What are you looking <b>at</b>? → [débil|fuerte]",
+          "a": "fuerte"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Leones y ratones",
+      "title_en": "Lions and mice",
+      "icon": "🗂️",
+      "es": "¿Palabra de contenido (fuerte) o gramatical (débil)? Escríbela en su columna.",
+      "en": "Content word or grammar word?",
+      "cats": [
+        {
+          "name": "🦁 Contenido (fuerte)",
+          "words": [
+            "cup",
+            "tea",
+            "Mom",
+            "school",
+            "happy",
+            "eat",
+            "quickly",
+            "house"
+          ]
+        },
+        {
+          "name": "🐭 Gramatical (débil)",
+          "words": [
+            "a",
+            "the",
+            "to",
+            "of",
+            "for",
+            "and",
+            "but",
+            "from"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su forma débil",
+      "title_en": "Match the weak forms",
+      "icon": "🔗",
+      "es": "Une la palabra con cómo suena en medio de una frase.",
+      "en": "Match each word with its weak form.",
+      "pairs": [
+        [
+          "for",
+          "<code>fer</code>"
+        ],
+        [
+          "to",
+          "<code>tə</code>"
+        ],
+        [
+          "of",
+          "<code>əv</code>"
+        ],
+        [
+          "and",
+          "<code>ən</code>"
+        ],
+        [
+          "from",
+          "<code>frəm</code>"
+        ],
+        [
+          "can",
+          "<code>kən</code>"
+        ],
+        [
+          "was",
+          "<code>wəs</code>"
+        ],
+        [
+          "them",
+          "<code>əm</code>"
+        ]
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "Words like «a», «the» and «of» are usually weak.",
+          "a": true
+        },
+        {
+          "q": "«For» in «Thanks for coming» sounds like «four».",
+          "a": false,
+          "why": "es <code>fer</code>, flojito"
+        },
+        {
+          "q": "At the end of a sentence, small words are often strong.",
+          "a": true
+        },
+        {
+          "q": "In «rock and roll», «and» sounds like «n».",
+          "a": true
+        },
+        {
+          "q": "Weak forms are bad, lazy English.",
+          "a": false,
+          "why": "así habla todo el mundo"
+        },
+        {
+          "q": "In «Call her!», you hear a clear «h».",
+          "a": false,
+          "why": "la h se cae: <code>kóler</code>"
+        },
+        {
+          "q": "Nouns and main verbs are usually strong.",
+          "a": true
+        },
+        {
+          "q": "«Can» in «I can swim» is strong.",
+          "a": false,
+          "why": "es débil: <code>kən</code>"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la palabra fuerte",
+      "title_en": "Circle the strong word",
+      "icon": "🥁",
+      "es": "Rodea la palabra fuerte. La otra, dila flojita.",
+      "en": "Circle the strong word. Say the other one weakly.",
+      "items": [
+        {
+          "syl": [
+            "to",
+            "school"
+          ],
+          "s": 1,
+          "es": "al cole"
+        },
+        {
+          "syl": [
+            "for",
+            "Mom"
+          ],
+          "s": 1,
+          "es": "para mamá"
+        },
+        {
+          "syl": [
+            "at",
+            "home"
+          ],
+          "s": 1,
+          "es": "en casa"
+        },
+        {
+          "syl": [
+            "from",
+            "Spain"
+          ],
+          "s": 1,
+          "es": "de España"
+        },
+        {
+          "syl": [
+            "a",
+            "dog"
+          ],
+          "s": 1,
+          "es": "un perro"
+        },
+        {
+          "syl": [
+            "call",
+            "her"
+          ],
+          "s": 0,
+          "es": "llámala"
+        },
+        {
+          "syl": [
+            "ask",
+            "them"
+          ],
+          "s": 0,
+          "es": "pregúntales"
+        },
+        {
+          "syl": [
+            "help",
+            "him"
+          ],
+          "s": 0,
+          "es": "ayúdale"
+        },
+        {
+          "syl": [
+            "the",
+            "park"
+          ],
+          "s": 1,
+          "es": "el parque"
+        },
+        {
+          "syl": [
+            "and",
+            "Dad"
+          ],
+          "s": 1,
+          "es": "y papá"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la frase con la palabra pequeña en su forma débil (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write each phrase with the weak form.",
+      "items": [
+        {
+          "q": "🏫 to school → ____",
+          "a": "tə skúul"
+        },
+        {
+          "q": "🏠 at home → ____",
+          "a": "ət jóum"
+        },
+        {
+          "q": "🇪🇸 from Spain → ____",
+          "a": "frəm spéin"
+        },
+        {
+          "q": "☕ cup of tea → ____",
+          "a": "kápə tíi"
+        },
+        {
+          "q": "🍞 bread and butter → ____",
+          "a": "brédən bárer"
+        },
+        {
+          "q": "📞 call her → ____",
+          "a": "kóler"
+        },
+        {
+          "q": "😍 love them → ____",
+          "a": "lávəm"
+        },
+        {
+          "q": "🤔 you know → ____",
+          "a": "iə nóu"
+        },
+        {
+          "q": "🧦 pair of socks → ____",
+          "a": "pérə sáks"
+        },
+        {
+          "q": "🧂 salt and pepper → ____",
+          "a": "sóltən péper"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Cómo suena aquí?",
+      "title_en": "How does it sound here?",
+      "icon": "👂",
+      "es": "Rodea la pronunciación correcta de la palabra en negrita. ¡Ojo con el contraste!",
+      "en": "Circle the right pronunciation of the word in bold.",
+      "items": [
+        {
+          "q": "Ask <b>her</b>. → [er|jer]",
+          "a": "er"
+        },
+        {
+          "q": "Ask <b>her</b>, not him! → [er|jer]",
+          "a": "jer"
+        },
+        {
+          "q": "Tell <b>him</b>. → [im|jim]",
+          "a": "im"
+        },
+        {
+          "q": "It's for <b>him</b>, not for me. → [im|jim]",
+          "a": "jim"
+        },
+        {
+          "q": "I love <b>them</b>. → [əm|dem]",
+          "a": "əm"
+        },
+        {
+          "q": "<b>Them</b>? No way! → [əm|dem]",
+          "a": "dem"
+        },
+        {
+          "q": "See <b>you</b>! → [iə|iuu]",
+          "a": "iə"
+        },
+        {
+          "q": "Who, <b>you</b>? → [iə|iuu]",
+          "a": "iuu"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa la forma débil o la fuerte.",
+      "en": "Fill in the weak or strong form.",
+      "head": [
+        "Palabra",
+        "Débil",
+        "Fuerte"
+      ],
+      "rows": [
+        [
+          "to",
+          "?tə",
+          "tuu"
+        ],
+        [
+          "for",
+          "fer",
+          "?for"
+        ],
+        [
+          "of",
+          "?əv",
+          "av"
+        ],
+        [
+          "and",
+          "?ən",
+          "ǽnd"
+        ],
+        [
+          "from",
+          "frəm",
+          "?fram"
+        ],
+        [
+          "can",
+          "?kən",
+          "kæn"
+        ],
+        [
+          "was",
+          "wəs",
+          "?was"
+        ],
+        [
+          "them",
+          "?əm",
+          "dem"
+        ],
+        [
+          "at",
+          "?ət",
+          "?æt"
+        ],
+        [
+          "but",
+          "bət",
+          "?bat"
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe la frase como suena",
+      "title_en": "Write the sentence as it sounds",
+      "icon": "🗣️",
+      "es": "Escribe cómo suena la frase entera, con los ratones flojitos.",
+      "en": "Write how the whole sentence sounds.",
+      "items": [
+        {
+          "q": "Go to bed.",
+          "a": "góu tə béd"
+        },
+        {
+          "q": "I'm from Spain.",
+          "a": "aim frəm spéin"
+        },
+        {
+          "q": "It's for Mom.",
+          "a": "its fer mám"
+        },
+        {
+          "q": "Fish and chips",
+          "a": "físhən chíps"
+        },
+        {
+          "q": "Black or white?",
+          "a": "blǽker wáit"
+        },
+        {
+          "q": "Lucía is at home.",
+          "a": "lusíiə isət jóum"
+        },
+        {
+          "q": "It was fun.",
+          "a": "it wəs fán"
+        },
+        {
+          "q": "Call her!",
+          "a": "kóler"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo: un ratón que ruge o un león que susurra. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "a cup of tea → <code>ei kap of tii</code>",
+          "a": "ə kápə tíi"
+        },
+        {
+          "q": "to school → <code>tuu skúul</code>",
+          "a": "tə skúul"
+        },
+        {
+          "q": "for Mom → <code>for mám</code>",
+          "a": "fer mám"
+        },
+        {
+          "q": "you and me → <code>iu ǽnd mi</code>",
+          "a": "iu ən míi"
+        },
+        {
+          "q": "Where are you from? → <code>wérer iə frəm</code>",
+          "a": "wérer iə frám (fuerte al final)"
+        },
+        {
+          "q": "call her → <code>kol jer</code>",
+          "a": "kóler"
+        },
+        {
+          "q": "at home → <code>ǽt jóum</code>",
+          "a": "ət jóum"
+        },
+        {
+          "q": "It was fun → <code>it was fán</code>",
+          "a": "it wəs fán"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena y dilo con ritmo",
+      "title_en": "Put in order and say it",
+      "icon": "🧩",
+      "es": "Ordena las palabras. Después di la frase con los leones fuertes y los ratones flojitos.",
+      "en": "Put the words in order, then say the sentence with the right rhythm.",
+      "items": [
+        {
+          "q": "of / A / tea / cup",
+          "a": "A cup of tea"
+        },
+        {
+          "q": "bed / Go / to",
+          "a": "Go to bed"
+        },
+        {
+          "q": "from / I'm / Spain",
+          "a": "I'm from Spain"
+        },
+        {
+          "q": "and / Fish / chips",
+          "a": "Fish and chips"
+        },
+        {
+          "q": "you / are / Where / from",
+          "a": "Where are you from"
+        },
+        {
+          "q": "or / Tea / coffee",
+          "a": "Tea or coffee"
+        },
+        {
+          "q": "for / This / Mom / is",
+          "a": "This is for Mom"
+        },
+        {
+          "q": "home / at / is / Lucía",
+          "a": "Lucía is at home"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con las formas débiles.",
+      "en": "Translate into English and say it with weak forms.",
+      "items": [
+        {
+          "q": "una taza de té",
+          "a": "a cup of tea (ə kápə tíi)"
+        },
+        {
+          "q": "para mamá",
+          "a": "for Mom (fer mám)"
+        },
+        {
+          "q": "en casa",
+          "a": "at home (ət jóum)"
+        },
+        {
+          "q": "de España",
+          "a": "from Spain (frəm spéin)"
+        },
+        {
+          "q": "pan con mantequilla",
+          "a": "bread and butter (brédən bárer)"
+        },
+        {
+          "q": "¿Té o café?",
+          "a": "Tea or coffee? (tíi-ier káfi)"
+        },
+        {
+          "q": "¿De dónde eres?",
+          "a": "Where are you from? (wérer iə frám)"
+        },
+        {
+          "q": "llámala",
+          "a": "call her (kóler)"
+        },
+        {
+          "q": "¡Me encantan!",
+          "a": "I love 'em! (ai lávəm)"
+        },
+        {
+          "q": "a la cama",
+          "a": "to bed (tə béd)"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido): leones fuertes, ratones flojitos. Marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "A cup of tea for Mom.",
+          "say": "ə kápə tíi fer mám"
+        },
+        {
+          "q": "Go to bed, Rocky!",
+          "say": "góu tə béd, ráki"
+        },
+        {
+          "q": "I'm from Spain. Where are you from?",
+          "say": "aim frəm spéin. wérer iə frám?"
+        },
+        {
+          "q": "Fish and chips, please.",
+          "say": "físhən chíps, pliis"
+        },
+        {
+          "q": "It was a great day.",
+          "say": "it wəsə gréit déi"
+        },
+        {
+          "q": "Call her and ask her.",
+          "say": "kóler ən ǽsker"
+        },
+        {
+          "q": "Tea or coffee?",
+          "say": "tíi-ier káfi?"
+        },
+        {
+          "q": "Bread and butter or salt and pepper?",
+          "say": "brédən bárer er sóltən péper?"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de ratones",
+      "title_en": "Weak word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras gramaticales. Cuando encuentres una, di su forma débil en voz alta.",
+      "en": "Find 10 grammar words and say their weak forms.",
+      "words": [
+        "from",
+        "for",
+        "and",
+        "the",
+        "but",
+        "them",
+        "your",
+        "was",
+        "were",
+        "have"
+      ],
+      "clues": [
+        "from · de, desde",
+        "for · para",
+        "and · y",
+        "the · el, la",
+        "but · pero",
+        "them · ellos (objeto)",
+        "your · tu, vuestro",
+        "was · era, estaba",
+        "were · eran, estaban",
+        "have · haber, tener"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza los ratones",
+      "title_en": "Read and find the weak words",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta con las formas débiles. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Breakfast at Grandma's",
+      "text": [
+        "On Sunday, Mario and Lucía go to their grandma's house for breakfast. Grandma makes a cup of tea for Mario and a glass of milk for Lucía.",
+        "“Bread and butter or eggs?” she asks. “Both!” says Mario. Lucía looks at him and laughs. “You can't eat all of that!” “Yes, I can!”"
+      ],
+      "items": [
+        {
+          "q": "How does «a cup of tea» sound?",
+          "a": "<code>ə kápə tíi</code>"
+        },
+        {
+          "q": "Write three weak words from the first paragraph.",
+          "a": "and, to, their, for, a, of (cualquiera)"
+        },
+        {
+          "q": "Why is «can» strong in «Yes, I can!»?",
+          "a": "Porque va al final de la frase (y con énfasis): <code>kæn</code>"
+        },
+        {
+          "q": "Grandma makes tea for Lucía.",
+          "tf": true,
+          "a": false,
+          "why": "el té es para Mario; Lucía toma leche"
+        },
+        {
+          "q": "In «bread and butter», «and» sounds «ən».",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «looks at him», you hear a clear «h».",
+          "tf": true,
+          "a": false,
+          "why": "se cae: <code>lúksərim</code>"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas. Subraya los leones, léelas con los ratones flojitos y grábate.",
+      "en": "Write three sentences and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con <b>a cup of</b>, <b>a glass of</b> o <b>a pair of</b>.",
+          "lines": 2,
+          "a": "Ej.: I'd like a glass of orange juice."
+        },
+        {
+          "q": "Una frase con <b>and</b> entre dos cosas que te gusten.",
+          "lines": 2,
+          "a": "Ej.: I love pizza and ice cream."
+        },
+        {
+          "q": "Una pregunta que acabe en <b>from</b>, <b>for</b> o <b>to</b> (¡forma fuerte!).",
+          "lines": 2,
+          "a": "Ej.: Where is your teacher from?"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Distingo los leones 🦁 (contenido) de los ratones 🐭 (gramaticales).",
+      "en": "I can tell content words from grammar words."
+    },
+    {
+      "es": "Digo a, the, to, of, for y and con schwa: <code>ə kápə tíi</code>.",
+      "en": "I can say weak forms with a schwa."
+    },
+    {
+      "es": "Sé que of y and pierden letras: <code>kápə</code>, <code>rákən róul</code>.",
+      "en": "I know «of» and «and» lose sounds."
+    },
+    {
+      "es": "Digo him, her y them flojitos: <code>kóler</code>, <code>lávəm</code>.",
+      "en": "I can say weak pronouns."
+    },
+    {
+      "es": "Uso la forma fuerte al final: Where are you <b>from</b>?",
+      "en": "I use strong forms at the end of a sentence."
+    },
+    {
+      "es": "Puedo leer «Bread and butter or salt and pepper?» sin que rujan los ratones.",
+      "en": "I can say the bread and butter tongue twister."
+    }
+  ]
+}

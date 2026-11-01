@@ -1,0 +1,1634 @@
+{
+  "id": "C-05",
+  "block": "C",
+  "title": "TH SONORA <em>/ð/</em>",
+  "file_title": "TH sonora /ð/",
+  "subtitle": "The voiced TH · the = «də»",
+  "icon": "🐝",
+  "map": {
+    "center": "La <b>TH sonora</b> /ð/ es una <b>d suave</b>, como la de «na<b>d</b>a», con la lengua entre los dientes y <b>zumbando</b>: the = <code>də</code>.",
+    "listen": "this",
+    "nodes": [
+      {
+        "title": "Así se pone la boca",
+        "icon": "👅",
+        "color": "green",
+        "items": [
+          "lengua <b>entre los dientes</b>",
+          "la garganta <b>zumba</b> 🐝",
+          "sin golpe: el aire sigue"
+        ]
+      },
+      {
+        "title": "Palabras pequeñas",
+        "icon": "👉",
+        "color": "blue",
+        "chips": [
+          "the",
+          "this",
+          "that",
+          "they",
+          "them",
+          "there",
+          "then"
+        ],
+        "after": "¡las más usadas del inglés!"
+      },
+      {
+        "title": "Entre vocales",
+        "icon": "👨‍👩‍👦",
+        "color": "purple",
+        "rows": [
+          [
+            "mother",
+            "<code>máder</code>"
+          ],
+          [
+            "brother",
+            "<code>bráder</code>"
+          ],
+          [
+            "weather",
+            "<code>wéder</code>"
+          ]
+        ]
+      },
+      {
+        "title": "The: dos formas",
+        "icon": "🍎",
+        "color": "orange",
+        "rows": [
+          [
+            "the dog",
+            "<code>də dog</code>"
+          ],
+          [
+            "the apple",
+            "<code>di ǽpəl</code>"
+          ]
+        ],
+        "after": "delante de <b>vocal</b>: <code>di</code>"
+      },
+      {
+        "title": "¡Ni D fuerte ni Z!",
+        "icon": "🚫",
+        "color": "pink",
+        "items": [
+          "they ≠ day (día)",
+          "then ≠ den (guarida)",
+          "<s>mózer</s> → <code>máder</code>"
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Di «na<b>d</b>a» despacio, saca la lengua en la d y haz que <b>zumbe</b>. ¡Esa es la TH de <b>the</b>!",
+        "art": "🐝"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "<code>zis</code>, <code>mózer</code> (con z)"
+      ],
+      "good": [
+        "<code>dis</code>, <code>máder</code> 🐝"
+      ],
+      "note": "La TH de this y mother zumba: d suave, no z."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "👉 this → ____",
+          "a": "dis"
+        },
+        {
+          "q": "👩 mother → ____",
+          "a": "máder"
+        },
+        {
+          "q": "👦 brother → ____",
+          "a": "bráder"
+        },
+        {
+          "q": "🤝 together → ____",
+          "a": "təguéder"
+        },
+        {
+          "q": "🍎 the apple → ____",
+          "a": "di ǽpəl"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la TH sonora?",
+      "title_en": "What is the voiced TH?",
+      "icon": "🔎",
+      "es": "Es la TH de <b>the</b>, <b>this</b>, <b>they</b> o <b>mother</b>, y la oirás a todas horas: the es la palabra más usada del inglés. La boca se pone igual que en la TH sorda (mapa C-04), pero ahora la garganta <mark>vibra y zumba</mark> como una abeja 🐝. Suena parecida a la <b>d suave</b> de «na<b>d</b>a» o «ca<b>d</b>a», con la lengua un poco más fuera. En la figurada la escribimos <code>d</code>: recuerda que es <b>suave</b>, nunca la d fuerte de «<b>d</b>ía».",
+      "en": "The voiced TH in the, this, they and mother is like the soft Spanish d in «nada», with your tongue between your teeth and a buzz in your throat.",
+      "formula": [
+        "lengua *entre los dientes* + *voz* (zumbido) → /ð/"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "tongue",
+          "es": "Igual que en la TH sorda: la punta asoma <b>entre los dientes</b>, sin apretar.",
+          "en": "Tongue tip between your teeth, relaxed."
+        },
+        {
+          "part": "voice",
+          "es": "Aquí sí: la garganta <b>vibra</b>. Mano en el cuello: tiene que zumbar como una abeja 🐝.",
+          "en": "Your throat vibrates: it buzzes like a bee."
+        },
+        {
+          "part": "air",
+          "es": "El aire sale <b>sin parar</b>: no hay golpe. Si la lengua se pega y «explota», te sale una d española fuerte.",
+          "en": "The air keeps flowing: no stop, no pop."
+        },
+        {
+          "part": "teeth",
+          "es": "Los dientes de arriba <b>rozan</b> la lengua, sin morderla.",
+          "en": "Your top teeth touch your tongue lightly."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Las palabras pequeñas",
+      "title_en": "The little words",
+      "icon": "👉",
+      "es": "Casi todas las palabras pequeñas que empiezan por TH llevan la sonora: <b>the, this, that, these, those, they, them, their, there, then, than, though</b>. Son tantas que <mark>la mayoría de las TH que dirás en tu vida son sonoras</mark>. Dilas suaves y rápidas, sin golpe.",
+      "en": "Almost all the little TH words are voiced: the, this, that, they, them, there, then… They are everywhere!",
+      "examples": [
+        {
+          "en": "the",
+          "say": "də",
+          "es": "el / la",
+          "icon": "📌"
+        },
+        {
+          "en": "this",
+          "say": "dis",
+          "es": "esto / este",
+          "icon": "👉"
+        },
+        {
+          "en": "that",
+          "say": "dæt",
+          "es": "eso / ese",
+          "icon": "👈"
+        },
+        {
+          "en": "they",
+          "say": "dei",
+          "es": "ellos / ellas",
+          "icon": "👥"
+        },
+        {
+          "en": "them",
+          "say": "dem",
+          "es": "les / los",
+          "icon": "👫"
+        },
+        {
+          "en": "there",
+          "say": "der",
+          "es": "allí",
+          "icon": "📍"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · TH entre vocales",
+      "title_en": "TH between vowels",
+      "icon": "👨‍👩‍👦",
+      "es": "Entre vocales, sobre todo en <b>-ther</b>, la TH es sonora: mother, brother, father, other, weather, together. Aquí lo tienes fácil: es el mismo sitio que la d de «na<b>d</b>a», que ya dices entre vocales. Solo saca un poco más la lengua y que zumbe.",
+      "en": "Between vowels, especially in -ther, TH is voiced: mother, brother, father, weather, together.",
+      "formula": [
+        "mo + *th* + er → má*d*er"
+      ],
+      "examples": [
+        {
+          "en": "mother",
+          "say": "máder",
+          "es": "madre",
+          "icon": "👩"
+        },
+        {
+          "en": "brother",
+          "say": "bráder",
+          "es": "hermano",
+          "icon": "👦"
+        },
+        {
+          "en": "weather",
+          "say": "wéder",
+          "es": "tiempo (clima)",
+          "icon": "⛅"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · The: «də» o «di»",
+      "title_en": "The: «də» or «di»",
+      "icon": "🍎",
+      "es": "<b>The</b> tiene dos formas. Delante de <b>consonante</b>, con schwa relajada: the dog = <code>də dog</code>. Delante de <b>sonido vocal</b>, con i: the apple = <code>di ǽpəl</code>. Cuenta el <b>sonido</b>, no la letra: the hour = <code>di áuer</code> (H muda), pero the university = <code>də iunəvérsəri</code>. (Hablando rápido, algunos americanos dicen <code>də</code> también delante de vocal, pero <code>di</code> nunca falla.)",
+      "en": "Before a consonant sound, the = «də»; before a vowel sound, the = «di»: the dog, the apple, the hour.",
+      "examples": [
+        {
+          "en": "the dog",
+          "say": "də dog",
+          "es": "el perro",
+          "icon": "🐶"
+        },
+        {
+          "en": "the apple",
+          "say": "di ǽpəl",
+          "es": "la manzana",
+          "icon": "🍎"
+        },
+        {
+          "en": "the end",
+          "say": "di end",
+          "es": "el final",
+          "icon": "🎬"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · TH sonora al final",
+      "title_en": "Voiced TH at the end",
+      "icon": "🌬️",
+      "es": "La TH final suele ser sorda (mouth, bath), pero los <b>verbos acabados en -the</b> llevan la sonora: breathe, bathe. Compara breath /brɛθ/ (aliento) y breathe /briːð/ (respirar): ¡hasta cambia la vocal! Y <b>with</b> se oye de las dos maneras: <code>wid</code> o <code>wiz</code>.",
+      "en": "Verbs ending in -the are voiced: breathe, bathe. Compare breath (noun) and breathe (verb).",
+      "examples": [
+        {
+          "en": "breathe",
+          "say": "briid",
+          "es": "respirar",
+          "icon": "🌬️"
+        },
+        {
+          "en": "bathe",
+          "say": "beid",
+          "es": "bañar(se)",
+          "icon": "🛁"
+        },
+        {
+          "en": "with",
+          "say": "wid",
+          "es": "con",
+          "icon": "🤝"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "the",
+          "ipa": "ðə",
+          "say": "də",
+          "es": "el / la",
+          "icon": "📌",
+          "anchor": "nada <b>de</b> nada 🤷",
+          "tip": "Esa «de» blandita y relajada, con la lengua asomando. Delante de vocal: <code>di</code>."
+        },
+        {
+          "en": "this",
+          "ipa": "ðɪs",
+          "say": "dis",
+          "es": "esto",
+          "icon": "👉",
+          "anchor": "la <b>dis</b>co 🪩",
+          "tip": "Di «la disco»: la d sale suave porque va detrás de vocal. Saca un poco la lengua: ¡this!"
+        },
+        {
+          "en": "that",
+          "ipa": "ðæt",
+          "say": "dæt",
+          "es": "eso",
+          "icon": "👈",
+          "anchor": "ese <b>dat</b>o 📊",
+          "tip": "«Ese dato» con la d blandita. Abre la a con sonrisa (mapa V-03)."
+        },
+        {
+          "en": "them",
+          "ipa": "ðɛm",
+          "say": "dem",
+          "es": "les / los",
+          "icon": "👫",
+          "anchor": "aca<b>dem</b>ia 🏫",
+          "tip": "En «academia» la d va entre vocales y sale suave: ¡igual que them!"
+        },
+        {
+          "en": "then",
+          "ipa": "ðɛn",
+          "say": "den",
+          "es": "luego",
+          "icon": "➡️",
+          "anchor": "ca<b>den</b>a ⛓️",
+          "tip": "«Cadena»: la d blandita de en medio + en. Then = luego."
+        },
+        {
+          "en": "there",
+          "ipa": "ðɛr",
+          "say": "der",
+          "es": "allí",
+          "icon": "📍",
+          "anchor": "po<b>der</b> 💪",
+          "tip": "«Poder» con la d suave y la R final americana (mapa C-01)."
+        },
+        {
+          "en": "those",
+          "ipa": "ðoʊz",
+          "say": "dous",
+          "es": "esos",
+          "icon": "👇",
+          "anchor": "los <b>dos</b> ✌️",
+          "tip": "Casi: «los dos» con d blandita, pero redondea la o: <code>dous</code> (mapa V-08)."
+        },
+        {
+          "en": "feather",
+          "ipa": "ˈfɛðɚ",
+          "say": "féder",
+          "es": "pluma",
+          "icon": "🪶",
+          "anchor": "<b>Feder</b>er 🎾",
+          "tip": "Como el tenista, con la d suave: <code>féder</code>. ¡Federer juega con una pluma!"
+        },
+        {
+          "en": "mother",
+          "ipa": "ˈmʌðɚ",
+          "say": "máder",
+          "es": "madre",
+          "icon": "👩",
+          "anchor": "<s>madera</s> 🪵 → <b>MÁder</b>",
+          "tip": "Se parece a «madera», pero la fuerza va en MÁ y no hay -a final."
+        },
+        {
+          "en": "they",
+          "ipa": "ðeɪ",
+          "say": "dei",
+          "es": "ellos",
+          "icon": "👥",
+          "anchor": "<s>day</s> 📅 → <b>dei</b> suave",
+          "tip": "Con d fuerte dices «day» (día). Con la lengua fuera y zumbando, they."
+        },
+        {
+          "en": "brother",
+          "ipa": "ˈbrʌðɚ",
+          "say": "bráder",
+          "es": "hermano",
+          "icon": "👦",
+          "anchor": "<s>brózer</s> → <b>BRÁder</b>",
+          "tip": "¡Con z suena a TH sorda! Brother zumba: d suave."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "this",
+          "es": "esto"
+        },
+        {
+          "q": "that",
+          "es": "eso"
+        },
+        {
+          "q": "they",
+          "es": "ellos"
+        },
+        {
+          "q": "mother",
+          "es": "madre"
+        },
+        {
+          "q": "brother",
+          "es": "hermano"
+        },
+        {
+          "q": "together",
+          "es": "juntos"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Sonora o sorda? Pistas",
+      "title_en": "Voiced or voiceless? Clues",
+      "icon": "🧭",
+      "head": [
+        "Pista · Clue",
+        "🐝 Sonora /ð/",
+        "🤫 Sorda /θ/"
+      ],
+      "rows": [
+        [
+          "palabras pequeñas",
+          "the, this, that, they, them, there, then",
+          "—"
+        ],
+        [
+          "palabras «grandes» con TH- al principio",
+          "—",
+          "think, three, thank, Thursday (C-04)"
+        ],
+        [
+          "-THER entre vocales",
+          "mother, brother, father, weather, together",
+          "<i>excepciones:</i> author, Arthur"
+        ],
+        [
+          "verbo con -THE final",
+          "breathe, bathe",
+          "—"
+        ],
+        [
+          "sustantivo con -TH final",
+          "—",
+          "breath, bath, mouth, tooth"
+        ],
+        [
+          "with",
+          "<code>wid</code> (muy común)",
+          "<code>wiz</code> (también)"
+        ]
+      ],
+      "note": "Si dudas, pregúntate: ¿es una palabra pequeña de las que se repiten sin parar? Entonces, <b>sonora</b>.",
+      "note_en": "If it's a small, very common word, it's voiced."
+    },
+    {
+      "t": "compare",
+      "wide": true,
+      "title": "Tres D distintas",
+      "title_en": "Three different Ds",
+      "icon": "🔁",
+      "es": "En español ya tienes dos d. La TH sonora se parece a la suave, pero con la lengua más fuera y más zumbido.",
+      "en": "Spanish has a hard d and a soft d. The voiced TH is like the soft one, with more buzz.",
+      "cols": [
+        {
+          "head": "🇪🇸 d fuerte",
+          "color": "blue",
+          "items": [
+            "la lengua <b>golpea</b> detrás de los dientes",
+            "tras pausa, n o l: <b>d</b>ía, an<b>d</b>a, fal<b>d</b>a",
+            "en inglés: day, dog, den"
+          ]
+        },
+        {
+          "head": "🇪🇸 d suave",
+          "color": "green",
+          "items": [
+            "la lengua <b>casi no toca</b>",
+            "entre vocales: na<b>d</b>a, ca<b>d</b>a, to<b>d</b>o",
+            "¡tu punto de partida!"
+          ]
+        },
+        {
+          "head": "🇺🇸 TH sonora",
+          "color": "orange",
+          "items": [
+            "lengua <b>entre los dientes</b> y zumbido",
+            "the, this, mother",
+            "una d suave «con más ganas»"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "¡No es una D fuerte!",
+      "title_en": "Not a hard D!",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "they",
+            "ipa": "ðeɪ",
+            "say": "dei",
+            "es": "ellos",
+            "icon": "👥"
+          },
+          "b": {
+            "en": "day",
+            "ipa": "deɪ",
+            "say": "dei",
+            "es": "día",
+            "icon": "📅"
+          },
+          "tip": "Misma figurada, distinta lengua: en they asoma entre los dientes y zumba; en day golpea detrás."
+        },
+        {
+          "a": {
+            "en": "then",
+            "ipa": "ðɛn",
+            "say": "den",
+            "es": "luego",
+            "icon": "➡️"
+          },
+          "b": {
+            "en": "den",
+            "ipa": "dɛn",
+            "say": "den",
+            "es": "guarida",
+            "icon": "🦁"
+          },
+          "tip": "Then es «luego»; den es la cueva del león."
+        },
+        {
+          "a": {
+            "en": "those",
+            "ipa": "ðoʊz",
+            "say": "dous",
+            "es": "esos",
+            "icon": "👇"
+          },
+          "b": {
+            "en": "doze",
+            "ipa": "doʊz",
+            "say": "dous",
+            "es": "dormitar",
+            "icon": "😴"
+          },
+          "tip": "Si dices doze, ¡te quedas dormido!"
+        },
+        {
+          "a": {
+            "en": "though",
+            "ipa": "ðoʊ",
+            "say": "dou",
+            "es": "aunque",
+            "icon": "🤷"
+          },
+          "b": {
+            "en": "dough",
+            "ipa": "doʊ",
+            "say": "dou",
+            "es": "masa",
+            "icon": "🍞"
+          },
+          "tip": "Aunque (though) tengas las manos en la masa (dough)… ¡saca la lengua!"
+        },
+        {
+          "a": {
+            "en": "breath",
+            "ipa": "brɛθ",
+            "say": "brez",
+            "es": "aliento",
+            "icon": "💨"
+          },
+          "b": {
+            "en": "breathe",
+            "ipa": "briːð",
+            "say": "briid",
+            "es": "respirar",
+            "icon": "🌬️"
+          },
+          "tip": "Sustantivo: TH sorda y e corta. Verbo: TH sonora e i larga."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "This is my brother.",
+          "say": "dis is mai bráder",
+          "es": "Este es mi hermano.",
+          "icon": "👦"
+        },
+        {
+          "en": "That's my mother.",
+          "say": "dæts mai máder",
+          "es": "Esa es mi madre.",
+          "icon": "👩"
+        },
+        {
+          "en": "They live together.",
+          "say": "dei liv təguéder",
+          "es": "Viven juntos.",
+          "icon": "🏡"
+        },
+        {
+          "en": "The weather is nice today.",
+          "say": "də wéder is nais tədéi",
+          "es": "Hoy hace buen tiempo.",
+          "icon": "⛅"
+        },
+        {
+          "en": "Where are the others?",
+          "say": "wer ar di áders?",
+          "es": "¿Dónde están los demás?",
+          "icon": "👀"
+        },
+        {
+          "en": "I like this one, not that one.",
+          "say": "ai laik dis wan, nat dæt wan",
+          "es": "Me gusta este, no ese.",
+          "icon": "👉"
+        },
+        {
+          "en": "Breathe in, breathe out.",
+          "say": "briid in, briid aut",
+          "es": "Inspira, espira.",
+          "icon": "🧘"
+        },
+        {
+          "en": "Then we went home.",
+          "say": "den wi went joum",
+          "es": "Luego nos fuimos a casa.",
+          "icon": "🏠"
+        },
+        {
+          "en": "Is that your father?",
+          "say": "is dæt ior fáder?",
+          "es": "¿Ese es tu padre?",
+          "icon": "👨"
+        },
+        {
+          "en": "The apple is red.",
+          "say": "di ǽpəl is red",
+          "es": "La manzana es roja.",
+          "icon": "🍎"
+        },
+        {
+          "en": "Come with me!",
+          "say": "kam wid mi!",
+          "es": "¡Ven conmigo!",
+          "icon": "🤝"
+        },
+        {
+          "en": "There are three of them.",
+          "say": "dérer zrii əv dem",
+          "es": "Hay tres.",
+          "icon": "3️⃣"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "the → <code>de</code> (d fuerte)",
+          "good": "<code>də</code>",
+          "why": "D suave con la lengua entre los dientes; y la e, relajada (schwa).",
+          "why_en": "Soft, buzzing TH and a relaxed vowel."
+        },
+        {
+          "bad": "this → <code>zis</code>",
+          "good": "<code>dis</code>",
+          "why": "No todas las TH son z: las palabras pequeñas llevan la sonora.",
+          "why_en": "Little words use the voiced TH."
+        },
+        {
+          "bad": "mother → <code>mózer</code>",
+          "good": "<code>máder</code>",
+          "why": "Es sonora: zumba. Y la o suena «a» (mapa V-04).",
+          "why_en": "It's voiced, and the O sounds like «a»."
+        },
+        {
+          "bad": "they → <code>dei</code> con D fuerte",
+          "good": "<code>dei</code> suave 🐝",
+          "why": "Con la d fuerte de «día» dices day.",
+          "why_en": "A hard D turns «they» into «day»."
+        },
+        {
+          "bad": "the apple → <code>də ǽpəl</code>",
+          "good": "<code>di ǽpəl</code>",
+          "why": "Delante de sonido vocal, the suena «di».",
+          "why_en": "Before a vowel sound, say «di»."
+        },
+        {
+          "bad": "weather → <code>wéter</code>",
+          "good": "<code>wéder</code>",
+          "why": "Ni t ni z: una d suave que zumba.",
+          "why_en": "Not T, not Z: a buzzing soft D."
+        },
+        {
+          "bad": "breathe → <code>brez</code>",
+          "good": "<code>briid</code>",
+          "why": "Eso es breath (aliento). El verbo zumba y lleva i larga.",
+          "why_en": "That's «breath». The verb is voiced, with a long «ee»."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "La foto de familia",
+      "title_en": "The family photo",
+      "lines": [
+        {
+          "who": "Jenny",
+          "en": "Who's that?",
+          "say": "juus dæt?",
+          "es": "¿Quién es esa?"
+        },
+        {
+          "who": "Mario",
+          "en": "That's my mother, and this is my father.",
+          "say": "dæts mai máder, ənd dis is mai fáder",
+          "es": "Esa es mi madre, y este es mi padre."
+        },
+        {
+          "who": "Jenny",
+          "en": "And who are they?",
+          "say": "ənd juu ar dei?",
+          "es": "¿Y quiénes son ellos?"
+        },
+        {
+          "who": "Mario",
+          "en": "They're my brother and my sister.",
+          "say": "der mai bráder ənd mai síster",
+          "es": "Son mi hermano y mi hermana."
+        },
+        {
+          "who": "Jenny",
+          "en": "Do you all live together?",
+          "say": "du iu ol liv təguéder?",
+          "es": "¿Vivís todos juntos?"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes, the four of us and Rocky, the dog!",
+          "say": "iés, də for əv as ənd ráki, də dog!",
+          "es": "¡Sí, los cuatro y Rocky, el perro!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Rocky is in the photo too! Over there!",
+          "say": "ráki is in də fóurou tuu! óuver der!",
+          "es": "¡Rocky también sale en la foto! ¡Ahí!"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes! The weather was nice that day.",
+          "say": "iés! də wéder wəs nais dæt dei",
+          "es": "¡Sí! Ese día hizo buen tiempo."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di «na<b>d</b>a», «ca<b>d</b>a», «to<b>d</b>o» despacio. Esa d blandita es tu punto de partida.",
+          "en": "Say «nada» slowly: that soft d is your starting point."
+        },
+        {
+          "es": "Ahora saca un poco más la lengua entre los dientes y haz que <b>zumbe</b>. Mano en el cuello: ¡tiene que vibrar! 🐝",
+          "en": "Put your tongue out a bit more and buzz."
+        },
+        {
+          "es": "Practica las palabras pequeñas en cadena, suaves y sin golpe: <code>də, dis, dæt, dei, dem, der</code>.",
+          "en": "Chain the little words: the, this, that, they, them, there."
+        },
+        {
+          "es": "Pasa a las de en medio: <code>máder</code>, <code>bráder</code>, <code>wéder</code>, <code>təguéder</code>. ¡Que no se te escape una z!",
+          "en": "Then the middle ones: mother, brother, weather, together."
+        },
+        {
+          "es": "Lee frases enteras y <b>grábate</b>: <code>dis is mai bráder</code>. ¿Zumba tu TH? Compara con los QR.",
+          "en": "Read whole sentences and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "This, that, these and those.",
+          "say": "dis, dæt, diis ənd dous",
+          "es": "Esto, eso, estos y esos."
+        },
+        {
+          "en": "The mother and the father gather together.",
+          "say": "də máder ənd də fáder gǽder təguéder",
+          "es": "La madre y el padre se reúnen."
+        },
+        {
+          "en": "Their brother's feather is over there with the others.",
+          "say": "der bráders féder is óuver der wid di áders",
+          "es": "La pluma de su hermano está allí con las demás."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de la abeja",
+      "title_en": "The bee trick",
+      "es": "La TH de the, this y mother es la TH que <b>zumba</b> 🐝. Si notas cosquillas en la lengua y vibración en el cuello, ¡lo estás haciendo bien! Si suena a «z», te falta voz; si suena a la d de «día», te sobra golpe.",
+      "en": "The voiced TH buzzes like a bee. If your tongue tickles and your throat vibrates, you've got it!"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿TH o D?",
+      "title_en": "TH or D?",
+      "icon": "🔍",
+      "es": "Lee la pista y rodea la palabra correcta. Después dila: ¡solo una lleva TH!",
+      "en": "Read the clue, circle the right word and say it.",
+      "items": [
+        {
+          "q": "👥 ellos → [they|day]",
+          "a": "they"
+        },
+        {
+          "q": "📅 día → [they|day]",
+          "a": "day"
+        },
+        {
+          "q": "➡️ luego → [then|den]",
+          "a": "then"
+        },
+        {
+          "q": "🦁 guarida → [then|den]",
+          "a": "den"
+        },
+        {
+          "q": "👇 esos → [those|doze]",
+          "a": "those"
+        },
+        {
+          "q": "😴 dormitar → [those|doze]",
+          "a": "doze"
+        },
+        {
+          "q": "🤷 aunque → [though|dough]",
+          "a": "though"
+        },
+        {
+          "q": "🍞 masa → [though|dough]",
+          "a": "dough"
+        },
+        {
+          "q": "🌬️ respirar → [breath|breathe]",
+          "a": "breathe"
+        },
+        {
+          "q": "💨 aliento → [breath|breathe]",
+          "a": "breath"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Də o di?",
+      "title_en": "«Də» or «di»?",
+      "icon": "🍎",
+      "es": "¿Cómo suena the delante de cada palabra? Rodea. Recuerda: cuenta el <b>sonido</b>, no la letra.",
+      "en": "How does «the» sound before each word?",
+      "items": [
+        {
+          "q": "the dog → [də|di]",
+          "a": "də"
+        },
+        {
+          "q": "the apple → [də|di]",
+          "a": "di"
+        },
+        {
+          "q": "the end → [də|di]",
+          "a": "di"
+        },
+        {
+          "q": "the cat → [də|di]",
+          "a": "də"
+        },
+        {
+          "q": "the orange → [də|di]",
+          "a": "di"
+        },
+        {
+          "q": "the house → [də|di]",
+          "a": "də"
+        },
+        {
+          "q": "the egg → [də|di]",
+          "a": "di"
+        },
+        {
+          "q": "the umbrella → [də|di]",
+          "a": "di"
+        },
+        {
+          "q": "the bus → [də|di]",
+          "a": "də"
+        },
+        {
+          "q": "the hour → [də|di]",
+          "a": "di"
+        },
+        {
+          "q": "the university → [də|di]",
+          "a": "də"
+        },
+        {
+          "q": "the idea → [də|di]",
+          "a": "di"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Sorda o sonora?",
+      "title_en": "Voiceless or voiced?",
+      "icon": "🗂️",
+      "es": "Pon la mano en el cuello, di cada palabra y escríbela en su columna.",
+      "en": "Hand on your throat: sort the words.",
+      "cats": [
+        {
+          "name": "🤫 Sorda /θ/ (C-04)",
+          "words": [
+            "think",
+            "three",
+            "mouth",
+            "math",
+            "birthday",
+            "Thursday",
+            "thank",
+            "both"
+          ]
+        },
+        {
+          "name": "🐝 Sonora /ð/",
+          "words": [
+            "the",
+            "this",
+            "mother",
+            "brother",
+            "weather",
+            "they",
+            "together",
+            "breathe"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "the",
+          "<code>də</code>"
+        ],
+        [
+          "this",
+          "<code>dis</code>"
+        ],
+        [
+          "mother",
+          "<code>máder</code>"
+        ],
+        [
+          "brother",
+          "<code>bráder</code>"
+        ],
+        [
+          "weather",
+          "<code>wéder</code>"
+        ],
+        [
+          "together",
+          "<code>təguéder</code>"
+        ],
+        [
+          "breathe",
+          "<code>briid</code>"
+        ],
+        [
+          "the end",
+          "<code>di end</code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Usa <b>d</b> para la TH sonora (¡suave!) y pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "👈 that → ____",
+          "a": "dæt"
+        },
+        {
+          "q": "👥 they → ____",
+          "a": "dei"
+        },
+        {
+          "q": "👫 them → ____",
+          "a": "dem"
+        },
+        {
+          "q": "📍 there → ____",
+          "a": "der"
+        },
+        {
+          "q": "👨 father → ____",
+          "a": "fáder"
+        },
+        {
+          "q": "🔁 other → ____",
+          "a": "áder"
+        },
+        {
+          "q": "🪶 feather → ____",
+          "a": "féder"
+        },
+        {
+          "q": "👇 those → ____",
+          "a": "dous"
+        },
+        {
+          "q": "🤝 with → ____",
+          "a": "wid"
+        },
+        {
+          "q": "🛁 bathe → ____",
+          "a": "beid"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "The voiced TH sounds like the soft d in «nada».",
+          "a": true
+        },
+        {
+          "q": "For /ð/, your throat vibrates.",
+          "a": true
+        },
+        {
+          "q": "«This» is pronounced with the Spanish z: «zis».",
+          "a": false,
+          "why": "es sonora: dis"
+        },
+        {
+          "q": "Before a vowel sound, «the» sounds like «di».",
+          "a": true
+        },
+        {
+          "q": "«They» and «day» are said exactly the same way.",
+          "a": false,
+          "why": "en they la lengua asoma y zumba"
+        },
+        {
+          "q": "«Breath» and «breathe» have the same TH.",
+          "a": false,
+          "why": "breath /θ/, breathe /ð/"
+        },
+        {
+          "q": "Little words like «the», «this» and «they» use the voiced TH.",
+          "a": true
+        },
+        {
+          "q": "«Mother» has a voiceless TH, like «think».",
+          "a": false,
+          "why": "es sonora: máder"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte y di la palabra con la TH que zumba.",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "moth",
+            "er"
+          ],
+          "s": 0,
+          "es": "madre"
+        },
+        {
+          "syl": [
+            "broth",
+            "er"
+          ],
+          "s": 0,
+          "es": "hermano"
+        },
+        {
+          "syl": [
+            "fa",
+            "ther"
+          ],
+          "s": 0,
+          "es": "padre"
+        },
+        {
+          "syl": [
+            "weath",
+            "er"
+          ],
+          "s": 0,
+          "es": "tiempo"
+        },
+        {
+          "syl": [
+            "to",
+            "geth",
+            "er"
+          ],
+          "s": 1,
+          "es": "juntos"
+        },
+        {
+          "syl": [
+            "oth",
+            "er"
+          ],
+          "s": 0,
+          "es": "otro"
+        },
+        {
+          "syl": [
+            "an",
+            "oth",
+            "er"
+          ],
+          "s": 1,
+          "es": "otro más"
+        },
+        {
+          "syl": [
+            "fur",
+            "ther"
+          ],
+          "s": 0,
+          "es": "más lejos"
+        },
+        {
+          "syl": [
+            "al",
+            "though"
+          ],
+          "s": 1,
+          "es": "aunque"
+        },
+        {
+          "syl": [
+            "with",
+            "out"
+          ],
+          "s": 1,
+          "es": "sin"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "the → <code>zə</code>",
+          "a": "də"
+        },
+        {
+          "q": "this → <code>zis</code>",
+          "a": "dis"
+        },
+        {
+          "q": "mother → <code>mózer</code>",
+          "a": "máder"
+        },
+        {
+          "q": "weather → <code>wéter</code>",
+          "a": "wéder"
+        },
+        {
+          "q": "the apple → <code>də ǽpəl</code>",
+          "a": "di ǽpəl"
+        },
+        {
+          "q": "together → <code>tugéder</code>",
+          "a": "təguéder"
+        },
+        {
+          "q": "breathe → <code>brez</code>",
+          "a": "briid"
+        },
+        {
+          "q": "brother → <code>bróder</code>",
+          "a": "bráder"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe cómo suena la frase",
+      "title_en": "Write how the sentence sounds",
+      "icon": "🔗",
+      "es": "Escribe cómo suena la frase entera. Recuerda: <b>d</b> suave para la TH sonora.",
+      "en": "Write how the whole sentence sounds.",
+      "items": [
+        {
+          "q": "This is my mother.",
+          "a": "dis is mai máder"
+        },
+        {
+          "q": "That's my brother.",
+          "a": "dæts mai bráder"
+        },
+        {
+          "q": "They are together.",
+          "a": "dei ar təguéder"
+        },
+        {
+          "q": "the end",
+          "a": "di end"
+        },
+        {
+          "q": "the other day",
+          "a": "di áder dei"
+        },
+        {
+          "q": "Breathe in!",
+          "a": "briid in"
+        },
+        {
+          "q": "Is that your father?",
+          "a": "is dæt ior fáder?"
+        },
+        {
+          "q": "There they are!",
+          "a": "der dei ar!"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧩",
+      "es": "Ordena las palabras y lee la frase con la TH que zumba.",
+      "en": "Put the words in order and read the sentence.",
+      "items": [
+        {
+          "q": "is / This / brother / my",
+          "a": "This is my brother."
+        },
+        {
+          "q": "together / They / live",
+          "a": "They live together."
+        },
+        {
+          "q": "nice / weather / The / is",
+          "a": "The weather is nice."
+        },
+        {
+          "q": "that / Who / is",
+          "a": "Who is that?"
+        },
+        {
+          "q": "mother / That's / my",
+          "a": "That's my mother."
+        },
+        {
+          "q": "them / with / Come",
+          "a": "Come with them!"
+        },
+        {
+          "q": "there / over / It's",
+          "a": "It's over there."
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "This and that.",
+          "say": "dis ənd dæt"
+        },
+        {
+          "q": "They're there.",
+          "say": "der der"
+        },
+        {
+          "q": "Mother and father.",
+          "say": "máder ənd fáder"
+        },
+        {
+          "q": "The end!",
+          "say": "di end!"
+        },
+        {
+          "q": "Breathe in, breathe out.",
+          "say": "briid in, briid aut"
+        },
+        {
+          "q": "All together now!",
+          "say": "ol təguéder nau!"
+        },
+        {
+          "q": "Is this the one?",
+          "say": "is dis də wan?"
+        },
+        {
+          "q": "My brother's feather.",
+          "say": "mai bráders féder"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con la TH que zumba.",
+      "en": "Translate into English and say it.",
+      "items": [
+        {
+          "q": "madre",
+          "a": "mother (máder)"
+        },
+        {
+          "q": "hermano",
+          "a": "brother (bráder)"
+        },
+        {
+          "q": "padre",
+          "a": "father (fáder)"
+        },
+        {
+          "q": "el tiempo (clima)",
+          "a": "the weather (də wéder)"
+        },
+        {
+          "q": "juntos",
+          "a": "together (təguéder)"
+        },
+        {
+          "q": "esto",
+          "a": "this (dis)"
+        },
+        {
+          "q": "ellos",
+          "a": "they (dei)"
+        },
+        {
+          "q": "allí",
+          "a": "there (der)"
+        },
+        {
+          "q": "luego",
+          "a": "then (den)"
+        },
+        {
+          "q": "respirar",
+          "a": "breathe (briid)"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En la última columna escribe /θ/ (sorda) o /ð/ (sonora).",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "¿/θ/ o /ð/?"
+      ],
+      "rows": [
+        [
+          "this",
+          "esto",
+          "?dis",
+          "?/ð/"
+        ],
+        [
+          "?think",
+          "pensar",
+          "zink",
+          "/θ/"
+        ],
+        [
+          "mother",
+          "?madre",
+          "?máder",
+          "/ð/"
+        ],
+        [
+          "three",
+          "?tres",
+          "zrii",
+          "?/θ/"
+        ],
+        [
+          "?they",
+          "ellos",
+          "dei",
+          "?/ð/"
+        ],
+        [
+          "mouth",
+          "boca",
+          "?mauz",
+          "?/θ/"
+        ],
+        [
+          "?weather",
+          "el tiempo",
+          "wéder",
+          "?/ð/"
+        ],
+        [
+          "breath",
+          "?aliento",
+          "?brez",
+          "/θ/"
+        ]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa que zumba",
+      "title_en": "Buzzing word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con TH sonora. Dila en voz alta, zumbando, cada vez que encuentres una.",
+      "en": "Find 10 words with a voiced TH.",
+      "words": [
+        "mother",
+        "brother",
+        "father",
+        "weather",
+        "together",
+        "this",
+        "that",
+        "they",
+        "there",
+        "feather"
+      ],
+      "clues": [
+        "mother · madre",
+        "brother · hermano",
+        "father · padre",
+        "weather · tiempo",
+        "together · juntos",
+        "this · esto",
+        "that · eso",
+        "they · ellos",
+        "there · allí",
+        "feather · pluma"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las TH",
+      "title_en": "Read and find the THs",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Tyler's family photo",
+      "text": [
+        "This is a photo of Tyler's family. That's his mother, and the tall man is his father. They're at the beach together.",
+        "The weather is nice, and the other kids are with them: his brother Ethan and his sister. Their dog is there, too, under the umbrella."
+      ],
+      "items": [
+        {
+          "q": "Who is the tall man?",
+          "a": "Tyler's father: <code>fáder</code>."
+        },
+        {
+          "q": "Find four little words with /ð/.",
+          "a": "this, that, the, they're, their, them, there (cualquiera)."
+        },
+        {
+          "q": "Which name in the text has a voiceless TH /θ/?",
+          "a": "Ethan: <code>íizən</code>."
+        },
+        {
+          "q": "The weather is bad.",
+          "tf": true,
+          "a": false,
+          "why": "is nice"
+        },
+        {
+          "q": "In «the other kids», «the» sounds like «di».",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "The dog is under the umbrella.",
+          "tf": true,
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con TH sonora. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with a voiced TH and record yourself.",
+      "items": [
+        {
+          "q": "Una frase sobre tu familia (mother, father, brother…).",
+          "lines": 2,
+          "a": "Ej.: My brother and my father love this weather."
+        },
+        {
+          "q": "Una frase con this y that.",
+          "lines": 2,
+          "a": "Ej.: I want this one, not that one."
+        },
+        {
+          "q": "Una frase con together o there.",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Hago la TH que zumba: lengua entre los dientes y garganta vibrando.",
+      "en": "I can make the voiced TH."
+    },
+    {
+      "es": "Digo the, this, that y they sin d fuerte ni z.",
+      "en": "I say the little TH words softly."
+    },
+    {
+      "es": "Sé decir <code>máder</code>, <code>bráder</code>, <code>wéder</code> y <code>təguéder</code>.",
+      "en": "I can say mother, brother, weather, together."
+    },
+    {
+      "es": "Sé cuándo the suena <code>də</code> y cuándo <code>di</code>.",
+      "en": "I know when «the» is «də» or «di»."
+    },
+    {
+      "es": "Distingo they / day y then / den.",
+      "en": "I can tell they from day."
+    },
+    {
+      "es": "Sé que breath es sorda y breathe, sonora.",
+      "en": "I know breath vs. breathe."
+    }
+  ]
+}

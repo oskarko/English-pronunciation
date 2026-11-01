@@ -1,0 +1,726 @@
+{
+  "id": "P-03",
+  "block": "P",
+  "title": "NUNCA COMO SE ESCRIBE",
+  "file_title": "Nunca como se escribe",
+  "subtitle": "Words that break the rules · ¡no las leas a la española!",
+  "icon": "🙃",
+  "map": {
+    "center": "Estas palabras <b>no se leen como se escriben</b>: letras mudas, sílabas fantasma y vocales disfrazadas.",
+    "listen": "comfortable",
+    "nodes": [
+      {
+        "title": "Sílabas fantasma",
+        "icon": "👻",
+        "color": "green",
+        "rows": [
+          ["comfortable", "<code>kámfterbəl</code>"],
+          ["vegetable", "<code>védytəbəl</code>"],
+          ["Wednesday", "<code>wénsdei</code>"]
+        ],
+        "after": "se escriben más sílabas de las que se dicen"
+      },
+      {
+        "title": "Letras calladas",
+        "icon": "🤫",
+        "color": "blue",
+        "rows": [
+          ["island", "<code>áilənd</code>"],
+          ["salmon", "<code>sǽmən</code>"],
+          ["receipt", "<code>risíit</code>"]
+        ],
+        "after": "la S, la L, la P… ¡no suenan!"
+      },
+      {
+        "title": "Vocales disfrazadas",
+        "icon": "🎭",
+        "color": "purple",
+        "rows": [
+          ["women", "<code>wímin</code>"],
+          ["busy", "<code>bísi</code>"],
+          ["colonel", "<code>kérnəl</code>"]
+        ]
+      },
+      {
+        "title": "Letras rebeldes",
+        "icon": "🤪",
+        "color": "orange",
+        "rows": [
+          ["chaos", "<code>kéias</code>"],
+          ["choir", "<code>kwáier</code>"],
+          ["queue", "<code>kiu</code>"]
+        ],
+        "after": "CH = <b>k</b> · queue = la letra <b>Q</b>"
+      },
+      {
+        "title": "Parejas lío",
+        "icon": "👯",
+        "color": "pink",
+        "items": [
+          "<b>quiet</b> <code>kwáiət</code> · <b>quite</b> <code>kwait</code>",
+          "<b>lose</b> /z/ 🐝 · <b>loose</b> /s/ 🐍",
+          "<b>desert</b> <code>désert</code> · <b>dessert</b> <code>disért</code>"
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "¿Palabra nueva? <b>Escúchala antes de leerla</b>: QR, diccionario o IPA. ¡Nunca a la española!",
+        "art": "🕵️"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["<code>komfortéibəl</code> (¡5 sílabas!)"],
+      "good": ["<code>kámfterbəl</code> 🛋️ (3)"],
+      "note": "Leer el inglés como el español es la trampa número uno."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "🛋️ comfortable → ____", "a": "kámfterbəl" },
+        { "q": "🏝️ island → ____", "a": "áilənd" },
+        { "q": "👭 women → ____", "a": "wímin" },
+        { "q": "🐟 salmon → ____", "a": "sǽmən" },
+        { "q": "📅 Wednesday → ____", "a": "wénsdei" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Por qué pasa esto?",
+      "title_en": "Why does this happen?",
+      "icon": "🔎",
+      "es": "La ortografía inglesa es <b>muy antigua</b>: muchas palabras se siguen escribiendo como se decían hace siglos, o como en el idioma del que vienen (francés, latín, griego). La pronunciación cambió… y la ortografía no. Por eso hay letras que no suenan, sílabas que desaparecen y vocales que dicen otra cosa. <mark>La regla de oro: nunca leas el inglés como el español.</mark> Aquí tienes las palabras que más trampas ponen, con su pronunciación real.",
+      "en": "English spelling is old: many words are still written the way they were said centuries ago. That's why some letters are silent and some vowels sound different. Never read English like Spanish!",
+      "formula": ["se escribe: com-for-ta-ble → se dice: *KÁMF-ter-bəl*"]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Sílabas fantasma",
+      "title_en": "Ghost syllables",
+      "icon": "👻",
+      "es": "Algunas palabras se escriben con <b>más sílabas de las que se dicen</b>: los americanos se tragan una vocal entera. <b>Comfortable</b> tiene 4 sílabas escritas y solo 3 habladas; <b>Wednesday</b>, 3 escritas y 2 habladas; <b>clothes</b>, ¡una sola! La fuerza va casi siempre <b>al principio</b>. (Más sílabas que se esfuman en el mapa H-07.)",
+      "en": "Some words lose a whole syllable when spoken: comfortable has 3 syllables, Wednesday has 2, clothes has just 1.",
+      "formula": ["Wed + *nes* + day → *WÉNS*-dei"],
+      "examples": [
+        { "en": "comfortable", "say": "kámfterbəl", "es": "cómodo", "icon": "🛋️" },
+        { "en": "vegetable", "say": "védytəbəl", "es": "verdura", "icon": "🥦" },
+        { "en": "Wednesday", "say": "wénsdei", "es": "miércoles", "icon": "📅" },
+        { "en": "clothes", "say": "klouds", "es": "ropa", "icon": "👕" },
+        { "en": "evening", "say": "íivning", "es": "tarde-noche", "icon": "🌆" },
+        { "en": "business", "say": "bísnəs", "es": "negocio", "icon": "💼" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Letras que se callan",
+      "title_en": "Silent letters",
+      "icon": "🤫",
+      "es": "Hay letras que están escritas pero <b>no suenan nunca</b>: la S de <b>island</b>, la B de <b>debt</b>, la P de <b>receipt</b>, la L de <b>salmon</b>. Muchas las añadieron hace siglos para que la palabra «se pareciera» al latín. Tú, ni caso: <mark>si no suena, no la digas</mark>. (Las reglas de las letras mudas, en el mapa C-15.)",
+      "en": "Some letters are never pronounced: the S in island, the B in debt, the P in receipt, the L in salmon.",
+      "examples": [
+        { "en": "island", "say": "áilənd", "es": "isla", "icon": "🏝️" },
+        { "en": "debt", "say": "det", "es": "deuda", "icon": "💸" },
+        { "en": "receipt", "say": "risíit", "es": "tique, recibo", "icon": "🧾" },
+        { "en": "salmon", "say": "sǽmən", "es": "salmón", "icon": "🐟" },
+        { "en": "almond", "say": "ámənd", "es": "almendra", "icon": "🌰" },
+        { "en": "doubt", "say": "daut", "es": "duda", "icon": "🤔" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Vocales disfrazadas",
+      "title_en": "Vowels in disguise",
+      "icon": "🎭",
+      "es": "Aquí la letra dice una cosa y el sonido, otra. En <b>women</b> la O suena <b>i</b>; en <b>busy</b> la U suena <b>i</b>; en <b>said</b> la AI suena <b>e</b>; y en <b>colonel</b> ¡aparece una R que no está escrita! Suena igual que <b>kernel</b> (grano de maíz 🍿). Apréndelas como nombres raros: de memoria y en voz alta.",
+      "en": "In women the O sounds like i; in busy the U sounds like i; said sounds like «sed»; colonel sounds like kernel.",
+      "examples": [
+        { "en": "women", "say": "wímin", "es": "mujeres", "icon": "👭" },
+        { "en": "woman", "say": "wúmən", "es": "mujer", "icon": "👩" },
+        { "en": "busy", "say": "bísi", "es": "ocupado", "icon": "🐝" },
+        { "en": "colonel", "say": "kérnəl", "es": "coronel", "icon": "🎖️" },
+        { "en": "said", "say": "sed", "es": "dijo", "icon": "🗣️" },
+        { "en": "minute", "say": "mínit", "es": "minuto", "icon": "⏱️" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Letras rebeldes",
+      "title_en": "Rebel letters",
+      "icon": "🤪",
+      "es": "Palabras que vienen del griego o del francés y conservan su ortografía. En <b>chaos</b>, <b>choir</b> y <b>stomach</b> la CH suena <b>k</b>. <b>Queue</b> (fila) tiene cinco letras y suena como la letra <b>Q</b>: <code>kiu</code> (en EE. UU. se dice más <i>line</i>). Y <b>suite</b> no se dice «suit», sino igual que <b>sweet</b>: <code>swiit</code>.",
+      "en": "Words from Greek or French keep their old spelling: in chaos and choir, CH sounds like K; queue sounds like the letter Q; suite sounds like sweet.",
+      "examples": [
+        { "en": "chaos", "say": "kéias", "es": "caos", "icon": "🌪️" },
+        { "en": "choir", "say": "kwáier", "es": "coro", "icon": "🎶" },
+        { "en": "stomach", "say": "stámək", "es": "estómago", "icon": "🤢" },
+        { "en": "Christmas", "say": "krísməs", "es": "Navidad", "icon": "🎄" },
+        { "en": "queue", "say": "kiu", "es": "fila, cola", "icon": "🚶" },
+        { "en": "suite", "say": "swiit", "es": "suite de hotel", "icon": "🏨" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Parecen españolas… ¡y no!",
+      "title_en": "They look Spanish… but they aren't",
+      "icon": "🇪🇸",
+      "es": "Se escriben casi como en español, pero llevan <b>otras vocales</b> o el golpe <b>en otro sitio</b>. En <b>idea</b> la I suena «ai»; en <b>area</b> la primera A suena «e»; <b>recipe</b> tiene 3 sílabas con la fuerza en RE; <b>determine</b> y <b>develop</b> llevan el golpe en la segunda. Y en <b>iron</b> la R se va al final: <code>áiern</code>, ¡nada de «ai-ron»!",
+      "en": "They look like Spanish words, but the vowels or the stress are different: idea, area, recipe, determine, develop, iron.",
+      "examples": [
+        { "en": "idea", "say": "aidíiə", "es": "idea", "icon": "💡" },
+        { "en": "area", "say": "ériə", "es": "zona, área", "icon": "🗺️" },
+        { "en": "recipe", "say": "résəpi", "es": "receta", "icon": "🍲" },
+        { "en": "determine", "say": "ditérmin", "es": "determinar", "icon": "🎯" },
+        { "en": "develop", "say": "divéləp", "es": "desarrollar", "icon": "🌱" },
+        { "en": "iron", "say": "áiern", "es": "plancha, hierro", "icon": "🦾" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · Parejas que se lían",
+      "title_en": "Confusing pairs",
+      "icon": "👯",
+      "es": "Se escriben casi igual y suenan distinto. <b>Quiet</b> (tranquilo) tiene <b>2 sílabas</b>, <code>kwáiət</code>; <b>quite</b> (bastante), <b>una</b>, <code>kwait</code>. <b>Lose</b> (perder) acaba en una /z/ que zumba 🐝; <b>loose</b> (suelto), en una /s/ que silba 🐍. <b>Desert</b> (desierto) lleva el golpe delante; <b>dessert</b> (postre), detrás.",
+      "en": "Quiet has two syllables, quite has one; lose ends in /z/, loose in /s/; DEsert (desierto) vs. desSERT (postre).",
+      "examples": [
+        { "en": "quiet", "say": "kwáiət", "es": "tranquilo", "icon": "😌" },
+        { "en": "quite", "say": "kwait", "es": "bastante", "icon": "👌" },
+        { "en": "lose", "say": "luus", "es": "perder · s que zumba", "icon": "😢" },
+        { "en": "loose", "say": "luus", "es": "suelto · s que silba", "icon": "👖" },
+        { "en": "desert", "say": "désert", "es": "desierto", "icon": "🏜️" },
+        { "en": "dessert", "say": "disért", "es": "postre", "icon": "🍨" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "comfortable", "ipa": "ˈkʌmftɚbəl", "say": "kámfterbəl", "es": "cómodo", "icon": "🛋️", "anchor": "<b>cam</b>a 🛏️ + <b>fter</b> + <b>bəl</b>", "tip": "Una cama muy cómoda: KÁMF-ter-bəl. ¡Solo 3 sílabas, nada de «com-for-TEI-bol»!" },
+        { "en": "vegetable", "ipa": "ˈvɛdʒtəbəl", "say": "védytəbəl", "es": "verdura", "icon": "🥦", "anchor": "<s>ve-ge-TA-ble</s> → <b>VÉDY</b>təbəl", "tip": "3 sílabas, fuerza en VEG. La y es fuerte (como en «¡yo!») y va pegada a la t. ¡Y el final no es «téibəl»!" },
+        { "en": "Wednesday", "ipa": "ˈwɛnzdeɪ", "say": "wénsdei", "es": "miércoles", "icon": "📅", "anchor": "<s>wed-nes-dei</s> → <b>wéns</b> + <b>dei</b>", "tip": "La D no suena y la E del medio se esfuma: solo 2 sílabas, WÉNS-dei." },
+        { "en": "island", "ipa": "ˈaɪlənd", "say": "áilənd", "es": "isla", "icon": "🏝️", "anchor": "<b>¡ay!</b> 🔥 + <b>lənd</b>", "tip": "Pisas la arena caliente de una isla: «¡ay!» + lənd. La S es muda." },
+        { "en": "women", "ipa": "ˈwɪmɪn", "say": "wímin", "es": "mujeres", "icon": "👭", "anchor": "<s>wómen</s> → <b>WÍ</b>min", "tip": "¡La O suena i! Y en singular cambia otra vez: woman = <code>wúmən</code>." },
+        { "en": "busy", "ipa": "ˈbɪzi", "say": "bísi", "es": "ocupado", "icon": "🐝", "anchor": "<s>bus</s> 🚌 → <b>BÍ</b>si", "tip": "Nada de autobuses: la U suena i y la S zumba como una abeja. «I'm busy» = <code>aim bísi</code>." },
+        { "en": "business", "ipa": "ˈbɪznəs", "say": "bísnəs", "es": "negocio", "icon": "💼", "anchor": "¡<b>bis</b>! 👏 + <b>nəs</b>", "tip": "Como cuando el público pide «¡bis!» en un concierto, + nəs. Solo 2 sílabas." },
+        { "en": "colonel", "ipa": "ˈkɝnəl", "say": "kérnəl", "es": "coronel", "icon": "🎖️", "anchor": "<s>ko-lo-NEL</s> → <b>KÉR</b>nəl", "tip": "Suena igual que kernel (grano de maíz 🍿). El abuelito de KFC es el Colonel Sanders: <code>kérnəl sǽnders</code>." },
+        { "en": "salmon", "ipa": "ˈsæmən", "say": "sǽmən", "es": "salmón", "icon": "🐟", "anchor": "tío <b>Sam</b> 🎩 + <b>ən</b>", "tip": "La L no suena y la fuerza va delante. Abre la a como en cat (mapa V-03)." },
+        { "en": "receipt", "ipa": "rɪˈsiːt", "say": "risíit", "es": "tique, recibo", "icon": "🧾", "anchor": "ri + <b>¡sííí!</b> + t", "tip": "La P es muda: ri-SÍIT, con un «¡sí!» bien largo en medio." },
+        { "en": "suite", "ipa": "swiːt", "say": "swiit", "es": "suite de hotel", "icon": "🏨", "anchor": "<s>suit</s> → <b>swiit</b> 🍬", "tip": "Suena igual que sweet (dulce). En cambio, suit (traje) es <code>suut</code>." },
+        { "en": "area", "ipa": "ˈɛriə", "say": "ériə", "es": "zona, área", "icon": "🗺️", "anchor": "<b>Éri</b>ka + <b>ə</b>", "tip": "Di «Érika» y cambia el «-ka» por una ə: É-ri-ə. Nada de «a-re-a»." },
+        { "en": "idea", "ipa": "aɪˈdiːə", "say": "aidíiə", "es": "idea", "icon": "💡", "anchor": "¡<b>ay</b>, <b>día</b>!", "tip": "Como un «¡ay, día!» muy contento: ai-DÍI-ə. La I del principio suena «ai»." },
+        { "en": "iron", "ipa": "ˈaɪɚn", "say": "áiern", "es": "plancha, hierro", "icon": "🦾", "anchor": "<s>ái-ron</s> → <b>ÁI</b>ern", "tip": "La R se pasa al final. Iron Man = <code>áiern mæn</code>." },
+        { "en": "recipe", "ipa": "ˈrɛsəpi", "say": "résəpi", "es": "receta", "icon": "🍲", "anchor": "<s>ri-SÁIP</s> → <b>RÉ</b>səpi", "tip": "3 sílabas y la E final sí suena (como una i): RÉ-sə-pi." },
+        { "en": "chaos", "ipa": "ˈkeɪɑs", "say": "kéias", "es": "caos", "icon": "🌪️", "anchor": "<s>CHA-os</s> → <b>KÉI</b>as", "tip": "La CH suena k y la A suena «ei». ¡Tu cuarto desordenado es total chaos!" }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "comfortable", "es": "cómodo" },
+        { "q": "Wednesday", "es": "miércoles" },
+        { "q": "women", "es": "mujeres" },
+        { "q": "island", "es": "isla" },
+        { "q": "recipe", "es": "receta" },
+        { "q": "colonel", "es": "coronel" }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Resumen de trampas",
+      "title_en": "Trap summary",
+      "icon": "🪤",
+      "head": ["Palabra · Word", "La trampa", "Suena"],
+      "rows": [
+        ["comfortable", "4 sílabas escritas, 3 dichas", "<code>kámfterbəl</code>"],
+        ["Wednesday", "la D y la 2.ª E no suenan", "<code>wénsdei</code>"],
+        ["clothes", "1 sílaba, no «clo-thes»", "<code>klouds</code>"],
+        ["island", "S muda", "<code>áilənd</code>"],
+        ["debt", "B muda", "<code>det</code>"],
+        ["receipt", "P muda", "<code>risíit</code>"],
+        ["salmon", "L muda", "<code>sǽmən</code>"],
+        ["women", "la O suena i", "<code>wímin</code>"],
+        ["busy", "la U suena i", "<code>bísi</code>"],
+        ["colonel", "suena como kernel", "<code>kérnəl</code>"],
+        ["choir", "CH = k, OI = wai", "<code>kwáier</code>"],
+        ["queue", "suena como la letra Q", "<code>kiu</code>"],
+        ["iron", "la R se va al final", "<code>áiern</code>"]
+      ],
+      "note": "Si una palabra te parece rara, <b>sospecha</b>: escúchala antes de decirla.",
+      "note_en": "If a word looks strange, listen to it before you say it."
+    },
+    {
+      "t": "pairs",
+      "title": "Parejas que se lían",
+      "title_en": "Tricky pairs",
+      "icon": "👯",
+      "items": [
+        {
+          "a": { "en": "quiet", "ipa": "ˈkwaɪ.ət", "say": "kwáiət", "es": "tranquilo", "icon": "😌" },
+          "b": { "en": "quite", "ipa": "kwaɪt", "say": "kwait", "es": "bastante", "icon": "👌" },
+          "tip": "quiet tiene dos sílabas (KWÁI-ət); quite, una sola."
+        },
+        {
+          "a": { "en": "lose", "ipa": "luːz", "say": "luus", "es": "perder", "icon": "😢" },
+          "b": { "en": "loose", "ipa": "luːs", "say": "luus", "es": "suelto, flojo", "icon": "👖" },
+          "tip": "En la figurada se ven iguales: en lose la s zumba 🐝 (/z/) y la uu dura más; en loose silba 🐍 (/s/)."
+        },
+        {
+          "a": { "en": "desert", "ipa": "ˈdɛzɚt", "say": "désert", "es": "desierto", "icon": "🏜️" },
+          "b": { "en": "dessert", "ipa": "dɪˈzɝt", "say": "disért", "es": "postre", "icon": "🍨" },
+          "tip": "Dessert lleva dos S, como dos bolas de helado 🍨🍨. Y el golpe va detrás: di-SÉRT."
+        },
+        {
+          "a": { "en": "woman", "ipa": "ˈwʊmən", "say": "wúmən", "es": "mujer", "icon": "👩" },
+          "b": { "en": "women", "ipa": "ˈwɪmɪn", "say": "wímin", "es": "mujeres", "icon": "👭" },
+          "tip": "¡Cambia la primera vocal, no la segunda! WÚ-mən → WÍ-min."
+        },
+        {
+          "a": { "en": "clothes", "ipa": "kloʊðz", "say": "klouds", "es": "ropa", "icon": "👕" },
+          "b": { "en": "close", "ipa": "kloʊz", "say": "klous", "es": "cerrar", "icon": "🚪" },
+          "tip": "Muchos americanos las dicen casi igual: si dices <code>klous</code> por clothes, te entenderán."
+        },
+        {
+          "a": { "en": "suit", "ipa": "suːt", "say": "suut", "es": "traje", "icon": "🤵" },
+          "b": { "en": "suite", "ipa": "swiːt", "say": "swiit", "es": "suite de hotel", "icon": "🏨" },
+          "tip": "suit = <code>suut</code>; suite = sweet = <code>swiit</code>."
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "title": "Dónde cae el golpe",
+      "title_en": "Where's the stress?",
+      "icon": "🥁",
+      "es": "Mira dónde cae el golpe (●). Fíjate en comfortable y vegetable: se escriben con 4 sílabas, pero se dicen con 3.",
+      "en": "Look at the stressed syllable. Comfortable and vegetable are said with only 3 syllables.",
+      "items": [
+        { "syl": ["com", "for", "ta", "ble"], "s": 0, "say": "kámfterbəl", "es": "cómodo · ¡3 sílabas!", "icon": "🛋️" },
+        { "syl": ["ve", "ge", "ta", "ble"], "s": 0, "say": "védytəbəl", "es": "verdura · ¡3 sílabas!", "icon": "🥦" },
+        { "syl": ["re", "ci", "pe"], "s": 0, "say": "résəpi", "es": "receta", "icon": "🍲" },
+        { "syl": ["i", "de", "a"], "s": 1, "say": "aidíiə", "es": "idea", "icon": "💡" },
+        { "syl": ["de", "ter", "mine"], "s": 1, "say": "ditérmin", "es": "determinar", "icon": "🎯" },
+        { "syl": ["de", "vel", "op"], "s": 1, "say": "divéləp", "es": "desarrollar", "icon": "🌱" },
+        { "syl": ["des", "ert"], "s": 0, "say": "désert", "es": "desierto", "icon": "🏜️" },
+        { "syl": ["des", "sert"], "s": 1, "say": "disért", "es": "postre", "icon": "🍨" }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿De dónde salen estas trampas?",
+      "title_en": "Where do these traps come from?",
+      "icon": "🏺",
+      "es": "Muchas letras raras son <b>recuerdos</b> de otros idiomas.",
+      "en": "Many strange letters are souvenirs from other languages.",
+      "cols": [
+        {
+          "head": "🏛️ Letras «de adorno»",
+          "color": "purple",
+          "items": [
+            "debt ← latín <i>debitum</i>: la B se añadió, ¡pero nunca sonó!",
+            "receipt ← <i>recepta</i>: lo mismo con la P",
+            "salmon ← <i>salmo</i>: la L, de adorno",
+            "island: la S se coló ¡por error!"
+          ]
+        },
+        {
+          "head": "🇫🇷 Del francés",
+          "color": "blue",
+          "items": [
+            "suite → <code>swiit</code>",
+            "queue (= cola) → <code>kiu</code>",
+            "colonel: se escribe a la italiana, pero se decía «coronel» → <code>kérnəl</code>"
+          ]
+        },
+        {
+          "head": "🏺 Del griego",
+          "color": "green",
+          "items": [
+            "chaos → <code>kéias</code>",
+            "choir → <code>kwáier</code>",
+            "stomach → <code>stámək</code>",
+            "la CH griega suena <b>k</b>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "I'm so comfortable!", "spoken": "I'm so KUMF-ter-bull!", "say": "aim sou kámfterbəl", "es": "¡Qué cómodo estoy!" },
+        { "written": "See you on Wednesday!", "spoken": "See you on WENZ-day!", "say": "sii iu an wénsdei", "es": "¡Nos vemos el miércoles!" },
+        { "written": "I love vegetables.", "spoken": "I love VEJ-tuh-bulls.", "say": "ai lav védytəbəls", "es": "Me encanta la verdura." },
+        { "written": "Can I have the receipt?", "spoken": "C'n I have the ri-SEET?", "say": "kənai jæv də risíit", "es": "¿Me da el tique?" },
+        { "written": "Are you busy?", "spoken": "Are you BIZ-zee?", "say": "ar iu bísi", "es": "¿Estás ocupado?" },
+        { "written": "Mind your own business!", "spoken": "Mind yer own BIZ-ness!", "say": "máind ier óun bísnəs", "es": "¡No te metas donde no te llaman!" }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "This sofa is very comfortable.", "say": "dis sóufə is véri kámfterbəl", "es": "Este sofá es muy cómodo.", "icon": "🛋️" },
+        { "en": "Eat your vegetables, Mario!", "say": "iit ier védytəbəls, mário", "es": "¡Cómete la verdura, Mario!", "icon": "🥦" },
+        { "en": "We have English on Wednesday.", "say": "wi jæv ínglish an wénsdei", "es": "Tenemos inglés el miércoles.", "icon": "📅" },
+        { "en": "Put on your clothes!", "say": "purán ier klouds", "es": "¡Ponte la ropa!", "icon": "👕" },
+        { "en": "Lucía is busy right now.", "say": "lusíə is bísi rait nau", "es": "Lucía está ocupada ahora.", "icon": "🐝" },
+        { "en": "My mom has a small business.", "say": "mai mam jæs ə smol bísnəs", "es": "Mi madre tiene un pequeño negocio.", "icon": "💼" },
+        { "en": "Two women are waiting.", "say": "tuu wímin ar wéiring", "es": "Dos mujeres están esperando.", "icon": "👭" },
+        { "en": "The island is very quiet.", "say": "di áilənd is véri kwáiət", "es": "La isla está muy tranquila.", "icon": "🏝️" },
+        { "en": "I always lose my keys.", "say": "ai ólweis luus mai kiis", "es": "Siempre pierdo las llaves.", "icon": "🔑" },
+        { "en": "My tooth is loose!", "say": "mai tuuz is luus", "es": "¡Se me mueve un diente!", "icon": "🦷" },
+        { "en": "Ice cream is my favorite dessert.", "say": "áis kriim is mai féivrit disért", "es": "El helado es mi postre favorito.", "icon": "🍨" },
+        { "en": "Grandma's recipe is the best.", "say": "grǽnmas résəpi is də best", "es": "La receta de la abuela es la mejor.", "icon": "🍲" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "monster": "trampas",
+      "items": [
+        { "bad": "comfortable → <code>komfortéibəl</code>", "good": "<code>kámfterbəl</code>", "why": "No es «com-for-TEI-bol»: fuerza al principio y solo 3 sílabas.", "why_en": "Stress the first syllable; only 3 syllables." },
+        { "bad": "island → <code>íslənd</code>", "good": "<code>áilənd</code>", "why": "La S es muda y la I suena «ai».", "why_en": "The S is silent." },
+        { "bad": "women → <code>wómen</code>", "good": "<code>wímin</code>", "why": "La O de women suena i (y la E también).", "why_en": "Women sounds like «wimin»." },
+        { "bad": "Wednesday → <code>wédnesdei</code>", "good": "<code>wénsdei</code>", "why": "La D y la segunda E no suenan: 2 sílabas.", "why_en": "Only two syllables: WENZ-day." },
+        { "bad": "recipe → <code>risáip</code>", "good": "<code>résəpi</code>", "why": "Tres sílabas, con la fuerza en RE.", "why_en": "Three syllables, stress on RE." },
+        { "bad": "salmon → <code>sálmon</code>", "good": "<code>sǽmən</code>", "why": "La L es muda y la fuerza va delante.", "why_en": "The L is silent." },
+        { "bad": "busy → <code>biúsi</code>", "good": "<code>bísi</code>", "why": "La U suena i, cortita. ¡No hay ningún bus!", "why_en": "The U sounds like a short i." },
+        { "bad": "colonel → <code>kolonél</code>", "good": "<code>kérnəl</code>", "why": "Suena exactamente como kernel.", "why_en": "It sounds just like kernel." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el supermercado",
+      "title_en": "At the supermarket",
+      "lines": [
+        { "who": "Jenny", "en": "Mario, can you help me? I need salmon and vegetables.", "say": "mário, kən iu jelp mi? ai niid sǽmən ən védytəbəls", "es": "Mario, ¿me ayudas? Necesito salmón y verdura." },
+        { "who": "Mario", "en": "Sure! Is it for your recipe?", "say": "shur! ísit fer ier résəpi?", "es": "¡Claro! ¿Es para tu receta?" },
+        { "who": "Jenny", "en": "Yes, Grandma's recipe. We're having guests on Wednesday.", "say": "iés, grǽnmas résəpi. wir jǽving guests an wénsdei", "es": "Sí, la receta de la abuela. Tenemos invitados el miércoles." },
+        { "who": "Mario", "en": "Do we need almonds too?", "say": "du wi niid ámənds tuu?", "es": "¿Necesitamos almendras también?" },
+        { "who": "Jenny", "en": "Yes, please. And don't lose the receipt!", "say": "iés, pliis. ən dount luus də risíit!", "es": "Sí, por favor. ¡Y no pierdas el tique!" },
+        { "who": "Mario", "en": "Don't worry. Wow, the store is so quiet today.", "say": "dount wéri. wau, də stor is sou kwáiət tədéi", "es": "Tranquila. Hala, la tienda está muy tranquila hoy." },
+        { "who": "Jenny", "en": "Quite quiet! And for dessert… ice cream!", "say": "kwait kwáiət! ən fer disért… áis kriim!", "es": "¡Bastante tranquila! Y de postre… ¡helado!" },
+        { "who": "Mario", "en": "Great idea, Jenny!", "say": "gréir aidíiə, yéni!", "es": "¡Gran idea, Jenny!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo cazar una palabra trampa",
+      "title_en": "How to catch a tricky word",
+      "items": [
+        { "es": "Antes de decir una palabra nueva, <b>no la leas a la española</b>: sospecha de las letras raras (CH, letras dobles, letras mudas).", "en": "Don't read a new word the Spanish way." },
+        { "es": "<b>Escúchala</b>: escanea el QR o usa un diccionario online con audio americano (🇺🇸 US).", "en": "Listen to it first (QR or online dictionary)." },
+        { "es": "Mira el <b>IPA</b>: te dice qué sonidos hay y dónde va el golpe. Por ejemplo, /ˈkɝnəl/.", "en": "Check the IPA to see the sounds and the stress." },
+        { "es": "Escribe tu propia figurada al lado, como en este libro: <code>kámfterbəl</code>.", "en": "Write your own sound-alike spelling next to it." },
+        { "es": "Dila <b>10 veces</b> en voz alta y úsala hoy en una frase. ¡Así ya no se te olvida!", "en": "Say it ten times and use it in a sentence today." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "Women wear comfortable clothes on Wednesday.", "say": "wímin wer kámfterbəl klouds an wénsdei", "es": "Las mujeres llevan ropa cómoda los miércoles." },
+        { "en": "The quiet choir is quite busy.", "say": "də kwáiət kwáier is kwait bísi", "es": "El coro tranquilo está bastante ocupado." },
+        { "en": "Don't lose the loose salmon on the island!", "say": "dount luus də luus sǽmən an di áilənd", "es": "¡No pierdas el salmón suelto en la isla!" }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Detective de palabras",
+      "title_en": "Word detective",
+      "icon": "🕵️",
+      "es": "Cuando una palabra inglesa te parezca fácil de leer… ¡desconfía! 🕵️ Puede esconder letras mudas, sílabas fantasma o vocales disfrazadas. <b>Escucha primero, lee después.</b> Y si te equivocas, no pasa nada: ¡hasta muchos americanos dudan con colonel! 😄",
+      "en": "Listen first, read later. Even native speakers find some of these words tricky!"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Cuántas sílabas?",
+      "title_en": "How many syllables?",
+      "icon": "🔢",
+      "es": "Di la palabra en voz alta (¡como un americano!) y rodea cuántas sílabas tiene al decirla.",
+      "en": "Say the word and circle the number of spoken syllables.",
+      "items": [
+        { "q": "comfortable → [3|4]", "a": "3" },
+        { "q": "Wednesday → [2|3]", "a": "2" },
+        { "q": "clothes → [1|2]", "a": "1" },
+        { "q": "vegetable → [3|4]", "a": "3" },
+        { "q": "recipe → [2|3]", "a": "3" },
+        { "q": "quiet → [1|2]", "a": "2" },
+        { "q": "quite → [1|2]", "a": "1" },
+        { "q": "business → [2|3]", "a": "2" },
+        { "q": "evening → [2|3]", "a": "2" },
+        { "q": "idea → [2|3]", "a": "3" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Qué trampa tiene?",
+      "title_en": "What's the trap?",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        { "name": "🤫 Letra muda", "words": ["island", "debt", "receipt", "salmon", "doubt"] },
+        { "name": "👻 Sílaba fantasma", "words": ["comfortable", "vegetable", "clothes", "evening"] },
+        { "name": "🎭 Vocal disfrazada", "words": ["women", "busy", "minute", "said", "many"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["comfortable", "<code>kámfterbəl</code>"],
+        ["Wednesday", "<code>wénsdei</code>"],
+        ["island", "<code>áilənd</code>"],
+        ["women", "<code>wímin</code>"],
+        ["colonel", "<code>kérnəl</code>"],
+        ["queue", "<code>kiu</code>"],
+        ["choir", "<code>kwáier</code>"],
+        ["suite", "<code>swiit</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada con tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        { "q": "🥦 vegetable → ____", "a": "védytəbəl" },
+        { "q": "👕 clothes → ____", "a": "klouds" },
+        { "q": "🧾 receipt → ____", "a": "risíit" },
+        { "q": "🐝 busy → ____", "a": "bísi" },
+        { "q": "💼 business → ____", "a": "bísnəs" },
+        { "q": "🌪️ chaos → ____", "a": "kéias" },
+        { "q": "💡 idea → ____", "a": "aidíiə" },
+        { "q": "🗺️ area → ____", "a": "ériə" },
+        { "q": "🍨 dessert → ____", "a": "disért" },
+        { "q": "🏜️ desert → ____", "a": "désert" }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Di la palabra y rodea la sílaba fuerte.",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        { "syl": ["re", "ci", "pe"], "s": 0, "es": "receta" },
+        { "syl": ["i", "de", "a"], "s": 1, "es": "idea" },
+        { "syl": ["a", "re", "a"], "s": 0, "es": "zona" },
+        { "syl": ["de", "ter", "mine"], "s": 1, "es": "determinar" },
+        { "syl": ["des", "sert"], "s": 1, "es": "postre" },
+        { "syl": ["des", "ert"], "s": 0, "es": "desierto" },
+        { "syl": ["com", "for", "ta", "ble"], "s": 0, "es": "cómodo" },
+        { "syl": ["ve", "ge", "ta", "ble"], "s": 0, "es": "verdura" },
+        { "syl": ["de", "vel", "op"], "s": 1, "es": "desarrollar" },
+        { "syl": ["re", "ceipt"], "s": 1, "es": "tique" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "In «island», you pronounce the S.", "a": false, "why": "es muda: <code>áilənd</code>" },
+        { "q": "«Colonel» sounds like «kernel».", "a": true },
+        { "q": "«Women» and «woman» have the same first vowel.", "a": false, "why": "WÍ-min / WÚ-mən" },
+        { "q": "«Quiet» has two syllables.", "a": true },
+        { "q": "«Dessert» is stressed on the first syllable.", "a": false, "why": "di-SÉRT" },
+        { "q": "«Suite» sounds like «sweet».", "a": true },
+        { "q": "The B in «debt» is silent.", "a": true },
+        { "q": "When you say «Wednesday», it has three syllables.", "a": false, "why": "solo dos: <code>wénsdei</code>" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "¿Estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "Do they sound the same or different?",
+      "items": [
+        { "q": "suite · sweet → [igual|diferente]", "a": "igual" },
+        { "q": "colonel · kernel → [igual|diferente]", "a": "igual" },
+        { "q": "queue · Q → [igual|diferente]", "a": "igual" },
+        { "q": "quiet · quite → [igual|diferente]", "a": "diferente" },
+        { "q": "desert · dessert → [igual|diferente]", "a": "diferente" },
+        { "q": "lose · loose → [igual|diferente]", "a": "diferente" },
+        { "q": "woman · women → [igual|diferente]", "a": "diferente" },
+        { "q": "suit · suite → [igual|diferente]", "a": "diferente" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe cómo suena la frase",
+      "title_en": "Write how the sentence sounds",
+      "icon": "🗣️",
+      "es": "Escribe la frase entera con pronunciación figurada.",
+      "en": "Write how the whole sentence sounds.",
+      "items": [
+        { "q": "I'm so comfortable.", "a": "aim sou kámfterbəl" },
+        { "q": "See you on Wednesday!", "a": "sii iu an wénsdei" },
+        { "q": "Are you busy?", "a": "ar iu bísi" },
+        { "q": "Eat your vegetables!", "a": "iit ier védytəbəls" },
+        { "q": "The island is quiet.", "a": "di áilənd is kwáiət" },
+        { "q": "It's quite good.", "a": "its kwait gud" },
+        { "q": "Don't lose it!", "a": "dount lúusit" },
+        { "q": "Can I have the receipt?", "a": "kənai jæv də risíit" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "comfortable → <code>komfortáble</code>", "a": "kámfterbəl" },
+        { "q": "island → <code>íslənd</code>", "a": "áilənd" },
+        { "q": "women → <code>wómen</code>", "a": "wímin" },
+        { "q": "salmon → <code>sálmon</code>", "a": "sǽmən" },
+        { "q": "receipt → <code>risípt</code>", "a": "risíit" },
+        { "q": "recipe → <code>risáip</code>", "a": "résəpi" },
+        { "q": "iron → <code>áiron</code>", "a": "áiern" },
+        { "q": "colonel → <code>kolonél</code>", "a": "kérnəl" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each phrase three times and tick a box each time.",
+      "items": [
+        { "q": "comfortable clothes", "say": "kámfterbəl klouds" },
+        { "q": "a quiet island", "say": "ə kwáiət áilənd" },
+        { "q": "Wednesday's recipe", "say": "wénsdeis résəpi" },
+        { "q": "I'm quite busy.", "say": "aim kwait bísi" },
+        { "q": "two women and a colonel", "say": "tuu wímin ənə kérnəl" },
+        { "q": "salmon with almonds", "say": "sǽmən wid ámənds" },
+        { "q": "What a great idea!", "say": "warə gréir aidíiə" },
+        { "q": "Don't lose the receipt.", "say": "dount luus də risíit" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta, ¡sin leerlo a la española!",
+      "en": "Translate into English and say it aloud.",
+      "items": [
+        { "q": "cómodo", "a": "comfortable (kámfterbəl)" },
+        { "q": "miércoles", "a": "Wednesday (wénsdei)" },
+        { "q": "ropa", "a": "clothes (klouds)" },
+        { "q": "isla", "a": "island (áilənd)" },
+        { "q": "mujeres", "a": "women (wímin)" },
+        { "q": "ocupado", "a": "busy (bísi)" },
+        { "q": "receta", "a": "recipe (résəpi)" },
+        { "q": "postre", "a": "dessert (disért)" },
+        { "q": "tranquilo", "a": "quiet (kwáiət)" },
+        { "q": "perder", "a": "lose (luus)" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «La trampa» escribe qué letra no suena o qué vocal cambia.",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Español", "Suena", "La trampa"],
+      "rows": [
+        ["island", "isla", "?áilənd", "?S muda"],
+        ["?salmon", "salmón", "sǽmən", "?L muda"],
+        ["debt", "?deuda", "?det", "B muda"],
+        ["receipt", "?tique", "risíit", "?P muda"],
+        ["?Wednesday", "miércoles", "?wénsdei", "D muda"],
+        ["doubt", "?duda", "?daut", "B muda"],
+        ["women", "?mujeres", "?wímin", "O = i"],
+        ["?busy", "ocupado", "bísi", "?U = i"]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de trampas",
+      "title_en": "Tricky word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras trampa. Dila bien en voz alta cada vez que encuentres una.",
+      "en": "Find 10 tricky words and say each one aloud.",
+      "words": ["island", "women", "busy", "salmon", "recipe", "chaos", "choir", "queue", "debt", "suite"],
+      "clues": ["island · isla", "women · mujeres", "busy · ocupado", "salmon · salmón", "recipe · receta", "chaos · caos", "choir · coro", "queue · fila", "debt · deuda", "suite · suite"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las trampas",
+      "title_en": "Read and find the traps",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta, sin caer en ninguna trampa. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Jenny's busy Wednesday",
+      "text": [
+        "Every Wednesday, Jenny is very busy. In the morning, she goes to the island market with her grandma. They buy salmon, almonds and fresh vegetables for a special recipe.",
+        "In the afternoon, the house is quiet. Jenny puts on comfortable clothes and reads. For dessert, they eat ice cream. But where is the receipt? Did Jenny lose it?"
+      ],
+      "items": [
+        { "q": "When is Jenny busy?", "a": "On Wednesday (<code>wénsdei</code>)." },
+        { "q": "What do they buy?", "a": "Salmon, almonds and vegetables (<code>sǽmən</code>, <code>ámənds</code>, <code>védytəbəls</code>)." },
+        { "q": "Find two words with a silent letter.", "a": "island (S), salmon (L), receipt (P), Wednesday (D)… (dos cualesquiera)." },
+        { "q": "How many syllables does «comfortable» have when you say it?", "a": "Tres: <code>kámfterbəl</code>." },
+        { "q": "The house is noisy in the afternoon.", "tf": true, "a": false, "why": "it's quiet" },
+        { "q": "They eat ice cream for dessert.", "tf": true, "a": true },
+        { "q": "«Dessert» and «desert» sound the same.", "tf": true, "a": false, "why": "<code>disért</code> / <code>désert</code>" }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases, léelas en voz alta y grábate.",
+      "en": "Write your sentences, read them aloud and record yourself.",
+      "items": [
+        { "q": "Una frase con dos palabras trampa (comfortable, clothes, Wednesday…).", "lines": 2, "a": "Ej.: I wear comfortable clothes on Wednesday." },
+        { "q": "Una frase sobre comida con salmon, vegetables o dessert.", "lines": 2, "a": "Ej.: I love salmon with vegetables." },
+        { "q": "Escribe tu propia figurada para tres palabras de este mapa.", "lines": 2, "a": "Ej.: island = áilənd, busy = bísi, women = wímin." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé decir <b>comfortable</b> con 3 sílabas: <code>kámfterbəl</code>.", "en": "I can say comfortable with three syllables." },
+    { "es": "No pronuncio las letras mudas de island, debt, receipt y salmon.", "en": "I don't pronounce silent letters." },
+    { "es": "Sé que women suena <code>wímin</code> y busy, <code>bísi</code>.", "en": "I know women and busy have an «i» sound." },
+    { "es": "Distingo quiet/quite, lose/loose y desert/dessert.", "en": "I can tell quiet/quite, lose/loose and desert/dessert apart." },
+    { "es": "Sé que colonel suena igual que kernel. 🍿", "en": "I know colonel sounds like kernel." },
+    { "es": "Antes de leer una palabra nueva, la escucho primero.", "en": "I listen to new words before I read them." }
+  ]
+}

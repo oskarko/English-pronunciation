@@ -1,0 +1,919 @@
+{
+  "id": "V-03",
+  "block": "V",
+  "title": "LA A DE CAT",
+  "file_title": "La a de cat",
+  "subtitle": "The cat vowel /æ/ · una a con boca de e",
+  "icon": "🐱",
+  "map": {
+    "center": "La /æ/ es una <b>a con boca de e</b>: abre la mandíbula y sonríe a la vez. cat = <code>kæt</code> 🐱",
+    "listen": "cat",
+    "nodes": [
+      {
+        "title": "¿Cómo se hace?",
+        "icon": "👄",
+        "color": "green",
+        "items": [
+          "pon boca de «<b>e</b>», con sonrisa",
+          "baja la mandíbula <b>como para «a»</b>",
+          "¡sale una mezcla de las dos!"
+        ]
+      },
+      {
+        "title": "Suena como…",
+        "icon": "👂",
+        "color": "blue",
+        "rows": [
+          ["cat", "<code>kæt</code>"],
+          ["happy", "<code>jǽpi</code>"],
+          ["apple", "<code>ǽpəl</code>"]
+        ]
+      },
+      {
+        "title": "¿Dónde aparece?",
+        "icon": "🔤",
+        "color": "purple",
+        "items": [
+          "una <b>a</b> + consonante: c<b>a</b>t, m<b>a</b>p",
+          "en la sílaba <b>fuerte</b>: h<b>a</b>ppy",
+          "casi siempre se escribe <b>A</b>"
+        ]
+      },
+      {
+        "title": "Ante M y N",
+        "icon": "🧲",
+        "color": "orange",
+        "rows": [
+          ["man", "<code>mæn</code>"],
+          ["can", "<code>kæn</code>"],
+          ["hand", "<code>jænd</code>"]
+        ],
+        "after": "se estira: casi «<b>ea</b>»"
+      },
+      {
+        "title": "¡No es la E!",
+        "icon": "⚖️",
+        "color": "pink",
+        "rows": [
+          ["bad", "<code>bæd</code> malo"],
+          ["bed", "<code>bed</code> cama"],
+          ["man", "<code>mæn</code> hombre"],
+          ["men", "<code>men</code> hombres"]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Abre la boca como para <b>morder una manzana</b> y di «a»: <code>ǽpəl</code>.",
+        "art": "🍎"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["<code>kat</code> con a española"],
+      "good": ["<code>kæt</code> 🐱"],
+      "note": "Con a española, cat suena casi a cut (cortar) ✂️"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "🐱 cat → ____", "a": "kæt" },
+        { "q": "😊 happy → ____", "a": "jǽpi" },
+        { "q": "🍎 apple → ____", "a": "ǽpəl" },
+        { "q": "🙏 thanks → ____", "a": "zænks" },
+        { "q": "⬛ black → ____", "a": "blæk" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la /æ/?",
+      "title_en": "What is /æ/?",
+      "icon": "🔎",
+      "es": "El inglés tiene una vocal que <b>no existe en español</b> y que suena en palabras tan comunes como <b>cat</b>, <b>happy</b> o <b>thanks</b>. Se escribe /æ/ y es una <b>a con boca de e</b>: la mandíbula baja como para decir a, pero los labios y la lengua se ponen como para decir e. Sale una a <b>abierta, brillante y un poco larga</b>. <mark>Si la dices con una a española, los americanos pueden oír otra palabra.</mark>",
+      "en": "/æ/ is a new vowel for Spanish speakers: an «a» said with an «e» mouth. Open your jaw and smile at the same time: cat, happy, thanks.",
+      "formula": [
+        "boca de *e* + mandíbula de *a* → *æ*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "jaw",
+          "es": "Bien <b>abierta</b>, tanto o más que para la a española. Cabe un dedo entre los dientes.",
+          "en": "Wide open, like for a Spanish «a» or more."
+        },
+        {
+          "part": "lips",
+          "es": "<b>Estirados</b> hacia los lados, como en una sonrisa ancha… o en una mueca de «¡puaj!» 😖.",
+          "en": "Spread to the sides, like a wide smile."
+        },
+        {
+          "part": "tongue",
+          "es": "<b>Baja y adelantada</b>: la punta toca los dientes de abajo y la lengua se tensa un poco.",
+          "en": "Low and forward: the tip touches your bottom teeth."
+        },
+        {
+          "part": "voice",
+          "es": "Dura un pelín <b>más</b> que la a española, sobre todo delante de b, d, g, m o n.",
+          "en": "It's a bit longer than a Spanish «a», especially before b, d, g, m, n."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Boca de e, sonido de a",
+      "title_en": "E mouth, A sound",
+      "icon": "😁",
+      "es": "Di «e» con sonrisa y, <b>sin cambiar los labios</b>, abre la boca hacia abajo hasta que suene casi a. Practica despacio: e… e… <b>æ</b>. ¡Es como un balido de oveja con la boca muy abierta! 🐑",
+      "en": "Say «e» with a smile, then drop your jaw without changing your lips until it sounds almost like «a».",
+      "formula": [
+        "*e* + boca abierta → *æ*",
+        "c + *æ* + t → k*æ*t"
+      ],
+      "examples": [
+        { "en": "cat", "say": "kæt", "es": "gato", "icon": "🐱" },
+        { "en": "bad", "say": "bæd", "es": "malo", "icon": "👎" },
+        { "en": "thanks", "say": "zænks", "es": "gracias", "icon": "🙏" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Casi siempre es una A",
+      "title_en": "It's almost always an A",
+      "icon": "🔤",
+      "es": "La /æ/ casi siempre se escribe <b>A seguida de consonante</b> en la sílaba fuerte: c<b>a</b>t, m<b>a</b>p, bl<b>a</b>ck, h<b>a</b>ppy. Si esa A no lleva el golpe, normalmente se vuelve schwa (V-01): en ban<b>a</b>na solo la del medio es /æ/.",
+      "en": "/æ/ is usually spelled A + consonant in a stressed syllable. Unstressed A usually becomes a schwa.",
+      "examples": [
+        { "en": "map", "say": "mæp", "es": "mapa", "icon": "🗺️" },
+        { "en": "black", "say": "blæk", "es": "negro", "icon": "⬛" },
+        { "en": "bag", "say": "bæg", "es": "bolsa", "icon": "👜" },
+        { "en": "happy", "say": "jǽpi", "es": "feliz", "icon": "😊" },
+        { "en": "apple", "say": "ǽpəl", "es": "manzana", "icon": "🍎" },
+        { "en": "family", "say": "fǽməli", "es": "familia", "icon": "👨‍👩‍👧" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Ante M y N se estira",
+      "title_en": "Longer before M and N",
+      "icon": "🧲",
+      "es": "En casi todo EE. UU., cuando detrás va una <b>m</b> o una <b>n</b>, la /æ/ se alarga y casi se convierte en «ea»: man suena casi «mé-an» y can, casi «ké-an». <mark>Es la misma /æ/, solo que más larga</mark>: no la cambies por una e.",
+      "en": "In most of the US, /æ/ gets longer before M and N and sounds a bit like «e-a»: man, can, hand.",
+      "examples": [
+        { "en": "man", "say": "mæn", "es": "hombre", "icon": "👨" },
+        { "en": "can", "say": "kæn", "es": "lata; poder", "icon": "🥫" },
+        { "en": "hand", "say": "jænd", "es": "mano", "icon": "✋" },
+        { "en": "fan", "say": "fæn", "es": "fan; ventilador", "icon": "🤩" },
+        { "en": "dance", "say": "dæns", "es": "bailar", "icon": "💃" },
+        { "en": "camera", "say": "kǽmərə", "es": "cámara", "icon": "📷" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · ¡Ojo con la a española!",
+      "title_en": "Careful with the Spanish A",
+      "icon": "⚠️",
+      "es": "Nuestra a está en el centro de la boca, sin sonrisa. Para un americano, eso se parece más a <b>otra</b> vocal: si dices cat con a española, puede oír <b>cut</b> (cortar), y hat (sombrero) puede sonar a <b>hot</b> (caliente). Esas vocales las verás en V-04 y V-05. Para la /æ/, <mark>¡sonrisa y boca abierta!</mark>",
+      "en": "With a Spanish «a», cat can sound like cut, and hat like hot. Smile and open your mouth!",
+      "examples": [
+        { "en": "cat", "say": "kæt", "es": "gato (no cut ✂️)", "icon": "🐱" },
+        { "en": "hat", "say": "jæt", "es": "sombrero (no hot 🔥)", "icon": "🎩" },
+        { "en": "ankle", "say": "ǽnkəl", "es": "tobillo (no uncle 👨)", "icon": "🦶" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "bad",
+          "ipa": "bæd",
+          "say": "bæd",
+          "es": "malo",
+          "icon": "👎",
+          "anchor": "<b>«¡bééé!»</b> de oveja 🐑 + d",
+          "tip": "Bala como una oveja con la boca muy abierta: «¡bææ!». Ponle una d y ya tienes bad. ¡Las ovejas americanas dicen «baa»!"
+        },
+        {
+          "en": "crack",
+          "ipa": "kræk",
+          "say": "kræk",
+          "es": "crack, genio",
+          "icon": "⭐",
+          "anchor": "¡eres un <b>crack</b>! ⭐",
+          "tip": "Casi: dilo con sonrisa ancha, a medio camino entre a y e: kræk."
+        },
+        {
+          "en": "fan",
+          "ipa": "fæn",
+          "say": "fæn",
+          "es": "fan; ventilador",
+          "icon": "🤩",
+          "anchor": "soy <b>fan</b> 🤩",
+          "tip": "Casi: con a española suena a fun (diversión, V-04). ¡Abre la sonrisa!"
+        },
+        {
+          "en": "app",
+          "ipa": "æp",
+          "say": "æp",
+          "es": "app, aplicación",
+          "icon": "📱",
+          "anchor": "una <b>app</b> 📱",
+          "tip": "Casi: «ap» con sonrisa de oreja a oreja."
+        },
+        {
+          "en": "chat",
+          "ipa": "tʃæt",
+          "say": "chæt",
+          "es": "chat; charlar",
+          "icon": "💬",
+          "anchor": "el <b>chat</b> de clase 💬",
+          "tip": "Casi: el «chat» de siempre, pero con boca de e."
+        },
+        {
+          "en": "flash",
+          "ipa": "flæʃ",
+          "say": "flæsh",
+          "es": "flash",
+          "icon": "📸",
+          "anchor": "el <b>flash</b> de la cámara 📸",
+          "tip": "Abre mucho la boca, como si te deslumbrara: flæsh."
+        },
+        {
+          "en": "pack",
+          "ipa": "pæk",
+          "say": "pæk",
+          "es": "pack, paquete",
+          "icon": "📦",
+          "anchor": "un <b>pack</b> de yogures 📦",
+          "tip": "Casi: «pak» con la mandíbula bien abajo y sonrisa."
+        },
+        {
+          "en": "match",
+          "ipa": "mætʃ",
+          "say": "mæch",
+          "es": "partido; combinar",
+          "icon": "🎾",
+          "anchor": "<b>match</b> point 🎾",
+          "tip": "Casi: si dices «mach» con a española, suena a much (mucho)."
+        },
+        {
+          "en": "taxi",
+          "ipa": "ˈtæksi",
+          "say": "tǽksi",
+          "es": "taxi",
+          "icon": "🚕",
+          "anchor": "<b>ta</b>xi 🚕",
+          "tip": "Igual que en español, pero con la a de sonrisa: tǽk-si."
+        },
+        {
+          "en": "jazz",
+          "ipa": "dʒæz",
+          "say": "yæs",
+          "es": "jazz",
+          "icon": "🎷",
+          "anchor": "el <b>jazz</b> 🎷",
+          "tip": "Casi: con la y fuerte de «yo», boca de sonrisa y una s que zumba (C-08)."
+        },
+        {
+          "en": "thanks",
+          "ipa": "θæŋks",
+          "say": "zænks",
+          "es": "gracias",
+          "icon": "🙏",
+          "anchor": "<b>zanc</b>o<b>s</b> 🤹",
+          "tip": "«Zancos» sin la o: zancs. Ahora abre la a en sonrisa: zænks. ¡Gracias por los zancos!"
+        },
+        {
+          "en": "black",
+          "ipa": "blæk",
+          "say": "blæk",
+          "es": "negro",
+          "icon": "⬛",
+          "anchor": "el <b>Black</b> Friday 🛍️",
+          "tip": "Casi: con a española suena a block (bloque). ¡Sonrisa!"
+        },
+        {
+          "en": "Spanish",
+          "ipa": "ˈspænɪʃ",
+          "say": "spǽnish",
+          "es": "español",
+          "icon": "🇪🇸",
+          "anchor": "<s>es-pá-nish</s> → <b>spǽ</b>nish",
+          "tip": "Sin e delante (C-11) y con la a de sonrisa: spǽ-nish."
+        },
+        {
+          "en": "family",
+          "ipa": "ˈfæməli",
+          "say": "fǽməli",
+          "es": "familia",
+          "icon": "👨‍👩‍👧",
+          "anchor": "<s>fa-MI-lia</s> → <b>fǽ</b>məli",
+          "tip": "Golpe delante, en la /æ/, y el resto flojito."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "cat", "es": "gato" },
+        { "q": "happy", "es": "feliz" },
+        { "q": "thank you", "es": "gracias" },
+        { "q": "apple", "es": "manzana" },
+        { "q": "man", "es": "hombre" },
+        { "q": "bad", "es": "malo" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Esta A es la de cat?",
+      "title_en": "Is this A the cat vowel?",
+      "icon": "🧭",
+      "head": ["Palabra · Word", "¿Cómo es la A?", "¿/æ/?", "Suena"],
+      "rows": [
+        ["cat", "A + consonante, sílaba fuerte", "✅ sí", "<code>kæt</code>"],
+        ["happy", "A + consonante, sílaba fuerte", "✅ sí", "<code>jǽpi</code>"],
+        ["fast", "A + consonantes, sílaba fuerte", "✅ sí", "<code>fæst</code>"],
+        ["sandwich", "A + consonante, sílaba fuerte", "✅ sí", "<code>sǽnwich</code>"],
+        ["man", "A + N: se estira", "✅ sí (larga)", "<code>mæn</code>"],
+        ["banana", "solo la A fuerte; las otras, schwa", "✅ la 2.ª", "<code>bənǽnə</code>"],
+        ["cake", "A + consonante + E mágica (V-11)", "❌ no: /eɪ/", "<code>keik</code>"],
+        ["car", "A + R (V-10)", "❌ no: /ɑr/", "<code>kar</code>"],
+        ["father", "excepción (V-05)", "❌ no: /ɑ/", "<code>fáder</code>"],
+        ["water", "W + A", "❌ no: /ɑ/", "<code>wárer</code>"],
+        ["ball", "A + LL", "❌ no: /ɔ/", "<code>bol</code>"]
+      ],
+      "note": "Pista: <b>A + consonante en la sílaba fuerte</b> = casi siempre /æ/. Pero A + R (car), A + LL (ball), W + A (water) y la E mágica (cake) cambian el sonido.",
+      "note_en": "Tip: A + consonant in a stressed syllable is almost always /æ/. A + R, A + LL, W + A and magic E change the sound."
+    },
+    {
+      "t": "pairs",
+      "title": "A de cat vs. E de bed",
+      "title_en": "/æ/ vs. /ɛ/",
+      "icon": "👂",
+      "items": [
+        {
+          "a": { "en": "bad", "ipa": "bæd", "say": "bæd", "es": "malo", "icon": "👎" },
+          "b": { "en": "bed", "ipa": "bɛd", "say": "bed", "es": "cama", "icon": "🛏️" },
+          "tip": "Abre mucho para «malo»; para «cama», una e normal."
+        },
+        {
+          "a": { "en": "man", "ipa": "mæn", "say": "mæn", "es": "hombre", "icon": "👨" },
+          "b": { "en": "men", "ipa": "mɛn", "say": "men", "es": "hombres", "icon": "👥" },
+          "tip": "¡El plural cambia la vocal! Man se estira: casi «mé-an»."
+        },
+        {
+          "a": { "en": "sad", "ipa": "sæd", "say": "sæd", "es": "triste", "icon": "😢" },
+          "b": { "en": "said", "ipa": "sɛd", "say": "sed", "es": "dijo", "icon": "💬" },
+          "tip": "Said se escribe con AI, pero suena con una e normal."
+        },
+        {
+          "a": { "en": "pan", "ipa": "pæn", "say": "pæn", "es": "sartén", "icon": "🍳" },
+          "b": { "en": "pen", "ipa": "pɛn", "say": "pen", "es": "bolígrafo", "icon": "🖊️" },
+          "tip": "Pan, con sonrisa abierta; pen, como el «pen» de «pensar»."
+        },
+        {
+          "a": { "en": "dad", "ipa": "dæd", "say": "dæd", "es": "papá", "icon": "👨‍👧" },
+          "b": { "en": "dead", "ipa": "dɛd", "say": "ded", "es": "muerto", "icon": "👻" },
+          "tip": "¡Cuidado! «My dad» no es «my dead». 😅"
+        },
+        {
+          "a": { "en": "bag", "ipa": "bæɡ", "say": "bæg", "es": "bolsa", "icon": "👜" },
+          "b": { "en": "beg", "ipa": "bɛɡ", "say": "beg", "es": "suplicar", "icon": "🙏" },
+          "tip": "Bag, con la boca abierta; beg, con e española."
+        },
+        {
+          "a": { "en": "sand", "ipa": "sænd", "say": "sænd", "es": "arena", "icon": "🏖️" },
+          "b": { "en": "send", "ipa": "sɛnd", "say": "send", "es": "enviar", "icon": "📤" },
+          "tip": "Sand se estira por la n: casi «sé-and»."
+        },
+        {
+          "a": { "en": "salary", "ipa": "ˈsæləri", "say": "sǽləri", "es": "sueldo", "icon": "💵" },
+          "b": { "en": "celery", "ipa": "ˈsɛləri", "say": "séləri", "es": "apio", "icon": "🥬" },
+          "tip": "¡No pidas apio cuando quieres un sueldo! 😄"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "A española vs. /æ/",
+      "title_en": "Spanish A vs. /æ/",
+      "icon": "⚖️",
+      "es": "Las dos abren la boca, pero la /æ/ añade <b>sonrisa</b> y lleva la lengua <b>adelante</b>.",
+      "en": "Both open the mouth, but /æ/ adds a smile and moves the tongue forward.",
+      "cols": [
+        {
+          "head": "🇪🇸 A española",
+          "color": "orange",
+          "items": [
+            "boca abierta, labios neutros",
+            "lengua en el centro, plana",
+            "cortita",
+            "cat → suena casi a cut ✂️"
+          ]
+        },
+        {
+          "head": "🇺🇸 /æ/ de cat",
+          "color": "blue",
+          "items": [
+            "boca abierta <b>y</b> sonrisa",
+            "lengua baja y adelante",
+            "un pelín más larga",
+            "cat → <code>kæt</code> 🐱"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "title": "La /æ/ lleva el golpe",
+      "title_en": "/æ/ is in the stressed syllable",
+      "icon": "🥁",
+      "es": "La /æ/ casi siempre está en la sílaba fuerte (●). Las demás vocales suelen ser flojitas.",
+      "en": "/æ/ is almost always in the stressed syllable.",
+      "items": [
+        { "syl": ["hap", "py"], "s": 0, "say": "jǽpi", "es": "feliz" },
+        { "syl": ["ap", "ple"], "s": 0, "say": "ǽpəl", "es": "manzana" },
+        { "syl": ["fam", "i", "ly"], "s": 0, "say": "fǽməli", "es": "familia" },
+        { "syl": ["tax", "i"], "s": 0, "say": "tǽksi", "es": "taxi" },
+        { "syl": ["cam", "er", "a"], "s": 0, "say": "kǽmərə", "es": "cámara" },
+        { "syl": ["Jan", "u", "ar", "y"], "s": 0, "say": "yǽniueri", "es": "enero" },
+        { "syl": ["ba", "na", "na"], "s": 1, "say": "bənǽnə", "es": "plátano" },
+        { "syl": ["fan", "tas", "tic"], "s": 1, "say": "fæntǽstik", "es": "fantástico" }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "Thank you!", "spoken": "THANK-yuh!", "say": "zǽnkiu", "es": "¡Gracias!" },
+        { "written": "Thanks a lot!", "spoken": "Thanksa-LOT!", "say": "zænksəlát", "es": "¡Muchas gracias!" },
+        { "written": "Have a nice day!", "spoken": "Hava nice DAY!", "say": "jǽvə náis déi", "es": "¡Que tengas un buen día!" },
+        { "written": "Catch you later!", "spoken": "Catcha LATER!", "say": "kǽchə léirer", "es": "¡Hasta luego!" },
+        { "written": "What happened?", "spoken": "Wha' HAPPened?", "say": "wa' jǽpənd", "es": "¿Qué ha pasado?" },
+        { "written": "black and white", "spoken": "blackn WHITE", "say": "blǽkən wáit", "es": "blanco y negro" }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "My cat is black.", "say": "mai kæt is blæk", "es": "Mi gato es negro.", "icon": "🐱" },
+        { "en": "Thank you, Dad!", "say": "zǽnkiu, dæd!", "es": "¡Gracias, papá!", "icon": "🙏" },
+        { "en": "I'm very happy.", "say": "aim véri jǽpi", "es": "Estoy muy contento.", "icon": "😊" },
+        { "en": "Can I have an apple?", "say": "kən ai jǽv ənǽpəl?", "es": "¿Me das una manzana?", "icon": "🍎" },
+        { "en": "That man has a map.", "say": "dæt mæn jæs ə mæp", "es": "Ese hombre tiene un mapa.", "icon": "🗺️" },
+        { "en": "Don't be sad.", "say": "dóunt bi sæd", "es": "No estés triste.", "icon": "😢" },
+        { "en": "Pass me the bag, please.", "say": "pæs mi də bæg, pliis", "es": "Pásame la bolsa, por favor.", "icon": "👜" },
+        { "en": "I can't dance!", "say": "ai kænt dæns!", "es": "¡No sé bailar!", "icon": "💃" },
+        { "en": "The family is in the van.", "say": "də fǽməli is in də væn", "es": "La familia está en la furgoneta.", "icon": "🚐" },
+        { "en": "Jack has a fat cat.", "say": "yæk jæs ə fæt kæt", "es": "Jack tiene un gato gordo.", "icon": "🐈" },
+        { "en": "Let's take a taxi.", "say": "lets téik ə tǽksi", "es": "Vamos a coger un taxi.", "icon": "🚕" },
+        { "en": "I have a math class at ten.", "say": "ai jæv ə mæz klæs ət ten", "es": "Tengo clase de mates a las diez.", "icon": "📐" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "cat → <code>kat</code> (a española)",
+          "good": "<code>kæt</code> 🐱",
+          "why": "Con a española suena casi a cut (cortar). ¡Sonrisa y boca abierta!",
+          "why_en": "With a Spanish «a», it sounds like «cut»."
+        },
+        {
+          "bad": "bad → <code>bed</code>",
+          "good": "<code>bæd</code>",
+          "why": "Si no abres la boca, «malo» se convierte en «cama».",
+          "why_en": "If you don't open your mouth, bad becomes bed."
+        },
+        {
+          "bad": "man → <code>men</code>",
+          "good": "<code>mæn</code>",
+          "why": "Men es el plural. Para un solo hombre, abre y estira.",
+          "why_en": "Men is plural. For one man, open and stretch."
+        },
+        {
+          "bad": "thanks → <code>tanks</code>",
+          "good": "<code>zænks</code>",
+          "why": "Con t dices «tanks» (tanques) 🪖. Lengua entre los dientes (C-04) y sonrisa.",
+          "why_en": "With a T it sounds like «tanks». Use /θ/ and /æ/."
+        },
+        {
+          "bad": "black → <code>blak</code>",
+          "good": "<code>blæk</code>",
+          "why": "Con a española suena casi a block (bloque).",
+          "why_en": "With a Spanish «a», it sounds like «block»."
+        },
+        {
+          "bad": "family → <code>família</code>",
+          "good": "<code>fǽməli</code>",
+          "why": "Tres sílabas, golpe en la /æ/ y el resto flojito.",
+          "why_en": "Three syllables, stress on the /æ/."
+        },
+        {
+          "bad": "apple → <code>á-ple</code>",
+          "good": "<code>ǽpəl</code>",
+          "why": "Nada de «a-ple»: ǽ-pəl, con la l final oscura (C-12).",
+          "why_en": "Not «a-ple»: /ˈæpəl/."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¿Un gato para Mario?",
+      "title_en": "A cat for Mario?",
+      "lines": [
+        { "who": "Mario", "en": "Dad, can I have a cat?", "say": "dæd, kən ai jǽv ə kæt?", "es": "Papá, ¿puedo tener un gato?" },
+        { "who": "Dad", "en": "A cat? Ask your mom.", "say": "ə kæt? æsk ior mam.", "es": "¿Un gato? Pregúntale a mamá." },
+        { "who": "Mario", "en": "Mom, can I have a black cat? Please!", "say": "mam, kən ai jǽv ə blæk kæt? pliis!", "es": "Mamá, ¿puedo tener un gato negro? ¡Porfa!" },
+        { "who": "Mom", "en": "OK, but you clean the cat's bed.", "say": "óukéi, bət iu kliin də kæts bed.", "es": "Vale, pero tú limpias la cama del gato." },
+        { "who": "Mario", "en": "The cat's bad? Why?", "say": "də kæts bæd? wai?", "es": "¿El gato es malo? ¿Por qué?" },
+        { "who": "Mom", "en": "Not bad, Mario. BED! Where the cat sleeps.", "say": "nat bæd, mário. bed! wer də kæt sliips.", "es": "Malo no, Mario. ¡CAMA! Donde duerme el gato." },
+        { "who": "Mario", "en": "Ha! Bad, bed… Thanks, Mom! I'm so happy!", "say": "ja! bæd, bed… zænks, mam! aim sou jǽpi!", "es": "¡Ja! Bad, bed… ¡Gracias, mamá! ¡Qué contento estoy!" },
+        { "who": "Dad", "en": "And I'm the man with the bag of cat food.", "say": "ən aim də mæn wid də bæg əv kæt fuud.", "es": "Y yo soy el hombre de la bolsa de comida para gatos." }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarla en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di «e» con una sonrisa ancha. Mantén los labios así.",
+          "en": "Say «e» with a wide smile and keep your lips there."
+        },
+        {
+          "es": "Sin mover los labios, baja la mandíbula poco a poco: «e… eæ… æ». ¡Ahí está!",
+          "en": "Without moving your lips, drop your jaw slowly."
+        },
+        {
+          "es": "Compruébalo en un espejo: boca abierta <b>y</b> sonrisa a la vez, como una mueca de «¡puaj!» 😖.",
+          "en": "Check in a mirror: open mouth and smile at the same time."
+        },
+        {
+          "es": "Practica parejas: bad/bed, man/men, sad/said, pan/pen.",
+          "en": "Practice minimal pairs."
+        },
+        {
+          "es": "Escanea los QR, escucha y <b>grábate</b> diciendo cat, happy y thanks.",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Jack's black cat sat on a fat hat.",
+          "say": "yæks blæk kæt sæt an ə fæt jæt",
+          "es": "El gato negro de Jack se sentó en un sombrero gordo."
+        },
+        {
+          "en": "Sam's dad had a bad bag.",
+          "say": "sæms dæd jæd ə bæd bæg",
+          "es": "El padre de Sam tenía una bolsa mala."
+        },
+        {
+          "en": "Pam's fat cat can't catch a rat.",
+          "say": "pæms fæt kæt kænt kæch ə ræt",
+          "es": "El gato gordo de Pam no puede cazar una rata."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de la manzana",
+      "title_en": "The apple trick",
+      "es": "¿No te sale? Imagina que vas a dar un <b>mordisco enorme</b> a una apple 🍎: abres la boca hacia abajo y estiras los labios… y en esa posición dices «a». ¡Eso es /æ/! Mordisco + a = <code>ǽpəl</code>.",
+      "en": "Imagine you're taking a huge bite of an apple. Keep that mouth and say «a». That's /æ/!"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Cuál tiene /æ/?",
+      "title_en": "Which one has /æ/?",
+      "icon": "🔍",
+      "es": "Di las dos palabras en voz alta y rodea la que tiene la a de cat.",
+      "en": "Say both words and circle the one with the cat vowel.",
+      "items": [
+        { "q": "[cat|cake]", "a": "cat" },
+        { "q": "[map|car]", "a": "map" },
+        { "q": "[bag|ball]", "a": "bag" },
+        { "q": "[happy|father]", "a": "happy" },
+        { "q": "[man|men]", "a": "man" },
+        { "q": "[black|water]", "a": "black" },
+        { "q": "[apple|table]", "a": "apple" },
+        { "q": "[thanks|name]", "a": "thanks" },
+        { "q": "[sad|said]", "a": "sad" },
+        { "q": "[hat|hate]", "a": "hat" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "🐱 /æ/ como cat",
+          "words": ["bad", "man", "sad", "map", "black", "apple", "hand", "thanks"]
+        },
+        {
+          "name": "🛏️ /ɛ/ como bed",
+          "words": ["men", "said", "pen", "red", "ten", "egg", "friend", "yes"]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "En inglés americano, ¿estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "In American English, do they sound the same or different?",
+      "items": [
+        { "q": "bad · bed → [igual|diferente]", "a": "diferente" },
+        { "q": "man · men → [igual|diferente]", "a": "diferente" },
+        { "q": "aunt · ant → [igual|diferente]", "a": "igual" },
+        { "q": "sad · said → [igual|diferente]", "a": "diferente" },
+        { "q": "add · ad → [igual|diferente]", "a": "igual" },
+        { "q": "pan · pen → [igual|diferente]", "a": "diferente" },
+        { "q": "band · banned → [igual|diferente]", "a": "igual" },
+        { "q": "dad · dead → [igual|diferente]", "a": "diferente" }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada. ¡Fíjate en æ o e!",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["cat", "<code>kæt</code>"],
+        ["bed", "<code>bed</code>"],
+        ["happy", "<code>jǽpi</code>"],
+        ["thanks", "<code>zænks</code>"],
+        ["apple", "<code>ǽpəl</code>"],
+        ["black", "<code>blæk</code>"],
+        ["men", "<code>men</code>"],
+        ["family", "<code>fǽməli</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Usa <b>æ</b> (o <b>ǽ</b> si es la sílaba fuerte) para la a de cat.",
+      "en": "Write how each word sounds. Use æ for the cat vowel.",
+      "items": [
+        { "q": "🗺️ map → ____", "a": "mæp" },
+        { "q": "👜 bag → ____", "a": "bæg" },
+        { "q": "✋ hand → ____", "a": "jænd" },
+        { "q": "👨 man → ____", "a": "mæn" },
+        { "q": "😢 sad → ____", "a": "sæd" },
+        { "q": "🚕 taxi → ____", "a": "tǽksi" },
+        { "q": "📷 camera → ____", "a": "kǽmərə" },
+        { "q": "📅 Saturday → ____", "a": "sǽrerdei" },
+        { "q": "🇪🇸 Spanish → ____", "a": "spǽnish" },
+        { "q": "🥪 sandwich → ____", "a": "sǽnwich" }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. ¿Lleva la /æ/? ¡Casi siempre!",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        { "syl": ["hap", "py"], "s": 0, "es": "feliz" },
+        { "syl": ["ap", "ple"], "s": 0, "es": "manzana" },
+        { "syl": ["fam", "i", "ly"], "s": 0, "es": "familia" },
+        { "syl": ["Sat", "ur", "day"], "s": 0, "es": "sábado" },
+        { "syl": ["ba", "na", "na"], "s": 1, "es": "plátano" },
+        { "syl": ["Jan", "u", "ar", "y"], "s": 0, "es": "enero" },
+        { "syl": ["cam", "er", "a"], "s": 0, "es": "cámara" },
+        { "syl": ["Span", "ish"], "s": 0, "es": "español" },
+        { "syl": ["fan", "tas", "tic"], "s": 1, "es": "fantástico" },
+        { "syl": ["i", "mag", "ine"], "s": 1, "es": "imaginar" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "/æ/ is like an «a» said with an «e» mouth.", "a": true },
+        { "q": "/æ/ exists in Spanish.", "a": false, "why": "es nueva para ti" },
+        { "q": "«Bad» and «bed» sound the same.", "a": false, "why": "/æ/ ≠ /ɛ/" },
+        { "q": "In American English, «aunt» and «ant» sound the same.", "a": true },
+        { "q": "Before M and N, /æ/ gets longer: man, can.", "a": true },
+        { "q": "The A in «cake» is /æ/.", "a": false, "why": "es /eɪ/: keik" },
+        { "q": "With a Spanish «a», «cat» can sound like «cut».", "a": true },
+        { "q": "«Thanks» has the /æ/ sound.", "a": true }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "cat → <code>kat</code>", "a": "kæt" },
+        { "q": "bad → <code>bed</code>", "a": "bæd" },
+        { "q": "man → <code>men</code>", "a": "mæn" },
+        { "q": "happy → <code>jápi</code>", "a": "jǽpi" },
+        { "q": "thanks → <code>tanks</code>", "a": "zænks" },
+        { "q": "black → <code>blak</code>", "a": "blæk" },
+        { "q": "apple → <code>áple</code>", "a": "ǽpəl" },
+        { "q": "family → <code>famíli</code>", "a": "fǽməli" }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "¿Cómo se escribe?",
+      "title_en": "How do you spell it?",
+      "icon": "🔡",
+      "es": "Escribe la palabra en inglés. Todas tienen la a de cat.",
+      "en": "Write the English word. They all have /æ/.",
+      "items": [
+        { "q": "🐱 gato", "a": "cat" },
+        { "q": "🗺️ mapa", "a": "map" },
+        { "q": "🍎 manzana", "a": "apple" },
+        { "q": "⬛ negro", "a": "black" },
+        { "q": "👜 bolsa", "a": "bag" },
+        { "q": "✋ mano", "a": "hand" },
+        { "q": "😢 triste", "a": "sad" },
+        { "q": "🎩 sombrero", "a": "hat" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "De /ɛ/ a /æ/",
+      "title_en": "From /ɛ/ to /æ/",
+      "icon": "🔄",
+      "es": "Cambia la e de bed por la a de cat para conseguir la palabra que significa lo que pone. Escríbela y di las dos.",
+      "en": "Change /ɛ/ to /æ/ to get the new word. Write it and say both.",
+      "items": [
+        { "q": "bed → malo", "a": "bad" },
+        { "q": "men → hombre", "a": "man" },
+        { "q": "pen → sartén", "a": "pan" },
+        { "q": "said → triste", "a": "sad" },
+        { "q": "beg → bolsa", "a": "bag" },
+        { "q": "send → arena", "a": "sand" },
+        { "q": "dead → papá", "a": "dad" },
+        { "q": "celery → sueldo", "a": "salary" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez. ¡Sonrisa abierta!",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "a black cat", "say": "ə blæk kæt" },
+        { "q": "Thank you, Dad!", "say": "zǽnkiu, dæd!" },
+        { "q": "I'm happy.", "say": "aim jǽpi" },
+        { "q": "an apple and a banana", "say": "ənǽpəl ən ə bənǽnə" },
+        { "q": "The man has a map.", "say": "də mæn jæs ə mæp" },
+        { "q": "bad, bed, bad, bed", "say": "bæd, bed, bæd, bed" },
+        { "q": "I can't dance!", "say": "ai kænt dæns!" },
+        { "q": "Pam's fat cat can't catch a rat.", "say": "pæms fæt kæt kænt kæch ə ræt" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con la /æ/.",
+      "en": "Translate into English and say it with /æ/.",
+      "items": [
+        { "q": "malo", "a": "bad (bæd)" },
+        { "q": "feliz", "a": "happy (jǽpi)" },
+        { "q": "gracias", "a": "thanks (zænks)" },
+        { "q": "hombre", "a": "man (mæn)" },
+        { "q": "familia", "a": "family (fǽməli)" },
+        { "q": "sábado", "a": "Saturday (sǽrerdei)" },
+        { "q": "español", "a": "Spanish (spǽnish)" },
+        { "q": "bailar", "a": "dance (dæns)" },
+        { "q": "papá", "a": "dad (dæd)" },
+        { "q": "rápido", "a": "fast (fæst)" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En la última columna escribe /æ/ o /ɛ/.",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Español", "Suena", "¿/æ/ o /ɛ/?"],
+      "rows": [
+        ["bad", "malo", "?bæd", "?/æ/"],
+        ["bed", "?cama", "bed", "?/ɛ/"],
+        ["?man", "hombre", "mæn", "/æ/"],
+        ["men", "?hombres", "?men", "/ɛ/"],
+        ["?sad", "triste", "?sæd", "/æ/"],
+        ["said", "dijo", "?sed", "?/ɛ/"],
+        ["?pan", "sartén", "pæn", "?/æ/"],
+        ["pen", "?bolígrafo", "?pen", "/ɛ/"]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de gatos",
+      "title_en": "Cat vowel word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con la a de cat. Dila en voz alta, ¡con sonrisa!",
+      "en": "Find 10 words with /æ/.",
+      "words": ["cat", "black", "happy", "apple", "thanks", "man", "hat", "bag", "map", "family"],
+      "clues": ["cat · gato", "black · negro", "happy · feliz", "apple · manzana", "thanks · gracias", "man · hombre", "hat · sombrero", "bag · bolsa", "map · mapa", "family · familia"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las /æ/",
+      "title_en": "Read and find /æ/",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Jack's Black Cat",
+      "text": [
+        "Jack has a black cat. Its name is Max. Max is fat and happy. He sleeps on Jack's bed and loves apples!",
+        "Every Saturday, Jack and his dad take Max to the park in a bag. Max is bad: he runs after the ducks. “Bad cat, Max!” says Jack's dad. But Max just looks at him… and naps."
+      ],
+      "items": [
+        { "q": "What's the cat's name?", "a": "Max (<code>mæks</code>)." },
+        { "q": "Write three words from the text with /æ/.", "a": "Jack, has, black, cat, Max, fat, happy, apples, Saturday, dad, bag, bad, naps (cualquiera)." },
+        { "q": "Find a word with /ɛ/, like «bed».", "a": "bed, every (<code>bed</code>, <code>évri</code>)." },
+        { "q": "Max is thin and sad.", "tf": true, "a": false, "why": "fat and happy" },
+        { "q": "Jack's dad says «Bad cat!».", "tf": true, "a": true },
+        { "q": "«Bad» and «bed» have the same vowel.", "tf": true, "a": false, "why": "/æ/ ≠ /ɛ/" }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con la a de cat. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with /æ/ words and record yourself.",
+      "items": [
+        {
+          "q": "Una frase sobre un animal (cat, rabbit, panda…).",
+          "lines": 2,
+          "a": "Ej.: My cat is fat and happy."
+        },
+        {
+          "q": "Una frase con bad y bed.",
+          "lines": 2,
+          "a": "Ej.: This bed is bad."
+        },
+        {
+          "q": "Una frase para dar las gracias (thanks, thank you…).",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Pongo la boca para la /æ/: boca de e, mandíbula de a.", "en": "I can make the /æ/ mouth." },
+    { "es": "Digo <b>cat</b> como <code>kæt</code>, no con a española.", "en": "I say cat with /æ/, not a Spanish «a»." },
+    { "es": "Distingo bad/bed y man/men.", "en": "I can tell bad from bed and man from men." },
+    { "es": "Sé que ante m y n la /æ/ se estira: man, can, hand.", "en": "I know /æ/ gets longer before M and N." },
+    { "es": "Digo bien <b>thanks</b>, <b>happy</b>, <b>apple</b> y <b>black</b>.", "en": "I can say thanks, happy, apple and black." },
+    { "es": "Leo «Pam's fat cat can't catch a rat» sin trabarme.", "en": "I can say the fat cat tongue twister." }
+  ]
+}

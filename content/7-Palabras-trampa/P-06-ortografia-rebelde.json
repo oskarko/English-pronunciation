@@ -1,0 +1,616 @@
+{
+  "id": "P-06",
+  "block": "P",
+  "title": "ORTOGRAFÍA REBELDE",
+  "file_title": "Ortografía rebelde (el caos del inglés)",
+  "subtitle": "Crazy English spelling · OUGH, EA, OO, OU…",
+  "icon": "🤯",
+  "map": {
+    "center": "En inglés, <b>las mismas letras</b> pueden sonar de muchas formas: ¡OUGH tiene seis! Si dudas, mira el <b>IPA</b>.",
+    "listen": "though",
+    "nodes": [
+      { "title": "OUGH, la campeona", "icon": "🏆", "color": "green", "rows": [["though", "<code>dou</code>"], ["through", "<code>zruu</code>"], ["tough", "<code>taf</code>"]], "after": "y cough, thought, bough…" },
+      { "title": "EA", "icon": "🍞", "color": "blue", "rows": [["bead", "<code>biid</code>"], ["bread", "<code>bred</code>"], ["break", "<code>breik</code>"]] },
+      { "title": "OO", "icon": "🍔", "color": "purple", "rows": [["food", "<code>fuud</code>"], ["good", "<code>gud</code>"], ["blood", "<code>blad</code>"]] },
+      { "title": "OU", "icon": "🏠", "color": "orange", "rows": [["out", "<code>aut</code>"], ["soup", "<code>suup</code>"], ["touch", "<code>tach</code>"]] },
+      { "title": "C y G", "icon": "🐱", "color": "pink", "rows": [["cat · city", "<code>kæt</code> · <code>síri</code>"], ["go · gym", "<code>gou</code> · <code>yim</code>"]], "after": "delante de e, i… ¡cambian!" },
+      { "title": "Tu salvavidas", "icon": "🛟", "color": "yellow", "items": ["busca la palabra en un diccionario 🇺🇸", "lee el <b>IPA</b>: though = /ðoʊ/", "escúchala y repite"] }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["though → <code>tóug</code>"],
+      "good": ["<code>dou</code> 🤷"],
+      "note": "OUGH no se lee letra a letra: cada palabra va a su aire."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "💪 tough → ____", "a": "taf" },
+        { "q": "🤧 cough → ____", "a": "kof" },
+        { "q": "🍞 bread → ____", "a": "bred" },
+        { "q": "🩸 blood → ____", "a": "blad" },
+        { "q": "🏋️ gym → ____", "a": "yim" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Por qué se escribe tan raro?",
+      "title_en": "Why is English spelling so weird?",
+      "icon": "🔎",
+      "es": "El inglés tiene 26 letras, unos 40 sonidos… y una historia muy movida: palabras del latín, del francés y de los vikingos, y una pronunciación que <b>cambió mucho</b> mientras la ortografía se quedaba quieta. Resultado: <mark>las mismas letras pueden sonar de muchas formas</mark>. No es culpa tuya: ¡los niños americanos hacen concursos de deletreo (<i>spelling bees</i>)! La buena noticia: hay pistas (mapa V-11) y, cuando fallan, el <b>IPA</b> del diccionario te salva.",
+      "en": "English has 26 letters and about 40 sounds, and its spelling stopped changing while the pronunciation kept changing. So the same letters can sound very different. When the clues fail, check the IPA.",
+      "formula": ["OUGH → *6 sonidos*", "EA · OO · OU → *muchos sonidos*"]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · OUGH: seis sonidos",
+      "title_en": "OUGH: six sounds",
+      "icon": "🏆",
+      "es": "OUGH es la campeona del caos: <b>though</b> <code>dou</code>, <b>through</b> <code>zruu</code>, <b>tough</b> <code>taf</code>, <b>cough</b> <code>kof</code>, <b>thought</b> <code>zot</code>, <b>bough</b> <code>bau</code>. Y <b>thorough</b> suena <code>zérou</code>. Truco: <mark>apréndelas por rimas</mark>: tough · rough · enough (<code>af</code>); thought · bought · brought (<code>ot</code>).",
+      "en": "OUGH has six different sounds: though, through, tough, cough, thought, bough. Learn them in rhyming groups.",
+      "examples": [
+        { "en": "though", "say": "dou", "es": "aunque", "icon": "🤷" },
+        { "en": "through", "say": "zruu", "es": "a través de", "icon": "🚇" },
+        { "en": "tough", "say": "taf", "es": "duro / difícil", "icon": "💪" },
+        { "en": "cough", "say": "kof", "es": "tos / toser", "icon": "🤧" },
+        { "en": "thought", "say": "zot", "es": "pensé / pensamiento", "icon": "💭" },
+        { "en": "bough", "say": "bau", "es": "rama (de árbol)", "icon": "🌳" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · EA: muchas caras",
+      "title_en": "EA: many faces",
+      "icon": "🍞",
+      "es": "Lo normal es que <b>EA</b> suene <code>ii</code> (bead, eat, tea: mapa V-11). Pero tiene muchas caras: <code>e</code> en <b>bread</b> y head; <code>ei</code> en <b>break</b> y great; <code>éer</code> en <b>bear</b> y wear; <code>ar</code> en <b>heart</b>; y <code>er</code> en <b>early</b> y learn (mapa V-09).",
+      "en": "EA usually says /iː/ (bead), but also /ɛ/ (bread), /eɪ/ (break), /ɛr/ (bear), /ɑr/ (heart) and /ɝ/ (early).",
+      "examples": [
+        { "en": "bead", "say": "biid", "es": "cuenta / abalorio", "icon": "📿" },
+        { "en": "bread", "say": "bred", "es": "pan", "icon": "🍞" },
+        { "en": "break", "say": "breik", "es": "romper / descanso", "icon": "☕" },
+        { "en": "bear", "say": "béer", "es": "oso", "icon": "🐻" },
+        { "en": "heart", "say": "jart", "es": "corazón", "icon": "❤️" },
+        { "en": "early", "say": "érli", "es": "temprano", "icon": "⏰" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · OO: cuatro sonidos",
+      "title_en": "OO: four sounds",
+      "icon": "🍔",
+      "es": "<b>OO</b> suele sonar <code>uu</code> larga (food, moon) o <code>u</code> corta (good, book): lo verás a fondo en el mapa V-06. Pero hay dos sorpresas: <b>blood</b> y flood suenan con <code>a</code> corta, y <b>door</b> y floor suenan <code>or</code> (mapa V-10).",
+      "en": "OO says /uː/ (food) or /ʊ/ (good), but /ʌ/ in blood and flood, and /ɔr/ in door and floor.",
+      "examples": [
+        { "en": "food", "say": "fuud", "es": "comida", "icon": "🍔" },
+        { "en": "moon", "say": "muun", "es": "luna", "icon": "🌙" },
+        { "en": "good", "say": "gud", "es": "bueno", "icon": "👍" },
+        { "en": "book", "say": "buk", "es": "libro", "icon": "📕" },
+        { "en": "blood", "say": "blad", "es": "sangre", "icon": "🩸" },
+        { "en": "door", "say": "dor", "es": "puerta", "icon": "🚪" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · OU: la camaleónica",
+      "title_en": "OU: the chameleon",
+      "icon": "🦎",
+      "es": "<b>OU</b> cambia de color según la palabra: <code>au</code> en <b>out</b> y house; <code>uu</code> en <b>soup</b>, you y group; <code>a</code> corta en <b>touch</b>, young y country; <code>or</code> en <b>your</b> y four; y <code>u</code> corta en <b>could</b>, would y should (con L muda, mapa C-15).",
+      "en": "OU can be /aʊ/ (out), /uː/ (soup), /ʌ/ (touch), /ɔr/ (your) or /ʊ/ (could).",
+      "examples": [
+        { "en": "out", "say": "aut", "es": "fuera", "icon": "🚶" },
+        { "en": "house", "say": "jaus", "es": "casa", "icon": "🏠" },
+        { "en": "soup", "say": "suup", "es": "sopa", "icon": "🍲" },
+        { "en": "touch", "say": "tach", "es": "tocar", "icon": "✋" },
+        { "en": "your", "say": "ior", "es": "tu / vuestro", "icon": "👆" },
+        { "en": "could", "say": "kud", "es": "podría / pude", "icon": "🤔" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · I y Y: cuatro voces",
+      "title_en": "I and Y",
+      "icon": "🔀",
+      "es": "La <b>I</b> puede ser corta (<b>big</b>), decir su nombre (<b>kind</b>: ¡ojo con I + ND o LD, como find y child!) o sonar <code>ii</code> en palabras prestadas (<b>machine</b>, pizza, police). La <b>Y</b> es consonante al empezar (<b>yes</b>), suena <code>ai</code> al final de palabras cortas (<b>fly</b>, my, why), <code>i</code> al final de las largas (<b>happy</b>) e <code>i</code> corta en medio (gym).",
+      "en": "I can be /ɪ/ (big), /aɪ/ (kind, child) or /iː/ (machine). Y can be /j/ (yes), /aɪ/ (fly), /i/ (happy) or /ɪ/ (gym).",
+      "examples": [
+        { "en": "big", "say": "big", "es": "grande", "icon": "🐘" },
+        { "en": "kind", "say": "kaind", "es": "amable", "icon": "😊" },
+        { "en": "machine", "say": "məshíin", "es": "máquina", "icon": "⚙️" },
+        { "en": "yes", "say": "iés", "es": "sí", "icon": "✅" },
+        { "en": "fly", "say": "flai", "es": "volar / mosca", "icon": "🕊️" },
+        { "en": "happy", "say": "jǽpi", "es": "feliz", "icon": "😀" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · C y G: duras o suaves",
+      "title_en": "C and G: hard or soft",
+      "icon": "🐱",
+      "es": "<b>C</b> delante de a, o, u suena <code>k</code> (cat, cup); delante de <b>e, i, y</b> suena <code>s</code> (casi siempre): city, cent, ice. <mark>¡Nunca z!</mark> <b>G</b> delante de a, o, u suena <code>g</code> (go, game); delante de e, i, y suele sonar <code>y</code> fuerte (gym, giant, age)… pero hay excepciones muy comunes con g dura: get, give, girl, begin.",
+      "en": "C before e, i, y sounds /s/ (city), never /θ/. G before e, i, y often sounds /dʒ/ (gym, giant), but get, give and girl keep a hard G.",
+      "examples": [
+        { "en": "cat", "say": "kæt", "es": "gato", "icon": "🐱" },
+        { "en": "city", "say": "síri", "es": "ciudad", "icon": "🏙️" },
+        { "en": "ice", "say": "ais", "es": "hielo", "icon": "🧊" },
+        { "en": "go", "say": "gou", "es": "ir", "icon": "🏃" },
+        { "en": "giant", "say": "yáiənt", "es": "gigante", "icon": "🦕" },
+        { "en": "get", "say": "guet", "es": "conseguir / coger", "icon": "🎁" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "cough", "ipa": "kɔf", "say": "kof", "es": "tos", "icon": "🤧", "anchor": "¡<b>cof</b>, cof! 🤧", "tip": "Igual que la tos de los cómics. Muchos americanos dicen <code>kaf</code>." },
+        { "en": "tough", "ipa": "tʌf", "say": "taf", "es": "duro / difícil", "icon": "💪", "anchor": "<s>tóug</s> → <b>taf</b>", "tip": "Aquí GH suena f. Rima con enough y rough." },
+        { "en": "though", "ipa": "ðoʊ", "say": "dou", "es": "aunque", "icon": "🤷", "anchor": "<s>tóug</s> → <b>dou</b>", "tip": "TH suave, la d de «nada» (mapa C-05), y OUGH = ou." },
+        { "en": "through", "ipa": "θruː", "say": "zruu", "es": "a través de", "icon": "🚇", "anchor": "<s>zróug</s> → <b>zruu</b>", "tip": "TH = la z de «zapato» (mapa C-04) y OUGH = uu." },
+        { "en": "group", "ipa": "ɡruːp", "say": "gruup", "es": "grupo", "icon": "👥", "anchor": "<b>grup</b>o 👥", "tip": "Di «grupo» sin la o y alarga la u: gruup." },
+        { "en": "house", "ipa": "haʊs", "say": "jaus", "es": "casa", "icon": "🏠", "anchor": "Dr. <b>House</b> 🩺", "tip": "Ya lo dices bien: jaus. OU = au." },
+        { "en": "mouse", "ipa": "maʊs", "say": "maus", "es": "ratón", "icon": "🐭", "anchor": "Mickey <b>Mouse</b> 🐭", "tip": "OU = au, igual que en house." },
+        { "en": "country", "ipa": "ˈkʌntri", "say": "kántri", "es": "país / campo", "icon": "🤠", "anchor": "<s>káuntri</s> → <b>kántri</b>", "tip": "Aquí OU suena a corta (mapa V-04): la música country es <code>kántri</code>." },
+        { "en": "look", "ipa": "lʊk", "say": "luk", "es": "mirar / aspecto", "icon": "😎", "anchor": "un <b>look</b> nuevo 😎", "tip": "OO corta: luk. Como book (<code>buk</code>) y good (<code>gud</code>)." },
+        { "en": "food", "ipa": "fuːd", "say": "fuud", "es": "comida", "icon": "🍔", "anchor": "un <b>food</b> truck 🚚", "tip": "OO larga: alárgala, fuud." },
+        { "en": "break", "ipa": "breɪk", "say": "breik", "es": "romper / descanso", "icon": "☕", "anchor": "hacer un <b>break</b> ☕", "tip": "¡Ojo! Aquí EA suena ei, no ii." },
+        { "en": "city", "ipa": "ˈsɪɾi", "say": "síri", "es": "ciudad", "icon": "🏙️", "anchor": "<s>zíti</s> → <b>Siri</b> 📱", "tip": "C + i suena s, nunca z. Y la T, toque (mapa C-02)." },
+        { "en": "gym", "ipa": "dʒɪm", "say": "yim", "es": "gimnasio", "icon": "🏋️", "anchor": "<s>jim</s> (con jota) → <b>yim</b>", "tip": "Con jota española suena a him (él). Aquí G = y fuerte." },
+        { "en": "magic", "ipa": "ˈmædʒɪk", "say": "mǽyik", "es": "magia", "icon": "🪄", "anchor": "<s>májik</s> → <b>mǽyik</b>", "tip": "G + i = y fuerte, y la A con boca de sonrisa (mapa V-03)." }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "though", "es": "aunque" },
+        { "q": "through", "es": "a través de" },
+        { "q": "tough", "es": "duro" },
+        { "q": "cough", "es": "tos" },
+        { "q": "thought", "es": "pensé" },
+        { "q": "bread", "es": "pan" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "OUGH: la familia más loca",
+      "title_en": "OUGH: the craziest family",
+      "icon": "🤪",
+      "head": ["Palabra · Word", "Español", "Suena", "Rima con · Rhymes with"],
+      "rows": [
+        ["though", "aunque", "<code>dou</code>", "go, no"],
+        ["dough", "masa", "<code>dou</code>", "go, no"],
+        ["through", "a través de", "<code>zruu</code>", "blue, too"],
+        ["tough", "duro / difícil", "<code>taf</code>", "stuff"],
+        ["enough", "suficiente", "<code>ináf</code>", "stuff"],
+        ["rough", "áspero / duro", "<code>raf</code>", "stuff"],
+        ["cough", "tos", "<code>kof</code>", "off"],
+        ["thought", "pensé / pensamiento", "<code>zot</code>", "caught, taught"],
+        ["bought", "compré", "<code>bot</code>", "caught, taught"],
+        ["bough", "rama", "<code>bau</code>", "now, cow"],
+        ["thorough", "minucioso", "<code>zérou</code>", "—"]
+      ],
+      "note": "Los americanos simplifican algunas en carteles y mensajes: <b>thru</b> (through), <b>tho</b> (though), <b>donut</b> (doughnut).",
+      "note_en": "Americans often simplify some of them in signs and texts: thru, tho, donut."
+    },
+    {
+      "t": "table",
+      "title": "Chuleta de IPA",
+      "title_en": "IPA cheat sheet",
+      "icon": "🗝️",
+      "head": ["IPA", "Ejemplo", "Figurada"],
+      "rows": [
+        ["/iː/ · /ɪ/", "see · sit", "<code>ii</code> · <code>i</code>"],
+        ["/eɪ/ · /ɛ/", "day · bed", "<code>ei</code> · <code>e</code>"],
+        ["/æ/", "cat", "<code>æ</code>"],
+        ["/ɑ/ · /ʌ/", "hot · cup", "<code>a</code>"],
+        ["/ɔ/", "talk", "<code>o</code>"],
+        ["/oʊ/", "go", "<code>ou</code>"],
+        ["/ʊ/ · /uː/", "good · food", "<code>u</code> · <code>uu</code>"],
+        ["/ə/", "about", "<code>ə</code>"],
+        ["/ɝ/ · /ɚ/", "bird · teacher", "<code>er</code>"],
+        ["/aɪ/ · /aʊ/", "my · now", "<code>ai</code> · <code>au</code>"],
+        ["/θ/ · /ð/", "think · the", "<code>z</code> · <code>d</code>"],
+        ["/ʃ/ · /dʒ/", "she · job", "<code>sh</code> · <code>y</code>"],
+        ["/h/", "hello", "<code>j</code> (suave)"]
+      ],
+      "note": "La marca ˈ va delante de la sílaba fuerte: /ˈsɪɾi/ = <code>síri</code>. La tabla completa está en el mapa B-02.",
+      "note_en": "The mark ˈ goes before the stressed syllable. The full chart is in map B-02."
+    },
+    {
+      "t": "pairs",
+      "title": "Se escriben igual, suenan distinto",
+      "title_en": "Same spelling, different sound",
+      "icon": "👯",
+      "items": [
+        { "a": { "en": "read", "ipa": "riːd", "say": "riid", "es": "leer (presente)", "icon": "📖" }, "b": { "en": "read", "ipa": "rɛd", "say": "red", "es": "leí (pasado)", "icon": "✅" }, "tip": "I read every day (<code>riid</code>). I read it yesterday (<code>red</code>)." },
+        { "a": { "en": "live", "ipa": "lɪv", "say": "liv", "es": "vivir", "icon": "🏡" }, "b": { "en": "live", "ipa": "laɪv", "say": "laiv", "es": "en directo", "icon": "🎤" }, "tip": "I live in Madrid (<code>liv</code>) · a live concert (<code>laiv</code>)." },
+        { "a": { "en": "tear", "ipa": "tɪr", "say": "tíer", "es": "lágrima", "icon": "😢" }, "b": { "en": "tear", "ipa": "tɛr", "say": "téer", "es": "rasgar", "icon": "📄" }, "tip": "Una lágrima con i; un papel roto con e (mapa V-10)." },
+        { "a": { "en": "wind", "ipa": "wɪnd", "say": "wind", "es": "viento", "icon": "🌬️" }, "b": { "en": "wind", "ipa": "waɪnd", "say": "waind", "es": "dar cuerda / enrollar", "icon": "🧶" }, "tip": "El viento con i corta; enrollar con ai." },
+        { "a": { "en": "bow", "ipa": "boʊ", "say": "bou", "es": "lazo / arco", "icon": "🎀" }, "b": { "en": "bow", "ipa": "baʊ", "say": "bau", "es": "reverencia", "icon": "🙇" }, "tip": "OW con sus dos voces: ou y au (mapa V-11)." },
+        { "a": { "en": "lead", "ipa": "liːd", "say": "liid", "es": "guiar", "icon": "🧭" }, "b": { "en": "lead", "ipa": "lɛd", "say": "led", "es": "plomo", "icon": "🔩" }, "tip": "El metal suena como las luces LED." }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Pistas fiables y trampas",
+      "title_en": "Reliable clues and traps",
+      "icon": "⚖️",
+      "es": "No todo es caos: hay letras que casi siempre cumplen y otras que no paran de hacer trampas.",
+      "en": "Not everything is chaos: some spellings almost always follow the rule.",
+      "cols": [
+        { "head": "✅ Casi siempre cumplen", "color": "green", "items": ["C + e, i = <code>s</code> (city)", "IGH = <code>ai</code> (night)", "EE = <code>ii</code> (see)", "AI · AY = <code>ei</code> (rain, day)", "OA = <code>ou</code> (boat)"] },
+        { "head": "⚠️ Trampas", "color": "red", "items": ["OUGH: seis sonidos", "EA: bread, break, bear…", "OO: food, good, blood", "OU: out, soup, touch…", "G + e, i: gym… ¡pero get!"] }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "¿Ghoti = fish?",
+      "title_en": "Ghoti = fish?",
+      "icon": "🐟",
+      "es": "Un chiste clásico de los profes de inglés: la palabra inventada <b>ghoti</b> se podría leer «fish»: GH como en enou<b>gh</b> (<code>f</code>), O como en w<b>o</b>men (<code>i</code>) y TI como en na<b>ti</b>on (<code>sh</code>). Es broma, claro: GH nunca suena f al principio. Pero demuestra que <mark>mirar las letras no basta</mark>. 😄",
+      "en": "An old joke: «ghoti» could spell «fish» (gh as in enough, o as in women, ti as in nation). It's a joke, but it shows that letters alone are not enough."
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "I bought some bread.", "say": "ai bot səm bred", "es": "Compré pan.", "icon": "🍞" },
+        { "en": "Though it's cold, I go out.", "say": "dou its kould, ai gou aut", "es": "Aunque hace frío, salgo.", "icon": "🧥" },
+        { "en": "We walked through the park.", "say": "wi wokt zruu də park", "es": "Cruzamos el parque andando.", "icon": "🌳" },
+        { "en": "This steak is tough.", "say": "dis steik is taf", "es": "Este filete está duro.", "icon": "🥩" },
+        { "en": "I have a bad cough.", "say": "ai jæv ə bæd kof", "es": "Tengo mucha tos.", "icon": "🤧" },
+        { "en": "I thought you were at home.", "say": "ai zot iu wer ət joum", "es": "Creía que estabas en casa.", "icon": "💭" },
+        { "en": "Good food is great!", "say": "gud fuud is greit", "es": "¡La buena comida es genial!", "icon": "🍔" },
+        { "en": "Open the door, please.", "say": "óupən də dor, pliis", "es": "Abre la puerta, por favor.", "icon": "🚪" },
+        { "en": "Is the soup hot enough?", "say": "is də suup jat ináf", "es": "¿Está la sopa bastante caliente?", "icon": "🍲" },
+        { "en": "Touch your nose!", "say": "tach ior nous", "es": "¡Tócate la nariz!", "icon": "👃" },
+        { "en": "My cousin lives in the city.", "say": "mai kásən livs in də síri", "es": "Mi primo vive en la ciudad.", "icon": "🏙️" },
+        { "en": "The giant goes to the gym.", "say": "də yáiənt gous tə də yim", "es": "El gigante va al gimnasio.", "icon": "🏋️" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "though → <code>tóug</code>", "good": "<code>dou</code>", "why": "OUGH no se lee letra a letra: aquí suena ou y la GH se calla.", "why_en": "Don't read OUGH letter by letter." },
+        { "bad": "bread → <code>briid</code>", "good": "<code>bred</code>", "why": "Aquí EA suena e corta.", "why_en": "EA in bread sounds /ɛ/." },
+        { "bad": "blood → <code>bluud</code>", "good": "<code>blad</code>", "why": "OO rebelde: suena a corta.", "why_en": "OO in blood sounds /ʌ/." },
+        { "bad": "city → <code>zíti</code>", "good": "<code>síri</code>", "why": "C + i = s, nunca z. Y la T hace el toque.", "why_en": "C before i sounds /s/, never /θ/." },
+        { "bad": "gym → <code>jim</code> (con jota)", "good": "<code>yim</code>", "why": "G + y = y fuerte. Con jota suena a him (él).", "why_en": "G in gym sounds /dʒ/." },
+        { "bad": "country → <code>káuntri</code>", "good": "<code>kántri</code>", "why": "Aquí OU suena a corta.", "why_en": "OU in country sounds /ʌ/." },
+        { "bad": "break → <code>briik</code>", "good": "<code>breik</code>", "why": "EA rebelde: suena ei, como great.", "why_en": "EA in break sounds /eɪ/." },
+        { "bad": "could → <code>kóuld</code>", "good": "<code>kud</code>", "why": "La L no suena (mapa C-15) y OU es una u corta.", "why_en": "The L is silent; OU sounds /ʊ/." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "El concurso de deletreo",
+      "title_en": "The spelling bee",
+      "lines": [
+        { "who": "Tyler", "en": "Mario, I have a spelling bee tomorrow!", "say": "mário, ai jæv ə spéling bii təmárou!", "es": "¡Mario, mañana tengo un concurso de deletreo!" },
+        { "who": "Mario", "en": "A spelling bee? What's that?", "say": "ə spéling bii? wats dæt?", "es": "¿Un spelling bee? ¿Qué es eso?" },
+        { "who": "Tyler", "en": "They say a word and you spell it. Like «tough».", "say": "dei sei ə werd ən iu spel it. laik taf", "es": "Te dicen una palabra y la deletreas. Como «tough»." },
+        { "who": "Mario", "en": "Easy! T-U-F-F.", "say": "íisi! tii, iuu, ef, ef", "es": "¡Fácil! T-U-F-F." },
+        { "who": "Tyler", "en": "No way! It's T-O-U-G-H.", "say": "nou wei! its tii, ou, iuu, yii, eich", "es": "¡Qué va! Es T-O-U-G-H." },
+        { "who": "Mario", "en": "What? And «though» sounds different!", "say": "wat? ən dou saunds dífrənt!", "es": "¿Qué? ¡Y «though» suena distinto!" },
+        { "who": "Tyler", "en": "I know! When I'm not sure, I look it up.", "say": "ai nou! wen aim nat shur, ai lukiráp", "es": "¡Ya! Cuando no estoy seguro, lo busco en el diccionario." },
+        { "who": "Mario", "en": "Cool! Let's practice together!", "say": "kuul! lets prǽktis təguéder!", "es": "¡Genial! ¡Practiquemos juntos!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo usar el diccionario",
+      "title_en": "How to use a dictionary",
+      "items": [
+        { "es": "Busca la palabra en un diccionario en línea que tenga pronunciación <b>americana</b> (botón 🇺🇸 o «US»).", "en": "Look the word up in an online dictionary with American pronunciation." },
+        { "es": "Mira la transcripción entre barras: /ðoʊ/. Cada símbolo es <b>un sonido</b>, y siempre suena igual.", "en": "Read the IPA between slashes: each symbol is one sound." },
+        { "es": "Busca la marca ˈ: va justo delante de la sílaba fuerte (/ˈθɝoʊ/).", "en": "Find the stress mark: it goes before the stressed syllable." },
+        { "es": "Pásalo a nuestra figurada con la chuleta: /ðoʊ/ = <code>dou</code>.", "en": "Turn it into our sound-alike spelling with the cheat sheet." },
+        { "es": "Pulsa el altavoz o escanea el QR (YouGlish) y repite 3 veces.", "en": "Press play or scan the QR code and repeat three times." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "Though I coughed through the night, I thought I was tough enough.", "say": "dou ai koft zruu də nait, ai zot ai wəs taf ináf", "es": "Aunque tosí toda la noche, pensé que era bastante fuerte." },
+        { "en": "The bear ate bread and a bead for breakfast.", "say": "də béer eit bred ən ə biid fer brékfəst", "es": "El oso desayunó pan y un abalorio." },
+        { "en": "You could touch the soup in our house.", "say": "iu kud tach də suup in áuer jaus", "es": "Podrías tocar la sopa en nuestra casa." }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del detective",
+      "title_en": "The detective trick",
+      "es": "Cuando una palabra no se deja leer, no adivines: haz de detective 🕵️. Busca su <b>IPA</b>, compáralo con la chuleta y escucha el QR. Con el tiempo verás que muchas rebeldes van en pandilla (tough, rough, enough) y se aprenden juntas.",
+      "en": "When a word won't let you read it, don't guess: check the IPA, use the cheat sheet and listen. Many rebels come in groups and can be learned together."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Cuál suena distinto?",
+      "title_en": "Which one sounds different?",
+      "icon": "🔍",
+      "es": "Las letras se parecen, pero el sonido no. Di las tres palabras y rodea la que suena distinto.",
+      "en": "Say the three words and circle the odd one out.",
+      "items": [
+        { "q": "[tough|rough|though]", "a": "though" },
+        { "q": "[food|moon|good]", "a": "good" },
+        { "q": "[bead|bread|team]", "a": "bread" },
+        { "q": "[out|house|soup]", "a": "soup" },
+        { "q": "[cat|city|cup] (la C)", "a": "city" },
+        { "q": "[go|gym|game] (la G)", "a": "gym" },
+        { "q": "[break|great|eat]", "a": "eat" },
+        { "q": "[could|would|cloud]", "a": "cloud" },
+        { "q": "[touch|young|out]", "a": "out" },
+        { "q": "[thought|bought|bough]", "a": "bough" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Los cuatro sonidos de OO",
+      "title_en": "The four sounds of OO",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su caja.",
+      "en": "Say each word and write it in the right box.",
+      "cats": [
+        { "name": "🍔 uu (food)", "words": ["food", "moon", "school", "pool"] },
+        { "name": "👍 u (good)", "words": ["good", "book", "look", "foot"] },
+        { "name": "🩸 a (blood)", "words": ["blood", "flood"] },
+        { "name": "🚪 or (door)", "words": ["door", "floor"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "La familia OUGH",
+      "title_en": "The OUGH family",
+      "icon": "🔗",
+      "es": "Une cada palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["tough", "<code>taf</code>"],
+        ["though", "<code>dou</code>"],
+        ["through", "<code>zruu</code>"],
+        ["cough", "<code>kof</code>"],
+        ["thought", "<code>zot</code>"],
+        ["bough", "<code>bau</code>"],
+        ["enough", "<code>ináf</code>"],
+        ["thorough", "<code>zérou</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. ¡No te fíes de las letras!",
+      "en": "Write how each word sounds. Don't trust the letters!",
+      "items": [
+        { "q": "🍞 bread → ____", "a": "bred" },
+        { "q": "☕ break → ____", "a": "breik" },
+        { "q": "❤️ heart → ____", "a": "jart" },
+        { "q": "🩸 blood → ____", "a": "blad" },
+        { "q": "🍲 soup → ____", "a": "suup" },
+        { "q": "✋ touch → ____", "a": "tach" },
+        { "q": "🏙️ city → ____", "a": "síri" },
+        { "q": "🏋️ gym → ____", "a": "yim" },
+        { "q": "🦕 giant → ____", "a": "yáiənt" },
+        { "q": "😋 enough → ____", "a": "ináf" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "C y G: ¿duras o suaves?",
+      "title_en": "C and G: hard or soft?",
+      "icon": "🐱",
+      "es": "¿Cómo suena la primera C o G? Rodea. (<b>y</b> = la y fuerte de gym)",
+      "en": "How does the first C or G sound? Circle it.",
+      "items": [
+        { "q": "cat → [k|s]", "a": "k" },
+        { "q": "cent → [k|s]", "a": "s" },
+        { "q": "circle → [k|s]", "a": "s" },
+        { "q": "cup → [k|s]", "a": "k" },
+        { "q": "ice → [k|s]", "a": "s" },
+        { "q": "giraffe → [g|y]", "a": "y" },
+        { "q": "get → [g|y]", "a": "g" },
+        { "q": "game → [g|y]", "a": "g" },
+        { "q": "gentle → [g|y]", "a": "y" },
+        { "q": "girl → [g|y]", "a": "g" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "OUGH always sounds the same.", "a": false, "why": "¡tiene seis sonidos!" },
+        { "q": "«Tough», «rough» and «enough» rhyme.", "a": true },
+        { "q": "In «bread», EA sounds like «ii».", "a": false, "why": "<code>bred</code>" },
+        { "q": "C before E or I sounds like /s/.", "a": true },
+        { "q": "«Gym» starts with the same sound as «go».", "a": false, "why": "<code>yim</code> / <code>gou</code>" },
+        { "q": "«Food» and «good» have the same vowel sound.", "a": false, "why": "<code>fuud</code> / <code>gud</code>" },
+        { "q": "IPA shows how a word really sounds.", "a": true },
+        { "q": "«Though» and «dough» rhyme.", "a": true }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Ordena las letras",
+      "title_en": "Unscramble the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra. ¡Las letras rebeldes también cuentan!",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        { "q": "🤧 tos", "a": "cough" },
+        { "q": "💪 duro", "a": "tough" },
+        { "q": "🍞 pan", "a": "bread" },
+        { "q": "🍲 sopa", "a": "soup" },
+        { "q": "🩸 sangre", "a": "blood" },
+        { "q": "🏋️ gimnasio", "a": "gym" },
+        { "q": "🏠 casa", "a": "house" },
+        { "q": "🤠 país", "a": "country" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Alguien ha leído estas palabras letra a letra. Escribe cómo suenan de verdad.",
+      "en": "Someone read these words letter by letter. Fix them.",
+      "items": [
+        { "q": "though → <code>tóug</code>", "a": "dou" },
+        { "q": "bread → <code>briid</code>", "a": "bred" },
+        { "q": "blood → <code>bluud</code>", "a": "blad" },
+        { "q": "city → <code>zíti</code>", "a": "síri" },
+        { "q": "gym → <code>jim</code>", "a": "yim" },
+        { "q": "country → <code>káuntri</code>", "a": "kántri" },
+        { "q": "break → <code>briik</code>", "a": "breik" },
+        { "q": "could → <code>kóuld</code>", "a": "kud" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe la frase como suena",
+      "title_en": "Write the phrase as it sounds",
+      "icon": "🗣️",
+      "es": "Escribe cómo suena cada frase con la figurada.",
+      "en": "Write how each phrase sounds.",
+      "items": [
+        { "q": "I bought bread.", "a": "ai bot bred" },
+        { "q": "a tough cough", "a": "ə taf kof" },
+        { "q": "Good food!", "a": "gud fuud" },
+        { "q": "Touch the door.", "a": "tach də dor" },
+        { "q": "Go to the gym.", "a": "gou tə də yim" },
+        { "q": "I thought so.", "a": "ai zot sou" },
+        { "q": "through the city", "a": "zruu də síri" },
+        { "q": "a great break", "a": "ə greit breik" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada línea 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each line three times and tick a box each time.",
+      "items": [
+        { "q": "though, through, tough, cough", "say": "dou, zruu, taf, kof" },
+        { "q": "thought, bought, brought", "say": "zot, bot, brot" },
+        { "q": "food, good, blood, door", "say": "fuud, gud, blad, dor" },
+        { "q": "out, soup, touch, your, could", "say": "aut, suup, tach, ior, kud" },
+        { "q": "bead, bread, break, bear, heart", "say": "biid, bred, breik, béer, jart" },
+        { "q": "cat, city, go, gym", "say": "kæt, síri, gou, yim" },
+        { "q": "Though I coughed through the night, I thought I was tough enough.", "say": "dou ai koft zruu də nait, ai zot ai wəs taf ináf" },
+        { "q": "You could touch the soup in our house.", "say": "iu kud tach də suup in áuer jaus" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta, ¡sin leer letra a letra!",
+      "en": "Translate into English and say it aloud.",
+      "items": [
+        { "q": "aunque", "a": "though (dou)" },
+        { "q": "a través de", "a": "through (zruu)" },
+        { "q": "duro, difícil", "a": "tough (taf)" },
+        { "q": "tos", "a": "cough (kof)" },
+        { "q": "pensé", "a": "thought (zot)" },
+        { "q": "pan", "a": "bread (bred)" },
+        { "q": "sangre", "a": "blood (blad)" },
+        { "q": "sopa", "a": "soup (suup)" },
+        { "q": "tocar", "a": "touch (tach)" },
+        { "q": "gimnasio", "a": "gym (yim)" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos: la palabra, sus letras rebeldes, qué significa y cómo suena.",
+      "en": "Fill in the gaps.",
+      "head": ["Palabra", "Letras", "Español", "Suena"],
+      "rows": [
+        ["tough", "OUGH", "?duro", "?taf"],
+        ["?cough", "OUGH", "tos", "kof"],
+        ["though", "?OUGH", "?aunque", "dou"],
+        ["bread", "?EA", "pan", "?bred"],
+        ["?break", "EA", "romper", "breik"],
+        ["blood", "?OO", "?sangre", "blad"],
+        ["soup", "OU", "?sopa", "?suup"],
+        ["?gym", "G", "gimnasio", "?yim"]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de rebeldes",
+      "title_en": "Rebel word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras rebeldes. Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 rebel words.",
+      "words": ["tough", "cough", "though", "bread", "blood", "soup", "touch", "gym", "city", "heart"],
+      "clues": ["tough · duro", "cough · tos", "though · aunque", "bread · pan", "blood · sangre", "soup · sopa", "touch · tocar", "gym · gimnasio", "city · ciudad", "heart · corazón"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las rebeldes",
+      "title_en": "Read and find the rebels",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Tyler's Tough Day",
+      "text": [
+        "Tyler had a tough day. He woke up with a bad cough, and there was no bread for breakfast. Though he felt bad, he walked through the city to school.",
+        "At lunch, he had a bowl of soup. «Good food!» he thought. After school, he went to the gym with his cousin. What a day!"
+      ],
+      "items": [
+        { "q": "Why was Tyler's day tough?", "a": "He had a bad cough and there was no bread." },
+        { "q": "Find a word with OU (not OUGH) that sounds like a short «a».", "a": "cousin (<code>kásən</code>)" },
+        { "q": "How does «thought» sound?", "a": "<code>zot</code>" },
+        { "q": "Tyler went to school by car.", "tf": true, "a": false, "why": "he walked (<code>wokt</code>)" },
+        { "q": "«Though» and «through» sound the same.", "tf": true, "a": false, "why": "<code>dou</code> / <code>zruu</code>" },
+        { "q": "In «bread» and «breakfast», EA sounds the same.", "tf": true, "a": true, "why": "<code>bred</code>, <code>brékfəst</code>" }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases. Léelas en voz alta y grábate.",
+      "en": "Write your sentences, read them aloud and record yourself.",
+      "items": [
+        { "q": "Una frase con dos palabras con OUGH (tough, though, through, cough…).", "lines": 2, "a": "Ej.: Though I had a cough, I was tough." },
+        { "q": "Una frase con OO u OU (food, good, soup, house…).", "lines": 2, "a": "Ej.: The soup in my house is good." },
+        { "q": "Busca en el diccionario una palabra que te parezca rebelde y copia su IPA.", "lines": 2 }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé que OUGH suena de seis maneras: though, through, tough, cough, thought, bough.", "en": "I know the six sounds of OUGH." },
+    { "es": "Sé leer EA en bead, bread, break, bear y heart.", "en": "I can read EA in these words." },
+    { "es": "Distingo OO en food, good, blood y door.", "en": "I know the four sounds of OO." },
+    { "es": "Sé que OU cambia: out, soup, touch, your, could.", "en": "I know OU changes." },
+    { "es": "Digo city con s y gym con y fuerte, nunca con z ni con jota.", "en": "I say city with /s/ and gym with /dʒ/." },
+    { "es": "Sé buscar el IPA en el diccionario y leerlo con la chuleta.", "en": "I can look up the IPA and read it." }
+  ]
+}

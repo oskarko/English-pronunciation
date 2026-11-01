@@ -1,0 +1,1703 @@
+{
+  "id": "R-03",
+  "block": "R",
+  "title": "EL RITMO DEL INGLÉS",
+  "file_title": "El ritmo del inglés (tambor, no ametralladora)",
+  "subtitle": "English rhythm · un tambor, no una ametralladora",
+  "icon": "🥁",
+  "map": {
+    "center": "El español suena a <b>ametralladora</b> (ta-ta-ta-ta); el inglés, a <b>tambor</b>: BUM en las palabras importantes.",
+    "listen": "a cup of tea",
+    "nodes": [
+      {
+        "title": "Palabras fuertes",
+        "icon": "💪",
+        "color": "green",
+        "items": [
+          "nombres y verbos: <b>DOG</b>, <b>EAT</b>",
+          "adjetivos y adverbios: <b>BIG</b>, <b>FAST</b>",
+          "preguntas y negativos: <b>WHAT</b>, <b>DON'T</b>"
+        ]
+      },
+      {
+        "title": "Palabras débiles",
+        "icon": "🪶",
+        "color": "blue",
+        "chips": [
+          "a",
+          "the",
+          "to",
+          "of",
+          "and",
+          "for",
+          "can",
+          "is"
+        ],
+        "after": "se encogen y suenan con <code>ə</code>"
+      },
+      {
+        "title": "Mismos golpes, mismo tiempo",
+        "icon": "⏱️",
+        "color": "purple",
+        "items": [
+          "<b>CATS</b> <b>CHASE</b> <b>MICE</b>",
+          "the <b>CATS</b> will <b>CHASE</b> the <b>MICE</b>",
+          "3 golpes = ¡casi el mismo tiempo!"
+        ]
+      },
+      {
+        "title": "Así suena",
+        "icon": "👂",
+        "color": "orange",
+        "rows": [
+          [
+            "a cup of tea",
+            "<code>ə kápə tíi</code>"
+          ],
+          [
+            "fish and chips",
+            "<code>físhən chíps</code>"
+          ],
+          [
+            "rock and roll",
+            "<code>rákən róul</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Truco: palmadas",
+        "icon": "👏",
+        "color": "pink",
+        "html": "Da una <b>palmada</b> en cada palabra fuerte. Las débiles se cuelan entre palmada y palmada, ¡rapidito!"
+      },
+      {
+        "title": "Anclas españolas",
+        "icon": "⚓",
+        "color": "yellow",
+        "rows": [
+          [
+            "cup of tea",
+            "¡es<b>capa, ti</b>gre! 🐯"
+          ],
+          [
+            "rock and roll",
+            "<b>rocanrol</b> 🎸"
+          ]
+        ],
+        "art": "🥁"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "<code>a kap of tii</code> (todo igual)"
+      ],
+      "good": [
+        "<code>ə kápə tíi</code> ☕"
+      ],
+      "note": "Si das el mismo golpe a todas las palabras, suenas a robot 🤖."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "☕ a cup of tea → ____",
+          "a": "ə kápə tíi"
+        },
+        {
+          "q": "🐟 fish and chips → ____",
+          "a": "físhən chíps"
+        },
+        {
+          "q": "🎸 rock and roll → ____",
+          "a": "rákən róul"
+        },
+        {
+          "q": "🧂 salt and pepper → ____",
+          "a": "sóltən péper"
+        },
+        {
+          "q": "👪 Mom and Dad → ____",
+          "a": "mámən dǽd"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Ametralladora o tambor?",
+      "title_en": "Machine gun or drum?",
+      "icon": "🔎",
+      "es": "Di en voz alta «ametralladora»: <b>a-me-tra-lla-do-ra</b>. Cada sílaba dura más o menos lo mismo, ta-ta-ta-ta: así es el ritmo del español. El inglés funciona como un <b>tambor</b>: <mark>los golpes caen a intervalos casi regulares</mark> en las palabras importantes, y las pequeñas se encogen y se cuelan entre golpe y golpe. ¡Por eso parece que los americanos hablan rapidísimo!",
+      "en": "Spanish rhythm is like a machine gun: every syllable takes about the same time. English is like a drum: strong beats at fairly regular intervals, with weak words squeezed in between.",
+      "formula": [
+        "🇪🇸 ta + ta + ta + ta + ta + ta",
+        "🇺🇸 *BUM* + pa-pa + *BUM* + pa + *BUM*"
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Las palabras fuertes",
+      "title_en": "Strong words",
+      "icon": "💪",
+      "es": "Son las que llevan el <b>mensaje</b>: nombres, verbos principales, adjetivos, adverbios, palabras de pregunta (what, where, why) y negativos (not, don't, can't). Si cada palabra te costara un euro, solo dirías estas: «MARIO… PIZZA… NOW». <mark>¡Y se entiende!</mark>",
+      "en": "Content words carry the message: nouns, main verbs, adjectives, adverbs, question words and negatives. They get the beat.",
+      "formula": [
+        "*MARIO* + *PIZZA* + *NOW* → ¡se entiende!"
+      ],
+      "examples": [
+        {
+          "en": "<b>WHERE</b>'s my <b>BAG</b>?",
+          "say": "wérs mai bǽg?",
+          "es": "¿Dónde está mi mochila?",
+          "icon": "🎒"
+        },
+        {
+          "en": "I <b>LOVE</b> <b>PIZ</b>za!",
+          "say": "ai láv píitsə!",
+          "es": "¡Me encanta la pizza!",
+          "icon": "🍕"
+        },
+        {
+          "en": "<b>DON'T</b> <b>TOUCH</b> it!",
+          "say": "dóunt tách it!",
+          "es": "¡No lo toques!",
+          "icon": "🙅"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Las palabras débiles",
+      "title_en": "Weak words",
+      "icon": "🪶",
+      "es": "Son las que «pegan» la frase: artículos (a, the), preposiciones (to, of, for, at), pronombres (you, him, her), auxiliares (can, do, have, is, are) y conjunciones (and, but, or). En la frase van <b>de puntillas</b>: cortas, bajitas y casi siempre con <code>ə</code>. Las verás una a una en el mapa H-03.",
+      "en": "Function words glue the sentence together. They are short, quiet and usually have a schwa.",
+      "formula": [
+        "a + *CUP* + of + *TEA*",
+        "ə*káp*ə *tíi* → solo 2 golpes"
+      ],
+      "examples": [
+        {
+          "en": "a cup of tea",
+          "say": "ə kápə tíi",
+          "es": "una taza de té",
+          "icon": "☕"
+        },
+        {
+          "en": "fish and chips",
+          "say": "físhən chíps",
+          "es": "pescado con patatas",
+          "icon": "🐟"
+        },
+        {
+          "en": "to the park",
+          "say": "tə də párk",
+          "es": "al parque",
+          "icon": "🌳"
+        },
+        {
+          "en": "at home",
+          "say": "ət jóum",
+          "es": "en casa",
+          "icon": "🏠"
+        },
+        {
+          "en": "from Spain",
+          "say": "frəm spéin",
+          "es": "de España",
+          "icon": "🇪🇸"
+        },
+        {
+          "en": "some milk",
+          "say": "səm mílk",
+          "es": "un poco de leche",
+          "icon": "🥛"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Mismos golpes, mismo tiempo",
+      "title_en": "Same beats, same time",
+      "icon": "⏱️",
+      "es": "Esta es la magia del tambor. Las tres frases de abajo tienen <b>los mismos tres golpes</b>. Aunque la segunda y la tercera tienen más palabras, <mark>se dicen casi en el mismo tiempo</mark>: las palabras débiles se aprietan para no romper el ritmo. Pruébalo con los gatos: CATS CHASE MICE · the CATS will CHASE the MICE.",
+      "en": "Sentences with the same number of beats take almost the same time. The weak words get squeezed.",
+      "formula": [
+        "*DOGS* + *EAT* + *BONES*",
+        "the *DOGS* + are *EAT*ing + the *BONES*",
+        "the *DOGS* + have been *EAT*ing + the *BONES*"
+      ],
+      "examples": [
+        {
+          "en": "<b>DOGS</b> <b>EAT</b> <b>BONES</b>.",
+          "say": "dógs íit bóuns",
+          "es": "Los perros comen huesos.",
+          "icon": "🦴"
+        },
+        {
+          "en": "The <b>DOGS</b> are <b>EAT</b>ing the <b>BONES</b>.",
+          "say": "də dógs ər íiring də bóuns",
+          "es": "Los perros se están comiendo los huesos.",
+          "icon": "🐕"
+        },
+        {
+          "en": "The <b>DOGS</b> have been <b>EAT</b>ing the <b>BONES</b>.",
+          "say": "də dógs əv bin íiring də bóuns",
+          "es": "Los perros han estado comiendo los huesos.",
+          "icon": "⏳"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Una palmada por golpe",
+      "title_en": "One clap per beat",
+      "icon": "👏",
+      "es": "Para sentir el ritmo, <b>da una palmada</b> en cada golpe: solo en la sílaba fuerte de cada palabra importante (<b>PIZ</b>za, ba<b>NA</b>na). Las palmadas tienen que sonar <b>regulares</b>, como un reloj. Todo lo demás se cuela entre palmada y palmada, ¡aunque tengas que correr!",
+      "en": "Clap on every beat. The claps should be regular, like a clock. Everything else fits in between.",
+      "examples": [
+        {
+          "en": "I <b>WANT</b> to <b>GO</b> to the <b>PARK</b>. 👏👏👏",
+          "say": "ai wánt tə góu tə də párk",
+          "es": "Quiero ir al parque.",
+          "icon": "🌳"
+        },
+        {
+          "en": "<b>WHAT</b> do you <b>WANT</b> for <b>LUNCH</b>? 👏👏👏",
+          "say": "wát də iə wánt fer lánch?",
+          "es": "¿Qué quieres para comer?",
+          "icon": "🥪"
+        },
+        {
+          "en": "<b>MIKE</b> and <b>TY</b>ler are at <b>SCHOOL</b>. 👏👏👏",
+          "say": "máik ən táiler ər ət skúul",
+          "es": "Mike y Tyler están en el cole.",
+          "icon": "🏫"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "cup of tea",
+          "ipa": "ˌkʌp əv ˈtiː",
+          "say": "kápə tíi",
+          "es": "taza de té",
+          "icon": "☕",
+          "anchor": "¡es<b>capa, ti</b>gre! 🐯",
+          "tip": "Quédate con «capa, ti»: KÁ-pə TÍI. La «of» casi desaparece."
+        },
+        {
+          "en": "rock and roll",
+          "ipa": "ˌrɑk ən ˈroʊl",
+          "say": "rákən róul",
+          "es": "rocanrol",
+          "icon": "🎸",
+          "anchor": "<b>rocanrol</b> 🎸",
+          "tip": "¡En español ya lo pegamos! La «and» se queda en una n: RÁ-kən RÓUL."
+        },
+        {
+          "en": "salt and pepper",
+          "ipa": "ˌsɔlt ən ˈpɛpɚ",
+          "say": "sóltən péper",
+          "es": "sal y pimienta",
+          "icon": "🧂",
+          "anchor": "<b>soltan</b> 🧂",
+          "tip": "«Salt and» suena como «soltan»: SÓL-tən PÉ-per."
+        },
+        {
+          "en": "Mom and Dad",
+          "ipa": "ˌmɑm ən ˈdæd",
+          "say": "mámən dǽd",
+          "es": "mamá y papá",
+          "icon": "👪",
+          "anchor": "<b>Mamen</b> + dad 👪",
+          "tip": "«Mom and» suena como el nombre «Mamen»: MÁ-mən DǼD."
+        },
+        {
+          "en": "call her",
+          "ipa": "ˈkɔl ɚ",
+          "say": "kóler",
+          "es": "llámala",
+          "icon": "📞",
+          "anchor": "<b>cóler</b>a 😤",
+          "tip": "La «her» pierde la h y se pega al verbo: KÓ-ler. ¡Llámala, pero sin cólera!"
+        },
+        {
+          "en": "the",
+          "ipa": "ðə",
+          "say": "də",
+          "es": "el, la, los, las · forma débil",
+          "icon": "👉",
+          "anchor": "<b>de</b> (con la d de «na<b>d</b>a»)",
+          "tip": "Cortita y suave: the park = <code>də párk</code>."
+        },
+        {
+          "en": "and",
+          "ipa": "ən",
+          "say": "ən",
+          "es": "y · forma débil",
+          "icon": "➕",
+          "anchor": "<b>en</b>",
+          "tip": "Casi como «en»: bread and butter = <code>brédən bárer</code>."
+        },
+        {
+          "en": "for",
+          "ipa": "fɚ",
+          "say": "fer",
+          "es": "para · forma débil",
+          "icon": "🎁",
+          "anchor": "<b>Fer</b>nando",
+          "tip": "Como «Fer», con r americana: for Mom = <code>fer mám</code>."
+        },
+        {
+          "en": "to",
+          "ipa": "tə",
+          "say": "tə",
+          "es": "a, para · forma débil",
+          "icon": "➡️",
+          "anchor": "<b>te</b> (muy flojito)",
+          "tip": "Un «te» cortito y relajado: to school = <code>tə skúul</code>."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "a cup of tea",
+          "es": "una taza de té"
+        },
+        {
+          "q": "fish and chips",
+          "es": "pescado con patatas"
+        },
+        {
+          "q": "rock and roll",
+          "es": "rocanrol"
+        },
+        {
+          "q": "salt and pepper",
+          "es": "sal y pimienta"
+        },
+        {
+          "q": "bread and butter",
+          "es": "pan con mantequilla"
+        },
+        {
+          "q": "what do you want",
+          "es": "¿qué quieres?"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Fuerte o débil?",
+      "title_en": "Strong or weak?",
+      "icon": "🧭",
+      "head": [
+        "Tipo de palabra",
+        "Ejemplos",
+        "En la frase",
+        "¿Golpe?"
+      ],
+      "rows": [
+        [
+          "Nombres",
+          "dog, pizza, Mario",
+          "the <b>DOG</b>",
+          "✅ fuerte"
+        ],
+        [
+          "Verbos principales",
+          "eat, play, go",
+          "I <b>PLAY</b>",
+          "✅ fuerte"
+        ],
+        [
+          "Adjetivos",
+          "big, happy, red",
+          "a <b>BIG</b> <b>DOG</b>",
+          "✅ fuerte"
+        ],
+        [
+          "Adverbios",
+          "fast, now, really",
+          "<b>RUN</b> <b>FAST</b>",
+          "✅ fuerte"
+        ],
+        [
+          "Palabras de pregunta",
+          "what, where, why",
+          "<b>WHERE</b> is it?",
+          "✅ fuerte"
+        ],
+        [
+          "Negativos",
+          "not, don't, can't",
+          "I <b>DON'T</b> <b>KNOW</b>",
+          "✅ fuerte"
+        ],
+        [
+          "Artículos",
+          "a, an, the",
+          "<code>ə</code>, <code>ən</code>, <code>də</code>",
+          "❌ débil"
+        ],
+        [
+          "Preposiciones",
+          "to, of, for, at, from",
+          "<code>tə</code>, <code>əv</code>, <code>fer</code>, <code>ət</code>",
+          "❌ débil"
+        ],
+        [
+          "Pronombres",
+          "you, him, her, them",
+          "<code>iə</code>, <code>im</code>, <code>er</code>, <code>əm</code>",
+          "❌ débil"
+        ],
+        [
+          "Auxiliares",
+          "can, do, have, are",
+          "<code>kən</code>, <code>də</code>, <code>əv</code>, <code>er</code>",
+          "❌ débil"
+        ],
+        [
+          "Conjunciones",
+          "and, but, or",
+          "<code>ən</code>, <code>bət</code>, <code>er</code>",
+          "❌ débil"
+        ]
+      ],
+      "note": "Una palabra débil se vuelve fuerte cuando la quieres destacar (lo verás en R-04) o cuando se queda sola al final: «Yes, I <b>CAN</b>.» (mapa H-08).",
+      "note_en": "A weak word becomes strong when you stress it on purpose or when it is alone at the end."
+    },
+    {
+      "t": "stress",
+      "wide": true,
+      "cols": 4,
+      "title": "Un golpe, varias palabras",
+      "title_en": "One beat, several words",
+      "icon": "🧩",
+      "es": "Las palabras débiles se pegan a la fuerte como si fueran una sola palabra: una palmada por grupo.",
+      "en": "Weak words stick to the strong one like a single word: one clap per group.",
+      "items": [
+        {
+          "syl": [
+            "at",
+            "home"
+          ],
+          "s": 1,
+          "say": "ət jóum",
+          "es": "en casa",
+          "icon": "🏠"
+        },
+        {
+          "syl": [
+            "to",
+            "school"
+          ],
+          "s": 1,
+          "say": "tə skúul",
+          "es": "al cole",
+          "icon": "🏫"
+        },
+        {
+          "syl": [
+            "in",
+            "the",
+            "car"
+          ],
+          "s": 2,
+          "say": "in də kár",
+          "es": "en el coche",
+          "icon": "🚗"
+        },
+        {
+          "syl": [
+            "with",
+            "a",
+            "friend"
+          ],
+          "s": 2,
+          "say": "wid ə frénd",
+          "es": "con un amigo",
+          "icon": "🤝"
+        },
+        {
+          "syl": [
+            "of",
+            "course"
+          ],
+          "s": 1,
+          "say": "əv kórs",
+          "es": "¡claro!",
+          "icon": "👍"
+        },
+        {
+          "syl": [
+            "for",
+            "a",
+            "walk"
+          ],
+          "s": 2,
+          "say": "fer ə wók",
+          "es": "a dar un paseo",
+          "icon": "🐕"
+        },
+        {
+          "syl": [
+            "it's",
+            "a",
+            "dog"
+          ],
+          "s": 2,
+          "say": "its ə dóg",
+          "es": "es un perro",
+          "icon": "🐶"
+        },
+        {
+          "syl": [
+            "I",
+            "can",
+            "swim"
+          ],
+          "s": 2,
+          "say": "ai kən swím",
+          "es": "sé nadar",
+          "icon": "🏊"
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "wide": true,
+      "cols": 4,
+      "title": "Verbo + pronombre: DA-da",
+      "title_en": "Verb + pronoun: DA-da",
+      "icon": "🔗",
+      "es": "Los pronombres pequeños (it, him, her, them, me) se pegan al verbo y se encogen. Suenan como una palabra de dos sílabas con el golpe delante.",
+      "en": "Small pronouns stick to the verb and get weak: DA-da.",
+      "items": [
+        {
+          "syl": [
+            "tell",
+            "him"
+          ],
+          "s": 0,
+          "say": "télim",
+          "es": "díselo (a él)",
+          "icon": "🗣️"
+        },
+        {
+          "syl": [
+            "call",
+            "her"
+          ],
+          "s": 0,
+          "say": "kóler",
+          "es": "llámala",
+          "icon": "📞"
+        },
+        {
+          "syl": [
+            "love",
+            "it"
+          ],
+          "s": 0,
+          "say": "lávit",
+          "es": "me encanta",
+          "icon": "❤️"
+        },
+        {
+          "syl": [
+            "get",
+            "them"
+          ],
+          "s": 0,
+          "say": "guérəm",
+          "es": "cógelos",
+          "icon": "🧺"
+        },
+        {
+          "syl": [
+            "thank",
+            "you"
+          ],
+          "s": 0,
+          "say": "zǽnkiu",
+          "es": "gracias",
+          "icon": "🙏"
+        },
+        {
+          "syl": [
+            "tell",
+            "me"
+          ],
+          "s": 0,
+          "say": "télmi",
+          "es": "dime",
+          "icon": "💬"
+        },
+        {
+          "syl": [
+            "give",
+            "it"
+          ],
+          "s": 0,
+          "say": "guívit",
+          "es": "dalo",
+          "icon": "🎁"
+        },
+        {
+          "syl": [
+            "meet",
+            "her"
+          ],
+          "s": 0,
+          "say": "míirer",
+          "es": "conócela",
+          "icon": "🤗"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Ametralladora vs. tambor",
+      "title_en": "Machine gun vs. drum",
+      "icon": "⚖️",
+      "es": "Lee las dos columnas en voz alta. ¿Notas la diferencia?",
+      "en": "Read both columns aloud. Can you feel the difference?",
+      "cols": [
+        {
+          "head": "🇪🇸 Español: ametralladora",
+          "color": "orange",
+          "items": [
+            "cada sílaba dura más o menos lo mismo",
+            "las vocales suenan siempre enteras",
+            "más sílabas = más tiempo",
+            "<i>ta-ta-ta-ta-ta-ta</i>"
+          ]
+        },
+        {
+          "head": "🇺🇸 Inglés: tambor",
+          "color": "blue",
+          "items": [
+            "solo los golpes marcan el paso",
+            "las débiles se encogen: <code>ə</code>",
+            "más palabras ≠ mucho más tiempo",
+            "<i>BUM-pa-pa-BUM-pa-BUM</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "a cup of tea",
+          "spoken": "a cuppa tea",
+          "say": "ə kápə tíi",
+          "es": "una taza de té"
+        },
+        {
+          "written": "fish and chips",
+          "spoken": "fish 'n' chips",
+          "say": "físhən chíps",
+          "es": "pescado con patatas fritas"
+        },
+        {
+          "written": "rock and roll",
+          "spoken": "rock 'n' roll",
+          "say": "rákən róul",
+          "es": "rocanrol"
+        },
+        {
+          "written": "bread and butter",
+          "spoken": "bread 'n' butter",
+          "say": "brédən bárer",
+          "es": "pan con mantequilla"
+        },
+        {
+          "written": "salt and pepper",
+          "spoken": "salt 'n' pepper",
+          "say": "sóltən péper",
+          "es": "sal y pimienta"
+        },
+        {
+          "written": "out of time",
+          "spoken": "outta time",
+          "say": "áurə táim",
+          "es": "sin tiempo"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I <b>LIKE</b> <b>PIZ</b>za.",
+          "say": "ai láik píitsə",
+          "es": "Me gusta la pizza.",
+          "icon": "🍕"
+        },
+        {
+          "en": "<b>WHERE</b> are you <b>GO</b>ing?",
+          "say": "wér ər iə góuing?",
+          "es": "¿Adónde vas?",
+          "icon": "🧭"
+        },
+        {
+          "en": "I'm <b>GO</b>ing to the <b>BEACH</b>.",
+          "say": "aim góuing tə də bíich",
+          "es": "Voy a la playa.",
+          "icon": "🏖️"
+        },
+        {
+          "en": "<b>MAR</b>io <b>RIDES</b> a <b>NEW</b> <b>BIKE</b>.",
+          "say": "mário ráids ə núu báik",
+          "es": "Mario monta en una bici nueva.",
+          "icon": "🚲"
+        },
+        {
+          "en": "Can I <b>HAVE</b> a <b>GLASS</b> of <b>WA</b>ter?",
+          "say": "kən ai jǽv ə glǽsəv wárer?",
+          "es": "¿Me das un vaso de agua?",
+          "icon": "💧"
+        },
+        {
+          "en": "The <b>DOG</b> is in the <b>GAR</b>den.",
+          "say": "də dóg is in də gárdən",
+          "es": "El perro está en el jardín.",
+          "icon": "🐶"
+        },
+        {
+          "en": "I <b>WANT</b> a <b>CUP</b> of <b>TEA</b>.",
+          "say": "ai wánt ə kápə tíi",
+          "es": "Quiero una taza de té.",
+          "icon": "☕"
+        },
+        {
+          "en": "<b>JEN</b>ny and <b>ASH</b>ley are <b>FRIENDS</b>.",
+          "say": "yéni ən ǽshli ər fréns",
+          "es": "Jenny y Ashley son amigas.",
+          "icon": "👭"
+        },
+        {
+          "en": "We're <b>HAV</b>ing <b>FISH</b> and <b>CHIPS</b> for <b>DIN</b>ner.",
+          "say": "wir jǽving físhən chíps fer díner",
+          "es": "Cenamos pescado con patatas.",
+          "icon": "🐟"
+        },
+        {
+          "en": "<b>WHAT</b> do you <b>THINK</b>?",
+          "say": "wát də iə zínk?",
+          "es": "¿Tú qué piensas?",
+          "icon": "🤔"
+        },
+        {
+          "en": "It's <b>TIME</b> for <b>BED</b>.",
+          "say": "its táim fer béd",
+          "es": "Es hora de dormir.",
+          "icon": "🛏️"
+        },
+        {
+          "en": "I <b>DON'T</b> <b>LIKE</b> <b>MON</b>days.",
+          "say": "ai dóunt láik mándeis",
+          "es": "No me gustan los lunes.",
+          "icon": "📅"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "a cup of tea → <code>a kap of tii</code> (todo igual)",
+          "good": "<code>ə kápə tíi</code>",
+          "why": "«a» y «of» se encogen; solo CUP y TEA llevan golpe.",
+          "why_en": "Only CUP and TEA are strong."
+        },
+        {
+          "bad": "fish and chips → <code>fish and chips</code>",
+          "good": "<code>físhən chíps</code>",
+          "why": "La «and» no se dice entera: se queda en una n pegada.",
+          "why_en": "«and» shrinks to «ən»."
+        },
+        {
+          "bad": "to the park → <code>tu de park</code>",
+          "good": "<code>tə də párk</code>",
+          "why": "«to» y «the» van de puntillas, con ə. El golpe, en PARK.",
+          "why_en": "«to» and «the» are weak."
+        },
+        {
+          "bad": "I can swim → <code>ai kǽn swim</code>",
+          "good": "<code>ai kən swím</code>",
+          "why": "Con «can» fuerte suena casi a «can't». El golpe va en SWIM (mapa H-08).",
+          "why_en": "Weak «can»; stress the main verb."
+        },
+        {
+          "bad": "I want to go → <code>ai want tu gou</code>",
+          "good": "<code>ai wánt tə góu</code>",
+          "why": "La «to» es débil: <code>tə</code>, no «tu».",
+          "why_en": "«to» is weak: /tə/."
+        },
+        {
+          "bad": "The cats will chase the mice → <code>de kats wil cheis de mais</code> (ta-ta-ta)",
+          "good": "<code>də kǽts wəl chéis də máis</code>",
+          "why": "¡Ametralladora! Solo tres golpes: CATS, CHASE, MICE. Lo demás, rapidito.",
+          "why_en": "Only three beats: CATS, CHASE, MICE."
+        },
+        {
+          "bad": "a glass of water → <code>a glas of wáter</code>",
+          "good": "<code>ə glǽsəv wárer</code>",
+          "why": "«a» y «of» se encogen y se pegan. (Y la T de water, en el mapa C-02.)",
+          "why_en": "«a» and «of» are weak and linked."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En la cafetería",
+      "title_en": "At the café",
+      "lines": [
+        {
+          "who": "Tyler",
+          "en": "What do you want?",
+          "say": "wát də iə wánt?",
+          "es": "¿Qué quieres?"
+        },
+        {
+          "who": "Mario",
+          "en": "A cup of tea and a piece of cake.",
+          "say": "ə kápə tíi ənə píisə kéik",
+          "es": "Una taza de té y un trozo de tarta."
+        },
+        {
+          "who": "Tyler",
+          "en": "Milk or sugar?",
+          "say": "mílk er shúguer?",
+          "es": "¿Leche o azúcar?"
+        },
+        {
+          "who": "Mario",
+          "en": "Milk, please. And some bread and butter.",
+          "say": "mílk, plíis. ən səm brédən bárer",
+          "es": "Leche, por favor. Y pan con mantequilla."
+        },
+        {
+          "who": "Tyler",
+          "en": "Do you want fish and chips for lunch?",
+          "say": "də iə wánt físhən chíps fer lánch?",
+          "es": "¿Quieres pescado con patatas para comer?"
+        },
+        {
+          "who": "Mario",
+          "en": "No, thanks. I'm going to the park at two.",
+          "say": "nóu, zǽnks. aim góuing tə də párk ət túu",
+          "es": "No, gracias. Voy al parque a las dos."
+        },
+        {
+          "who": "Tyler",
+          "en": "Cool! Can I come with you?",
+          "say": "kúul! kənai kám wid iu?",
+          "es": "¡Genial! ¿Puedo ir contigo?"
+        },
+        {
+          "who": "Mario",
+          "en": "Of course! Bring your ball.",
+          "say": "əv kórs! bríng ior ból",
+          "es": "¡Claro! Trae tu pelota."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Subraya las palabras <b>importantes</b> de la frase: las del «mensaje caro».",
+          "en": "Underline the important words."
+        },
+        {
+          "es": "Da una <b>palmada</b> en la sílaba fuerte de cada una. Que suenen regulares, como un reloj ⏰.",
+          "en": "Clap on their strong syllables, like a clock."
+        },
+        {
+          "es": "Mete las palabras débiles <b>entre palmada y palmada</b>, rapidito y con <code>ə</code>.",
+          "en": "Squeeze the weak words in between the claps."
+        },
+        {
+          "es": "Empieza con «DOGS EAT BONES» y ve añadiendo palabras sin cambiar la velocidad de las palmadas.",
+          "en": "Start with three beats and add words without changing the clapping speed."
+        },
+        {
+          "es": "Lee las frases encima de una canción con ritmo marcado. Grábate y compara con los QR.",
+          "en": "Read over a song with a strong beat. Record yourself and compare with the QR videos."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Canciones de tambor",
+      "title_en": "Drum chants",
+      "items": [
+        {
+          "en": "One, two, three! A cat, a dog, a bee! A cat and a dog and a bee!",
+          "say": "wán, túu, zríi! ə kǽt, ə dóg, ə bíi! ə kǽt ənə dóg ənə bíi!",
+          "es": "¡Uno, dos, tres! ¡Un gato, un perro, una abeja! ¡Un gato y un perro y una abeja! (Tres golpes cada vez.)"
+        },
+        {
+          "en": "Fish and chips and a cup of tea, bread and butter for you and me!",
+          "say": "físhən chípsənə kápə tíi, brédən bárer fer iú ən míi!",
+          "es": "Pescado con patatas y una taza de té, pan con mantequilla para ti y para mí."
+        },
+        {
+          "en": "Cats chase mice, and mice chase cheese, and the cheese just sits and says “Please!”",
+          "say": "kǽts chéis máis, ən máis chéis chíis, ən də chíis yəst síts ən sés plíis!",
+          "es": "Los gatos persiguen ratones, los ratones persiguen queso, y el queso se queda quieto y dice «¡por favor!»."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del mensaje caro 💸",
+      "title_en": "The expensive message trick",
+      "es": "Imagina que cada palabra te cuesta un euro. Dirías solo «MARIO… PIZZA… NOW». ¡Esas son las <b>palabras fuertes</b>! Todo lo demás (the, a, to, is…) son «palabras gratis»: dilas rapidito y de puntillas, entre golpe y golpe. 🥁",
+      "en": "Imagine every word costs a dollar: you'd only say the important ones. Those are the strong words. The free little words go fast and soft between the beats."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify",
+      "title": "¿Fuerte o débil?",
+      "title_en": "Strong or weak?",
+      "icon": "🗂️",
+      "es": "Escribe cada palabra en su columna.",
+      "en": "Write each word in the right column.",
+      "cats": [
+        {
+          "name": "💪 Palabras fuertes",
+          "words": [
+            "dog",
+            "pizza",
+            "eat",
+            "happy",
+            "fast",
+            "where",
+            "don't",
+            "school"
+          ]
+        },
+        {
+          "name": "🪶 Palabras débiles",
+          "words": [
+            "the",
+            "a",
+            "to",
+            "of",
+            "and",
+            "for",
+            "can",
+            "him"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Golpe o de puntillas?",
+      "title_en": "Strong or weak here?",
+      "icon": "👂",
+      "es": "Mira la palabra subrayada en la frase. ¿Es fuerte o débil? Rodea.",
+      "en": "Is the underlined word strong or weak in this sentence?",
+      "items": [
+        {
+          "q": "I went <u>to</u> the park. → [fuerte|débil]",
+          "a": "débil"
+        },
+        {
+          "q": "<u>Where</u> is my bag? → [fuerte|débil]",
+          "a": "fuerte"
+        },
+        {
+          "q": "A cup <u>of</u> tea. → [fuerte|débil]",
+          "a": "débil"
+        },
+        {
+          "q": "I <u>love</u> chocolate. → [fuerte|débil]",
+          "a": "fuerte"
+        },
+        {
+          "q": "<u>The</u> dog is happy. → [fuerte|débil]",
+          "a": "débil"
+        },
+        {
+          "q": "Mike is very <u>tall</u>. → [fuerte|débil]",
+          "a": "fuerte"
+        },
+        {
+          "q": "Fish <u>and</u> chips. → [fuerte|débil]",
+          "a": "débil"
+        },
+        {
+          "q": "I <u>don't</u> know. → [fuerte|débil]",
+          "a": "fuerte"
+        },
+        {
+          "q": "This is <u>for</u> Mom. → [fuerte|débil]",
+          "a": "débil"
+        },
+        {
+          "q": "We play <u>soccer</u>. → [fuerte|débil]",
+          "a": "fuerte"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Cuántas palmadas?",
+      "title_en": "How many claps?",
+      "icon": "👏",
+      "es": "Di la frase dando una palmada en cada golpe. Rodea el número de palmadas.",
+      "en": "Clap on each beat and circle the number of claps.",
+      "items": [
+        {
+          "q": "Cats chase mice. → [2|3|4]",
+          "a": "3"
+        },
+        {
+          "q": "The cats will chase the mice. → [3|5|6]",
+          "a": "3"
+        },
+        {
+          "q": "I want a cup of tea. → [3|4|6]",
+          "a": "3"
+        },
+        {
+          "q": "Fish and chips. → [2|3]",
+          "a": "2"
+        },
+        {
+          "q": "Mike likes pizza. → [2|3|4]",
+          "a": "3"
+        },
+        {
+          "q": "Where's my phone? → [2|3]",
+          "a": "2"
+        },
+        {
+          "q": "It's time for bed. → [2|3|4]",
+          "a": "2"
+        },
+        {
+          "q": "I'm going to the beach. → [2|3|5]",
+          "a": "2"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada frase con su sonido",
+      "title_en": "Match phrase and sound",
+      "icon": "🔗",
+      "es": "Une cada grupo de palabras con su pronunciación figurada.",
+      "en": "Match each phrase with how it sounds.",
+      "pairs": [
+        [
+          "a cup of tea",
+          "<code>ə kápə tíi</code>"
+        ],
+        [
+          "fish and chips",
+          "<code>físhən chíps</code>"
+        ],
+        [
+          "rock and roll",
+          "<code>rákən róul</code>"
+        ],
+        [
+          "salt and pepper",
+          "<code>sóltən péper</code>"
+        ],
+        [
+          "Mom and Dad",
+          "<code>mámən dǽd</code>"
+        ],
+        [
+          "bread and butter",
+          "<code>brédən bárer</code>"
+        ],
+        [
+          "at home",
+          "<code>ət jóum</code>"
+        ],
+        [
+          "to school",
+          "<code>tə skúul</code>"
+        ]
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Una palmada por grupo",
+      "title_en": "One clap per group",
+      "icon": "🥁",
+      "es": "Rodea la palabra que lleva el golpe en cada grupo.",
+      "en": "Circle the strong word in each group.",
+      "items": [
+        {
+          "syl": [
+            "at",
+            "home"
+          ],
+          "s": 1,
+          "es": "en casa"
+        },
+        {
+          "syl": [
+            "to",
+            "school"
+          ],
+          "s": 1,
+          "es": "al cole"
+        },
+        {
+          "syl": [
+            "in",
+            "the",
+            "car"
+          ],
+          "s": 2,
+          "es": "en el coche"
+        },
+        {
+          "syl": [
+            "of",
+            "course"
+          ],
+          "s": 1,
+          "es": "¡claro!"
+        },
+        {
+          "syl": [
+            "for",
+            "a",
+            "walk"
+          ],
+          "s": 2,
+          "es": "a dar un paseo"
+        },
+        {
+          "syl": [
+            "tell",
+            "him"
+          ],
+          "s": 0,
+          "es": "díselo"
+        },
+        {
+          "syl": [
+            "call",
+            "her"
+          ],
+          "s": 0,
+          "es": "llámala"
+        },
+        {
+          "syl": [
+            "it's",
+            "a",
+            "dog"
+          ],
+          "s": 2,
+          "es": "es un perro"
+        },
+        {
+          "syl": [
+            "I",
+            "can",
+            "swim"
+          ],
+          "s": 2,
+          "es": "sé nadar"
+        },
+        {
+          "syl": [
+            "thank",
+            "you"
+          ],
+          "s": 0,
+          "es": "gracias"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe cómo suena el grupo entero, pegando las palabras débiles (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        {
+          "q": "☕ a cup of tea → ____",
+          "a": "ə kápə tíi"
+        },
+        {
+          "q": "🍞 bread and butter → ____",
+          "a": "brédən bárer"
+        },
+        {
+          "q": "🏠 at home → ____",
+          "a": "ət jóum"
+        },
+        {
+          "q": "🌳 to the park → ____",
+          "a": "tə də párk"
+        },
+        {
+          "q": "📞 call her → ____",
+          "a": "kóler"
+        },
+        {
+          "q": "🙏 thank you → ____",
+          "a": "zǽnkiu"
+        },
+        {
+          "q": "🎸 rock and roll → ____",
+          "a": "rákən róul"
+        },
+        {
+          "q": "🥛 a glass of milk → ____",
+          "a": "ə glǽsəv mílk"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "Spanish rhythm is like a drum and English rhythm is like a machine gun.",
+          "a": false,
+          "why": "¡al revés!"
+        },
+        {
+          "q": "In English, nouns and main verbs are usually strong.",
+          "a": true
+        },
+        {
+          "q": "«The», «a» and «of» are usually weak, with a schwa.",
+          "a": true
+        },
+        {
+          "q": "«Cats chase mice» and «The cats will chase the mice» take almost the same time.",
+          "a": true
+        },
+        {
+          "q": "Every English syllable takes the same time.",
+          "a": false,
+          "why": "solo los golpes van regulares"
+        },
+        {
+          "q": "Question words like «what» and «where» are usually strong.",
+          "a": true
+        },
+        {
+          "q": "Negatives like «don't» are usually weak.",
+          "a": false,
+          "why": "son fuertes: I DON'T KNOW"
+        },
+        {
+          "q": "In «fish and chips», «and» sounds like «ən».",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Marca los golpes",
+      "title_en": "Mark the beats",
+      "icon": "🖍️",
+      "es": "Copia la frase y escribe en MAYÚSCULAS las sílabas que llevan golpe.",
+      "en": "Copy the sentence and write the beats in capitals.",
+      "items": [
+        {
+          "q": "I want a cup of tea.",
+          "a": "I WANT a CUP of TEA."
+        },
+        {
+          "q": "The dog is in the garden.",
+          "a": "The DOG is in the GARden."
+        },
+        {
+          "q": "Where are you going?",
+          "a": "WHERE are you GOing?"
+        },
+        {
+          "q": "It's time for bed.",
+          "a": "It's TIME for BED."
+        },
+        {
+          "q": "Mike and Tyler are at school.",
+          "a": "MIKE and TYler are at SCHOOL."
+        },
+        {
+          "q": "I don't like Mondays.",
+          "a": "I DON'T LIKE MONdays."
+        },
+        {
+          "q": "Can I have a glass of water?",
+          "a": "Can I HAVE a GLASS of WAter?"
+        },
+        {
+          "q": "We're having fish and chips.",
+          "a": "We're HAVing FISH and CHIPS."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena y dilo con ritmo",
+      "title_en": "Order and say it",
+      "icon": "🧱",
+      "es": "Ordena las palabras. Después di la frase con palmadas en los golpes.",
+      "en": "Put the words in order and say it with claps.",
+      "items": [
+        {
+          "q": "of / cup / tea / a",
+          "a": "a cup of tea"
+        },
+        {
+          "q": "chips / fish / and",
+          "a": "fish and chips"
+        },
+        {
+          "q": "will / the / chase / mice / the / cats",
+          "a": "The cats will chase the mice."
+        },
+        {
+          "q": "park / to / I / the / go / want / to",
+          "a": "I want to go to the park."
+        },
+        {
+          "q": "for / time / it's / bed",
+          "a": "It's time for bed."
+        },
+        {
+          "q": "home / at / I'm",
+          "a": "I'm at home."
+        },
+        {
+          "q": "you / where / going / are",
+          "a": "Where are you going?"
+        },
+        {
+          "q": "Dad / Mom / and",
+          "a": "Mom and Dad"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la ametralladora",
+      "title_en": "Fix the machine gun",
+      "icon": "🩹",
+      "es": "Estas pronunciaciones suenan a ametralladora (todo igual). Escríbelas con ritmo de tambor.",
+      "en": "Fix these machine-gun pronunciations.",
+      "items": [
+        {
+          "q": "a cup of tea → <code>a kap of tii</code>",
+          "a": "ə kápə tíi"
+        },
+        {
+          "q": "fish and chips → <code>fish and chips</code>",
+          "a": "físhən chíps"
+        },
+        {
+          "q": "to the park → <code>tu de park</code>",
+          "a": "tə də párk"
+        },
+        {
+          "q": "I can swim → <code>ai kǽn swim</code>",
+          "a": "ai kən swím"
+        },
+        {
+          "q": "Mom and Dad → <code>mom and dad</code>",
+          "a": "mámən dǽd"
+        },
+        {
+          "q": "at home → <code>at jóum</code>",
+          "a": "ət jóum"
+        },
+        {
+          "q": "a glass of milk → <code>a glas of milk</code>",
+          "a": "ə glǽsəv mílk"
+        },
+        {
+          "q": "call her → <code>kol jer</code>",
+          "a": "kóler"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Escribe las palabras (o sílabas) fuertes y cuántas palmadas tiene cada frase.",
+      "en": "Write the strong words and the number of claps.",
+      "head": [
+        "Frase",
+        "Golpes",
+        "Palmadas"
+      ],
+      "rows": [
+        [
+          "Dogs eat bones.",
+          "?DOGS, EAT, BONES",
+          "?3"
+        ],
+        [
+          "The dogs are eating the bones.",
+          "DOGS, EAT(ing), BONES",
+          "?3"
+        ],
+        [
+          "I'd like some milk.",
+          "?LIKE, MILK",
+          "?2"
+        ],
+        [
+          "Rocky is a big dog.",
+          "?ROC(ky), BIG, DOG",
+          "?3"
+        ],
+        [
+          "Ashley plays tennis.",
+          "?ASH(ley), PLAYS, TEN(nis)",
+          "3"
+        ],
+        [
+          "Open the door.",
+          "?O(pen), DOOR",
+          "?2"
+        ],
+        [
+          "My sister loves cats.",
+          "?SIS(ter), LOVES, CATS",
+          "?3"
+        ]
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee con palmadas",
+      "title_en": "Read and clap",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) dando una palmada en cada golpe. ¡Las palmadas, siempre a la misma velocidad!",
+      "en": "Read each sentence three times, clapping on the beats at a steady speed.",
+      "items": [
+        {
+          "q": "Cats chase mice.",
+          "say": "kǽts chéis máis"
+        },
+        {
+          "q": "The cats will chase the mice.",
+          "say": "də kǽts wəl chéis də máis"
+        },
+        {
+          "q": "The cats have been chasing the mice.",
+          "say": "də kǽts əv bin chéising də máis"
+        },
+        {
+          "q": "I need a pen and a pencil.",
+          "say": "ai níid ə pénənə pénsəl"
+        },
+        {
+          "q": "What do you want for dinner?",
+          "say": "wát də iə wánt fer díner?"
+        },
+        {
+          "q": "A cup of tea and a piece of cake.",
+          "say": "ə kápə tíi ənə píisə kéik"
+        },
+        {
+          "q": "Tell him to call her.",
+          "say": "télim tə kóler"
+        },
+        {
+          "q": "Mom and Dad are at home.",
+          "say": "mámən dǽd ər ət jóum"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés y dilo pegando las palabras débiles.",
+      "en": "Translate into English and say it with weak words.",
+      "items": [
+        {
+          "q": "una taza de té",
+          "a": "a cup of tea (ə kápə tíi)"
+        },
+        {
+          "q": "pescado con patatas",
+          "a": "fish and chips (físhən chíps)"
+        },
+        {
+          "q": "sal y pimienta",
+          "a": "salt and pepper (sóltən péper)"
+        },
+        {
+          "q": "mamá y papá",
+          "a": "Mom and Dad (mámən dǽd)"
+        },
+        {
+          "q": "en casa",
+          "a": "at home (ət jóum)"
+        },
+        {
+          "q": "al cole",
+          "a": "to school (tə skúul)"
+        },
+        {
+          "q": "¡claro!",
+          "a": "Of course! (əv kórs)"
+        },
+        {
+          "q": "¡llámala!",
+          "a": "Call her! (kóler)"
+        },
+        {
+          "q": "pan con mantequilla",
+          "a": "bread and butter (brédən bárer)"
+        },
+        {
+          "q": "dime",
+          "a": "Tell me (télmi)"
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y siente el ritmo",
+      "title_en": "Read and feel the rhythm",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta, con palmadas en los golpes. Después contesta.",
+      "en": "Read the text aloud with claps, then answer.",
+      "text_title": "Drum class",
+      "text": [
+        "Every Saturday, Tyler goes to drum class. His teacher, Mr. Brown, says: “Music is like English. Some beats are strong and some are weak.”",
+        "Tyler plays BOOM-pa-pa-BOOM on the drum. Then he reads a sentence: “The CATS will CHASE the MICE.” Three beats, three hits!"
+      ],
+      "items": [
+        {
+          "q": "What does Tyler play?",
+          "a": "The drums: he goes to drum class."
+        },
+        {
+          "q": "How many beats are in «The cats will chase the mice»?",
+          "a": "Three: CATS, CHASE, MICE."
+        },
+        {
+          "q": "Find two weak words in the text.",
+          "a": "the, to, his, is, are, and, some, a… (cualquiera)"
+        },
+        {
+          "q": "Tyler goes to drum class every Sunday.",
+          "tf": true,
+          "a": false,
+          "why": "every Saturday"
+        },
+        {
+          "q": "Mr. Brown says some beats are strong and some are weak.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «drum class», both words are weak.",
+          "tf": true,
+          "a": false,
+          "why": "son palabras de contenido: DRUM class"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases, marca los golpes en MAYÚSCULAS y léelas con palmadas. ¡Grábate!",
+      "en": "Write your own sentences, mark the beats and record yourself.",
+      "items": [
+        {
+          "q": "Una frase de 3 golpes sobre tu comida favorita.",
+          "lines": 2,
+          "a": "Ej.: I LOVE CHOColate CAKE."
+        },
+        {
+          "q": "La misma frase con más palabras débiles, pero los mismos golpes.",
+          "lines": 2,
+          "a": "Ej.: I really LOVE a bit of CHOColate CAKE."
+        },
+        {
+          "q": "Inventa tu propia canción de tambor (3 golpes por línea).",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé que el inglés suena a <b>tambor</b> y el español, a ametralladora.",
+      "en": "I know English rhythm is like a drum."
+    },
+    {
+      "es": "Distingo las palabras fuertes (nombres, verbos, adjetivos…) de las débiles (a, the, to, of…).",
+      "en": "I can tell strong words from weak words."
+    },
+    {
+      "es": "Digo <code>ə kápə tíi</code> y <code>físhən chíps</code> sin hacer fuertes las palabras pequeñas.",
+      "en": "I say weak words softly: a cup of tea, fish and chips."
+    },
+    {
+      "es": "Leo «CATS CHASE MICE» y «the CATS will CHASE the MICE» casi en el mismo tiempo.",
+      "en": "I keep the same beat with more words."
+    },
+    {
+      "es": "Doy palmadas regulares en los golpes de una frase.",
+      "en": "I can clap the beats of a sentence."
+    },
+    {
+      "es": "Pego los pronombres al verbo: <code>télim</code>, <code>kóler</code>, <code>lávit</code>.",
+      "en": "I link pronouns to verbs: tell him, call her, love it."
+    }
+  ]
+}

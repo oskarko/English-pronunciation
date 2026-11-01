@@ -1,0 +1,1847 @@
+{
+  "id": "T-02",
+  "block": "T",
+  "title": "LA <em>-S</em> FINAL",
+  "file_title": "La -s final",
+  "subtitle": "The final -s · cats, dogs, buses",
+  "icon": "🐍",
+  "map": {
+    "center": "La <b>-s</b> final tiene <b>3 sonidos</b>: /s/ (cats), /z/ que zumba 🐝 (dogs) e /ɪz/ (buses).",
+    "listen": "dogs",
+    "nodes": [
+      {
+        "title": "Suena /s/",
+        "icon": "🐍",
+        "color": "green",
+        "rows": [
+          [
+            "cats",
+            "<code>kæts</code>"
+          ],
+          [
+            "books",
+            "<code>buks</code>"
+          ],
+          [
+            "likes",
+            "<code>laiks</code>"
+          ]
+        ],
+        "after": "tras p, t, k, f: s de serpiente"
+      },
+      {
+        "title": "Suena /z/",
+        "icon": "🐝",
+        "color": "blue",
+        "rows": [
+          [
+            "dogs",
+            "<code>dogs</code> 🐝"
+          ],
+          [
+            "plays",
+            "<code>pleis</code> 🐝"
+          ],
+          [
+            "Mario's",
+            "<code>márious</code> 🐝"
+          ]
+        ],
+        "after": "tras vocal o sonido que vibra"
+      },
+      {
+        "title": "Suena /ɪz/",
+        "icon": "➕",
+        "color": "purple",
+        "rows": [
+          [
+            "buses",
+            "<code>básis</code>"
+          ],
+          [
+            "watches",
+            "<code>wáchis</code>"
+          ],
+          [
+            "pages",
+            "<code>péiyis</code>"
+          ]
+        ],
+        "after": "tras s, z, sh, ch, j: ¡sílaba nueva!"
+      },
+      {
+        "title": "¿Dónde aparece?",
+        "icon": "📍",
+        "color": "orange",
+        "items": [
+          "plurales: two <b>cats</b>",
+          "verbos: she <b>plays</b>",
+          "posesivo: <b>Mario's</b> dog"
+        ]
+      },
+      {
+        "title": "Sorpresas",
+        "icon": "🎁",
+        "color": "pink",
+        "rows": [
+          [
+            "says",
+            "<code>ses</code>, no «seis»"
+          ],
+          [
+            "does",
+            "<code>das</code>, no «dous»"
+          ],
+          [
+            "houses",
+            "<code>jáusis</code>, s → z"
+          ]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "La <b>e</b> escrita no manda: likes = <code>laiks</code> (1 sílaba), pages = <code>péiyis</code> (2).",
+        "art": "🐝"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "likes → <code>láikes</code>"
+      ],
+      "good": [
+        "<code>laiks</code> 👍"
+      ],
+      "note": "Solo hay sílaba nueva tras s, z, sh, ch, j."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🐱 cats → ____",
+          "a": "kæts"
+        },
+        {
+          "q": "🐶 dogs → ____",
+          "a": "dogs (s que zumba)"
+        },
+        {
+          "q": "🚌 buses → ____",
+          "a": "básis"
+        },
+        {
+          "q": "👍 likes → ____",
+          "a": "laiks"
+        },
+        {
+          "q": "⌚ watches → ____",
+          "a": "wáchis"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "La letra más trabajadora",
+      "title_en": "The busiest letter",
+      "icon": "🔎",
+      "es": "La <b>-s</b> final es la letra más trabajadora del inglés: hace <b>plurales</b> (two cats), la <b>3.ª persona</b> del presente (she plays) y el <b>posesivo</b> (Mario's dog). Y siempre sigue las mismas reglas: puede ser una <code>s</code> normal (/s/), una <b>s que zumba</b> como una abeja 🐝 (/z/) o una sílaba nueva, <code>is</code> (/ɪz/). En la figurada escribimos <code>s</code> para /s/ y para /z/: <mark>la /z/ es una s con vibración</mark>, como la de «mi<b>s</b>mo» o «de<b>s</b>de».",
+      "en": "The final -s (plurals, he/she/it verbs and possessives) has three sounds: /s/, /z/ or /ɪz/. The last sound of the word decides.",
+      "formula": [
+        "cat + *s* → kæt*s* 🐍",
+        "dog + *s* → dog*s* 🐝",
+        "bus + *es* → bás*is* ➕"
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Resumen: ¿s, s que zumba o is?",
+      "title_en": "Summary: /s/, /z/ or /ɪz/?",
+      "icon": "🧭",
+      "es": "Mira el <b>último sonido</b> de la palabra y elige columna.",
+      "en": "Look at the last sound of the word and choose a column.",
+      "cols": [
+        {
+          "head": "🐍 /s/",
+          "color": "green",
+          "items": [
+            "tras p, t, k, f, th",
+            "cats, books, cups",
+            "laughs, eats, Mike's",
+            "sin sílaba nueva"
+          ]
+        },
+        {
+          "head": "🐝 /z/",
+          "color": "blue",
+          "items": [
+            "tras vocal, b, d, g, v, m, n, l, r",
+            "dogs, plays, cars",
+            "girls, friends, Mario's",
+            "sin sílaba nueva"
+          ]
+        },
+        {
+          "head": "➕ /ɪz/",
+          "color": "purple",
+          "items": [
+            "tras s, z, sh, ch, j",
+            "buses, quizzes, dishes",
+            "watches, pages, boxes",
+            "¡con sílaba nueva!"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Tras s, z, sh, ch, j: /ɪz/",
+      "title_en": "After hissing sounds: /ɪz/",
+      "icon": "➕",
+      "es": "Si la palabra ya acaba en un sonido <b>silbante</b> (s, z, sh, ch, j; también escritos ce, ge, x), no puedes pegar otra s sin más: hace falta una vocal en medio. Se añade la sílaba <code>is</code> (/ɪz/), con i relajada y s que zumba. bus → buses = <code>básis</code>: ¡dos sílabas!",
+      "en": "After hissing sounds (s, z, sh, ch, j), -s adds a syllable: /ɪz/.",
+      "formula": [
+        "bu*s* + es → bás*is*",
+        "pa*ge* + s → péiy*is*"
+      ],
+      "examples": [
+        {
+          "en": "buses",
+          "say": "básis",
+          "es": "autobuses",
+          "icon": "🚌"
+        },
+        {
+          "en": "watches",
+          "say": "wáchis",
+          "es": "relojes / ve",
+          "icon": "⌚"
+        },
+        {
+          "en": "pages",
+          "say": "péiyis",
+          "es": "páginas",
+          "icon": "📄"
+        },
+        {
+          "en": "boxes",
+          "say": "báksis",
+          "es": "cajas",
+          "icon": "📦"
+        },
+        {
+          "en": "dishes",
+          "say": "díshis",
+          "es": "platos",
+          "icon": "🍽️"
+        },
+        {
+          "en": "roses",
+          "say": "róusis",
+          "es": "rosas",
+          "icon": "🌹"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Tras sonido sordo: /s/",
+      "title_en": "After a voiceless sound: /s/",
+      "icon": "🐍",
+      "es": "Si la palabra acaba en un sonido <b>sordo</b> (p, t, k, f, th), la -s es una <b>s</b> normal, como la española: la s de la serpiente 🐍. Y sin sílaba nueva: cats = <code>kæts</code>, una sola sílaba. ¡Nada de «ka‑tes»!",
+      "en": "After voiceless sounds (p, t, k, f, th), -s sounds /s/. No extra syllable.",
+      "examples": [
+        {
+          "en": "cats",
+          "say": "kæts",
+          "es": "gatos",
+          "icon": "🐱"
+        },
+        {
+          "en": "books",
+          "say": "buks",
+          "es": "libros",
+          "icon": "📚"
+        },
+        {
+          "en": "cups",
+          "say": "kaps",
+          "es": "tazas",
+          "icon": "☕"
+        },
+        {
+          "en": "laughs",
+          "say": "læfs",
+          "es": "se ríe",
+          "icon": "😂"
+        },
+        {
+          "en": "eats",
+          "say": "iits",
+          "es": "come",
+          "icon": "🍎"
+        },
+        {
+          "en": "Mike's",
+          "say": "maiks",
+          "es": "de Mike",
+          "icon": "🧢"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Tras sonido sonoro: /z/",
+      "title_en": "After a voiced sound: /z/",
+      "icon": "🐝",
+      "es": "Si la palabra acaba en <b>vocal</b> o en un sonido <b>sonoro</b> (b, d, g, v, m, n, l, r, ng), la -s se contagia y <b>zumba</b> como una abeja 🐝: /z/. Es la más frecuente de las tres. En la figurada la escribimos <code>s</code>, pero tú hazla vibrar: si al principio te sale una s normal, te entenderán igual; si zumba, ¡sonarás mucho más americano!",
+      "en": "After vowels and voiced sounds, -s sounds /z/: it buzzes like a bee. No extra syllable.",
+      "examples": [
+        {
+          "en": "dogs",
+          "say": "dogs",
+          "es": "perros",
+          "icon": "🐶"
+        },
+        {
+          "en": "plays",
+          "say": "pleis",
+          "es": "juega",
+          "icon": "🎮"
+        },
+        {
+          "en": "cars",
+          "say": "kars",
+          "es": "coches",
+          "icon": "🚗"
+        },
+        {
+          "en": "girls",
+          "say": "guerls",
+          "es": "chicas",
+          "icon": "👧"
+        },
+        {
+          "en": "apples",
+          "say": "ǽpəls",
+          "es": "manzanas",
+          "icon": "🍎"
+        },
+        {
+          "en": "Mario's",
+          "say": "márious",
+          "es": "de Mario",
+          "icon": "👦"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · La e escrita no manda",
+      "title_en": "Ignore the written E",
+      "icon": "🙈",
+      "es": "Mucha gente ve una <b>e</b> antes de la s y la pronuncia: <s>lai‑kes</s>, <s>mei‑kes</s>, <s>jou‑mes</s>. Pero esa e es <b>muda</b>: likes = <code>laiks</code>, makes = <code>meiks</code>, homes = <code>joums</code>. Solo hay sílaba nueva cuando el <b>sonido</b> final es silbante: pla<b>ces</b>, fa<b>ces</b>, chan<b>ges</b>.",
+      "en": "A written E before S is usually silent: likes, makes, homes. You only add a syllable after a hissing sound: places, faces, changes.",
+      "examples": [
+        {
+          "en": "likes",
+          "say": "laiks",
+          "es": "le gusta",
+          "icon": "👍"
+        },
+        {
+          "en": "makes",
+          "say": "meiks",
+          "es": "hace",
+          "icon": "🍳"
+        },
+        {
+          "en": "homes",
+          "say": "joums",
+          "es": "casas, hogares",
+          "icon": "🏡"
+        },
+        {
+          "en": "places",
+          "say": "pléisis",
+          "es": "lugares",
+          "icon": "🗺️"
+        },
+        {
+          "en": "faces",
+          "say": "féisis",
+          "es": "caras",
+          "icon": "😊"
+        },
+        {
+          "en": "changes",
+          "say": "chéinyis",
+          "es": "cambia",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Verbos y posesivos",
+      "title_en": "Verbs and possessives",
+      "icon": "🧑",
+      "es": "Las mismas reglas valen para la 3.ª persona (he works, she plays, it watches) y para el posesivo <b>'s</b> (Mike's, Jenny's, Chris's). ¡Y para la contracción de is! (it's /s/, he's /z/: mapa H-05). Ojo con dos verbos que <b>cambian la vocal</b>: says = <code>ses</code> (no «seis») y does = <code>das</code> (no «dous»).",
+      "en": "The same rules work for he/she/it verbs and for 's. Watch out: says = /sɛz/ and does = /dʌz/.",
+      "examples": [
+        {
+          "en": "works",
+          "say": "werks",
+          "es": "trabaja",
+          "icon": "💼"
+        },
+        {
+          "en": "goes",
+          "say": "gous",
+          "es": "va",
+          "icon": "🚶"
+        },
+        {
+          "en": "says",
+          "say": "ses",
+          "es": "dice",
+          "icon": "💬"
+        },
+        {
+          "en": "does",
+          "say": "das",
+          "es": "hace",
+          "icon": "🤸"
+        },
+        {
+          "en": "Jenny's",
+          "say": "yénis",
+          "es": "de Jenny",
+          "icon": "👩"
+        },
+        {
+          "en": "Chris's",
+          "say": "krísis",
+          "es": "de Chris",
+          "icon": "🧑"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · Plurales con sorpresa",
+      "title_en": "Surprise plurals",
+      "icon": "🎁",
+      "es": "Algunos plurales cambian el sonido de la palabra. <b>house</b> /haʊs/ → <b>houses</b> /ˈhaʊzɪz/: ¡la s de dentro también zumba! Las palabras en -f/-fe pasan a /vz/: knife → knives, leaf → leaves. mouth → mouths /maʊðz/, con th suave. <b>clothes</b> (ropa) se dice casi siempre como el verbo close: <code>klous</code>. Y woman → <b>women</b> cambia la primera vocal: <code>wímin</code>.",
+      "en": "Some plurals change the sound: houses /ˈhaʊzɪz/, knives, leaves, mouths, clothes, women /ˈwɪmɪn/.",
+      "examples": [
+        {
+          "en": "houses",
+          "say": "jáusis",
+          "es": "casas",
+          "icon": "🏘️"
+        },
+        {
+          "en": "knives",
+          "say": "naivs",
+          "es": "cuchillos",
+          "icon": "🔪"
+        },
+        {
+          "en": "leaves",
+          "say": "liivs",
+          "es": "hojas",
+          "icon": "🍂"
+        },
+        {
+          "en": "mouths",
+          "say": "mauds",
+          "es": "bocas",
+          "icon": "👄"
+        },
+        {
+          "en": "clothes",
+          "say": "klous",
+          "es": "ropa",
+          "icon": "👕"
+        },
+        {
+          "en": "women",
+          "say": "wímin",
+          "es": "mujeres",
+          "icon": "👩"
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "title": "Una sílaba más",
+      "title_en": "One more syllable",
+      "icon": "🥁",
+      "es": "Con /ɪz/ la palabra gana una sílaba, pero <b>débil</b>: el golpe (●) se queda donde estaba.",
+      "en": "With /ɪz/ the word gets one more syllable, but it's weak: the stress doesn't move.",
+      "items": [
+        {
+          "syl": [
+            "bus",
+            "es"
+          ],
+          "s": 0,
+          "say": "básis",
+          "es": "autobuses"
+        },
+        {
+          "syl": [
+            "watch",
+            "es"
+          ],
+          "s": 0,
+          "say": "wáchis",
+          "es": "relojes"
+        },
+        {
+          "syl": [
+            "or",
+            "ang",
+            "es"
+          ],
+          "s": 0,
+          "say": "órinyis",
+          "es": "naranjas"
+        },
+        {
+          "syl": [
+            "sand",
+            "wich",
+            "es"
+          ],
+          "s": 0,
+          "say": "sǽnwichis",
+          "es": "sándwiches"
+        },
+        {
+          "syl": [
+            "ga",
+            "rag",
+            "es"
+          ],
+          "s": 1,
+          "say": "gəráyis",
+          "es": "garajes"
+        },
+        {
+          "syl": [
+            "ex",
+            "er",
+            "cis",
+            "es"
+          ],
+          "s": 0,
+          "say": "éksersaisis",
+          "es": "ejercicios"
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "Serpiente o abeja",
+      "title_en": "Snake or bee",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "place",
+            "ipa": "pleɪs",
+            "say": "pleis",
+            "es": "lugar",
+            "icon": "📍"
+          },
+          "b": {
+            "en": "plays",
+            "ipa": "pleɪz",
+            "say": "pleis",
+            "es": "juega",
+            "icon": "🎮"
+          },
+          "tip": "Misma figurada, pero en plays la s zumba 🐝 y la «ei» dura un pelín más."
+        },
+        {
+          "a": {
+            "en": "peace",
+            "ipa": "piːs",
+            "say": "piis",
+            "es": "paz",
+            "icon": "☮️"
+          },
+          "b": {
+            "en": "peas",
+            "ipa": "piːz",
+            "say": "piis",
+            "es": "guisantes",
+            "icon": "🟢"
+          },
+          "tip": "peace con s de serpiente 🐍; peas, plural, con s de abeja 🐝."
+        },
+        {
+          "a": {
+            "en": "cents",
+            "ipa": "sɛnts",
+            "say": "sents",
+            "es": "céntimos",
+            "icon": "🪙"
+          },
+          "b": {
+            "en": "sends",
+            "ipa": "sɛndz",
+            "say": "sends",
+            "es": "envía",
+            "icon": "📤"
+          },
+          "tip": "cents acaba en t + s 🐍; sends, en d + s que zumba 🐝."
+        },
+        {
+          "a": {
+            "en": "close",
+            "ipa": "kloʊs",
+            "say": "klous",
+            "es": "cerca",
+            "icon": "📏"
+          },
+          "b": {
+            "en": "clothes",
+            "ipa": "kloʊz",
+            "say": "klous",
+            "es": "ropa",
+            "icon": "👕"
+          },
+          "tip": "close (cerca) lleva s de serpiente; clothes, de abeja (igual que el verbo to close)."
+        },
+        {
+          "a": {
+            "en": "bets",
+            "ipa": "bɛts",
+            "say": "bets",
+            "es": "apuestas",
+            "icon": "🎲"
+          },
+          "b": {
+            "en": "beds",
+            "ipa": "bɛdz",
+            "say": "beds",
+            "es": "camas",
+            "icon": "🛏️"
+          },
+          "tip": "bets: t + s 🐍. beds: d + s 🐝, con la e más larga (mapa C-14)."
+        }
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Serpiente o abeja",
+      "title_en": "Snake or bee",
+      "items": [
+        {
+          "part": "voice",
+          "es": "Mano en el cuello y di «sssss» 🐍 y luego «zzzzz» 🐝. En la segunda la garganta <b>vibra</b>: esa es la /z/. Es la s de «mi<b>s</b>mo» o «de<b>s</b>de», que ya dices sin darte cuenta.",
+          "en": "Hand on your throat: «sssss» doesn't vibrate, «zzzzz» does. That's /z/."
+        },
+        {
+          "part": "tongue",
+          "es": "Para /s/ y /z/ la lengua está <b>igual</b>: la punta cerca de los dientes de arriba, sin tocar. Solo cambia la voz.",
+          "en": "Your tongue is in the same place for /s/ and /z/. Only your voice changes."
+        },
+        {
+          "part": "air",
+          "es": "En /s/ sale aire sin voz, como un globo que se desinfla 🎈. En /z/ sale el mismo aire, pero zumbando. Y en /ɪz/, antes de la s, abre un poco la boca para una i relajada.",
+          "en": "/s/ is air without voice; /z/ is buzzing air. For /ɪz/, add a relaxed i before it."
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "Chris's",
+          "ipa": "ˈkrɪsɪz",
+          "say": "krísis",
+          "es": "de Chris",
+          "icon": "🧑",
+          "anchor": "<b>crisis</b> 😱",
+          "tip": "¡Casi igual! Chris's bike = la bici de Chris: KRÍ‑sis, con la última s zumbando."
+        },
+        {
+          "en": "taxes",
+          "ipa": "ˈtæksɪz",
+          "say": "tǽksis",
+          "es": "impuestos",
+          "icon": "💸",
+          "anchor": "<b>taxis</b> 🚕",
+          "tip": "Casi igual: con boca de sonrisa (æ) y la s final que zumba."
+        },
+        {
+          "en": "buses",
+          "ipa": "ˈbʌsɪz",
+          "say": "básis",
+          "es": "autobuses",
+          "icon": "🚌",
+          "anchor": "<b>bási</b>co 🚌",
+          "tip": "Di «básico», corta en «bási» y añade una s que zumba: BÁ‑sis."
+        },
+        {
+          "en": "classes",
+          "ipa": "ˈklæsɪz",
+          "say": "klǽsis",
+          "es": "clases",
+          "icon": "🏫",
+          "anchor": "<b>clási</b>co 🎻",
+          "tip": "Casi: «clási» con la a de cat (æ) + s que zumba. Dos sílabas, no tres."
+        },
+        {
+          "en": "likes",
+          "ipa": "laɪks",
+          "say": "laiks",
+          "es": "le gusta / likes",
+          "icon": "👍",
+          "anchor": "los <b>likes</b> 📱",
+          "tip": "Ya lo dices bien en las redes: «laiks». ¡Nada de «lai‑kes»!"
+        },
+        {
+          "en": "chips",
+          "ipa": "tʃɪps",
+          "say": "chips",
+          "es": "patatas de bolsa",
+          "icon": "🥔",
+          "anchor": "patatas <b>chips</b> 🥔",
+          "tip": "Igual que en español, con i relajada. Tras p, s de serpiente."
+        },
+        {
+          "en": "socks",
+          "ipa": "sɑks",
+          "say": "saks",
+          "es": "calcetines",
+          "icon": "🧦",
+          "anchor": "<b>sax</b>o 🎷",
+          "tip": "Di «saxo» sin la o: socks. ¡Calcetines musicales!"
+        },
+        {
+          "en": "plays",
+          "ipa": "pleɪz",
+          "say": "pleis",
+          "es": "juega",
+          "icon": "🎮",
+          "anchor": "la <b>Play</b> + zzz 🎮",
+          "tip": "La consola (plei) + una s que zumba como una abeja 🐝."
+        },
+        {
+          "en": "fans",
+          "ipa": "fænz",
+          "say": "fæns",
+          "es": "fans / ventiladores",
+          "icon": "🙌",
+          "anchor": "los <b>fans</b> 🙌",
+          "tip": "Como en español, pero con æ y la s zumbando."
+        },
+        {
+          "en": "friends",
+          "ipa": "frɛndz",
+          "say": "frends",
+          "es": "amigos",
+          "icon": "👫",
+          "anchor": "la serie <b>Friends</b> 📺",
+          "tip": "¡Con la d! Y la s final zumba: frend‑zzz."
+        },
+        {
+          "en": "jeans",
+          "ipa": "dʒiːnz",
+          "say": "yiins",
+          "es": "vaqueros",
+          "icon": "👖",
+          "anchor": "unos <b>jeans</b> 👖",
+          "tip": "Ya dices «yins». Alarga la i y haz que la s zumbe."
+        },
+        {
+          "en": "houses",
+          "ipa": "ˈhaʊzɪz",
+          "say": "jáusis",
+          "es": "casas",
+          "icon": "🏘️",
+          "anchor": "<s>jáu‑ses</s> → <b>JÁU</b>sis",
+          "tip": "¡Las dos s zumban! /ˈhaʊzɪz/: la de dentro también."
+        },
+        {
+          "en": "says",
+          "ipa": "sɛz",
+          "say": "ses",
+          "es": "dice",
+          "icon": "💬",
+          "anchor": "<s>seis</s> 6 → <b>ses</b>",
+          "tip": "says no rima con «seis»: es <code>ses</code>, con s final que zumba."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "cats",
+          "es": "gatos"
+        },
+        {
+          "q": "dogs",
+          "es": "perros"
+        },
+        {
+          "q": "buses",
+          "es": "autobuses"
+        },
+        {
+          "q": "watches",
+          "es": "relojes / ve"
+        },
+        {
+          "q": "says",
+          "es": "dice"
+        },
+        {
+          "q": "houses",
+          "es": "casas"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Primas hermanas: -S y -ED",
+      "title_en": "Cousins: -S and -ED",
+      "icon": "👯",
+      "head": [
+        "Verbo · Verb",
+        "He / She…",
+        "Suena",
+        "Yesterday…",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "work · trabajar",
+          "works",
+          "<code>werks</code>",
+          "worked",
+          "<code>werkt</code>"
+        ],
+        [
+          "stop · parar",
+          "stops",
+          "<code>staps</code>",
+          "stopped",
+          "<code>stapt</code>"
+        ],
+        [
+          "play · jugar",
+          "plays",
+          "<code>pleis</code> 🐝",
+          "played",
+          "<code>pleid</code>"
+        ],
+        [
+          "clean · limpiar",
+          "cleans",
+          "<code>kliins</code> 🐝",
+          "cleaned",
+          "<code>kliind</code>"
+        ],
+        [
+          "watch · ver",
+          "watches",
+          "<code>wáchis</code>",
+          "watched",
+          "<code>wacht</code>"
+        ],
+        [
+          "kiss · besar",
+          "kisses",
+          "<code>kísis</code>",
+          "kissed",
+          "<code>kist</code>"
+        ],
+        [
+          "want · querer",
+          "wants",
+          "<code>wants</code>",
+          "wanted",
+          "<code>wántid</code>"
+        ],
+        [
+          "need · necesitar",
+          "needs",
+          "<code>niids</code> 🐝",
+          "needed",
+          "<code>níirid</code>"
+        ]
+      ],
+      "note": "La -s y la -ed son primas: tras sonido <b>sordo</b>, las dos son sordas (s, t); tras sonido <b>sonoro</b>, las dos vibran (s 🐝, d). Pero la sílaba extra de la -s va tras s, sh, ch…, y la de la -ed, tras t o d (mapa T-01).",
+      "note_en": "-s and -ed are cousins: voiceless after voiceless sounds, voiced after voiced sounds. But the extra syllable comes after different sounds."
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I have two cats and three dogs.",
+          "say": "ai jæv tuu kæts ən zrii dogs",
+          "es": "Tengo dos gatos y tres perros.",
+          "icon": "🐾"
+        },
+        {
+          "en": "My mom watches TV.",
+          "say": "mai mam wáchis tiiví",
+          "es": "Mi madre ve la tele.",
+          "icon": "📺"
+        },
+        {
+          "en": "Lucía likes books.",
+          "say": "lusíə laiks buks",
+          "es": "A Lucía le gustan los libros.",
+          "icon": "📚"
+        },
+        {
+          "en": "The buses are late.",
+          "say": "də básisər léit",
+          "es": "Los autobuses llegan tarde.",
+          "icon": "🚌"
+        },
+        {
+          "en": "Rocky's toys are everywhere.",
+          "say": "rákis tois ar évriwer",
+          "es": "Los juguetes de Rocky están por todas partes.",
+          "icon": "🐕"
+        },
+        {
+          "en": "She says it's easy.",
+          "say": "shi ses its íisi",
+          "es": "Dice que es fácil.",
+          "icon": "💬"
+        },
+        {
+          "en": "He does his homework.",
+          "say": "ji das is jóumwerk",
+          "es": "Hace sus deberes.",
+          "icon": "📝"
+        },
+        {
+          "en": "Wash the dishes, please.",
+          "say": "wash də díshis, pliis",
+          "es": "Lava los platos, por favor.",
+          "icon": "🍽️"
+        },
+        {
+          "en": "Mike's friends play games.",
+          "say": "maiks frends plei guéims",
+          "es": "Los amigos de Mike juegan a juegos.",
+          "icon": "🎮"
+        },
+        {
+          "en": "These boxes are heavy.",
+          "say": "diis báksis ar jévi",
+          "es": "Estas cajas pesan.",
+          "icon": "📦"
+        },
+        {
+          "en": "Jenny's house has five bedrooms.",
+          "say": "yénis jaus jæs faiv bédruums",
+          "es": "La casa de Jenny tiene cinco dormitorios.",
+          "icon": "🏠"
+        },
+        {
+          "en": "My clothes are in the boxes.",
+          "say": "mai klous ar in də báksis",
+          "es": "Mi ropa está en las cajas.",
+          "icon": "👕"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "monster": "serpiente",
+      "items": [
+        {
+          "bad": "likes → <code>láikes</code>",
+          "good": "<code>laiks</code>",
+          "why": "La e no suena: una sola sílaba.",
+          "why_en": "Silent E: one syllable."
+        },
+        {
+          "bad": "dogs → <code>dog</code>",
+          "good": "<code>dogs</code> 🐝",
+          "why": "Sin s, es un solo perro. Y esa s zumba.",
+          "why_en": "Without -s it's singular. And it buzzes."
+        },
+        {
+          "bad": "buses → <code>bas</code>",
+          "good": "<code>básis</code>",
+          "why": "Tras s hace falta una sílaba nueva.",
+          "why_en": "After S, add a syllable."
+        },
+        {
+          "bad": "says → <code>seis</code>",
+          "good": "<code>ses</code>",
+          "why": "Cambia la vocal: no rima con «seis».",
+          "why_en": "Says is /sɛz/."
+        },
+        {
+          "bad": "does → <code>dous</code>",
+          "good": "<code>das</code>",
+          "why": "Cambia la vocal: «das».",
+          "why_en": "Does is /dʌz/."
+        },
+        {
+          "bad": "houses → <code>jáuses</code>",
+          "good": "<code>jáusis</code>",
+          "why": "La s de dentro zumba y la e es una i relajada: /ˈhaʊzɪz/.",
+          "why_en": "Houses is /ˈhaʊzɪz/."
+        },
+        {
+          "bad": "cats → <code>kǽtes</code>",
+          "good": "<code>kæts</code>",
+          "why": "No hay e: una sola sílaba.",
+          "why_en": "One syllable."
+        },
+        {
+          "bad": "watches → <code>wachs</code>",
+          "good": "<code>wáchis</code>",
+          "why": "Tras ch hay sílaba nueva: dos sílabas.",
+          "why_en": "After CH, add a syllable."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En la tienda de mascotas",
+      "title_en": "At the pet store",
+      "lines": [
+        {
+          "who": "Mike",
+          "en": "Look, Mario! Puppies and kitties!",
+          "say": "luk, mário! pápis ən kíris!",
+          "es": "¡Mira, Mario! ¡Cachorros y gatitos!"
+        },
+        {
+          "who": "Mario",
+          "en": "Rocky needs toys. He loves balls.",
+          "say": "ráki niids tois. ji lavs bols",
+          "es": "Rocky necesita juguetes. Le encantan las pelotas."
+        },
+        {
+          "who": "Mike",
+          "en": "These balls are two dollars each.",
+          "say": "diis bols ar tuu dálers iich",
+          "es": "Estas pelotas cuestan dos dólares cada una."
+        },
+        {
+          "who": "Mario",
+          "en": "And how much is that box of treats?",
+          "say": "ən jau máchis dæt baks əv triits?",
+          "es": "¿Y cuánto cuesta esa caja de premios?"
+        },
+        {
+          "who": "Mike",
+          "en": "It's six dollars. Rocky's lucky!",
+          "say": "its siks dálers. rákis láki!",
+          "es": "Seis dólares. ¡Rocky tiene suerte!"
+        },
+        {
+          "who": "Mario",
+          "en": "He's my buddy. He watches movies with me!",
+          "say": "jiis mai bádi. ji wáchis múuvis wid mi!",
+          "es": "Es mi colega. ¡Ve pelis conmigo!"
+        },
+        {
+          "who": "Mike",
+          "en": "Ha! My cat just sleeps on my clothes.",
+          "say": "ja! mai kæt yast sliips an mai klous",
+          "es": "¡Ja! Mi gato solo duerme encima de mi ropa."
+        },
+        {
+          "who": "Mario",
+          "en": "Pets are the best!",
+          "say": "pets ar də best!",
+          "es": "¡Las mascotas son lo mejor!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Quita la -s y di el último sonido: cat… <b>t</b>, dog… <b>g</b>, bus… <b>s</b>.",
+          "en": "Remove the -s and say the last sound."
+        },
+        {
+          "es": "¿Es s, z, sh, ch o j? → añade <code>is</code>: <code>bás-is</code>, <code>wách-is</code>.",
+          "en": "Hissing sound? Add /ɪz/."
+        },
+        {
+          "es": "Si no, mano en el cuello: ¿no vibra? → s de serpiente 🐍. ¿Vibra? → s de abeja 🐝 (zzz).",
+          "en": "If not: no vibration → /s/; vibration → /z/."
+        },
+        {
+          "es": "Ignora la e escrita: likes, makes, homes = <b>una</b> sílaba.",
+          "en": "Ignore the written E."
+        },
+        {
+          "es": "Escanea los QR, escucha y <b>grábate</b>. ¿Zumban tus plurales?",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Sue's six cats chase Zack's seven dogs.",
+          "say": "suus siks kæts chéisis sæks sévən dogs",
+          "es": "Los seis gatos de Sue persiguen a los siete perros de Zack."
+        },
+        {
+          "en": "Buzzing bees buzz by the buses.",
+          "say": "básing biis bas bai də básis",
+          "es": "Las abejas zumbonas zumban junto a los autobuses."
+        },
+        {
+          "en": "She sells seashells by the seashore.",
+          "say": "shi sels síishels bai də síishor",
+          "es": "Ella vende conchas junto al mar (trabalenguas tradicional)."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de la abeja",
+      "title_en": "The bee trick",
+      "es": "Cuando dudes: tras <b>p, t, k, f</b> → s de serpiente 🐍; tras <b>vocal</b> o sonido que vibra → s de abeja 🐝; tras <b>s, z, sh, ch, j</b> → <code>is</code>. ¡Y la e escrita no manda! Si te sale una s normal donde va /z/, no pasa nada; pero si te comes la -s, cambias el significado.",
+      "en": "After p, t, k, f: snake /s/. After vowels and voiced sounds: bee /z/. After s, z, sh, ch, j: /ɪz/. Never drop the -s!"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Qué sonido?",
+      "title_en": "Which sound?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea cómo suena la -s.",
+      "en": "Say the word and circle the sound of -s.",
+      "items": [
+        {
+          "q": "cats → [/s/|/z/|/ɪz/]",
+          "a": "/s/"
+        },
+        {
+          "q": "dogs → [/s/|/z/|/ɪz/]",
+          "a": "/z/"
+        },
+        {
+          "q": "buses → [/s/|/z/|/ɪz/]",
+          "a": "/ɪz/"
+        },
+        {
+          "q": "books → [/s/|/z/|/ɪz/]",
+          "a": "/s/"
+        },
+        {
+          "q": "plays → [/s/|/z/|/ɪz/]",
+          "a": "/z/"
+        },
+        {
+          "q": "watches → [/s/|/z/|/ɪz/]",
+          "a": "/ɪz/"
+        },
+        {
+          "q": "laughs → [/s/|/z/|/ɪz/]",
+          "a": "/s/"
+        },
+        {
+          "q": "cars → [/s/|/z/|/ɪz/]",
+          "a": "/z/"
+        },
+        {
+          "q": "pages → [/s/|/z/|/ɪz/]",
+          "a": "/ɪz/"
+        },
+        {
+          "q": "cups → [/s/|/z/|/ɪz/]",
+          "a": "/s/"
+        },
+        {
+          "q": "girls → [/s/|/z/|/ɪz/]",
+          "a": "/z/"
+        },
+        {
+          "q": "boxes → [/s/|/z/|/ɪz/]",
+          "a": "/ɪz/"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Serpiente, abeja o sílaba",
+      "title_en": "Snake, bee or syllable",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en la columna de su sonido.",
+      "en": "Say each word and sort it by its -s sound.",
+      "cats": [
+        {
+          "name": "🐍 /s/",
+          "words": [
+            "cups",
+            "hats",
+            "books",
+            "laughs",
+            "maps",
+            "socks",
+            "Mike's",
+            "eats"
+          ]
+        },
+        {
+          "name": "🐝 /z/",
+          "words": [
+            "dogs",
+            "plays",
+            "cars",
+            "girls",
+            "pens",
+            "songs",
+            "apples",
+            "Jenny's"
+          ]
+        },
+        {
+          "name": "➕ /ɪz/",
+          "words": [
+            "buses",
+            "glasses",
+            "dishes",
+            "watches",
+            "pages",
+            "boxes",
+            "roses",
+            "oranges"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Cuántas sílabas?",
+      "title_en": "How many syllables?",
+      "icon": "✌️",
+      "es": "Cuenta las sílabas con los dedos y rodea. ¡Cuidado con la e escrita!",
+      "en": "Count the syllables and circle.",
+      "items": [
+        {
+          "q": "likes → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "pages → [1|2]",
+          "a": "2"
+        },
+        {
+          "q": "cats → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "buses → [1|2]",
+          "a": "2"
+        },
+        {
+          "q": "homes → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "places → [1|2]",
+          "a": "2"
+        },
+        {
+          "q": "makes → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "watches → [1|2]",
+          "a": "2"
+        },
+        {
+          "q": "games → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "faces → [1|2]",
+          "a": "2"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "cats",
+          "<code>kæts</code>"
+        ],
+        [
+          "dogs",
+          "<code>dogs</code> 🐝"
+        ],
+        [
+          "buses",
+          "<code>básis</code>"
+        ],
+        [
+          "likes",
+          "<code>laiks</code>"
+        ],
+        [
+          "watches",
+          "<code>wáchis</code>"
+        ],
+        [
+          "says",
+          "<code>ses</code>"
+        ],
+        [
+          "does",
+          "<code>das</code>"
+        ],
+        [
+          "houses",
+          "<code>jáusis</code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "📚 books → ____",
+          "a": "buks"
+        },
+        {
+          "q": "🚗 cars → ____",
+          "a": "kars (s que zumba)"
+        },
+        {
+          "q": "📦 boxes → ____",
+          "a": "báksis"
+        },
+        {
+          "q": "🍽️ dishes → ____",
+          "a": "díshis"
+        },
+        {
+          "q": "😊 faces → ____",
+          "a": "féisis"
+        },
+        {
+          "q": "🍎 apples → ____",
+          "a": "ǽpəls"
+        },
+        {
+          "q": "👧 girls → ____",
+          "a": "guerls"
+        },
+        {
+          "q": "🌹 roses → ____",
+          "a": "róusis"
+        },
+        {
+          "q": "💬 says → ____",
+          "a": "ses"
+        },
+        {
+          "q": "🤸 does → ____",
+          "a": "das"
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Escribe el plural",
+      "title_en": "Spell the plural",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe el plural. Después dilo: ¿/s/, /z/ o /ɪz/?",
+      "en": "Unscramble and spell the plural, then say it.",
+      "items": [
+        {
+          "q": "🚌 bus",
+          "a": "buses"
+        },
+        {
+          "q": "📦 box",
+          "a": "boxes"
+        },
+        {
+          "q": "⌚ watch",
+          "a": "watches"
+        },
+        {
+          "q": "🔪 knife",
+          "a": "knives"
+        },
+        {
+          "q": "🍂 leaf",
+          "a": "leaves"
+        },
+        {
+          "q": "🏠 house",
+          "a": "houses"
+        },
+        {
+          "q": "👩 woman",
+          "a": "women"
+        },
+        {
+          "q": "🍽️ dish",
+          "a": "dishes"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "The -s in «cats» sounds /s/.",
+          "a": true
+        },
+        {
+          "q": "«Likes» has two syllables.",
+          "a": false,
+          "why": "una: <code>laiks</code>"
+        },
+        {
+          "q": "In «dogs», the S buzzes like a bee.",
+          "a": true
+        },
+        {
+          "q": "«Says» rhymes with «pays».",
+          "a": false,
+          "why": "says = <code>ses</code>; pays = <code>peis</code>"
+        },
+        {
+          "q": "After S, SH or CH, the -s adds a syllable.",
+          "a": true
+        },
+        {
+          "q": "In «houses», the first S sounds /z/.",
+          "a": true
+        },
+        {
+          "q": "«Clothes» often sounds like the verb «close».",
+          "a": true
+        },
+        {
+          "q": "The plural of «woman» sounds «wúmens».",
+          "a": false,
+          "why": "women = <code>wímin</code>"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «Sonido» escribe /s/, /z/ o /ɪz/.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Singular",
+        "Plural",
+        "Suena",
+        "Sonido"
+      ],
+      "rows": [
+        [
+          "cat",
+          "cats",
+          "?kæts",
+          "?/s/"
+        ],
+        [
+          "dog",
+          "?dogs",
+          "dogs",
+          "?/z/"
+        ],
+        [
+          "bus",
+          "buses",
+          "?básis",
+          "/ɪz/"
+        ],
+        [
+          "book",
+          "?books",
+          "?buks",
+          "/s/"
+        ],
+        [
+          "car",
+          "cars",
+          "?kars",
+          "?/z/"
+        ],
+        [
+          "page",
+          "?pages",
+          "péiyis",
+          "?/ɪz/"
+        ],
+        [
+          "knife",
+          "?knives",
+          "?naivs",
+          "/z/"
+        ],
+        [
+          "house",
+          "houses",
+          "?jáusis",
+          "?/ɪz/"
+        ]
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "likes → <code>láikes</code>",
+          "a": "laiks"
+        },
+        {
+          "q": "cats → <code>kǽtes</code>",
+          "a": "kæts"
+        },
+        {
+          "q": "buses → <code>bas</code>",
+          "a": "básis"
+        },
+        {
+          "q": "watches → <code>wachs</code>",
+          "a": "wáchis"
+        },
+        {
+          "q": "says → <code>seis</code>",
+          "a": "ses"
+        },
+        {
+          "q": "does → <code>dous</code>",
+          "a": "das"
+        },
+        {
+          "q": "homes → <code>jóumes</code>",
+          "a": "joums"
+        },
+        {
+          "q": "women → <code>wúmens</code>",
+          "a": "wímin"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Cambia a he / she / it",
+      "title_en": "Change to he / she / it",
+      "icon": "🔄",
+      "es": "Reescribe la frase con la persona que se indica y escribe entre paréntesis cómo suena el verbo.",
+      "en": "Rewrite the sentence and write how the verb sounds.",
+      "items": [
+        {
+          "q": "I play soccer. → She…",
+          "a": "She plays soccer. (pleis)"
+        },
+        {
+          "q": "I watch TV. → He…",
+          "a": "He watches TV. (wáchis)"
+        },
+        {
+          "q": "I work here. → Mike…",
+          "a": "Mike works here. (werks)"
+        },
+        {
+          "q": "I go to school. → Lucía…",
+          "a": "Lucía goes to school. (gous)"
+        },
+        {
+          "q": "I do my homework. → Mario…",
+          "a": "Mario does his homework. (das)"
+        },
+        {
+          "q": "I say hello. → Jenny…",
+          "a": "Jenny says hello. (ses)"
+        },
+        {
+          "q": "I wash the car. → Dad…",
+          "a": "Dad washes the car. (wáshis)"
+        },
+        {
+          "q": "I love pizza. → Rocky…",
+          "a": "Rocky loves pizza. (lavs)"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez. ¡Haz zumbar las abejas! 🐝",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Two cats and two dogs.",
+          "say": "tuu kæts ən tuu dogs"
+        },
+        {
+          "q": "She watches the buses.",
+          "say": "shi wáchis də básis"
+        },
+        {
+          "q": "Mario's shoes are blue.",
+          "say": "márious shuus ar bluu"
+        },
+        {
+          "q": "He says yes.",
+          "say": "ji ses iés"
+        },
+        {
+          "q": "It does! It does!",
+          "say": "it das! it das!"
+        },
+        {
+          "q": "My mom likes roses.",
+          "say": "mai mam laiks róusis"
+        },
+        {
+          "q": "These houses are big.",
+          "say": "diis jáusis ar big"
+        },
+        {
+          "q": "Rocky's toys are in the boxes.",
+          "say": "rákis tois ar in də báksis"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con la -s correcta.",
+      "en": "Translate into English and say it with the right -s.",
+      "items": [
+        {
+          "q": "gatos",
+          "a": "cats (kæts)"
+        },
+        {
+          "q": "perros",
+          "a": "dogs (dogs, s que zumba)"
+        },
+        {
+          "q": "autobuses",
+          "a": "buses (básis)"
+        },
+        {
+          "q": "libros",
+          "a": "books (buks)"
+        },
+        {
+          "q": "relojes",
+          "a": "watches (wáchis)"
+        },
+        {
+          "q": "páginas",
+          "a": "pages (péiyis)"
+        },
+        {
+          "q": "casas",
+          "a": "houses (jáusis)"
+        },
+        {
+          "q": "ella dice",
+          "a": "she says (shi ses)"
+        },
+        {
+          "q": "él hace",
+          "a": "he does (ji das)"
+        },
+        {
+          "q": "el perro de Mario",
+          "a": "Mario's dog (márious dog)"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de eses",
+      "title_en": "S word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Cuando encuentres una, dila: ¿serpiente, abeja o sílaba nueva?",
+      "en": "Find 10 words and say each one.",
+      "words": [
+        "cats",
+        "dogs",
+        "buses",
+        "books",
+        "plays",
+        "watches",
+        "pages",
+        "dishes",
+        "houses",
+        "says"
+      ],
+      "clues": [
+        "cats · gatos",
+        "dogs · perros",
+        "buses · autobuses",
+        "books · libros",
+        "plays · juega",
+        "watches · relojes",
+        "pages · páginas",
+        "dishes · platos",
+        "houses · casas",
+        "says · dice"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y escucha las eses",
+      "title_en": "Read and hear the S",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Jenny's Pets",
+      "text": [
+        "Jenny has two cats and three dogs. The cats sleep in boxes, and the dogs play with Mike's old shoes.",
+        "Every morning, Jenny washes the dishes, brushes the dogs and watches the buses from the window. She says her pets are her best friends."
+      ],
+      "items": [
+        {
+          "q": "How many pets does Jenny have?",
+          "a": "Five: two cats and three dogs. cats = <code>kæts</code>, dogs = <code>dogs</code> 🐝"
+        },
+        {
+          "q": "Find three words in the text with an extra syllable /ɪz/.",
+          "a": "boxes, washes, dishes, brushes, watches, buses (cualquiera)"
+        },
+        {
+          "q": "How does «says» sound?",
+          "a": "<code>ses</code>, no «seis»."
+        },
+        {
+          "q": "The cats sleep in boxes.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «dogs», the S sounds /s/.",
+          "tf": true,
+          "a": false,
+          "why": "suena /z/: zumba 🐝"
+        },
+        {
+          "q": "«Mike's» ends in /s/.",
+          "tf": true,
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas. Léelas en voz alta, grábate y comprueba tus eses.",
+      "en": "Write three sentences, read them aloud and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con dos plurales (cats, dogs, books…).",
+          "lines": 2,
+          "a": "Ej.: I have three books and two pens."
+        },
+        {
+          "q": "Una frase sobre alguien de tu familia con un verbo en -s (works, plays, watches…).",
+          "lines": 2,
+          "a": "Ej.: My dad watches soccer and plays tennis."
+        },
+        {
+          "q": "Una frase con un posesivo 's (Mario's, my mom's…).",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé que la -s final tiene 3 sonidos: /s/ 🐍, /z/ 🐝 e /ɪz/.",
+      "en": "I know final -s has three sounds."
+    },
+    {
+      "es": "Digo <b>cats</b>, <b>books</b> y <b>likes</b> en una sílaba, con s de serpiente.",
+      "en": "I can say cats, books and likes in one syllable."
+    },
+    {
+      "es": "Hago zumbar la s de <b>dogs</b>, <b>plays</b> y <b>Mario's</b>.",
+      "en": "I can make the S buzz in dogs and plays."
+    },
+    {
+      "es": "Añado sílaba tras s, z, sh, ch, j: <code>básis</code>, <code>wáchis</code>.",
+      "en": "I add a syllable after hissing sounds."
+    },
+    {
+      "es": "Digo bien <b>says</b> = <code>ses</code> y <b>does</b> = <code>das</code>.",
+      "en": "I can say says and does correctly."
+    },
+    {
+      "es": "Sé que la e escrita no manda: likes, makes, homes.",
+      "en": "I know the written E is usually silent."
+    }
+  ]
+}

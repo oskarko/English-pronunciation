@@ -1,0 +1,708 @@
+{
+  "id": "V-06",
+  "block": "V",
+  "title": "U LARGA <em>y</em> U CORTA",
+  "file_title": "U larga y U corta (/uː/ y /ʊ/)",
+  "subtitle": "Food or good? · «fuud» o «gud»",
+  "icon": "🌙",
+  "map": {
+    "center": "El inglés tiene <b>dos U</b>: una <b>larga</b> y tensa (food = <code>fuud</code>) y otra <b>corta</b> y floja (good = <code>gud</code>).",
+    "listen": "food",
+    "nodes": [
+      {
+        "title": "U larga /uː/",
+        "icon": "🐄",
+        "color": "green",
+        "rows": [
+          ["food", "<code>fuud</code>"],
+          ["moon", "<code>muun</code>"],
+          ["school", "<code>skuul</code>"]
+        ]
+      },
+      {
+        "title": "U corta /ʊ/",
+        "icon": "📖",
+        "color": "blue",
+        "rows": [
+          ["good", "<code>gud</code>"],
+          ["book", "<code>buk</code>"],
+          ["look", "<code>luk</code>"]
+        ]
+      },
+      {
+        "title": "Así se pone la boca",
+        "icon": "👄",
+        "color": "purple",
+        "items": [
+          "larga: labios en <b>piquito</b>, tensos 😗",
+          "corta: labios <b>flojos</b>, sin piquito",
+          "la corta suena casi entre <b>u</b> y <b>o</b>"
+        ]
+      },
+      {
+        "title": "La U que dice «iu»",
+        "icon": "🦄",
+        "color": "orange",
+        "rows": [
+          ["music", "<code>miúsik</code>"],
+          ["cute", "<code>kiut</code>"],
+          ["menu", "<code>méniu</code>"]
+        ]
+      },
+      {
+        "title": "OO: ¡tres sonidos!",
+        "icon": "🍔",
+        "color": "pink",
+        "rows": [
+          ["food", "<code>fuud</code> (larga)"],
+          ["good", "<code>gud</code> (corta)"],
+          ["blood", "<code>blad</code> (V-04)"]
+        ]
+      },
+      {
+        "title": "Ancla española",
+        "icon": "⚓",
+        "color": "yellow",
+        "rows": [
+          ["cookie", "<code>kúki</code> · ¡<b>cuqui</b>!"],
+          ["foot", "<code>fut</code> · <b>fút</b>bol ⚽"],
+          ["two", "<code>tuu</code> · <b>tú</b>"]
+        ],
+        "art": "🍪"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["<code>luuk</code> para look"],
+      "good": ["<code>luk</code> 👀"],
+      "note": "Si alargas la u, «Look!» (¡Mira!) suena a «Luke!» (¡Lucas!)."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "🍔 food → ____", "a": "fuud" },
+        { "q": "👍 good → ____", "a": "gud" },
+        { "q": "🏊 pool → ____", "a": "puul" },
+        { "q": "📖 book → ____", "a": "buk" },
+        { "q": "🎵 music → ____", "a": "miúsik" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Dos U?",
+      "title_en": "Two U sounds?",
+      "icon": "🔎",
+      "es": "En español solo hay una u. En inglés hay <b>dos</b>, y cambiar una por otra cambia la palabra. La <b>U larga</b> /uː/ es como nuestra u, pero más larga y con los labios en piquito: food = <code>fuud</code>. La <b>U corta</b> /ʊ/ es rápida y perezosa, con la boca floja, casi entre u y o: good = <code>gud</code>. <mark>Pool (piscina) y pull (tirar) solo se diferencian en eso.</mark>",
+      "en": "English has two U sounds: long, tense /uː/ (food) and short, relaxed /ʊ/ (good). Pool and pull differ only in this vowel.",
+      "formula": ["*uu* larga y tensa → f*uu*d", "*u* corta y floja → g*u*d"]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "lips",
+          "es": "<b>/uː/</b>: labios redondos y <b>adelantados</b>, como para dar un besito 😗. <b>/ʊ/</b>: labios <b>poco redondeados</b> y flojos.",
+          "en": "/uː/: round lips pushed forward. /ʊ/: lips only a little rounded and relaxed."
+        },
+        {
+          "part": "tongue",
+          "es": "<b>/uː/</b>: la parte de atrás de la lengua sube mucho. <b>/ʊ/</b>: la lengua baja un poquito y se relaja hacia el centro.",
+          "en": "/uː/: the back of the tongue is high. /ʊ/: it's a bit lower and more central."
+        },
+        {
+          "part": "jaw",
+          "es": "Para /ʊ/ la boca se abre <b>un pelín más</b> que para /uː/. Por eso suena casi entre u y o.",
+          "en": "For /ʊ/ the mouth is slightly more open, so it sounds between u and o."
+        },
+        {
+          "part": "ear",
+          "es": "<b>/uː/</b> dura más: cuenta «uuu». <b>/ʊ/</b> es un golpe cortito, como el «¡uh!» de duda.",
+          "en": "/uː/ is long; /ʊ/ is short, like a quick «uh»."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · La U larga /uː/",
+      "title_en": "Long /uː/",
+      "icon": "🐄",
+      "es": "Es la u de la vaca: «muuu». Labios en piquito, tensa y <b>larga</b>. Se escribe de muchas formas: <b>OO</b> (food, moon, school), <b>U-E</b> (rule, June), <b>UE</b> (blue, true), <b>EW</b> (new, flew), <b>UI</b> (fruit, juice) y hasta con <b>O</b> (do, who, move) u <b>OU</b> (soup, group).",
+      "en": "Long /uː/ is tense, with rounded lips: food, moon, blue, new, fruit, do, soup.",
+      "examples": [
+        { "en": "food", "say": "fuud", "es": "comida", "icon": "🍔" },
+        { "en": "moon", "say": "muun", "es": "luna", "icon": "🌙" },
+        { "en": "school", "say": "skuul", "es": "colegio", "icon": "🏫" },
+        { "en": "blue", "say": "bluu", "es": "azul", "icon": "💙" },
+        { "en": "fruit", "say": "fruut", "es": "fruta", "icon": "🍎" },
+        { "en": "soup", "say": "suup", "es": "sopa", "icon": "🍲" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · La U corta /ʊ/",
+      "title_en": "Short /ʊ/",
+      "icon": "📖",
+      "es": "Es una u <b>rápida y floja</b>, sin piquito, que suena casi entre u y o. Aparece sobre todo en <b>OO + K</b> (book, look, cook), en <b>good</b>, <b>foot</b> y <b>wood</b>, en la <b>U</b> de put, push, pull, full o sugar y en <b>OULD</b>: could, would, should (¡con la L muda!).",
+      "en": "Short /ʊ/ is quick and relaxed: book, look, good, foot, put, push, full, could, would, should.",
+      "examples": [
+        { "en": "book", "say": "buk", "es": "libro", "icon": "📖" },
+        { "en": "good", "say": "gud", "es": "bueno", "icon": "👍" },
+        { "en": "foot", "say": "fut", "es": "pie", "icon": "🦶" },
+        { "en": "push", "say": "push", "es": "empujar", "icon": "👐" },
+        { "en": "full", "say": "ful", "es": "lleno", "icon": "🍽️" },
+        { "en": "could", "say": "kud", "es": "podría / pude", "icon": "🤔" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · La U que dice su nombre",
+      "title_en": "When U says its name",
+      "icon": "🦄",
+      "es": "A veces la U se pronuncia <b>como la letra U en inglés</b>: «iu». Pasa casi siempre cuando la palabra <b>empieza por U</b> seguida de consonante y vocal (<b>u</b>niversity, <b>u</b>nicorn, <b>u</b>se) y en palabras como music, cute, menu, few o beautiful. La escribimos <code>iu</code>, como en «v<b>iu</b>da». Ojo: up, under y umbrella empiezan por /ʌ/ (V-04).",
+      "en": "Sometimes U says its name, /juː/: use, music, cute, menu, few, beautiful.",
+      "examples": [
+        { "en": "music", "say": "miúsik", "es": "música", "icon": "🎵" },
+        { "en": "cute", "say": "kiut", "es": "mono, cuqui", "icon": "🐣" },
+        { "en": "menu", "say": "méniu", "es": "menú, carta", "icon": "📋" },
+        { "en": "university", "say": "iunivérsəri", "es": "universidad", "icon": "🎓" },
+        { "en": "unicorn", "say": "iúnikorn", "es": "unicornio", "icon": "🦄" },
+        { "en": "beautiful", "say": "biúrəfəl", "es": "precioso", "icon": "🌅" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · En americano, new = «nuu»",
+      "title_en": "American «new» has no «y»",
+      "icon": "🇺🇸",
+      "es": "Después de <b>T, D, N, S</b> y <b>L</b>, los americanos <b>se comen la «i»</b> de la «iu»: new = <code>nuu</code> (no «niu»), Tuesday = <code>túusdei</code>, student = <code>stúudənt</code>. Los británicos suelen decir «niu» o «tiúsdei». Es un detalle pequeño que te hace sonar <mark>muy americano</mark>.",
+      "en": "After T, D, N, S and L, Americans usually drop the «y» sound: new = «nuu», Tuesday = «túusdei», student = «stúudənt».",
+      "examples": [
+        { "en": "new", "say": "nuu", "es": "nuevo", "icon": "🆕" },
+        { "en": "news", "say": "nuus", "es": "noticias", "icon": "📰" },
+        { "en": "Tuesday", "say": "túusdei", "es": "martes", "icon": "📅" },
+        { "en": "student", "say": "stúudənt", "es": "estudiante", "icon": "🎒" },
+        { "en": "tune", "say": "tuun", "es": "melodía", "icon": "🎶" },
+        { "en": "suit", "say": "suut", "es": "traje", "icon": "🤵" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · OO: ¡tres sonidos!",
+      "title_en": "OO has three sounds",
+      "icon": "🍔",
+      "es": "La pareja <b>OO</b> es la más traviesa: casi siempre es <b>larga</b> (food, moon, pool), a veces <b>corta</b> (good, book, foot, wood) y en dos palabras sueltas suena /ʌ/, como en cup: <b>blood</b> y <b>flood</b> (V-04). Truco: <mark>OO + K casi siempre es corta</mark> (book, look, cook, took). Ante la duda, ¡escanea el QR! (P-06)",
+      "en": "OO is usually long (food), sometimes short (good, book) and in blood and flood it sounds /ʌ/. OO + K is almost always short.",
+      "formula": ["*OO* → uu (food) · u (good) · a (blood)"],
+      "examples": [
+        { "en": "food", "say": "fuud", "es": "comida", "icon": "🍔" },
+        { "en": "good", "say": "gud", "es": "bueno", "icon": "👍" },
+        { "en": "blood", "say": "blad", "es": "sangre", "icon": "🩸" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "food", "ipa": "fuːd", "say": "fuud", "es": "comida", "icon": "🍔", "anchor": "¡<b>fuuu</b>! 🌬️", "tip": "Soplas la sopa caliente, «fuuu»… y añades una d: food." },
+        { "en": "two", "ipa": "tuː", "say": "tuu", "es": "dos", "icon": "✌️", "anchor": "<b>tú</b> 👉", "tip": "Di «tú» y alárgalo: tuuu. ¡To y too suenan igual!" },
+        { "en": "blue", "ipa": "bluː", "say": "bluu", "es": "azul", "icon": "💙", "anchor": "<b>blu</b>sa 👚", "tip": "Una blusa blue. Alarga la u: bluuu." },
+        { "en": "true", "ipa": "truː", "say": "truu", "es": "verdad", "icon": "✅", "anchor": "<b>tru</b>co 🎩", "tip": "¿Es un truco o es true? Con r americana (C-01) y u larga." },
+        { "en": "moon", "ipa": "muːn", "say": "muun", "es": "luna", "icon": "🌙", "anchor": "la vaca: «<b>muuu</b>» 🐄", "tip": "Una vaca mirando la luna: muuu + n = moon." },
+        { "en": "who", "ipa": "huː", "say": "juu", "es": "quién", "icon": "❓", "anchor": "<b>ju</b>do 🥋", "tip": "Con j suave, como el vaho (C-06), y u larga: juu." },
+        { "en": "pool", "ipa": "puːl", "say": "puul", "es": "piscina", "icon": "🏊", "anchor": "<b>pul</b>po 🐙", "tip": "Un pulpo en la piscina. ¡Alarga: puuul! Si no, dices pull (tirar)." },
+        { "en": "Luke", "ipa": "luːk", "say": "luuk", "es": "Lucas", "icon": "🌌", "anchor": "<b>Luc</b>as 🌌", "tip": "Luke es «Lucas» en inglés. U larga: luuuk." },
+        { "en": "look", "ipa": "lʊk", "say": "luk", "es": "mirar", "icon": "👀", "anchor": "<b>lu</b>pa 🔍", "tip": "Mira con la lupa: look! U cortita y floja: luk." },
+        { "en": "good", "ipa": "ɡʊd", "say": "gud", "es": "bueno", "icon": "👍", "anchor": "a<b>gud</b>o", "tip": "Di «agudo» y quédate con el centro: gud. ¡Rapidito y sin piquito!" },
+        { "en": "book", "ipa": "bʊk", "say": "buk", "es": "libro", "icon": "📖", "anchor": "<b>buq</b>ue 🚢", "tip": "Un libro en un buque: book. U corta y relajada." },
+        { "en": "foot", "ipa": "fʊt", "say": "fut", "es": "pie", "icon": "🦶", "anchor": "<b>fút</b>bol ⚽", "tip": "Football es «pie + balón». Foot = fut, cortito." },
+        { "en": "cookie", "ipa": "ˈkʊki", "say": "kúki", "es": "galleta", "icon": "🍪", "anchor": "¡<b>cuqui</b>! 🥰", "tip": "Una galleta muy cuqui. KÚ-ki, con la u floja." },
+        { "en": "cook", "ipa": "kʊk", "say": "kuk", "es": "cocinar / cocinero", "icon": "👩‍🍳", "anchor": "<b>cuc</b>o 🐦", "tip": "Un reloj de cuco… ¡que cocina! Cook = kuk, u corta." },
+        { "en": "few", "ipa": "fjuː", "say": "fiu", "es": "pocos", "icon": "🤏", "anchor": "¡<b>fiu</b>! 😅", "tip": "El «¡fiu!» de alivio. A few = <code>əfiú</code>, unos pocos." },
+        { "en": "menu", "ipa": "ˈmɛnjuː", "say": "méniu", "es": "menú, carta", "icon": "📋", "anchor": "<s>me-NÚ</s> → <b>MÉ</b>niu", "tip": "Golpe al principio y la u dice «iu»: MÉ-niu." }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "food", "es": "comida" },
+        { "q": "good", "es": "bueno" },
+        { "q": "pool", "es": "piscina" },
+        { "q": "pull", "es": "tirar" },
+        { "q": "music", "es": "música" },
+        { "q": "Tuesday", "es": "martes" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Larga, corta o «iu»?",
+      "title_en": "Long, short or /juː/?",
+      "icon": "🧭",
+      "head": ["Letras · Letters", "Sonido", "Ejemplos", "Suena"],
+      "rows": [
+        ["OO", "/uː/ (casi siempre)", "food, moon, pool, school", "<code>fuud</code>, <code>muun</code>"],
+        ["OO + K · good, foot, wood", "/ʊ/", "book, look, cook, good", "<code>buk</code>, <code>gud</code>"],
+        ["U-E · UE · UI", "/uː/", "rule, blue, true, fruit", "<code>ruul</code>, <code>bluu</code>"],
+        ["EW", "/uː/ o /juː/", "new, flew · few, view", "<code>nuu</code>, <code>fiu</code>"],
+        ["O · OU", "/uː/", "do, who, move, soup", "<code>duu</code>, <code>suup</code>"],
+        ["U en put, push, full…", "/ʊ/", "put, push, full, sugar", "<code>put</code>, <code>shúguer</code>"],
+        ["OULD", "/ʊ/", "could, would, should", "<code>kud</code>, <code>wud</code>"],
+        ["U al empezar · U-E", "/juː/", "use, unicorn, cute, music", "<code>ius</code>, <code>kiut</code>"]
+      ],
+      "note": "Después de <b>T, D, N, S, L</b>, el americano dice <code>uu</code> sin «i»: new = <code>nuu</code>, Tuesday = <code>túusdei</code>. Y la OO de <b>blood</b> y <b>flood</b> es /ʌ/ (V-04).",
+      "note_en": "After T, D, N, S, L, Americans say /uː/ without a «y»: new, Tuesday. Blood and flood have /ʌ/."
+    },
+    {
+      "t": "stress",
+      "title": "Golpe en la U larga",
+      "title_en": "Stress on long U",
+      "icon": "🥁",
+      "es": "Muchas palabras que acaban en <b>-OO</b> u <b>-OON</b> llevan el golpe (●) <b>al final</b>, justo en la U larga (R-02). Las de «iu» suelen llevarlo al principio.",
+      "en": "Words ending in -oo or -oon are usually stressed at the end.",
+      "items": [
+        { "syl": ["bal", "loon"], "s": 1, "say": "bəlúun", "es": "globo", "icon": "🎈" },
+        { "syl": ["sham", "poo"], "s": 1, "say": "shæmpúu", "es": "champú", "icon": "🧴" },
+        { "syl": ["car", "toon"], "s": 1, "say": "kartúun", "es": "dibujos animados", "icon": "📺" },
+        { "syl": ["kan", "ga", "roo"], "s": 2, "say": "kængərúu", "es": "canguro", "icon": "🦘" },
+        { "syl": ["af", "ter", "noon"], "s": 2, "say": "æfternúun", "es": "tarde", "icon": "🌇" },
+        { "syl": ["tat", "too"], "s": 1, "say": "tætúu", "es": "tatuaje", "icon": "🐉" },
+        { "syl": ["mu", "sic"], "s": 0, "say": "miúsik", "es": "música", "icon": "🎵" },
+        { "syl": ["u", "ni", "corn"], "s": 0, "say": "iúnikorn", "es": "unicornio", "icon": "🦄" }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "¿Larga o corta?",
+      "title_en": "Long or short?",
+      "icon": "👂",
+      "items": [
+        {
+          "a": { "en": "pool", "ipa": "puːl", "say": "puul", "es": "piscina", "icon": "🏊" },
+          "b": { "en": "pull", "ipa": "pʊl", "say": "pul", "es": "tirar", "icon": "💪" },
+          "tip": "En la puerta pone PULL: ¡tira! No te tires a la piscina. 😄"
+        },
+        {
+          "a": { "en": "fool", "ipa": "fuːl", "say": "fuul", "es": "tonto", "icon": "🤪" },
+          "b": { "en": "full", "ipa": "fʊl", "say": "ful", "es": "lleno", "icon": "🍽️" },
+          "tip": "I'm full! (¡Estoy lleno!) va con u corta. Con u larga, suena a fool."
+        },
+        {
+          "a": { "en": "Luke", "ipa": "luːk", "say": "luuk", "es": "Lucas", "icon": "🌌" },
+          "b": { "en": "look", "ipa": "lʊk", "say": "luk", "es": "mirar", "icon": "👀" },
+          "tip": "Luke, look! = <code>lúuk, lúk!</code> ¡Lucas, mira!"
+        },
+        {
+          "a": { "en": "suit", "ipa": "suːt", "say": "suut", "es": "traje", "icon": "🤵" },
+          "b": { "en": "soot", "ipa": "sʊt", "say": "sut", "es": "hollín", "icon": "🏭" },
+          "tip": "Un traje (suit) manchado de hollín (soot). ¡A la lavadora!"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Británico vs. americano",
+      "title_en": "British vs. American",
+      "icon": "🌍",
+      "es": "Tras T, D, N y S, el británico mete una «i» delante de la u. El americano, no.",
+      "en": "After T, D, N and S, British English adds a «y» sound. American English doesn't.",
+      "cols": [
+        {
+          "head": "🇬🇧 Reino Unido",
+          "color": "blue",
+          "items": [
+            "new → <code>niu</code>",
+            "Tuesday → <code>tiúsdei</code>",
+            "student → <code>stiúdənt</code>",
+            "tune → <code>tiun</code>"
+          ]
+        },
+        {
+          "head": "🇺🇸 Estados Unidos",
+          "color": "red",
+          "items": [
+            "new → <code>nuu</code>",
+            "Tuesday → <code>túusdei</code>",
+            "student → <code>stúudənt</code>",
+            "tune → <code>tuun</code>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "Good to see you!", "spoken": "Good-da see ya!", "say": "gúrə síi iu!", "es": "¡Me alegro de verte!" },
+        { "written": "Look at it!", "spoken": "Looka-dit!", "say": "lúkərit!", "es": "¡Míralo!" },
+        { "written": "Who are you?", "spoken": "Who-wer you?", "say": "júu ər iu?", "es": "¿Quién eres?" },
+        { "written": "Pull it!", "spoken": "Pull-it!", "say": "púlit!", "es": "¡Tira de ello!" },
+        { "written": "Too cool!", "spoken": "Tooo coool!", "say": "tuu kúul!", "es": "¡Superguay!" },
+        { "written": "You look good!", "spoken": "Ya look good!", "say": "iu luk gúd!", "es": "¡Qué bien estás!" }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "I love this food!", "say": "ai láv dis fúud!", "es": "¡Me encanta esta comida!", "icon": "🍔" },
+        { "en": "Look! A good book!", "say": "lúk! ə gud búk!", "es": "¡Mira! ¡Un buen libro!", "icon": "📖" },
+        { "en": "Let's go to the pool.", "say": "lets góu tə də púul", "es": "Vamos a la piscina.", "icon": "🏊" },
+        { "en": "Pull the door, don't push it.", "say": "púl də dór, dóunt púshit", "es": "Tira de la puerta, no la empujes.", "icon": "🚪" },
+        { "en": "I'm full. No more cookies, please!", "say": "aim fúl. nóu mór kúkis, pliis!", "es": "Estoy lleno. ¡No más galletas, por favor!", "icon": "🍪" },
+        { "en": "Who took my blue shoes?", "say": "júu tuk mai blúu shúus?", "es": "¿Quién se ha llevado mis zapatos azules?", "icon": "👟" },
+        { "en": "Mom can cook a good soup.", "say": "mam kən kúk ə gud súup", "es": "Mamá sabe hacer una sopa buenísima.", "icon": "🍲" },
+        { "en": "The moon is full tonight.", "say": "də múun is fúl tənáit", "es": "Esta noche hay luna llena.", "icon": "🌕" },
+        { "en": "Mario put his foot in the pool!", "say": "mário pút jis fút in də púul!", "es": "¡Mario ha metido el pie en la piscina!", "icon": "🦶" },
+        { "en": "I like music and cute unicorns.", "say": "ai láik miúsik ən kiút iúnikorns", "es": "Me gustan la música y los unicornios monos.", "icon": "🦄" },
+        { "en": "See you on Tuesday at school!", "say": "síi iu an túusdei ət skúul!", "es": "¡Nos vemos el martes en el cole!", "icon": "🏫" },
+        { "en": "It's a beautiful afternoon.", "say": "its ə biúrəfəl æfternúun", "es": "Hace una tarde preciosa.", "icon": "🌇" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "look → <code>luuk</code>", "good": "<code>luk</code>", "why": "Con u larga dices Luke (Lucas). ¡Cortita y floja!", "why_en": "A long u turns look into Luke." },
+        { "bad": "pool → <code>pul</code>", "good": "<code>puul</code>", "why": "Con u corta dices pull (tirar). Alárgala y pon piquito.", "why_en": "A short u turns pool into pull." },
+        { "bad": "music → <code>músik</code>", "good": "<code>miúsik</code>", "why": "La U dice su nombre: «iu». Y la S suena /z/ (C-08).", "why_en": "U says its name here: /juː/." },
+        { "bad": "new → <code>niu</code>", "good": "<code>nuu</code>", "why": "Así lo dice un británico. En EE. UU., sin i.", "why_en": "That's British. Americans say /nuː/." },
+        { "bad": "would → <code>wuld</code>", "good": "<code>wud</code>", "why": "La L de would, could y should es muda (C-15).", "why_en": "The L in would, could, should is silent." },
+        { "bad": "blood → <code>bluud</code>", "good": "<code>blad</code>", "why": "Esta OO es rebelde: suena /ʌ/, como en cup (V-04).", "why_en": "This OO sounds /ʌ/, like in cup." },
+        { "bad": "menu → <code>menú</code>", "good": "<code>méniu</code>", "why": "El golpe va al principio y la u suena «iu».", "why_en": "Stress the first syllable: MEN-yoo." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¿Vamos a la piscina?",
+      "title_en": "Pool day",
+      "lines": [
+        { "who": "Ashley", "en": "Hi Mario! Do you want to go to the pool?", "say": "jái mário! du iu wánt tə góu tə də púul?", "es": "¡Hola, Mario! ¿Quieres ir a la piscina?" },
+        { "who": "Mario", "en": "Sorry, I'm reading a good book.", "say": "sári, aim ríiring ə gud búk", "es": "Lo siento, estoy leyendo un libro muy bueno." },
+        { "who": "Ashley", "en": "Look, it's a cool day! You can read at the pool.", "say": "lúk, its ə kúul déi! iu kən ríid ət də púul", "es": "¡Mira qué día tan bueno! Puedes leer en la piscina." },
+        { "who": "Mario", "en": "Good idea! Should I bring some food?", "say": "gúd aidíə! shud ai bríng səm fúud?", "es": "¡Buena idea! ¿Llevo algo de comida?" },
+        { "who": "Ashley", "en": "Yes! Cookies and fruit juice.", "say": "iés! kúkis ən frúut yúus", "es": "¡Sí! Galletas y zumo de fruta." },
+        { "who": "Mario", "en": "Cool! I'll put on my new blue swimsuit.", "say": "kúul! ail purán mai núu blúu swímsuut", "es": "¡Genial! Me pongo mi bañador azul nuevo." },
+        { "who": "Ashley", "en": "Hurry up! Pull the door and let's go!", "say": "jériáp! púl də dór ən lets góu!", "es": "¡Date prisa! ¡Tira de la puerta y vámonos!" },
+        { "who": "Mario", "en": "Wait! It says PUSH!", "say": "wéit! it ses púsh!", "es": "¡Espera! ¡Pone EMPUJAR!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        { "es": "Di la u española y <b>alárgala</b> con los labios en piquito: «uuu». Esa es la /uː/ de food.", "en": "Say a long Spanish u with rounded lips: that's /uː/." },
+        { "es": "Ahora afloja los labios, abre un pelín la boca y di una u muy corta. Esa es la /ʊ/ de good.", "en": "Relax your lips and say a very short u: that's /ʊ/." },
+        { "es": "Alterna las dos: <code>puul</code> – <code>pul</code>, <code>fuul</code> – <code>ful</code>, <code>luuk</code> – <code>luk</code>.", "en": "Alternate: pool – pull, fool – full, Luke – look." },
+        { "es": "Practica la «iu»: you, music, cute, menu, beautiful.", "en": "Practice /juː/: you, music, cute, menu, beautiful." },
+        { "es": "Escanea los QR, escucha y <b>grábate</b> diciendo «Look at the moon!».", "en": "Scan the QR codes and record yourself." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "A good cook took a look at a good book.", "say": "ə gud kúk tuk ə lúk ət ə gud búk", "es": "Un buen cocinero echó un vistazo a un buen libro." },
+        { "en": "Who knew the new moon was blue?", "say": "júu núu də núu múun wəs blúu?", "es": "¿Quién sabía que la luna nueva era azul?" },
+        { "en": "Look, Luke! A fool in a full pool!", "say": "lúk, lúuk! ə fúul in ə fúl púul!", "es": "¡Mira, Lucas! ¡Un tonto en una piscina llena!" }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "La vaca y el libro",
+      "title_en": "The cow and the book",
+      "es": "¿Dudas? Piensa en dos dibujos: una <b>vaca</b> que le dice «muuu» a la <b>luna</b> (moon: larga y en piquito 🐄🌙) y un niño que <b>lee un libro</b> rapidito (book: corta y floja 📖). Y si la U dice su nombre, como en <b>music</b>, ¡di «iu»!",
+      "en": "Think of a cow mooing at the moon (long /uː/) and a kid quickly reading a book (short /ʊ/)."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Larga o corta?",
+      "title_en": "Long or short?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea cómo suena la U: <b>uu</b> (larga) o <b>u</b> (corta).",
+      "en": "Say the word and circle long (uu) or short (u).",
+      "items": [
+        { "q": "food → [uu|u]", "a": "uu" },
+        { "q": "good → [uu|u]", "a": "u" },
+        { "q": "moon → [uu|u]", "a": "uu" },
+        { "q": "book → [uu|u]", "a": "u" },
+        { "q": "school → [uu|u]", "a": "uu" },
+        { "q": "foot → [uu|u]", "a": "u" },
+        { "q": "blue → [uu|u]", "a": "uu" },
+        { "q": "put → [uu|u]", "a": "u" },
+        { "q": "two → [uu|u]", "a": "uu" },
+        { "q": "cook → [uu|u]", "a": "u" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        { "name": "🌙 /uː/ larga", "words": ["moon", "school", "blue", "true", "soup", "who"] },
+        { "name": "📖 /ʊ/ corta", "words": ["book", "look", "foot", "push", "could", "sugar"] },
+        { "name": "🎵 /juː/ «iu»", "words": ["music", "cute", "menu", "use", "few", "unicorn"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["food", "<code>fuud</code>"],
+        ["good", "<code>gud</code>"],
+        ["pool", "<code>puul</code>"],
+        ["pull", "<code>pul</code>"],
+        ["music", "<code>miúsik</code>"],
+        ["Tuesday", "<code>túusdei</code>"],
+        ["cookie", "<code>kúki</code>"],
+        ["beautiful", "<code>biúrəfəl</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada: <b>uu</b> para la larga, <b>u</b> para la corta e <b>iu</b> cuando la U dice su nombre. Pon tilde en la sílaba fuerte.",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        { "q": "🌙 moon → ____", "a": "muun" },
+        { "q": "👀 look → ____", "a": "luk" },
+        { "q": "🦶 foot → ____", "a": "fut" },
+        { "q": "🏫 school → ____", "a": "skuul" },
+        { "q": "💙 blue → ____", "a": "bluu" },
+        { "q": "🍪 cookie → ____", "a": "kúki" },
+        { "q": "🍲 soup → ____", "a": "suup" },
+        { "q": "🐣 cute → ____", "a": "kiut" },
+        { "q": "📰 news → ____", "a": "nuus" },
+        { "q": "🍬 sugar → ____", "a": "shúguer" }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Pista: las que acaban en -oo y -oon llevan el golpe al final.",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        { "syl": ["bal", "loon"], "s": 1, "es": "globo" },
+        { "syl": ["sham", "poo"], "s": 1, "es": "champú" },
+        { "syl": ["car", "toon"], "s": 1, "es": "dibujos animados" },
+        { "syl": ["kan", "ga", "roo"], "s": 2, "es": "canguro" },
+        { "syl": ["af", "ter", "noon"], "s": 2, "es": "tarde" },
+        { "syl": ["Tues", "day"], "s": 0, "es": "martes" },
+        { "syl": ["mu", "sic"], "s": 0, "es": "música" },
+        { "syl": ["u", "ni", "corn"], "s": 0, "es": "unicornio" },
+        { "syl": ["com", "pu", "ter"], "s": 1, "es": "ordenador" },
+        { "syl": ["beau", "ti", "ful"], "s": 0, "es": "precioso" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "«Pool» and «pull» sound the same.", "a": false, "why": "puul / pul" },
+        { "q": "The OO in «book» is short.", "a": true },
+        { "q": "In «music», the U sounds like «iu».", "a": true },
+        { "q": "Americans usually say «new» like «niu».", "a": false, "why": "nuu (niu es británico)" },
+        { "q": "The L in «could» is silent.", "a": true },
+        { "q": "The OO in «blood» sounds like the OO in «food».", "a": false, "why": "blood = blad (V-04)" },
+        { "q": "For /uː/, your lips are round and pushed forward.", "a": true },
+        { "q": "«Luke» and «look» sound the same.", "a": false, "why": "luuk / luk" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Cuál suena distinto?",
+      "title_en": "Odd one out",
+      "icon": "👂",
+      "es": "Di las tres palabras en voz alta y rodea la que tiene un sonido de U diferente.",
+      "en": "Say the three words and circle the odd one out.",
+      "items": [
+        { "q": "[food|moon|good]", "a": "good" },
+        { "q": "[book|cook|pool]", "a": "pool" },
+        { "q": "[blue|true|put]", "a": "put" },
+        { "q": "[foot|school|soon]", "a": "foot" },
+        { "q": "[music|cute|cut]", "a": "cut" },
+        { "q": "[could|would|cool]", "a": "cool" },
+        { "q": "[new|news|look]", "a": "look" },
+        { "q": "[blood|food|moon]", "a": "blood" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pega las palabras",
+      "title_en": "Link the words",
+      "icon": "🔗",
+      "es": "Escribe cómo suena la frase entera, pegando las palabras como un americano.",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        { "q": "Look at it!", "a": "lúkərit" },
+        { "q": "Good to see you!", "a": "gúrə síi iu" },
+        { "q": "Pull it!", "a": "púlit" },
+        { "q": "Push it!", "a": "púshit" },
+        { "q": "a few", "a": "əfiú" },
+        { "q": "Who are you?", "a": "júu ər iu?" },
+        { "q": "Too cool!", "a": "tuu kúul!" },
+        { "q": "You look good!", "a": "iu luk gúd!" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "look → <code>luuk</code>", "a": "luk" },
+        { "q": "pool → <code>pul</code>", "a": "puul" },
+        { "q": "music → <code>músik</code>", "a": "miúsik" },
+        { "q": "new → <code>niu</code>", "a": "nuu" },
+        { "q": "would → <code>wuld</code>", "a": "wud" },
+        { "q": "blood → <code>bluud</code>", "a": "blad" },
+        { "q": "menu → <code>menú</code>", "a": "méniu" },
+        { "q": "school → <code>eskúl</code>", "a": "skuul" },
+        { "q": "cookie → <code>kúuki</code>", "a": "kúki" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "Good food!", "say": "gud fúud!" },
+        { "q": "Look at the moon!", "say": "lúkət də múun!" },
+        { "q": "Who took my book?", "say": "júu tuk mai búk?" },
+        { "q": "Pull, don't push!", "say": "púl, dóunt púsh!" },
+        { "q": "A cute blue unicorn.", "say": "ə kiút blúu iúnikorn" },
+        { "q": "I'm full!", "say": "aim fúl!" },
+        { "q": "See you at school on Tuesday.", "say": "síi iu ət skúul an túusdei" },
+        { "q": "Beautiful music!", "say": "biúrəfəl miúsik!" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta: ¿U larga o corta?",
+      "en": "Translate into English and say it.",
+      "items": [
+        { "q": "comida", "a": "food (fuud)" },
+        { "q": "bueno", "a": "good (gud)" },
+        { "q": "libro", "a": "book (buk)" },
+        { "q": "luna", "a": "moon (muun)" },
+        { "q": "pie", "a": "foot (fut)" },
+        { "q": "piscina", "a": "pool (puul)" },
+        { "q": "tirar (de algo)", "a": "pull (pul)" },
+        { "q": "lleno", "a": "full (ful)" },
+        { "q": "música", "a": "music (miúsik)" },
+        { "q": "martes", "a": "Tuesday (túusdei)" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En la última columna escribe <b>larga</b>, <b>corta</b> o <b>iu</b>.",
+      "en": "Fill in the gaps: long, short or /juː/.",
+      "head": ["Inglés", "Español", "Suena", "U"],
+      "rows": [
+        ["food", "comida", "?fuud", "?larga"],
+        ["?good", "bueno", "gud", "corta"],
+        ["book", "?libro", "?buk", "corta"],
+        ["?moon", "luna", "muun", "?larga"],
+        ["music", "?música", "miúsik", "?iu"],
+        ["pull", "tirar", "?pul", "?corta"],
+        ["?school", "colegio", "skuul", "larga"],
+        ["cute", "?mono", "?kiut", "iu"]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de úes",
+      "title_en": "U word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Dila en voz alta y decide: ¿U larga o corta?",
+      "en": "Find 10 words and say them: long or short U?",
+      "words": ["food", "moon", "pool", "school", "blue", "book", "good", "foot", "cook", "music"],
+      "clues": ["food · comida", "moon · luna", "pool · piscina", "school · colegio", "blue · azul", "book · libro", "good · bueno", "foot · pie", "cook · cocinar", "music · música"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las úes",
+      "title_en": "Read and find the U sounds",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Luke's New Book",
+      "text": [
+        "Luke is a cute boy from Utah. Every Tuesday he goes to the school pool with his friend Ruth.",
+        "After the pool, they look for a good book and eat some cookies. “Look, Luke! This book is about the moon!” says Ruth. Luke took the book and said: “Cool! It's beautiful!”"
+      ],
+      "items": [
+        { "q": "When does Luke go to the pool?", "a": "On Tuesday: <code>túusdei</code>." },
+        { "q": "Find three words with a long /uː/.", "a": "Luke, Tuesday, school, pool, Ruth, moon, cool (cualquiera)." },
+        { "q": "Find two words with a short /ʊ/.", "a": "look, good, book, cookies, took." },
+        { "q": "Luke is from Utah.", "tf": true, "a": true },
+        { "q": "The book is about the sun.", "tf": true, "a": false, "why": "is about the moon" },
+        { "q": "In «cute» and «Utah», the U sounds «iu».", "tf": true, "a": true }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con palabras de este mapa. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with words from this map and record yourself.",
+      "items": [
+        { "q": "Una frase con food, school o pool.", "lines": 2, "a": "Ej.: The food at school is good." },
+        { "q": "Una frase con look, book o cook.", "lines": 2, "a": "Ej.: Look at my new book!" },
+        { "q": "Una frase con music, cute o beautiful.", "lines": 2 }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé decir la U larga de <b>food</b> y <b>moon</b> con los labios en piquito: <code>fuud</code>, <code>muun</code>.", "en": "I can say a long /uː/ in food and moon." },
+    { "es": "Sé decir la U corta y floja de <b>good</b> y <b>book</b>: <code>gud</code>, <code>buk</code>.", "en": "I can say a short /ʊ/ in good and book." },
+    { "es": "Distingo pool de pull, fool de full y Luke de look.", "en": "I can tell pool from pull, fool from full and Luke from look." },
+    { "es": "Sé cuándo la U dice «iu»: music, cute, menu, unicorn.", "en": "I know when U sounds /juː/." },
+    { "es": "Digo new y Tuesday a la americana: <code>nuu</code>, <code>túusdei</code>.", "en": "I say new and Tuesday the American way." },
+    { "es": "Puedo leer el trabalenguas del buen cocinero sin trabarme.", "en": "I can say the good cook tongue twister." }
+  ]
+}

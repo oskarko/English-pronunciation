@@ -1,0 +1,1932 @@
+{
+  "id": "C-09",
+  "block": "C",
+  "title": "SH, CH, J <em>y</em> ZH",
+  "file_title": "SH, CH, J y ZH",
+  "subtitle": "She, cheese, job & vision · the «shhh» family",
+  "icon": "🤫",
+  "map": {
+    "center": "Cuatro sonidos primos: <b>sh</b>e, <b>ch</b>eese, <b>j</b>ob y vi<b>si</b>on. Labios hacia fuera… ¡y la J nunca es jota!",
+    "listen": "she",
+    "nodes": [
+      {
+        "title": "SH = ¡shhh!",
+        "icon": "🤫",
+        "color": "green",
+        "rows": [
+          [
+            "she",
+            "<code>shii</code>"
+          ],
+          [
+            "shop",
+            "<code>shap</code>"
+          ],
+          [
+            "sugar",
+            "<code>shúguer</code>"
+          ]
+        ],
+        "after": "labios hacia fuera, aire continuo"
+      },
+      {
+        "title": "CH = como en español",
+        "icon": "🍫",
+        "color": "blue",
+        "rows": [
+          [
+            "cheese",
+            "<code>chiis</code>"
+          ],
+          [
+            "chair",
+            "<code>cher</code>"
+          ],
+          [
+            "watch",
+            "<code>wach</code>"
+          ]
+        ],
+        "after": "la ch de «<b>ch</b>ocolate»"
+      },
+      {
+        "title": "J = y fuerte",
+        "icon": "💼",
+        "color": "purple",
+        "rows": [
+          [
+            "job",
+            "<code>yab</code>"
+          ],
+          [
+            "juice",
+            "<code>yuus</code>"
+          ],
+          [
+            "gym",
+            "<code>yim</code>"
+          ]
+        ],
+        "after": "¡como «<b>¡yo!</b>» gritado, nunca jota!"
+      },
+      {
+        "title": "ZH = y suave",
+        "icon": "📺",
+        "color": "orange",
+        "rows": [
+          [
+            "vision",
+            "<code>víyən</code>"
+          ],
+          [
+            "usually",
+            "<code>iúyuəli</code>"
+          ],
+          [
+            "beige",
+            "<code>beiy</code>"
+          ]
+        ],
+        "after": "como la «ll» de un argentino 🧉"
+      },
+      {
+        "title": "¡Cambia la palabra!",
+        "icon": "🔄",
+        "color": "pink",
+        "rows": [
+          [
+            "ship ≠ chip",
+            "<code>ship</code> · <code>chip</code>"
+          ],
+          [
+            "sheep ≠ cheap",
+            "<code>shiip</code> · <code>chiip</code>"
+          ],
+          [
+            "chin ≠ gin",
+            "<code>chin</code> · <code>yin</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "<b>SH</b> = «¡shhh!» para mandar callar. <b>CH</b> = el «chu-chu» del tren: golpecito + shhh.",
+        "art": "🚂"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "job con la jota de «jamón»"
+      ],
+      "good": [
+        "<code>yab</code>, con y fuerte 💼"
+      ],
+      "note": "La J inglesa es la y de «¡yo!» gritado o de «cónyuge»."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "👩 she → ____",
+          "a": "shii"
+        },
+        {
+          "q": "🧀 cheese → ____",
+          "a": "chiis"
+        },
+        {
+          "q": "💼 job → ____",
+          "a": "yab"
+        },
+        {
+          "q": "🧃 juice → ____",
+          "a": "yuus"
+        },
+        {
+          "q": "📺 television → ____",
+          "a": "téləviyən"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué son SH, CH, J y ZH?",
+      "title_en": "What are SH, CH, J and ZH?",
+      "icon": "🔎",
+      "es": "Son cuatro sonidos primos que se hacen con los labios <b>adelantados</b>, como para dar un besito, y la lengua un poco más atrás que para la s. En español solo tenemos uno de verdad: la <b>ch</b> de «chocolate». Los otros tres son nuevos: la <b>sh</b> de «¡shhh!», la <b>j</b> inglesa, que es una <b>y fuerte</b>, y la <b>zh</b> de vision, una y suave. Y lo más importante: <mark>la J inglesa jamás suena como la jota española</mark>.",
+      "en": "These four sounds are cousins: SH (she), CH (cheese), J (job) and ZH (vision). Push your lips forward. Only CH exists in Spanish, and the English J is never the Spanish jota.",
+      "formula": [
+        "*sh* + voz 🐝 → *zh*",
+        "*ch* + voz 🐝 → *j*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "lips",
+          "es": "Los labios se <b>adelantan y se redondean</b> un poco, como un morrito o un besito 😗. Es la gran diferencia con la s, que se hace casi sonriendo.",
+          "en": "Push your lips forward and round them a little, like a small kiss."
+        },
+        {
+          "part": "tongue",
+          "es": "La lengua, ancha, se queda un poco <b>más atrás</b> que para la s, cerca del paladar. Para CH y J, primero toca la encía y luego se suelta.",
+          "en": "Your tongue is wide and a bit further back than for s. For CH and J, it touches first, then releases."
+        },
+        {
+          "part": "air",
+          "es": "SH y ZH son <b>continuas</b>: «shhhhh», se pueden alargar. CH y J empiezan con un <b>golpecito</b> (t, d) y luego sale el aire: t + sh, d + zh.",
+          "en": "SH and ZH are long sounds. CH and J start with a tiny stop (t, d)."
+        },
+        {
+          "part": "voice",
+          "es": "SH y CH <b>no vibran</b>. ZH y J <b>sí vibran</b>: pon la mano en el cuello y pasa de «shhhh» a «zhhhh». ¡Cosquillas! 🐝",
+          "en": "SH and CH are voiceless. ZH and J are voiced: feel the buzz."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · SH: el sonido de «¡shhh!»",
+      "title_en": "SH: the «shhh» sound",
+      "icon": "🤫",
+      "es": "Cuando mandas callar a alguien, «¡<b>shhh</b>!», ya haces el sonido /ʃ/. Se escribe casi siempre <b>SH</b>: she, shop, fish, wash, shower. El error típico es convertirlo en «ch» (<s>chop</s>) o en «s» (<s>sop</s>). <mark>Labios hacia fuera y aire continuo</mark>, sin golpecito.",
+      "en": "Say «shhh!» like asking for silence: that's /ʃ/. It's usually spelled SH: she, shop, fish. Don't turn it into CH or S.",
+      "examples": [
+        {
+          "en": "she",
+          "say": "shii",
+          "es": "ella",
+          "icon": "👩"
+        },
+        {
+          "en": "shop",
+          "say": "shap",
+          "es": "tienda",
+          "icon": "🛍️"
+        },
+        {
+          "en": "fish",
+          "say": "fish",
+          "es": "pez, pescado",
+          "icon": "🐟"
+        },
+        {
+          "en": "wash",
+          "say": "wash",
+          "es": "lavar",
+          "icon": "🧼"
+        },
+        {
+          "en": "shoes",
+          "say": "shuus",
+          "es": "zapatos",
+          "icon": "👟"
+        },
+        {
+          "en": "shower",
+          "say": "sháuer",
+          "es": "ducha",
+          "icon": "🚿"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · La SH escondida",
+      "title_en": "Hidden SH",
+      "icon": "🕵️",
+      "es": "El sonido /ʃ/ se disfraza con otras letras: la <b>S</b> de sugar y sure; la <b>CH</b> de palabras que vienen del francés (chef, machine, Chicago); y la <b>TI</b> o <b>CI</b> de nation, special o delicious. ¡En todas suena «shhh»! (Las terminaciones -tion y -cious, a fondo en el mapa T-03.)",
+      "en": "/ʃ/ can hide behind other letters: S (sugar, sure), French CH (chef, machine) and TI or CI (nation, special).",
+      "examples": [
+        {
+          "en": "sugar",
+          "say": "shúguer",
+          "es": "azúcar",
+          "icon": "🍬"
+        },
+        {
+          "en": "sure",
+          "say": "shur",
+          "es": "seguro",
+          "icon": "✅"
+        },
+        {
+          "en": "machine",
+          "say": "məshíin",
+          "es": "máquina",
+          "icon": "⚙️"
+        },
+        {
+          "en": "chef",
+          "say": "shef",
+          "es": "chef, cocinero",
+          "icon": "👨‍🍳"
+        },
+        {
+          "en": "nation",
+          "say": "néishən",
+          "es": "nación",
+          "icon": "🌎"
+        },
+        {
+          "en": "special",
+          "say": "spéshəl",
+          "es": "especial",
+          "icon": "⭐"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · CH: igual que en español",
+      "title_en": "CH: just like Spanish",
+      "icon": "🚂",
+      "es": "¡Por fin uno fácil! La <b>CH</b> inglesa /tʃ/ es casi igual que la de «<b>ch</b>ocolate»: un golpecito de t y un «sh». Se escribe <b>CH</b> (cheese, chair, much) o <b>TCH</b> (watch, kitchen). Solo adelanta un poco más los labios. También aparece en picture o question (mapa T-03).",
+      "en": "English CH /tʃ/ is almost like Spanish ch. It's spelled CH or TCH: cheese, chair, much, watch, kitchen.",
+      "examples": [
+        {
+          "en": "cheese",
+          "say": "chiis",
+          "es": "queso",
+          "icon": "🧀"
+        },
+        {
+          "en": "chair",
+          "say": "cher",
+          "es": "silla",
+          "icon": "🪑"
+        },
+        {
+          "en": "much",
+          "say": "mach",
+          "es": "mucho",
+          "icon": "💯"
+        },
+        {
+          "en": "watch",
+          "say": "wach",
+          "es": "reloj, mirar",
+          "icon": "⌚"
+        },
+        {
+          "en": "kitchen",
+          "say": "kíchən",
+          "es": "cocina",
+          "icon": "🍳"
+        },
+        {
+          "en": "teacher",
+          "say": "tíicher",
+          "es": "profe",
+          "icon": "👩‍🏫"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · J: una y fuerte, ¡nunca jota!",
+      "title_en": "J: a strong y, never jota",
+      "icon": "💼",
+      "es": "La <b>J</b> inglesa /dʒ/ es la ch con voz: un golpecito de d y un zumbido. Suena como la <b>y fuerte</b> de «¡<b>Y</b>o!» cuando lo gritas, o la de «cón<b>y</b>uge» o «in<b>y</b>ección». <mark>Nunca la jota de «jamón»</mark>. Además de la J, la hacen la <b>G</b> delante de e, i, y (gym, giant, age) y la <b>DGE</b> (bridge).",
+      "en": "English J /dʒ/ is CH with your voice on. It sounds like a strong Spanish «y» (¡Yo!). It's never the Spanish jota. G before e, i, y and DGE make it too.",
+      "examples": [
+        {
+          "en": "job",
+          "say": "yab",
+          "es": "trabajo",
+          "icon": "💼"
+        },
+        {
+          "en": "juice",
+          "say": "yuus",
+          "es": "zumo",
+          "icon": "🧃"
+        },
+        {
+          "en": "Japan",
+          "say": "yəpǽn",
+          "es": "Japón",
+          "icon": "🗾"
+        },
+        {
+          "en": "gym",
+          "say": "yim",
+          "es": "gimnasio",
+          "icon": "🏋️"
+        },
+        {
+          "en": "giant",
+          "say": "yáiənt",
+          "es": "gigante",
+          "icon": "🦖"
+        },
+        {
+          "en": "June",
+          "say": "yuun",
+          "es": "junio",
+          "icon": "☀️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · La J del final: -GE y -DGE",
+      "title_en": "Final J: -GE and -DGE",
+      "icon": "🌉",
+      "es": "Al final de palabra, /dʒ/ se escribe <b>-ge</b> o <b>-dge</b>: age, page, bridge. En la figurada la escribimos <code>y</code>, pero ojo: <mark>no es la i de «rey»</mark>. Pega la lengua al paladar y suelta un zumbido corto, como si fueras a gritar «¡yo!» y te callaras antes de la o. Y no la cambies por «ch»: <b>age</b> (edad) y la letra <b>H</b> (<code>eich</code>) no suenan igual.",
+      "en": "At the end of a word, /dʒ/ is spelled -ge or -dge: age, page, bridge. It's a short buzzing sound, not a vowel.",
+      "examples": [
+        {
+          "en": "age",
+          "say": "eiy",
+          "es": "edad",
+          "icon": "🎂"
+        },
+        {
+          "en": "page",
+          "say": "peiy",
+          "es": "página",
+          "icon": "📖"
+        },
+        {
+          "en": "bridge",
+          "say": "briy",
+          "es": "puente",
+          "icon": "🌉"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · ZH: la y suave",
+      "title_en": "ZH: the soft y",
+      "icon": "📺",
+      "es": "La /ʒ/ es la sh con voz: «shhh» + zumbido. No tiene letra propia: aparece en <b>-sion</b> (vision, television, decision), en <b>-sure</b> (measure, treasure, pleasure), en usually y en palabras francesas (beige, garage). Suena como la <b>«ll» de un argentino</b> en «calle» 🧉. En la figurada también va con <code>y</code>, pero más suave, sin golpe.",
+      "en": "/ʒ/ is SH with your voice on. It appears in -sion (vision), -sure (measure), usually and French words (beige, garage). It's like the Argentinian «ll».",
+      "examples": [
+        {
+          "en": "vision",
+          "say": "víyən",
+          "es": "visión, vista",
+          "icon": "👓"
+        },
+        {
+          "en": "usually",
+          "say": "iúyuəli",
+          "es": "normalmente",
+          "icon": "🔁"
+        },
+        {
+          "en": "television",
+          "say": "téləviyən",
+          "es": "televisión",
+          "icon": "📺"
+        },
+        {
+          "en": "measure",
+          "say": "méyer",
+          "es": "medir",
+          "icon": "📏"
+        },
+        {
+          "en": "treasure",
+          "say": "tréyer",
+          "es": "tesoro",
+          "icon": "💰"
+        },
+        {
+          "en": "beige",
+          "say": "beiy",
+          "es": "beis",
+          "icon": "🎨"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "she",
+          "ipa": "ʃiː",
+          "say": "shii",
+          "es": "ella",
+          "icon": "👩",
+          "anchor": "«<b>¡shhh!</b>» 🤫 + ii",
+          "tip": "Manda callar y añade una i larga: shhh-ii. ¡Labios hacia fuera!"
+        },
+        {
+          "en": "sushi",
+          "ipa": "ˈsuːʃi",
+          "say": "súushi",
+          "es": "sushi",
+          "icon": "🍣",
+          "anchor": "<b>sushi</b> 🍣",
+          "tip": "Si ya lo dices con «shhh», ¡perfecto! Solo alarga la u: SÚU-shi."
+        },
+        {
+          "en": "show",
+          "ipa": "ʃoʊ",
+          "say": "shou",
+          "es": "espectáculo",
+          "icon": "🎤",
+          "anchor": "<s>el chou</s> → <b>sh</b>ou",
+          "tip": "En España decimos «el chou», pero es shhh-ou. Y acaba en «ou», no en «o»."
+        },
+        {
+          "en": "shampoo",
+          "ipa": "ʃæmˈpuː",
+          "say": "shæmpúu",
+          "es": "champú",
+          "icon": "🧴",
+          "anchor": "<s>champú</s> → <b>sh</b>æmpúu",
+          "tip": "¡La fuerza ya está en su sitio (PÚU)! Solo cambia la ch por shhh."
+        },
+        {
+          "en": "chef",
+          "ipa": "ʃɛf",
+          "say": "shef",
+          "es": "chef",
+          "icon": "👨‍🍳",
+          "anchor": "<s>chef</s> con ch → <b>sh</b>ef",
+          "tip": "Viene del francés: aquí la CH suena «shhh». Igual en machine y Chicago."
+        },
+        {
+          "en": "chin",
+          "ipa": "tʃɪn",
+          "say": "chin",
+          "es": "barbilla",
+          "icon": "🧔",
+          "anchor": "¡<b>chin</b>-chin! 🥂",
+          "tip": "El brindis «chin-chin» y la barbilla en inglés suenan igual. ¡Levanta la chin al brindar!"
+        },
+        {
+          "en": "much",
+          "ipa": "mʌtʃ",
+          "say": "mach",
+          "es": "mucho",
+          "icon": "💯",
+          "anchor": "<b>Mach</b>u Picchu 🏔️",
+          "tip": "El «Mach» de Machu Picchu, con la misma fuerza. Thank you very much!"
+        },
+        {
+          "en": "jeans",
+          "ipa": "dʒiːnz",
+          "say": "yiins",
+          "es": "vaqueros",
+          "icon": "👖",
+          "anchor": "unos «<b>yins</b>» 👖",
+          "tip": "Así ya lo dices en español: con y fuerte. Alarga la i y que la s final zumbe (mapa C-08)."
+        },
+        {
+          "en": "gym",
+          "ipa": "dʒɪm",
+          "say": "yim",
+          "es": "gimnasio",
+          "icon": "🏋️",
+          "anchor": "ir al «<b>yim</b>» 🏋️",
+          "tip": "Gym empieza por G, pero suena y fuerte. ¡Nada de «guim» ni de jota!"
+        },
+        {
+          "en": "gem",
+          "ipa": "dʒɛm",
+          "say": "yem",
+          "es": "gema",
+          "icon": "💎",
+          "anchor": "<b>yem</b>a 🥚",
+          "tip": "Una yema sin la a… ¡y con brillo! Dila con la y fuerte de «¡yo!»."
+        },
+        {
+          "en": "pajamas",
+          "ipa": "pəˈdʒæməz",
+          "say": "pəyǽməs",
+          "es": "pijama",
+          "icon": "😴",
+          "anchor": "<s>pijama</s> → pə<b>YǼ</b>məs",
+          "tip": "Ni jota ni «pi»: pə-YǼ-məs, con y fuerte y la fuerza en medio."
+        },
+        {
+          "en": "garage",
+          "ipa": "ɡəˈrɑʒ",
+          "say": "gəráy",
+          "es": "garaje",
+          "icon": "🚗",
+          "anchor": "<s>garaje</s> → gə<b>RÁY</b>",
+          "tip": "La fuerza va al final, como en español. Cambia la jota por una y suave. (Muchos americanos la dicen fuerte; en la figurada, igual: y.)"
+        },
+        {
+          "en": "beige",
+          "ipa": "beɪʒ",
+          "say": "beiy",
+          "es": "beis",
+          "icon": "🎨",
+          "anchor": "<s>beis</s> → <b>bei</b>y",
+          "tip": "No acaba en s: acaba en una y suavecita que zumba, como la «ll» argentina."
+        },
+        {
+          "en": "vision",
+          "ipa": "ˈvɪʒən",
+          "say": "víyən",
+          "es": "visión, vista",
+          "icon": "👓",
+          "anchor": "la «<b>ll</b>» argentina de «calle» 🧉",
+          "tip": "VÍ + esa «ll» que zumba + «ən». Nada de «visión» con s (y V de verdad, C-07)."
+        },
+        {
+          "en": "television",
+          "ipa": "ˈtɛləˌvɪʒən",
+          "say": "téləviyən",
+          "es": "televisión",
+          "icon": "📺",
+          "anchor": "<s>televisión</s> → <b>TÉ</b>ləviyən",
+          "tip": "La fuerza salta al principio (TÉ) y la «-sión» se vuelve «yən»."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "she",
+          "es": "ella"
+        },
+        {
+          "q": "sure",
+          "es": "seguro"
+        },
+        {
+          "q": "cheese",
+          "es": "queso"
+        },
+        {
+          "q": "job",
+          "es": "trabajo"
+        },
+        {
+          "q": "usually",
+          "es": "normalmente"
+        },
+        {
+          "q": "television",
+          "es": "televisión"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Qué sonido es?",
+      "title_en": "Which sound is it?",
+      "icon": "🧭",
+      "head": [
+        "Palabra · Word",
+        "Se escribe",
+        "Sonido",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "she",
+          "SH",
+          "/ʃ/ shhh",
+          "<code>shii</code>"
+        ],
+        [
+          "sugar",
+          "S",
+          "/ʃ/ shhh",
+          "<code>shúguer</code>"
+        ],
+        [
+          "nation",
+          "TI",
+          "/ʃ/ shhh",
+          "<code>néishən</code>"
+        ],
+        [
+          "chef",
+          "CH (francés)",
+          "/ʃ/ shhh",
+          "<code>shef</code>"
+        ],
+        [
+          "cheese",
+          "CH",
+          "/tʃ/ ch",
+          "<code>chiis</code>"
+        ],
+        [
+          "watch",
+          "TCH",
+          "/tʃ/ ch",
+          "<code>wach</code>"
+        ],
+        [
+          "job",
+          "J",
+          "/dʒ/ y fuerte",
+          "<code>yab</code>"
+        ],
+        [
+          "age",
+          "GE",
+          "/dʒ/ y fuerte",
+          "<code>eiy</code>"
+        ],
+        [
+          "bridge",
+          "DGE",
+          "/dʒ/ y fuerte",
+          "<code>briy</code>"
+        ],
+        [
+          "vision",
+          "SI",
+          "/ʒ/ y suave",
+          "<code>víyən</code>"
+        ],
+        [
+          "measure",
+          "SU",
+          "/ʒ/ y suave",
+          "<code>méyer</code>"
+        ],
+        [
+          "Christmas",
+          "CH (griego)",
+          "/k/ ¡trampa!",
+          "<code>krísməs</code>"
+        ]
+      ],
+      "note": "Pistas: <b>SH</b> casi siempre es /ʃ/. <b>CH</b> casi siempre es /tʃ/, salvo en palabras francesas (chef, machine), que suenan /ʃ/, y griegas (Christmas, school), que suenan k. La <b>J</b> siempre es /dʒ/. Y /ʒ/ suele ir en <b>-sion</b> o <b>-sure</b>.",
+      "note_en": "Hints: SH is almost always /ʃ/; CH is /tʃ/, except in French words (/ʃ/) and Greek words (/k/); J is always /dʒ/; /ʒ/ is usually in -sion or -sure."
+    },
+    {
+      "t": "compare",
+      "title": "Los cuatro primos",
+      "title_en": "The four cousins",
+      "icon": "⚖️",
+      "es": "Dos sin voz y dos con voz; dos largos y dos con golpecito. ¡Una familia muy ordenada!",
+      "en": "Two voiceless, two voiced; two long ones and two with a tiny stop.",
+      "cols": [
+        {
+          "head": "🤫 SH /ʃ/",
+          "color": "green",
+          "items": [
+            "sin voz",
+            "largo: shhhh",
+            "she, fish, sugar"
+          ]
+        },
+        {
+          "head": "🚂 CH /tʃ/",
+          "color": "blue",
+          "items": [
+            "sin voz",
+            "golpecito: t + sh",
+            "cheese, watch"
+          ]
+        },
+        {
+          "head": "🐝 ZH /ʒ/",
+          "color": "orange",
+          "items": [
+            "con voz",
+            "largo: zhhhh",
+            "vision, beige"
+          ]
+        },
+        {
+          "head": "💼 J /dʒ/",
+          "color": "purple",
+          "items": [
+            "con voz",
+            "golpecito: d + zh",
+            "job, age, gym"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "SH, CH o J: cambia la palabra",
+      "title_en": "SH, CH or J: a different word",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "ship",
+            "ipa": "ʃɪp",
+            "say": "ship",
+            "es": "barco",
+            "icon": "🚢"
+          },
+          "b": {
+            "en": "chip",
+            "ipa": "tʃɪp",
+            "say": "chip",
+            "es": "chip, patata frita",
+            "icon": "🍟"
+          },
+          "tip": "Sin golpecito, barco; con golpecito, patata frita."
+        },
+        {
+          "a": {
+            "en": "sheep",
+            "ipa": "ʃiːp",
+            "say": "shiip",
+            "es": "oveja",
+            "icon": "🐑"
+          },
+          "b": {
+            "en": "cheap",
+            "ipa": "tʃiːp",
+            "say": "chiip",
+            "es": "barato",
+            "icon": "💸"
+          },
+          "tip": "Una oveja barata: «a cheap sheep». ¡Dilo rápido!"
+        },
+        {
+          "a": {
+            "en": "share",
+            "ipa": "ʃɛr",
+            "say": "sher",
+            "es": "compartir",
+            "icon": "🤝"
+          },
+          "b": {
+            "en": "chair",
+            "ipa": "tʃɛr",
+            "say": "cher",
+            "es": "silla",
+            "icon": "🪑"
+          },
+          "tip": "«Share the chair» = comparte la silla."
+        },
+        {
+          "a": {
+            "en": "wash",
+            "ipa": "wɑʃ",
+            "say": "wash",
+            "es": "lavar",
+            "icon": "🧼"
+          },
+          "b": {
+            "en": "watch",
+            "ipa": "wɑtʃ",
+            "say": "wach",
+            "es": "mirar, reloj",
+            "icon": "⌚"
+          },
+          "tip": "Al final también cuenta: wash acaba suave; watch, con golpecito."
+        },
+        {
+          "a": {
+            "en": "chin",
+            "ipa": "tʃɪn",
+            "say": "chin",
+            "es": "barbilla",
+            "icon": "🧔"
+          },
+          "b": {
+            "en": "gin",
+            "ipa": "dʒɪn",
+            "say": "yin",
+            "es": "ginebra",
+            "icon": "🍸"
+          },
+          "tip": "La misma boca: sin voz, ch; con voz, y fuerte."
+        },
+        {
+          "a": {
+            "en": "cheap",
+            "ipa": "tʃiːp",
+            "say": "chiip",
+            "es": "barato",
+            "icon": "💸"
+          },
+          "b": {
+            "en": "jeep",
+            "ipa": "dʒiːp",
+            "say": "yiip",
+            "es": "jeep, todoterreno",
+            "icon": "🚙"
+          },
+          "tip": "Un todoterreno barato: «a cheap jeep». CH sin voz, J con voz."
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "sure",
+          "spoken": "shur",
+          "say": "shur",
+          "es": "seguro"
+        },
+        {
+          "written": "sugar",
+          "spoken": "shugar",
+          "say": "shúguer",
+          "es": "azúcar"
+        },
+        {
+          "written": "machine",
+          "spoken": "masheen",
+          "say": "məshíin",
+          "es": "máquina"
+        },
+        {
+          "written": "Chicago",
+          "spoken": "Shi-CAH-go",
+          "say": "shikágou",
+          "es": "Chicago"
+        },
+        {
+          "written": "usually",
+          "spoken": "YOO-zhoo-uh-lee",
+          "say": "iúyuəli",
+          "es": "normalmente"
+        },
+        {
+          "written": "television",
+          "spoken": "TELL-uh-vizhun",
+          "say": "téləviyən",
+          "es": "televisión"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "She sells shoes at the shop.",
+          "say": "shi séls shúus æt də sháp",
+          "es": "Ella vende zapatos en la tienda.",
+          "icon": "👟"
+        },
+        {
+          "en": "Are you sure?",
+          "say": "ar iu shúr?",
+          "es": "¿Estás seguro?",
+          "icon": "🤔"
+        },
+        {
+          "en": "I usually watch TV in the kitchen.",
+          "say": "ai iúyuəli wach tiivíi in də kíchən",
+          "es": "Normalmente veo la tele en la cocina.",
+          "icon": "🍳"
+        },
+        {
+          "en": "John has a new job in Japan.",
+          "say": "yan jæs ə nuu yáb in yəpǽn",
+          "es": "John tiene un trabajo nuevo en Japón.",
+          "icon": "🗾"
+        },
+        {
+          "en": "Apple juice and cheese, please.",
+          "say": "ǽpəl yúus ənd chíis, pliis",
+          "es": "Zumo de manzana y queso, por favor.",
+          "icon": "🧃"
+        },
+        {
+          "en": "The chef has a special machine.",
+          "say": "də shéf jæs ə spéshəl məshíin",
+          "es": "El chef tiene una máquina especial.",
+          "icon": "👨‍🍳"
+        },
+        {
+          "en": "My teacher is from Chicago.",
+          "say": "mai tíicher is frəm shikágou",
+          "es": "Mi profe es de Chicago.",
+          "icon": "🏙️"
+        },
+        {
+          "en": "Let's go to the gym in June.",
+          "say": "lets góu tə də yím in yúun",
+          "es": "Vamos al gimnasio en junio.",
+          "icon": "🏋️"
+        },
+        {
+          "en": "We crossed the bridge.",
+          "say": "wi krost də bríy",
+          "es": "Cruzamos el puente.",
+          "icon": "🌉"
+        },
+        {
+          "en": "Turn on the television.",
+          "say": "ternán də téləviyən",
+          "es": "Enciende la televisión.",
+          "icon": "📺"
+        },
+        {
+          "en": "What a pleasure!",
+          "say": "warə pléyer!",
+          "es": "¡Qué placer!",
+          "icon": "😊"
+        },
+        {
+          "en": "The treasure is in the garage!",
+          "say": "də tréyer is in də gəráy!",
+          "es": "¡El tesoro está en el garaje!",
+          "icon": "💰"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "job → con la jota de «jamón»",
+          "good": "<code>yab</code>",
+          "why": "La J inglesa es una y fuerte. ¡Nunca jota!",
+          "why_en": "English J is never the Spanish jota."
+        },
+        {
+          "bad": "she → <code>chii</code>",
+          "good": "<code>shii</code>",
+          "why": "Sin golpecito: «shhh» continuo. Con ch, parece el principio de cheese.",
+          "why_en": "SH is a long sound, with no stop."
+        },
+        {
+          "bad": "shop → <code>chap</code>",
+          "good": "<code>shap</code>",
+          "why": "Chop es picar 🔪. La tienda es shop, con shhh.",
+          "why_en": "«Chop» is a different word."
+        },
+        {
+          "bad": "show → <code>chou</code>",
+          "good": "<code>shou</code>",
+          "why": "En España decimos «el chou», pero en inglés es shhh.",
+          "why_en": "Show starts with SH, not CH."
+        },
+        {
+          "bad": "chef → con la ch de «chocolate»",
+          "good": "<code>shef</code>",
+          "why": "Viene del francés: CH = /ʃ/.",
+          "why_en": "In French words, CH sounds /ʃ/."
+        },
+        {
+          "bad": "vision → <code>bisión</code>",
+          "good": "<code>víyən</code>",
+          "why": "-sion suena «yən», con y suave. ¡Y V de verdad (C-07)!",
+          "why_en": "-sion sounds like «zhun»."
+        },
+        {
+          "bad": "sugar → <code>súgar</code>",
+          "good": "<code>shúguer</code>",
+          "why": "La S de sugar y de sure suena shhh.",
+          "why_en": "The S in sugar sounds /ʃ/."
+        },
+        {
+          "bad": "age → <code>eich</code>, como la letra H",
+          "good": "<code>eiy</code>",
+          "why": "Termina con zumbido: age (edad) no es H.",
+          "why_en": "Age ends in a voiced /dʒ/."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "De compras",
+      "title_en": "Going shopping",
+      "lines": [
+        {
+          "who": "Ashley",
+          "en": "Let's go shopping! I need new shoes.",
+          "say": "lets góu sháping! ai níid nuu shúus",
+          "es": "¡Vamos de compras! Necesito zapatos nuevos."
+        },
+        {
+          "who": "Lucía",
+          "en": "Sure! Is the shop near the bridge?",
+          "say": "shur! is də sháp nir də bríy?",
+          "es": "¡Claro! ¿La tienda está cerca del puente?"
+        },
+        {
+          "who": "Ashley",
+          "en": "Yes, next to the cheap Japanese restaurant.",
+          "say": "iés, nékst tə də chíip yæpəníis réstərant",
+          "es": "Sí, al lado del restaurante japonés barato."
+        },
+        {
+          "who": "Lucía",
+          "en": "I usually buy jeans there.",
+          "say": "ai iúyuəli bai yíins der",
+          "es": "Yo normalmente me compro vaqueros allí."
+        },
+        {
+          "who": "Ashley",
+          "en": "Look! A beige jacket. Do you like it?",
+          "say": "luk! ə béiy yǽkit. du iu láikit?",
+          "es": "¡Mira! Una chaqueta beis. ¿Te gusta?"
+        },
+        {
+          "who": "Lucía",
+          "en": "It's very cheap! But I prefer the red one.",
+          "say": "its véri chíip! bət ai prifér də réd wan",
+          "es": "¡Es muy barata! Pero prefiero la roja."
+        },
+        {
+          "who": "Ashley",
+          "en": "Good choice! Now let's have some juice.",
+          "say": "gud chóis! náu lets jǽv səm yúus",
+          "es": "¡Buena elección! Ahora vamos a tomar un zumo."
+        },
+        {
+          "who": "Lucía",
+          "en": "And a cheese sandwich! Shopping is hungry work.",
+          "say": "ənd ə chíis sǽnwich! sháping is jángri wérk",
+          "es": "¡Y un sándwich de queso! Ir de compras da hambre."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di «¡shhh!» como para mandar callar, con los labios hacia fuera, como un morrito.",
+          "en": "Say «shhh!» with your lips pushed forward."
+        },
+        {
+          "es": "Ponle un golpecito de t delante: «t-shhh» → «ch». ¡Ya tienes la ch!",
+          "en": "Add a tiny t before it: t-shhh = ch."
+        },
+        {
+          "es": "Enciende la voz en los dos: «shhh → zhhh» (vision) y «ch → dy» (job). Mano en el cuello: ¡vibra!",
+          "en": "Turn your voice on: shhh → zhhh, ch → j."
+        },
+        {
+          "es": "Parejas en voz alta: <code>ship</code> / <code>chip</code>, <code>shiip</code> / <code>chiip</code>, <code>chin</code> / <code>yin</code>.",
+          "en": "Practice the pairs: ship/chip, sheep/cheap, chin/gin."
+        },
+        {
+          "es": "Escanea los QR, escucha 3 vídeos y <b>grábate</b> diciendo «She sells cheap shoes».",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "She sells seashells by the seashore.",
+          "say": "shi séls síishels bai də síishor",
+          "es": "Ella vende conchas junto a la orilla del mar."
+        },
+        {
+          "en": "John's giant jeep jumps the bridge.",
+          "say": "yáns yáiənt yíip yámps də bríy",
+          "es": "El jeep gigante de John salta el puente."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "La familia del «shhh»",
+      "title_en": "The «shhh» family",
+      "es": "Una familia: <b>SH</b> manda callar 🤫, <b>CH</b> es el tren 🚂, <b>J</b> grita «¡yo!» 💪 y <b>ZH</b> habla como un argentino 🧉. Y recuerda: <mark>la J nunca es jota</mark>.",
+      "en": "SH says «shhh», CH is a train, J shouts «Yo!», ZH sounds Argentinian. J is never the Spanish jota."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿SH o CH?",
+      "title_en": "SH or CH?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta. ¿Suena «shhh» (sin golpe) o «ch» (con golpecito)? Rodea.",
+      "en": "Say the word. Does it have /ʃ/ or /tʃ/?",
+      "items": [
+        {
+          "q": "she → [sh|ch]",
+          "a": "sh"
+        },
+        {
+          "q": "cheese → [sh|ch]",
+          "a": "ch"
+        },
+        {
+          "q": "sugar → [sh|ch]",
+          "a": "sh"
+        },
+        {
+          "q": "watch → [sh|ch]",
+          "a": "ch"
+        },
+        {
+          "q": "machine → [sh|ch]",
+          "a": "sh"
+        },
+        {
+          "q": "chef → [sh|ch]",
+          "a": "sh"
+        },
+        {
+          "q": "kitchen → [sh|ch]",
+          "a": "ch"
+        },
+        {
+          "q": "nation → [sh|ch]",
+          "a": "sh"
+        },
+        {
+          "q": "much → [sh|ch]",
+          "a": "ch"
+        },
+        {
+          "q": "sure → [sh|ch]",
+          "a": "sh"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en la columna de su sonido.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "🤫 SH /ʃ/",
+          "words": [
+            "she",
+            "sugar",
+            "chef",
+            "nation"
+          ]
+        },
+        {
+          "name": "🚂 CH /tʃ/",
+          "words": [
+            "cheese",
+            "watch",
+            "kitchen",
+            "teacher"
+          ]
+        },
+        {
+          "name": "💼 J /dʒ/",
+          "words": [
+            "job",
+            "gym",
+            "age",
+            "bridge"
+          ]
+        },
+        {
+          "name": "📺 ZH /ʒ/",
+          "words": [
+            "vision",
+            "usually",
+            "beige",
+            "measure"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "she",
+          "<code>shii</code>"
+        ],
+        [
+          "cheese",
+          "<code>chiis</code>"
+        ],
+        [
+          "job",
+          "<code>yab</code>"
+        ],
+        [
+          "vision",
+          "<code>víyən</code>"
+        ],
+        [
+          "sugar",
+          "<code>shúguer</code>"
+        ],
+        [
+          "juice",
+          "<code>yuus</code>"
+        ],
+        [
+          "watch",
+          "<code>wach</code>"
+        ],
+        [
+          "machine",
+          "<code>məshíin</code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada: <b>sh</b>, <b>ch</b> o <b>y</b> (para J y ZH). Pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "🛍️ shop → ____",
+          "a": "shap"
+        },
+        {
+          "q": "🐟 fish → ____",
+          "a": "fish"
+        },
+        {
+          "q": "🪑 chair → ____",
+          "a": "cher"
+        },
+        {
+          "q": "💯 much → ____",
+          "a": "mach"
+        },
+        {
+          "q": "🏋️ gym → ____",
+          "a": "yim"
+        },
+        {
+          "q": "☀️ June → ____",
+          "a": "yuun"
+        },
+        {
+          "q": "🌉 bridge → ____",
+          "a": "briy"
+        },
+        {
+          "q": "📏 measure → ____",
+          "a": "méyer"
+        },
+        {
+          "q": "✅ sure → ____",
+          "a": "shur"
+        },
+        {
+          "q": "🗾 Japan → ____",
+          "a": "yəpǽn"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Qué palabra es?",
+      "title_en": "Which word is it?",
+      "icon": "🧩",
+      "es": "Lee la frase y rodea la palabra correcta. Después dila en voz alta.",
+      "en": "Circle the right word, then say the sentence.",
+      "items": [
+        {
+          "q": "We crossed the sea on a big [ship|chip].",
+          "a": "ship"
+        },
+        {
+          "q": "Count the [sheep|cheap] and go to sleep.",
+          "a": "sheep"
+        },
+        {
+          "q": "This T-shirt is very [sheep|cheap].",
+          "a": "cheap"
+        },
+        {
+          "q": "Can I [share|chair] your pizza?",
+          "a": "share"
+        },
+        {
+          "q": "Sit on the [share|chair], please.",
+          "a": "chair"
+        },
+        {
+          "q": "Don't forget to [wash|watch] your hands.",
+          "a": "wash"
+        },
+        {
+          "q": "Let's [wash|watch] a movie.",
+          "a": "watch"
+        },
+        {
+          "q": "He drives a big [cheap|jeep].",
+          "a": "jeep"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "The English J sounds like the Spanish jota in «jamón».",
+          "a": false,
+          "why": "suena y fuerte: job = <code>yab</code>"
+        },
+        {
+          "q": "To say «shhh», your lips move forward.",
+          "a": true
+        },
+        {
+          "q": "CH in «cheese» is almost like the Spanish ch.",
+          "a": true
+        },
+        {
+          "q": "In «sugar», the S sounds like /ʃ/.",
+          "a": true
+        },
+        {
+          "q": "In «chef», CH sounds like in «cheese».",
+          "a": false,
+          "why": "suena /ʃ/: <code>shef</code>"
+        },
+        {
+          "q": "«Sheep» and «cheap» sound the same.",
+          "a": false,
+          "why": "<code>shiip</code> / <code>chiip</code>"
+        },
+        {
+          "q": "The sound in «vision» is like SH with your voice on.",
+          "a": true
+        },
+        {
+          "q": "The G in «gym» sounds like a strong Spanish y.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "¿Cómo se escribe?",
+      "title_en": "How do you spell it?",
+      "icon": "✏️",
+      "es": "Escribe la palabra en inglés. Después dila con los labios hacia fuera.",
+      "en": "Write the English word.",
+      "items": [
+        {
+          "q": "🐟 pez",
+          "a": "fish"
+        },
+        {
+          "q": "👟 zapatos",
+          "a": "shoes"
+        },
+        {
+          "q": "🪑 silla",
+          "a": "chair"
+        },
+        {
+          "q": "🧀 queso",
+          "a": "cheese"
+        },
+        {
+          "q": "💼 trabajo",
+          "a": "job"
+        },
+        {
+          "q": "🧃 zumo",
+          "a": "juice"
+        },
+        {
+          "q": "🌉 puente",
+          "a": "bridge"
+        },
+        {
+          "q": "💰 tesoro",
+          "a": "treasure"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Después di la palabra con su SH, CH, J o ZH.",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "su",
+            "gar"
+          ],
+          "s": 0,
+          "es": "azúcar"
+        },
+        {
+          "syl": [
+            "ma",
+            "chine"
+          ],
+          "s": 1,
+          "es": "máquina"
+        },
+        {
+          "syl": [
+            "Chi",
+            "ca",
+            "go"
+          ],
+          "s": 1,
+          "es": "Chicago"
+        },
+        {
+          "syl": [
+            "na",
+            "tion"
+          ],
+          "s": 0,
+          "es": "nación"
+        },
+        {
+          "syl": [
+            "kitch",
+            "en"
+          ],
+          "s": 0,
+          "es": "cocina"
+        },
+        {
+          "syl": [
+            "teach",
+            "er"
+          ],
+          "s": 0,
+          "es": "profe"
+        },
+        {
+          "syl": [
+            "Ja",
+            "pan"
+          ],
+          "s": 1,
+          "es": "Japón"
+        },
+        {
+          "syl": [
+            "vi",
+            "sion"
+          ],
+          "s": 0,
+          "es": "visión"
+        },
+        {
+          "syl": [
+            "tel",
+            "e",
+            "vi",
+            "sion"
+          ],
+          "s": 0,
+          "es": "televisión"
+        },
+        {
+          "syl": [
+            "u",
+            "su",
+            "al",
+            "ly"
+          ],
+          "s": 0,
+          "es": "normalmente"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe la frase como suena",
+      "title_en": "Write the phrase as it sounds",
+      "icon": "🔗",
+      "es": "Escribe cómo suena la frase entera, pegando lo que se pega.",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        {
+          "q": "She's sure.",
+          "a": "shiis shúr"
+        },
+        {
+          "q": "cheap shoes",
+          "a": "chíip shúus"
+        },
+        {
+          "q": "fish and chips",
+          "a": "físhən chíps"
+        },
+        {
+          "q": "Check, please!",
+          "a": "chék, plíis!"
+        },
+        {
+          "q": "Good job!",
+          "a": "gud yáb!"
+        },
+        {
+          "q": "Watch out!",
+          "a": "wacháut!"
+        },
+        {
+          "q": "Just a minute.",
+          "a": "yástə mínit"
+        },
+        {
+          "q": "Usually, yes.",
+          "a": "iúyuəli, iés"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "job → <code>jab</code> (con jota)",
+          "a": "yab"
+        },
+        {
+          "q": "she → <code>chii</code>",
+          "a": "shii"
+        },
+        {
+          "q": "shop → <code>chap</code>",
+          "a": "shap"
+        },
+        {
+          "q": "chef → <code>chef</code>",
+          "a": "shef"
+        },
+        {
+          "q": "vision → <code>visión</code>",
+          "a": "víyən"
+        },
+        {
+          "q": "Japan → <code>japán</code>",
+          "a": "yəpǽn"
+        },
+        {
+          "q": "sugar → <code>súgar</code>",
+          "a": "shúguer"
+        },
+        {
+          "q": "gym → <code>guim</code>",
+          "a": "yim"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez. ¡Labios hacia fuera!",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Thank you very much!",
+          "say": "zǽnk iu véri mách!"
+        },
+        {
+          "q": "Fish and chips, please.",
+          "say": "físhən chíps, plíis"
+        },
+        {
+          "q": "Good job, John!",
+          "say": "gud yáb, yán!"
+        },
+        {
+          "q": "I usually eat cheese.",
+          "say": "ai iúyuəli íit chíis"
+        },
+        {
+          "q": "Watch the television.",
+          "say": "wach də téləviyən"
+        },
+        {
+          "q": "She has a cheap jeep.",
+          "say": "shi jæs ə chíip yíip"
+        },
+        {
+          "q": "Just a minute, Jenny.",
+          "say": "yástə mínit, yéni"
+        },
+        {
+          "q": "Sugar? Sure!",
+          "say": "shúguer? shúr!"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta: ¿SH, CH, J o ZH?",
+      "en": "Translate into English and say it.",
+      "items": [
+        {
+          "q": "ella",
+          "a": "she (shii)"
+        },
+        {
+          "q": "queso",
+          "a": "cheese (chiis)"
+        },
+        {
+          "q": "trabajo",
+          "a": "job (yab)"
+        },
+        {
+          "q": "zumo",
+          "a": "juice (yuus)"
+        },
+        {
+          "q": "azúcar",
+          "a": "sugar (shúguer)"
+        },
+        {
+          "q": "cocina",
+          "a": "kitchen (kíchən)"
+        },
+        {
+          "q": "seguro",
+          "a": "sure (shur)"
+        },
+        {
+          "q": "normalmente",
+          "a": "usually (iúyuəli)"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En la última columna escribe SH, CH, J o ZH según el sonido.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "Sonido"
+      ],
+      "rows": [
+        [
+          "she",
+          "ella",
+          "?shii",
+          "?SH"
+        ],
+        [
+          "cheese",
+          "?queso",
+          "chiis",
+          "?CH"
+        ],
+        [
+          "?job",
+          "trabajo",
+          "yab",
+          "J"
+        ],
+        [
+          "vision",
+          "?visión",
+          "?víyən",
+          "ZH"
+        ],
+        [
+          "?sugar",
+          "azúcar",
+          "shúguer",
+          "?SH"
+        ],
+        [
+          "watch",
+          "?reloj",
+          "?wach",
+          "CH"
+        ],
+        [
+          "?gym",
+          "gimnasio",
+          "yim",
+          "?J"
+        ],
+        [
+          "beige",
+          "beis",
+          "?beiy",
+          "?ZH"
+        ]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de «shhh»",
+      "title_en": "SH, CH, J word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Dila en voz alta cada vez que encuentres una: ¿SH, CH, J o ZH?",
+      "en": "Find 10 words.",
+      "words": [
+        "she",
+        "shop",
+        "fish",
+        "cheese",
+        "chair",
+        "watch",
+        "job",
+        "juice",
+        "bridge",
+        "vision"
+      ],
+      "clues": [
+        "she · ella",
+        "shop · tienda",
+        "fish · pez",
+        "cheese · queso",
+        "chair · silla",
+        "watch · reloj",
+        "job · trabajo",
+        "juice · zumo",
+        "bridge · puente",
+        "vision · visión"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza los sonidos",
+      "title_en": "Read and find the sounds",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Josh's Job",
+      "text": [
+        "Josh is a chef at a Japanese restaurant in Chicago. Every morning, he rides his bike over the bridge and buys fresh fish at the market.",
+        "His job is not easy, but it's a pleasure. “Sushi is my treasure!” he says. And on Sundays? He watches television in his pajamas."
+      ],
+      "items": [
+        {
+          "q": "What is Josh's job?",
+          "a": "He's a chef. «Chef» suena <code>shef</code>, con /ʃ/."
+        },
+        {
+          "q": "Find two words in the text where CH sounds /ʃ/.",
+          "a": "chef, Chicago"
+        },
+        {
+          "q": "Find two words with the soft /ʒ/ sound.",
+          "a": "pleasure, treasure, television (cualquiera)"
+        },
+        {
+          "q": "Josh buys fish at the market.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «Japanese», the J sounds like the Spanish jota.",
+          "tf": true,
+          "a": false,
+          "why": "y fuerte: <code>yæpəníis</code>"
+        },
+        {
+          "q": "«Josh» has two of our four sounds.",
+          "tf": true,
+          "a": true,
+          "why": "J + SH: <code>yash</code>"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con estos sonidos. Léelas con los labios hacia fuera y grábate.",
+      "en": "Write three sentences with these sounds and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con she y una palabra con SH (shop, shoes, fish…).",
+          "lines": 2,
+          "a": "Ej.: She buys fish at the shop."
+        },
+        {
+          "q": "Una frase con J (job, juice, gym, Japan…).",
+          "lines": 2,
+          "a": "Ej.: My dad has a new job in Japan."
+        },
+        {
+          "q": "Una frase con usually o television.",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Hago la /ʃ/ de «¡shhh!» con los labios hacia fuera: <code>shii</code>.",
+      "en": "I can say /ʃ/ with my lips forward."
+    },
+    {
+      "es": "Distingo ship/chip, sheep/cheap y share/chair.",
+      "en": "I can say ship/chip, sheep/cheap, share/chair."
+    },
+    {
+      "es": "Nunca digo la J inglesa con jota: <code>yab</code>, <code>yuus</code>, <code>yim</code>.",
+      "en": "I never say English J like the Spanish jota."
+    },
+    {
+      "es": "Encuentro la SH escondida en sugar, sure, chef y nation.",
+      "en": "I can find the hidden SH in sugar, sure, chef, nation."
+    },
+    {
+      "es": "Digo vision y usually con la y suave: <code>víyən</code>.",
+      "en": "I can say the soft /ʒ/ in vision and usually."
+    },
+    {
+      "es": "Puedo decir «She sells seashells by the seashore».",
+      "en": "I can say the seashells tongue twister."
+    }
+  ]
+}

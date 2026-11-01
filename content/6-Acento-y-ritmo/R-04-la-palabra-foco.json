@@ -1,0 +1,638 @@
+{
+  "id": "R-04",
+  "block": "R",
+  "title": "LA PALABRA FOCO",
+  "file_title": "La palabra foco (acento de frase)",
+  "subtitle": "Sentence stress · la palabra que brilla",
+  "icon": "🔦",
+  "map": {
+    "center": "En cada frase hay una <b>palabra foco</b>: la más fuerte, larga y aguda. ¡Si la mueves, cambias el mensaje!",
+    "listen": "nice to meet you",
+    "nodes": [
+      {
+        "title": "¿Qué es?",
+        "icon": "🔎",
+        "color": "green",
+        "items": [
+          "la palabra que <b>más importa</b>",
+          "más <b>fuerte</b>, <b>larga</b> y <b>aguda</b>",
+          "las demás se <b>encogen</b>"
+        ]
+      },
+      {
+        "title": "¿Dónde va?",
+        "icon": "🎯",
+        "color": "blue",
+        "html": "En la <b>última palabra importante</b>:",
+        "rows": [
+          ["I love <em>PIZZA</em>.", "<code>ai lav <b>píitsə</b></code>"],
+          ["Let's go <em>HOME</em>.", "<code>lets gou <b>jóum</b></code>"]
+        ]
+      },
+      {
+        "title": "Muévelo y cambia",
+        "icon": "🔀",
+        "color": "purple",
+        "rows": [
+          ["<em>MY</em> pizza", "mía, no tuya"],
+          ["my <em>PIZZA</em>", "pizza, no pasta"],
+          ["<em>I</em> did it", "¡fui YO!"]
+        ]
+      },
+      {
+        "title": "Para corregir",
+        "icon": "✋",
+        "color": "orange",
+        "items": [
+          "Red? — No, <em>BLUE</em>!",
+          "Fifteen? — No, <em>FIFTY</em>!",
+          "Tea? — No, <em>COFFEE</em>!"
+        ]
+      },
+      {
+        "title": "Palabras pequeñas",
+        "icon": "🐜",
+        "color": "pink",
+        "html": "Si son el foco, se dicen <b>enteras</b>:",
+        "rows": [
+          ["Not <em>ME</em>!", "<code>nat <b>míi</b></code>"],
+          ["I <em>DO</em>!", "<code>ai <b>dúu</b></code>"]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "¿Qué es lo <b>nuevo</b> o lo <b>importante</b>? ¡Ilumina esa palabra como con una <b>linterna</b>!",
+        "art": "🔦"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["Nice to meet <em>YOU</em> (al saludar)"],
+      "good": ["Nice to <em>MEET</em> you 🤝"],
+      "note": "«Nice to meet YOU» es la <b>respuesta</b>, ¡no el saludo!"
+    },
+    "mini": {
+      "es": "Escribe la palabra foco:",
+      "en": "Write the focus word.",
+      "items": [
+        { "q": "🍕 I love pizza. → ____", "a": "pizza" },
+        { "q": "🎨 Red? — No, blue! → ____", "a": "blue" },
+        { "q": "🤝 Nice to meet you. → ____", "a": "meet" },
+        { "q": "🐶 (Who?) Rocky ate it. → ____", "a": "Rocky" },
+        { "q": "⏰ Do it now! → ____", "a": "now" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la palabra foco?",
+      "title_en": "What is the focus word?",
+      "icon": "🔦",
+      "es": "En una frase inglesa no todas las palabras pesan igual: hay <b>una</b> que manda. Es la <mark>palabra foco</mark>: se dice <b>más fuerte</b>, <b>más larga</b> y con la voz <b>más alta</b>, mientras las demás se encogen. Normalmente es la <b>última palabra importante</b> (I love <em>PIZZA</em>), pero puedes moverla para <b>corregir</b>, <b>contrastar</b> o dejar algo clarísimo. ¡Mueve el foco y cambias el mensaje sin cambiar ni una palabra!",
+      "en": "Every English sentence has one focus word: louder, longer and higher. It's usually the last important word, but you can move it to correct or contrast. Move the focus and you change the message.",
+      "formula": ["palabra foco = *más fuerte* + *más larga* + *más aguda*"]
+    },
+    {
+      "t": "mouth",
+      "title": "Cómo se hace el foco",
+      "title_en": "How to make the focus",
+      "items": [
+        { "part": "voice", "es": "En la sílaba fuerte de la palabra foco, la voz <b>salta</b> de golpe (sube y luego cae). Es el gran «¡eh, mira aquí!» de la frase.", "en": "Your pitch jumps on the focus word." },
+        { "part": "air", "es": "Un poco <b>más de aire y de volumen</b>. No gritas: solo le das un empujoncito.", "en": "A little more air and volume." },
+        { "part": "jaw", "es": "Abre más la boca y <b>alarga la vocal</b>: I love <code>píiitsə</code>. Las demás palabras van rápidas.", "en": "Open your mouth more and make the vowel longer." },
+        { "part": "ear", "es": "El resto de la frase suena <b>flojito y rápido</b> (lo viste en el mapa R-03). ¡El foco brilla porque las demás se apagan!", "en": "The other words get small and quick." }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · La última palabra importante",
+      "title_en": "The last important word",
+      "icon": "🎯",
+      "es": "Si no hay nada especial que destacar, el foco cae en la <b>última palabra con significado</b> (sustantivo, verbo, adjetivo, adverbio). Las palabras gramaticales del final (it, you, me, one) <b>no cuentan</b>: el foco se queda en la anterior.",
+      "en": "In a neutral sentence, the focus falls on the last content word. Little words at the end (it, you, one) don't count.",
+      "formula": ["I love my *DOG* · I love *PIZZA* · I *LOVE* it"],
+      "examples": [
+        { "en": "I'd like some <em>WATER</em>.", "say": "aid láik səm <b>wárer</b>", "es": "Quiero agua.", "icon": "💧" },
+        { "en": "Let's go to the <em>PARK</em>.", "say": "lets góu tə də <b>párk</b>", "es": "Vamos al parque.", "icon": "🌳" },
+        { "en": "I play <em>SOCCER</em>.", "say": "ai pléi <b>sáker</b>", "es": "Juego al fútbol.", "icon": "⚽" },
+        { "en": "We live in <em>MADRID</em>.", "say": "wi lív in <b>mədríd</b>", "es": "Vivimos en Madrid.", "icon": "🏙️" },
+        { "en": "I love my <em>DOG</em>.", "say": "ai láv mai <b>dóg</b>", "es": "Quiero a mi perro.", "icon": "🐶" },
+        { "en": "It's very <em>COLD</em>.", "say": "its véri <b>kóuld</b>", "es": "Hace mucho frío.", "icon": "🥶" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Lo nuevo manda",
+      "title_en": "New information wins",
+      "icon": "🆕",
+      "es": "Una palabra que <b>ya ha salido</b> es información vieja y pierde el foco. Entonces el foco salta a lo <b>nuevo</b>: el color, el número, la opinión. Fíjate cómo «dog», «music» y «cats» se apagan la segunda vez.",
+      "en": "A word that has already been said is old news, so the focus jumps to the new word.",
+      "examples": [
+        { "en": "I have a <em>DOG</em>. A <em>BIG</em> dog.", "say": "ai jǽv ə <b>dóg</b>. ə <b>bíg</b> dog", "es": "Tengo un perro. Un perro GRANDE.", "icon": "🐕" },
+        { "en": "Do you like <em>MUSIC</em>? — I <em>LOVE</em> music!", "say": "dəiə láik <b>miúsik</b>? ai <b>láv</b> miúsik", "es": "¿Te gusta la música? — ¡Me ENCANTA!", "icon": "🎵" },
+        { "en": "I have two <em>CATS</em>. — I have <em>THREE</em> cats!", "say": "ai jæv tuu <b>kǽts</b>. ai jæv <b>zríi</b> kæts", "es": "Tengo dos gatos. — ¡Yo tengo TRES!", "icon": "🐈" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Para corregir y contrastar",
+      "title_en": "Correcting and contrasting",
+      "icon": "✋",
+      "es": "¿Alguien se equivoca? No hace falta un discurso: di la <b>palabra correcta</b> con todo el foco. Es la forma más rápida (y más americana) de corregir. Lo verás muchísimo con <b>números</b> (mapa R-06), días y colores.",
+      "en": "To correct someone, just put all the focus on the right word.",
+      "examples": [
+        { "en": "Is it red? — No, <em>BLUE</em>!", "say": "ísit réd? nou, <b>blúu</b>", "es": "¿Rojo? — ¡No, AZUL!", "icon": "🎨" },
+        { "en": "Fifteen? — No, <em>FIFTY</em>!", "say": "fiftíin? nou, <b>fífti</b>", "es": "¿Quince? — ¡No, CINCUENTA!", "icon": "🔢" },
+        { "en": "Tuesday? — No, <em>THURSDAY</em>!", "say": "túusdei? nou, <b>zérsdei</b>", "es": "¿Martes? — ¡No, JUEVES!", "icon": "📅" },
+        { "en": "Coffee? — No, <em>TEA</em>!", "say": "káfi? nou, <b>tíi</b>", "es": "¿Café? — ¡No, TÉ!", "icon": "🍵" },
+        { "en": "This? — No, <em>THAT</em> one.", "say": "dís? nou, <b>dǽt</b> wan", "es": "¿Este? — No, ESE.", "icon": "👉" },
+        { "en": "Is he ten? — No, <em>NINE</em>.", "say": "ísi tén? nou, <b>náin</b>", "es": "¿Tiene diez? — No, NUEVE.", "icon": "🎂" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Palabras pequeñas, foco grande",
+      "title_en": "Small words, big focus",
+      "icon": "🐜",
+      "es": "Palabras como <b>me, you, he, do, my</b> suelen ser débiles y rapidísimas (mapa H-03). Pero si son lo importante, se convierten en el foco y se dicen <b>enteras y fuertes</b>. ¡Ahí suenan exactamente como tus anclas!",
+      "en": "Little words are usually weak, but when they are the focus they become full and strong.",
+      "examples": [
+        { "en": "Nice to meet <em>YOU</em>!", "say": "náis tə míit <b>iúu</b>", "es": "¡Encantado (yo también)!", "icon": "🤝" },
+        { "en": "I <em>DO</em> like it!", "say": "ai <b>dúu</b> láik it", "es": "¡Que SÍ me gusta!", "icon": "😋" },
+        { "en": "Not <em>ME</em>!", "say": "nat <b>míi</b>", "es": "¡YO no!", "icon": "🙅" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas: palabras pequeñas en modo foco",
+      "title_en": "Spanish anchors: small words in focus",
+      "items": [
+        { "en": "I", "ipa": "aɪ", "say": "ai", "es": "yo", "icon": "☝️", "anchor": "¡<b>ay</b>! 😖", "tip": "Igual que «¡ay!». «Who's next? — <em>I</em> am!» = <code><b>ái</b> æm</code>, ¡YO!" },
+        { "en": "me", "ipa": "miː", "say": "mii", "es": "me / a mí", "icon": "🙋", "anchor": "a <b>mí</b> 🙋", "tip": "Mismo sonido y mismo sentido: «<em>ME</em>?» = ¿a MÍ? Alarga la i." },
+        { "en": "my", "ipa": "maɪ", "say": "mai", "es": "mi (mío)", "icon": "👧", "anchor": "<b>Mai</b>te 👧", "tip": "«It's <em>MY</em> pizza!» = <code>its <b>mái</b> píitsə</code>: ¡es MÍA!" },
+        { "en": "he", "ipa": "hiː", "say": "jii", "es": "él", "icon": "👦", "anchor": "¡<b>ji</b>, ji, ji! 🤭", "tip": "Una risita con j suave, como vaho. «<em>HE</em> did it!» = ¡fue ÉL!" },
+        { "en": "we", "ipa": "wiː", "say": "wii", "es": "nosotros", "icon": "👫", "anchor": "consola <b>Wii</b> 🎮", "tip": "«<em>WE</em> won!» = <code><b>wíi</b> wan</code>: ¡ganamos NOSOTROS!" },
+        { "en": "us", "ipa": "ʌs", "say": "as", "es": "nos / a nosotros", "icon": "👨‍👩‍👧", "anchor": "el <b>as</b> de picas ♠️", "tip": "«Not them, <em>US</em>!» = ¡a NOSOTROS! Una a corta y relajada." },
+        { "en": "do", "ipa": "duː", "say": "duu", "es": "sí que… (énfasis)", "icon": "😋", "anchor": "<b>du</b>cha 🚿", "tip": "«I <em>DO</em> like it!» = <code>ai <b>dúu</b> láik it</code>: ¡que SÍ me gusta!" },
+        { "en": "not", "ipa": "nɑt", "say": "nat", "es": "no", "icon": "🙅", "anchor": "<b>nat</b>a 🍰", "tip": "Quita la a final de «nata». «I'm <em>NOT</em> tired!» = ¡que NO estoy cansado!" },
+        { "en": "too", "ipa": "tuː", "say": "tuu", "es": "también", "icon": "👉", "anchor": "<b>tú</b> 👉", "tip": "«Me <em>TOO</em>!» = <code>mi <b>túu</b></code>: ¡yo también! Alarga la u." },
+        { "en": "said", "ipa": "sɛd", "say": "sed", "es": "dije / dijo", "icon": "🗣️", "anchor": "tengo <b>sed</b> 🥤", "tip": "«I <em>SAID</em> sorry!» = ¡que YA he pedido perdón! Di bien la d final." },
+        { "en": "now", "ipa": "naʊ", "say": "nau", "es": "ahora", "icon": "⏰", "anchor": "<b>náu</b>tico ⛵", "tip": "«Do it <em>NOW</em>!» = <code>dúu it <b>náu</b></code>: ¡hazlo YA!" },
+        { "en": "why", "ipa": "waɪ", "say": "wai", "es": "¿por qué?", "icon": "❓", "anchor": "Ha<b>wái</b> 🌺", "tip": "Como el final de «Hawái». «<em>WHY</em>?» sola y con fuerza = ¿POR QUÉ?" },
+        { "en": "blue", "ipa": "bluː", "say": "bluu", "es": "azul", "icon": "🔵", "anchor": "<b>blu</b>sa 👚", "tip": "«No, the <em>BLUE</em> one» = ¡no, la AZUL! Alarga la u." },
+        { "en": "tea", "ipa": "tiː", "say": "tii", "es": "té", "icon": "🍵", "anchor": "para <b>ti</b> 🎁", "tip": "«<em>TEA</em>, not coffee» = <code><b>tíi</b>, nat káfi</code>. Con un soplido en la t." }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "nice to meet you", "es": "encantado" },
+        { "q": "nice to meet you too", "es": "encantado también" },
+        { "q": "me too", "es": "yo también" },
+        { "q": "not me", "es": "yo no" },
+        { "q": "I do like", "es": "sí que me gusta" },
+        { "q": "the blue one", "es": "el azul" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Una frase, seis mensajes",
+      "title_en": "One sentence, six messages",
+      "icon": "🎭",
+      "head": ["Frase · Sentence", "Suena · Sounds like", "Significa… · Meaning"],
+      "rows": [
+        ["<em>I</em> didn't say she stole it.", "<code><b>ái</b> dídənt sei shi stoul it</code>", "Yo no lo dije: lo dijo <b>otra persona</b>."],
+        ["I <em>DIDN'T</em> say she stole it.", "<code>ai <b>dídənt</b> sei shi stoul it</code>", "¡Que <b>no</b> lo dije! (lo niego)"],
+        ["I didn't <em>SAY</em> she stole it.", "<code>ai dídənt <b>séi</b> shi stoul it</code>", "No lo <b>dije</b>… solo lo insinué 😏"],
+        ["I didn't say <em>SHE</em> stole it.", "<code>ai dídənt sei <b>shíi</b> stoul it</code>", "No dije que fuera <b>ella</b> (fue otra)."],
+        ["I didn't say she <em>STOLE</em> it.", "<code>ai dídənt sei shi <b>stóul</b> it</code>", "No dije que lo <b>robara</b> (¿lo cogió prestado?)."],
+        ["I didn't say she stole <em>IT</em>.", "<code>ai dídənt sei shi stoul <b>ít</b></code>", "No dije que robara <b>eso</b> (robó otra cosa)."]
+      ],
+      "note": "<b>Se escribe igual, se dice distinto.</b> En español cambiaríamos palabras («fue ELLA quien…»); en inglés basta con <b>mover el foco</b>.",
+      "note_en": "Same words, different focus, different meaning."
+    },
+    {
+      "t": "stress",
+      "wide": true,
+      "cols": 2,
+      "title": "¿Dónde está el foco?",
+      "title_en": "Where is the focus?",
+      "icon": "🥁",
+      "es": "Aquí cada «sílaba» es una palabra entera. La del golpe grande (●) es el foco. Di cada frase y escucha cómo cambia el mensaje.",
+      "en": "Each dot is a word. The big dot is the focus.",
+      "items": [
+        { "syl": ["Rocky", "ate", "my", "sandwich"], "s": 0, "say": "ráki eit mai sǽnwich", "es": "Fue ROCKY (no Mario).", "icon": "🐶" },
+        { "syl": ["Jenny", "has", "a", "red", "bike"], "s": 0, "say": "yéni jæs ə red baik", "es": "JENNY (no Lucía).", "icon": "👧" },
+        { "syl": ["Rocky", "ate", "my", "sandwich"], "s": 1, "say": "ráki éit mai sǽnwich", "es": "¡Se lo COMIÓ! (no lo olió).", "icon": "😋" },
+        { "syl": ["Jenny", "has", "a", "red", "bike"], "s": 1, "say": "yéni jǽs ə red baik", "es": "¡Sí que la TIENE!", "icon": "✅" },
+        { "syl": ["Rocky", "ate", "my", "sandwich"], "s": 2, "say": "ráki eit mái sǽnwich", "es": "El MÍO (no el tuyo).", "icon": "🙋" },
+        { "syl": ["Jenny", "has", "a", "red", "bike"], "s": 3, "say": "yéni jæs ə réd baik", "es": "ROJA (no azul).", "icon": "🔴" },
+        { "syl": ["Rocky", "ate", "my", "sandwich"], "s": 3, "say": "ráki eit mai sǽnwich", "es": "Normal: ¿qué se comió?", "icon": "🥪" },
+        { "syl": ["Jenny", "has", "a", "red", "bike"], "s": 4, "say": "yéni jæs ə red báik", "es": "Normal: ¿qué tiene?", "icon": "🚲" }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿Cómo destacamos una palabra?",
+      "title_en": "How do we highlight a word?",
+      "icon": "⚖️",
+      "es": "En español solemos <b>cambiar el orden</b> o <b>añadir palabras</b>. En inglés el orden se queda quieto y <b>trabaja la voz</b>.",
+      "en": "Spanish moves or adds words. English keeps the order and uses the voice.",
+      "cols": [
+        { "head": "🇪🇸 Español", "color": "orange", "items": ["Movemos palabras: «Lo rompió <b>Mario</b>»", "Añadimos: «Fue <b>él</b> quien…»", "«<b>Sí que</b> me gusta»", "«<b>Yo</b> no he sido»"] },
+        { "head": "🇺🇸 Inglés", "color": "blue", "items": ["Mismo orden: «<em>MARIO</em> broke it»", "Solo la voz: «<em>HE</em> did it»", "«I <em>DO</em> like it»", "«<em>I</em> didn't do it»"] }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "Mismas palabras, otro foco",
+      "title_en": "Same words, different focus",
+      "icon": "👯",
+      "items": [
+        {
+          "a": { "en": "Nice to <em>MEET</em> you.", "ipa": "ˌnaɪs tə ˈmiːt ju", "say": "náis tə <b>míit</b> iu", "es": "al saludar", "icon": "🤝" },
+          "b": { "en": "Nice to meet <em>YOU</em>!", "ipa": "ˌnaɪs tə ˌmiːt ˈjuː", "say": "náis tə míit <b>iúu</b>", "es": "al responder", "icon": "😊" },
+          "tip": "Quien saluda primero pone el foco en MEET; quien contesta lo pasa a YOU."
+        },
+        {
+          "a": { "en": "I <em>LOVE</em> you.", "ipa": "aɪ ˈlʌv ju", "say": "ai <b>láv</b> iu", "es": "te quiero", "icon": "❤️" },
+          "b": { "en": "I love <em>YOU</em>.", "ipa": "aɪ ˌlʌv ˈjuː", "say": "ai lav <b>iúu</b>", "es": "a TI (no a otra)", "icon": "👉" },
+          "tip": "Para un «te quiero» normal, el foco va en LOVE. Con YOU fuerte, ¡hay otra persona en la historia!"
+        },
+        {
+          "a": { "en": "<em>THANK</em> you.", "ipa": "ˈθæŋk ju", "say": "<b>zǽnk</b> iu", "es": "gracias", "icon": "🙏" },
+          "b": { "en": "Thank <em>YOU</em>!", "ipa": "ˌθæŋk ˈjuː", "say": "zænk <b>iúu</b>", "es": "¡gracias a TI!", "icon": "🤗" },
+          "tip": "Si alguien te da las gracias y tú también quieres dárselas: «No, thank YOU!»"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "I'm from <em>SPAIN</em>.", "say": "aim frəm <b>spéin</b>", "es": "Soy de España.", "icon": "🇪🇸" },
+        { "en": "Let's go <em>HOME</em>.", "say": "lets gou <b>jóum</b>", "es": "Vámonos a casa.", "icon": "🏠" },
+        { "en": "I need a <em>TAXI</em>.", "say": "ai níid ə <b>tǽksi</b>", "es": "Necesito un taxi.", "icon": "🚕" },
+        { "en": "Close the <em>DOOR</em>, please.", "say": "klóus də <b>dór</b>, pliis", "es": "Cierra la puerta, por favor.", "icon": "🚪" },
+        { "en": "I don't want <em>MILK</em>. I want <em>JUICE</em>.", "say": "ai dóunt want <b>mílk</b>. ai want <b>yúus</b>", "es": "No quiero leche. Quiero ZUMO.", "icon": "🧃" },
+        { "en": "It's not <em>MY</em> phone. It's <em>TYLER'S</em>.", "say": "its nat <b>mái</b> foun. its <b>táilers</b>", "es": "No es MI móvil. Es de TYLER.", "icon": "📱" },
+        { "en": "<em>WE</em> won the game!", "say": "<b>wíi</b> wan də guéim", "es": "¡Hemos ganado NOSOTROS!", "icon": "🏆" },
+        { "en": "I <em>DID</em> do my homework!", "say": "ai <b>díd</b> du mai jóumwerk", "es": "¡Que SÍ hice los deberes!", "icon": "📚" },
+        { "en": "Is this your <em>BAG</em>? — No, it's <em>JENNY'S</em>.", "say": "is dis ier <b>bǽg</b>? nou, its <b>yénis</b>", "es": "¿Es tu bolsa? — No, es de JENNY.", "icon": "👜" },
+        { "en": "Me <em>TOO</em>!", "say": "mi <b>túu</b>", "es": "¡Yo también!", "icon": "🙌" },
+        { "en": "Not <em>NOW</em>, Rocky!", "say": "nat <b>náu</b>, ráki", "es": "¡Ahora NO, Rocky!", "icon": "🐕" },
+        { "en": "I like the <em>RED</em> one.", "say": "ai láik də <b>réd</b> wan", "es": "Me gusta el ROJO.", "icon": "🍎" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "«te quiero» → I love <em>YOU</em>.", "good": "I <em>LOVE</em> you.", "why": "Con YOU fuerte suena a «a TI, no a otra». Para un «te quiero» normal, el foco va en LOVE.", "why_en": "Stress LOVE unless you are comparing people." },
+        { "bad": "Al saludar: Nice to meet <em>YOU</em>.", "good": "Nice to <em>MEET</em> you.", "why": "YOU fuerte es la respuesta, no el saludo.", "why_en": "Stressed YOU is the reply, not the greeting." },
+        { "bad": "<em>I WANT A PIZZA</em> (todo fuerte, como un robot 🤖)", "good": "I want a <em>PIZZA</em>.", "why": "Si todo es fuerte, nada destaca. Elige una palabra y deja las demás flojitas.", "why_en": "If everything is strong, nothing stands out." },
+        { "bad": "Red? — No, it's blue. (voz plana 😐)", "good": "No, it's <em>BLUE</em>!", "why": "Sin foco parece que no corriges nada. La palabra correcta tiene que brillar.", "why_en": "Make the correct word shine." },
+        { "bad": "I have a black cat and a white <em>CAT</em>.", "good": "I have a <em>BLACK</em> cat and a <em>WHITE</em> cat.", "why": "«Cat» ya lo has dicho: lo nuevo es el color.", "why_en": "Cat is old news; the color is new." },
+        { "bad": "Who broke it? — Mario <em>BROKE</em> it. / <s>Broke it Mario.</s>", "good": "<em>MARIO</em> broke it.", "why": "Te preguntan QUIÉN: el foco va en el nombre. Y no cambies el orden como en español.", "why_en": "They ask WHO, so stress the name. Don't change the word order." },
+        { "bad": "I'm going <em>TO</em> the park.", "good": "I'm going to the <em>PARK</em>.", "why": "To, the, a, of casi nunca llevan el foco (mapa H-03).", "why_en": "Grammar words almost never take the focus." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En la pizzería",
+      "title_en": "At the pizza place",
+      "lines": [
+        { "who": "Tyler", "en": "Hi! I'm Tyler. Nice to <em>MEET</em> you.", "say": "jái! aim táiler. náis tə <b>míit</b> iu", "es": "¡Hola! Soy Tyler. Encantado." },
+        { "who": "Mario", "en": "Nice to meet <em>YOU</em>! I'm <em>MARIO</em>.", "say": "náis tə míit <b>iúu</b>! aim <b>máriou</b>", "es": "¡Encantado! Soy Mario." },
+        { "who": "Tyler", "en": "Do you want a <em>PIZZA</em>?", "say": "dəiə wánə <b>píitsə</b>?", "es": "¿Quieres una pizza?" },
+        { "who": "Mario", "en": "Yes! A <em>BIG</em> pizza. With <em>CHEESE</em>.", "say": "iés! ə <b>bíg</b> píitsə. wid <b>chíis</b>", "es": "¡Sí! Una pizza GRANDE. Con QUESO." },
+        { "who": "Tyler", "en": "Do you like <em>PINEAPPLE</em>?", "say": "dəiə láik <b>páinæpəl</b>?", "es": "¿Te gusta la piña?" },
+        { "who": "Mario", "en": "No way! I <em>HATE</em> pineapple!", "say": "nou wéi! ai <b>jéit</b> páinæpəl!", "es": "¡Ni hablar! ¡ODIO la piña!" },
+        { "who": "Tyler", "en": "Really? I <em>LOVE</em> pineapple!", "say": "ríli? ai <b>láv</b> páinæpəl!", "es": "¿En serio? ¡A mí me ENCANTA!" },
+        { "who": "Mario", "en": "OK! The pineapple is for <em>YOU</em>!", "say": "oukéi! də páinæpəl is fer <b>iúu</b>!", "es": "¡Vale! ¡La piña es para TI!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        { "es": "Lee la frase y pregúntate: ¿qué es lo <b>nuevo</b> o lo <b>importante</b>?", "en": "Ask yourself: what is new or important?" },
+        { "es": "Subraya esa palabra: es tu <b>palabra foco</b>.", "en": "Underline that word." },
+        { "es": "Di la frase <b>exagerando</b> el foco: más alto, más largo… ¡como en el teatro! 🎭", "en": "Say it with a big, exaggerated focus." },
+        { "es": "Ahora dila normal: el foco destaca y el resto va <b>rápido y flojito</b>.", "en": "Now say it naturally." },
+        { "es": "Juega con alguien: di «Rocky ate my sandwich» moviendo el foco y que adivine qué quieres decir.", "en": "Play a game: move the focus and let your partner guess the meaning." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Juegos de foco",
+      "title_en": "Focus games",
+      "items": [
+        { "en": "Not the <em>BIG</em> red bag, the <em>SMALL</em> red bag!", "say": "nat də <b>bíg</b> red bæg, də <b>smól</b> red bæg!", "es": "¡La bolsa roja GRANDE no, la PEQUEÑA!" },
+        { "en": "I said <em>TEN</em>, not two! — <em>TWO</em>, not ten?", "say": "ai sed <b>tén</b>, nat tuu! <b>túu</b>, nat ten?", "es": "¡Dije DIEZ, no dos! — ¿DOS, no diez?" },
+        { "en": "Is it a <em>BLACK</em> cat or a <em>WHITE</em> cat? It's a <em>BLACK-AND-WHITE</em> cat!", "say": "ísit ə <b>blǽk</b> kæt or ə <b>wáit</b> kæt? its ə <b>blǽk ən wáit</b> kæt!", "es": "¿Es un gato NEGRO o BLANCO? ¡Es un gato BLANCO Y NEGRO!" }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de la linterna",
+      "title_en": "The flashlight trick",
+      "es": "Imagina que tu voz es una <b>linterna</b> 🔦 y solo puedes iluminar <b>una palabra</b> por frase. Antes de hablar, pregúntate qué es lo nuevo o lo importante… ¡e ilumínalo! Y si alguien se equivoca, mueve la linterna a la palabra correcta: «No, <em>BLUE</em>!»",
+      "en": "Your voice is a flashlight: light up one word per sentence, the new or important one."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Dónde está el foco?",
+      "title_en": "Where is the focus?",
+      "icon": "🔦",
+      "es": "Lee cada frase en voz alta, de forma normal, y rodea la palabra foco.",
+      "en": "Read each sentence normally and circle the focus word.",
+      "items": [
+        { "q": "I need a taxi. → [need|taxi]", "a": "taxi" },
+        { "q": "Let's go home. → [go|home]", "a": "home" },
+        { "q": "I love you. → [love|you]", "a": "love" },
+        { "q": "Nice to meet you. → [nice|meet]", "a": "meet" },
+        { "q": "Close the door. → [close|door]", "a": "door" },
+        { "q": "I'm from Spain. → [I'm|Spain]", "a": "Spain" },
+        { "q": "What's your name? → [what's|name]", "a": "name" },
+        { "q": "I don't know. → [don't|know]", "a": "know" },
+        { "q": "Thank you. → [thank|you]", "a": "thank" },
+        { "q": "Where do you live? → [where|live]", "a": "live" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Normal o contraste?",
+      "title_en": "Neutral or contrast?",
+      "icon": "🗂️",
+      "es": "Fíjate en la palabra en MAYÚSCULAS. ¿Es el foco normal (al final) o un foco movido para contrastar? Escribe cada frase en su columna.",
+      "en": "Is the focus neutral (at the end) or moved for contrast?",
+      "cats": [
+        { "name": "🎯 Foco normal (al final)", "words": ["I'm from SPAIN", "Let's go HOME", "I need a TAXI", "Close the DOOR", "I love my DOG"] },
+        { "name": "🔀 Foco movido (contraste)", "words": ["MY bike is red", "SHE did it", "I DO like it", "Not THAT door", "WE won"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "¿Qué significa?",
+      "title_en": "What does it mean?",
+      "icon": "🔗",
+      "es": "Une cada frase con su significado. ¡Mira dónde está el foco!",
+      "en": "Match each sentence with its meaning.",
+      "pairs": [
+        ["<em>ROCKY</em> ate my sandwich.", "Fue Rocky, no Mario."],
+        ["Rocky <em>ATE</em> my sandwich.", "Se lo comió (¡no solo lo olió!)."],
+        ["Rocky ate <em>MY</em> sandwich.", "El mío, no el tuyo."],
+        ["Rocky ate my <em>SANDWICH</em>.", "El sándwich, no la pizza."],
+        ["<em>I</em> didn't say she stole it.", "Lo dijo otra persona."],
+        ["I <em>DIDN'T</em> say she stole it.", "¡Que no lo dije!"],
+        ["I didn't say <em>SHE</em> stole it.", "Lo robó otra persona."],
+        ["I didn't say she stole <em>IT</em>.", "Robó otra cosa."]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿A qué pregunta responde?",
+      "title_en": "Which question does it answer?",
+      "icon": "❓",
+      "es": "El foco responde a una pregunta. Rodea la pregunta correcta.",
+      "en": "Circle the question that each sentence answers.",
+      "items": [
+        { "q": "<em>ROCKY</em> ate my sandwich. → [Who ate it?|What did he eat?]", "a": "Who ate it?" },
+        { "q": "Rocky ate my <em>SANDWICH</em>. → [Who ate it?|What did he eat?]", "a": "What did he eat?" },
+        { "q": "<em>WE</em> play on Saturday. → [Who?|When?]", "a": "Who?" },
+        { "q": "We play on <em>SATURDAY</em>. → [Who?|When?]", "a": "When?" },
+        { "q": "I have <em>TWO</em> cats. → [How many?|What?]", "a": "How many?" },
+        { "q": "I have two <em>CATS</em>. → [How many?|What?]", "a": "What?" },
+        { "q": "<em>JENNY</em> lives in Boston. → [Who?|Where?]", "a": "Who?" },
+        { "q": "Jenny lives in <em>BOSTON</em>. → [Who?|Where?]", "a": "Where?" }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la palabra foco",
+      "title_en": "Circle the focus word",
+      "icon": "🥁",
+      "es": "Entre paréntesis tienes lo que te han dicho antes. Rodea la palabra foco de la respuesta.",
+      "en": "The context is in brackets. Circle the focus word of the answer.",
+      "items": [
+        { "syl": ["No,", "it's", "blue"], "s": 2, "es": "Is it red?" },
+        { "syl": ["I", "love", "pizza"], "s": 2, "es": "sin contexto" },
+        { "syl": ["Nice", "to", "meet", "you"], "s": 3, "es": "te dicen: Nice to meet you" },
+        { "syl": ["Nice", "to", "meet", "you"], "s": 2, "es": "saludas tú primero" },
+        { "syl": ["I", "do", "like", "it"], "s": 1, "es": "You don't like it!" },
+        { "syl": ["Me", "too"], "s": 1, "es": "I love dogs!" },
+        { "syl": ["Not", "me"], "s": 1, "es": "Who broke it?" },
+        { "syl": ["It's", "my", "bike"], "s": 1, "es": "Is it Tyler's bike?" },
+        { "syl": ["I", "have", "three", "cats"], "s": 2, "es": "Do you have two cats?" },
+        { "syl": ["Mario", "broke", "it"], "s": 0, "es": "Who broke it?" }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Palabras pequeñas en modo foco",
+      "title_en": "Small words in focus mode",
+      "icon": "✍️",
+      "es": "Estas palabras suelen ser débiles, pero cuando son el foco se dicen enteras. Escribe cómo suenan en modo foco.",
+      "en": "Write how these little words sound when they are the focus.",
+      "items": [
+        { "q": "🙋 me → ____", "a": "mii" },
+        { "q": "👉 you → ____", "a": "iuu" },
+        { "q": "👦 he → ____", "a": "jii" },
+        { "q": "👩 she → ____", "a": "shii" },
+        { "q": "👫 we → ____", "a": "wii" },
+        { "q": "♠️ us → ____", "a": "as" },
+        { "q": "🚿 do → ____", "a": "duu" },
+        { "q": "👥 them → ____", "a": "dem" },
+        { "q": "👧 her → ____", "a": "jer" },
+        { "q": "➡️ to → ____", "a": "tuu" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "Every sentence has a focus word that is louder, longer and higher.", "a": true },
+        { "q": "The focus word is usually the first word of the sentence.", "a": false, "why": "suele ser la última palabra importante" },
+        { "q": "«The», «a» and «to» are usually the focus word.", "a": false, "why": "son palabras débiles (mapa H-03)" },
+        { "q": "Moving the focus can change the meaning of a sentence.", "a": true },
+        { "q": "To correct someone, you stress the new, correct word.", "a": true },
+        { "q": "«I love YOU» is the normal way to say «te quiero».", "a": false, "why": "lo normal es I LOVE you" },
+        { "q": "In English, you change the word order to highlight a word, like in Spanish.", "a": false, "why": "en inglés se mueve la voz, no las palabras" },
+        { "q": "A word that has already been said usually loses the focus.", "a": true }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Pregunta, respuesta y foco",
+      "title_en": "Question, answer and focus",
+      "icon": "📋",
+      "es": "La misma respuesta cambia de foco según la pregunta. Escribe la palabra foco.",
+      "en": "Write the focus word of each answer.",
+      "head": ["Pregunta · Question", "Respuesta · Answer", "Foco · Focus"],
+      "rows": [
+        ["Where do you live?", "I live in Madrid.", "?Madrid"],
+        ["Who lives in Madrid?", "I live in Madrid.", "?I"],
+        ["What does Rocky eat?", "Rocky eats cookies.", "?cookies"],
+        ["Who eats cookies?", "Rocky eats cookies.", "?Rocky"],
+        ["Does Rocky eat cookies?", "Yes, he does!", "?does"],
+        ["What color is it?", "It's red.", "?red"],
+        ["Is it a red bike?", "No, it's a red car.", "?car"],
+        ["Is it a blue car?", "No, it's a red car.", "?red"]
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena y pon el foco",
+      "title_en": "Put in order and stress",
+      "icon": "🧩",
+      "es": "Ordena las fichas. Después di la frase con fuerza en la palabra en MAYÚSCULAS.",
+      "en": "Put the words in order and stress the word in capitals.",
+      "items": [
+        { "q": "MEET / to / you / Nice", "a": "Nice to MEET you." },
+        { "q": "one / BLUE / No, / the", "a": "No, the BLUE one." },
+        { "q": "like / I / it / DO", "a": "I DO like it!" },
+        { "q": "HOME / go / Let's", "a": "Let's go HOME." },
+        { "q": "not / coffee / TEA,", "a": "TEA, not coffee." },
+        { "q": "bike / MY / It's", "a": "It's MY bike." },
+        { "q": "a / dog / BIG / I / have", "a": "I have a BIG dog." },
+        { "q": "won / WE / game / the", "a": "WE won the game!" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Corrige con el foco",
+      "title_en": "Correct with focus",
+      "icon": "✋",
+      "es": "Alguien se equivoca. La palabra correcta está entre paréntesis. Corrígele con una frase corta y escribe el foco en MAYÚSCULAS.",
+      "en": "Correct each sentence. Write the focus word in capitals.",
+      "items": [
+        { "q": "Mario is ten. (→ eleven)", "a": "No, he's ELEVEN." },
+        { "q": "Rocky is a cat. (→ dog)", "a": "No, he's a DOG." },
+        { "q": "The party is on Friday. (→ Saturday)", "a": "No, it's on SATURDAY." },
+        { "q": "Your bike is blue. (→ green)", "a": "No, it's GREEN." },
+        { "q": "Jenny lives in Texas. (→ Ohio)", "a": "No, she lives in OHIO." },
+        { "q": "You have two sisters. (→ one)", "a": "No, I have ONE sister." },
+        { "q": "Tyler broke the window. (→ Mike)", "a": "No, MIKE broke it." },
+        { "q": "The cake is for Lucía. (→ me)", "a": "No, it's for ME!" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "El foco está mal",
+      "title_en": "Wrong focus",
+      "icon": "🩹",
+      "es": "El foco está en el sitio equivocado. Escribe la frase bien, con la palabra foco en MAYÚSCULAS.",
+      "en": "The focus is in the wrong place. Fix it.",
+      "items": [
+        { "q": "(Saludas a alguien nuevo) Nice to meet <em>YOU</em>.", "a": "Nice to MEET you." },
+        { "q": "(Le dices «te quiero» a tu madre) I love <em>YOU</em>.", "a": "I LOVE you." },
+        { "q": "(Who broke it?) Mario <em>BROKE</em> it.", "a": "MARIO broke it." },
+        { "q": "(Is it a red car?) No, it's a blue <em>CAR</em>.", "a": "No, it's a BLUE car." },
+        { "q": "(Normal) I'm going <em>TO</em> the park.", "a": "I'm going to the PARK." },
+        { "q": "(Do you like dogs?) Yes, I love <em>DOGS</em>!", "a": "Yes, I LOVE dogs!" },
+        { "q": "(Normal) <em>THE</em> pizza is hot.", "a": "The pizza is HOT." },
+        { "q": "(I love cats!) <em>ME</em> too!", "a": "Me TOO!" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y pon el foco",
+      "title_en": "Translate and stress",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Escribe el foco en MAYÚSCULAS y dilo en voz alta.",
+      "en": "Translate into English and stress the focus word.",
+      "items": [
+        { "q": "Lo hizo ELLA.", "a": "SHE did it. (shíi did it)" },
+        { "q": "¡Que SÍ me gusta!", "a": "I DO like it! (ai dúu láik it)" },
+        { "q": "¡YO no!", "a": "Not ME! (nat míi)" },
+        { "q": "¡Yo también!", "a": "Me TOO! (mi túu)" },
+        { "q": "No, el AZUL.", "a": "No, the BLUE one. (nou, də blúu wan)" },
+        { "q": "Encantado (al responder).", "a": "Nice to meet YOU! (náis tə míit iúu)" },
+        { "q": "Te quiero.", "a": "I LOVE you. (ai láv iu)" },
+        { "q": "¡Hazlo YA!", "a": "Do it NOW! (dúu it náu)" },
+        { "q": "Es MI bici.", "a": "It's MY bike. (its mái baik)" },
+        { "q": "¡Gracias a TI!", "a": "Thank YOU! (zænk iúu)" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (exagerando, normal, rápido) y marca una casilla cada vez. ¡Que el foco brille!",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "Nice to <em>MEET</em> you.", "say": "náis tə <b>míit</b> iu" },
+        { "q": "Nice to meet <em>YOU</em>!", "say": "náis tə míit <b>iúu</b>" },
+        { "q": "No, the <em>BLUE</em> one.", "say": "nou, də <b>blúu</b> wan" },
+        { "q": "I <em>DO</em> like it!", "say": "ai <b>dúu</b> láik it" },
+        { "q": "<em>ROCKY</em> ate my sandwich!", "say": "<b>ráki</b> eit mai sǽnwich" },
+        { "q": "Fifteen? No, <em>FIFTY</em>!", "say": "fiftíin? nou, <b>fífti</b>" },
+        { "q": "It's not <em>MY</em> phone.", "say": "its nat <b>mái</b> foun" },
+        { "q": "I didn't say <em>SHE</em> stole it.", "say": "ai dídənt sei <b>shíi</b> stoul it" },
+        { "q": "Me <em>TOO</em>!", "say": "mi <b>túu</b>" },
+        { "q": "<em>WE</em> won!", "say": "<b>wíi</b> wan" }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza el foco",
+      "title_en": "Read and find the focus",
+      "icon": "📖",
+      "es": "Lee la historia en voz alta, con fuerza en las palabras en MAYÚSCULAS. Después contesta.",
+      "en": "Read the story aloud, then answer.",
+      "text_title": "The lost sandwich",
+      "text": [
+        "Mario makes a big sandwich and puts it on the TABLE. Then he goes to the BATHROOM. When he comes back… the sandwich isn't THERE!",
+        "“Lucía, did YOU eat my sandwich?” “Not ME! Ask ROCKY!” Rocky is under the table. He has bread on his NOSE. “Rocky! You ate MY sandwich!” Rocky just wags his TAIL."
+      ],
+      "items": [
+        { "q": "What does Mario put on the table?", "a": "A big sandwich." },
+        { "q": "In «Did YOU eat my sandwich?», why is YOU the focus?", "a": "Porque Mario le pregunta a Lucía en concreto: ¿TÚ? (contraste)." },
+        { "q": "Who ate the sandwich?", "a": "Rocky, the dog." },
+        { "q": "Lucía says «Not ME!» because she didn't eat it.", "tf": true, "a": true },
+        { "q": "In «You ate MY sandwich», Mario means «the sandwich, not the pizza».", "tf": true, "a": false, "why": "significa «el MÍO»" },
+        { "q": "Rocky has bread on his nose.", "tf": true, "a": true }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases, marca el foco en MAYÚSCULAS, léelas en voz alta y grábate.",
+      "en": "Write your own sentences, mark the focus and record yourself.",
+      "items": [
+        { "q": "Alguien dice algo falso sobre ti. Corrígele.", "lines": 2, "a": "Ej.: You're twelve? — No, I'm ELEVEN." },
+        { "q": "Una frase con «I DO…» para decir que sí te gusta algo.", "lines": 2, "a": "Ej.: I DO like broccoli!" },
+        { "q": "Inventa una frase y escríbela tres veces moviendo el foco.", "lines": 3, "a": "Ej.: MY cat is black. / My CAT is black. / My cat is BLACK." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé encontrar la <b>palabra foco</b> de una frase.", "en": "I can find the focus word." },
+    { "es": "Sé que normalmente va en la <b>última palabra importante</b>.", "en": "I know it's usually the last important word." },
+    { "es": "Corrijo con el foco: «No, <em>BLUE</em>!»", "en": "I can correct someone with focus." },
+    { "es": "Digo <b>Nice to MEET you</b> al saludar y <b>Nice to meet YOU</b> al responder.", "en": "I can greet and reply with the right focus." },
+    { "es": "Sé que «I didn't say she stole it» tiene seis significados.", "en": "I know one sentence can have six meanings." },
+    { "es": "Digo «I <em>LOVE</em> you», no «I love <em>YOU</em>» (¡salvo que haya otra persona! 😉).", "en": "I say I LOVE you with the right focus." }
+  ]
+}

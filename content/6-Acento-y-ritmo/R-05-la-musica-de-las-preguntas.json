@@ -1,0 +1,655 @@
+{
+  "id": "R-05",
+  "block": "R",
+  "title": "LA MÚSICA DEL INGLÉS",
+  "file_title": "La música del inglés (entonación)",
+  "subtitle": "Intonation · la voz sube ↗ y baja ↘",
+  "icon": "🎶",
+  "map": {
+    "center": "La voz <b>baja ↘</b> al afirmar y en las preguntas <b>wh-</b>, y <b>sube ↗</b> en las preguntas de <b>sí/no</b>.",
+    "listen": "are you ready",
+    "nodes": [
+      {
+        "title": "Baja ↘",
+        "icon": "📉",
+        "color": "green",
+        "rows": [
+          ["I'm from ↘Spain.", "<code>aim frəm spéin</code>"],
+          ["Where do you ↘live?", "<code>wer dəiə lív</code>"]
+        ],
+        "after": "afirmaciones y preguntas <b>wh-</b>"
+      },
+      {
+        "title": "Sube ↗",
+        "icon": "📈",
+        "color": "blue",
+        "rows": [
+          ["Are you ↗ready?", "<code>er iə rédi</code>"],
+          ["Do you like ↗cats?", "<code>dəiə láik kǽts</code>"]
+        ],
+        "after": "preguntas de <b>sí o no</b>"
+      },
+      {
+        "title": "Listas",
+        "icon": "🛒",
+        "color": "purple",
+        "html": "Sube, sube… ¡y <b>baja</b> al final!",
+        "items": [
+          "↗eggs, ↗milk and ↘bread",
+          "↗tea or ↘coffee?"
+        ]
+      },
+      {
+        "title": "Question tags",
+        "icon": "🏷️",
+        "color": "orange",
+        "items": [
+          "It's cold, ↘isn't it? → <b>confirmo</b>",
+          "You're Tyler, ↗aren't you? → <b>pregunto</b>"
+        ]
+      },
+      {
+        "title": "Sorpresa y cortesía",
+        "icon": "😲",
+        "color": "pink",
+        "items": [
+          "↗Really? → ¡no me digas!",
+          "↗Sorry? → ¿cómo?",
+          "↘Sorry. → lo siento"
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "¡No hables <b>plano</b> 😐! Exagera las subidas y bajadas: <b>más música = más simpatía</b> 😊",
+        "art": "🎢"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["Where do you ↗live? (subiendo)"],
+      "good": ["Where do you ↘live? 🏠"],
+      "note": "Subiendo suenas inseguro… ¡o parece que no has oído la respuesta!"
+    },
+    "mini": {
+      "es": "¿Sube ↗ o baja ↘?",
+      "en": "Up or down?",
+      "items": [
+        { "q": "🏠 Where do you live? → ___", "a": "↘" },
+        { "q": "🎒 Are you ready? → ___", "a": "↗" },
+        { "q": "🇪🇸 I'm from Spain. → ___", "a": "↘" },
+        { "q": "🐶 Do you have a dog? → ___", "a": "↗" },
+        { "q": "❓ What's your name? → ___", "a": "↘" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la entonación?",
+      "title_en": "What is intonation?",
+      "icon": "🎶",
+      "es": "La entonación es la <b>música</b> de la voz: cómo <b>sube ↗</b> y <b>baja ↘</b> mientras hablas. El español también la tiene, pero el inglés hace <mark>subidas y bajadas más grandes</mark>, como una montaña rusa 🎢. Con las mismas palabras puedes preguntar, afirmar, sorprenderte o sonar amable… o antipático. La subida o la bajada empieza en la <b>palabra foco</b> (mapa R-04) y sigue hasta el final de la frase.",
+      "en": "Intonation is the music of your voice: how it goes up and down. English uses bigger ups and downs than Spanish. The movement starts on the focus word.",
+      "formula": ["↘ baja = *he terminado, estoy seguro*", "↗ sube = *pregunto, sigo, dudo*"]
+    },
+    {
+      "t": "mouth",
+      "title": "Cómo se hace la música",
+      "title_en": "How to make the music",
+      "items": [
+        { "part": "voice", "es": "Tu voz es un <b>ascensor</b> 🛗: en las preguntas de sí/no sube ↗, en las afirmaciones baja ↘. Pon la mano en la garganta y nota cómo cambia.", "en": "Your voice is an elevator: up for yes/no questions, down for statements." },
+        { "part": "ear", "es": "Los americanos hacen subidas y bajadas <b>más grandes</b> que nosotros. Escúchalas en los QR y fíjate solo en la música.", "en": "Americans use bigger ups and downs. Listen for the music." },
+        { "part": "lips", "es": "Una pequeña <b>sonrisa</b> ayuda: la voz se vuelve más alegre y amable 😊.", "en": "A small smile makes your voice friendlier." },
+        { "part": "air", "es": "Al bajar ↘, el aire se acaba suave, como un suspiro. Al subir ↗, la frase se queda «en el aire», esperando respuesta.", "en": "Going down sounds finished; going up waits for an answer." }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Afirmaciones: bajan ↘",
+      "title_en": "Statements go down",
+      "icon": "📉",
+      "es": "Cuando <b>das información</b>, la voz cae al final, en la palabra foco. Esa bajada dice «he terminado, estoy seguro». Si subes, parece que dudas o que aún no has acabado.",
+      "en": "When you give information, your voice falls at the end.",
+      "examples": [
+        { "en": "I'm from ↘Spain.", "say": "aim frəm spéin", "es": "Soy de España.", "icon": "🇪🇸" },
+        { "en": "It's really ↘cold.", "say": "its ríli kóuld", "es": "Hace mucho frío.", "icon": "🥶" },
+        { "en": "My dog's name is ↘Rocky.", "say": "mai dógs néim is ráki", "es": "Mi perro se llama Rocky.", "icon": "🐶" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Preguntas wh-: también bajan ↘",
+      "title_en": "Wh- questions go down",
+      "icon": "❓",
+      "es": "Las preguntas con <b>what, where, who, when, why, how</b> <mark>bajan</mark> al final, ¡como una afirmación! La palabra interrogativa ya avisa de que es una pregunta. Muchos hispanohablantes las suben y suenan inseguros.",
+      "en": "Questions with what, where, who, when, why and how usually fall at the end.",
+      "examples": [
+        { "en": "Where do you ↘live?", "say": "wer dəiə lív", "es": "¿Dónde vives?", "icon": "🏠" },
+        { "en": "What's your ↘name?", "say": "wats ier néim", "es": "¿Cómo te llamas?", "icon": "📛" },
+        { "en": "How ↘old are you?", "say": "jau óuld er iə", "es": "¿Cuántos años tienes?", "icon": "🎂" },
+        { "en": "What ↘time is it?", "say": "wat táim is it", "es": "¿Qué hora es?", "icon": "⏰" },
+        { "en": "Why are you ↘late?", "say": "wai er iə léit", "es": "¿Por qué llegas tarde?", "icon": "🏃" },
+        { "en": "Who's ↘that?", "say": "juus dǽt", "es": "¿Quién es ese?", "icon": "👀" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Preguntas de sí/no: suben ↗",
+      "title_en": "Yes/no questions go up",
+      "icon": "📈",
+      "es": "Si la respuesta es <b>yes</b> o <b>no</b>, la voz <b>sube</b> desde la palabra foco hasta el final. Empiezan con <b>are, is, do, does, can, have…</b> La subida dice «te toca a ti, contesta».",
+      "en": "Questions you answer with yes or no usually rise at the end.",
+      "examples": [
+        { "en": "Are you ↗ready?", "say": "er iə rédi", "es": "¿Estás listo?", "icon": "🎒" },
+        { "en": "Do you like ↗cats?", "say": "dəiə láik kǽts", "es": "¿Te gustan los gatos?", "icon": "🐱" },
+        { "en": "Is it ↗cold?", "say": "ísit kóuld", "es": "¿Hace frío?", "icon": "🧣" },
+        { "en": "Can I ↗help you?", "say": "kən ai jélp iu", "es": "¿Te ayudo?", "icon": "🙋" },
+        { "en": "Is this ↗yours?", "say": "is dis iórs", "es": "¿Es tuyo?", "icon": "🎁" },
+        { "en": "Do you have a ↗dog?", "say": "dəiə jǽv ə dóg", "es": "¿Tienes perro?", "icon": "🐕" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Listas y elecciones: ↗ ↗ ↘",
+      "title_en": "Lists and choices",
+      "icon": "🛒",
+      "es": "En una <b>lista</b>, cada cosa sube ↗ («¡hay más!») y la última baja ↘ («¡ya está!»). En las preguntas para <b>elegir</b> (¿A o B?), igual: subes en A y bajas en B.",
+      "en": "In lists, every item goes up except the last one, which goes down. In choice questions: up on A, down on B.",
+      "formula": ["↗ eggs + ↗ milk + and ↘ *bread*"],
+      "examples": [
+        { "en": "I need ↗eggs, ↗milk and ↘bread.", "say": "ai níid égs, mílk ən bréd", "es": "Necesito huevos, leche y pan.", "icon": "🥚" },
+        { "en": "↗One, ↗two, ↗three… ↘go!", "say": "wan, túu, zríi… góu!", "es": "¡Un, dos, tres… ya!", "icon": "🏁" },
+        { "en": "I speak ↗Spanish, ↗English and ↘French.", "say": "ai spíik spǽnish, ínglish ən frénch", "es": "Hablo español, inglés y francés.", "icon": "🗣️" },
+        { "en": "Do you want ↗tea or ↘coffee?", "say": "dəiə want tíi or káfi", "es": "¿Quieres té o café? (elige uno)", "icon": "☕" },
+        { "en": "Is it ↗red or ↘blue?", "say": "ísit réd or blúu", "es": "¿Es rojo o azul?", "icon": "🎨" },
+        { "en": "↗Pizza or ↘pasta?", "say": "píitsə or pástə", "es": "¿Pizza o pasta?", "icon": "🍕" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Question tags: ¿confirmas o preguntas?",
+      "title_en": "Question tags",
+      "icon": "🏷️",
+      "es": "Los <b>question tags</b> son las coletillas del final (isn't it?, aren't you?, don't you?), como nuestro «¿verdad?». La música lo cambia todo: <b>↘ bajando</b> = estás seguro y buscas que te den la razón. <b>↗ subiendo</b> = no estás seguro y preguntas de verdad.",
+      "en": "A falling tag means you're sure and want agreement. A rising tag is a real question.",
+      "examples": [
+        { "en": "It's cold, ↘isn't it?", "say": "its kóuld, ísənit", "es": "Hace frío, ¿eh? (lo sé)", "icon": "🥶" },
+        { "en": "You're Tyler, ↗aren't you?", "say": "iur táiler, árənt iu", "es": "Eres Tyler, ¿no? (dudo)", "icon": "🤔" },
+        { "en": "You like pizza, ↘don't you?", "say": "iu láik píitsə, dóunt iu", "es": "Te gusta la pizza, ¿a que sí?", "icon": "🍕" },
+        { "en": "You don't eat meat, ↗do you?", "say": "iu dóunt iit míit, dúu iu", "es": "No comes carne, ¿verdad? (pregunto)", "icon": "🥩" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · Sorpresa y cortesía",
+      "title_en": "Surprise and politeness",
+      "icon": "😲",
+      "es": "Para <b>sorprenderte</b> o pedir que te <b>repitan</b>, la voz sube mucho ↗ (¡incluso en una frase normal!). Y para sonar <b>amable</b>, usa subidas y bajadas amplias: pedir algo subiendo ↗ es más educado que bajando seco.",
+      "en": "A big rise shows surprise or asks someone to repeat. Wide, lively melody sounds polite.",
+      "examples": [
+        { "en": "↗Really?", "say": "ríli", "es": "¿En serio?", "icon": "😮" },
+        { "en": "You have ↗five dogs?", "say": "iu jæv fáiv dógs", "es": "¿Tienes CINCO perros?", "icon": "🐕" },
+        { "en": "↗Sorry?", "say": "sári", "es": "¿Cómo? (no te oí)", "icon": "👂" },
+        { "en": "Could you ↗help me?", "say": "kud iə jélp mi", "es": "¿Me ayudas?", "icon": "🙏" },
+        { "en": "↗Excuse me…", "say": "ikskiúus mi", "es": "Perdone… (para llamar)", "icon": "🙋" },
+        { "en": "Thank you so ↘much!", "say": "zǽnk iu sou mách", "es": "¡Muchísimas gracias!", "icon": "💐" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas: palabras cortas con música",
+      "title_en": "Spanish anchors: short words with music",
+      "items": [
+        { "en": "sorry", "ipa": "ˈsɑri", "say": "sári", "es": "perdón / ¿cómo?", "icon": "😔", "anchor": "un <b>sari</b> 🥻", "tip": "Casi: con la r americana (mapa C-01). ↘Sorry = lo siento · ↗Sorry? = ¿cómo?" },
+        { "en": "wow", "ipa": "waʊ", "say": "wau", "es": "¡hala!", "icon": "🤩", "anchor": "¡<b>guau</b>! 🐶", "tip": "El ladrido español, sin la g. Wow! sube y baja ↗↘ con alegría." },
+        { "en": "yes", "ipa": "jɛs", "say": "iés", "es": "sí", "icon": "👍", "anchor": "p<b>ies</b> 🦶", "tip": "Quita la p de «pies». ↘Yes = sí · ↗Yes? = ¿sí?, ¿dime? ¡Nada de «dyes»!" },
+        { "en": "OK", "ipa": "ˌoʊˈkeɪ", "say": "oukéi", "es": "vale", "icon": "👌", "anchor": "¿<b>o qué</b>? 🤷", "tip": "Como en «¿vienes o qué?», con diptongos: ou-KÉI. ↗OK? = ¿vale? · ↘OK = de acuerdo." },
+        { "en": "hey", "ipa": "heɪ", "say": "jei", "es": "¡eh! / ¡hola!", "icon": "👋", "anchor": "¡<b>ey</b>! 👋", "tip": "Casi: el «¡ey!» de siempre con un vaho delante. ↗Hey! para saludar con alegría." },
+        { "en": "lunch", "ipa": "lʌntʃ", "say": "lanch", "es": "comida (mediodía)", "icon": "🥪", "anchor": "<b>lanch</b>a 🚤", "tip": "Quita la a final. ↗Lunch? = ¿comemos?" },
+        { "en": "cheese", "ipa": "tʃiːz", "say": "chiis", "es": "queso", "icon": "🧀", "anchor": "<b>chis</b>pa ✨", "tip": "Alarga la i y que la s zumbe. En una lista: ↗cheese, ↗ham and ↘eggs." },
+        { "en": "bus", "ipa": "bʌs", "say": "bas", "es": "autobús", "icon": "🚌", "anchor": "<b>bas</b>ta ✋", "tip": "By ↗bus or by ↘train? Sube en la 1.ª opción, baja en la última." },
+        { "en": "done", "ipa": "dʌn", "say": "dan", "es": "terminado", "icon": "✅", "anchor": "<b>dan</b>za 💃", "tip": "↗Done? = ¿has terminado? · ↘Done! = ¡terminado!" },
+        { "en": "pasta", "ipa": "ˈpɑstə", "say": "pástə", "es": "pasta", "icon": "🍝", "anchor": "<b>pas</b>ta 🍝", "tip": "Casi igual, pero la a final es floja (ə). ↗Pizza or ↘pasta?" }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "are you ready", "es": "¿estás listo? ↗" },
+        { "q": "where do you live", "es": "¿dónde vives? ↘" },
+        { "q": "isn't it", "es": "¿verdad? (tag)" },
+        { "q": "aren't you", "es": "¿no? (tag)" },
+        { "q": "tea or coffee", "es": "¿té o café? ↗↘" },
+        { "q": "really", "es": "¿en serio? ↗" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Sube o baja? Resumen",
+      "title_en": "Up or down? Summary",
+      "icon": "🧭",
+      "head": ["Tipo · Type", "Ejemplo · Example", "Melodía", "¿Para qué?"],
+      "rows": [
+        ["Afirmación", "I'm from ↘Spain.", "↘", "dar información"],
+        ["Pregunta wh-", "Where do you ↘live?", "↘", "pedir información"],
+        ["Pregunta de sí/no", "Are you ↗ready?", "↗", "preguntar sí o no"],
+        ["Lista", "↗eggs, ↗milk and ↘bread", "↗ ↗ ↘", "«hay más…» ¡fin!"],
+        ["Elegir A o B", "↗Tea or ↘coffee?", "↗ ↘", "elegir una opción"],
+        ["Tag que confirma", "It's cold, ↘isn't it?", "↘", "«¿a que sí?»"],
+        ["Tag que pregunta", "You're Tyler, ↗aren't you?", "↗", "no estás seguro"],
+        ["Sorpresa", "↗Really?", "↗ (mucho)", "¡no me lo creo!"],
+        ["Pedir que repitan", "↗Sorry?", "↗", "¿cómo?"],
+        ["Pedir perdón", "↘Sorry.", "↘", "lo siento"]
+      ],
+      "note": "Regla de bolsillo: <b>↘ = termino / estoy seguro</b> · <b>↗ = pregunto, sigo o dudo</b>.",
+      "note_en": "Pocket rule: down = finished or sure; up = asking, continuing or unsure."
+    },
+    {
+      "t": "pairs",
+      "title": "Misma palabra, otra música",
+      "title_en": "Same word, different music",
+      "icon": "🎚️",
+      "items": [
+        {
+          "a": { "en": "Sorry.", "ipa": "ˈsɑri", "say": "sári", "es": "↘ lo siento", "icon": "😔" },
+          "b": { "en": "Sorry?", "ipa": "ˈsɑri", "say": "sári", "es": "↗ ¿cómo? (repite)", "icon": "👂" },
+          "tip": "Mismos sonidos, distinta música: ↘ pides perdón; ↗ pides que te lo repitan."
+        },
+        {
+          "a": { "en": "Yes.", "ipa": "jɛs", "say": "iés", "es": "↘ sí", "icon": "👍" },
+          "b": { "en": "Yes?", "ipa": "jɛs", "say": "iés", "es": "↗ ¿sí? ¿dime?", "icon": "📞" },
+          "tip": "Al coger el teléfono o cuando alguien te llama: ↗Yes?"
+        },
+        {
+          "a": { "en": "Really.", "ipa": "ˈrɪli", "say": "ríli", "es": "↘ de verdad", "icon": "💯" },
+          "b": { "en": "Really?", "ipa": "ˈrɪli", "say": "ríli", "es": "↗ ¿en serio?", "icon": "😮" },
+          "tip": "Cuanto más sube ↗, más sorprendido estás."
+        },
+        {
+          "a": { "en": "OK.", "ipa": "ˌoʊˈkeɪ", "say": "oukéi", "es": "↘ vale, de acuerdo", "icon": "👌" },
+          "b": { "en": "OK?", "ipa": "ˌoʊˈkeɪ", "say": "oukéi", "es": "↗ ¿vale? ¿entendido?", "icon": "🤔" },
+          "tip": "↗OK? al final de una explicación = ¿lo has entendido?"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Plano 😐 frente a con música 😊",
+      "title_en": "Flat vs. musical",
+      "icon": "🎭",
+      "es": "El español se mueve en un <b>rango de tonos más estrecho</b>. Si hablas inglés con esa música tan plana, un americano puede pensar que estás <b>aburrido, enfadado</b> o que te da igual. ¡Exagera un poco!",
+      "en": "Spanish uses a narrower pitch range. A flat voice in English can sound bored or rude.",
+      "cols": [
+        { "head": "😐 Plano (suena antipático)", "color": "red", "items": ["Thank you. → «me da igual»", "Hi. → «¿y tú qué quieres?»", "That's nice. → «qué rollo»", "Sorry. → «no lo siento nada»"] },
+        { "head": "😊 Con música (suena amable)", "color": "green", "items": ["↗↘<b>THANK</b> you! → ¡gracias de verdad!", "↗<b>Hi!</b> → ¡qué alegría verte!", "That's ↗↘<b>nice</b>! → ¡qué bien!", "↘<b>Sorry!</b> → lo siento de verdad"] }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "Nice to ↘meet you.", "say": "náis tə míit iu", "es": "Encantado.", "icon": "🤝" },
+        { "en": "When's your ↘birthday?", "say": "wens ier bérzdei", "es": "¿Cuándo es tu cumpleaños?", "icon": "🎂" },
+        { "en": "Is it your ↗birthday?", "say": "ísit ier bérzdei", "es": "¿Es tu cumpleaños?", "icon": "🎈" },
+        { "en": "Do you speak ↗English?", "say": "dəiə spíik ínglish", "es": "¿Hablas inglés?", "icon": "🗣️" },
+        { "en": "What do you ↘want?", "say": "wat dəiə wánt", "es": "¿Qué quieres?", "icon": "🤷" },
+        { "en": "Can I have a ↗cookie?", "say": "kən ai jǽv ə kúki", "es": "¿Me das una galleta?", "icon": "🍪" },
+        { "en": "I have two ↗cats, a ↗dog and a ↘fish.", "say": "ai jæv tuu kǽts, ə dóg ən ə físh", "es": "Tengo dos gatos, un perro y un pez.", "icon": "🐾" },
+        { "en": "Is it ↗hot or ↘cold?", "say": "ísit ját or kóuld", "es": "¿Está caliente o frío?", "icon": "🌡️" },
+        { "en": "You're Spanish, ↘aren't you?", "say": "iur spǽnish, árənt iu", "es": "Eres español, ¿verdad? (lo sé)", "icon": "🇪🇸" },
+        { "en": "This is fun, ↘isn't it?", "say": "dis is fán, ísənit", "es": "Esto es divertido, ¿eh?", "icon": "🎢" },
+        { "en": "You ↗won? ↗Really?", "say": "iu wán? ríli?", "es": "¿Has ganado? ¿En serio?", "icon": "🏆" },
+        { "en": "↘Sorry, I'm ↘late!", "say": "sári, aim léit!", "es": "¡Perdón, llego tarde!", "icon": "⏰" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "Where do you ↗live? (subiendo)", "good": "Where do you ↘live?", "why": "Las preguntas wh- bajan. Si subes, suenas inseguro o parece que repites la pregunta.", "why_en": "Wh- questions go down." },
+        { "bad": "Are you ↘ready? (bajando, seco)", "good": "Are you ↗ready?", "why": "Las preguntas de sí/no suben. Bajando suena a orden o a impaciencia.", "why_en": "Yes/no questions go up." },
+        { "bad": "Thank you. (plano 😐)", "good": "↗↘<b>THANK</b> you! 😊", "why": "Plano suena a «me da igual». Empieza alto en THANK y baja: ¡suena agradecido de verdad!", "why_en": "Start high on THANK and fall." },
+        { "bad": "I need ↘eggs, ↘milk, ↘bread.", "good": "I need ↗eggs, ↗milk and ↘bread.", "why": "Si bajas en cada cosa, parece que la lista ya se ha acabado. Sube hasta la última.", "why_en": "Go up on every item except the last." },
+        { "bad": "It's cold, ↗isn't it? (cuando estás seguro)", "good": "It's cold, ↘isn't it?", "why": "Si estás seguro y solo quieres que te den la razón, baja.", "why_en": "When you're sure, the tag goes down." },
+        { "bad": "↘Sorry? (para que te repitan)", "good": "↗Sorry?", "why": "Bajando es «lo siento». Para que te repitan, sube.", "why_en": "Falling sorry is an apology; rising sorry asks to repeat." },
+        { "bad": "Do you want ↗tea or ↗coffee? (para que elija)", "good": "Do you want ↗tea or ↘coffee?", "why": "Si subes al final, preguntas si quiere «algo de beber». Para elegir entre dos, baja en la última.", "why_en": "For a choice between two, fall on the last option." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el autobús del cole",
+      "title_en": "On the school bus",
+      "lines": [
+        { "who": "Ashley", "en": "Hi! Are you ↗new here?", "say": "jái! er iə núu jir?", "es": "¡Hola! ¿Eres nuevo aquí?" },
+        { "who": "Mario", "en": "Yes, I ↘am. I'm from ↘Spain.", "say": "iés, ai ǽm. aim frəm spéin", "es": "Sí. Soy de España." },
+        { "who": "Ashley", "en": "↗Really? That's so ↘cool! What's your ↘name?", "say": "ríli? dæts sou kúul! wats ier néim?", "es": "¿En serio? ¡Qué guay! ¿Cómo te llamas?" },
+        { "who": "Mario", "en": "↘Mario. And you're Ashley, ↗aren't you?", "say": "máriou. ən iur ǽshli, árənt iu?", "es": "Mario. Y tú eres Ashley, ¿no?" },
+        { "who": "Ashley", "en": "↗Yes! How do you ↘know?", "say": "iés! jau dəiə nóu?", "es": "¡Sí! ¿Cómo lo sabes?" },
+        { "who": "Mario", "en": "It's on your ↘backpack!", "say": "its an ier bǽkpæk!", "es": "¡Lo pone en tu mochila!" },
+        { "who": "Ashley", "en": "Ha! Do you like ↗sports?", "say": "ja! dəiə láik spórts?", "es": "¡Ja! ¿Te gustan los deportes?" },
+        { "who": "Mario", "en": "I love ↗soccer, ↗basketball and ↘swimming!", "say": "ai lav sáker, bǽskitbol ən swíming!", "es": "¡Me encantan el fútbol, el baloncesto y la natación!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        { "es": "Tararea sin palabras: «mm-mm-MM ↗» (pregunta) y «mm-mm-MM ↘» (respuesta).", "en": "Hum the melody without words." },
+        { "es": "Busca la <b>palabra foco</b> (mapa R-04): ahí empieza la subida o la bajada.", "en": "Find the focus word: the movement starts there." },
+        { "es": "Exagera como en una peli de dibujos: subidas y bajadas <b>enormes</b>.", "en": "Exaggerate like a cartoon character." },
+        { "es": "Practica las parejas: ↗Sorry? / ↘Sorry · ↗Yes? / ↘Yes · ↗OK? / ↘OK.", "en": "Practice the pairs with rising and falling tones." },
+        { "es": "Escanea los QR y escucha <b>solo la música</b>, no las palabras. Imítala y grábate.", "en": "Scan the QR codes, copy the melody and record yourself." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Canciones y juegos de música",
+      "title_en": "Melody games",
+      "items": [
+        { "en": "One, two, three, four, five, once I caught a fish alive. Six, seven, eight, nine, ten, then I let it go again.", "say": "wan, tuu, zríi, for, fáiv, wans ai kórə fish əláiv. siks, sévən, éit, náin, ten, den ai lérigóu əguén", "es": "Canción popular: ↗1, ↗2, ↗3, ↗4, ↘5: una vez pesqué un pez vivo… y lo volví a soltar." },
+        { "en": "Tea or coffee? Coffee or tea? Tea for you and coffee for me!", "say": "tíi or káfi? káfi or tíi? tíi fer iu ən káfi fer míi!", "es": "¿↗Té o ↘café? ¿↗Café o ↘té? ¡Té para ti y café para mí! ↘" },
+        { "en": "It's cold, isn't it? Yes, it is! It's hot, isn't it? No, it isn't!", "say": "its kóuld, ísənit? iés, irís! its ját, ísənit? nóu, irísənt!", "es": "Hace frío, ↘¿eh? ¡Sí! Hace calor, ↘¿eh? ¡No! (tags que confirman)" }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del tarareo",
+      "title_en": "The humming trick",
+      "es": "Antes de hablar, <b>tararea</b> la frase con la boca cerrada: «mm-mm-MMM». Si es una pregunta de sí/no, que suba como una <b>sirena</b> ↗; si es una afirmación o una pregunta wh-, que caiga como un <b>tobogán</b> ↘. Cuando la música esté bien, pon las palabras encima. 🎵",
+      "en": "Hum the sentence first: up like a siren for yes/no questions, down like a slide for statements and wh- questions."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Sube o baja?",
+      "title_en": "Up or down?",
+      "icon": "🎢",
+      "es": "Di cada frase en voz alta y rodea la flecha: ↗ (sube) o ↘ (baja) al final.",
+      "en": "Say each sentence and circle the arrow.",
+      "items": [
+        { "q": "Are you hungry? → [↗|↘]", "a": "↗" },
+        { "q": "Where is the bathroom? → [↗|↘]", "a": "↘" },
+        { "q": "I'm ten years old. → [↗|↘]", "a": "↘" },
+        { "q": "Do you like music? → [↗|↘]", "a": "↗" },
+        { "q": "What time is it? → [↗|↘]", "a": "↘" },
+        { "q": "Is it raining? → [↗|↘]", "a": "↗" },
+        { "q": "Who's your teacher? → [↗|↘]", "a": "↘" },
+        { "q": "Can you swim? → [↗|↘]", "a": "↗" },
+        { "q": "My dog is called Rocky. → [↗|↘]", "a": "↘" },
+        { "q": "Is this your bag? → [↗|↘]", "a": "↗" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Qué tipo de pregunta?",
+      "title_en": "What kind of question?",
+      "icon": "🗂️",
+      "es": "Escribe cada pregunta en su columna. Después dilas con su música.",
+      "en": "Sort the questions, then say them with the right melody.",
+      "cats": [
+        { "name": "↗ Sí/no (sube)", "words": ["Are you OK?", "Do you like cats?", "Is it cold?", "Can I go?", "Is this yours?"] },
+        { "name": "↘ Wh- (baja)", "words": ["Where's Mike?", "What's that?", "Who's she?", "When's lunch?", "Why are you sad?"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "¿Qué significa esta música?",
+      "title_en": "What does this melody mean?",
+      "icon": "🔗",
+      "es": "Une cada frase (con su flecha) con lo que significa.",
+      "en": "Match each sentence and melody with its meaning.",
+      "pairs": [
+        ["↘Sorry.", "Lo siento."],
+        ["↗Sorry?", "¿Cómo? Repítelo."],
+        ["↘Yes.", "Sí."],
+        ["↗Yes?", "¿Sí? ¿Dime?"],
+        ["↗Really?", "¿En serio? ¡No me lo creo!"],
+        ["It's hot, ↘isn't it?", "Hace calor, ¿a que sí?"],
+        ["You're Tyler, ↗aren't you?", "Eres Tyler… ¿no? (dudo)"],
+        ["↗Tea or ↘coffee?", "Elige uno de los dos."]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Confirma o pregunta?",
+      "title_en": "Sure or asking?",
+      "icon": "🏷️",
+      "es": "Mira la flecha del question tag. ¿Está seguro (confirma) o pregunta de verdad?",
+      "en": "Look at the arrow on the tag: is the speaker sure or really asking?",
+      "items": [
+        { "q": "It's cold, ↘isn't it? → [confirma|pregunta]", "a": "confirma" },
+        { "q": "You're Jenny's brother, ↗aren't you? → [confirma|pregunta]", "a": "pregunta" },
+        { "q": "This is fun, ↘isn't it? → [confirma|pregunta]", "a": "confirma" },
+        { "q": "You like pizza, ↘don't you? → [confirma|pregunta]", "a": "confirma" },
+        { "q": "You don't eat fish, ↗do you? → [confirma|pregunta]", "a": "pregunta" },
+        { "q": "Class starts at nine, ↗doesn't it? → [confirma|pregunta]", "a": "pregunta" },
+        { "q": "Rocky is so cute, ↘isn't he? → [confirma|pregunta]", "a": "confirma" },
+        { "q": "We have homework today, ↗don't we? → [confirma|pregunta]", "a": "pregunta" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea las flechas",
+      "title_en": "Circle the arrows",
+      "icon": "✏️",
+      "es": "Rodea ↗ o ↘ detrás de cada palabra. Recuerda: en las listas y elecciones, la última baja.",
+      "en": "Circle ↗ or ↘ after each word.",
+      "items": [
+        { "q": "I need eggs [↗|↘], milk [↗|↘] and bread [↗|↘].", "a": "↗ ↗ ↘" },
+        { "q": "Red [↗|↘], yellow [↗|↘] and blue [↗|↘].", "a": "↗ ↗ ↘" },
+        { "q": "Tea [↗|↘] or coffee [↗|↘]?", "a": "↗ ↘" },
+        { "q": "One [↗|↘], two [↗|↘], three [↗|↘], go [↗|↘]", "a": "↗ ↗ ↗ ↘" },
+        { "q": "Cats [↗|↘] or dogs [↗|↘]?", "a": "↗ ↘" },
+        { "q": "Monday [↗|↘], Tuesday [↗|↘] and Friday [↗|↘].", "a": "↗ ↗ ↘" },
+        { "q": "Pizza [↗|↘] or pasta [↗|↘]?", "a": "↗ ↘" },
+        { "q": "Spanish [↗|↘], English [↗|↘] and French [↗|↘].", "a": "↗ ↗ ↘" }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word or phrase sounds, Spanish-style.",
+      "items": [
+        { "q": "😔 sorry → ____", "a": "sári" },
+        { "q": "😮 really → ____", "a": "ríli" },
+        { "q": "🎒 ready → ____", "a": "rédi" },
+        { "q": "👌 OK → ____", "a": "oukéi" },
+        { "q": "☕ coffee → ____", "a": "káfi" },
+        { "q": "🏷️ isn't it → ____", "a": "ísənit" },
+        { "q": "🏷️ aren't you → ____", "a": "árənt iu" },
+        { "q": "🎂 birthday → ____", "a": "bérzdei" },
+        { "q": "🇪🇸 Spanish → ____", "a": "spǽnish" },
+        { "q": "🍪 cookie → ____", "a": "kúki" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "Yes/no questions usually go up at the end.", "a": true },
+        { "q": "Wh- questions (where, what, who…) usually go up at the end.", "a": false, "why": "normalmente bajan ↘" },
+        { "q": "In a list, the voice goes up on every item except the last one.", "a": true },
+        { "q": "«Sorry? ↗» means «I apologize».", "a": false, "why": "↗ = ¿cómo?; ↘ = lo siento" },
+        { "q": "A falling question tag means you are sure and want agreement.", "a": true },
+        { "q": "A flat voice in English can sound bored or rude.", "a": true },
+        { "q": "Spanish speakers usually make bigger ups and downs than Americans.", "a": false, "why": "al revés: el inglés usa más rango" },
+        { "q": "The rise or fall starts on the focus word.", "a": true }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Escribe la flecha (en los tags, la flecha del tag) y el tipo de frase.",
+      "en": "Write the arrow and the type of sentence.",
+      "head": ["Frase · Sentence", "↗ / ↘", "Tipo · Type"],
+      "rows": [
+        ["Where's the park?", "?↘", "?pregunta wh-"],
+        ["Is it far?", "?↗", "?pregunta de sí/no"],
+        ["It's near the school.", "?↘", "?afirmación"],
+        ["Do you want tea or coffee?", "?↗ ↘", "?elegir A o B"],
+        ["It's nice, isn't it? (seguro)", "?↘", "?tag que confirma"],
+        ["You're Ashley, aren't you? (dudas)", "?↗", "?tag que pregunta"],
+        ["Really?!", "?↗", "?sorpresa"],
+        ["I like apples, pears and grapes.", "?↗ ↗ ↘", "?lista"]
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena y pon la flecha",
+      "title_en": "Put in order with the arrow",
+      "icon": "🧩",
+      "es": "Ordena las fichas. ¡La flecha también es una ficha! Ponla justo antes de la palabra foco.",
+      "en": "Put the tiles in order. The arrow goes before the focus word.",
+      "items": [
+        { "q": "ready? / you / ↗ / Are", "a": "Are you ↗ ready?" },
+        { "q": "live? / do / Where / you / ↘", "a": "Where do you ↘ live?" },
+        { "q": "like / ↗ / you / Do / cats?", "a": "Do you like ↗ cats?" },
+        { "q": "your / What's / ↘ / name?", "a": "What's your ↘ name?" },
+        { "q": "cold, / it? / It's / isn't / ↘", "a": "It's cold, ↘ isn't it?" },
+        { "q": "tea / or / ↗ / ↘ / coffee?", "a": "↗ Tea or ↘ coffee?" },
+        { "q": "OK? / you / ↗ / Are", "a": "Are you ↗ OK?" },
+        { "q": "time / it? / ↘ / What / is", "a": "What ↘ time is it?" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Conviértelo en pregunta",
+      "title_en": "Make it a question",
+      "icon": "🔄",
+      "es": "Convierte cada afirmación en una pregunta de sí/no y marca la subida ↗.",
+      "en": "Turn each statement into a yes/no question and mark the rise.",
+      "items": [
+        { "q": "You're tired.", "a": "Are you ↗tired?" },
+        { "q": "It's cold.", "a": "Is it ↗cold?" },
+        { "q": "You like cats.", "a": "Do you like ↗cats?" },
+        { "q": "She's from Ohio.", "a": "Is she from ↗Ohio?" },
+        { "q": "He can swim.", "a": "Can he ↗swim?" },
+        { "q": "They're ready.", "a": "Are they ↗ready?" },
+        { "q": "You have a dog.", "a": "Do you have a ↗dog?" },
+        { "q": "It's your bike.", "a": "Is it your ↗bike?" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la música",
+      "title_en": "Fix the melody",
+      "icon": "🩹",
+      "es": "La flecha está mal. Escribe la frase con la flecha correcta.",
+      "en": "The arrow is wrong. Fix it.",
+      "items": [
+        { "q": "Where do you ↗live?", "a": "Where do you ↘live?" },
+        { "q": "Are you ↘hungry?", "a": "Are you ↗hungry?" },
+        { "q": "I need ↘eggs, ↘milk and ↘bread.", "a": "I need ↗eggs, ↗milk and ↘bread." },
+        { "q": "(Para que te repitan) ↘Sorry?", "a": "↗Sorry?" },
+        { "q": "(Estás seguro) It's hot, ↗isn't it?", "a": "It's hot, ↘isn't it?" },
+        { "q": "What's your ↗name?", "a": "What's your ↘name?" },
+        { "q": "(Para que elija) ↗Tea or ↗coffee?", "a": "↗Tea or ↘coffee?" },
+        { "q": "(Pides perdón) ↗Sorry!", "a": "↘Sorry!" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce con música",
+      "title_en": "Translate with melody",
+      "icon": "🌍",
+      "es": "Traduce al inglés, marca la flecha y dilo en voz alta.",
+      "en": "Translate into English, mark the arrow and say it.",
+      "items": [
+        { "q": "¿Estás listo?", "a": "Are you ↗ready? (er iə rédi)" },
+        { "q": "¿Dónde vives?", "a": "Where do you ↘live? (wer dəiə lív)" },
+        { "q": "¿Cómo? (no te he oído)", "a": "↗Sorry? (sári)" },
+        { "q": "Lo siento.", "a": "↘Sorry. (sári)" },
+        { "q": "¿En serio?", "a": "↗Really? (ríli)" },
+        { "q": "Hace frío, ¿eh? (estás seguro)", "a": "It's cold, ↘isn't it? (its kóuld, ísənit)" },
+        { "q": "¿Té o café? (elige)", "a": "↗Tea or ↘coffee? (tíi or káfi)" },
+        { "q": "¿Te gustan los perros?", "a": "Do you like ↗dogs? (dəiə láik dógs)" },
+        { "q": "¿Qué hora es?", "a": "What ↘time is it? (wat táim is it)" },
+        { "q": "Quiero pizza, pasta y helado.", "a": "I want ↗pizza, ↗pasta and ↘ice cream. (ai want píitsə, pástə ən áis kriim)" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (tarareando, exagerando y normal) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "Are you ↗ready?", "say": "er iə rédi" },
+        { "q": "Where do you ↘live?", "say": "wer dəiə lív" },
+        { "q": "I need ↗eggs, ↗milk and ↘bread.", "say": "ai níid égs, mílk ən bréd" },
+        { "q": "↗Tea or ↘coffee?", "say": "tíi or káfi" },
+        { "q": "It's cold, ↘isn't it?", "say": "its kóuld, ísənit" },
+        { "q": "You're Tyler, ↗aren't you?", "say": "iur táiler, árənt iu" },
+        { "q": "↗Really?", "say": "ríli" },
+        { "q": "↘Sorry, I'm ↘late!", "say": "sári, aim léit" },
+        { "q": "↗Sorry? Can you ↗repeat that?", "say": "sári? kən iu ripíit dæt" },
+        { "q": "Thank you so ↘much!", "say": "zǽnk iu sou mách" }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y escucha la música",
+      "title_en": "Read and hear the melody",
+      "icon": "📖",
+      "es": "Lee la historia en voz alta siguiendo las flechas. Después contesta.",
+      "en": "Read the story aloud following the arrows, then answer.",
+      "text_title": "Mario's first day",
+      "text": [
+        "Ashley: “Hi! Are you ↗new?” Mario: “↘Yes. I'm from ↘Spain.” Ashley: “↗Really? I love ↘Spain!”",
+        "Mr. Brown, the teacher: “Good ↘morning! Do you have your ↗books, your ↗pencils and your ↘notebook?” Mario: “↘Yes. It's a big school, ↘isn't it?”"
+      ],
+      "items": [
+        { "q": "Where is Mario from?", "a": "From Spain." },
+        { "q": "Why does «Are you new?» go up ↗?", "a": "Porque es una pregunta de sí/no." },
+        { "q": "How does Mr. Brown's list sound?", "a": "↗books, ↗pencils and ↘notebook (sube, sube, baja)." },
+        { "q": "«Isn't it?» goes down because Mario is sure.", "tf": true, "a": true },
+        { "q": "Ashley's «Really?» goes down.", "tf": true, "a": false, "why": "sube ↗: sorpresa" },
+        { "q": "Mario says «Yes» with a falling tone.", "tf": true, "a": true }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases con sus flechas, léelas en voz alta y grábate.",
+      "en": "Write your own sentences with arrows and record yourself.",
+      "items": [
+        { "q": "Dos preguntas de sí/no para un amigo nuevo (marca ↗).", "lines": 2, "a": "Ej.: Do you like ↗soccer? Do you have a ↗dog?" },
+        { "q": "Dos preguntas wh- (marca ↘).", "lines": 2, "a": "Ej.: Where do you ↘live? What's your favorite ↘food?" },
+        { "q": "Tu lista de la compra con 4 cosas (↗ ↗ ↗ ↘).", "lines": 2, "a": "Ej.: I need ↗apples, ↗rice, ↗milk and ↘cookies." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Bajo ↘ al final de las afirmaciones y de las preguntas wh-.", "en": "My voice goes down in statements and wh- questions." },
+    { "es": "Subo ↗ en las preguntas de sí/no: Are you ↗ready?", "en": "My voice goes up in yes/no questions." },
+    { "es": "Digo las listas con ↗ ↗ ↘: eggs, milk and bread.", "en": "I can say lists with the right melody." },
+    { "es": "Uso los tags: ↘ para confirmar y ↗ para preguntar.", "en": "I can use falling and rising question tags." },
+    { "es": "Distingo ↘Sorry (lo siento) de ↗Sorry? (¿cómo?).", "en": "I know the two meanings of sorry." },
+    { "es": "No hablo plano: ¡pongo música y sueno simpático! 😊", "en": "I don't sound flat: I use melody to sound friendly." }
+  ]
+}

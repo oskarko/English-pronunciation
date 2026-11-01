@@ -1,0 +1,1845 @@
+{
+  "id": "P-05",
+  "block": "P",
+  "title": "SUENAN IGUAL",
+  "file_title": "Suenan igual (homófonos)",
+  "subtitle": "Homophones · mismo sonido, otra palabra",
+  "icon": "👯",
+  "map": {
+    "center": "Los <b>homófonos</b> se escriben distinto pero <b>suenan igual</b>: see 👀 y sea 🌊 son los dos <code>sii</code>.",
+    "listen": "their",
+    "nodes": [
+      {
+        "title": "¿Qué son?",
+        "icon": "🤔",
+        "color": "green",
+        "items": [
+          "<b>mismo sonido</b>",
+          "<b>distinta</b> ortografía y significado",
+          "el <b>contexto</b> te dice cuál es"
+        ]
+      },
+      {
+        "title": "Parejas famosas",
+        "icon": "👯",
+        "color": "blue",
+        "rows": [
+          [
+            "see · sea",
+            "<code>sii</code>"
+          ],
+          [
+            "write · right",
+            "<code>rait</code>"
+          ],
+          [
+            "know · no",
+            "<code>nou</code>"
+          ]
+        ]
+      },
+      {
+        "title": "¡Tríos!",
+        "icon": "3️⃣",
+        "color": "purple",
+        "rows": [
+          [
+            "to · too · two",
+            "<code>tuu</code>"
+          ],
+          [
+            "there · their · they're",
+            "<code>der</code>"
+          ],
+          [
+            "buy · by · bye",
+            "<code>bai</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Números escondidos",
+        "icon": "🔢",
+        "color": "orange",
+        "rows": [
+          [
+            "one · won",
+            "<code>wan</code>"
+          ],
+          [
+            "four · for",
+            "<code>for</code>"
+          ],
+          [
+            "eight · ate",
+            "<code>eit</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Letras mudas",
+        "icon": "🤫",
+        "color": "pink",
+        "items": [
+          "<s>k</s>night = night 🌙",
+          "<s>h</s>our = our ⏰",
+          "<s>w</s>rite = right ✍️"
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Si suenan igual, <b>dilas igual</b>. La diferencia solo se ve al escribir. ✍️",
+        "art": "👀"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "hour → <code>jáuer</code>"
+      ],
+      "good": [
+        "<code>áuer</code> = our ⏰"
+      ],
+      "note": "La H de hour es muda: suena igual que our."
+    },
+    "mini": {
+      "es": "Escribe la palabra gemela:",
+      "en": "Write the twin word.",
+      "items": [
+        {
+          "q": "👀 see → 🌊 ___",
+          "a": "sea"
+        },
+        {
+          "q": "✍️ write → ✅ ____",
+          "a": "right"
+        },
+        {
+          "q": "🌙 night → 🛡️ ____",
+          "a": "knight"
+        },
+        {
+          "q": "8️⃣ eight → 🍽️ ___",
+          "a": "ate"
+        },
+        {
+          "q": "🌸 flower → 🌾 ____",
+          "a": "flour"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es un homófono?",
+      "title_en": "What is a homophone?",
+      "icon": "🔎",
+      "es": "<b>Homo</b> = igual, <b>fono</b> = sonido. Un homófono es una palabra que <b>suena exactamente igual</b> que otra, pero se escribe distinto y significa otra cosa. En español tenemos algunos (hola/ola, vaca/baca), pero en inglés hay <b>cientos</b>, porque la ortografía se quedó antigua mientras la pronunciación cambiaba. <mark>La buena noticia: si suenan igual, solo tienes que aprender una pronunciación.</mark>",
+      "en": "Homophones are words that sound exactly the same but have different spellings and meanings, like see and sea. Good news: same sound, so you only learn one pronunciation!",
+      "formula": [
+        "see 👀 + sea 🌊 → *sii*"
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · EE y EA: la misma ii",
+      "title_en": "EE and EA: the same ee",
+      "icon": "👀",
+      "es": "Las letras <b>EE</b> y <b>EA</b> suenan casi siempre igual: una <b>ii larga</b>. Por eso hay tantas parejas: <b>see</b> (ver) y <b>sea</b> (mar), <b>meet</b> (conocer, quedar) y <b>meat</b> (carne), <b>week</b> (semana) y <b>weak</b> (débil). Alarga la ii y sonríe 😁.",
+      "en": "EE and EA usually sound the same, a long ee: see/sea, meet/meat, week/weak.",
+      "formula": [
+        "s + *ee* = s + *ea* → *sii*"
+      ],
+      "examples": [
+        {
+          "en": "see",
+          "say": "sii",
+          "es": "ver",
+          "icon": "👀"
+        },
+        {
+          "en": "sea",
+          "say": "sii",
+          "es": "mar",
+          "icon": "🌊"
+        },
+        {
+          "en": "meet",
+          "say": "miit",
+          "es": "conocer, quedar",
+          "icon": "🤝"
+        },
+        {
+          "en": "meat",
+          "say": "miit",
+          "es": "carne",
+          "icon": "🥩"
+        },
+        {
+          "en": "week",
+          "say": "wiik",
+          "es": "semana",
+          "icon": "📆"
+        },
+        {
+          "en": "weak",
+          "say": "wiik",
+          "es": "débil",
+          "icon": "🪫"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Letras que no suenan",
+      "title_en": "Silent letters",
+      "icon": "🤫",
+      "es": "Muchos homófonos existen porque una palabra lleva una <b>letra muda</b>: la K de <b>know</b> (saber) y <b>knight</b> (caballero), la W de <b>write</b> (escribir), la H de <b>hour</b> (hora). Quítales esa letra y tendrás <b>no</b>, <b>night</b>, <b>right</b> y <b>our</b>. (Muchos americanos dicen our más corto, <code>ar</code>, pero hour siempre es <code>áuer</code>.) Más letras mudas en el mapa C-15.",
+      "en": "A silent letter makes many homophones: know/no, knight/night, write/right, hour/our.",
+      "examples": [
+        {
+          "en": "know",
+          "say": "nou",
+          "es": "saber",
+          "icon": "🧠"
+        },
+        {
+          "en": "no",
+          "say": "nou",
+          "es": "no",
+          "icon": "🙅"
+        },
+        {
+          "en": "knight",
+          "say": "nait",
+          "es": "caballero",
+          "icon": "🛡️"
+        },
+        {
+          "en": "night",
+          "say": "nait",
+          "es": "noche",
+          "icon": "🌙"
+        },
+        {
+          "en": "write",
+          "say": "rait",
+          "es": "escribir",
+          "icon": "✍️"
+        },
+        {
+          "en": "right",
+          "say": "rait",
+          "es": "correcto, derecha",
+          "icon": "✅"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Números escondidos",
+      "title_en": "Hidden numbers",
+      "icon": "🔢",
+      "es": "¡Cuidado con los números! <b>One</b> (uno) suena como <b>won</b> (ganó); <b>two</b> (dos), como <b>to</b> y <b>too</b> (también); <b>four</b> (cuatro), como <b>for</b> (para); y <b>eight</b> (ocho), como <b>ate</b> (comió). Por eso en los chats escriben «2» por to y «4» por for: <i>see you 2morrow</i>, <i>4 you</i>. 😉",
+      "en": "Numbers have twins: one/won, two/to/too, four/for, eight/ate. That's why people text «2» and «4».",
+      "examples": [
+        {
+          "en": "one",
+          "say": "wan",
+          "es": "uno",
+          "icon": "1️⃣"
+        },
+        {
+          "en": "won",
+          "say": "wan",
+          "es": "ganó",
+          "icon": "🏆"
+        },
+        {
+          "en": "two",
+          "say": "tuu",
+          "es": "dos",
+          "icon": "2️⃣"
+        },
+        {
+          "en": "four",
+          "say": "for",
+          "es": "cuatro",
+          "icon": "4️⃣"
+        },
+        {
+          "en": "eight",
+          "say": "eit",
+          "es": "ocho",
+          "icon": "8️⃣"
+        },
+        {
+          "en": "ate",
+          "say": "eit",
+          "es": "comió",
+          "icon": "🍽️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Tríos de gemelas",
+      "title_en": "Triplets",
+      "icon": "3️⃣",
+      "es": "Algunos sonidos tienen ¡tres palabras! <b>there</b> (allí), <b>their</b> (su, de ellos) y <b>they're</b> (ellos son, están) se dicen <code>der</code>; <b>to</b>, <b>too</b> y <b>two</b>, <code>tuu</code>; <b>buy</b> (comprar), <b>by</b> (por, junto a) y <b>bye</b> (adiós), <code>bai</code>. Al hablar no hay problema… ¡hasta muchos americanos se lían al escribirlas!",
+      "en": "Some sounds have three words: there/their/they're, to/too/two, buy/by/bye.",
+      "examples": [
+        {
+          "en": "there",
+          "say": "der",
+          "es": "allí",
+          "icon": "👉"
+        },
+        {
+          "en": "their",
+          "say": "der",
+          "es": "su (de ellos)",
+          "icon": "👨‍👩‍👧"
+        },
+        {
+          "en": "they're",
+          "say": "der",
+          "es": "ellos son, están",
+          "icon": "👥"
+        },
+        {
+          "en": "buy",
+          "say": "bai",
+          "es": "comprar",
+          "icon": "🛒"
+        },
+        {
+          "en": "by",
+          "say": "bai",
+          "es": "por, junto a",
+          "icon": "📍"
+        },
+        {
+          "en": "bye",
+          "say": "bai",
+          "es": "adiós",
+          "icon": "👋"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · La WH americana",
+      "title_en": "American WH",
+      "icon": "🇺🇸",
+      "es": "En inglés americano, la <b>WH</b> suena simplemente <b>w</b> (antes se decía «jw», y algunas personas mayores aún lo hacen). Por eso <b>where</b> (dónde) suena igual que <b>wear</b> (llevar puesto), <b>which</b> (cuál) igual que <b>witch</b> (bruja) y <b>weather</b> (el tiempo) igual que <b>whether</b> (si). ¡Nada de «juát» ni «juéder»!",
+      "en": "In American English, WH sounds like W: where/wear, which/witch, weather/whether.",
+      "examples": [
+        {
+          "en": "where",
+          "say": "wer",
+          "es": "dónde",
+          "icon": "❓"
+        },
+        {
+          "en": "wear",
+          "say": "wer",
+          "es": "llevar puesto",
+          "icon": "👗"
+        },
+        {
+          "en": "which",
+          "say": "wich",
+          "es": "cuál",
+          "icon": "🤷"
+        },
+        {
+          "en": "witch",
+          "say": "wich",
+          "es": "bruja",
+          "icon": "🧙‍♀️"
+        },
+        {
+          "en": "weather",
+          "say": "wéder",
+          "es": "el tiempo (clima)",
+          "icon": "⛅"
+        },
+        {
+          "en": "whether",
+          "say": "wéder",
+          "es": "si (entre dos opciones)",
+          "icon": "⚖️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · Más gemelas del día a día",
+      "title_en": "More everyday twins",
+      "icon": "🌻",
+      "es": "Unas cuantas más que oirás a diario: <b>son</b> (hijo) y <b>sun</b> (sol), <code>san</code>; <b>I</b> (yo) y <b>eye</b> (ojo), <code>ai</code>; <b>hear</b> (oír) y <b>here</b> (aquí), <code>jir</code>; <b>flower</b> (flor) y <b>flour</b> (harina), <code>fláuer</code>. ¡Y fíjate: flour no se dice «flor»!",
+      "en": "More twins: son/sun, I/eye, hear/here, flower/flour.",
+      "examples": [
+        {
+          "en": "son",
+          "say": "san",
+          "es": "hijo",
+          "icon": "👦"
+        },
+        {
+          "en": "sun",
+          "say": "san",
+          "es": "sol",
+          "icon": "☀️"
+        },
+        {
+          "en": "eye",
+          "say": "ai",
+          "es": "ojo",
+          "icon": "👁️"
+        },
+        {
+          "en": "hear",
+          "say": "jir",
+          "es": "oír",
+          "icon": "👂"
+        },
+        {
+          "en": "flower",
+          "say": "fláuer",
+          "es": "flor",
+          "icon": "🌸"
+        },
+        {
+          "en": "flour",
+          "say": "fláuer",
+          "es": "harina",
+          "icon": "🌾"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "sea",
+          "ipa": "siː",
+          "say": "sii",
+          "es": "mar · = see (ver)",
+          "icon": "🌊",
+          "anchor": "<b>¡sííí!</b> 😄",
+          "tip": "Un «¡sí!» largo y contento. Vale para sea (mar) y para see (ver)."
+        },
+        {
+          "en": "two",
+          "ipa": "tuː",
+          "say": "tuu",
+          "es": "dos · = to, too",
+          "icon": "2️⃣",
+          "anchor": "<b>¡tú!</b> 👉",
+          "tip": "Como «tú», un poco más larga y con un soplidito en la t. Vale para two, too y to."
+        },
+        {
+          "en": "eye",
+          "ipa": "aɪ",
+          "say": "ai",
+          "es": "ojo · = I (yo)",
+          "icon": "👁️",
+          "anchor": "<b>¡ay!</b> 😣",
+          "tip": "¡Lo que dices cuando te entra algo en el ojo! eye = I = <code>ai</code>."
+        },
+        {
+          "en": "night",
+          "ipa": "naɪt",
+          "say": "nait",
+          "es": "noche · = knight",
+          "icon": "🌙",
+          "anchor": "<b>nai</b>pe 🃏 + t",
+          "tip": "El «nai» de naipe + t. Knight (caballero) suena igual: la K es muda."
+        },
+        {
+          "en": "eight",
+          "ipa": "eɪt",
+          "say": "eit",
+          "es": "ocho · = ate (comió)",
+          "icon": "8️⃣",
+          "anchor": "ac<b>eit</b>e 🫒",
+          "tip": "El trozo «eit» de aceite. «I ate eight» = <code>ai eit eit</code>: ¡me comí ocho!"
+        },
+        {
+          "en": "sun",
+          "ipa": "sʌn",
+          "say": "san",
+          "es": "sol · = son (hijo)",
+          "icon": "☀️",
+          "anchor": "<b>San</b>ta Claus 🎅",
+          "tip": "Como el «San» de Santa Claus, con una a cortita y relajada (mapa V-04)."
+        },
+        {
+          "en": "week",
+          "ipa": "wiːk",
+          "say": "wiik",
+          "es": "semana · = weak",
+          "icon": "📆",
+          "anchor": "la consola <b>Wii</b> 🎮 + k",
+          "tip": "Di «Wii» y añade k. Weak (débil) suena exactamente igual."
+        },
+        {
+          "en": "flower",
+          "ipa": "ˈflaʊɚ",
+          "say": "fláuer",
+          "es": "flor · = flour (harina)",
+          "icon": "🌸",
+          "anchor": "<b>flau</b>ta 🪈 + <b>er</b>",
+          "tip": "El «flau» de flauta + er con R americana. ¡Y flour no se dice «flor»!"
+        },
+        {
+          "en": "for",
+          "ipa": "fɔr",
+          "say": "for",
+          "es": "para · = four",
+          "icon": "4️⃣",
+          "anchor": "<b>Fór</b>mula 1 🏎️",
+          "tip": "El «For» de Fórmula 1, pero con R americana (sin vibrar). En la frase, for suele ser débil: <code>fer</code>."
+        },
+        {
+          "en": "here",
+          "ipa": "hɪr",
+          "say": "jir",
+          "es": "aquí · = hear (oír)",
+          "icon": "📍",
+          "anchor": "<b>¡ji!</b> 🤭 + R americana",
+          "tip": "Una risita suave, «¡ji!», y la R americana al final. Hear (oír) suena igual."
+        },
+        {
+          "en": "buy",
+          "ipa": "baɪ",
+          "say": "bai",
+          "es": "comprar · = by, bye",
+          "icon": "🛒",
+          "anchor": "¡<b>bai</b>la! 💃",
+          "tip": "El «bai» de «¡baila!». Buy, by y bye: los tres <code>bai</code>."
+        },
+        {
+          "en": "hour",
+          "ipa": "ˈaʊɚ",
+          "say": "áuer",
+          "es": "hora · = our",
+          "icon": "⏰",
+          "anchor": "<s>jáuer</s> → <b>áuer</b>",
+          "tip": "La H es muda: hour suena como our. (Muchos americanos dicen our más corto: <code>ar</code>.)"
+        },
+        {
+          "en": "write",
+          "ipa": "raɪt",
+          "say": "rait",
+          "es": "escribir · = right",
+          "icon": "✍️",
+          "anchor": "<s>wráit</s> → <b>rait</b>",
+          "tip": "La W es muda. Write y right suenan igual: <code>rait</code>."
+        },
+        {
+          "en": "which",
+          "ipa": "wɪtʃ",
+          "say": "wich",
+          "es": "cuál · = witch (bruja)",
+          "icon": "🧙‍♀️",
+          "anchor": "<s>juích</s> → <b>wich</b>",
+          "tip": "En americano la WH suena w, nada de «ju». which = witch."
+        },
+        {
+          "en": "one",
+          "ipa": "wʌn",
+          "say": "wan",
+          "es": "uno · = won (ganó)",
+          "icon": "1️⃣",
+          "anchor": "<s>óne</s> → <b>wan</b>",
+          "tip": "Empieza con una w que no se ve escrita. Won (ganó) suena igual."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "there",
+          "es": "allí (= their, they're)"
+        },
+        {
+          "q": "right",
+          "es": "correcto (= write)"
+        },
+        {
+          "q": "hour",
+          "es": "hora (= our)"
+        },
+        {
+          "q": "eight",
+          "es": "ocho (= ate)"
+        },
+        {
+          "q": "which",
+          "es": "cuál (= witch)"
+        },
+        {
+          "q": "flour",
+          "es": "harina (= flower)"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Tríos y números",
+      "title_en": "Triplets and numbers",
+      "icon": "🔢",
+      "head": [
+        "Suena",
+        "Palabras · Words",
+        "Significan"
+      ],
+      "rows": [
+        [
+          "<code>der</code>",
+          "there · their · they're",
+          "allí · su (de ellos) · ellos son"
+        ],
+        [
+          "<code>tuu</code>",
+          "to · too · two",
+          "a · también · dos"
+        ],
+        [
+          "<code>bai</code>",
+          "buy · by · bye",
+          "comprar · por · adiós"
+        ],
+        [
+          "<code>ai</code>",
+          "I · eye · aye",
+          "yo · ojo · ¡sí, capitán!"
+        ],
+        [
+          "<code>wan</code>",
+          "one · won",
+          "uno · ganó"
+        ],
+        [
+          "<code>for</code>",
+          "for · four",
+          "para · cuatro"
+        ],
+        [
+          "<code>eit</code>",
+          "eight · ate",
+          "ocho · comió"
+        ]
+      ],
+      "note": "Ojo: dentro de la frase, <b>to</b> y <b>for</b> suelen ir débiles: I want to go (<code>tə</code>), this is for you (<code>fer</code>). Solas o con énfasis, suenan igual que two y four (mapa H-03).",
+      "note_en": "In a sentence, to and for are usually weak. Alone or stressed, they sound like two and four."
+    },
+    {
+      "t": "table",
+      "title": "Parejas gemelas",
+      "title_en": "Twin pairs",
+      "icon": "👯",
+      "head": [
+        "Suena",
+        "Palabras · Words",
+        "Significan"
+      ],
+      "rows": [
+        [
+          "<code>rait</code>",
+          "write · right",
+          "escribir · correcto"
+        ],
+        [
+          "<code>nou</code>",
+          "know · no",
+          "saber · no"
+        ],
+        [
+          "<code>nait</code>",
+          "night · knight",
+          "noche · caballero"
+        ],
+        [
+          "<code>áuer</code>",
+          "hour · our",
+          "hora · nuestro"
+        ],
+        [
+          "<code>sii</code>",
+          "see · sea",
+          "ver · mar"
+        ],
+        [
+          "<code>miit</code>",
+          "meet · meat",
+          "conocer · carne"
+        ],
+        [
+          "<code>wiik</code>",
+          "week · weak",
+          "semana · débil"
+        ],
+        [
+          "<code>san</code>",
+          "son · sun",
+          "hijo · sol"
+        ],
+        [
+          "<code>fláuer</code>",
+          "flower · flour",
+          "flor · harina"
+        ],
+        [
+          "<code>wer</code>",
+          "where · wear",
+          "dónde · llevar puesto"
+        ],
+        [
+          "<code>wéder</code>",
+          "weather · whether",
+          "el tiempo · si"
+        ],
+        [
+          "<code>wich</code>",
+          "which · witch",
+          "cuál · bruja"
+        ],
+        [
+          "<code>jir</code>",
+          "hear · here",
+          "oír · aquí"
+        ]
+      ],
+      "note": "Hay muchas más: new/knew (<code>nuu</code>), blue/blew (<code>bluu</code>), bear/bare (<code>ber</code>), pair/pear (<code>per</code>), tail/tale (<code>teil</code>)…",
+      "note_en": "There are many more: new/knew, blue/blew, bear/bare, pair/pear, tail/tale…"
+    },
+    {
+      "t": "pairs",
+      "title": "Al revés: misma letra, otro sonido",
+      "title_en": "Same spelling, different sound",
+      "icon": "🔀",
+      "items": [
+        {
+          "a": {
+            "en": "read",
+            "ipa": "riːd",
+            "say": "riid",
+            "es": "leer (presente)",
+            "icon": "📖"
+          },
+          "b": {
+            "en": "read",
+            "ipa": "rɛd",
+            "say": "red",
+            "es": "leí, leído",
+            "icon": "📕"
+          },
+          "tip": "«I read every day» (<code>riid</code>) · «I read it yesterday» (<code>red</code>). ¡El pasado suena igual que red (rojo)!"
+        },
+        {
+          "a": {
+            "en": "live",
+            "ipa": "lɪv",
+            "say": "liv",
+            "es": "vivir",
+            "icon": "🏠"
+          },
+          "b": {
+            "en": "live",
+            "ipa": "laɪv",
+            "say": "laiv",
+            "es": "en directo",
+            "icon": "🎤"
+          },
+          "tip": "«I live in Madrid» (<code>liv</code>) · «a live concert» (<code>laiv</code>)."
+        },
+        {
+          "a": {
+            "en": "wind",
+            "ipa": "wɪnd",
+            "say": "wind",
+            "es": "viento",
+            "icon": "🌬️"
+          },
+          "b": {
+            "en": "wind",
+            "ipa": "waɪnd",
+            "say": "waind",
+            "es": "enrollar, dar cuerda",
+            "icon": "🧶"
+          },
+          "tip": "«The wind is cold» (<code>wind</code>) · «Wind the yarn» (<code>waind</code>)."
+        },
+        {
+          "a": {
+            "en": "tear",
+            "ipa": "tɪr",
+            "say": "tir",
+            "es": "lágrima",
+            "icon": "😢"
+          },
+          "b": {
+            "en": "tear",
+            "ipa": "tɛr",
+            "say": "ter",
+            "es": "romper, rasgar",
+            "icon": "📄"
+          },
+          "tip": "Una lágrima es <code>tir</code>; romper un papel es <code>ter</code>."
+        },
+        {
+          "a": {
+            "en": "bow",
+            "ipa": "baʊ",
+            "say": "bau",
+            "es": "reverencia",
+            "icon": "🙇"
+          },
+          "b": {
+            "en": "bow",
+            "ipa": "boʊ",
+            "say": "bou",
+            "es": "lazo, arco",
+            "icon": "🎀"
+          },
+          "tip": "Al final del concierto, un bow (<code>bau</code>); en el pelo, un bow (<code>bou</code>). Cambios de acento como REcord/reCORD, en R-01."
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Gemelas made in USA",
+      "title_en": "American-only twins",
+      "icon": "🇺🇸",
+      "es": "Gracias a la T que suena r (mapa C-02) y a otras costumbres americanas, en EE. UU. hay gemelas que en Gran Bretaña no lo son.",
+      "en": "Because of the flap T and other American habits, some words sound the same only in the US.",
+      "cols": [
+        {
+          "head": "🇺🇸 Iguales en EE. UU.",
+          "color": "red",
+          "items": [
+            "metal = medal → <code>mérəl</code>",
+            "latter = ladder → <code>lǽrer</code>",
+            "Mary = marry = merry → <code>méri</code>",
+            "ant = aunt → <code>ænt</code> 🐜 (casi todos)",
+            "cot = caught → <code>kat</code> (muchos, mapa V-05)"
+          ]
+        },
+        {
+          "head": "🇬🇧 Distintas en Reino Unido",
+          "color": "blue",
+          "items": [
+            "metal con T, medal con D",
+            "latter con T, ladder con D",
+            "Mary, marry, merry: tres vocales",
+            "aunt con a larga, como en father",
+            "caught con una o larga"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Chistes de homófonos",
+      "title_en": "Homophone jokes",
+      "items": [
+        {
+          "written": "Why was six afraid of seven? Because seven ate nine!",
+          "spoken": "…because seven EIGHT nine!",
+          "say": "bikás sévən eit nain",
+          "es": "¿Por qué el 6 temía al 7? ¡Porque el 7 se comió al 9! (7, 8, 9 😱)",
+          "yg": "seven eight nine"
+        },
+        {
+          "written": "I scream, you scream, we all scream for ice cream!",
+          "spoken": "I scream ≈ ice cream",
+          "say": "ai skriim, iu skriim, wi ol skriim fer áis kriim",
+          "es": "Yo grito, tú gritas, ¡todos gritamos por un helado! (casi iguales 🍦)",
+          "yg": "ice cream"
+        },
+        {
+          "written": "Lettuce in, it's cold!",
+          "spoken": "Let us in, it's cold!",
+          "say": "lérəs ín, its kóuld",
+          "es": "¡Déjanos entrar, hace frío! (lettuce, lechuga 🥬 = let us)",
+          "yg": "let us in"
+        },
+        {
+          "written": "What's black and white and read all over?",
+          "spoken": "…and RED all over? A newspaper!",
+          "say": "wats blæk ən wait ən red ol óuver",
+          "es": "¿Qué es blanco y negro y está leído (read) / rojo (red) por todas partes? ¡Un periódico! 📰",
+          "yg": "read all over"
+        },
+        {
+          "written": "Can I have two? — Me too!",
+          "spoken": "Can I have TOO? — Me TOO!",
+          "say": "kənai jæv tuu? mi tuu!",
+          "es": "¿Me das dos? —¡Y a mí también!",
+          "yg": "me too"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I ate eight cookies.",
+          "say": "ai eit eit kúkis",
+          "es": "Me comí ocho galletas.",
+          "icon": "🍪"
+        },
+        {
+          "en": "Their dog is over there.",
+          "say": "der dog is óuver der",
+          "es": "Su perro está allí.",
+          "icon": "🐶"
+        },
+        {
+          "en": "Write the right answer.",
+          "say": "rait də rait ǽnser",
+          "es": "Escribe la respuesta correcta.",
+          "icon": "✍️"
+        },
+        {
+          "en": "I know there's no milk.",
+          "say": "ai nou ders nou milk",
+          "es": "Ya sé que no hay leche.",
+          "icon": "🥛"
+        },
+        {
+          "en": "I feel weak this week.",
+          "say": "ai fiil wiik dis wiik",
+          "es": "Me siento débil esta semana.",
+          "icon": "🪫"
+        },
+        {
+          "en": "My son loves the sun.",
+          "say": "mai san lavs də san",
+          "es": "A mi hijo le encanta el sol.",
+          "icon": "☀️"
+        },
+        {
+          "en": "What should I wear? Where are we going?",
+          "say": "wat shud ai wer? wer ar wi góuing?",
+          "es": "¿Qué me pongo? ¿Adónde vamos?",
+          "icon": "👗"
+        },
+        {
+          "en": "I need flour, not flowers!",
+          "say": "ai niid fláuer, nat fláuers",
+          "es": "¡Necesito harina, no flores!",
+          "icon": "🌾"
+        },
+        {
+          "en": "I can see the sea!",
+          "say": "ai kən sii də sii",
+          "es": "¡Veo el mar!",
+          "icon": "🌊"
+        },
+        {
+          "en": "Our class is one hour long.",
+          "say": "áuer klæs is wan áuer long",
+          "es": "Nuestra clase dura una hora.",
+          "icon": "⏰"
+        },
+        {
+          "en": "Bye! I'll walk by your house.",
+          "say": "bai! ail wok bai ier jaus",
+          "es": "¡Adiós! Pasaré por tu casa.",
+          "icon": "👋"
+        },
+        {
+          "en": "I hear you. Come here!",
+          "say": "ai jir iu. kam jir!",
+          "es": "Te oigo. ¡Ven aquí!",
+          "icon": "👂"
+        },
+        {
+          "en": "We won one game.",
+          "say": "wi wan wan gueim",
+          "es": "Ganamos un partido.",
+          "icon": "🏆"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "monster": "trampas",
+      "items": [
+        {
+          "bad": "hour → <code>jáuer</code>",
+          "good": "<code>áuer</code>",
+          "why": "La H de hour es muda: suena como our.",
+          "why_en": "The H in hour is silent."
+        },
+        {
+          "bad": "knight → <code>knáit</code>",
+          "good": "<code>nait</code>",
+          "why": "La K delante de N no suena: knight = night.",
+          "why_en": "The K is silent: knight sounds like night."
+        },
+        {
+          "bad": "write → <code>wráit</code>",
+          "good": "<code>rait</code>",
+          "why": "La W delante de R no suena: write = right.",
+          "why_en": "The W is silent: write sounds like right."
+        },
+        {
+          "bad": "flour → <code>flor</code>",
+          "good": "<code>fláuer</code>",
+          "why": "No es la «flor» española: suena igual que flower.",
+          "why_en": "Flour sounds like flower."
+        },
+        {
+          "bad": "eye → <code>éie</code>",
+          "good": "<code>ai</code>",
+          "why": "Suena igual que I (yo): <code>ai</code>.",
+          "why_en": "Eye sounds like I."
+        },
+        {
+          "bad": "which → <code>juích</code>",
+          "good": "<code>wich</code>",
+          "why": "En americano la WH suena w: igual que witch.",
+          "why_en": "In American English, WH sounds like W."
+        },
+        {
+          "bad": "their → <code>téir</code>",
+          "good": "<code>der</code>",
+          "why": "TH de «nada» (d suave) y EI = e: igual que there.",
+          "why_en": "Their sounds like there."
+        },
+        {
+          "bad": "sea → <code>séa</code>",
+          "good": "<code>sii</code>",
+          "why": "EA = ii larga: igual que see.",
+          "why_en": "EA is a long ee: sea sounds like see."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En la panadería",
+      "title_en": "At the bakery",
+      "lines": [
+        {
+          "who": "Mario",
+          "en": "Hi! Do you sell flour?",
+          "say": "jai! du iu sel fláuer?",
+          "es": "¡Hola! ¿Venden harina?"
+        },
+        {
+          "who": "Mike",
+          "en": "Flowers? The flower shop is over there.",
+          "say": "fláuers? də fláuer shap is óuver der",
+          "es": "¿Flores? La floristería está allí."
+        },
+        {
+          "who": "Mario",
+          "en": "No, no! Flour, for a cake. It's for my mom.",
+          "say": "nou, nou! fláuer, fer ə kéik. its fer mai mam",
+          "es": "¡No, no! Harina, para una tarta. Es para mi madre."
+        },
+        {
+          "who": "Mike",
+          "en": "Oh, I see! The flour is right here. How much do you need?",
+          "say": "ou, ai sii! də fláuer is rait jir. jau mach du iu niid?",
+          "es": "¡Ah, ya veo! La harina está justo aquí. ¿Cuánta necesitas?"
+        },
+        {
+          "who": "Mario",
+          "en": "Two bags, please. And eight eggs.",
+          "say": "tuu bægs, pliis. ən eit egs",
+          "es": "Dos bolsas, por favor. Y ocho huevos."
+        },
+        {
+          "who": "Mike",
+          "en": "Here you go. Is the cake for a party?",
+          "say": "jir iu góu. is də kéik fer ə párdi?",
+          "es": "Aquí tienes. ¿La tarta es para una fiesta?"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes, for my sister. She's eight!",
+          "say": "iés, fer mai síster. shiis eit!",
+          "es": "Sí, para mi hermana. ¡Cumple ocho!"
+        },
+        {
+          "who": "Mike",
+          "en": "Great! Have a good one. Bye!",
+          "say": "gréit! jæv ə gud wan. bai!",
+          "es": "¡Genial! Que te vaya bien. ¡Adiós!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo dominar los homófonos",
+      "title_en": "How to master homophones",
+      "items": [
+        {
+          "es": "Recuerda: si suenan igual, <b>se dicen igual</b>. No inventes diferencias (nada de pronunciar la K de knight).",
+          "en": "Same sound, same pronunciation. Don't invent differences."
+        },
+        {
+          "es": "Aprende cada pareja con un <b>dibujo</b>: see 👀 / sea 🌊, sun ☀️ / son 👦.",
+          "en": "Learn each pair with a picture."
+        },
+        {
+          "es": "Para entender cuál es, fíjate en el <b>contexto</b>: «I can see the sea» solo tiene un sentido posible.",
+          "en": "Use the context to understand which word it is."
+        },
+        {
+          "es": "Para escribirlas bien, haz <b>dictados</b>: alguien dice la frase y tú eliges la palabra.",
+          "en": "Practice with dictations to spell them right."
+        },
+        {
+          "es": "Inventa chistes con dobles sentidos, como los americanos: ¡les encantan los juegos de palabras!",
+          "en": "Make up homophone jokes: Americans love puns!"
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Which witch is which?",
+          "say": "wich wich is wich",
+          "es": "¿Qué bruja es cuál?"
+        },
+        {
+          "en": "Eight bears ate eight pears over there.",
+          "say": "eit bers eit eit pers óuver der",
+          "es": "Ocho osos se comieron ocho peras allí."
+        },
+        {
+          "en": "I knew the new blue shoe blew away.",
+          "say": "ai nuu də nuu bluu shuu bluu əwéi",
+          "es": "Sabía que el zapato azul nuevo salió volando."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del contexto",
+      "title_en": "The context trick",
+      "icon": "🧩",
+      "es": "No te agobies: los americanos tampoco «oyen» la diferencia, porque <b>no la hay</b>. Saben cuál es por el contexto. Tú, igual: <mark>pronúncialas igual y deja que la frase haga el trabajo</mark>. ¿Y al escribir? Ahí sí, ¡mira bien la ortografía! ✍️",
+      "en": "Native speakers can't hear a difference either, because there isn't one. They use context. Say them the same and let the sentence do the work."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "Di las dos palabras en voz alta. ¿Suenan igual o diferente? Rodea.",
+      "en": "Say both words. Do they sound the same or different?",
+      "items": [
+        {
+          "q": "see · sea → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "write · right → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "ship · sheep → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "hour · our → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "know · no → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "witch · which → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "sun · son → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "quiet · quite → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "flower · flour → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "work · walk → [igual|diferente]",
+          "a": "diferente"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une las gemelas",
+      "title_en": "Match the twins",
+      "icon": "🔗",
+      "es": "Une cada palabra con la que suena igual.",
+      "en": "Match each word with its homophone.",
+      "pairs": [
+        [
+          "see",
+          "sea"
+        ],
+        [
+          "meet",
+          "meat"
+        ],
+        [
+          "knight",
+          "night"
+        ],
+        [
+          "won",
+          "one"
+        ],
+        [
+          "ate",
+          "eight"
+        ],
+        [
+          "hear",
+          "here"
+        ],
+        [
+          "week",
+          "weak"
+        ],
+        [
+          "I",
+          "eye"
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Cómo suena?",
+      "title_en": "How does it sound?",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela debajo de su sonido.",
+      "en": "Say each word and write it under its sound.",
+      "cats": [
+        {
+          "name": "🔊 <code>tuu</code>",
+          "words": [
+            "to",
+            "too",
+            "two"
+          ]
+        },
+        {
+          "name": "🔊 <code>der</code>",
+          "words": [
+            "there",
+            "their",
+            "they're"
+          ]
+        },
+        {
+          "name": "🔊 <code>bai</code>",
+          "words": [
+            "buy",
+            "by",
+            "bye"
+          ]
+        },
+        {
+          "name": "🔊 <code>ai</code>",
+          "words": [
+            "I",
+            "eye",
+            "aye"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suenan",
+      "title_en": "Write how they sound",
+      "icon": "✍️",
+      "es": "Las dos palabras suenan igual. Escribe su pronunciación figurada (una sola vez).",
+      "en": "Both words sound the same. Write how they sound.",
+      "items": [
+        {
+          "q": "👀 see / 🌊 sea → ___",
+          "a": "sii"
+        },
+        {
+          "q": "✍️ write / ✅ right → ____",
+          "a": "rait"
+        },
+        {
+          "q": "🧠 know / 🙅 no → ___",
+          "a": "nou"
+        },
+        {
+          "q": "⏰ hour / 👨‍👩‍👧 our → ____",
+          "a": "áuer"
+        },
+        {
+          "q": "☀️ sun / 👦 son → ___",
+          "a": "san"
+        },
+        {
+          "q": "8️⃣ eight / 🍽️ ate → ___",
+          "a": "eit"
+        },
+        {
+          "q": "🌸 flower / 🌾 flour → ____",
+          "a": "fláuer"
+        },
+        {
+          "q": "👂 hear / 📍 here → ___",
+          "a": "jir"
+        },
+        {
+          "q": "⛅ weather / ⚖️ whether → ____",
+          "a": "wéder"
+        },
+        {
+          "q": "1️⃣ one / 🏆 won → ___",
+          "a": "wan"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Elige la palabra correcta",
+      "title_en": "Choose the right word",
+      "icon": "🎯",
+      "es": "Suenan igual, pero solo una tiene sentido en la frase. Rodéala.",
+      "en": "They sound the same, but only one makes sense. Circle it.",
+      "items": [
+        {
+          "q": "👀 I can [see|sea] you.",
+          "a": "see"
+        },
+        {
+          "q": "🌊 We swim in the [see|sea].",
+          "a": "sea"
+        },
+        {
+          "q": "🍕 I [ate|eight] a pizza.",
+          "a": "ate"
+        },
+        {
+          "q": "🐱 She has [two|too|to] cats.",
+          "a": "two"
+        },
+        {
+          "q": "🏫 I go [two|too|to] school.",
+          "a": "to"
+        },
+        {
+          "q": "🙋 Me [two|too|to]!",
+          "a": "too"
+        },
+        {
+          "q": "🏠 [There|Their|They're] house is big.",
+          "a": "Their"
+        },
+        {
+          "q": "😊 [There|Their|They're] very nice.",
+          "a": "They're"
+        },
+        {
+          "q": "🧠 I [no|know] the answer.",
+          "a": "know"
+        },
+        {
+          "q": "➡️ Turn [right|write] here.",
+          "a": "right"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "«Hour» and «our» can sound the same.",
+          "a": true
+        },
+        {
+          "q": "In «knight», you pronounce the K.",
+          "a": false,
+          "why": "es muda: <code>nait</code>"
+        },
+        {
+          "q": "«Flour» sounds like the Spanish word «flor».",
+          "a": false,
+          "why": "suena <code>fláuer</code>, como flower"
+        },
+        {
+          "q": "Homophones have the same spelling.",
+          "a": false,
+          "why": "tienen el mismo sonido, no la misma ortografía"
+        },
+        {
+          "q": "In American English, «which» and «witch» sound the same.",
+          "a": true
+        },
+        {
+          "q": "«Read» (past tense) sounds like «red».",
+          "a": true
+        },
+        {
+          "q": "«Two», «too» and «to» can sound the same.",
+          "a": true
+        },
+        {
+          "q": "«Sun» and «son» have different vowels.",
+          "a": false,
+          "why": "las dos: <code>san</code>"
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Escribe la gemela",
+      "title_en": "Spell the twin",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra que suena igual pero significa lo del dibujo.",
+      "en": "Unscramble the letters to spell the homophone.",
+      "items": [
+        {
+          "q": "🌊 sea → 👀 ver",
+          "a": "see"
+        },
+        {
+          "q": "🥩 meat → 🤝 conocer",
+          "a": "meet"
+        },
+        {
+          "q": "🌙 night → 🛡️ caballero",
+          "a": "knight"
+        },
+        {
+          "q": "🏆 won → 1️⃣ uno",
+          "a": "one"
+        },
+        {
+          "q": "🍽️ ate → 8️⃣ ocho",
+          "a": "eight"
+        },
+        {
+          "q": "👂 hear → 📍 aquí",
+          "a": "here"
+        },
+        {
+          "q": "🪫 weak → 📆 semana",
+          "a": "week"
+        },
+        {
+          "q": "🌾 flour → 🌸 flor",
+          "a": "flower"
+        },
+        {
+          "q": "✅ right → ✍️ escribir",
+          "a": "write"
+        },
+        {
+          "q": "☀️ sun → 👦 hijo",
+          "a": "son"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe cómo suena la frase",
+      "title_en": "Write how the sentence sounds",
+      "icon": "🗣️",
+      "es": "Escribe la frase entera con pronunciación figurada. ¡Las gemelas se escriben igual!",
+      "en": "Write how the whole sentence sounds.",
+      "items": [
+        {
+          "q": "I ate eight.",
+          "a": "ai eit eit"
+        },
+        {
+          "q": "Write it right!",
+          "a": "ráirit rait"
+        },
+        {
+          "q": "No, I know.",
+          "a": "nou, ai nou"
+        },
+        {
+          "q": "Their son is in the sun.",
+          "a": "der san is in də san"
+        },
+        {
+          "q": "I see the sea.",
+          "a": "ai sii də sii"
+        },
+        {
+          "q": "Buy one!",
+          "a": "bai wan"
+        },
+        {
+          "q": "Come here and hear this.",
+          "a": "kam jir ən jir dis"
+        },
+        {
+          "q": "Four for you!",
+          "a": "for fer iu"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "hour → <code>jáuer</code>",
+          "a": "áuer"
+        },
+        {
+          "q": "knight → <code>knáit</code>",
+          "a": "nait"
+        },
+        {
+          "q": "write → <code>wráit</code>",
+          "a": "rait"
+        },
+        {
+          "q": "flour → <code>flor</code>",
+          "a": "fláuer"
+        },
+        {
+          "q": "eye → <code>éie</code>",
+          "a": "ai"
+        },
+        {
+          "q": "which → <code>juích</code>",
+          "a": "wich"
+        },
+        {
+          "q": "sea → <code>séa</code>",
+          "a": "sii"
+        },
+        {
+          "q": "two → <code>twóu</code>",
+          "a": "tuu"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "I ate eight cookies.",
+          "say": "ai eit eit kúkis"
+        },
+        {
+          "q": "Their dog is over there.",
+          "say": "der dog is óuver der"
+        },
+        {
+          "q": "Write the right answer.",
+          "say": "rait də rait ǽnser"
+        },
+        {
+          "q": "I can see the sea.",
+          "say": "ai kən sii də sii"
+        },
+        {
+          "q": "Which witch is which?",
+          "say": "wich wich is wich"
+        },
+        {
+          "q": "We won one game.",
+          "say": "wi wan wan gueim"
+        },
+        {
+          "q": "I need flour, not flowers.",
+          "say": "ai niid fláuer, nat fláuers"
+        },
+        {
+          "q": "Bye! I'll buy it by Friday.",
+          "say": "bai! ail bai it bai fráidei"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés y dilo en voz alta. ¡Ojo con la ortografía!",
+      "en": "Translate into English and say it. Watch the spelling!",
+      "items": [
+        {
+          "q": "mar",
+          "a": "sea (sii)"
+        },
+        {
+          "q": "ver",
+          "a": "see (sii)"
+        },
+        {
+          "q": "carne",
+          "a": "meat (miit)"
+        },
+        {
+          "q": "noche",
+          "a": "night (nait)"
+        },
+        {
+          "q": "caballero",
+          "a": "knight (nait)"
+        },
+        {
+          "q": "harina",
+          "a": "flour (fláuer)"
+        },
+        {
+          "q": "flor",
+          "a": "flower (fláuer)"
+        },
+        {
+          "q": "hora",
+          "a": "hour (áuer)"
+        },
+        {
+          "q": "bruja",
+          "a": "witch (wich)"
+        },
+        {
+          "q": "ojo",
+          "a": "eye (ai)"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Escribe la palabra gemela y cómo suenan las dos.",
+      "en": "Write the twin word and how both words sound.",
+      "head": [
+        "Palabra",
+        "Gemela",
+        "Suenan"
+      ],
+      "rows": [
+        [
+          "see",
+          "?sea",
+          "?sii"
+        ],
+        [
+          "?meat",
+          "meet",
+          "miit"
+        ],
+        [
+          "week",
+          "?weak",
+          "?wiik"
+        ],
+        [
+          "eight",
+          "?ate",
+          "eit"
+        ],
+        [
+          "?hour",
+          "our",
+          "?áuer"
+        ],
+        [
+          "son",
+          "?sun",
+          "?san"
+        ],
+        [
+          "write",
+          "?right",
+          "rait"
+        ],
+        [
+          "?flower",
+          "flour",
+          "?fláuer"
+        ]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de gemelas",
+      "title_en": "Homophone word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Cada vez que encuentres una, di también su gemela.",
+      "en": "Find 10 words and say each one with its twin.",
+      "words": [
+        "knight",
+        "hour",
+        "write",
+        "right",
+        "flour",
+        "flower",
+        "witch",
+        "which",
+        "eight",
+        "their"
+      ],
+      "clues": [
+        "knight · caballero",
+        "hour · hora",
+        "write · escribir",
+        "right · correcto",
+        "flour · harina",
+        "flower · flor",
+        "witch · bruja",
+        "which · cuál",
+        "eight · ocho",
+        "their · su (de ellos)"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza gemelas",
+      "title_en": "Read and find the twins",
+      "icon": "📖",
+      "es": "Lee el cuento en voz alta. Después contesta.",
+      "en": "Read the story aloud, then answer.",
+      "text_title": "The knight and the witch",
+      "text": [
+        "One night, a brave knight went to the sea. Near a flower shop, he saw a witch. “Which way is the castle?” he asked.",
+        "“It's right there,” said the witch, “but first, buy some flour for me. I want to bake eight cookies for my son.” The knight bought the flour, and the witch made the cookies. The knight ate two, and her son ate two, too. “Bye!” said the knight, and he rode by the sea all night."
+      ],
+      "items": [
+        {
+          "q": "Find two words that sound like «nait».",
+          "a": "night y knight (<code>nait</code>)."
+        },
+        {
+          "q": "What does the witch want?",
+          "a": "Flour (<code>fláuer</code>), harina, para hacer galletas."
+        },
+        {
+          "q": "How many cookies does the witch make?",
+          "a": "Eight (<code>eit</code>)."
+        },
+        {
+          "q": "Find three words in the text that can sound like «tuu».",
+          "a": "to, two, too (<code>tuu</code>)."
+        },
+        {
+          "q": "The witch has a son.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "The knight ate eight cookies.",
+          "tf": true,
+          "a": false,
+          "why": "he ate two"
+        },
+        {
+          "q": "«Which» and «witch» sound the same.",
+          "tf": true,
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases, léelas en voz alta y grábate.",
+      "en": "Write your sentences, read them aloud and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con dos gemelas (por ejemplo, see/sea).",
+          "lines": 2,
+          "a": "Ej.: I can see the sea."
+        },
+        {
+          "q": "Una frase con there, their y they're.",
+          "lines": 2,
+          "a": "Ej.: They're in their house over there."
+        },
+        {
+          "q": "Inventa un chiste o juego de palabras con un homófono.",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé qué es un homófono: mismo sonido, distinta palabra.",
+      "en": "I know what a homophone is."
+    },
+    {
+      "es": "Digo igual see/sea, meet/meat y week/weak: <code>sii</code>, <code>miit</code>, <code>wiik</code>.",
+      "en": "I say see/sea, meet/meat and week/weak the same way."
+    },
+    {
+      "es": "No pronuncio la K de knight, la W de write ni la H de hour.",
+      "en": "I don't pronounce silent letters."
+    },
+    {
+      "es": "Sé que there, their y they're suenan <code>der</code>.",
+      "en": "I know there, their and they're sound the same."
+    },
+    {
+      "es": "Sé que en americano which y witch suenan igual.",
+      "en": "I know which and witch sound the same in American English."
+    },
+    {
+      "es": "Entiendo por el contexto cuál de las gemelas es.",
+      "en": "I use context to know which word it is."
+    }
+  ]
+}

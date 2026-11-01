@@ -1,0 +1,1698 @@
+{
+  "id": "H-01",
+  "block": "H",
+  "title": "PALABRAS PEGADAS",
+  "file_title": "Palabras pegadas (linking)",
+  "subtitle": "Linking words · an apple = «a napple»",
+  "icon": "🔗",
+  "map": {
+    "center": "Si una palabra acaba en <b>consonante</b> y la siguiente empieza por <b>vocal</b>, se pegan: an apple = <code>ənǽpəl</code>.",
+    "listen": "turn it off",
+    "nodes": [
+      {
+        "title": "¿Qué pasa?",
+        "icon": "🧲",
+        "color": "green",
+        "items": [
+          "consonante final + <b>vocal</b>",
+          "la consonante <b>salta</b> a la palabra siguiente",
+          "an apple → «a <b>n</b>apple»"
+        ]
+      },
+      {
+        "title": "Suena como…",
+        "icon": "🇪🇸",
+        "color": "blue",
+        "rows": [
+          [
+            "an apple",
+            "<code>ənǽpəl</code>"
+          ],
+          [
+            "come in",
+            "<code>kamín</code> (¡camino!)"
+          ],
+          [
+            "What's up?",
+            "<code>watsáp</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Verbos de dos piezas",
+        "icon": "🧩",
+        "color": "purple",
+        "rows": [
+          [
+            "wake up",
+            "<code>weikáp</code>"
+          ],
+          [
+            "hold on",
+            "<code>jouldán</code>"
+          ],
+          [
+            "turn it off",
+            "<code>térniróf</code>"
+          ]
+        ]
+      },
+      {
+        "title": "¡Ya lo haces en español!",
+        "icon": "😮",
+        "color": "orange",
+        "items": [
+          "los otros → «lo-<b>so</b>tros»",
+          "un amigo → «u-<b>na</b>migo»",
+          "en inglés, ¡igual!"
+        ]
+      },
+      {
+        "title": "AN, el pegamento",
+        "icon": "🧴",
+        "color": "pink",
+        "items": [
+          "<b>an</b> apple, <b>an</b> egg",
+          "<b>an</b> hour (la h no suena)",
+          "la <b>n</b> se pega a la vocal"
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Lee la frase como <b>una sola palabra</b>: once upon a time = <code>wánsəpánə táim</code>.",
+        "art": "🚂"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "an… apple (con pausa)"
+      ],
+      "good": [
+        "<code>ənǽpəl</code> 🍎"
+      ],
+      "note": "Palabra a palabra suenas a robot 🤖"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🍎 an apple → ____",
+          "a": "ənǽpəl"
+        },
+        {
+          "q": "🚪 come in → ____",
+          "a": "kamín"
+        },
+        {
+          "q": "👋 What's up? → ____",
+          "a": "watsáp"
+        },
+        {
+          "q": "🧸 pick it up → ____",
+          "a": "pikiráp"
+        },
+        {
+          "q": "✋ hold on → ____",
+          "a": "jouldán"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué son las palabras pegadas?",
+      "title_en": "What is linking?",
+      "icon": "🔎",
+      "es": "Los americanos no hablan palabra a palabra, sino en <b>trenes de sonido</b>. Cuando una palabra acaba en <b>consonante</b> y la siguiente empieza por <b>vocal</b>, esa consonante se suelta y <b>salta</b> a la palabra de al lado: <i>an apple</i> suena «a napple», <code>ənǽpəl</code>. Se llama <b>linking</b> (enlace). <mark>No es hablar mal ni deprisa</mark>: así habla todo el mundo, también en las noticias. Por eso el inglés hablado parece a veces una sola palabra gigante.",
+      "en": "Americans don't speak word by word. When a word ends in a consonant and the next word starts with a vowel, the consonant jumps over: «an apple» sounds like «a napple».",
+      "formula": [
+        "consonante final + *vocal* → *se pegan*",
+        "an apple → *a napple*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así trabaja tu boca",
+      "title_en": "What your mouth does",
+      "items": [
+        {
+          "part": "air",
+          "es": "El aire <b>no se corta</b> entre palabras: sale seguido, como cuando soplas una vela despacito.",
+          "en": "Keep the air flowing between words."
+        },
+        {
+          "part": "voice",
+          "es": "<b>No cierres la garganta</b> antes de la vocal. Nada de golpecitos «¡toc!» delante de apple o in.",
+          "en": "Don't close your throat before a vowel."
+        },
+        {
+          "part": "tongue",
+          "es": "La lengua va <b>directa</b> de la consonante a la vocal siguiente, como si fueran de la misma palabra.",
+          "en": "Go straight from the consonant to the next vowel."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Consonante + vocal",
+      "title_en": "Consonant + vowel",
+      "icon": "🔗",
+      "es": "Es la regla de oro: si una palabra termina en <b>sonido de consonante</b> y la siguiente empieza por <b>sonido de vocal</b>, no hay pausa. La consonante hace de <b>enganche</b> entre las dos. Fíjate en el <b>sonido</b>, no en la letra: en <i>an hour</i> la h no suena, así que también se pega.",
+      "en": "If a word ends in a consonant sound and the next starts with a vowel sound, link them. No pause!",
+      "formula": [
+        "come in → *kamín*",
+        "What's up? → *watsáp*"
+      ],
+      "examples": [
+        {
+          "en": "an apple",
+          "say": "ənǽpəl",
+          "es": "una manzana",
+          "icon": "🍎"
+        },
+        {
+          "en": "come in",
+          "say": "kamín",
+          "es": "pasa / entra",
+          "icon": "🚪"
+        },
+        {
+          "en": "What's up?",
+          "say": "watsáp",
+          "es": "¿qué tal?",
+          "icon": "👋"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Mueve la frontera",
+      "title_en": "Move the border",
+      "icon": "✂️",
+      "es": "El truco es <b>resilabear</b>: corta las sílabas de otra manera. La consonante final se va a vivir con la vocal de la palabra siguiente. Escrito: <i>first of all</i>. Dicho: «firs-tə-vól». Tu oído deja de oír tres palabras y oye <mark>un solo tren</mark>.",
+      "en": "Re-syllabify: the final consonant moves to the next word. «First of all» sounds like «firs-tə-vól».",
+      "formula": [
+        "an egg → a *n*egg",
+        "first of all → firs-*t*ə-*v*ól"
+      ],
+      "examples": [
+        {
+          "en": "an egg",
+          "say": "ənég",
+          "es": "un huevo",
+          "icon": "🥚"
+        },
+        {
+          "en": "first of all",
+          "say": "férstəvól",
+          "es": "antes de nada",
+          "icon": "1️⃣"
+        },
+        {
+          "en": "all of us",
+          "say": "óləvás",
+          "es": "todos nosotros",
+          "icon": "👪"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Verbos de dos piezas",
+      "title_en": "Phrasal verbs",
+      "icon": "🧩",
+      "es": "Los <b>phrasal verbs</b> (verbo + up, in, on, off, out…) son los campeones del enlace: casi siempre el verbo acaba en consonante y la partícula empieza por vocal. Se dicen <b>de un tirón</b> y el golpe va en la <b>partícula</b>: wake <b>UP</b>, hold <b>ON</b>. Si hay una T entre vocales, además hace el toque del mapa C-02: <code>térniróf</code>.",
+      "en": "Phrasal verbs link all the time. Say them in one go and stress the particle: wake UP, hold ON.",
+      "examples": [
+        {
+          "en": "wake up",
+          "say": "weikáp",
+          "es": "despierta",
+          "icon": "⏰"
+        },
+        {
+          "en": "hold on",
+          "say": "jouldán",
+          "es": "espera",
+          "icon": "✋"
+        },
+        {
+          "en": "turn it off",
+          "say": "térniróf",
+          "es": "apágalo",
+          "icon": "📺"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Dos consonantes al final",
+      "title_en": "Two final consonants",
+      "icon": "🚃",
+      "es": "Si la palabra acaba en <b>varias consonantes</b> (lots, lives, asked), solo <b>salta la última</b>; las otras se quedan en su sitio. Esto vale también para las terminaciones <b>-s</b> y <b>-ed</b> (mapas T-01 y T-02): <i>lives in</i> → «liv-sin», <i>asked a</i> → «ask-tə».",
+      "en": "With two or more final consonants, only the last one jumps: lots of → «lot-sə», asked a → «ask-tə».",
+      "formula": [
+        "lots of → lot-*s*ə",
+        "asked a → ask-*t*ə"
+      ],
+      "examples": [
+        {
+          "en": "lots of love",
+          "say": "látsə láv",
+          "es": "muchos besos",
+          "icon": "💕"
+        },
+        {
+          "en": "He lives in Ohio.",
+          "say": "ji lívsin oujáiou",
+          "es": "Vive en Ohio.",
+          "icon": "🏡"
+        },
+        {
+          "en": "Mike asked a question.",
+          "say": "maik ǽsktə kwéschən",
+          "es": "Mike hizo una pregunta.",
+          "icon": "🙋"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · AN, el pegamento",
+      "title_en": "AN, the glue",
+      "icon": "🧴",
+      "es": "¿Por qué el inglés tiene <b>a</b> y <b>an</b>? ¡Para poder pegar! Delante de <b>sonido de vocal</b> se usa <b>an</b>, y su n se engancha a la palabra siguiente. Cuenta el sonido: <b>an</b> hour (h muda), pero <b>a</b> uniform (suena «iu»). Curiosidad: pegaban tanto que «a napron» acabó siendo <i>an apron</i> (delantal).",
+      "en": "We say «an» before a vowel sound so the n can link: an hour, an umbrella. But «a uniform», because it starts with a «y» sound.",
+      "examples": [
+        {
+          "en": "an hour",
+          "say": "ənáuer",
+          "es": "una hora",
+          "icon": "⌛"
+        },
+        {
+          "en": "an umbrella",
+          "say": "ənambrélə",
+          "es": "un paraguas",
+          "icon": "☂️"
+        },
+        {
+          "en": "an idea",
+          "say": "ənaidíiə",
+          "es": "una idea",
+          "icon": "💡"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "come in",
+          "ipa": "kʌˈmɪn",
+          "say": "kamín",
+          "es": "pasa / entra",
+          "icon": "🚪",
+          "anchor": "<b>camin</b>o 🛤️",
+          "tip": "Di «camino» sin la o final, con la fuerza en «MIN». ¡Pasa!"
+        },
+        {
+          "en": "an apple",
+          "ipa": "əˈnæpəl",
+          "say": "ənǽpəl",
+          "es": "una manzana",
+          "icon": "🍎",
+          "anchor": "me voy <b>a Nápol</b>es 🍕",
+          "tip": "«A Nápol» = an apple. Abre la a como si sonrieras: ǽ."
+        },
+        {
+          "en": "What's up?",
+          "ipa": "wʌtˈsʌp",
+          "say": "watsáp",
+          "es": "¿qué tal? / ¿qué pasa?",
+          "icon": "👋",
+          "anchor": "<b>WhatsApp</b> 📱",
+          "tip": "¡Casi como dices «wasap»! Mete la t: wat-SÁP."
+        },
+        {
+          "en": "all of us",
+          "ipa": "ˌɔləˈvʌs",
+          "say": "óləvás",
+          "es": "todos nosotros",
+          "icon": "👪",
+          "anchor": "<b>¡Hola! ¿Vas?</b> 👋",
+          "tip": "De un tirón y con v de verdad (dientes en el labio). Muchos dicen «áləvás»."
+        },
+        {
+          "en": "piece of cake",
+          "ipa": "ˌpiːsəˈkeɪk",
+          "say": "píisə kéik",
+          "es": "¡pan comido!",
+          "icon": "🍰",
+          "anchor": "<b>pisa</b> 👣",
+          "tip": "«Piiisa kéik»: alarga la i. Significa «¡está chupado!»."
+        },
+        {
+          "en": "an Uber",
+          "ipa": "əˈnuːbɚ",
+          "say": "ənúuber",
+          "es": "un Uber",
+          "icon": "🚗",
+          "anchor": "un<b>a nube</b> ☁️",
+          "tip": "La n se pega a Uber: «a nube…r». Termina con R americana."
+        },
+        {
+          "en": "pick a card",
+          "ipa": "ˌpɪkəˈkɑrd",
+          "say": "píkə kárd",
+          "es": "elige una carta",
+          "icon": "🃏",
+          "anchor": "¡cómo <b>pica</b>! 🌶️",
+          "tip": "«Pica kard»: la k salta a la a. ¡Truco de magia!"
+        },
+        {
+          "en": "tell us",
+          "ipa": "ˈtɛləs",
+          "say": "téləs",
+          "es": "cuéntanos / dinos",
+          "icon": "🗣️",
+          "anchor": "<b>telas</b> 🧵",
+          "tip": "Tell us a story = <code>téləsə stóri</code>, ¡cuéntanos un cuento!"
+        },
+        {
+          "en": "call us",
+          "ipa": "ˈkɔləs",
+          "say": "kóləs",
+          "es": "llámanos",
+          "icon": "📞",
+          "anchor": "<b>colas</b> 🦊",
+          "tip": "Muchos americanos dicen «káləs». ¡Las dos valen!"
+        },
+        {
+          "en": "a can of",
+          "ipa": "əˈkænə",
+          "say": "əkǽnə",
+          "es": "una lata de",
+          "icon": "🥫",
+          "anchor": "un<b>a cana</b> 👴",
+          "tip": "A can of soda = <code>əkǽnə sóudə</code>. Abre la a: «kǽ»."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "an apple",
+          "es": "una manzana"
+        },
+        {
+          "q": "come in",
+          "es": "pasa"
+        },
+        {
+          "q": "pick it up",
+          "es": "recógelo"
+        },
+        {
+          "q": "turn it off",
+          "es": "apágalo"
+        },
+        {
+          "q": "first of all",
+          "es": "antes de nada"
+        },
+        {
+          "q": "once upon a time",
+          "es": "érase una vez"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Se pegan o no?",
+      "title_en": "Link or no link?",
+      "icon": "🧭",
+      "head": [
+        "Frase · Phrase",
+        "¿Qué se junta?",
+        "¿Se pega?",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "an apple",
+          "n + vocal",
+          "✅ sí",
+          "<code>ənǽpəl</code>"
+        ],
+        [
+          "come in",
+          "m + vocal",
+          "✅ sí",
+          "<code>kamín</code>"
+        ],
+        [
+          "an hour",
+          "n + vocal (la h de hour es muda)",
+          "✅ sí",
+          "<code>ənáuer</code>"
+        ],
+        [
+          "lots of",
+          "ts + vocal: salta solo la s",
+          "✅ sí",
+          "<code>látsə</code>"
+        ],
+        [
+          "look at it",
+          "k + vocal y t + vocal",
+          "✅ sí (+ toque, C-02)",
+          "<code>lúkərit</code>"
+        ],
+        [
+          "black hat",
+          "k + h que sí suena",
+          "❌ no",
+          "<code>blæk jæt</code>"
+        ],
+        [
+          "big dog",
+          "consonante + consonante",
+          "❌ no",
+          "<code>big dog</code>"
+        ],
+        [
+          "two eggs",
+          "vocal + vocal",
+          "🌉 con puente (H-02)",
+          "<code>túu-wégs</code>"
+        ]
+      ],
+      "note": "La regla: <b>sonido de consonante + sonido de vocal = se pegan</b>. Si la palabra siguiente empieza por consonante o por una h que suena, no hay enlace. Vocal + vocal también se une, pero con un puentecito: lo verás en el mapa H-02.",
+      "note_en": "Consonant sound + vowel sound = link. Vowel + vowel links too, with a tiny bridge (map H-02)."
+    },
+    {
+      "t": "compare",
+      "title": "¡El español también pega!",
+      "title_en": "Spanish links too!",
+      "icon": "🇪🇸",
+      "es": "Buena noticia: <b>ya sabes hacerlo</b>. En español nadie dice «los | otros» con pausa. Solo tienes que hacer lo mismo en inglés.",
+      "en": "Good news: you already do this in Spanish. Just do the same in English.",
+      "cols": [
+        {
+          "head": "🇪🇸 Español",
+          "color": "orange",
+          "items": [
+            "los otros → «lo-so-tros»",
+            "un amigo → «u-na-mi-go»",
+            "es azul → «e-sa-zul»",
+            "¡lo haces sin pensar!"
+          ]
+        },
+        {
+          "head": "🇺🇸 Inglés",
+          "color": "blue",
+          "items": [
+            "an apple → <code>ə-nǽ-pəl</code>",
+            "come in → <code>ka-mín</code>",
+            "this is → <code>dí-sis</code>",
+            "¡haz exactamente lo mismo!"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "title": "El golpe va en la partícula",
+      "title_en": "Stress the particle",
+      "icon": "🥁",
+      "es": "En los verbos de dos piezas, el golpe (●) suele ir en la <b>última</b> palabra. Todo va pegado.",
+      "en": "In phrasal verbs, the stress usually goes on the particle.",
+      "items": [
+        {
+          "syl": [
+            "wake",
+            "up"
+          ],
+          "s": 1,
+          "say": "weikáp",
+          "es": "despertarse"
+        },
+        {
+          "syl": [
+            "come",
+            "in"
+          ],
+          "s": 1,
+          "say": "kamín",
+          "es": "entrar"
+        },
+        {
+          "syl": [
+            "hold",
+            "on"
+          ],
+          "s": 1,
+          "say": "jouldán",
+          "es": "esperar"
+        },
+        {
+          "syl": [
+            "sign",
+            "up"
+          ],
+          "s": 1,
+          "say": "saináp",
+          "es": "apuntarse"
+        },
+        {
+          "syl": [
+            "pick",
+            "it",
+            "up"
+          ],
+          "s": 2,
+          "say": "pikiráp",
+          "es": "recogerlo"
+        },
+        {
+          "syl": [
+            "turn",
+            "it",
+            "off"
+          ],
+          "s": 2,
+          "say": "térniróf",
+          "es": "apagarlo"
+        },
+        {
+          "syl": [
+            "clean",
+            "it",
+            "up"
+          ],
+          "s": 2,
+          "say": "kliiniráp",
+          "es": "limpiarlo"
+        },
+        {
+          "syl": [
+            "give",
+            "it",
+            "up"
+          ],
+          "s": 2,
+          "say": "guiviráp",
+          "es": "dejarlo"
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "Once upon a time…",
+          "spoken": "Wunsa-ponna time…",
+          "say": "wánsəpánə táim",
+          "es": "Érase una vez…"
+        },
+        {
+          "written": "First of all",
+          "spoken": "Firsta-vall",
+          "say": "férstəvól",
+          "es": "Antes de nada / Para empezar"
+        },
+        {
+          "written": "Come on in!",
+          "spoken": "Comma-nin!",
+          "say": "kamanín",
+          "es": "¡Pasa, pasa!"
+        },
+        {
+          "written": "Turn it off!",
+          "spoken": "Turni-doff!",
+          "say": "térniróf",
+          "es": "¡Apágalo!"
+        },
+        {
+          "written": "What's up?",
+          "spoken": "Wha-tsup?",
+          "say": "watsáp",
+          "es": "¿Qué tal? / ¿Qué pasa?"
+        },
+        {
+          "written": "Lots of love",
+          "spoken": "Lotsa love",
+          "say": "látsə láv",
+          "es": "Muchos besos (al final de una carta)"
+        },
+        {
+          "written": "It costs an arm and a leg.",
+          "spoken": "It cost-sa-narma-na-leg.",
+          "say": "it kóstsənármənəlég",
+          "es": "Cuesta un ojo de la cara."
+        },
+        {
+          "written": "Hold on a second!",
+          "spoken": "Hol-donna second!",
+          "say": "jouldánə sékənd",
+          "es": "¡Espera un segundo!"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "Can I have an apple?",
+          "say": "kənái jǽvənǽpəl",
+          "es": "¿Me das una manzana?",
+          "icon": "🍎"
+        },
+        {
+          "en": "Come in and sit down.",
+          "say": "kamínən sit dáun",
+          "es": "Pasa y siéntate.",
+          "icon": "🪑"
+        },
+        {
+          "en": "Wake up, Mario! It's eight.",
+          "say": "weikáp, mário! itséit",
+          "es": "¡Despierta, Mario! Son las ocho.",
+          "icon": "⏰"
+        },
+        {
+          "en": "Hold on a minute.",
+          "say": "jouldánə mínit",
+          "es": "Espera un minuto.",
+          "icon": "⏱️"
+        },
+        {
+          "en": "Turn it off, please.",
+          "say": "térniróf, pliis",
+          "es": "Apágalo, por favor.",
+          "icon": "📺"
+        },
+        {
+          "en": "This is an old map.",
+          "say": "dísisənóuld mǽp",
+          "es": "Esto es un mapa antiguo.",
+          "icon": "🗺️"
+        },
+        {
+          "en": "I need an hour.",
+          "say": "ai níidənáuer",
+          "es": "Necesito una hora.",
+          "icon": "⌛"
+        },
+        {
+          "en": "Clean up your room!",
+          "say": "kliináp ier rúum",
+          "es": "¡Recoge tu habitación!",
+          "icon": "🧹"
+        },
+        {
+          "en": "Sign up online.",
+          "say": "saináp anláin",
+          "es": "Apúntate por internet.",
+          "icon": "💻"
+        },
+        {
+          "en": "Come on, it's easy!",
+          "say": "kamán, itsíisi",
+          "es": "¡Venga, es fácil!",
+          "icon": "💪"
+        },
+        {
+          "en": "Lucía lives in an old house.",
+          "say": "lusíiə lívsinənóuld jáus",
+          "es": "Lucía vive en una casa antigua.",
+          "icon": "🏠"
+        },
+        {
+          "en": "Mom has an idea!",
+          "say": "mam jǽsənaidíiə",
+          "es": "¡Mamá tiene una idea!",
+          "icon": "💡"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "an apple → <code>an… ǽpəl</code> (con pausa)",
+          "good": "<code>ənǽpəl</code>",
+          "why": "Sin pausa: la n salta a apple, «a napple».",
+          "why_en": "No pause: the n jumps to apple."
+        },
+        {
+          "bad": "come in → <code>kom in</code>",
+          "good": "<code>kamín</code>",
+          "why": "Come suena «kam» (con a) y la m se pega a in: ¡camino!",
+          "why_en": "Say «kam» and link the m to in."
+        },
+        {
+          "bad": "an hour → <code>ən jáuer</code>",
+          "good": "<code>ənáuer</code>",
+          "why": "La h de hour es muda (mapa C-06). Por eso decimos AN y la n se pega.",
+          "why_en": "The h in hour is silent, so the n links."
+        },
+        {
+          "bad": "a apple · a egg",
+          "good": "an apple · an egg",
+          "why": "Delante de sonido de vocal, siempre AN: la n hace de pegamento.",
+          "why_en": "Use «an» before a vowel sound."
+        },
+        {
+          "bad": "this is → <code>dis</code> ¡toc! <code>is</code>",
+          "good": "<code>dísis</code>",
+          "why": "No cierres la garganta antes de la vocal: deja que la s se deslice hasta is.",
+          "why_en": "Don't block your throat before a vowel."
+        },
+        {
+          "bad": "pick it up → <code>pík it ap</code>",
+          "good": "<code>pikiráp</code>",
+          "why": "Todo junto y el golpe en UP. La T entre vocales hace el toque (C-02).",
+          "why_en": "Link it all and stress «up»."
+        },
+        {
+          "bad": "first of all → <code>férst of ol</code>",
+          "good": "<code>férstəvól</code>",
+          "why": "Of se queda en «əv» y se pega a all: «firs-tə-vól».",
+          "why_en": "«Of» becomes «əv» and links to «all»."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En casa de Jenny",
+      "title_en": "At Jenny's house",
+      "lines": [
+        {
+          "who": "Jenny",
+          "en": "Hi, Mario! Come on in!",
+          "say": "jai, mário! kamanín!",
+          "es": "¡Hola, Mario! ¡Pasa, pasa!"
+        },
+        {
+          "who": "Mario",
+          "en": "Thanks! What's up?",
+          "say": "zænks! watsáp?",
+          "es": "¡Gracias! ¿Qué tal?"
+        },
+        {
+          "who": "Jenny",
+          "en": "Not much. Look, I have an idea!",
+          "say": "nat mach. luk, ai jǽvənaidíiə!",
+          "es": "Nada especial. Mira, ¡tengo una idea!"
+        },
+        {
+          "who": "Mario",
+          "en": "An online game?",
+          "say": "ənanláin guéim?",
+          "es": "¿Un juego en línea?"
+        },
+        {
+          "who": "Jenny",
+          "en": "No! Let's have a picnic in the park.",
+          "say": "nou! lets jǽvə píknikin də park",
+          "es": "¡No! Hagamos un pícnic en el parque."
+        },
+        {
+          "who": "Mario",
+          "en": "Great! I'll take an apple pie.",
+          "say": "gréit! ail téikənǽpəl pai",
+          "es": "¡Genial! Yo llevo una tarta de manzana."
+        },
+        {
+          "who": "Jenny",
+          "en": "Cool! Hold on a second.",
+          "say": "kuul! jouldánə sékənd",
+          "es": "¡Guay! Espera un segundo."
+        },
+        {
+          "who": "Mario",
+          "en": "Come on, Jenny! Rocky is already outside!",
+          "say": "kamán, yéni! ráki isolréri autsáid!",
+          "es": "¡Venga, Jenny! ¡Rocky ya está fuera!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Busca en la frase las parejas <b>consonante + vocal</b> y únelas con un puente (una rayita: an_apple).",
+          "en": "Find consonant + vowel pairs and draw a link."
+        },
+        {
+          "es": "Pasa la consonante a la palabra siguiente y léelo así: «a napple», «ka-mín», «firs-tə-vól».",
+          "en": "Move the consonant to the next word."
+        },
+        {
+          "es": "Dilo despacio pero <b>sin cortar el aire</b>, como si fuera una sola palabra larga.",
+          "en": "Say it slowly, without stopping the air."
+        },
+        {
+          "es": "Acelera poco a poco hasta tu velocidad normal, con el golpe en la palabra importante.",
+          "en": "Speed up little by little."
+        },
+        {
+          "es": "Escanea los QR, escucha 3 vídeos y <b>grábate</b>. ¿Se oyen huecos? ¡Pégalos!",
+          "en": "Listen, record yourself and remove the gaps."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "An ant ate an apple in an hour.",
+          "say": "ənǽnt éirənǽpəl inənáuer",
+          "es": "Una hormiga se comió una manzana en una hora."
+        },
+        {
+          "en": "Mike's uncle's old owl is in an oak.",
+          "say": "máiksánkəls óuldáulis inənóuk",
+          "es": "El viejo búho del tío de Mike está en un roble."
+        },
+        {
+          "en": "Pick up an egg and an onion, Ellen.",
+          "say": "pikápənég ənənániən, élən",
+          "es": "Coge un huevo y una cebolla, Ellen."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del tren",
+      "title_en": "The train trick",
+      "es": "Imagina que cada palabra es un <b>vagón</b> 🚃 y la consonante del final es su <b>enganche</b>. Si el vagón de al lado empieza por vocal, ¡engánchalos! <code>ənǽpəl</code>, <code>kamín</code>, <code>térniróf</code>. Un tren con huecos no avanza… y un inglés con huecos suena a robot. 🤖",
+      "en": "Think of words as train cars: hook each final consonant onto the next vowel."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Consonante + vocal?",
+      "title_en": "Consonant + vowel?",
+      "icon": "🔍",
+      "es": "¿La primera palabra acaba en sonido de consonante y la segunda empieza por sonido de vocal? Rodea <b>sí</b> o <b>no</b>.",
+      "en": "Does a consonant sound meet a vowel sound? Circle yes or no.",
+      "items": [
+        {
+          "q": "come in → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "big dog → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "an egg → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "hot dog → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "this is → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "red car → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "an hour → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "black hat → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "wake up → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "good night → [sí|no]",
+          "a": "no"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿A o AN?",
+      "title_en": "A or AN?",
+      "icon": "🍎",
+      "es": "Rodea <b>a</b> o <b>an</b>. Piensa en el <b>sonido</b> del principio, no en la letra.",
+      "en": "Circle a or an. Think about the first sound, not the letter.",
+      "items": [
+        {
+          "q": "[a|an] apple",
+          "a": "an"
+        },
+        {
+          "q": "[a|an] banana",
+          "a": "a"
+        },
+        {
+          "q": "[a|an] hour",
+          "a": "an"
+        },
+        {
+          "q": "[a|an] house",
+          "a": "a"
+        },
+        {
+          "q": "[a|an] egg",
+          "a": "an"
+        },
+        {
+          "q": "[a|an] uniform",
+          "a": "a"
+        },
+        {
+          "q": "[a|an] umbrella",
+          "a": "an"
+        },
+        {
+          "q": "[a|an] idea",
+          "a": "an"
+        },
+        {
+          "q": "[a|an] honest boy",
+          "a": "an"
+        },
+        {
+          "q": "[a|an] university",
+          "a": "a"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une lo escrito con lo que suena",
+      "title_en": "Match written and spoken",
+      "icon": "🔗",
+      "es": "Une cada frase con su pronunciación figurada.",
+      "en": "Match each phrase with how it sounds.",
+      "pairs": [
+        [
+          "an apple",
+          "<code>ənǽpəl</code>"
+        ],
+        [
+          "come in",
+          "<code>kamín</code>"
+        ],
+        [
+          "What's up?",
+          "<code>watsáp</code>"
+        ],
+        [
+          "hold on",
+          "<code>jouldán</code>"
+        ],
+        [
+          "first of all",
+          "<code>férstəvól</code>"
+        ],
+        [
+          "all of us",
+          "<code>óləvás</code>"
+        ],
+        [
+          "wake up",
+          "<code>weikáp</code>"
+        ],
+        [
+          "an hour",
+          "<code>ənáuer</code>"
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Qué consonante salta?",
+      "title_en": "Which consonant jumps?",
+      "icon": "🗂️",
+      "es": "Di cada frase pegada y escríbela en la columna de la consonante que salta a la vocal.",
+      "en": "Say each phrase and sort it by the consonant that links.",
+      "cats": [
+        {
+          "name": "Salta la N",
+          "words": [
+            "an apple",
+            "an hour",
+            "turn on",
+            "sign up"
+          ]
+        },
+        {
+          "name": "Salta la S",
+          "words": [
+            "this is",
+            "What's up?",
+            "lots of",
+            "pass it"
+          ]
+        },
+        {
+          "name": "Salta la K",
+          "words": [
+            "pick up",
+            "wake up",
+            "check in",
+            "take off"
+          ]
+        },
+        {
+          "name": "Salta la M",
+          "words": [
+            "come in",
+            "come on",
+            "I'm on",
+            "Tom is"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "In «an apple», the n jumps to «apple».",
+          "a": true
+        },
+        {
+          "q": "Americans make a little pause between every word.",
+          "a": false,
+          "why": "lo pegan todo"
+        },
+        {
+          "q": "We say «an hour» because the h is silent.",
+          "a": true
+        },
+        {
+          "q": "We say «an house».",
+          "a": false,
+          "why": "la h de house suena: a house"
+        },
+        {
+          "q": "Spanish speakers also link: «los otros» → «lo-so-tros».",
+          "a": true
+        },
+        {
+          "q": "In «pick it up», the stress is on «pick».",
+          "a": false,
+          "why": "va en up: pikiráp"
+        },
+        {
+          "q": "Linking is lazy, bad English.",
+          "a": false,
+          "why": "es inglés normal"
+        },
+        {
+          "q": "«What's up?» sounds a bit like «WhatsApp».",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la frase pegada, como una sola palabra, y pon tilde en la parte fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write each phrase as one word, Spanish-style.",
+      "items": [
+        {
+          "q": "🥚 an egg → ____",
+          "a": "ənég"
+        },
+        {
+          "q": "⌛ an hour → ____",
+          "a": "ənáuer"
+        },
+        {
+          "q": "⏰ wake up → ____",
+          "a": "weikáp"
+        },
+        {
+          "q": "📝 sign up → ____",
+          "a": "saináp"
+        },
+        {
+          "q": "👉 this is → ____",
+          "a": "dísis"
+        },
+        {
+          "q": "👪 all of us → ____",
+          "a": "óləvás"
+        },
+        {
+          "q": "1️⃣ first of all → ____",
+          "a": "férstəvól"
+        },
+        {
+          "q": "✈️ check in → ____",
+          "a": "chekín"
+        },
+        {
+          "q": "💡 turn on → ____",
+          "a": "ternán"
+        },
+        {
+          "q": "🧹 clean up → ____",
+          "a": "kliináp"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "¿Dónde va el golpe?",
+      "title_en": "Where's the stress?",
+      "icon": "🥁",
+      "es": "Rodea la palabra o sílaba fuerte. Después dilo todo pegado.",
+      "en": "Circle the stressed part, then say it all linked.",
+      "items": [
+        {
+          "syl": [
+            "wake",
+            "up"
+          ],
+          "s": 1,
+          "es": "despertarse"
+        },
+        {
+          "syl": [
+            "come",
+            "in"
+          ],
+          "s": 1,
+          "es": "entrar"
+        },
+        {
+          "syl": [
+            "hold",
+            "on"
+          ],
+          "s": 1,
+          "es": "esperar"
+        },
+        {
+          "syl": [
+            "sign",
+            "up"
+          ],
+          "s": 1,
+          "es": "apuntarse"
+        },
+        {
+          "syl": [
+            "check",
+            "in"
+          ],
+          "s": 1,
+          "es": "registrarse"
+        },
+        {
+          "syl": [
+            "pick",
+            "it",
+            "up"
+          ],
+          "s": 2,
+          "es": "recogerlo"
+        },
+        {
+          "syl": [
+            "turn",
+            "it",
+            "off"
+          ],
+          "s": 2,
+          "es": "apagarlo"
+        },
+        {
+          "syl": [
+            "clean",
+            "it",
+            "up"
+          ],
+          "s": 2,
+          "es": "limpiarlo"
+        },
+        {
+          "syl": [
+            "an",
+            "ap",
+            "ple"
+          ],
+          "s": 1,
+          "es": "una manzana"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En la última columna escribe qué consonante salta.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "¿Qué salta?"
+      ],
+      "rows": [
+        [
+          "an apple",
+          "una manzana",
+          "?ənǽpəl",
+          "?n"
+        ],
+        [
+          "?come in",
+          "pasa",
+          "kamín",
+          "m"
+        ],
+        [
+          "wake up",
+          "?despierta",
+          "?weikáp",
+          "k"
+        ],
+        [
+          "this is",
+          "esto es",
+          "?dísis",
+          "?s"
+        ],
+        [
+          "?an hour",
+          "una hora",
+          "ənáuer",
+          "?n"
+        ],
+        [
+          "hold on",
+          "?espera",
+          "jouldán",
+          "?d"
+        ],
+        [
+          "all of us",
+          "?todos nosotros",
+          "?óləvás",
+          "l y v"
+        ],
+        [
+          "?sign up",
+          "apúntate",
+          "saináp",
+          "?n"
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Dibuja los puentes",
+      "title_en": "Draw the links",
+      "icon": "🌉",
+      "es": "Copia la frase y une con una rayita _ cada enlace consonante + vocal (an_apple). Luego léela de un tirón.",
+      "en": "Copy the sentence and mark every link with _ (an_apple).",
+      "items": [
+        {
+          "q": "Turn it off.",
+          "a": "Turn_it_off."
+        },
+        {
+          "q": "Pick it up.",
+          "a": "Pick_it_up."
+        },
+        {
+          "q": "This is an apple.",
+          "a": "This_is_an_apple."
+        },
+        {
+          "q": "Hold on a minute.",
+          "a": "Hold_on_a minute."
+        },
+        {
+          "q": "Come in and sit down.",
+          "a": "Come_in_and sit down."
+        },
+        {
+          "q": "I need an hour.",
+          "a": "I need_an_hour."
+        },
+        {
+          "q": "Clean up your room.",
+          "a": "Clean_up your room."
+        },
+        {
+          "q": "First of all, wake up!",
+          "a": "First_of_all, wake_up!"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena y dilo pegado",
+      "title_en": "Put in order and say it",
+      "icon": "🧩",
+      "es": "Ordena las palabras. Después di la frase sin huecos.",
+      "en": "Put the words in order, then say the sentence with no gaps.",
+      "items": [
+        {
+          "q": "in / Come / and / sit / down",
+          "a": "Come in and sit down"
+        },
+        {
+          "q": "an / I / hour / need",
+          "a": "I need an hour"
+        },
+        {
+          "q": "up / Wake / Mario",
+          "a": "Wake up, Mario"
+        },
+        {
+          "q": "it / off / Turn / please",
+          "a": "Turn it off, please"
+        },
+        {
+          "q": "on / Hold / a / minute",
+          "a": "Hold on a minute"
+        },
+        {
+          "q": "is / This / an / egg",
+          "a": "This is an egg"
+        },
+        {
+          "q": "of / First / all",
+          "a": "First of all"
+        },
+        {
+          "q": "upon / Once / a / time",
+          "a": "Once upon a time"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo (pausas, vocales o letras de más). Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "an apple → <code>an ǽpəl</code> (con pausa)",
+          "a": "ənǽpəl"
+        },
+        {
+          "q": "come in → <code>kom in</code>",
+          "a": "kamín"
+        },
+        {
+          "q": "an hour → <code>ən jáuer</code>",
+          "a": "ənáuer (h muda)"
+        },
+        {
+          "q": "What's up? → <code>wat ap</code>",
+          "a": "watsáp"
+        },
+        {
+          "q": "hold on → <code>jóuld on</code>",
+          "a": "jouldán"
+        },
+        {
+          "q": "all of us → <code>ol of us</code>",
+          "a": "óləvás"
+        },
+        {
+          "q": "wake up → <code>wéik up</code>",
+          "a": "weikáp"
+        },
+        {
+          "q": "first of all → <code>férst of ol</code>",
+          "a": "férstəvól"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta, bien pegado.",
+      "en": "Translate into English and say it linked.",
+      "items": [
+        {
+          "q": "una manzana",
+          "a": "an apple (ənǽpəl)"
+        },
+        {
+          "q": "¡Pasa!",
+          "a": "Come in! (kamín)"
+        },
+        {
+          "q": "¿Qué tal?",
+          "a": "What's up? (watsáp)"
+        },
+        {
+          "q": "Espera.",
+          "a": "Hold on. (jouldán)"
+        },
+        {
+          "q": "¡Despierta!",
+          "a": "Wake up! (weikáp)"
+        },
+        {
+          "q": "una hora",
+          "a": "an hour (ənáuer)"
+        },
+        {
+          "q": "Apágalo.",
+          "a": "Turn it off. (térniróf)"
+        },
+        {
+          "q": "Recógelo.",
+          "a": "Pick it up. (pikiráp)"
+        },
+        {
+          "q": "antes de nada",
+          "a": "first of all (férstəvól)"
+        },
+        {
+          "q": "todos nosotros",
+          "a": "all of us (óləvás)"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) sin cortar el aire y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Come on in!",
+          "say": "kamanín!"
+        },
+        {
+          "q": "Once upon a time…",
+          "say": "wánsəpánə táim…"
+        },
+        {
+          "q": "First of all, wake up!",
+          "say": "férstəvól, weikáp!"
+        },
+        {
+          "q": "Hold on a minute.",
+          "say": "jouldánə mínit"
+        },
+        {
+          "q": "I need an hour.",
+          "say": "ai níidənáuer"
+        },
+        {
+          "q": "Clean it up, Rocky!",
+          "say": "kliiniráp, ráki!"
+        },
+        {
+          "q": "This is an easy one.",
+          "say": "dísisəníisi wan"
+        },
+        {
+          "q": "An ant ate an apple in an hour.",
+          "say": "ənǽnt éirənǽpəl inənáuer"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de AN",
+      "title_en": "AN word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras que empiezan por <b>sonido de vocal</b> (con ellas se dice AN). Cuando encuentres una, di «an…» pegado: <code>ənǽpəl</code>.",
+      "en": "Find 10 words that start with a vowel sound and say them with «an».",
+      "words": [
+        "apple",
+        "hour",
+        "egg",
+        "idea",
+        "uncle",
+        "island",
+        "owl",
+        "elephant",
+        "umbrella",
+        "honest"
+      ],
+      "clues": [
+        "apple · manzana",
+        "hour · hora (¡h muda!)",
+        "egg · huevo",
+        "idea · idea",
+        "uncle · tío",
+        "island · isla (¡s muda!)",
+        "owl · búho",
+        "elephant · elefante",
+        "umbrella · paraguas",
+        "honest · sincero (¡h muda!)"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza los enlaces",
+      "title_en": "Read and find the links",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta, pegando las palabras. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Rocky's afternoon",
+      "text": [
+        "At four, Rocky wakes up and looks around. Mario is in his room. “Come on, Rocky!” he calls.",
+        "They run out of the house and into the park. Rocky finds an old ball under a tree. “Pick it up!” says Mario. Rocky picks it up and runs off."
+      ],
+      "items": [
+        {
+          "q": "How does «wakes up» sound?",
+          "a": "<code>weiksáp</code> (la s salta a up)"
+        },
+        {
+          "q": "Write three phrasal verbs from the text.",
+          "a": "wakes up, looks around, run out, pick it up, runs off (cualquiera)"
+        },
+        {
+          "q": "What does Rocky find?",
+          "a": "An old ball: <code>ənóuld bol</code>"
+        },
+        {
+          "q": "Rocky finds an old ball.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «an old ball», the n jumps to «old».",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «come on», you stop between the two words.",
+          "tf": true,
+          "a": false,
+          "why": "se dice <code>kamán</code>, de un tirón"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas. Marca los puentes con _, léelas en voz alta y grábate.",
+      "en": "Write three sentences, mark the links and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con <b>an</b> + palabra que empiece por vocal (an apple, an hour…).",
+          "lines": 2,
+          "a": "Ej.: I eat an apple every day."
+        },
+        {
+          "q": "Una frase con un verbo de dos piezas (wake up, come in, turn off…).",
+          "lines": 2,
+          "a": "Ej.: I wake up at seven."
+        },
+        {
+          "q": "Una frase con «first of all» o «all of us».",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Pego consonante + vocal: <code>ənǽpəl</code>, <code>kamín</code>.",
+      "en": "I can link a consonant to a vowel."
+    },
+    {
+      "es": "Sé mover la frontera: «a napple», «firs-tə-vól».",
+      "en": "I can move the consonant to the next word."
+    },
+    {
+      "es": "Digo los verbos de dos piezas de un tirón: <code>weikáp</code>, <code>térniróf</code>.",
+      "en": "I can say phrasal verbs smoothly."
+    },
+    {
+      "es": "Sé por qué decimos AN: an apple, an hour.",
+      "en": "I know why we say «an»."
+    },
+    {
+      "es": "Hablo sin pausas ni golpes de garganta entre palabras.",
+      "en": "I speak without gaps between words."
+    },
+    {
+      "es": "Puedo decir «An ant ate an apple in an hour» de un tirón.",
+      "en": "I can say the ant tongue twister."
+    }
+  ]
+}

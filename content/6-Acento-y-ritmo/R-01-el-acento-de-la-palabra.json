@@ -1,0 +1,1938 @@
+{
+  "id": "R-01",
+  "block": "R",
+  "title": "DÓNDE CAE EL GOLPE",
+  "file_title": "Dónde cae el golpe (acento de palabra)",
+  "subtitle": "Word stress · la sílaba que manda",
+  "icon": "🎯",
+  "map": {
+    "center": "Cada palabra tiene <b>una sílaba fuerte</b>: más larga, más alta y más clara. Las demás se encogen.",
+    "listen": "record",
+    "nodes": [
+      {
+        "title": "La sílaba fuerte",
+        "icon": "💪",
+        "color": "green",
+        "items": [
+          "más <b>larga</b> y más <b>alta</b>",
+          "con la vocal <b>clara</b>",
+          "las otras se encogen: <code>ə</code>"
+        ]
+      },
+      {
+        "title": "Cosas: golpe delante",
+        "icon": "📦",
+        "color": "blue",
+        "rows": [
+          [
+            "<b>TA</b>ble",
+            "<code>téibəl</code>"
+          ],
+          [
+            "<b>HAP</b>py",
+            "<code>jǽpi</code>"
+          ],
+          [
+            "<b>YEL</b>low",
+            "<code>iélou</code> (¡hielo!)"
+          ]
+        ]
+      },
+      {
+        "title": "Acciones: golpe detrás",
+        "icon": "🏃",
+        "color": "purple",
+        "rows": [
+          [
+            "re<b>LAX</b>",
+            "<code>rilǽks</code>"
+          ],
+          [
+            "be<b>GIN</b>",
+            "<code>biguín</code>"
+          ],
+          [
+            "for<b>GET</b>",
+            "<code>ferguét</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Mismo nombre, otro golpe",
+        "icon": "🔄",
+        "color": "orange",
+        "rows": [
+          [
+            "a <b>RE</b>cord",
+            "<code>rékerd</code> · un disco"
+          ],
+          [
+            "to re<b>CORD</b>",
+            "<code>rikórd</code> · grabar"
+          ]
+        ]
+      },
+      {
+        "title": "¡Ojo con el español!",
+        "icon": "🙊",
+        "color": "pink",
+        "items": [
+          "café → <b>COF</b>fee <code>káfi</code>",
+          "limón → <b>LEM</b>on <code>lémən</code>",
+          "color → <b>COL</b>or <code>káler</code>"
+        ]
+      },
+      {
+        "title": "Truco: COsa y acCIÓN",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Una <b>CO</b>sa lleva el golpe delante; una ac<b>CIÓN</b>, detrás. ¡Las propias palabras lo cumplen!",
+        "art": "🥁"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "Quiero <code>désert</code> 🏜️"
+      ],
+      "good": [
+        "Quiero <code>disért</code> 🍰"
+      ],
+      "note": "Con el golpe delante pides un desierto, ¡no un postre!"
+    },
+    "mini": {
+      "es": "Escribe la sílaba fuerte:",
+      "en": "Write the strong syllable.",
+      "items": [
+        {
+          "q": "☕ coffee → ____",
+          "a": "COF (káfi)"
+        },
+        {
+          "q": "🧘 relax → ____",
+          "a": "LAX (rilǽks)"
+        },
+        {
+          "q": "🍋 lemon → ____",
+          "a": "LEM (lémən)"
+        },
+        {
+          "q": "🍰 dessert → ____",
+          "a": "SERT (disért)"
+        },
+        {
+          "q": "🎙️ to record → ____",
+          "a": "CORD (rikórd)"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es el golpe de la palabra?",
+      "title_en": "What is word stress?",
+      "icon": "🔎",
+      "es": "En español ya sabes que el golpe cambia el significado: <b>tér</b>mino, ter<b>mi</b>no y termi<b>nó</b> son tres palabras distintas. En inglés pasa lo mismo, pero <mark>sin tildes que te avisen</mark>. Cada palabra de dos o más sílabas tiene <b>una sílaba fuerte</b>: más larga, más alta y con la vocal clara. Las demás se encogen y muchas veces suenan <code>ə</code>. Si pones el golpe en otro sitio, el americano no te entiende… ¡aunque digas bien todos los sonidos!",
+      "en": "Every English word with two or more syllables has one strong syllable: longer, louder and higher. The other syllables get short and weak, often with a schwa /ə/. Put the stress in the wrong place and people may not understand you.",
+      "formula": [
+        "*FUERTE* = larga, alta y clara",
+        "débil = cortita, casi siempre *ə*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se hace una sílaba fuerte",
+      "title_en": "How to make a strong syllable",
+      "items": [
+        {
+          "part": "jaw",
+          "es": "En la sílaba fuerte <b>abre más la boca</b>. En las débiles, casi no la muevas: la mandíbula descansa.",
+          "en": "Open your mouth more on the strong syllable. Relax it on the weak ones."
+        },
+        {
+          "part": "voice",
+          "es": "La voz <b>cambia de tono</b> en la fuerte (normalmente sube un poco), como cuando dices «¿<b>sí</b>?» con sorpresa.",
+          "en": "Your voice changes pitch on the strong syllable, usually going up."
+        },
+        {
+          "part": "air",
+          "es": "Empuja <b>más aire</b> y <b>alárgala</b>: la fuerte suena más alta y dura casi el doble («KÁÁ-fi»). Las débiles van de puntillas.",
+          "en": "Push more air and make it longer: the strong syllable is louder and about twice as long."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Una fuerte, las demás flojitas",
+      "title_en": "One strong, the rest weak",
+      "icon": "💪",
+      "es": "Cada palabra tiene <b>una sola</b> sílaba fuerte. Las débiles pierden fuerza y su vocal se convierte casi siempre en <code>ə</code> (la vocal perezosa del mapa V-01). Por eso <b>lemon</b> no suena «le-mon» con dos vocales enteras, sino <code>lémən</code>.",
+      "en": "Each word has only one strong syllable. The weak ones shrink, and their vowel usually becomes a schwa.",
+      "formula": [
+        "*LEM* + on → lé*mən*",
+        "to + *DAY* → tə*déi*"
+      ],
+      "examples": [
+        {
+          "en": "lemon",
+          "say": "lémən",
+          "es": "limón",
+          "icon": "🍋"
+        },
+        {
+          "en": "today",
+          "say": "tədéi",
+          "es": "hoy",
+          "icon": "📅"
+        },
+        {
+          "en": "Canada",
+          "say": "kǽnədə",
+          "es": "Canadá",
+          "icon": "🍁"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Cosas: el golpe delante",
+      "title_en": "Nouns and adjectives: stress first",
+      "icon": "📦",
+      "es": "Casi todos los <b>nombres</b> (cosas, personas, animales) y <b>adjetivos</b> de dos sílabas llevan el golpe en la <b>primera</b>: <b>TA</b>ble, <b>HAP</b>py, <b>PEN</b>cil. Es la regla que más vas a usar: <mark>acierta casi 9 de cada 10 veces</mark>.",
+      "en": "Most two-syllable nouns and adjectives are stressed on the first syllable: TAble, HAPpy, PENcil.",
+      "formula": [
+        "nombre o adjetivo + 2 sílabas → *●•*"
+      ],
+      "examples": [
+        {
+          "en": "table",
+          "say": "téibəl",
+          "es": "mesa",
+          "icon": "🍽️"
+        },
+        {
+          "en": "happy",
+          "say": "jǽpi",
+          "es": "feliz",
+          "icon": "😊"
+        },
+        {
+          "en": "pencil",
+          "say": "pénsəl",
+          "es": "lápiz",
+          "icon": "✏️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Acciones: el golpe detrás",
+      "title_en": "Verbs: stress second",
+      "icon": "🏃",
+      "es": "Muchos <b>verbos</b> de dos sílabas llevan el golpe en la <b>segunda</b>, sobre todo si empiezan por <b>be-, re-, for-, de-, en-, ex-</b>: be<b>GIN</b>, re<b>LAX</b>, for<b>GET</b>. Esos principios casi nunca llevan el golpe. ¡Ojo! Hay verbos muy comunes que van por libre: <b>O</b>pen, <b>LIS</b>ten, <b>HAP</b>pen, <b>VIS</b>it, <b>STUD</b>y.",
+      "en": "Many two-syllable verbs are stressed on the second syllable, especially with be-, re-, for-, de-, en-, ex-. Some common verbs are exceptions: open, listen, happen, visit, study.",
+      "formula": [
+        "verbo + 2 sílabas → *•●*"
+      ],
+      "examples": [
+        {
+          "en": "relax",
+          "say": "rilǽks",
+          "es": "relajarse",
+          "icon": "🧘"
+        },
+        {
+          "en": "begin",
+          "say": "biguín",
+          "es": "empezar",
+          "icon": "🏁"
+        },
+        {
+          "en": "forget",
+          "say": "ferguét",
+          "es": "olvidar",
+          "icon": "🤔"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Mismo nombre, otro golpe",
+      "title_en": "Same spelling, different stress",
+      "icon": "🔄",
+      "es": "Algunas palabras se escriben igual y pueden ser <b>nombre</b> o <b>verbo</b>. El golpe te dice cuál es: el nombre lo lleva <b>delante</b> y el verbo <b>detrás</b>. Fíjate en que la vocal débil también cambia: <code>rékerd</code> / <code>rikórd</code>.",
+      "en": "Some words can be a noun or a verb. The noun is stressed on the first syllable and the verb on the second.",
+      "formula": [
+        "a *RE*cord (cosa) → *rék*erd",
+        "to re*CORD* (acción) → ri*kórd*"
+      ],
+      "examples": [
+        {
+          "en": "a record",
+          "say": "ə rékerd",
+          "es": "un disco / un récord",
+          "icon": "💿"
+        },
+        {
+          "en": "to record",
+          "say": "tə rikórd",
+          "es": "grabar",
+          "icon": "🎙️"
+        },
+        {
+          "en": "a present",
+          "say": "ə présənt",
+          "es": "un regalo",
+          "icon": "🎁"
+        },
+        {
+          "en": "to present",
+          "say": "tə prisént",
+          "es": "presentar",
+          "icon": "🎤"
+        },
+        {
+          "en": "an object",
+          "say": "ən ábyikt",
+          "es": "un objeto",
+          "icon": "🧸"
+        },
+        {
+          "en": "to object",
+          "say": "tə əbyékt",
+          "es": "oponerse, protestar",
+          "icon": "🙅"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "coffee",
+          "ipa": "ˈkɑfi",
+          "say": "káfi",
+          "es": "café",
+          "icon": "☕",
+          "anchor": "<s>café</s> → <b>KÁ</b>fi",
+          "tip": "En español el golpe va al final; en inglés, delante. (Muchos americanos dicen <code>kófi</code>.)"
+        },
+        {
+          "en": "money",
+          "ipa": "ˈmʌni",
+          "say": "máni",
+          "es": "dinero",
+          "icon": "💰",
+          "anchor": "<s>maní</s> 🥜 → <b>MÁ</b>ni",
+          "tip": "Con el golpe al final pides cacahuetes (maní). Con el golpe delante, ¡dinero!"
+        },
+        {
+          "en": "lemon",
+          "ipa": "ˈlɛmən",
+          "say": "lémən",
+          "es": "limón",
+          "icon": "🍋",
+          "anchor": "<s>limón</s> → <b>LÉ</b>mən",
+          "tip": "Golpe delante y la segunda sílaba casi sin vocal: LÉ-mən."
+        },
+        {
+          "en": "color",
+          "ipa": "ˈkʌlɚ",
+          "say": "káler",
+          "es": "color",
+          "icon": "🎨",
+          "anchor": "<s>color</s> → <b>KÁ</b>ler",
+          "tip": "Se escribe igual que en español, pero el golpe va delante y la o suena a."
+        },
+        {
+          "en": "sofa",
+          "ipa": "ˈsoʊfə",
+          "say": "sóufə",
+          "es": "sofá",
+          "icon": "🛋️",
+          "anchor": "<s>sofá</s> → <b>SÓU</b>fə",
+          "tip": "Al revés que en español: SÓU-fə, con la a final muy flojita."
+        },
+        {
+          "en": "visit",
+          "ipa": "ˈvɪzɪt",
+          "say": "vísit",
+          "es": "visitar",
+          "icon": "🏡",
+          "anchor": "<s>visita</s> → <b>VÍ</b>sit",
+          "tip": "Es un verbo rebelde: golpe delante. Y la v, con los dientes en el labio."
+        },
+        {
+          "en": "yellow",
+          "ipa": "ˈjɛloʊ",
+          "say": "iélou",
+          "es": "amarillo",
+          "icon": "💛",
+          "anchor": "<b>hielo</b> 🧊",
+          "tip": "Di «hielo» y acaba en «ou»: IÉ-lou. El golpe, delante, como en «hielo»."
+        },
+        {
+          "en": "guitar",
+          "ipa": "ɡɪˈtɑr",
+          "say": "guitár",
+          "es": "guitarra",
+          "icon": "🎸",
+          "anchor": "<b>guitar</b>ra 🎸",
+          "tip": "Quítale «-ra» y listo: gui-TÁR. Un nombre rebelde con el golpe detrás."
+        },
+        {
+          "en": "tennis",
+          "ipa": "ˈtɛnɪs",
+          "say": "ténis",
+          "es": "tenis",
+          "icon": "🎾",
+          "anchor": "<b>tenis</b> 🎾",
+          "tip": "¡Igual que en español! TÉ-nis, con el golpe delante."
+        },
+        {
+          "en": "relax",
+          "ipa": "rɪˈlæks",
+          "say": "rilǽks",
+          "es": "relajarse",
+          "icon": "🧘",
+          "anchor": "<b>relax</b> 😌",
+          "tip": "Ya lo dices en español con el golpe detrás: ri-LǼKS. Verbo: ¡regla cumplida!"
+        },
+        {
+          "en": "record",
+          "ipa": "ˈrɛkɚd",
+          "say": "rékerd",
+          "es": "(nombre) disco, récord",
+          "icon": "🏆",
+          "anchor": "batir un <b>ré</b>cord 🏆",
+          "tip": "El nombre, como en español: RÉ-kerd. El verbo «grabar» cambia: ri-KÓRD."
+        },
+        {
+          "en": "present",
+          "ipa": "prɪˈzɛnt",
+          "say": "prisént",
+          "es": "(verbo) presentar",
+          "icon": "🎤",
+          "anchor": "¡pre<b>sen</b>te! ✋",
+          "tip": "Como cuando pasan lista en clase: pre-SÉN. Así suena el verbo; el regalo es PRÉ-sənt."
+        },
+        {
+          "en": "event",
+          "ipa": "ɪˈvɛnt",
+          "say": "ivént",
+          "es": "evento",
+          "icon": "🎪",
+          "anchor": "e<b>vent</b>o 🎪",
+          "tip": "Quítale la o final: i-VÉNT. Otro nombre rebelde, con el golpe detrás como en español."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "record",
+          "es": "disco / grabar"
+        },
+        {
+          "q": "present",
+          "es": "regalo / presentar"
+        },
+        {
+          "q": "coffee",
+          "es": "café"
+        },
+        {
+          "q": "dessert",
+          "es": "postre"
+        },
+        {
+          "q": "yellow",
+          "es": "amarillo"
+        },
+        {
+          "q": "relax",
+          "es": "relajarse"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Nombre delante, verbo detrás",
+      "title_en": "Noun first, verb second",
+      "icon": "🔄",
+      "head": [
+        "Palabra · Word",
+        "📦 Nombre (cosa)",
+        "Suena",
+        "🏃 Verbo (acción)",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "record",
+          "<b>RE</b>cord · disco, récord",
+          "<code>rékerd</code>",
+          "re<b>CORD</b> · grabar",
+          "<code>rikórd</code>"
+        ],
+        [
+          "present",
+          "<b>PRE</b>sent · regalo",
+          "<code>présənt</code>",
+          "pre<b>SENT</b> · presentar",
+          "<code>prisént</code>"
+        ],
+        [
+          "object",
+          "<b>OB</b>ject · objeto",
+          "<code>ábyikt</code>",
+          "ob<b>JECT</b> · oponerse",
+          "<code>əbyékt</code>"
+        ],
+        [
+          "permit",
+          "<b>PER</b>mit · permiso",
+          "<code>pérmit</code>",
+          "per<b>MIT</b> · permitir",
+          "<code>permít</code>"
+        ],
+        [
+          "desert",
+          "<b>DE</b>sert · desierto",
+          "<code>désert</code>",
+          "de<b>SERT</b> · abandonar",
+          "<code>disért</code>"
+        ],
+        [
+          "increase",
+          "<b>IN</b>crease · aumento",
+          "<code>ínkriis</code>",
+          "in<b>CREASE</b> · aumentar",
+          "<code>inkríis</code>"
+        ],
+        [
+          "produce",
+          "<b>PRO</b>duce · fruta y verdura",
+          "<code>próuduus</code>",
+          "pro<b>DUCE</b> · producir",
+          "<code>prədúus</code>"
+        ],
+        [
+          "conflict",
+          "<b>CON</b>flict · conflicto",
+          "<code>kánflikt</code>",
+          "con<b>FLICT</b> · chocar",
+          "<code>kənflíkt</code>"
+        ],
+        [
+          "export",
+          "<b>EX</b>port · exportación",
+          "<code>éksport</code>",
+          "ex<b>PORT</b> · exportar",
+          "<code>ikspórt</code>"
+        ],
+        [
+          "progress",
+          "<b>PRO</b>gress · progreso",
+          "<code>prágres</code>",
+          "pro<b>GRESS</b> · avanzar",
+          "<code>prəgrés</code>"
+        ],
+        [
+          "rebel",
+          "<b>RE</b>bel · rebelde",
+          "<code>rébəl</code>",
+          "re<b>BEL</b> · rebelarse",
+          "<code>ribél</code>"
+        ],
+        [
+          "suspect",
+          "<b>SUS</b>pect · sospechoso",
+          "<code>sáspekt</code>",
+          "sus<b>PECT</b> · sospechar",
+          "<code>səspékt</code>"
+        ]
+      ],
+      "note": "Truco: una <b>CO</b>sa lleva el golpe delante y una ac<b>CIÓN</b>, detrás. ¡Las palabras «cosa» y «acción» lo cumplen! Y ojo: el verbo <i>desert</i> suena igual que <i>dessert</i> (postre): <code>disért</code>.",
+      "note_en": "Nouns: stress the first syllable. Verbs: stress the second one."
+    },
+    {
+      "t": "stress",
+      "title": "Golpe delante ●•",
+      "title_en": "Stress first",
+      "icon": "📦",
+      "es": "Nombres y adjetivos de dos sílabas. Da una palmada en la ● y alárgala.",
+      "en": "Two-syllable nouns and adjectives. Clap on the big dot.",
+      "items": [
+        {
+          "syl": [
+            "yel",
+            "low"
+          ],
+          "s": 0,
+          "say": "iélou",
+          "es": "amarillo",
+          "icon": "💛"
+        },
+        {
+          "syl": [
+            "mon",
+            "key"
+          ],
+          "s": 0,
+          "say": "mánki",
+          "es": "mono",
+          "icon": "🐒"
+        },
+        {
+          "syl": [
+            "sis",
+            "ter"
+          ],
+          "s": 0,
+          "say": "síster",
+          "es": "hermana",
+          "icon": "👧"
+        },
+        {
+          "syl": [
+            "gar",
+            "den"
+          ],
+          "s": 0,
+          "say": "gárdən",
+          "es": "jardín",
+          "icon": "🌷"
+        },
+        {
+          "syl": [
+            "kit",
+            "chen"
+          ],
+          "s": 0,
+          "say": "kíchən",
+          "es": "cocina",
+          "icon": "🍳"
+        },
+        {
+          "syl": [
+            "win",
+            "dow"
+          ],
+          "s": 0,
+          "say": "wíndou",
+          "es": "ventana",
+          "icon": "🪟"
+        }
+      ],
+      "wide": true,
+      "cols": 3
+    },
+    {
+      "t": "stress",
+      "title": "Golpe detrás •●",
+      "title_en": "Stress second",
+      "icon": "🏃",
+      "es": "Verbos de dos sílabas. La primera, de puntillas; la segunda, ¡fuerte!",
+      "en": "Two-syllable verbs. Tiptoe on the first syllable, hit the second.",
+      "items": [
+        {
+          "syl": [
+            "de",
+            "cide"
+          ],
+          "s": 1,
+          "say": "disáid",
+          "es": "decidir",
+          "icon": "🤷"
+        },
+        {
+          "syl": [
+            "en",
+            "joy"
+          ],
+          "s": 1,
+          "say": "inyói",
+          "es": "disfrutar",
+          "icon": "😋"
+        },
+        {
+          "syl": [
+            "ex",
+            "plain"
+          ],
+          "s": 1,
+          "say": "ikspléin",
+          "es": "explicar",
+          "icon": "🧑‍🏫"
+        },
+        {
+          "syl": [
+            "ar",
+            "rive"
+          ],
+          "s": 1,
+          "say": "əráiv",
+          "es": "llegar",
+          "icon": "🛬"
+        },
+        {
+          "syl": [
+            "be",
+            "lieve"
+          ],
+          "s": 1,
+          "say": "bilíiv",
+          "es": "creer",
+          "icon": "🙏"
+        },
+        {
+          "syl": [
+            "in",
+            "vite"
+          ],
+          "s": 1,
+          "say": "inváit",
+          "es": "invitar",
+          "icon": "💌"
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "title": "Las rebeldes",
+      "title_en": "The rebels",
+      "icon": "😎",
+      "es": "Nombres con el golpe <b>detrás</b> y verbos con el golpe <b>delante</b>. Son pocas pero muy usadas: ¡apréndetelas de memoria!",
+      "en": "Nouns stressed on the second syllable and verbs stressed on the first. Learn them by heart.",
+      "items": [
+        {
+          "syl": [
+            "ho",
+            "tel"
+          ],
+          "s": 1,
+          "say": "joutél",
+          "es": "hotel · nombre",
+          "icon": "🏨"
+        },
+        {
+          "syl": [
+            "gui",
+            "tar"
+          ],
+          "s": 1,
+          "say": "guitár",
+          "es": "guitarra · nombre",
+          "icon": "🎸"
+        },
+        {
+          "syl": [
+            "bal",
+            "loon"
+          ],
+          "s": 1,
+          "say": "bəlúun",
+          "es": "globo · nombre",
+          "icon": "🎈"
+        },
+        {
+          "syl": [
+            "po",
+            "lice"
+          ],
+          "s": 1,
+          "say": "pəlíis",
+          "es": "policía · nombre",
+          "icon": "🚓"
+        },
+        {
+          "syl": [
+            "o",
+            "pen"
+          ],
+          "s": 0,
+          "say": "óupən",
+          "es": "abrir · verbo",
+          "icon": "🚪"
+        },
+        {
+          "syl": [
+            "lis",
+            "ten"
+          ],
+          "s": 0,
+          "say": "lísən",
+          "es": "escuchar · verbo",
+          "icon": "👂"
+        },
+        {
+          "syl": [
+            "hap",
+            "pen"
+          ],
+          "s": 0,
+          "say": "jǽpən",
+          "es": "pasar, ocurrir · verbo",
+          "icon": "❗"
+        },
+        {
+          "syl": [
+            "stud",
+            "y"
+          ],
+          "s": 0,
+          "say": "stádi",
+          "es": "estudiar · verbo",
+          "icon": "📚"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Español vs. inglés",
+      "title_en": "Spanish vs. English",
+      "icon": "⚖️",
+      "es": "Los dos idiomas tienen golpe, pero lo usan de forma distinta.",
+      "en": "Both languages have stress, but they use it differently.",
+      "cols": [
+        {
+          "head": "🇪🇸 Español",
+          "color": "orange",
+          "items": [
+            "la tilde te chiva el golpe: café, limón",
+            "las sílabas débiles suenan <b>enteras</b>: ca-fé",
+            "todas las sílabas duran más o menos lo mismo"
+          ]
+        },
+        {
+          "head": "🇺🇸 Inglés",
+          "color": "blue",
+          "items": [
+            "no hay tildes: el golpe se aprende con la palabra",
+            "las débiles se encogen: <code>lémən</code>, <code>sóufə</code>",
+            "la sílaba fuerte dura casi el doble"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "¿Postre o desierto?",
+      "title_en": "Dessert or desert?",
+      "icon": "🍰",
+      "items": [
+        {
+          "a": {
+            "en": "desert",
+            "ipa": "ˈdɛzɚt",
+            "say": "désert",
+            "es": "desierto",
+            "icon": "🏜️"
+          },
+          "b": {
+            "en": "dessert",
+            "ipa": "dɪˈzɝt",
+            "say": "disért",
+            "es": "postre",
+            "icon": "🍰"
+          },
+          "tip": "Golpe delante = arena 🏜️. Golpe detrás = tarta 🍰. ¡Pide bien!"
+        },
+        {
+          "a": {
+            "en": "permit",
+            "ipa": "ˈpɝmɪt",
+            "say": "pérmit",
+            "es": "un permiso",
+            "icon": "📄"
+          },
+          "b": {
+            "en": "permit",
+            "ipa": "pɚˈmɪt",
+            "say": "permít",
+            "es": "permitir",
+            "icon": "✅"
+          },
+          "tip": "«A PERmit» es un papel; «to perMIT» es dejar hacer algo."
+        },
+        {
+          "a": {
+            "en": "increase",
+            "ipa": "ˈɪnkriːs",
+            "say": "ínkriis",
+            "es": "un aumento",
+            "icon": "📈"
+          },
+          "b": {
+            "en": "increase",
+            "ipa": "ɪnˈkriːs",
+            "say": "inkríis",
+            "es": "aumentar",
+            "icon": "⬆️"
+          },
+          "tip": "There's an INcrease. Prices inCREASE."
+        },
+        {
+          "a": {
+            "en": "rebel",
+            "ipa": "ˈrɛbəl",
+            "say": "rébəl",
+            "es": "un rebelde",
+            "icon": "😎"
+          },
+          "b": {
+            "en": "rebel",
+            "ipa": "rɪˈbɛl",
+            "say": "ribél",
+            "es": "rebelarse",
+            "icon": "✊"
+          },
+          "tip": "El rebelde (cosa/persona) delante; rebelarse (acción) detrás."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "Let's re<b>CORD</b> a new <b>RE</b>cord!",
+          "say": "lets rikórd ə núu rékerd!",
+          "es": "¡Grabemos un disco nuevo!",
+          "icon": "🎙️"
+        },
+        {
+          "en": "This <b>PRE</b>sent is for you.",
+          "say": "dis présənt is fer iu",
+          "es": "Este regalo es para ti.",
+          "icon": "🎁"
+        },
+        {
+          "en": "I'm going to pre<b>SENT</b> my project.",
+          "say": "aim góuing tə prisént mai prágyekt",
+          "es": "Voy a presentar mi proyecto.",
+          "icon": "🎤"
+        },
+        {
+          "en": "Can I have des<b>SERT</b>, please?",
+          "say": "kən ai jǽv disért, pliis?",
+          "es": "¿Puedo tomar postre, por favor?",
+          "icon": "🍰"
+        },
+        {
+          "en": "Camels live in the <b>DE</b>sert.",
+          "say": "kǽməls liv in də désert",
+          "es": "Los camellos viven en el desierto.",
+          "icon": "🐪"
+        },
+        {
+          "en": "My <b>SIS</b>ter is so <b>HAP</b>py!",
+          "say": "mai síster is sóu jǽpi!",
+          "es": "¡Mi hermana está tan contenta!",
+          "icon": "😊"
+        },
+        {
+          "en": "Re<b>LAX</b> and en<b>JOY</b> the <b>MOV</b>ie.",
+          "say": "rilǽks ən inyói də múuvi",
+          "es": "Relájate y disfruta de la peli.",
+          "icon": "🍿"
+        },
+        {
+          "en": "Don't for<b>GET</b> your <b>PEN</b>cil.",
+          "say": "dóunt ferguét ior pénsəl",
+          "es": "No olvides tu lápiz.",
+          "icon": "✏️"
+        },
+        {
+          "en": "The <b>YEL</b>low <b>MON</b>key is <b>FUN</b>ny.",
+          "say": "də iélou mánki is fáni",
+          "es": "El mono amarillo es gracioso.",
+          "icon": "🐒"
+        },
+        {
+          "en": "Can I <b>VIS</b>it you to<b>MOR</b>row?",
+          "say": "kən ai vísit iu təmárou?",
+          "es": "¿Puedo visitarte mañana?",
+          "icon": "🏡"
+        },
+        {
+          "en": "Please <b>O</b>pen the <b>WIN</b>dow.",
+          "say": "pliis óupən də wíndou",
+          "es": "Por favor, abre la ventana.",
+          "icon": "🪟"
+        },
+        {
+          "en": "I need <b>MON</b>ey for <b>COF</b>fee.",
+          "say": "ai níid máni fer káfi",
+          "es": "Necesito dinero para un café.",
+          "icon": "☕"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "coffee → <code>kafí</code>",
+          "good": "<code>káfi</code>",
+          "why": "Ese es el golpe de «café». En inglés va delante.",
+          "why_en": "Stress the first syllable."
+        },
+        {
+          "bad": "dessert → <code>désert</code>",
+          "good": "<code>disért</code>",
+          "why": "Así has dicho «desierto». El postre lleva el golpe al final.",
+          "why_en": "That's desert. Dessert is stressed on the second syllable."
+        },
+        {
+          "bad": "I want to record a song → <code>rékerd</code>",
+          "good": "<code>rikórd</code>",
+          "why": "Aquí es verbo (grabar): golpe detrás.",
+          "why_en": "It's a verb here, so stress the second syllable."
+        },
+        {
+          "bad": "lemon → <code>limón</code>",
+          "good": "<code>lémən</code>",
+          "why": "Golpe delante y la segunda sílaba muy débil.",
+          "why_en": "Stress first; the second syllable is weak."
+        },
+        {
+          "bad": "begin → <code>bíguin</code>",
+          "good": "<code>biguín</code>",
+          "why": "Verbo que empieza por be-: el golpe va detrás.",
+          "why_en": "Verbs with be- are stressed on the second syllable."
+        },
+        {
+          "bad": "visit → <code>visít</code>",
+          "good": "<code>vísit</code>",
+          "why": "Es un verbo rebelde: golpe delante.",
+          "why_en": "Visit is an exception: stress first."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "El regalo de mamá",
+      "title_en": "Mom's present",
+      "lines": [
+        {
+          "who": "Lucía",
+          "en": "Mario, where's the present for Mom?",
+          "say": "mário, wérs də présənt fer mam?",
+          "es": "Mario, ¿dónde está el regalo para mamá?"
+        },
+        {
+          "who": "Mario",
+          "en": "It's a surprise! I'm going to record a song.",
+          "say": "its ə serpráis! aim góuing tə rikórd ə song",
+          "es": "¡Es una sorpresa! Voy a grabar una canción."
+        },
+        {
+          "who": "Lucía",
+          "en": "Cool! Will you present it after dinner?",
+          "say": "kuul! wil iu prisént it ǽfter díner?",
+          "es": "¡Genial! ¿La vas a presentar después de cenar?"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes, with the dessert. I can't wait!",
+          "say": "iés, wid də disért. ai kǽnt wéit!",
+          "es": "Sí, con el postre. ¡Estoy deseando!"
+        },
+        {
+          "who": "Lucía",
+          "en": "Wait… dessert or desert?",
+          "say": "wéit… disért or désert?",
+          "es": "Espera… ¿postre o desierto?"
+        },
+        {
+          "who": "Mario",
+          "en": "Dessert! Chocolate cake, not sand!",
+          "say": "disért! cháklət kéik, nat sǽnd!",
+          "es": "¡Postre! Tarta de chocolate, ¡no arena!"
+        },
+        {
+          "who": "Lucía",
+          "en": "Perfect! Don't forget to relax.",
+          "say": "pérfikt! dóunt ferguét tə rilǽks",
+          "es": "¡Perfecto! No te olvides de relajarte."
+        },
+        {
+          "who": "Mario",
+          "en": "I won't. Let's record it now!",
+          "say": "ai wóunt. lets rikórd it náu!",
+          "es": "No lo olvidaré. ¡Vamos a grabarla ya!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Mira el diccionario: la marca ˈ va <b>justo antes</b> de la sílaba fuerte: /ˈkɑfi/, /rɪˈlæks/.",
+          "en": "Check the dictionary: the ˈ mark comes right before the strong syllable."
+        },
+        {
+          "es": "<b>Tararea</b> la palabra con «da»: coffee = <b>DA</b>-da, relax = da-<b>DA</b>.",
+          "en": "Hum the word: coffee = DA-da, relax = da-DA."
+        },
+        {
+          "es": "Da una <b>palmada</b> en la sílaba fuerte y alárgala un poco.",
+          "en": "Clap on the strong syllable and make it longer."
+        },
+        {
+          "es": "Encoge las débiles: dilas rápido y flojito, con <code>ə</code>.",
+          "en": "Make the weak syllables short and soft."
+        },
+        {
+          "es": "Grábate diciendo parejas como <code>rékerd</code> / <code>rikórd</code> y compara con los QR.",
+          "en": "Record yourself saying pairs like REcord / reCORD and compare with the QR videos."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Record the record, present the present, and don't desert the dessert!",
+          "say": "rikórd də rékerd, prisént də présənt, ən dóunt disért də disért!",
+          "es": "¡Graba el disco, entrega el regalo y no abandones el postre!"
+        },
+        {
+          "en": "Happy yellow monkeys never forget to relax.",
+          "say": "jǽpi iélou mánkis néver ferguét tə rilǽks",
+          "es": "Los monos amarillos felices nunca se olvidan de relajarse."
+        },
+        {
+          "en": "A lemon, a melon and a cup of coffee, please.",
+          "say": "ə lémən, ə mélən ən ə kápə káfi, pliis",
+          "es": "Un limón, un melón y una taza de café, por favor."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El tarareo mágico",
+      "title_en": "The humming trick",
+      "es": "¿No sabes dónde va el golpe? <b>Tararéalo</b>: coffee = <b>DA</b>-da, relax = da-<b>DA</b>. Si el tarareo suena bien, la palabra también. Y recuerda: una <b>CO</b>sa, golpe delante; una ac<b>CIÓN</b>, golpe detrás. 🥁",
+      "en": "Not sure where the stress goes? Hum it: DA-da or da-DA. Things: stress first. Actions: stress second."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿●• o •●?",
+      "title_en": "Which rhythm?",
+      "icon": "👂",
+      "es": "Di la palabra en voz alta y rodea su ritmo: <b>●•</b> (golpe delante) o <b>•●</b> (golpe detrás).",
+      "en": "Say the word and circle its rhythm.",
+      "items": [
+        {
+          "q": "☕ coffee → [●•|•●]",
+          "a": "●•"
+        },
+        {
+          "q": "🧘 relax → [●•|•●]",
+          "a": "•●"
+        },
+        {
+          "q": "😊 happy → [●•|•●]",
+          "a": "●•"
+        },
+        {
+          "q": "🏁 begin → [●•|•●]",
+          "a": "•●"
+        },
+        {
+          "q": "🏨 hotel → [●•|•●]",
+          "a": "•●"
+        },
+        {
+          "q": "💛 yellow → [●•|•●]",
+          "a": "●•"
+        },
+        {
+          "q": "🤔 forget → [●•|•●]",
+          "a": "•●"
+        },
+        {
+          "q": "✏️ pencil → [●•|•●]",
+          "a": "●•"
+        },
+        {
+          "q": "🎸 guitar → [●•|•●]",
+          "a": "•●"
+        },
+        {
+          "q": "🚪 open → [●•|•●]",
+          "a": "●•"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra con palmada y escríbela en su columna.",
+      "en": "Clap each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "●• Golpe delante",
+          "words": [
+            "table",
+            "money",
+            "lemon",
+            "sister",
+            "garden",
+            "open",
+            "listen",
+            "visit"
+          ]
+        },
+        {
+          "name": "•● Golpe detrás",
+          "words": [
+            "relax",
+            "begin",
+            "decide",
+            "enjoy",
+            "hotel",
+            "guitar",
+            "police",
+            "balloon"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada. Fíjate en la tilde: ahí va el golpe.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "coffee",
+          "<code>káfi</code>"
+        ],
+        [
+          "money",
+          "<code>máni</code>"
+        ],
+        [
+          "yellow",
+          "<code>iélou</code>"
+        ],
+        [
+          "relax",
+          "<code>rilǽks</code>"
+        ],
+        [
+          "begin",
+          "<code>biguín</code>"
+        ],
+        [
+          "guitar",
+          "<code>guitár</code>"
+        ],
+        [
+          "lemon",
+          "<code>lémən</code>"
+        ],
+        [
+          "decide",
+          "<code>disáid</code>"
+        ]
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Di cada palabra dando una palmada y rodea la sílaba fuerte.",
+      "en": "Clap each word and circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "ta",
+            "ble"
+          ],
+          "s": 0,
+          "es": "mesa"
+        },
+        {
+          "syl": [
+            "hap",
+            "py"
+          ],
+          "s": 0,
+          "es": "feliz"
+        },
+        {
+          "syl": [
+            "re",
+            "lax"
+          ],
+          "s": 1,
+          "es": "relajarse"
+        },
+        {
+          "syl": [
+            "be",
+            "gin"
+          ],
+          "s": 1,
+          "es": "empezar"
+        },
+        {
+          "syl": [
+            "mon",
+            "key"
+          ],
+          "s": 0,
+          "es": "mono"
+        },
+        {
+          "syl": [
+            "for",
+            "get"
+          ],
+          "s": 1,
+          "es": "olvidar"
+        },
+        {
+          "syl": [
+            "ho",
+            "tel"
+          ],
+          "s": 1,
+          "es": "hotel"
+        },
+        {
+          "syl": [
+            "lis",
+            "ten"
+          ],
+          "s": 0,
+          "es": "escuchar"
+        },
+        {
+          "syl": [
+            "ex",
+            "plain"
+          ],
+          "s": 1,
+          "es": "explicar"
+        },
+        {
+          "syl": [
+            "pen",
+            "cil"
+          ],
+          "s": 0,
+          "es": "lápiz"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "¿Cosa o acción?",
+      "title_en": "Noun or verb?",
+      "icon": "🔄",
+      "es": "Mira el significado y rodea la sílaba fuerte. Recuerda: cosa → delante; acción → detrás.",
+      "en": "Look at the meaning and circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "re",
+            "cord"
+          ],
+          "s": 0,
+          "es": "un disco"
+        },
+        {
+          "syl": [
+            "re",
+            "cord"
+          ],
+          "s": 1,
+          "es": "grabar"
+        },
+        {
+          "syl": [
+            "pre",
+            "sent"
+          ],
+          "s": 0,
+          "es": "un regalo"
+        },
+        {
+          "syl": [
+            "pre",
+            "sent"
+          ],
+          "s": 1,
+          "es": "presentar"
+        },
+        {
+          "syl": [
+            "ob",
+            "ject"
+          ],
+          "s": 0,
+          "es": "un objeto"
+        },
+        {
+          "syl": [
+            "ob",
+            "ject"
+          ],
+          "s": 1,
+          "es": "oponerse"
+        },
+        {
+          "syl": [
+            "de",
+            "sert"
+          ],
+          "s": 0,
+          "es": "el desierto"
+        },
+        {
+          "syl": [
+            "des",
+            "sert"
+          ],
+          "s": 1,
+          "es": "el postre"
+        },
+        {
+          "syl": [
+            "per",
+            "mit"
+          ],
+          "s": 0,
+          "es": "un permiso"
+        },
+        {
+          "syl": [
+            "per",
+            "mit"
+          ],
+          "s": 1,
+          "es": "permitir"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada y pon la <b>tilde</b> en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds and mark the stress.",
+      "items": [
+        {
+          "q": "🛋️ sofa → ____",
+          "a": "sóufə"
+        },
+        {
+          "q": "💰 money → ____",
+          "a": "máni"
+        },
+        {
+          "q": "🍋 lemon → ____",
+          "a": "lémən"
+        },
+        {
+          "q": "💛 yellow → ____",
+          "a": "iélou"
+        },
+        {
+          "q": "🧘 relax → ____",
+          "a": "rilǽks"
+        },
+        {
+          "q": "🏁 begin → ____",
+          "a": "biguín"
+        },
+        {
+          "q": "🤔 forget → ____",
+          "a": "ferguét"
+        },
+        {
+          "q": "😊 happy → ____",
+          "a": "jǽpi"
+        },
+        {
+          "q": "🍽️ table → ____",
+          "a": "téibəl"
+        },
+        {
+          "q": "🎸 guitar → ____",
+          "a": "guitár"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "Every English word with two or more syllables has one strong syllable.",
+          "a": true
+        },
+        {
+          "q": "Most two-syllable nouns are stressed on the second syllable.",
+          "a": false,
+          "why": "en la primera: TAble, HAPpy"
+        },
+        {
+          "q": "«Coffee» is stressed like the Spanish «café».",
+          "a": false,
+          "why": "KÁ-fi: golpe delante"
+        },
+        {
+          "q": "The verb «to record» is stressed on the second syllable.",
+          "a": true
+        },
+        {
+          "q": "«Dessert» and «desert» (the noun) sound the same.",
+          "a": false,
+          "why": "di-SÉRT vs. DÉ-sert"
+        },
+        {
+          "q": "Weak syllables often have a schwa /ə/.",
+          "a": true
+        },
+        {
+          "q": "«Open» and «listen» are verbs stressed on the first syllable.",
+          "a": true
+        },
+        {
+          "q": "English uses written accents (á, é) to show the stress.",
+          "a": false,
+          "why": "no hay tildes: se aprende con la palabra"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Elige el golpe",
+      "title_en": "Choose the stress",
+      "icon": "🎯",
+      "es": "¿La palabra subrayada es cosa (nombre) o acción (verbo)? Rodea cómo se dice.",
+      "en": "Is it a noun or a verb? Circle the right stress.",
+      "items": [
+        {
+          "q": "🎁 I got a nice <u>present</u>. → [PREsent|preSENT]",
+          "a": "PREsent"
+        },
+        {
+          "q": "🎙️ Let's <u>record</u> a video. → [REcord|reCORD]",
+          "a": "reCORD"
+        },
+        {
+          "q": "🧸 That's a strange <u>object</u>. → [OBject|obJECT]",
+          "a": "OBject"
+        },
+        {
+          "q": "📈 Prices <u>increase</u> every year. → [INcrease|inCREASE]",
+          "a": "inCREASE"
+        },
+        {
+          "q": "🐪 Camels live in the <u>desert</u>. → [DEsert|deSERT]",
+          "a": "DEsert"
+        },
+        {
+          "q": "📄 You need a <u>permit</u>. → [PERmit|perMIT]",
+          "a": "PERmit"
+        },
+        {
+          "q": "🙅 I <u>object</u>! → [OBject|obJECT]",
+          "a": "obJECT"
+        },
+        {
+          "q": "🏆 She broke the world <u>record</u>. → [REcord|reCORD]",
+          "a": "REcord"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige el golpe",
+      "title_en": "Fix the stress",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene el golpe (la tilde) en mal sitio. Escríbela bien.",
+      "en": "The stress is in the wrong place. Fix it.",
+      "items": [
+        {
+          "q": "coffee → <code>kafí</code>",
+          "a": "káfi"
+        },
+        {
+          "q": "lemon → <code>limón</code>",
+          "a": "lémən"
+        },
+        {
+          "q": "begin → <code>bíguin</code>",
+          "a": "biguín"
+        },
+        {
+          "q": "dessert → <code>désert</code>",
+          "a": "disért"
+        },
+        {
+          "q": "money → <code>maní</code>",
+          "a": "máni"
+        },
+        {
+          "q": "relax → <code>rílæks</code>",
+          "a": "rilǽks"
+        },
+        {
+          "q": "to record → <code>tə rékerd</code>",
+          "a": "tə rikórd"
+        },
+        {
+          "q": "sofa → <code>soufá</code>",
+          "a": "sóufə"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Escribe cómo suena cada palabra como nombre y como verbo. ¡Mueve la tilde!",
+      "en": "Write how each word sounds as a noun and as a verb.",
+      "head": [
+        "Palabra",
+        "📦 Nombre · suena",
+        "🏃 Verbo · suena"
+      ],
+      "rows": [
+        [
+          "record",
+          "?rékerd",
+          "?rikórd"
+        ],
+        [
+          "present",
+          "?présənt",
+          "prisént"
+        ],
+        [
+          "object",
+          "ábyikt",
+          "?əbyékt"
+        ],
+        [
+          "permit",
+          "?pérmit",
+          "?permít"
+        ],
+        [
+          "increase",
+          "ínkriis",
+          "?inkríis"
+        ],
+        [
+          "rebel",
+          "?rébəl",
+          "ribél"
+        ],
+        [
+          "desert / dessert",
+          "?désert",
+          "?disért"
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Marca el golpe",
+      "title_en": "Mark the stress",
+      "icon": "🖍️",
+      "es": "Copia la frase y escribe en MAYÚSCULAS la sílaba fuerte de las palabras subrayadas.",
+      "en": "Copy the sentence and write the stressed syllables of the underlined words in capitals.",
+      "items": [
+        {
+          "q": "Let's <u>record</u> a new <u>record</u>.",
+          "a": "Let's reCORD a new REcord."
+        },
+        {
+          "q": "I want to <u>present</u> my <u>present</u>.",
+          "a": "I want to preSENT my PREsent."
+        },
+        {
+          "q": "Don't <u>desert</u> the <u>dessert</u>!",
+          "a": "Don't deSERT the desSERT! (¡suenan igual!)"
+        },
+        {
+          "q": "My <u>sister</u> is <u>happy</u>.",
+          "a": "My SISter is HAPpy."
+        },
+        {
+          "q": "<u>Relax</u> and <u>enjoy</u> the <u>music</u>.",
+          "a": "reLAX and enJOY the MUsic."
+        },
+        {
+          "q": "Don't <u>forget</u> your <u>pencil</u>.",
+          "a": "Don't forGET your PENcil."
+        },
+        {
+          "q": "Prices <u>increase</u>: it's a big <u>increase</u>.",
+          "a": "Prices inCREASE: it's a big INcrease."
+        },
+        {
+          "q": "<u>Open</u> the <u>window</u>, please.",
+          "a": "OPen the WINdow, please."
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) dando una palmada en cada golpe. Marca una casilla cada vez.",
+      "en": "Read each sentence three times, clapping on the stressed syllables.",
+      "items": [
+        {
+          "q": "I love yellow balloons.",
+          "say": "ai láv iélou bəlúuns"
+        },
+        {
+          "q": "The police found the object.",
+          "say": "də pəlíis fáund di ábyikt"
+        },
+        {
+          "q": "We begin at seven.",
+          "say": "wi biguín ət sévən"
+        },
+        {
+          "q": "My teacher has a guitar.",
+          "say": "mai tíicher jæs ə guitár"
+        },
+        {
+          "q": "I object to the increase!",
+          "say": "ai əbyékt tə di ínkriis!"
+        },
+        {
+          "q": "Listen and repeat.",
+          "say": "lísən ən ripíit"
+        },
+        {
+          "q": "Let's visit the hotel garden.",
+          "say": "lets vísit də joutél gárdən"
+        },
+        {
+          "q": "Don't forget to record it!",
+          "say": "dóunt ferguét tə rikórd it!"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés y dilo en voz alta con el golpe en su sitio.",
+      "en": "Translate into English and say it with the right stress.",
+      "items": [
+        {
+          "q": "café (la bebida)",
+          "a": "coffee (káfi)"
+        },
+        {
+          "q": "dinero",
+          "a": "money (máni)"
+        },
+        {
+          "q": "limón",
+          "a": "lemon (lémən)"
+        },
+        {
+          "q": "amarillo",
+          "a": "yellow (iélou)"
+        },
+        {
+          "q": "postre",
+          "a": "dessert (disért)"
+        },
+        {
+          "q": "desierto",
+          "a": "desert (désert)"
+        },
+        {
+          "q": "grabar",
+          "a": "to record (rikórd)"
+        },
+        {
+          "q": "un regalo",
+          "a": "a present (présənt)"
+        },
+        {
+          "q": "olvidar",
+          "a": "to forget (ferguét)"
+        },
+        {
+          "q": "relajarse",
+          "a": "to relax (rilǽks)"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de golpes",
+      "title_en": "Stress word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Cada vez que encuentres una, dila con palmada en la sílaba fuerte.",
+      "en": "Find 10 words and clap their stress.",
+      "words": [
+        "coffee",
+        "money",
+        "lemon",
+        "yellow",
+        "relax",
+        "begin",
+        "forget",
+        "record",
+        "present",
+        "dessert"
+      ],
+      "clues": [
+        "coffee · café (●•)",
+        "money · dinero (●•)",
+        "lemon · limón (●•)",
+        "yellow · amarillo (●•)",
+        "relax · relajarse (•●)",
+        "begin · empezar (•●)",
+        "forget · olvidar (•●)",
+        "record · disco (●•)",
+        "present · presentar (•●)",
+        "dessert · postre (•●)"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza los golpes",
+      "title_en": "Read and find the stress",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Lucía's birthday",
+      "text": [
+        "Today is Lucía's birthday. Mario wants to record a song for her. He doesn't have a present, so the song is his present.",
+        "After dinner, Mom brings the dessert: a big chocolate cake with yellow candles. “Happy birthday!” everybody sings, and Lucía is very happy."
+      ],
+      "items": [
+        {
+          "q": "What is Mario's present?",
+          "a": "A song: he records a song for Lucía."
+        },
+        {
+          "q": "How do you say «record» in «record a song»?",
+          "a": "<code>rikórd</code> (verbo: golpe detrás)"
+        },
+        {
+          "q": "Find two words with the stress on the first syllable.",
+          "a": "birthday, present, dinner, yellow, candles, happy… (cualquiera)"
+        },
+        {
+          "q": "The dessert is a chocolate cake.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In this text, «present» is a verb.",
+          "tf": true,
+          "a": false,
+          "why": "es un nombre (regalo): PRÉ-sənt"
+        },
+        {
+          "q": "«Dessert» is stressed on the first syllable.",
+          "tf": true,
+          "a": false,
+          "why": "di-SÉRT"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases, marca en MAYÚSCULAS las sílabas fuertes y léelas en voz alta. ¡Grábate!",
+      "en": "Write your own sentences, mark the stress and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con <b>record</b> como nombre y como verbo.",
+          "lines": 2,
+          "a": "Ej.: I want to reCORD a new REcord."
+        },
+        {
+          "q": "Una frase con dos «rebeldes» (hotel, guitar, open, listen…).",
+          "lines": 2,
+          "a": "Ej.: LISten to my guiTAR!"
+        },
+        {
+          "q": "Una frase sobre comida con coffee, lemon o dessert.",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé que cada palabra tiene <b>una</b> sílaba fuerte: larga, alta y clara.",
+      "en": "I know every word has one strong syllable."
+    },
+    {
+      "es": "Pongo el golpe delante en nombres como <b>TA</b>ble o <b>HAP</b>py.",
+      "en": "I stress the first syllable of most nouns and adjectives."
+    },
+    {
+      "es": "Pongo el golpe detrás en verbos como re<b>LAX</b> o be<b>GIN</b>.",
+      "en": "I stress the second syllable of many verbs."
+    },
+    {
+      "es": "Distingo <code>rékerd</code> de <code>rikórd</code> y <code>présənt</code> de <code>prisént</code>.",
+      "en": "I can say record and present as nouns and as verbs."
+    },
+    {
+      "es": "Pido <code>disért</code> 🍰 y no <s>désert</s> 🏜️.",
+      "en": "I can ask for dessert, not for a desert."
+    },
+    {
+      "es": "No uso el golpe español: digo <code>káfi</code> y <code>lémən</code>.",
+      "en": "I don't use Spanish stress in coffee or lemon."
+    }
+  ]
+}

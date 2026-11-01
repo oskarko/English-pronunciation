@@ -1,0 +1,1631 @@
+{
+  "id": "H-05",
+  "block": "H",
+  "title": "CONTRACCIONES",
+  "file_title": "Contracciones",
+  "subtitle": "Contractions · I am = «aim»",
+  "icon": "✂️",
+  "map": {
+    "center": "Al hablar, los americanos <b>juntan</b> dos palabras en una: I am → <code>aim</code>, do not → <code>dount</code>.",
+    "listen": "don't",
+    "nodes": [
+      {
+        "title": "¿Qué son?",
+        "icon": "🔎",
+        "color": "green",
+        "items": [
+          "dos palabras → <b>una</b>",
+          "el apóstrofo ' tapa lo que <b>no suena</b>",
+          "al hablar, casi <b>siempre</b>"
+        ]
+      },
+      {
+        "title": "Con BE",
+        "icon": "🙋",
+        "color": "blue",
+        "rows": [
+          [
+            "I'm",
+            "<code>aim</code>"
+          ],
+          [
+            "we're",
+            "<code>wir</code>"
+          ],
+          [
+            "they're",
+            "<code>der</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Con NOT",
+        "icon": "🙅",
+        "color": "purple",
+        "rows": [
+          [
+            "don't",
+            "<code>dount</code>"
+          ],
+          [
+            "isn't",
+            "<code>ísənt</code>"
+          ],
+          [
+            "didn't",
+            "<code>dídənt</code>"
+          ]
+        ]
+      },
+      {
+        "title": "¡won't no es want!",
+        "icon": "⚠️",
+        "color": "orange",
+        "rows": [
+          [
+            "won't",
+            "<code>wount</code> · no lo haré"
+          ],
+          [
+            "want",
+            "<code>want</code> · quiero"
+          ]
+        ],
+        "after": "¡Significan casi lo <b>contrario</b>!"
+      },
+      {
+        "title": "Should've → shoulda",
+        "icon": "😢",
+        "color": "pink",
+        "rows": [
+          [
+            "should've",
+            "<code>shúrəv</code>"
+          ],
+          [
+            "could've",
+            "<code>kúrəv</code>"
+          ],
+          [
+            "would've",
+            "<code>wúrəv</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Al final de una respuesta corta, <b>no</b> se contrae: Yes, I <b>am</b> (nunca «Yes, I'm»).",
+        "art": "🙋"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I am not hungry. 🤖"
+      ],
+      "good": [
+        "I'm not hungry. <code>aim nat jángri</code>"
+      ],
+      "note": "Sin contraer suenas a robot… ¡o enfadado!"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🙋 I'm → ____",
+          "a": "aim"
+        },
+        {
+          "q": "🙅 don't → ____",
+          "a": "dount"
+        },
+        {
+          "q": "🚫 won't → ____",
+          "a": "wount"
+        },
+        {
+          "q": "🤷 doesn't → ____",
+          "a": "dásənt"
+        },
+        {
+          "q": "😢 should've → ____",
+          "a": "shúrəv"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué son las contracciones?",
+      "title_en": "What are contractions?",
+      "icon": "🔎",
+      "es": "Una contracción junta <b>dos palabras en una</b> y el apóstrofo (') ocupa el sitio de lo que desaparece: I <s>a</s>m → <b>I'm</b>, do n<s>o</s>t → <b>don't</b>. En español tenemos algo parecido («a + el» = al), pero en inglés hay muchísimas. Al hablar, <mark>los americanos contraen casi siempre</mark>: si dices «I am not hungry» palabra a palabra, suenas a robot… o a alguien enfadado. Lo importante es cómo <b>suenan</b>: muchas tienen una sola sílaba.",
+      "en": "Contractions join two words into one. Americans use them almost all the time when they speak. Without them, you sound robotic or angry.",
+      "formula": [
+        "I + am → *I'm* = aim",
+        "do + not → *don't* = dount"
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Con BE: I'm, you're, we're…",
+      "title_en": "With BE",
+      "icon": "🙋",
+      "es": "Am, is y are se pegan al sujeto y se quedan en una sola sílaba: I'm <code>aim</code>, you're <code>iur</code>, he's <code>jiis</code>, she's <code>shiis</code>, it's <code>its</code>, we're <code>wir</code>, they're <code>der</code>. Ojo: you're suena igual que your, y they're igual que there y their (mapa P-05).",
+      "en": "Am, is and are stick to the subject: I'm, you're, he's, it's, we're, they're. Most are one syllable.",
+      "examples": [
+        {
+          "en": "I'm hungry!",
+          "say": "aim jángri",
+          "es": "¡Tengo hambre!",
+          "icon": "🍔"
+        },
+        {
+          "en": "We're late!",
+          "say": "wir léit",
+          "es": "¡Llegamos tarde!",
+          "icon": "⏰"
+        },
+        {
+          "en": "They're from Texas.",
+          "say": "der frəm téksəs",
+          "es": "Son de Texas.",
+          "icon": "🤠"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Con NOT: -n't",
+      "title_en": "With NOT",
+      "icon": "🙅",
+      "es": "Not se convierte en <b>-n't</b>. Algunas se quedan en una sílaba (don't <code>dount</code>, can't <code>kænt</code>, aren't <code>arnt</code>) y otras tienen dos, con una ə rapidísima: isn't <code>ísənt</code>, doesn't <code>dásənt</code>, didn't <code>dídənt</code>. La t final apenas se oye (mapa C-03). Can't, a fondo, en el mapa H-08.",
+      "en": "Not becomes -n't: don't, can't, isn't, doesn't, didn't. The final t is very soft.",
+      "examples": [
+        {
+          "en": "I don't like broccoli.",
+          "say": "ai dount láik brákəli",
+          "es": "No me gusta el brócoli.",
+          "icon": "🥦"
+        },
+        {
+          "en": "He doesn't eat meat.",
+          "say": "ji dásənt íit míit",
+          "es": "No come carne.",
+          "icon": "🥩"
+        },
+        {
+          "en": "We didn't see it.",
+          "say": "wi dídənt síi-it",
+          "es": "No lo vimos.",
+          "icon": "🙈"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · WON'T no es WANT",
+      "title_en": "WON'T is not WANT",
+      "icon": "⚠️",
+      "es": "<b>Won't</b> es will not (no lo haré) y suena <code>wount</code>, con la «ou» de go, igual que don't. <b>Want</b> es querer y suena <code>want</code>, con una a. <mark>Si los confundes, dices lo contrario</mark>: «I won't go» (no iré) frente a «I want to go» (quiero ir).",
+      "en": "Won't (= will not) sounds like «wount». Want sounds like «want». Mixing them changes the meaning completely!",
+      "formula": [
+        "will + not → *won't* = w*ou*nt",
+        "want = w*a*nt"
+      ],
+      "examples": [
+        {
+          "en": "I won't go.",
+          "say": "ai wount góu",
+          "es": "No iré.",
+          "icon": "🙅"
+        },
+        {
+          "en": "I want to go.",
+          "say": "ai wánə góu",
+          "es": "Quiero ir.",
+          "icon": "🙋"
+        },
+        {
+          "en": "It won't work.",
+          "say": "it wount wérk",
+          "es": "No va a funcionar.",
+          "icon": "🔧"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · WILL y WOULD: 'll y 'd",
+      "title_en": "WILL and WOULD",
+      "icon": "🔮",
+      "es": "Will se queda en <b>'ll</b> y would (o had) en <b>'d</b>: I'll <code>ail</code>, you'll <code>iul</code>, we'll <code>wiil</code>, it'll <code>írəl</code>, I'd <code>aid</code>. La L final es oscura, como en ball (mapa C-12). Curiosidad: I'll suena igual que aisle (pasillo).",
+      "en": "Will becomes 'll and would (or had) becomes 'd: I'll, we'll, it'll, I'd.",
+      "examples": [
+        {
+          "en": "I'll call you later.",
+          "say": "ail kól iu léirer",
+          "es": "Te llamo luego.",
+          "icon": "📞"
+        },
+        {
+          "en": "We'll see.",
+          "say": "wiil síi",
+          "es": "Ya veremos.",
+          "icon": "🤔"
+        },
+        {
+          "en": "I'd like some water.",
+          "say": "aid láik səm wárer",
+          "es": "Querría un poco de agua.",
+          "icon": "💧"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Should've, could've, would've",
+      "title_en": "Should've, could've, would've",
+      "icon": "😢",
+      "es": "Should have, could have y would have se contraen en <b>should've</b>, <b>could've</b> y <b>would've</b>. La d queda entre vocales y hace el toque (C-02): <code>shúrəv</code>, <code>kúrəv</code>, <code>wúrəv</code>. Deprisa, la v desaparece: <b>shoulda, coulda, woulda</b>. ¡Suena tanto a «should of» que hasta los americanos lo escriben mal!",
+      "en": "Should've, could've and would've sound like «shúrəv», «kúrəv», «wúrəv». Fast: shoulda, coulda, woulda.",
+      "examples": [
+        {
+          "en": "I should've called.",
+          "say": "ai shúrəv kóld",
+          "es": "Debería haber llamado.",
+          "icon": "📵"
+        },
+        {
+          "en": "You could've won!",
+          "say": "iu kúrəv wán",
+          "es": "¡Podrías haber ganado!",
+          "icon": "🥈"
+        },
+        {
+          "en": "I would've helped.",
+          "say": "ai wúrəv jélpt",
+          "es": "Habría ayudado.",
+          "icon": "🤝"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · Cuándo NO contraer",
+      "title_en": "When NOT to contract",
+      "icon": "✋",
+      "es": "Al <b>final de una respuesta corta</b> afirmativa no se contrae: Yes, I <b>am</b> / Yes, it <b>is</b> (nunca «Yes, I'm»). Y cuando quieres <b>insistir</b>, dices la forma completa con fuerza: I <b>am</b> listening! (¡que sí te escucho!). En los negativos sí puedes: No, I'm not.",
+      "en": "Don't contract at the end of a short answer (Yes, I am) or when you want to insist (I AM listening!).",
+      "examples": [
+        {
+          "en": "Are you tired? Yes, I am.",
+          "say": "ar iə táierd? iés, ai ǽm",
+          "es": "¿Estás cansado? Sí.",
+          "icon": "😴"
+        },
+        {
+          "en": "I am listening!",
+          "say": "ai ǽm lísəning",
+          "es": "¡Que sí te escucho!",
+          "icon": "👂"
+        },
+        {
+          "en": "Is it ready? Yes, it is.",
+          "say": "ísit réri? iés, it ís",
+          "es": "¿Está listo? Sí.",
+          "icon": "✅"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "I'm",
+          "ipa": "aɪm",
+          "say": "aim",
+          "es": "yo soy / estoy",
+          "icon": "🙋",
+          "anchor": "¡<b>Ay, m</b>adre! 😱",
+          "tip": "«¡Ay, m…!»: I'm hungry = «¡ay, m… jángri!». Una sola sílaba."
+        },
+        {
+          "en": "I'm on",
+          "ipa": "aɪmˈɑn",
+          "say": "aimán",
+          "es": "estoy en / voy",
+          "icon": "🐊",
+          "anchor": "c<b>aimán</b> 🐊",
+          "tip": "I'm on my way = «c-aimán mai wéi»: ¡voy de camino!"
+        },
+        {
+          "en": "I'll",
+          "ipa": "aɪl",
+          "say": "ail",
+          "es": "yo (+ futuro)",
+          "icon": "💃",
+          "anchor": "b<b>ail</b>e 💃",
+          "tip": "Sin la e final y con L oscura (C-12). I'll call you = <code>ail kól iu</code>."
+        },
+        {
+          "en": "we're",
+          "ipa": "wɪr",
+          "say": "wir",
+          "es": "nosotros somos / estamos",
+          "icon": "🏃",
+          "anchor": "<b>huir</b> 🏃",
+          "tip": "We're late! = «¡huir léit!». Una sílaba con R americana. ¡No es were (<code>wer</code>)!"
+        },
+        {
+          "en": "don't",
+          "ipa": "doʊnt",
+          "say": "dount",
+          "es": "no (+ verbo)",
+          "icon": "🇺🇸",
+          "anchor": "esta<b>doun</b>idense 🇺🇸",
+          "tip": "Coge el «doun» de estadounidense y añade una t suave. ¡Así lo dice un estadounidense!"
+        },
+        {
+          "en": "want",
+          "ipa": "wɑnt",
+          "say": "want",
+          "es": "querer",
+          "icon": "🧤",
+          "anchor": "<b>guant</b>e 🧤",
+          "tip": "Want = «guante» sin la e. ¡No lo confundas con won't!"
+        },
+        {
+          "en": "won't",
+          "ipa": "woʊnt",
+          "say": "wount",
+          "es": "no (+ futuro)",
+          "icon": "🚫",
+          "anchor": "<s>guante</s> 🧤 → <b>wount</b>",
+          "tip": "Ancla de aviso: si dices «guante», entienden want (quiero). Di «wount», con ou."
+        },
+        {
+          "en": "could've",
+          "ipa": "ˈkʊɾəv",
+          "say": "kúrəv",
+          "es": "podría haber",
+          "icon": "⛪",
+          "anchor": "el <b>cura</b> ⛪",
+          "tip": "«Cura» + v: KÚ-rəv. Deprisa, sin la v: coulda = <code>kúrə</code>."
+        },
+        {
+          "en": "would've",
+          "ipa": "ˈwʊɾəv",
+          "say": "wúrəv",
+          "es": "habría",
+          "icon": "🤠",
+          "anchor": "<b>Woody</b> de Toy Story 🤠",
+          "tip": "Casi: empieza como Woody, pero acaba en «-rəv»: WÚ-rəv. Deprisa: woulda."
+        },
+        {
+          "en": "what's",
+          "ipa": "wʌts",
+          "say": "wats",
+          "es": "qué es / qué ha",
+          "icon": "📱",
+          "anchor": "<b>Whats</b>App 📱",
+          "tip": "¡WhatsApp empieza por what's! What's that? = <code>wats dǽt</code>."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "I'm",
+          "es": "yo soy / estoy"
+        },
+        {
+          "q": "don't",
+          "es": "no"
+        },
+        {
+          "q": "won't",
+          "es": "no (futuro)"
+        },
+        {
+          "q": "I'll",
+          "es": "yo (+ futuro)"
+        },
+        {
+          "q": "should've",
+          "es": "debería haber"
+        },
+        {
+          "q": "let's",
+          "es": "vamos a…"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Las contracciones del día a día",
+      "title_en": "Everyday contractions",
+      "icon": "📋",
+      "head": [
+        "Completo",
+        "Contracción",
+        "Suena",
+        "Ojo"
+      ],
+      "rows": [
+        [
+          "I am",
+          "I'm",
+          "<code>aim</code>",
+          "una sílaba"
+        ],
+        [
+          "you are",
+          "you're",
+          "<code>iur</code>",
+          "suena igual que your"
+        ],
+        [
+          "he is · he has",
+          "he's",
+          "<code>jiis</code>",
+          "'s = is o has"
+        ],
+        [
+          "it is · it has",
+          "it's",
+          "<code>its</code>",
+          "suena igual que its (su)"
+        ],
+        [
+          "we are",
+          "we're",
+          "<code>wir</code>",
+          "≠ were <code>wer</code>"
+        ],
+        [
+          "they are",
+          "they're",
+          "<code>der</code>",
+          "= there, their"
+        ],
+        [
+          "is not",
+          "isn't",
+          "<code>ísənt</code>",
+          "dos sílabas"
+        ],
+        [
+          "are not",
+          "aren't",
+          "<code>arnt</code>",
+          "una sílaba"
+        ],
+        [
+          "do not",
+          "don't",
+          "<code>dount</code>",
+          "con «ou», como go"
+        ],
+        [
+          "does not",
+          "doesn't",
+          "<code>dásənt</code>",
+          "con «a» corta"
+        ],
+        [
+          "did not",
+          "didn't",
+          "<code>dídənt</code>",
+          "la t final, casi muda"
+        ],
+        [
+          "cannot",
+          "can't",
+          "<code>kænt</code>",
+          "æ bien abierta (H-08)"
+        ],
+        [
+          "will not",
+          "won't",
+          "<code>wount</code>",
+          "≠ want <code>want</code>"
+        ],
+        [
+          "I will",
+          "I'll",
+          "<code>ail</code>",
+          "L oscura"
+        ],
+        [
+          "I would · I had",
+          "I'd",
+          "<code>aid</code>",
+          "'d = would o had"
+        ],
+        [
+          "there is",
+          "there's",
+          "<code>ders</code>",
+          "s que zumba"
+        ],
+        [
+          "that is",
+          "that's",
+          "<code>dæts</code>",
+          "æ abierta"
+        ],
+        [
+          "let us",
+          "let's",
+          "<code>lets</code>",
+          "= vamos a…"
+        ]
+      ],
+      "note": "Si dudas entre 's = is o 's = has, mira lo que viene detrás: He's tall (is) · He's eaten (has). Y 'd: I'd like (would) · I'd seen it (had).",
+      "note_en": "'s can be «is» or «has»; 'd can be «would» or «had». The next word tells you which."
+    },
+    {
+      "t": "pairs",
+      "title": "Parejas trampa",
+      "title_en": "Tricky pairs",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "won't",
+            "ipa": "woʊnt",
+            "say": "wount",
+            "es": "no (futuro)",
+            "icon": "🚫"
+          },
+          "b": {
+            "en": "want",
+            "ipa": "wɑnt",
+            "say": "want",
+            "es": "querer",
+            "icon": "🙋"
+          },
+          "tip": "¡Casi contrarios! Fíjate en la vocal: ou frente a a."
+        },
+        {
+          "a": {
+            "en": "we're",
+            "ipa": "wɪr",
+            "say": "wir",
+            "es": "estamos",
+            "icon": "🏃"
+          },
+          "b": {
+            "en": "were",
+            "ipa": "wɝ",
+            "say": "wer",
+            "es": "estábamos",
+            "icon": "⏪"
+          },
+          "tip": "We're lleva una i; were suena como bird (mapa V-09)."
+        },
+        {
+          "a": {
+            "en": "I'll",
+            "ipa": "aɪl",
+            "say": "ail",
+            "es": "yo (+ futuro)",
+            "icon": "🔮"
+          },
+          "b": {
+            "en": "all",
+            "ipa": "ɔl",
+            "say": "ol",
+            "es": "todo",
+            "icon": "💯"
+          },
+          "tip": "I'll lleva «ai»; all, una o (muchos americanos dicen «al»)."
+        },
+        {
+          "a": {
+            "en": "don't",
+            "ipa": "doʊnt",
+            "say": "dount",
+            "es": "no",
+            "icon": "🙅"
+          },
+          "b": {
+            "en": "done",
+            "ipa": "dʌn",
+            "say": "dan",
+            "es": "hecho",
+            "icon": "✅"
+          },
+          "tip": "Don't con «ou»; done con una a corta."
+        },
+        {
+          "a": {
+            "en": "you're",
+            "ipa": "jʊr",
+            "say": "iur",
+            "es": "tú eres",
+            "icon": "🫵"
+          },
+          "b": {
+            "en": "your",
+            "ipa": "jʊr",
+            "say": "iur",
+            "es": "tu",
+            "icon": "🎒"
+          },
+          "tip": "¡Suenan igual! Solo cambia la escritura."
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "It is not fair!",
+          "spoken": "It isn't fair!",
+          "say": "irísənt fér",
+          "es": "¡No es justo!"
+        },
+        {
+          "written": "I should have known!",
+          "spoken": "I shoulda known!",
+          "say": "ai shúrə nóun",
+          "es": "¡Debería haberlo sabido!"
+        },
+        {
+          "written": "You could have won!",
+          "spoken": "You coulda won!",
+          "say": "iu kúrə wán",
+          "es": "¡Podrías haber ganado!"
+        },
+        {
+          "written": "I would have helped.",
+          "spoken": "I woulda helped.",
+          "say": "ai wúrə jélpt",
+          "es": "Habría ayudado."
+        },
+        {
+          "written": "Let us go!",
+          "spoken": "Let's go!",
+          "say": "lets góu",
+          "es": "¡Vamos!"
+        },
+        {
+          "written": "There is a dog in my bed!",
+          "spoken": "There's a dog in my bed!",
+          "say": "dérsə dog in mai béd",
+          "es": "¡Hay un perro en mi cama!"
+        },
+        {
+          "written": "They are not here.",
+          "spoken": "They're not here.",
+          "say": "der nat jír",
+          "es": "No están aquí."
+        },
+        {
+          "written": "I will be there.",
+          "spoken": "I'll be there.",
+          "say": "ail bi dér",
+          "es": "Allí estaré."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "You're so funny!",
+          "say": "iur sóu fáni",
+          "es": "¡Qué gracioso eres!",
+          "icon": "😂"
+        },
+        {
+          "en": "She's at school.",
+          "say": "shiis ət skúul",
+          "es": "Está en el cole.",
+          "icon": "🏫"
+        },
+        {
+          "en": "It's cold today.",
+          "say": "its kóuld tədéi",
+          "es": "Hoy hace frío.",
+          "icon": "🥶"
+        },
+        {
+          "en": "That's amazing!",
+          "say": "dætsəméising",
+          "es": "¡Es increíble!",
+          "icon": "🤩"
+        },
+        {
+          "en": "I won't tell anyone.",
+          "say": "ai wount tél éniwan",
+          "es": "No se lo diré a nadie.",
+          "icon": "🤐"
+        },
+        {
+          "en": "There's a cat on the roof.",
+          "say": "dérsə kǽt an də rúuf",
+          "es": "Hay un gato en el tejado.",
+          "icon": "🐱"
+        },
+        {
+          "en": "Aren't you coming?",
+          "say": "arnt iə káming",
+          "es": "¿No vienes?",
+          "icon": "🚪"
+        },
+        {
+          "en": "It wasn't me!",
+          "say": "it wásənt míi",
+          "es": "¡No he sido yo!",
+          "icon": "🙊"
+        },
+        {
+          "en": "We'll be there at six.",
+          "say": "wiil bi dérət síks",
+          "es": "Estaremos allí a las seis.",
+          "icon": "🕕"
+        },
+        {
+          "en": "What's your name?",
+          "say": "wats ier néim",
+          "es": "¿Cómo te llamas?",
+          "icon": "👋"
+        },
+        {
+          "en": "Let's have pizza!",
+          "say": "lets jǽv píitsə",
+          "es": "¡Comamos pizza!",
+          "icon": "🍕"
+        },
+        {
+          "en": "You shouldn't eat so fast.",
+          "say": "iu shúdənt íit sou fǽst",
+          "es": "No deberías comer tan rápido.",
+          "icon": "🐢"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "won't → <code>want</code>",
+          "good": "<code>wount</code>",
+          "why": "Want es «quiero» y won't es «no lo haré». ¡Dirías lo contrario!",
+          "why_en": "«Want» and «won't» mean very different things."
+        },
+        {
+          "bad": "we're → <code>wer</code>",
+          "good": "<code>wir</code>",
+          "why": "Wer es were (estábamos). We're lleva una i: «wir».",
+          "why_en": "«We're» has an «i» sound; «were» doesn't."
+        },
+        {
+          "bad": "Yes, I'm.",
+          "good": "Yes, I am. → <code>iés, ai ǽm</code>",
+          "why": "Al final de una respuesta corta, nunca se contrae.",
+          "why_en": "Never contract at the end of a short answer."
+        },
+        {
+          "bad": "I do not like it. (sin querer)",
+          "good": "I don't like it. → <code>ai dount láikit</code>",
+          "why": "Sin contraer suena enfadado o muy formal. Al hablar, contrae.",
+          "why_en": "Without contractions you sound angry or formal."
+        },
+        {
+          "bad": "don't → <code>don</code>",
+          "good": "<code>dount</code>",
+          "why": "Lleva el diptongo «ou» (como go) y una t final suave.",
+          "why_en": "Don't has the «ou» sound of «go»."
+        },
+        {
+          "bad": "isn't → <code>isnt</code> (una sílaba)",
+          "good": "<code>ísənt</code>",
+          "why": "Isn't, doesn't y didn't tienen dos sílabas: ÍS-ənt, DÁS-ənt, DÍD-ənt.",
+          "why_en": "Isn't, doesn't and didn't have two syllables."
+        },
+        {
+          "bad": "I should of called.",
+          "good": "I should've called. → <code>ai shúrəv kóld</code>",
+          "why": "Suena igual que «should of», pero es should have. ¡Hasta los americanos se equivocan al escribirlo!",
+          "why_en": "It sounds like «should of», but it's «should have»."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¿Vienes a la fiesta?",
+      "title_en": "Are you coming to the party?",
+      "lines": [
+        {
+          "who": "Jenny",
+          "en": "Hi, Mario! Are you coming to my party?",
+          "say": "jai, mário! ar iə káming tə mai párdi?",
+          "es": "¡Hola, Mario! ¿Vienes a mi fiesta?"
+        },
+        {
+          "who": "Mario",
+          "en": "I'm not sure. I've got a test tomorrow.",
+          "say": "aim nat shúr. aiv gárə tést təmárou",
+          "es": "No estoy seguro. Mañana tengo un examen."
+        },
+        {
+          "who": "Jenny",
+          "en": "Oh, come on! It's Saturday!",
+          "say": "ou, kamán! its sǽrerdei!",
+          "es": "¡Venga ya! ¡Es sábado!"
+        },
+        {
+          "who": "Mario",
+          "en": "I know, I know. I'll ask my mom.",
+          "say": "ai nóu, ai nóu. ail ǽsk mai mám",
+          "es": "Ya, ya. Se lo preguntaré a mi madre."
+        },
+        {
+          "who": "Jenny",
+          "en": "Great! Lucía's coming too. She's so excited!",
+          "say": "gréit! lusíiəs káming túu. shiis sou-wiksáirid!",
+          "es": "¡Genial! Lucía también viene. ¡Está emocionadísima!"
+        },
+        {
+          "who": "Mario",
+          "en": "Really? She didn't tell me!",
+          "say": "ríili? shi dídənt tél mi!",
+          "es": "¿En serio? ¡No me lo ha dicho!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Well, you should've asked her!",
+          "say": "wel, iu shúrəv ǽsktər!",
+          "es": "¡Pues deberías habérselo preguntado!"
+        },
+        {
+          "who": "Mario",
+          "en": "OK. I won't miss it. Let's party!",
+          "say": "oukéi. ai wount mísit. lets párdi!",
+          "es": "Vale. No me la perderé. ¡A celebrarlo!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Junta las dos palabras y <b>quita lo que tapa el apóstrofo</b>: I am → I'm → <code>aim</code>.",
+          "en": "Join the words and drop what the apostrophe hides."
+        },
+        {
+          "es": "Dila en <b>una sola sílaba</b> cuando se pueda: <code>aim</code>, <code>wir</code>, <code>der</code>, <code>dount</code>, <code>wount</code>.",
+          "en": "Say it in one syllable when you can."
+        },
+        {
+          "es": "En isn't, doesn't y didn't, la segunda sílaba es una ə rapidísima: «ÍS-ənt».",
+          "en": "In isn't, doesn't and didn't, the second syllable is tiny."
+        },
+        {
+          "es": "Practica las parejas trampa exagerando: won't / want, we're / were.",
+          "en": "Practice the tricky pairs."
+        },
+        {
+          "es": "Escucha los QR y <b>grábate</b>. Y recuerda: al final de una respuesta corta, ¡sin contraer!",
+          "en": "Listen, record yourself and compare."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "I won't want what I don't need.",
+          "say": "ai wount wánt wat ai dount níid",
+          "es": "No querré lo que no necesito."
+        },
+        {
+          "en": "She's sure she shouldn't, but she should've!",
+          "say": "shiis shúr shi shúdənt, bət shi shúrəv!",
+          "es": "Está segura de que no debería… ¡pero debería haberlo hecho!"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "La tirita del apóstrofo",
+      "title_en": "The apostrophe bandage",
+      "es": "El apóstrofo ' es como una <b>tirita</b> 🩹 que tapa las letras que ya no suenan: I <s>a</s>m → I'm, do n<s>o</s>t → don't. Al hablar, contrae siempre… <mark>menos al final de una respuesta corta</mark>: Are you ready? Yes, I <b>am</b>! 😉",
+      "en": "The apostrophe covers the missing letters. Contract when you speak, except at the end of a short answer."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Qué dirías al hablar?",
+      "title_en": "What would you say?",
+      "icon": "🗣️",
+      "es": "Rodea la opción más natural al hablar. ¡Ojo con las respuestas cortas!",
+      "en": "Circle the most natural option in speech.",
+      "items": [
+        {
+          "q": "[I am|I'm] hungry.",
+          "a": "I'm"
+        },
+        {
+          "q": "Are you tired? Yes, I [am|'m].",
+          "a": "am"
+        },
+        {
+          "q": "[They are|They're] my friends.",
+          "a": "They're"
+        },
+        {
+          "q": "Is it ready? Yes, it [is|'s].",
+          "a": "is"
+        },
+        {
+          "q": "[We are|We're] late!",
+          "a": "We're"
+        },
+        {
+          "q": "[I do not|I don't] know.",
+          "a": "I don't"
+        },
+        {
+          "q": "Are they here? Yes, they [are|'re].",
+          "a": "are"
+        },
+        {
+          "q": "[She is|She's] at school.",
+          "a": "She's"
+        },
+        {
+          "q": "[Let us|Let's] go!",
+          "a": "Let's"
+        },
+        {
+          "q": "Who's there? [It is|It's] me!",
+          "a": "It's"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Cuál es?",
+      "title_en": "Which one?",
+      "icon": "👂",
+      "es": "Lee el significado y rodea la palabra correcta. Luego dila: ¡algunas suenan igual!",
+      "en": "Read the meaning and circle the right word.",
+      "items": [
+        {
+          "q": "I [won't|want] go. (no iré)",
+          "a": "won't"
+        },
+        {
+          "q": "I [won't|want] to go. (quiero ir)",
+          "a": "want"
+        },
+        {
+          "q": "[We're|Were] you there? (¿estabais allí?)",
+          "a": "Were"
+        },
+        {
+          "q": "[We're|Were] ready! (¡estamos listos!)",
+          "a": "We're"
+        },
+        {
+          "q": "[I'll|All] call you. (te llamaré)",
+          "a": "I'll"
+        },
+        {
+          "q": "[I'll|All] my friends (todos mis amigos)",
+          "a": "All"
+        },
+        {
+          "q": "[You're|Your] dog is cute. (tu perro)",
+          "a": "Your"
+        },
+        {
+          "q": "[You're|Your] so funny! (eres)",
+          "a": "You're"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada pareja",
+      "title_en": "Match the pairs",
+      "icon": "🔗",
+      "es": "Une la forma completa con su contracción.",
+      "en": "Match the full form with its contraction.",
+      "pairs": [
+        [
+          "I am",
+          "I'm"
+        ],
+        [
+          "do not",
+          "don't"
+        ],
+        [
+          "will not",
+          "won't"
+        ],
+        [
+          "does not",
+          "doesn't"
+        ],
+        [
+          "they are",
+          "they're"
+        ],
+        [
+          "I will",
+          "I'll"
+        ],
+        [
+          "should have",
+          "should've"
+        ],
+        [
+          "let us",
+          "let's"
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Una sílaba o dos?",
+      "title_en": "One syllable or two?",
+      "icon": "🗂️",
+      "es": "Di cada contracción dando palmadas y escríbela en su columna.",
+      "en": "Clap each contraction and sort it.",
+      "cats": [
+        {
+          "name": "👏 Una sílaba",
+          "words": [
+            "I'm",
+            "don't",
+            "won't",
+            "can't",
+            "we're",
+            "they're",
+            "I'll",
+            "that's"
+          ]
+        },
+        {
+          "name": "👏👏 Dos sílabas",
+          "words": [
+            "isn't",
+            "doesn't",
+            "didn't",
+            "wasn't",
+            "couldn't",
+            "shouldn't",
+            "would've",
+            "it'll"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "«I'm» has only one syllable.",
+          "a": true
+        },
+        {
+          "q": "«Won't» and «want» sound the same.",
+          "a": false,
+          "why": "won't = <code>wount</code>, want = <code>want</code>"
+        },
+        {
+          "q": "«Yes, I'm» is a correct short answer.",
+          "a": false,
+          "why": "Yes, I am"
+        },
+        {
+          "q": "«You're» and «your» sound the same.",
+          "a": true
+        },
+        {
+          "q": "«Should've» sounds like «should of».",
+          "a": true
+        },
+        {
+          "q": "Americans rarely use contractions when they speak.",
+          "a": false,
+          "why": "las usan casi siempre"
+        },
+        {
+          "q": "In «he's», the 's can mean «is» or «has».",
+          "a": true
+        },
+        {
+          "q": "«Doesn't» has two syllables.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Pon tilde si tiene dos sílabas (puedes escribir e en vez de ə).",
+      "en": "Write how each contraction sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "🙋 I'm → ____",
+          "a": "aim"
+        },
+        {
+          "q": "👉 you're → ____",
+          "a": "iur"
+        },
+        {
+          "q": "🏃 we're → ____",
+          "a": "wir"
+        },
+        {
+          "q": "👥 they're → ____",
+          "a": "der"
+        },
+        {
+          "q": "🙅 don't → ____",
+          "a": "dount"
+        },
+        {
+          "q": "🤷 doesn't → ____",
+          "a": "dásənt"
+        },
+        {
+          "q": "❌ didn't → ____",
+          "a": "dídənt"
+        },
+        {
+          "q": "🚫 won't → ____",
+          "a": "wount"
+        },
+        {
+          "q": "📞 I'll → ____",
+          "a": "ail"
+        },
+        {
+          "q": "😢 should've → ____",
+          "a": "shúrəv"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Completo",
+        "Contracción",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "I am",
+          "?I'm",
+          "aim"
+        ],
+        [
+          "?we are",
+          "we're",
+          "?wir"
+        ],
+        [
+          "do not",
+          "?don't",
+          "?dount"
+        ],
+        [
+          "will not",
+          "won't",
+          "?wount"
+        ],
+        [
+          "?does not",
+          "doesn't",
+          "dásənt"
+        ],
+        [
+          "I will",
+          "?I'll",
+          "?ail"
+        ],
+        [
+          "could have",
+          "?could've",
+          "kúrəv"
+        ],
+        [
+          "?let us",
+          "let's",
+          "lets"
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Contrae la frase",
+      "title_en": "Contract the sentence",
+      "icon": "✂️",
+      "es": "Reescribe la frase con contracciones, como se dice al hablar. Después léela.",
+      "en": "Rewrite each sentence with contractions.",
+      "items": [
+        {
+          "q": "I am tired.",
+          "a": "I'm tired."
+        },
+        {
+          "q": "We are late.",
+          "a": "We're late."
+        },
+        {
+          "q": "She is not here.",
+          "a": "She isn't here. / She's not here."
+        },
+        {
+          "q": "I will call you.",
+          "a": "I'll call you."
+        },
+        {
+          "q": "They do not know.",
+          "a": "They don't know."
+        },
+        {
+          "q": "He will not come.",
+          "a": "He won't come."
+        },
+        {
+          "q": "You should have seen it!",
+          "a": "You should've seen it!"
+        },
+        {
+          "q": "Let us go!",
+          "a": "Let's go!"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "won't → <code>want</code>",
+          "a": "wount"
+        },
+        {
+          "q": "we're → <code>wer</code>",
+          "a": "wir"
+        },
+        {
+          "q": "don't → <code>don</code>",
+          "a": "dount"
+        },
+        {
+          "q": "isn't → <code>isnt</code>",
+          "a": "ísənt (dos sílabas)"
+        },
+        {
+          "q": "doesn't → <code>dóusənt</code>",
+          "a": "dásənt"
+        },
+        {
+          "q": "I'll → <code>ol</code>",
+          "a": "ail"
+        },
+        {
+          "q": "should've → <code>shóuld jæv</code>",
+          "a": "shúrəv"
+        },
+        {
+          "q": "that's → <code>dats</code>",
+          "a": "dæts (æ abierta)"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena y dilo",
+      "title_en": "Put in order and say it",
+      "icon": "🧩",
+      "es": "Ordena las palabras. Después di la frase con sus contracciones.",
+      "en": "Put the words in order, then say the sentence.",
+      "items": [
+        {
+          "q": "hungry / I'm",
+          "a": "I'm hungry"
+        },
+        {
+          "q": "know / don't / I",
+          "a": "I don't know"
+        },
+        {
+          "q": "late / We're",
+          "a": "We're late"
+        },
+        {
+          "q": "tell / won't / I / anyone",
+          "a": "I won't tell anyone"
+        },
+        {
+          "q": "you / call / I'll / later",
+          "a": "I'll call you later"
+        },
+        {
+          "q": "go / Let's",
+          "a": "Let's go"
+        },
+        {
+          "q": "should've / You / it / seen",
+          "a": "You should've seen it"
+        },
+        {
+          "q": "a / There's / dog / bed / in / my",
+          "a": "There's a dog in my bed"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés con contracciones. Después dilo en voz alta.",
+      "en": "Translate into English with contractions and say it.",
+      "items": [
+        {
+          "q": "Tengo hambre.",
+          "a": "I'm hungry. (aim jángri)"
+        },
+        {
+          "q": "No lo sé.",
+          "a": "I don't know. (ai dount nóu)"
+        },
+        {
+          "q": "No iré.",
+          "a": "I won't go. (ai wount góu)"
+        },
+        {
+          "q": "Quiero ir.",
+          "a": "I want to go. (ai wánə góu)"
+        },
+        {
+          "q": "Llegamos tarde.",
+          "a": "We're late. (wir léit)"
+        },
+        {
+          "q": "Te llamaré.",
+          "a": "I'll call you. (ail kól iu)"
+        },
+        {
+          "q": "No le gusta.",
+          "a": "He doesn't like it. (ji dásənt láikit)"
+        },
+        {
+          "q": "¡Vamos!",
+          "a": "Let's go! (lets góu)"
+        },
+        {
+          "q": "Debería haber llamado.",
+          "a": "I should've called. (ai shúrəv kóld)"
+        },
+        {
+          "q": "¿Qué es eso?",
+          "a": "What's that? (wats dǽt)"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) con sus contracciones y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "I'm not hungry.",
+          "say": "aim nat jángri"
+        },
+        {
+          "q": "They're from Texas.",
+          "say": "der frəm téksəs"
+        },
+        {
+          "q": "He doesn't eat meat.",
+          "say": "ji dásənt íit míit"
+        },
+        {
+          "q": "I won't tell anyone.",
+          "say": "ai wount tél éniwan"
+        },
+        {
+          "q": "I'll call you later.",
+          "say": "ail kól iu léirer"
+        },
+        {
+          "q": "You should've asked her!",
+          "say": "iu shúrəv ǽsktər!"
+        },
+        {
+          "q": "There's a dog in my bed!",
+          "say": "dérsə dog in mai béd!"
+        },
+        {
+          "q": "She's sure she shouldn't, but she should've!",
+          "say": "shiis shúr shi shúdənt, bət shi shúrəv!"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de contracciones",
+      "title_en": "Contraction word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras que se contraen. Cuando encuentres una, di su contracción en voz alta.",
+      "en": "Find 10 words that make contractions and say the contraction.",
+      "words": [
+        "would",
+        "could",
+        "should",
+        "will",
+        "cannot",
+        "there",
+        "they",
+        "what",
+        "does",
+        "let"
+      ],
+      "clues": [
+        "would → I'd, would've",
+        "could → could've",
+        "should → should've",
+        "will → I'll, won't",
+        "cannot → can't",
+        "there → there's",
+        "they → they're",
+        "what → what's",
+        "does → doesn't",
+        "let → let's"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las contracciones",
+      "title_en": "Read and find the contractions",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "A busy Monday",
+      "text": [
+        "It's Monday and Lucía's late for school. “I can't find my shoes!” she shouts. “They're under your bed,” says Mom.",
+        "Lucía doesn't have time for breakfast. “I'll eat at school,” she says. “You should've gotten up earlier!” says Mario. “I know, I know. I won't be late tomorrow!”"
+      ],
+      "items": [
+        {
+          "q": "How does «It's Monday» sound?",
+          "a": "<code>its mándei</code>"
+        },
+        {
+          "q": "Find two contractions with «not» in the text.",
+          "a": "can't, doesn't, won't (cualquiera)"
+        },
+        {
+          "q": "What does «should've» mean here? How does it sound?",
+          "a": "should have (debería haber): <code>shúrəv</code>"
+        },
+        {
+          "q": "Lucía's shoes are under her bed.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "«I won't be late» means «I want to be late».",
+          "tf": true,
+          "a": false,
+          "why": "won't = will not: no llegaré tarde"
+        },
+        {
+          "q": "«They're» sounds the same as «there».",
+          "tf": true,
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con contracciones. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with contractions and record yourself.",
+      "items": [
+        {
+          "q": "Una frase sobre ti con <b>I'm</b> y otra con <b>I don't</b>.",
+          "lines": 2,
+          "a": "Ej.: I'm eleven. I don't like spiders."
+        },
+        {
+          "q": "Una promesa con <b>I'll</b> o <b>I won't</b>.",
+          "lines": 2,
+          "a": "Ej.: I won't eat all the cookies!"
+        },
+        {
+          "q": "Algo que <b>should've</b> hecho (y no hiciste).",
+          "lines": 2,
+          "a": "Ej.: I should've studied more."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Digo I'm, we're y they're en una sílaba: <code>aim</code>, <code>wir</code>, <code>der</code>.",
+      "en": "I can say I'm, we're and they're."
+    },
+    {
+      "es": "Digo isn't, doesn't y didn't con dos sílabas: <code>ísənt</code>, <code>dásənt</code>, <code>dídənt</code>.",
+      "en": "I can say isn't, doesn't and didn't."
+    },
+    {
+      "es": "Distingo won't (<code>wount</code>) de want (<code>want</code>).",
+      "en": "I can tell won't from want."
+    },
+    {
+      "es": "Digo I'll y I'd: <code>ail</code>, <code>aid</code>.",
+      "en": "I can say I'll and I'd."
+    },
+    {
+      "es": "Digo should've, could've y would've: <code>shúrəv</code>, <code>kúrəv</code>, <code>wúrəv</code>.",
+      "en": "I can say should've, could've and would've."
+    },
+    {
+      "es": "No contraigo al final de una respuesta corta: Yes, I <b>am</b>!",
+      "en": "I don't contract at the end of a short answer."
+    }
+  ]
+}

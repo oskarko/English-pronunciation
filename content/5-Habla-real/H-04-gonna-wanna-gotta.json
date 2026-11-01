@@ -1,0 +1,1588 @@
+{
+  "id": "H-04",
+  "block": "H",
+  "title": "GONNA, WANNA, GOTTA",
+  "file_title": "Gonna, wanna, gotta",
+  "subtitle": "Reduced forms · going to = «gánə»",
+  "icon": "🚀",
+  "map": {
+    "center": "Al hablar, <b>going to</b> suena <code>gánə</code>, <b>want to</b> suena <code>wánə</code> y <b>got to</b> suena <code>gárə</code>.",
+    "listen": "gonna",
+    "nodes": [
+      {
+        "title": "Los tres famosos",
+        "icon": "⭐",
+        "color": "green",
+        "rows": [
+          [
+            "going to",
+            "<code>gánə</code> (gonna)"
+          ],
+          [
+            "want to",
+            "<code>wánə</code> (wanna)"
+          ],
+          [
+            "got to",
+            "<code>gárə</code> (gotta)"
+          ]
+        ]
+      },
+      {
+        "title": "Suena como…",
+        "icon": "🇪🇸",
+        "color": "blue",
+        "rows": [
+          [
+            "gonna",
+            "<code>gánə</code> (¡gana!)"
+          ],
+          [
+            "has to",
+            "<code>jǽstə</code> (¡hasta!)"
+          ],
+          [
+            "ought to",
+            "<code>órə</code> (¡hora!)"
+          ]
+        ]
+      },
+      {
+        "title": "Más de la familia",
+        "icon": "🧩",
+        "color": "purple",
+        "rows": [
+          [
+            "have to",
+            "<code>jǽftə</code>"
+          ],
+          [
+            "used to",
+            "<code>iúustə</code>"
+          ],
+          [
+            "supposed to",
+            "<code>səpóustə</code>"
+          ]
+        ]
+      },
+      {
+        "title": "¡Aquí NO!",
+        "icon": "✋",
+        "color": "orange",
+        "items": [
+          "going to + <b>lugar</b>: to the park",
+          "he <b>wants</b> to (nunca «wanna»)",
+          "have <b>two</b> cats (número)"
+        ]
+      },
+      {
+        "title": "¿Se escribe?",
+        "icon": "✍️",
+        "color": "pink",
+        "items": [
+          "en chats y canciones: sí",
+          "en exámenes y emails: <b>no</b>",
+          "pero se <b>dice</b> siempre así"
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Si detrás va un <b>verbo</b>, pégalo: I'm going to eat = <code>aim gánə íit</code>.",
+        "art": "🍕"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I'm gonna the park"
+      ],
+      "good": [
+        "I'm going to the park 🛝"
+      ],
+      "note": "Con un lugar detrás, nada de gonna"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🚀 going to → ____",
+          "a": "gánə"
+        },
+        {
+          "q": "😋 want to → ____",
+          "a": "wánə"
+        },
+        {
+          "q": "🏃 got to → ____",
+          "a": "gárə"
+        },
+        {
+          "q": "📝 have to → ____",
+          "a": "jǽftə"
+        },
+        {
+          "q": "👧 has to → ____",
+          "a": "jǽstə"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué son gonna, wanna y gotta?",
+      "title_en": "What are gonna, wanna and gotta?",
+      "icon": "🔎",
+      "es": "Son la forma en que los americanos <b>dicen</b> going to, want to y got to cuando hablan normal. Las dos palabras se funden en una: going to → <code>gánə</code>, want to → <code>wánə</code>, got to → <code>gárə</code>. <mark>No es jerga ni hablar mal</mark>: lo dicen profesores, presidentes y presentadores. Pero ojo: se <b>dicen</b> mucho y se <b>escriben</b> poco. Y hay casos en los que no se pueden usar. ¡Vamos a verlos!",
+      "en": "Gonna, wanna and gotta are how Americans really say going to, want to and got to. They're normal in speech, but you rarely write them.",
+      "formula": [
+        "going to (+ verbo) → *gánə*",
+        "want to → *wánə* · got to → *gárə*"
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · GONNA = going to + verbo",
+      "title_en": "GONNA = going to + verb",
+      "icon": "🚀",
+      "es": "Para hablar de <b>planes y predicciones</b> (voy a…, va a…), going to se convierte en <code>gánə</code>: una a corta, la fuerza delante y una ə al final. Con I'm, muchas veces casi desaparece todo: I'm gonna → <code>aim gánə</code> (y en la calle, hasta «ámənə»).",
+      "en": "For plans and predictions, «going to» + verb becomes «gonna».",
+      "formula": [
+        "I'm going to eat → aim *gánə* íit"
+      ],
+      "examples": [
+        {
+          "en": "I'm going to eat.",
+          "say": "aim gánə íit",
+          "es": "Voy a comer.",
+          "icon": "🍔"
+        },
+        {
+          "en": "It's going to rain.",
+          "say": "its gánə réin",
+          "es": "Va a llover.",
+          "icon": "🌧️"
+        },
+        {
+          "en": "We're going to win!",
+          "say": "wir gánə wín",
+          "es": "¡Vamos a ganar!",
+          "icon": "🏆"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · WANNA = want to",
+      "title_en": "WANNA = want to",
+      "icon": "😋",
+      "es": "Want to se convierte en <code>wánə</code>: la t de want desaparece después de la n (mapa C-03) y to se queda en ə. ¡Y también vale para <b>want a</b>! I wanna cookie = I want a cookie (quiero una galleta).",
+      "en": "«Want to» becomes «wanna». «Want a» can also sound like «wanna».",
+      "examples": [
+        {
+          "en": "I want to go home.",
+          "say": "ai wánə góu jóum",
+          "es": "Quiero irme a casa.",
+          "icon": "🏠"
+        },
+        {
+          "en": "Do you want to play?",
+          "say": "də iə wánə pléi",
+          "es": "¿Quieres jugar?",
+          "icon": "🎮"
+        },
+        {
+          "en": "I want a cookie.",
+          "say": "ai wánə kúki",
+          "es": "Quiero una galleta.",
+          "icon": "🍪"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · GOTTA = (have) got to",
+      "title_en": "GOTTA = (have) got to",
+      "icon": "🏃",
+      "es": "Have got to (tener que) se convierte en <code>gárə</code>. Las dos T se juntan entre vocales y hacen el <b>toque</b> del mapa C-02: «gá-rə». Es muy típico para prisas y obligaciones: I gotta go! (¡me tengo que ir!).",
+      "en": "«(Have) got to» becomes «gotta», with a flap T: «gá-rə».",
+      "examples": [
+        {
+          "en": "I've got to go!",
+          "say": "aiv gárə góu",
+          "es": "¡Me tengo que ir!",
+          "icon": "🏃"
+        },
+        {
+          "en": "You've got to see this!",
+          "say": "iuv gárə síi dis",
+          "es": "¡Tienes que ver esto!",
+          "icon": "👀"
+        },
+        {
+          "en": "We've got to hurry.",
+          "say": "wiiv gárə jéri",
+          "es": "Tenemos que darnos prisa.",
+          "icon": "⏱️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · HAFTA y HASTA",
+      "title_en": "HAFTA and HASTA",
+      "icon": "📝",
+      "es": "Have to y has to también se funden. Y hay un detalle curioso: delante de la t, la <b>v</b> de have se vuelve <b>f</b> y la <b>z</b> de has se vuelve <b>s</b>: have to → <code>jǽftə</code>, has to → <code>jǽstə</code> (¡como «hasta» en español!). Casi nunca se escriben así: solo se dicen.",
+      "en": "«Have to» sounds like «hafta» (v → f) and «has to» sounds like «hasta» (z → s).",
+      "formula": [
+        "ha*v*e to → ha*f*ta",
+        "ha*s* to → ha*s*ta"
+      ],
+      "examples": [
+        {
+          "en": "I have to work.",
+          "say": "ai jǽftə wérk",
+          "es": "Tengo que trabajar.",
+          "icon": "💼"
+        },
+        {
+          "en": "Lucía has to study.",
+          "say": "lusíiə jǽstə stádi",
+          "es": "Lucía tiene que estudiar.",
+          "icon": "📚"
+        },
+        {
+          "en": "You have to try this.",
+          "say": "iu jǽftə trái dis",
+          "es": "Tienes que probar esto.",
+          "icon": "😋"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · OUGHTA, USETA y SPOSTA",
+      "title_en": "OUGHTA, USETA and SPOSTA",
+      "icon": "🧩",
+      "es": "Tres más de la familia: <b>ought to</b> (debería) → <code>órə</code>, con toque; <b>used to</b> (solía) → <code>iúustə</code>, sin d y con s (no z); <b>supposed to</b> (se supone que) → <code>səpóustə</code>, que deprisa queda en «spóustə». Muchos americanos dicen <code>árə</code> en vez de <code>órə</code>.",
+      "en": "«Ought to» → «oughta», «used to» → «useta», «supposed to» → «sposta».",
+      "examples": [
+        {
+          "en": "You ought to rest.",
+          "say": "iu órə rést",
+          "es": "Deberías descansar.",
+          "icon": "😴"
+        },
+        {
+          "en": "I used to live in Madrid.",
+          "say": "ai iúustə lívin mədríd",
+          "es": "Antes vivía en Madrid.",
+          "icon": "🏙️"
+        },
+        {
+          "en": "It's supposed to rain.",
+          "say": "its səpóustə réin",
+          "es": "Se supone que va a llover.",
+          "icon": "☔"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · ¡Aquí NO se reduce!",
+      "title_en": "When NOT to reduce",
+      "icon": "✋",
+      "es": "Mira siempre qué viene <b>detrás</b>. <b>Going to + lugar</b> es el verbo ir de verdad: I'm going to the park (nada de gonna). <b>Wants to</b> nunca es wanna. <b>Have two</b> (número) no es hafta. Y <b>got to + lugar</b> significa «llegar a»: We got to the hotel.",
+      "en": "Don't reduce before a place (going to the park), with «wants to», or with «have two» (a number).",
+      "examples": [
+        {
+          "en": "I'm going to the park.",
+          "say": "aim góuing tə də párk",
+          "es": "Voy al parque.",
+          "icon": "🛝"
+        },
+        {
+          "en": "Rocky wants to go out.",
+          "say": "ráki wánts tə gou-wáut",
+          "es": "Rocky quiere salir.",
+          "icon": "🐶"
+        },
+        {
+          "en": "I have two cats.",
+          "say": "ai jæv tuu kǽts",
+          "es": "Tengo dos gatos.",
+          "icon": "🐱"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "gonna",
+          "ipa": "ˈɡʌnə",
+          "say": "gánə",
+          "es": "voy a / va a",
+          "icon": "🏆",
+          "anchor": "¡<b>gana</b>! 🏆",
+          "tip": "I'm gonna win = «aim gana win». ¡Y encima ganas! Fuerza en GA."
+        },
+        {
+          "en": "wanna",
+          "ipa": "ˈwɑnə",
+          "say": "wánə",
+          "es": "quiero / quieres",
+          "icon": "🦎",
+          "anchor": "i<b>guana</b> 🦎",
+          "tip": "Sin la i y con la g casi muda: «WÁ-nə». I wanna = ai wánə."
+        },
+        {
+          "en": "gotta",
+          "ipa": "ˈɡɑɾə",
+          "say": "gárə",
+          "es": "tengo que",
+          "icon": "💦",
+          "anchor": "las cataratas del Niá<b>gara</b> 💦",
+          "tip": "«GÁ-ra», con la r suave del toque (C-02). I gotta go = ai gárə góu."
+        },
+        {
+          "en": "has to",
+          "ipa": "ˈhæstə",
+          "say": "jǽstə",
+          "es": "tiene que",
+          "icon": "👋",
+          "anchor": "<b>hasta</b> luego 👋",
+          "tip": "Con j suave (vaho) y la a abierta: «JǼS-tə». She has to go… ¡hasta luego!"
+        },
+        {
+          "en": "have to",
+          "ipa": "ˈhæftə",
+          "say": "jǽftə",
+          "es": "tengo que",
+          "icon": "👄",
+          "anchor": "una <b>afta</b> en la boca 👄",
+          "tip": "La llaguita de la boca, con j suave delante: «JǼF-tə». ¡La v se vuelve f!"
+        },
+        {
+          "en": "ought to",
+          "ipa": "ˈɔɾə",
+          "say": "órə",
+          "es": "debería(s)",
+          "icon": "⏰",
+          "anchor": "¿qué <b>hora</b> es? ⏰",
+          "tip": "You ought to rest = «iu hora rest». Muchos americanos dicen «árə»."
+        },
+        {
+          "en": "supposed to",
+          "ipa": "səˈpoʊstə",
+          "say": "səpóustə",
+          "es": "se supone que",
+          "icon": "😏",
+          "anchor": "lo hizo <b>aposta</b> 😏",
+          "tip": "Casi: cambia la primera a por ə y di «pous»: sə-PÓUS-tə. ¡La d no suena!"
+        },
+        {
+          "en": "out of",
+          "ipa": "ˈaʊɾə",
+          "say": "áurə",
+          "es": "fuera de",
+          "icon": "✨",
+          "anchor": "un <b>aura</b> mágica ✨",
+          "tip": "Otro de la familia: outta. Get out of here! = <code>gueráurə jír</code>, ¡anda ya! (H-10)"
+        },
+        {
+          "en": "going to the park",
+          "ipa": "ˈɡoʊɪŋ tə ðə ˈpɑrk",
+          "say": "góuing tə də párk",
+          "es": "ir al parque",
+          "icon": "🛝",
+          "anchor": "<s>gonna the park</s> ✋",
+          "tip": "Ancla de aviso: si detrás va un sitio, no hay gonna. ¡Vas de verdad!"
+        },
+        {
+          "en": "he wants to",
+          "ipa": "hi ˈwɑnts tə",
+          "say": "ji wánts tə",
+          "es": "él quiere",
+          "icon": "🙅",
+          "anchor": "<s>he wanna</s> ✋",
+          "tip": "Ancla de aviso: wanna solo cambia «want to». Con he, she, it: wants to."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "gonna",
+          "es": "voy a"
+        },
+        {
+          "q": "wanna",
+          "es": "quiero"
+        },
+        {
+          "q": "gotta",
+          "es": "tengo que"
+        },
+        {
+          "q": "have to",
+          "es": "tengo que"
+        },
+        {
+          "q": "supposed to",
+          "es": "se supone que"
+        },
+        {
+          "q": "used to",
+          "es": "solía"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "La familia de gonna",
+      "title_en": "The gonna family",
+      "icon": "👪",
+      "head": [
+        "Escrito",
+        "Se dice",
+        "Suena",
+        "Ejemplo"
+      ],
+      "rows": [
+        [
+          "going to + verbo",
+          "gonna",
+          "<code>gánə</code>",
+          "I'm going to eat → <code>aim gánə íit</code>"
+        ],
+        [
+          "want to · want a",
+          "wanna",
+          "<code>wánə</code>",
+          "I want to go → <code>ai wánə góu</code>"
+        ],
+        [
+          "(have) got to",
+          "gotta",
+          "<code>gárə</code>",
+          "I've got to go → <code>aiv gárə góu</code>"
+        ],
+        [
+          "have to",
+          "hafta",
+          "<code>jǽftə</code>",
+          "I have to work → <code>ai jǽftə wérk</code>"
+        ],
+        [
+          "has to",
+          "hasta",
+          "<code>jǽstə</code>",
+          "She has to study → <code>shi jǽstə stádi</code>"
+        ],
+        [
+          "ought to",
+          "oughta",
+          "<code>órə</code>",
+          "You ought to rest → <code>iu órə rést</code>"
+        ],
+        [
+          "used to",
+          "useta",
+          "<code>iúustə</code>",
+          "I used to swim → <code>ai iúustə swím</code>"
+        ],
+        [
+          "supposed to",
+          "sposta",
+          "<code>səpóustə</code>",
+          "It's supposed to rain → <code>its səpóustə réin</code>"
+        ],
+        [
+          "out of",
+          "outta",
+          "<code>áurə</code>",
+          "Get out of here! → <code>gueráurə jír</code>"
+        ]
+      ],
+      "note": "Gonna, wanna, gotta y outta los verás escritos en chats, canciones y cómics. Hafta, hasta, useta y sposta casi nunca se escriben: solo se <b>dicen</b>. Lotta (a lot of) está en C-02; kinda y sorta, en H-07.",
+      "note_en": "Gonna, wanna, gotta and outta appear in chats and songs. The others are almost only spoken."
+    },
+    {
+      "t": "compare",
+      "title": "¿Lo escribo o lo digo?",
+      "title_en": "Write it or say it?",
+      "icon": "✍️",
+      "es": "La misma frase, en tres situaciones distintas.",
+      "en": "The same sentence in three situations.",
+      "cols": [
+        {
+          "head": "💬 Chats y canciones",
+          "color": "green",
+          "items": [
+            "I'm gonna call you",
+            "Wanna play?",
+            "Gotta go! 👋",
+            "✅ gonna, wanna, gotta"
+          ]
+        },
+        {
+          "head": "📝 Exámenes y emails",
+          "color": "orange",
+          "items": [
+            "I'm going to call you",
+            "Do you want to play?",
+            "I have to go.",
+            "✅ siempre completo"
+          ]
+        },
+        {
+          "head": "🗣️ Al hablar",
+          "color": "blue",
+          "items": [
+            "<code>aim gánə kól iə</code>",
+            "<code>wánə pléi?</code>",
+            "<code>ai gárə góu</code>",
+            "✅ ¡reducido!"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "I'm going to call you.",
+          "spoken": "I'm gonna call ya.",
+          "say": "aim gánə kól iə",
+          "es": "Te voy a llamar."
+        },
+        {
+          "written": "Do you want to play?",
+          "spoken": "D'ya wanna play?",
+          "say": "də iə wánə pléi",
+          "es": "¿Quieres jugar?"
+        },
+        {
+          "written": "I have got to go!",
+          "spoken": "I gotta go!",
+          "say": "ai gárə góu",
+          "es": "¡Me tengo que ir!"
+        },
+        {
+          "written": "You have to see this!",
+          "spoken": "Ya hafta see this!",
+          "say": "iə jǽftə síi dis",
+          "es": "¡Tienes que ver esto!"
+        },
+        {
+          "written": "She has to work today.",
+          "spoken": "She hasta work today.",
+          "say": "shi jǽstə wérk tədéi",
+          "es": "Hoy tiene que trabajar."
+        },
+        {
+          "written": "You ought to try it.",
+          "spoken": "Ya oughta try it.",
+          "say": "iə órə trái-it",
+          "es": "Deberías probarlo."
+        },
+        {
+          "written": "I used to play the piano.",
+          "spoken": "I useta play the piano.",
+          "say": "ai iúustə pléi də piǽnou",
+          "es": "Antes tocaba el piano."
+        },
+        {
+          "written": "We're supposed to be there at six.",
+          "spoken": "We're sposta be there at six.",
+          "say": "wir səpóustə bi dérət síks",
+          "es": "Tenemos que estar allí a las seis."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I'm going to eat a pizza.",
+          "say": "aim gánə íirə píitsə",
+          "es": "Me voy a comer una pizza.",
+          "icon": "🍕"
+        },
+        {
+          "en": "Are you going to come?",
+          "say": "ar iə gánə kám",
+          "es": "¿Vas a venir?",
+          "icon": "🎉"
+        },
+        {
+          "en": "Mario wants to be a pilot.",
+          "say": "mário wánts tə bi ə páilət",
+          "es": "Mario quiere ser piloto.",
+          "icon": "✈️"
+        },
+        {
+          "en": "We've got to clean the kitchen.",
+          "say": "wiiv gárə klíin də kíchən",
+          "es": "Tenemos que limpiar la cocina.",
+          "icon": "🧽"
+        },
+        {
+          "en": "Do I have to?",
+          "say": "də ai jǽftu",
+          "es": "¿Tengo que hacerlo?",
+          "icon": "🙄"
+        },
+        {
+          "en": "Tyler has to walk the dog.",
+          "say": "táiler jǽstə wók də dóg",
+          "es": "Tyler tiene que sacar al perro.",
+          "icon": "🐕"
+        },
+        {
+          "en": "You ought to call your grandma.",
+          "say": "iu órə kól ier grǽnma",
+          "es": "Deberías llamar a tu abuela.",
+          "icon": "📞"
+        },
+        {
+          "en": "I used to be shy.",
+          "say": "ai iúustə bi shái",
+          "es": "Antes era tímido.",
+          "icon": "🙈"
+        },
+        {
+          "en": "You're not supposed to run here.",
+          "say": "iur nat səpóustə rán jír",
+          "es": "Aquí no se puede correr.",
+          "icon": "🚫"
+        },
+        {
+          "en": "We got to the hotel at nine.",
+          "say": "wi gat tə də joutél ət náin",
+          "es": "Llegamos al hotel a las nueve.",
+          "icon": "🏨"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "I'm gonna the park.",
+          "good": "I'm going to the park. → <code>aim góuing tə də párk</code>",
+          "why": "Gonna solo vale si detrás va un verbo. Con un sitio, es el verbo go de verdad.",
+          "why_en": "Use gonna only before a verb, never before a place."
+        },
+        {
+          "bad": "He wanna play.",
+          "good": "He wants to play. → <code>ji wánts tə pléi</code>",
+          "why": "Wanna solo sustituye a «want to», nunca a «wants to».",
+          "why_en": "Wanna replaces «want to», not «wants to»."
+        },
+        {
+          "bad": "I have two cats → <code>ai jǽftə kǽts</code>",
+          "good": "<code>ai jæv tuu kǽts</code>",
+          "why": "Aquí two es un número, no el to de «tener que». La v no cambia.",
+          "why_en": "«Two» is a number here, so no «hafta»."
+        },
+        {
+          "bad": "gonna → <code>góna</code> (con o)",
+          "good": "<code>gánə</code>",
+          "why": "Suena con una a corta y relajada, como «gana», no con o.",
+          "why_en": "Gonna has a short «a» sound, not an «o»."
+        },
+        {
+          "bad": "have to → <code>jæv tuu</code>",
+          "good": "<code>jǽftə</code>",
+          "why": "Delante de to, la v se vuelve f («hafta») y to se queda en ə.",
+          "why_en": "Before «to», the v sounds like f."
+        },
+        {
+          "bad": "used to → <code>iúusd tuu</code>",
+          "good": "<code>iúustə</code>",
+          "why": "En «used to» (solía) la d no suena y la s es s, no z: «iúus-tə».",
+          "why_en": "In «used to», the d is silent and the s is /s/."
+        },
+        {
+          "bad": "«I'm gonna…» en un examen",
+          "good": "I'm going to… (¡pero dilo <code>gánə</code>!)",
+          "why": "Gonna, wanna y gotta se dicen siempre, pero en exámenes y emails se escriben completos.",
+          "why_en": "Say gonna, but write «going to» in exams."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Planes para el finde",
+      "title_en": "Weekend plans",
+      "lines": [
+        {
+          "who": "Tyler",
+          "en": "Hey Mario, what are you going to do this weekend?",
+          "say": "jei mário, wárər iə gánə dúu dis wíikend?",
+          "es": "Eh, Mario, ¿qué vas a hacer este finde?"
+        },
+        {
+          "who": "Mario",
+          "en": "I'm going to visit my grandma.",
+          "say": "aim gánə vísit mai grǽnma",
+          "es": "Voy a visitar a mi abuela."
+        },
+        {
+          "who": "Tyler",
+          "en": "Do you want to play soccer on Sunday?",
+          "say": "də iə wánə pléi sáker an sándei?",
+          "es": "¿Quieres jugar al fútbol el domingo?"
+        },
+        {
+          "who": "Mario",
+          "en": "I want to, but I have to study.",
+          "say": "ai wánə, bət ai jǽftə stádi",
+          "es": "Quiero, pero tengo que estudiar."
+        },
+        {
+          "who": "Tyler",
+          "en": "You ought to take a break!",
+          "say": "iu órə téikə bréik!",
+          "es": "¡Deberías tomarte un descanso!"
+        },
+        {
+          "who": "Mario",
+          "en": "I know. I used to play every Sunday…",
+          "say": "ai nóu. ai iúustə pléi évri sándei…",
+          "es": "Ya. Antes jugaba todos los domingos…"
+        },
+        {
+          "who": "Tyler",
+          "en": "Come on! It's going to be fun!",
+          "say": "kamán! its gánə bíi fán!",
+          "es": "¡Venga! ¡Va a ser divertido!"
+        },
+        {
+          "who": "Mario",
+          "en": "OK, OK! But I've got to be home at six.",
+          "say": "oukéi, oukéi! bət aiv gárə bi jóum ət síks",
+          "es": "¡Vale, vale! Pero tengo que estar en casa a las seis."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Busca going to, want to, got to… <b>seguidos de un verbo</b>. ¡Solo esos se reducen!",
+          "en": "Find them before a verb: only those reduce."
+        },
+        {
+          "es": "Di la forma corta despacio: «GÁ-nə», «WÁ-nə», «GÁ-rə». Fuerza delante, ə al final.",
+          "en": "Say the short form slowly: stress first, schwa last."
+        },
+        {
+          "es": "Pégala al verbo, sin pausa: «aim-gánə-íit», «ai-wánə-góu».",
+          "en": "Link it to the verb."
+        },
+        {
+          "es": "Practica frases enteras cada vez más rápido, como en una conversación.",
+          "en": "Practice whole sentences, faster and faster."
+        },
+        {
+          "es": "Escucha los QR, imita y <b>grábate</b>. Y recuerda: ¡en el examen, escríbelo completo!",
+          "en": "Listen, imitate and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "I gotta go, I wanna go, I'm gonna go!",
+          "say": "ai gárə góu, ai wánə góu, aim gánə góu!",
+          "es": "¡Me tengo que ir, quiero irme, me voy a ir!"
+        },
+        {
+          "en": "Wanna win? You gotta work, and you hafta wait.",
+          "say": "wánə wín? iu gárə wérk, ən iu jǽftə wéit",
+          "es": "¿Quieres ganar? Tienes que trabajar y tienes que esperar."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del verbo",
+      "title_en": "The verb trick",
+      "es": "Antes de reducir, mira qué viene <b>detrás</b>: si es un <b>verbo</b> (eat, go, play), ¡adelante con gonna, wanna, gotta! Si es un <b>sitio</b> o un <b>número</b> (the park, two cats), deja la forma completa. Y en el examen, escríbelo entero… <mark>pero dilo como un americano</mark>. 😉",
+      "en": "Verb after it? Reduce it. A place or a number? Don't. And write the full form in exams."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Gonna o going to?",
+      "title_en": "Gonna or going to?",
+      "icon": "🔍",
+      "es": "¿Se puede decir gonna? Solo si detrás va un <b>verbo</b>. Rodea.",
+      "en": "Can you say gonna here? Only before a verb.",
+      "items": [
+        {
+          "q": "I'm going to eat. → [gonna|going to]",
+          "a": "gonna"
+        },
+        {
+          "q": "I'm going to the beach. → [gonna|going to]",
+          "a": "going to"
+        },
+        {
+          "q": "It's going to rain. → [gonna|going to]",
+          "a": "gonna"
+        },
+        {
+          "q": "Are you going to school? → [gonna|going to]",
+          "a": "going to"
+        },
+        {
+          "q": "We're going to win! → [gonna|going to]",
+          "a": "gonna"
+        },
+        {
+          "q": "She's going to Paris. → [gonna|going to]",
+          "a": "going to"
+        },
+        {
+          "q": "He's going to call you. → [gonna|going to]",
+          "a": "gonna"
+        },
+        {
+          "q": "I'm going to bed. → [gonna|going to]",
+          "a": "going to"
+        },
+        {
+          "q": "They're going to be late. → [gonna|going to]",
+          "a": "gonna"
+        },
+        {
+          "q": "Mom is going to the store. → [gonna|going to]",
+          "a": "going to"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Cómo suena?",
+      "title_en": "How does it sound?",
+      "icon": "👂",
+      "es": "Lee la frase y rodea cómo suena la parte en negrita.",
+      "en": "Circle how the bold part sounds.",
+      "items": [
+        {
+          "q": "I <b>want to</b> go. → [wánə|wánts tə]",
+          "a": "wánə"
+        },
+        {
+          "q": "He <b>wants to</b> go. → [wánə|wánts tə]",
+          "a": "wánts tə"
+        },
+        {
+          "q": "I <b>have to</b> go. → [jǽftə|jæv tuu]",
+          "a": "jǽftə"
+        },
+        {
+          "q": "I <b>have two</b> dogs. → [jǽftə|jæv tuu]",
+          "a": "jæv tuu"
+        },
+        {
+          "q": "I've <b>got to</b> go. → [gárə|gat tə]",
+          "a": "gárə"
+        },
+        {
+          "q": "We <b>got to</b> the hotel late. → [gárə|gat tə]",
+          "a": "gat tə"
+        },
+        {
+          "q": "I <b>used to</b> swim. → [iúustə|iúusd tuu]",
+          "a": "iúustə"
+        },
+        {
+          "q": "I <b>used two</b> pens. → [iúustə|iúusd tuu]",
+          "a": "iúusd tuu"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada forma con su sonido",
+      "title_en": "Match each form and its sound",
+      "icon": "🔗",
+      "es": "Une la forma completa con cómo suena.",
+      "en": "Match the full form with how it sounds.",
+      "pairs": [
+        [
+          "going to",
+          "<code>gánə</code>"
+        ],
+        [
+          "want to",
+          "<code>wánə</code>"
+        ],
+        [
+          "got to",
+          "<code>gárə</code>"
+        ],
+        [
+          "have to",
+          "<code>jǽftə</code>"
+        ],
+        [
+          "has to",
+          "<code>jǽstə</code>"
+        ],
+        [
+          "ought to",
+          "<code>órə</code>"
+        ],
+        [
+          "used to",
+          "<code>iúustə</code>"
+        ],
+        [
+          "supposed to",
+          "<code>səpóustə</code>"
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Se puede reducir?",
+      "title_en": "Can you reduce it?",
+      "icon": "🗂️",
+      "es": "Di cada frase y escríbela en su columna.",
+      "en": "Say each phrase and sort it.",
+      "cats": [
+        {
+          "name": "✅ Se reduce",
+          "words": [
+            "going to eat",
+            "want to sleep",
+            "has to study",
+            "ought to rest",
+            "got to go"
+          ]
+        },
+        {
+          "name": "❌ No se reduce",
+          "words": [
+            "going to Paris",
+            "wants to sleep",
+            "have two cats",
+            "got to the hotel",
+            "going to bed"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "«Gonna» means «going to» + a verb.",
+          "a": true
+        },
+        {
+          "q": "You can say «I'm gonna the park».",
+          "a": false,
+          "why": "con un lugar no: going to the park"
+        },
+        {
+          "q": "«Wanna» can also mean «want a».",
+          "a": true
+        },
+        {
+          "q": "«He wanna play» is correct.",
+          "a": false,
+          "why": "he wants to play"
+        },
+        {
+          "q": "In «have to», the v sounds like an f: «hafta».",
+          "a": true
+        },
+        {
+          "q": "You should write «gonna» in your English exam.",
+          "a": false,
+          "why": "en exámenes, going to"
+        },
+        {
+          "q": "«Gotta» has a soft tap in the middle.",
+          "a": true
+        },
+        {
+          "q": "«Used to» (solía) sounds like «iúusd tuu».",
+          "a": false,
+          "why": "suena <code>iúustə</code>"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la frase como se dice, con la forma reducida (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write each sentence as it's spoken.",
+      "items": [
+        {
+          "q": "🚀 I'm going to eat → ____",
+          "a": "aim gánə íit"
+        },
+        {
+          "q": "😋 I want to go → ____",
+          "a": "ai wánə góu"
+        },
+        {
+          "q": "🏃 I've got to go → ____",
+          "a": "aiv gárə góu"
+        },
+        {
+          "q": "💼 I have to work → ____",
+          "a": "ai jǽftə wérk"
+        },
+        {
+          "q": "📚 She has to study → ____",
+          "a": "shi jǽstə stádi"
+        },
+        {
+          "q": "😴 You ought to rest → ____",
+          "a": "iu órə rést"
+        },
+        {
+          "q": "🏊 I used to swim → ____",
+          "a": "ai iúustə swím"
+        },
+        {
+          "q": "☔ It's supposed to rain → ____",
+          "a": "its səpóustə réin"
+        },
+        {
+          "q": "🌧️ It's going to rain → ____",
+          "a": "its gánə réin"
+        },
+        {
+          "q": "🎮 Do you want to play? → ____",
+          "a": "də iə wánə pléi"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. ¡Casi siempre es la primera!",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "gon",
+            "na"
+          ],
+          "s": 0,
+          "es": "going to"
+        },
+        {
+          "syl": [
+            "wan",
+            "na"
+          ],
+          "s": 0,
+          "es": "want to"
+        },
+        {
+          "syl": [
+            "got",
+            "ta"
+          ],
+          "s": 0,
+          "es": "got to"
+        },
+        {
+          "syl": [
+            "haf",
+            "ta"
+          ],
+          "s": 0,
+          "es": "have to"
+        },
+        {
+          "syl": [
+            "has",
+            "ta"
+          ],
+          "s": 0,
+          "es": "has to"
+        },
+        {
+          "syl": [
+            "ough",
+            "ta"
+          ],
+          "s": 0,
+          "es": "ought to"
+        },
+        {
+          "syl": [
+            "use",
+            "ta"
+          ],
+          "s": 0,
+          "es": "used to"
+        },
+        {
+          "syl": [
+            "sup",
+            "posed",
+            "to"
+          ],
+          "s": 1,
+          "es": "supposed to"
+        },
+        {
+          "syl": [
+            "go",
+            "ing",
+            "to"
+          ],
+          "s": 0,
+          "es": "going to (+ lugar)"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Completo",
+        "Reducido",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "going to",
+          "?gonna",
+          "?gánə"
+        ],
+        [
+          "?want to",
+          "wanna",
+          "wánə"
+        ],
+        [
+          "got to",
+          "?gotta",
+          "gárə"
+        ],
+        [
+          "have to",
+          "hafta",
+          "?jǽftə"
+        ],
+        [
+          "?has to",
+          "hasta",
+          "?jǽstə"
+        ],
+        [
+          "ought to",
+          "?oughta",
+          "órə"
+        ],
+        [
+          "used to",
+          "useta",
+          "?iúustə"
+        ],
+        [
+          "?supposed to",
+          "sposta",
+          "səpóustə"
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escríbelo como un chat",
+      "title_en": "Write it like a text message",
+      "icon": "💬",
+      "es": "Reescribe la frase como en un chat (gonna, wanna, gotta). ¡Cuidado: dos no se pueden reducir!",
+      "en": "Rewrite each sentence like a text message. Careful: two can't be reduced!",
+      "items": [
+        {
+          "q": "I'm going to call you.",
+          "a": "I'm gonna call you."
+        },
+        {
+          "q": "Do you want to dance?",
+          "a": "Do you wanna dance?"
+        },
+        {
+          "q": "I have got to go.",
+          "a": "I gotta go."
+        },
+        {
+          "q": "I want a cookie.",
+          "a": "I wanna cookie."
+        },
+        {
+          "q": "We are going to the park.",
+          "a": "We're going to the park. (¡no se reduce: lugar!)"
+        },
+        {
+          "q": "It's going to snow.",
+          "a": "It's gonna snow."
+        },
+        {
+          "q": "He wants to sleep.",
+          "a": "He wants to sleep. (¡no se reduce: wants!)"
+        },
+        {
+          "q": "Are you going to come?",
+          "a": "Are you gonna come?"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "gonna → <code>góna</code>",
+          "a": "gánə"
+        },
+        {
+          "q": "wanna → <code>wán tuu</code>",
+          "a": "wánə"
+        },
+        {
+          "q": "gotta → <code>góta</code>",
+          "a": "gárə (con toque)"
+        },
+        {
+          "q": "have to → <code>jæv tuu</code>",
+          "a": "jǽftə"
+        },
+        {
+          "q": "has to → <code>jæs tuu</code>",
+          "a": "jǽstə"
+        },
+        {
+          "q": "used to → <code>iúusd tuu</code>",
+          "a": "iúustə"
+        },
+        {
+          "q": "ought to → <code>óut tuu</code>",
+          "a": "órə"
+        },
+        {
+          "q": "supposed to → <code>supóused tuu</code>",
+          "a": "səpóustə"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena y dilo",
+      "title_en": "Put in order and say it",
+      "icon": "🧩",
+      "es": "Ordena las palabras. Después di la frase con la forma reducida (si se puede).",
+      "en": "Put the words in order, then say it with the reduced form.",
+      "items": [
+        {
+          "q": "going / I'm / to / eat",
+          "a": "I'm going to eat"
+        },
+        {
+          "q": "want / you / Do / to / play",
+          "a": "Do you want to play"
+        },
+        {
+          "q": "go / got / I've / to",
+          "a": "I've got to go"
+        },
+        {
+          "q": "rain / It's / to / going",
+          "a": "It's going to rain"
+        },
+        {
+          "q": "to / has / She / study",
+          "a": "She has to study"
+        },
+        {
+          "q": "to / ought / You / rest",
+          "a": "You ought to rest"
+        },
+        {
+          "q": "to / used / I / swim",
+          "a": "I used to swim"
+        },
+        {
+          "q": "the / I'm / park / to / going",
+          "a": "I'm going to the park"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Escríbelo completo y dilo reducido.",
+      "en": "Translate, write it in full and say it reduced.",
+      "items": [
+        {
+          "q": "Voy a comer.",
+          "a": "I'm going to eat. (aim gánə íit)"
+        },
+        {
+          "q": "Quiero ir.",
+          "a": "I want to go. (ai wánə góu)"
+        },
+        {
+          "q": "¡Me tengo que ir!",
+          "a": "I've got to go! (aiv gárə góu)"
+        },
+        {
+          "q": "Tengo que trabajar.",
+          "a": "I have to work. (ai jǽftə wérk)"
+        },
+        {
+          "q": "Ella tiene que estudiar.",
+          "a": "She has to study. (shi jǽstə stádi)"
+        },
+        {
+          "q": "Deberías descansar.",
+          "a": "You ought to rest. (iu órə rést)"
+        },
+        {
+          "q": "Antes vivía aquí.",
+          "a": "I used to live here. (ai iúustə lív jír)"
+        },
+        {
+          "q": "Va a llover.",
+          "a": "It's going to rain. (its gánə réin)"
+        },
+        {
+          "q": "¿Quieres jugar?",
+          "a": "Do you want to play? (də iə wánə pléi)"
+        },
+        {
+          "q": "Voy al parque.",
+          "a": "I'm going to the park. (aim góuing tə də párk)"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) con la forma reducida y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "I'm going to call you.",
+          "say": "aim gánə kól iə"
+        },
+        {
+          "q": "Do you want to play?",
+          "say": "də iə wánə pléi?"
+        },
+        {
+          "q": "I've got to go!",
+          "say": "aiv gárə góu!"
+        },
+        {
+          "q": "You have to see this!",
+          "say": "iə jǽftə síi dis!"
+        },
+        {
+          "q": "She has to work today.",
+          "say": "shi jǽstə wérk tədéi"
+        },
+        {
+          "q": "I used to play the piano.",
+          "say": "ai iúustə pléi də piǽnou"
+        },
+        {
+          "q": "It's supposed to rain.",
+          "say": "its səpóustə réin"
+        },
+        {
+          "q": "I gotta go, I wanna go, I'm gonna go!",
+          "say": "ai gárə góu, ai wánə góu, aim gánə góu!"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de verbos",
+      "title_en": "Verb word search",
+      "icon": "🔎",
+      "es": "Busca 10 verbos. Con cada uno, di una frase con gonna o wanna: <code>aim gánə íit</code>, <code>ai wánə pléi</code>…",
+      "en": "Find 10 verbs and say a sentence with gonna or wanna for each.",
+      "words": [
+        "eat",
+        "play",
+        "sleep",
+        "study",
+        "win",
+        "rain",
+        "dance",
+        "call",
+        "work",
+        "swim"
+      ],
+      "clues": [
+        "eat · comer",
+        "play · jugar",
+        "sleep · dormir",
+        "study · estudiar",
+        "win · ganar",
+        "rain · llover",
+        "dance · bailar",
+        "call · llamar",
+        "work · trabajar",
+        "swim · nadar"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las reducciones",
+      "title_en": "Read and find the reductions",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta, reduciendo donde se pueda. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Tyler's big trip",
+      "text": [
+        "This summer, Tyler is going to Spain. He wants to see Madrid, and he's going to visit Mario. “I've got to learn some Spanish!” he says.",
+        "He used to study French, but now he wants to learn Spanish. His mom says he ought to start today. “OK,” says Tyler. “I'm going to start… tomorrow!”"
+      ],
+      "items": [
+        {
+          "q": "How does «he's going to visit» sound?",
+          "a": "<code>jiis gánə vísit</code> (gonna + verbo)"
+        },
+        {
+          "q": "Why can't you say «Tyler is gonna Spain»?",
+          "a": "Porque detrás va un lugar (Spain), no un verbo: going to Spain."
+        },
+        {
+          "q": "How does «I've got to learn» sound?",
+          "a": "<code>aiv gárə lérn</code>"
+        },
+        {
+          "q": "Tyler used to study French.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «he wants to learn», you can say «he wanna learn».",
+          "tf": true,
+          "a": false,
+          "why": "wants to: nunca wanna"
+        },
+        {
+          "q": "«He ought to start» can sound like «ji órə stárt».",
+          "tf": true,
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas (completas). Después léelas con la forma reducida y grábate.",
+      "en": "Write three sentences in full, then say them reduced and record yourself.",
+      "items": [
+        {
+          "q": "Un plan para este fin de semana con <b>going to</b> + verbo.",
+          "lines": 2,
+          "a": "Ej.: I'm going to watch a movie with my sister."
+        },
+        {
+          "q": "Algo que quieres hacer con <b>want to</b>.",
+          "lines": 2,
+          "a": "Ej.: I want to visit New York."
+        },
+        {
+          "q": "Algo que tienes que hacer con <b>have to</b> o <b>have got to</b>.",
+          "lines": 2,
+          "a": "Ej.: I have to clean my room."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Digo gonna, wanna y gotta: <code>gánə</code>, <code>wánə</code>, <code>gárə</code>.",
+      "en": "I can say gonna, wanna and gotta."
+    },
+    {
+      "es": "Sé que have to suena <code>jǽftə</code> y has to, <code>jǽstə</code>.",
+      "en": "I can say «hafta» and «hasta»."
+    },
+    {
+      "es": "Digo used to, ought to y supposed to: <code>iúustə</code>, <code>órə</code>, <code>səpóustə</code>.",
+      "en": "I can say useta, oughta and sposta."
+    },
+    {
+      "es": "Sé cuándo NO reducir: going to + lugar, wants to, have two.",
+      "en": "I know when not to reduce."
+    },
+    {
+      "es": "Entiendo gonna y wanna en canciones y series.",
+      "en": "I understand gonna and wanna in songs and shows."
+    },
+    {
+      "es": "En los exámenes lo escribo completo (¡pero lo digo reducido!).",
+      "en": "I write the full form in exams."
+    }
+  ]
+}

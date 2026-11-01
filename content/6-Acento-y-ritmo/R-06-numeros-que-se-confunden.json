@@ -1,0 +1,682 @@
+{
+  "id": "R-06",
+  "block": "R",
+  "title": "NÚMEROS TRAMPA",
+  "file_title": "Números que se confunden",
+  "subtitle": "Thirteen or thirty? · números americanos",
+  "icon": "🔢",
+  "map": {
+    "center": "<b>thirTEEN</b> (13) y <b>THIRty</b> (30) no suenan igual: fíjate en el <b>golpe</b>, la <b>ii larga</b> y la <b>n</b> final.",
+    "listen": "thirteen",
+    "nodes": [
+      {
+        "title": "-TEEN (13-19)",
+        "icon": "🎯",
+        "color": "green",
+        "rows": [
+          ["13 thirteen", "<code>zertíin</code>"],
+          ["15 fifteen", "<code>fiftíin</code>"]
+        ],
+        "after": "golpe al final, <b>ii larga</b> y <b>n</b>"
+      },
+      {
+        "title": "-TY (30-90)",
+        "icon": "🔟",
+        "color": "blue",
+        "rows": [
+          ["30 thirty", "<code>zérdi</code>"],
+          ["50 fifty", "<code>fífti</code>"]
+        ],
+        "after": "golpe delante e <b>i</b> cortita"
+      },
+      {
+        "title": "Años",
+        "icon": "📅",
+        "color": "purple",
+        "html": "De <b>dos en dos</b>:",
+        "rows": [
+          ["1999", "nineteen ninety-nine"],
+          ["2025", "twenty twenty-five"]
+        ]
+      },
+      {
+        "title": "Teléfonos",
+        "icon": "📞",
+        "color": "orange",
+        "items": [
+          "número a número: <b>five five five</b>",
+          "el 0 = <b>oh</b> <code>ou</code>",
+          "911 = <b>nine one one</b>"
+        ]
+      },
+      {
+        "title": "Precios y decimales",
+        "icon": "💵",
+        "color": "pink",
+        "items": [
+          "$3.50 = <b>three fifty</b>",
+          "2.5 = two <b>point</b> five",
+          "a <b>billion</b> = mil millones"
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "¿Dudas? Aclara como un americano: «Fifteen… <b>one-five</b>!»",
+        "art": "🔢"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["fifteen con i corta y sin n: <code>fífti</code>"],
+      "good": ["<code>fiftíin</code> (ii larga + n) 💵"],
+      "note": "Si no alargas la ii, ¡te cobran 50 en vez de 15! 💸"
+    },
+    "mini": {
+      "es": "Escribe el número:",
+      "en": "Write the number.",
+      "items": [
+        { "q": "🎧 thirty → ____", "a": "30" },
+        { "q": "🎧 fourteen → ____", "a": "14" },
+        { "q": "📅 nineteen ninety → ____", "a": "1990" },
+        { "q": "💵 three fifty → ____", "a": "$3.50" },
+        { "q": "📞 five oh five → ____", "a": "505" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Por qué se confunden?",
+      "title_en": "Why do they get mixed up?",
+      "icon": "🔢",
+      "es": "<b>Thirteen</b> y <b>thirty</b>, <b>fifteen</b> y <b>fifty</b>… se parecen muchísimo, y un fallo te puede salir caro 💸 (¡no es lo mismo pagar 15 que 50 dólares!). Además, los americanos dicen los años, los teléfonos, los precios y las horas <mark>a su manera</mark>: de dos en dos, con <b>oh</b> para el cero y con <b>point</b> en vez de coma. En este mapa aprenderás a decirlos y, sobre todo, a <b>entenderlos</b>.",
+      "en": "Thirteen and thirty sound very similar, and Americans say years, phone numbers, prices and times in their own way. Learn to say them and to understand them.",
+      "formula": ["thir*TEEN* = 13", "*THIR*ty = 30"]
+    },
+    {
+      "t": "mouth",
+      "title": "Cómo distinguirlos",
+      "title_en": "How to tell them apart",
+      "items": [
+        { "part": "ear", "es": "Escucha el <b>final</b>: -teen acaba en <b>n</b> (<code>zertíin</code>); -ty acaba en una <b>i cortita</b> (<code>zérdi</code>).", "en": "Listen to the end: -teen ends in n, -ty ends in a short i." },
+        { "part": "air", "es": "Pon la mano delante de la boca: en <b>-TEEN</b> notarás un <b>soplido</b> en la T. En thirty, forty y eighty, no.", "en": "-TEEN has a puff of air on the T." },
+        { "part": "tongue", "es": "En thirty, forty y eighty la lengua da <b>un toque rápido</b> (la r de «pero», casi una d). Tras la n (twenty, seventy, ninety), la T a menudo casi desaparece.", "en": "In thirty, forty and eighty the T is a quick tap." },
+        { "part": "jaw", "es": "-TEEN: <b>ii larga</b> y con fuerza, con la boca en sonrisa 😁. -ty: i cortita y relajada.", "en": "-TEEN has a long, strong ee. -ty has a short, relaxed i." }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · -TEEN: el golpe al final",
+      "title_en": "-TEEN: stress at the end",
+      "icon": "🎯",
+      "es": "Del 13 al 19, dichos solos, el golpe va en <b>TEEN</b>: una <b>ii larga</b>, una <b>T clara</b> con soplido y una <b>n</b> bien audible. Piensa en «<b>tin</b>ta» con la i estirada: zer-<b>TÍIN</b>.",
+      "en": "From 13 to 19, the stress is on TEEN: long ee, clear T and a final n.",
+      "examples": [
+        { "en": "thirteen", "say": "zertíin", "es": "13", "icon": "1️⃣" },
+        { "en": "fourteen", "say": "fortíin", "es": "14", "icon": "🍀" },
+        { "en": "fifteen", "say": "fiftíin", "es": "15", "icon": "🖐️" },
+        { "en": "sixteen", "say": "sikstíin", "es": "16", "icon": "🎂" },
+        { "en": "eighteen", "say": "eitíin", "es": "18", "icon": "🚗" },
+        { "en": "nineteen", "say": "naintíin", "es": "19", "icon": "⚽" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · -TY: el golpe delante",
+      "title_en": "-TY: stress at the start",
+      "icon": "🔟",
+      "es": "Las decenas llevan el golpe en la <b>primera sílaba</b> y acaban en una <b>i cortita</b>. Y su T es americana: tras <b>R o vocal</b> es un toque suave, casi d (thirty, forty, eighty: mapa C-02); tras <b>f o s</b> es una t normal (fifty, sixty); tras <b>n</b>, deprisa, casi se pierde (<code>tuéni</code>, <code>náini</code>: mapa C-03).",
+      "en": "Tens are stressed on the first syllable and end in a short i. The T is a soft tap after R or a vowel.",
+      "examples": [
+        { "en": "thirty", "say": "zérdi", "es": "30", "icon": "📆" },
+        { "en": "forty", "say": "fórdi", "es": "40", "icon": "🚗" },
+        { "en": "fifty", "say": "fífti", "es": "50", "icon": "💵" },
+        { "en": "sixty", "say": "síksti", "es": "60", "icon": "⏱️" },
+        { "en": "eighty", "say": "éiri", "es": "80", "icon": "👴" },
+        { "en": "ninety", "say": "náinti", "es": "90", "icon": "💯" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · ¡Ojo! El golpe viaja",
+      "title_en": "Watch out: the stress moves",
+      "icon": "🧳",
+      "es": "Al <b>contar</b> o delante de otra palabra fuerte (fifteen <b>DOLLARS</b>), muchos americanos mueven el golpe de -teen hacia delante: <code>fíftiin dálers</code>. ¿Cómo distinguirlo entonces? Con las <mark>pistas seguras</mark>: -teen mantiene la <b>ii larga</b>, la <b>T clara</b> y la <b>n</b>; -ty tiene i cortita y toque suave.",
+      "en": "Before a stressed word, -teen numbers often move their stress forward. The safe clues are the long ee, the clear T and the n.",
+      "formula": ["*-tiin* (ii larga + n) = -teen", "*-di / -ti* (i corta) = -ty"],
+      "examples": [
+        { "en": "fifteen dollars", "say": "fíftiin dálers", "es": "15 dólares", "icon": "💵" },
+        { "en": "fifty dollars", "say": "fífti dálers", "es": "50 dólares", "icon": "💰" },
+        { "en": "thirteen days", "say": "zértiin déis", "es": "13 días", "icon": "📅" },
+        { "en": "thirty days", "say": "zérdi déis", "es": "30 días", "icon": "🗓️" },
+        { "en": "eighteen kids", "say": "éitiin kíds", "es": "18 niños", "icon": "🧒" },
+        { "en": "eighty kids", "say": "éiri kíds", "es": "80 niños", "icon": "🏫" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Años: de dos en dos",
+      "title_en": "Years: two by two",
+      "icon": "📅",
+      "es": "Los años se parten <b>por la mitad</b>: 1999 = 19 | 99. Del 2000 al 2009 se dice <b>two thousand…</b> Desde 2010 valen las dos formas, pero lo más normal hoy es <b>twenty twenty-five</b>. El 0 del medio es <b>oh</b>: 1905 = nineteen <b>oh</b> five. En EE. UU. no hace falta «and».",
+      "en": "Split years in half: nineteen ninety-nine. For 2000-2009 say two thousand… Today, twenty twenty-five is the most common.",
+      "examples": [
+        { "en": "nineteen ninety-nine", "say": "náintiin náinti náin", "es": "1999", "icon": "💿" },
+        { "en": "fourteen ninety-two", "say": "fórtiin náinti túu", "es": "1492", "icon": "⛵" },
+        { "en": "nineteen oh five", "say": "náintiin ou fáiv", "es": "1905", "icon": "🎩" },
+        { "en": "two thousand eight", "say": "tuu záusənd éit", "es": "2008", "icon": "📱" },
+        { "en": "twenty ten", "say": "tuénti tén", "es": "2010", "icon": "⚽" },
+        { "en": "twenty twenty-five", "say": "tuénti tuénti fáiv", "es": "2025", "icon": "🚀" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Teléfonos: número a número",
+      "title_en": "Phone numbers: digit by digit",
+      "icon": "📞",
+      "es": "Se dicen <b>cifra a cifra</b>, en grupos (3-3-4), subiendo ↗ en cada grupo y bajando ↘ al final, como una lista (mapa R-05). El 0 suele ser <b>oh</b>. «Double five» se oye, pero en EE. UU. es más normal <b>five five</b>.",
+      "en": "Say phone numbers digit by digit, in groups. Zero is usually oh. Americans usually say five five, not double five.",
+      "examples": [
+        { "en": "(212) 555-0174", "say": "túu wan túu, fáiv fáiv fáiv, ou wan sévən for", "es": "un teléfono: 0 = oh", "icon": "📱" },
+        { "en": "911", "say": "náin wan wán", "es": "emergencias (¡nunca «nine eleven»!)", "icon": "🚨" },
+        { "en": "Room 405", "say": "rúum for ou fáiv", "es": "habitación 405", "icon": "🏨" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · Precios y porcentajes",
+      "title_en": "Prices and percentages",
+      "icon": "💵",
+      "es": "<b>$3.50</b> se dice «three fifty» (o three dollars and fifty cents). El símbolo $ se escribe delante, pero se <b>dice detrás</b>: $20 = twenty dollars. Y % es <b>percent</b>, con el golpe en SENT: <code>persént</code>.",
+      "en": "Say $3.50 as three fifty. Write $ first, but say dollars after the number. Percent is stressed on CENT.",
+      "examples": [
+        { "en": "three fifty", "say": "zríi fífti", "es": "$3.50", "icon": "🥤" },
+        { "en": "twenty dollars", "say": "tuénti dálers", "es": "$20", "icon": "💵" },
+        { "en": "a dollar ninety-nine", "say": "ə dáler náinti náin", "es": "$1.99", "icon": "🏷️" },
+        { "en": "a quarter", "say": "ə kwórder", "es": "25 ¢ (moneda)", "icon": "🪙" },
+        { "en": "fifteen percent", "say": "fiftíin persént", "es": "15 %", "icon": "📉" },
+        { "en": "fifty percent", "say": "fífti persént", "es": "50 %", "icon": "🌗" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 7,
+      "title": "7 · Decimales y millones",
+      "title_en": "Decimals and millions",
+      "icon": "🧮",
+      "es": "¡Al revés que en España! En inglés, los decimales llevan <b>punto</b> (2.5 = two <b>point</b> five) y los miles llevan <b>coma</b> (1,000). Mil quinientos suele ser <b>fifteen hundred</b>. Y cuidado: <mark>a billion = mil millones</mark>, no un billón.",
+      "en": "Decimals use a point and thousands use a comma. 1,500 is often fifteen hundred. A billion is a thousand million.",
+      "examples": [
+        { "en": "two point five", "say": "tuu póint fáiv", "es": "2,5 (2.5)", "icon": "✏️" },
+        { "en": "three point one four", "say": "zríi póint wan fór", "es": "3,14 (π)", "icon": "🥧" },
+        { "en": "fifteen hundred", "say": "fíftiin jándrəd", "es": "1.500 (1,500)", "icon": "🏃" },
+        { "en": "a thousand", "say": "ə záusənd", "es": "1.000 (1,000)", "icon": "🔟" },
+        { "en": "two million", "say": "tuu míliən", "es": "2.000.000", "icon": "🏙️" },
+        { "en": "a billion", "say": "ə bíliən", "es": "mil millones (¡no un billón!)", "icon": "🌍" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "two", "ipa": "tuː", "say": "tuu", "es": "2", "icon": "✌️", "anchor": "<b>tú</b>nel 🚇", "tip": "Alarga la u y sopla en la t. Two = tú-u." },
+        { "en": "ten", "ipa": "tɛn", "say": "ten", "es": "10", "icon": "🔟", "anchor": "¡<b>ten</b>! (toma) 🤲", "tip": "Igual que «¡ten, toma!», con un soplido en la t." },
+        { "en": "thirteen", "ipa": "ˌθɝˈtiːn", "say": "zertíin", "es": "13", "icon": "1️⃣", "anchor": "zer + <b>tín</b>ta 🖋️", "tip": "El final -teen suena como «tin» de «tinta», pero largo y con fuerza: zer-TÍIN." },
+        { "en": "twenty", "ipa": "ˈtwɛnti", "say": "tuénti", "es": "20", "icon": "📱", "anchor": "<b>Tuenti</b> 📱", "tip": "La red social española se llamaba así por twenty. Deprisa, muchos dicen <code>tuéni</code> (mapa C-03)." },
+        { "en": "forty", "ipa": "ˈfɔrɾi", "say": "fórdi", "es": "40", "icon": "🚗", "anchor": "un <b>Ford</b> + i 🚗", "tip": "Di «Ford» y añade una i: FÓR-di. Ojo: se escribe forty, ¡sin u!" },
+        { "en": "hundred", "ipa": "ˈhʌndrəd", "say": "jándrəd", "es": "100", "icon": "💯", "anchor": "<b>Jandr</b>o 👦", "tip": "Jandro (Alejandro) con j suave y la o final cambiada por «əd»: JÁN-drəd." },
+        { "en": "dollar", "ipa": "ˈdɑlɚ", "say": "dáler", "es": "dólar", "icon": "💵", "anchor": "¡<b>dale</b>! + r 💵", "tip": "Di «¡dale!» y añade la r americana: DÁ-ler. ¡Nada de «dólar»!" },
+        { "en": "double", "ipa": "ˈdʌbəl", "say": "dábəl", "es": "doble", "icon": "🔁", "anchor": "<b>Dábal</b>e arroz… 🍚", "tip": "Como el palíndromo «Dábale arroz a la zorra el abad». Double five = 55 (más británico)." },
+        { "en": "oh", "ipa": "oʊ", "say": "ou", "es": "cero (0)", "icon": "⭕", "anchor": "¡<b>oh</b>! + u 😮", "tip": "Casi: «¡oh!» cerrando en u. Es el 0 de teléfonos, años y horas: nine oh five." },
+        { "en": "million", "ipa": "ˈmɪljən", "say": "míliən", "es": "millón", "icon": "🤑", "anchor": "<b>Mili</b> + ən 👧", "tip": "Como el nombre Mili + ən: MÍ-liən. ¡No digas «mi-LLÓN»!" },
+        { "en": "billion", "ipa": "ˈbɪljən", "say": "bíliən", "es": "mil millones", "icon": "🌍", "anchor": "<s>billón</s> ⚠️ → <b>BÍ</b>liən", "tip": "¡Falso amigo! A billion = 1,000,000,000 = mil millones, NO un billón español." }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "thirteen", "es": "13" },
+        { "q": "thirty", "es": "30" },
+        { "q": "fifteen", "es": "15" },
+        { "q": "fifty", "es": "50" },
+        { "q": "nineteen ninety", "es": "1990" },
+        { "q": "point five", "es": ",5 (decimal)" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "13-19 frente a 30-90",
+      "title_en": "Teens vs. tens",
+      "icon": "⚖️",
+      "head": ["-teen", "Suena", "-ty", "Suena"],
+      "rows": [
+        ["13 · thirteen", "<code>zertíin</code>", "30 · thirty", "<code>zérdi</code>"],
+        ["14 · fourteen", "<code>fortíin</code>", "40 · forty", "<code>fórdi</code>"],
+        ["15 · fifteen", "<code>fiftíin</code>", "50 · fifty", "<code>fífti</code>"],
+        ["16 · sixteen", "<code>sikstíin</code>", "60 · sixty", "<code>síksti</code>"],
+        ["17 · seventeen", "<code>sevəntíin</code>", "70 · seventy", "<code>sévənti</code>"],
+        ["18 · eighteen", "<code>eitíin</code>", "80 · eighty", "<code>éiri</code>"],
+        ["19 · nineteen", "<code>naintíin</code>", "90 · ninety", "<code>náinti</code>"]
+      ],
+      "note": "Pistas seguras: <b>-teen</b> = ii larga + T clara + n · <b>-ty</b> = i cortita + toque suave. Y el 20: twenty <code>tuénti</code>.",
+      "note_en": "Safe clues: -teen has a long ee, a clear T and an n; -ty has a short i."
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Fechas y horas",
+      "title_en": "Dates and times",
+      "icon": "🕗",
+      "head": ["Escrito · Written", "Se dice · Said", "Suena · Sounds like"],
+      "rows": [
+        ["May 3 / May 3rd", "May third", "<code>mei zérd</code>"],
+        ["July 4", "July fourth", "<code>yulái fórz</code>"],
+        ["December 25", "December twenty-fifth", "<code>disémber tuénti fífz</code>"],
+        ["1st · 2nd · 3rd", "first · second · third", "<code>ferst</code> · <code>sékənd</code> · <code>zerd</code>"],
+        ["7:15", "seven fifteen / a quarter after seven", "<code>sévən fiftíin</code> / <code>ə kwórder ǽfter sévən</code>"],
+        ["7:30", "seven thirty", "<code>sévən zérdi</code>"],
+        ["7:45", "seven forty-five / a quarter to eight", "<code>sévən fórdi fáiv</code> / <code>ə kwórder tə éit</code>"],
+        ["9:05", "nine oh five", "<code>náin ou fáiv</code>"],
+        ["8:00", "eight o'clock", "<code>éit əklák</code>"],
+        ["10 a.m. · 10 p.m.", "ten a.m. · ten p.m.", "<code>ten ei ém</code> · <code>ten pii ém</code>"]
+      ],
+      "note": "En EE. UU. la fecha va <b>mes/día/año</b>: 7/4 es el <b>4 de julio</b>, ¡no el 7 de abril! Y las horas casi siempre se dicen tal cual: seven fifteen.",
+      "note_en": "In the US, dates go month/day/year: 7/4 is July fourth."
+    },
+    {
+      "t": "pairs",
+      "title": "¿Teen o ty?",
+      "title_en": "Teen or ty?",
+      "icon": "👂",
+      "items": [
+        {
+          "a": { "en": "thirteen", "ipa": "ˌθɝˈtiːn", "say": "zertíin", "es": "13", "icon": "1️⃣" },
+          "b": { "en": "thirty", "ipa": "ˈθɝɾi", "say": "zérdi", "es": "30", "icon": "3️⃣" },
+          "tip": "TÍIN largo con n frente a ZÉR-di con toque suave."
+        },
+        {
+          "a": { "en": "fourteen", "ipa": "ˌfɔrˈtiːn", "say": "fortíin", "es": "14", "icon": "🍀" },
+          "b": { "en": "forty", "ipa": "ˈfɔrɾi", "say": "fórdi", "es": "40", "icon": "🚗" },
+          "tip": "Fourteen lleva u; forty, no. ¡Y suenan distinto!"
+        },
+        {
+          "a": { "en": "fifteen", "ipa": "ˌfɪfˈtiːn", "say": "fiftíin", "es": "15", "icon": "🖐️" },
+          "b": { "en": "fifty", "ipa": "ˈfɪfti", "say": "fífti", "es": "50", "icon": "💵" },
+          "tip": "Aquí las dos T son t de verdad: la diferencia está en la ii larga y la n."
+        },
+        {
+          "a": { "en": "nineteen", "ipa": "ˌnaɪnˈtiːn", "say": "naintíin", "es": "19", "icon": "⚽" },
+          "b": { "en": "ninety", "ipa": "ˈnaɪnti", "say": "náinti", "es": "90", "icon": "💯" },
+          "tip": "Deprisa, ninety suena casi <code>náini</code>; nineteen nunca pierde su T."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "I'm thirteen.", "say": "aim zertíin", "es": "Tengo trece años.", "icon": "🎂" },
+        { "en": "My grandpa is eighty.", "say": "mai grǽnpa is éiri", "es": "Mi abuelo tiene ochenta.", "icon": "👴" },
+        { "en": "Is it fifteen or fifty? — Fifty.", "say": "ísit fiftíin or fífti? fífti", "es": "¿Son quince o cincuenta? — Cincuenta.", "icon": "💵" },
+        { "en": "The bus leaves at seven fifteen.", "say": "də bás líivs ət sévən fiftíin", "es": "El bus sale a las siete y cuarto.", "icon": "🚌" },
+        { "en": "My number is 555-0174.", "say": "mai námber is fáiv fáiv fáiv, ou wan sévən for", "es": "Mi número es el 555-0174.", "icon": "📞" },
+        { "en": "I was born in two thousand twelve.", "say": "ai wəs bórn in tuu záusənd twélv", "es": "Nací en 2012.", "icon": "👶" },
+        { "en": "My birthday is May third.", "say": "mai bérzdei is mei zérd", "es": "Mi cumpleaños es el 3 de mayo.", "icon": "🎈" },
+        { "en": "It's ninety percent chocolate!", "say": "its náinti persént cháklət!", "es": "¡Es chocolate al noventa por ciento!", "icon": "🍫" },
+        { "en": "The answer is two point five.", "say": "di ǽnser is tuu póint fáiv", "es": "La respuesta es 2,5.", "icon": "✏️" },
+        { "en": "My class has thirty kids.", "say": "mai klǽs jæs zérdi kíds", "es": "Mi clase tiene treinta niños.", "icon": "🏫" },
+        { "en": "A billion has nine zeros.", "say": "ə bíliən jæs náin sírous", "es": "Mil millones tiene nueve ceros.", "icon": "🤑" },
+        { "en": "It's a quarter to eight.", "say": "its ə kwórder tə éit", "es": "Son las ocho menos cuarto.", "icon": "⏰" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "fifteen → <code>fíftin</code> (i corta, golpe delante)", "good": "<code>fiftíin</code>", "why": "Alarga la ii, golpe al final y que se oiga la n. Si no, ¡te entienden 50!", "why_en": "Make the ee long and say the n." },
+        { "bad": "thirty → <code>zérti</code> (T fuerte)", "good": "<code>zérdi</code>", "why": "Tras la R, la T es un toque suave, casi d (mapa C-02).", "why_en": "After R, the T is a soft tap." },
+        { "bad": "2,5 → two comma five", "good": "two <b>point</b> five", "why": "En inglés los decimales llevan punto y se dice point.", "why_en": "Decimals use a point." },
+        { "bad": "a billion = un billón", "good": "a billion = mil millones", "why": "¡Falso amigo! 1,000,000,000 en inglés es a billion.", "why_en": "A billion is a thousand million." },
+        { "bad": "two hundreds dollars", "good": "two hundred dollars", "why": "Con un número delante, hundred, thousand y million no llevan -s.", "why_en": "No -s on hundred after a number." },
+        { "bad": "911 → nine eleven", "good": "nine one one", "why": "El teléfono de emergencias se dice cifra a cifra.", "why_en": "Say emergency numbers digit by digit." },
+        { "bad": "7/4 → el 7 de abril", "good": "July fourth (4 de julio)", "why": "En EE. UU. la fecha va mes/día.", "why_en": "US dates are month/day." },
+        { "bad": "$5 → dollars five", "good": "five dollars", "why": "El $ se escribe delante, pero se dice detrás.", "why_en": "Write $ first, but say it after the number." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En la tienda",
+      "title_en": "At the store",
+      "lines": [
+        { "who": "Mario", "en": "Excuse me, how much is this cap?", "say": "ikskiúus mi, jau mách is dis kǽp?", "es": "Perdone, ¿cuánto cuesta esta gorra?" },
+        { "who": "Mike", "en": "It's thirteen.", "say": "its zertíin", "es": "Trece." },
+        { "who": "Mario", "en": "Thirteen or thirty?", "say": "zertíin or zérdi?", "es": "¿Trece o treinta?" },
+        { "who": "Mike", "en": "Thirteen. One, three.", "say": "zertíin. wan, zríi", "es": "Trece. Uno, tres." },
+        { "who": "Mario", "en": "Great! And this T-shirt?", "say": "gréit! ən dis tíishert?", "es": "¡Genial! ¿Y esta camiseta?" },
+        { "who": "Mike", "en": "That one is nineteen fifty.", "say": "dǽt wan is náintiin fífti", "es": "Esa cuesta 19,50." },
+        { "who": "Mario", "en": "OK. Here's forty dollars.", "say": "oukéi. jirs fórdi dálers", "es": "Vale. Aquí tiene cuarenta dólares." },
+        { "who": "Mike", "en": "Here's your seven fifty. Have a nice day!", "say": "jirs ier sévən fífti. jæv ə náis déi!", "es": "Aquí tiene sus 7,50. ¡Que tenga un buen día!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        { "es": "Di los -teen con la mano delante de la boca: nota el <b>soplido</b> de la T y alarga la ii: zer-<b>TÍIN</b>.", "en": "Say the teens with your hand in front of your mouth." },
+        { "es": "Di los -ty con un toque suave y la i cortita: <b>ZÉR</b>-di, <b>FÓR</b>-di, <b>ÉI</b>-ri.", "en": "Say the tens with a soft tap and a short i." },
+        { "es": "Juega por parejas: di 13 o 30, 14 o 40… y que tu compañero señale el número que oye.", "en": "Play in pairs: say a number and let your partner point to it." },
+        { "es": "Lee en voz alta precios, horas y años de tu día: el ticket del súper, el horario del cole…", "en": "Read real prices, times and years aloud." },
+        { "es": "Si dudas, aclara como un americano: «Fifteen, <b>one-five</b>» o «Fifty, <b>five-oh</b>».", "en": "When in doubt, clarify: one-five or five-oh." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas numéricos",
+      "title_en": "Number tongue twisters",
+      "items": [
+        { "en": "Is it thirteen or thirty? It's thirty, not thirteen!", "say": "ísit zertíin or zérdi? its zérdi, nat zertíin!", "es": "¿Son trece o treinta? ¡Treinta, no trece!" },
+        { "en": "Forty-four funny frogs found forty-four flies.", "say": "fórdi for fáni frags fáund fórdi for fláis", "es": "Cuarenta y cuatro ranas graciosas encontraron cuarenta y cuatro moscas." },
+        { "en": "Sixty-six sticky sticks? No, sixteen!", "say": "síksti siks stíki stíks? nou, sikstíin!", "es": "¿Sesenta y seis palitos pegajosos? ¡No, dieciséis!" }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de la n",
+      "title_en": "The n trick",
+      "es": "Si dudas, busca la <b>n</b>: los -teen terminan en un <code>tíin</code> largo y con n; los -ty terminan en una i cortita. Y si aun así no lo tienes claro, haz como los americanos: pide las cifras una a una. «Fifteen? <b>One-five</b>?» 😉",
+      "en": "Listen for the n: teens end in a long -teen with n, tens end in a short i. Or ask: one-five?"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Qué número es?",
+      "title_en": "Which number is it?",
+      "icon": "🔍",
+      "es": "Lee la pronunciación figurada en voz alta y rodea el número.",
+      "en": "Read the sound-alike spelling aloud and circle the number.",
+      "items": [
+        { "q": "<code>zertíin</code> → [13|30]", "a": "13" },
+        { "q": "<code>zérdi</code> → [13|30]", "a": "30" },
+        { "q": "<code>fórdi</code> → [14|40]", "a": "40" },
+        { "q": "<code>fortíin</code> → [14|40]", "a": "14" },
+        { "q": "<code>fiftíin</code> → [15|50]", "a": "15" },
+        { "q": "<code>fífti</code> → [15|50]", "a": "50" },
+        { "q": "<code>síksti</code> → [16|60]", "a": "60" },
+        { "q": "<code>sikstíin</code> → [16|60]", "a": "16" },
+        { "q": "<code>éiri</code> → [18|80]", "a": "80" },
+        { "q": "<code>naintíin</code> → [19|90]", "a": "19" }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Escribe el número con letras",
+      "title_en": "Spell the number",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe el número en inglés. ¡Ojo con forty!",
+      "en": "Unscramble the letters and spell the number.",
+      "items": [
+        { "q": "13", "a": "thirteen" },
+        { "q": "30", "a": "thirty" },
+        { "q": "40", "a": "forty" },
+        { "q": "14", "a": "fourteen" },
+        { "q": "15", "a": "fifteen" },
+        { "q": "50", "a": "fifty" },
+        { "q": "80", "a": "eighty" },
+        { "q": "90", "a": "ninety" }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une número y sonido",
+      "title_en": "Match number and sound",
+      "icon": "🔗",
+      "es": "Une cada número con su pronunciación figurada.",
+      "en": "Match each number with how it sounds.",
+      "pairs": [
+        ["13", "<code>zertíin</code>"],
+        ["30", "<code>zérdi</code>"],
+        ["14", "<code>fortíin</code>"],
+        ["40", "<code>fórdi</code>"],
+        ["18", "<code>eitíin</code>"],
+        ["80", "<code>éiri</code>"],
+        ["19", "<code>naintíin</code>"],
+        ["90", "<code>náinti</code>"]
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte de cada número dicho solo.",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        { "syl": ["thir", "teen"], "s": 1, "es": "13" },
+        { "syl": ["thir", "ty"], "s": 0, "es": "30" },
+        { "syl": ["four", "teen"], "s": 1, "es": "14" },
+        { "syl": ["for", "ty"], "s": 0, "es": "40" },
+        { "syl": ["fif", "teen"], "s": 1, "es": "15" },
+        { "syl": ["fif", "ty"], "s": 0, "es": "50" },
+        { "syl": ["six", "teen"], "s": 1, "es": "16" },
+        { "syl": ["six", "ty"], "s": 0, "es": "60" },
+        { "syl": ["eigh", "teen"], "s": 1, "es": "18" },
+        { "syl": ["per", "cent"], "s": 1, "es": "por ciento" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Cómo suena la T?",
+      "title_en": "How does the T sound?",
+      "icon": "🗂️",
+      "es": "Di cada número y escríbelo en su columna según cómo suena su T.",
+      "en": "Say each number and sort it by its T sound.",
+      "cats": [
+        { "name": "💨 T con soplido", "words": ["thirteen", "fourteen", "fifteen", "eighteen", "nineteen"] },
+        { "name": "🪶 Toque suave", "words": ["thirty", "forty", "eighty"] },
+        { "name": "🅃 T normal", "words": ["fifty", "sixty"] },
+        { "name": "👻 Tras n: se esconde", "words": ["twenty", "seventy", "ninety"] }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        { "q": "1️⃣ thirteen → ____", "a": "zertíin" },
+        { "q": "3️⃣ thirty → ____", "a": "zérdi" },
+        { "q": "🚗 forty → ____", "a": "fórdi" },
+        { "q": "👴 eighty → ____", "a": "éiri" },
+        { "q": "💵 fifty → ____", "a": "fífti" },
+        { "q": "💯 hundred → ____", "a": "jándrəd" },
+        { "q": "🔟 thousand → ____", "a": "záusənd" },
+        { "q": "🤑 million → ____", "a": "míliən" },
+        { "q": "💵 dollar → ____", "a": "dáler" },
+        { "q": "📊 percent → ____", "a": "persént" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "In «thirteen», the strong syllable is TEEN.", "a": true },
+        { "q": "In American «thirty», the T sounds like a soft d or r.", "a": true },
+        { "q": "40 is spelled «fourty».", "a": false, "why": "se escribe forty" },
+        { "q": "Americans usually say phone numbers digit by digit.", "a": true },
+        { "q": "In English, 2,5 is written 2.5 and said «two point five».", "a": true },
+        { "q": "«A billion» is the same as a Spanish «billón».", "a": false, "why": "a billion = mil millones" },
+        { "q": "In the US, 7/4 means April 7th.", "a": false, "why": "es el 4 de julio (mes/día)" },
+        { "q": "$3.50 is often said «three fifty».", "a": true }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "¿Cómo se dice?",
+      "title_en": "How do you say it?",
+      "icon": "📋",
+      "es": "Escribe con letras cómo se dice cada número.",
+      "en": "Write how each number is said.",
+      "head": ["Escrito · Written", "Se dice · Said"],
+      "rows": [
+        ["1999", "?nineteen ninety-nine"],
+        ["2008", "?two thousand eight"],
+        ["2025", "?twenty twenty-five"],
+        ["$4.75", "?four seventy-five"],
+        ["0.5", "?(zero) point five"],
+        ["9:05", "?nine oh five"],
+        ["May 3", "?May third"],
+        ["40 %", "?forty percent"],
+        ["1,500", "?fifteen hundred"],
+        ["911", "?nine one one"]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "🗣️",
+      "es": "Escribe la pronunciación figurada de cada número o frase.",
+      "en": "Write how each number sounds.",
+      "items": [
+        { "q": "14", "a": "fortíin" },
+        { "q": "40", "a": "fórdi" },
+        { "q": "2025", "a": "tuénti tuénti fáiv" },
+        { "q": "$3.50", "a": "zríi fífti" },
+        { "q": "7:45", "a": "sévən fórdi fáiv" },
+        { "q": "80 %", "a": "éiri persént" },
+        { "q": "May 3rd", "a": "mei zérd" },
+        { "q": "1905", "a": "náintiin ou fáiv" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige el fallo",
+      "title_en": "Fix the mistake",
+      "icon": "🩹",
+      "es": "Cada número está mal dicho. Escríbelo bien.",
+      "en": "Each number is said wrong. Fix it.",
+      "items": [
+        { "q": "13 → <code>zérdi</code>", "a": "zertíin" },
+        { "q": "40 → <code>fórti</code> (T fuerte)", "a": "fórdi" },
+        { "q": "2,5 → two comma five", "a": "two point five" },
+        { "q": "200 → two hundreds", "a": "two hundred" },
+        { "q": "911 → nine eleven", "a": "nine one one" },
+        { "q": "$5 → dollars five", "a": "five dollars" },
+        { "q": "50 → <code>fiftíin</code>", "a": "fífti" },
+        { "q": "million → <code>miyón</code>", "a": "míliən" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta.",
+      "en": "Translate into English and say it aloud.",
+      "items": [
+        { "q": "Tengo trece años.", "a": "I'm thirteen. (aim zertíin)" },
+        { "q": "Mi abuela tiene ochenta años.", "a": "My grandma is eighty. (mai grǽnma is éiri)" },
+        { "q": "Son las siete y media.", "a": "It's seven thirty. (its sévən zérdi)" },
+        { "q": "Cuesta 15 dólares.", "a": "It's fifteen dollars. (its fíftiin dálers)" },
+        { "q": "Nací en 2010.", "a": "I was born in twenty ten. (ai wəs bórn in tuénti tén)" },
+        { "q": "Mi cumpleaños es el 4 de julio.", "a": "My birthday is July fourth. (mai bérzdei is yulái fórz)" },
+        { "q": "Dos coma cinco.", "a": "Two point five. (tuu póint fáiv)" },
+        { "q": "El cincuenta por ciento.", "a": "Fifty percent. (fífti persént)" },
+        { "q": "Mil millones.", "a": "A billion. (ə bíliən)" },
+        { "q": "Llama al 911.", "a": "Call nine one one. (kol náin wan wán)" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada línea 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each line three times and tick a box each time.",
+      "items": [
+        { "q": "thirteen, thirty", "say": "zertíin, zérdi" },
+        { "q": "fourteen, forty", "say": "fortíin, fórdi" },
+        { "q": "fifteen, fifty", "say": "fiftíin, fífti" },
+        { "q": "nineteen ninety-nine", "say": "náintiin náinti náin" },
+        { "q": "twenty twenty-five", "say": "tuénti tuénti fáiv" },
+        { "q": "It's three fifty.", "say": "its zríi fífti" },
+        { "q": "My number is 555-0174.", "say": "mai námber is fáiv fáiv fáiv, ou wan sévən for" },
+        { "q": "two point five", "say": "tuu póint fáiv" },
+        { "q": "It's a quarter to eight.", "say": "its ə kwórder tə éit" },
+        { "q": "fifty percent", "say": "fífti persént" }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza los números",
+      "title_en": "Read and find the numbers",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Tyler's birthday",
+      "text": [
+        "Tyler is turning thirteen on May third. His party starts at four thirty, and thirty kids are coming!",
+        "His mom buys a cake for forty-five dollars and fifteen balloons. Grandpa, who is eighty, gives Tyler a card with fifty dollars inside. “Fifty? Not fifteen?” Tyler asks. “Fifty! Five-oh!” says Grandpa."
+      ],
+      "items": [
+        { "q": "How old is Tyler going to be?", "a": "Thirteen (13)." },
+        { "q": "When does the party start?", "a": "At four thirty (4:30)." },
+        { "q": "How much is the cake?", "a": "Forty-five dollars ($45)." },
+        { "q": "Fifteen kids are coming to the party.", "tf": true, "a": false, "why": "vienen 30 niños; 15 son los globos" },
+        { "q": "Grandpa is eighty years old.", "tf": true, "a": true },
+        { "q": "Grandpa says «five-oh» to make the number clear.", "tf": true, "a": true }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de números",
+      "title_en": "Number word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 number words.",
+      "words": ["thirteen", "thirty", "fourteen", "forty", "fifteen", "fifty", "eighty", "hundred", "million", "percent"],
+      "clues": ["thirteen · 13", "thirty · 30", "fourteen · 14", "forty · 40", "fifteen · 15", "fifty · 50", "eighty · 80", "hundred · 100", "million · millón", "percent · por ciento"]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases con números, léelas en voz alta y grábate.",
+      "en": "Write your own sentences with numbers and record yourself.",
+      "items": [
+        { "q": "Tu cumpleaños y el año en que naciste, con letras.", "lines": 2, "a": "Ej.: My birthday is October twelfth. I was born in twenty fifteen." },
+        { "q": "Lo que cuestan 3 cosas que te gustan (en dólares).", "lines": 2, "a": "Ej.: A pizza is twelve ninety-nine." },
+        { "q": "Tu horario: a qué hora te levantas, comes y te acuestas.", "lines": 2, "a": "Ej.: I get up at seven fifteen." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Distingo <b>thirTEEN</b> de <b>THIRty</b> (y 14/40… 19/90).", "en": "I can tell thirteen from thirty." },
+    { "es": "Digo thirty, forty y eighty con toque suave: <code>zérdi</code>, <code>fórdi</code>, <code>éiri</code>.", "en": "I say thirty, forty and eighty with a soft tap." },
+    { "es": "Digo los años de dos en dos: nineteen ninety-nine.", "en": "I can say years." },
+    { "es": "Digo los teléfonos cifra a cifra, con <b>oh</b> para el 0.", "en": "I can say phone numbers." },
+    { "es": "Sé decir precios y decimales: three fifty, two point five.", "en": "I can say prices and decimals." },
+    { "es": "Sé que a billion son mil millones y que 7/4 es el 4 de julio.", "en": "I know what a billion is and how US dates work." }
+  ]
+}

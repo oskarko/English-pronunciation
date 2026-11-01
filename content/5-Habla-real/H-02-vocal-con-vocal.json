@@ -1,0 +1,816 @@
+{
+  "id": "H-02",
+  "block": "H",
+  "title": "VOCAL CON VOCAL",
+  "file_title": "Vocal con vocal (puentes de i, w y R)",
+  "subtitle": "Linking vowels · go out = «gou-wáut»",
+  "icon": "🌉",
+  "map": {
+    "center": "Si una palabra acaba en <b>vocal</b> y la siguiente empieza por <b>vocal</b>, se unen con un <b>puente</b>: <span style=\"white-space:nowrap\">go out = <code>gou-wáut</code></span>.",
+    "listen": "go out",
+    "nodes": [
+      {
+        "title": "Puente de i",
+        "icon": "🙂",
+        "color": "green",
+        "items": [
+          "tras <b>ii, i, ei, ai, oi</b>",
+          "I am → <code>ai-iǽm</code>",
+          "the end → <code>di-iénd</code>"
+        ]
+      },
+      {
+        "title": "Puente de w",
+        "icon": "😗",
+        "color": "blue",
+        "items": [
+          "tras <b>uu, u, ou, au</b>",
+          "go out → <code>gou-wáut</code>",
+          "do it → <code>dúu-wit</code>"
+        ]
+      },
+      {
+        "title": "La R de enlace",
+        "icon": "🔗",
+        "color": "purple",
+        "rows": [
+          ["far away", "<code>fárəwéi</code>"],
+          ["where is", "<code>wéris</code>"],
+          ["after all", "<code>ǽfteról</code>"]
+        ]
+      },
+      {
+        "title": "¿Cuál uso?",
+        "icon": "🪞",
+        "color": "orange",
+        "items": [
+          "labios en <b>sonrisa</b> → i",
+          "labios en <b>beso</b> → w",
+          "acaba en <b>R</b> → la R se pasa"
+        ]
+      },
+      {
+        "title": "THE, A, TO cambian",
+        "icon": "🔄",
+        "color": "pink",
+        "items": [
+          "the → <code>di</code>: the end",
+          "a → <b>an</b>: an egg",
+          "to → <code>tu</code>: to eat"
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "El puente es <b>suavecito</b>: una i o una u rapidísimas, nunca la y fuerte de «yo».",
+        "art": "🌉"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["<code>ai… ǽm</code> (con corte)"],
+      "good": ["<code>ai-iǽm</code> 🙂"],
+      "note": "Sin cortes: las dos vocales suenan, unidas"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "🙋 I am → ____", "a": "ai-iǽm" },
+        { "q": "🚪 go out → ____", "a": "gou-wáut" },
+        { "q": "🎬 the end → ____", "a": "di-iénd" },
+        { "q": "🍽️ to eat → ____", "a": "tu-wíit" },
+        { "q": "🚀 far away → ____", "a": "fárəwéi" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué pasa entre dos vocales?",
+      "title_en": "What happens between two vowels?",
+      "icon": "🔎",
+      "es": "En el mapa H-01 viste que consonante + vocal se pegan. Pero ¿y si una palabra acaba en <b>vocal</b> y la siguiente también empieza por <b>vocal</b>? En español solemos <b>fundirlas</b> («la alarma» → «lalarma»). En inglés <mark>las dos vocales se oyen</mark>, y entre ellas aparece un <b>puentecito</b>: una <b>i</b> rapidita, una <b>w</b> suave o, si hay R, la propia <b>R</b>. Así: I am → <code>ai-iǽm</code>, go out → <code>gou-wáut</code>, far away → <code>fárəwéi</code>.",
+      "en": "When a vowel meets a vowel, English adds a tiny bridge: a quick «y» sound, a soft «w», or the R.",
+      "formula": [
+        "vocal + *puente* + vocal",
+        "go + *w* + out → *gou-wáut*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "lips",
+          "es": "Si la primera palabra acaba con los labios en <b>beso</b> 😗 (go, do, how), al abrir hacia la vocal siguiente sale sola una <b>w</b>.",
+          "en": "Round lips at the end (go, do, how) make a little «w»."
+        },
+        {
+          "part": "tongue",
+          "es": "Si acaba en <b>sonrisa</b> 🙂 (I, see, say), la lengua está alta y delante: al pasar a la otra vocal sale una <b>i</b> rapidita.",
+          "en": "A smile at the end (I, see, say) makes a little «y» sound."
+        },
+        {
+          "part": "voice",
+          "es": "La voz <b>no se corta</b>: nada de golpes de garganta entre las dos vocales. Es un deslizamiento suave.",
+          "en": "Don't stop your voice between the two vowels."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · El puente de i",
+      "title_en": "The «y» bridge",
+      "icon": "🙂",
+      "es": "Después de las vocales que terminan en <b>sonrisa</b> (<code>ii</code>, <code>i</code>, <code>ei</code>, <code>ai</code>, <code>oi</code>) aparece una <b>i</b> cortísima antes de la vocal siguiente. Es el sonido /j/, pero <mark>muy suave</mark>: nada de la y fuerte de «yo» o «llave».",
+      "en": "After vowels that end in a smile (see, say, I, boy), a quick /j/ links to the next vowel.",
+      "formula": [
+        "I + *i* + am → *ai-iǽm*",
+        "the + *i* + end → *di-iénd*"
+      ],
+      "examples": [
+        { "en": "I am", "say": "ai-iǽm", "es": "yo soy / estoy", "icon": "🙋" },
+        { "en": "the end", "say": "di-iénd", "es": "el fin", "icon": "🎬" },
+        { "en": "three apples", "say": "zríi-iǽpəls", "es": "tres manzanas", "icon": "🍎" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · El puente de w",
+      "title_en": "The «w» bridge",
+      "icon": "😗",
+      "es": "Después de las vocales que terminan en <b>beso</b> (<code>uu</code>, <code>u</code>, <code>ou</code>, <code>au</code>) los labios redondos crean una <b>w</b> suave. Como en español «hueso» o «huevo», pero cortita. Go out no suena «gout»: suena <code>gou-wáut</code>.",
+      "en": "After vowels that end with round lips (do, go, how), a soft /w/ links to the next vowel.",
+      "formula": [
+        "go + *w* + out → *gou-wáut*",
+        "do + *w* + it → *dúu-wit*"
+      ],
+      "examples": [
+        { "en": "go out", "say": "gou-wáut", "es": "salir", "icon": "🚪" },
+        { "en": "do it", "say": "dúu-wit", "es": "hazlo", "icon": "💪" },
+        { "en": "two eggs", "say": "túu-wégs", "es": "dos huevos", "icon": "🍳" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · La R de enlace",
+      "title_en": "Linking R",
+      "icon": "🔗",
+      "es": "En americano la <b>R final siempre suena</b> (far, where, after). Si la palabra siguiente empieza por vocal, esa R hace de puente y <b>se pasa</b> a la siguiente sílaba: far away → «fa-ra-wéi». Recuerda: es la R americana del mapa C-01, sin vibrar.",
+      "en": "In American English, final R is always pronounced. Before a vowel, it links: far away → «fa-ra-way».",
+      "formula": [
+        "far + away → fa-*r*ə-wéi",
+        "where + is → wé-*r*is"
+      ],
+      "examples": [
+        { "en": "far away", "say": "fárəwéi", "es": "muy lejos", "icon": "🚀" },
+        { "en": "Where is it?", "say": "wérisit", "es": "¿Dónde está?", "icon": "🔍" },
+        { "en": "after all", "say": "ǽfteról", "es": "al fin y al cabo", "icon": "🤷" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · THE, A y TO se adaptan",
+      "title_en": "THE, A and TO change",
+      "icon": "🔄",
+      "es": "Tres palabras pequeñas acaban en schwa (<code>ə</code>) y, delante de vocal, <b>cambian</b> para no chocar: <b>the</b> pasa de <code>də</code> a <code>di</code> (lo verás en C-05), <b>a</b> se convierte en <b>an</b> (H-01) y <b>to</b> pasa de <code>tə</code> a <code>tu</code>. ¡Y después llega el puente!",
+      "en": "Before a vowel, «the» becomes «di», «a» becomes «an» and «to» becomes «tu».",
+      "examples": [
+        { "en": "the apple", "say": "di-iǽpəl", "es": "la manzana", "icon": "🍏" },
+        { "en": "an egg", "say": "ənég", "es": "un huevo", "icon": "🥚" },
+        { "en": "to eat", "say": "tu-wíit", "es": "comer", "icon": "🍽️" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · También dentro de la palabra",
+      "title_en": "Inside words too",
+      "icon": "🔬",
+      "es": "El puente no es solo entre palabras: aparece también <b>dentro</b> de las palabras con dos vocales seguidas. Por eso going suena <code>góu-wing</code> y science suena <code>sái-iəns</code>. Si lo haces en las palabras, ¡ya sabes hacerlo en las frases!",
+      "en": "The same bridges appear inside words: going, science, video.",
+      "examples": [
+        { "en": "going", "say": "góu-wing", "es": "yendo", "icon": "🏃" },
+        { "en": "science", "say": "sái-iəns", "es": "ciencia", "icon": "🧪" },
+        { "en": "video", "say": "vídi-iou", "es": "vídeo", "icon": "📹" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "the end",
+          "ipa": "ðiˈɛnd",
+          "say": "di-iénd",
+          "es": "el fin",
+          "icon": "🎬",
+          "anchor": "<b>dien</b>te 🦷",
+          "tip": "Di «diente» sin «te», con la d suave de «nada»: dién(d). ¡El final de las pelis!"
+        },
+        {
+          "en": "the eggs",
+          "ipa": "ðiˈɛɡz",
+          "say": "di-iégs",
+          "es": "los huevos",
+          "icon": "🥚",
+          "anchor": "<b>Dieg</b>o 👦",
+          "tip": "«Diego, pásame the eggs»: di-IÉGS, con una s final que zumba."
+        },
+        {
+          "en": "the answer",
+          "ipa": "ðiˈænsɚ",
+          "say": "di-iǽnser",
+          "es": "la respuesta",
+          "icon": "✅",
+          "anchor": "<b>Dian</b>a 🎯",
+          "tip": "«Dian» + «ser». Abre la a como sonriendo: di-IǼN-ser."
+        },
+        {
+          "en": "buy a",
+          "ipa": "ˈbaɪ.ə",
+          "say": "bái-iə",
+          "es": "comprar un / una",
+          "icon": "🛒",
+          "anchor": "¡<b>vaya</b>! 😮",
+          "tip": "Buy a ticket = «¡vaya tíkit!». La y muy suave, casi una i."
+        },
+        {
+          "en": "to eat",
+          "ipa": "tuˈiːt",
+          "say": "tu-wíit",
+          "es": "comer",
+          "icon": "🍽️",
+          "anchor": "un <b>tuit</b> 🐦",
+          "tip": "Alarga la i: «tu-wiiit». Something to eat = algo de comer."
+        },
+        {
+          "en": "two eggs",
+          "ipa": "ˌtuːˈɛɡz",
+          "say": "túu-wégs",
+          "es": "dos huevos",
+          "icon": "🍳",
+          "anchor": "<b>tu hue</b>vo 🥚",
+          "tip": "«Tu hue…»: de la u pasas a la e con una w. ¡Desayuno listo!"
+        },
+        {
+          "en": "no idea",
+          "ipa": "ˌnoʊaɪˈdiə",
+          "say": "nou-waidíiə",
+          "es": "ni idea",
+          "icon": "🤷",
+          "anchor": "<b>no hay día</b> 📅",
+          "tip": "Di «nou» (con u final) y pega: nou-wai-DÍ-ə."
+        },
+        {
+          "en": "go out",
+          "ipa": "ɡoʊˈaʊt",
+          "say": "gou-wáut",
+          "es": "salir",
+          "icon": "🐶",
+          "anchor": "¡<b>guau</b>! 🐕",
+          "tip": "Casi: Rocky ladra «¡guau!» porque quiere salir. Sin g y con t: gou-WÁUT."
+        },
+        {
+          "en": "far away",
+          "ipa": "ˌfɑrəˈweɪ",
+          "say": "fárəwéi",
+          "es": "muy lejos",
+          "icon": "🚀",
+          "anchor": "<b>fara</b>ón 👑",
+          "tip": "«Fara» + «wéi», con R americana (C-01): la r de far se pasa a away."
+        },
+        {
+          "en": "door is",
+          "ipa": "ˈdɔrɪz",
+          "say": "dóris",
+          "es": "la puerta está",
+          "icon": "🚪",
+          "anchor": "<b>Dory</b> + s 🐟",
+          "tip": "Como Dory, la amiga de Nemo, + s. The door is open = <code>də dóris óupən</code>."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "I am", "es": "yo soy / estoy" },
+        { "q": "go out", "es": "salir" },
+        { "q": "the end", "es": "el fin" },
+        { "q": "far away", "es": "muy lejos" },
+        { "q": "no idea", "es": "ni idea" },
+        { "q": "how are you", "es": "¿qué tal estás?" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Qué puente uso?",
+      "title_en": "Which bridge?",
+      "icon": "🧭",
+      "head": ["La 1.ª palabra acaba en…", "Labios", "Puente", "Ejemplo", "Suena"],
+      "rows": [
+        ["<code>ii</code> (see, me, three)", "sonrisa 🙂", "i", "three apples", "<code>zríi-iǽpəls</code>"],
+        ["<code>ei</code> (say, play, day)", "sonrisa 🙂", "i", "play it", "<code>pléi-it</code>"],
+        ["<code>ai</code> (I, my, why)", "sonrisa 🙂", "i", "I am", "<code>ai-iǽm</code>"],
+        ["<code>oi</code> (boy, toy, enjoy)", "sonrisa 🙂", "i", "enjoy it", "<code>enyói-it</code>"],
+        ["<code>uu</code> (do, you, two)", "beso 😗", "w", "do it", "<code>dúu-wit</code>"],
+        ["<code>ou</code> (go, no, so)", "beso 😗", "w", "go out", "<code>gou-wáut</code>"],
+        ["<code>au</code> (how, now)", "beso 😗", "w", "how are you", "<code>jáu-wer iu</code>"],
+        ["<b>r</b> (far, where, after)", "R americana", "r", "far away", "<code>fárəwéi</code>"],
+        ["<code>ə</code> (the, a, to)", "relajados", "cambia la palabra", "the apple", "<code>di-iǽpəl</code>"]
+      ],
+      "note": "Truco: termina la primera vocal y <b>mira tus labios</b>. ¿Sonrisa? Sale una i. ¿Beso? Sale una w. ¿Acaba en R? La R se pasa a la palabra siguiente.",
+      "note_en": "Check your lips: a smile gives a «y» bridge, a kiss gives a «w» bridge, and R links by itself."
+    },
+    {
+      "t": "compare",
+      "title": "Español frente a inglés",
+      "title_en": "Spanish vs. English",
+      "icon": "⚖️",
+      "es": "El español <b>funde</b> las vocales; el inglés <b>las separa con un puente</b>.",
+      "en": "Spanish blends vowels together; English keeps both and adds a bridge.",
+      "cols": [
+        {
+          "head": "🇪🇸 Español: se funden",
+          "color": "orange",
+          "items": [
+            "mi amigo → «mia-mi-go»",
+            "la alarma → «la-lar-ma»",
+            "lo otro → «lo-tro»",
+            "una vocal se come a la otra"
+          ]
+        },
+        {
+          "head": "🇺🇸 Inglés: puente",
+          "color": "blue",
+          "items": [
+            "I am → <code>ai-iǽm</code>",
+            "go out → <code>gou-wáut</code>",
+            "the apple → <code>di-iǽpəl</code>",
+            "¡las dos vocales se oyen!"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "Puentes dentro de las palabras",
+      "title_en": "Bridges inside words",
+      "icon": "🔬",
+      "cols": 3,
+      "items": [
+        { "en": "going", "es": "<code>góu-wing</code> · yendo", "icon": "🏃" },
+        { "en": "doing", "es": "<code>dúu-wing</code> · haciendo", "icon": "🛠️" },
+        { "en": "science", "es": "<code>sái-iəns</code> · ciencia", "icon": "🧪" },
+        { "en": "quiet", "es": "<code>kwái-iət</code> · tranquilo", "icon": "🤫" },
+        { "en": "idea", "es": "<code>aidíi-iə</code> · idea", "icon": "💡" },
+        { "en": "video", "es": "<code>vídi-iou</code> · vídeo", "icon": "📹" },
+        { "en": "radio", "es": "<code>réidi-iou</code> · radio", "icon": "📻" },
+        { "en": "piano", "es": "<code>pi-iǽnou</code> · piano", "icon": "🎹" },
+        { "en": "lion", "es": "<code>lái-iən</code> · león", "icon": "🦁" },
+        { "en": "create", "es": "<code>kri-iéit</code> · crear", "icon": "🎨" },
+        { "en": "flower", "es": "<code>fláu-wer</code> · flor", "icon": "🌸" },
+        { "en": "shower", "es": "<code>sháu-wer</code> · ducha", "icon": "🚿" }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "How are you?", "spoken": "How-wer-you?", "say": "jáu-wer iu", "es": "¿Qué tal estás?" },
+        { "written": "Go away!", "spoken": "Go-wa-way!", "say": "gou-wəwéi", "es": "¡Vete!" },
+        { "written": "I agree.", "spoken": "I-ya-gree.", "say": "ai-iəgríi", "es": "Estoy de acuerdo." },
+        { "written": "Do it again!", "spoken": "Do-wi-dagain!", "say": "dúu-wirəguén", "es": "¡Hazlo otra vez!" },
+        { "written": "Where are you?", "spoken": "Wher-er-you?", "say": "wérer iu", "es": "¿Dónde estás?" },
+        { "written": "No idea!", "spoken": "No-wy-dea!", "say": "nou-waidíiə", "es": "¡Ni idea!" },
+        { "written": "The end", "spoken": "Thee-yend", "say": "di-iénd", "es": "Fin" },
+        { "written": "See you at eight!", "spoken": "See you-wa-deight!", "say": "síi iu-wəréit", "es": "¡Nos vemos a las ocho!" }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "I am ready!", "say": "ai-iǽm réri", "es": "¡Estoy listo!", "icon": "💪" },
+        { "en": "Let's go out!", "say": "lets gou-wáut", "es": "¡Vamos a salir!", "icon": "🎈" },
+        { "en": "Three apples, please.", "say": "zríi-iǽpəls, pliis", "es": "Tres manzanas, por favor.", "icon": "🍎" },
+        { "en": "Do it now!", "say": "dúu-wit náu", "es": "¡Hazlo ya!", "icon": "⚡" },
+        { "en": "Something to eat?", "say": "sámzing tu-wíit", "es": "¿Algo de comer?", "icon": "🍕" },
+        { "en": "Go away, Rocky!", "say": "gou-wəwéi, ráki", "es": "¡Vete, Rocky!", "icon": "🐶" },
+        { "en": "How old are you?", "say": "jau-wóulder iu", "es": "¿Cuántos años tienes?", "icon": "🎂" },
+        { "en": "My house is far away.", "say": "mai jáusis fárəwéi", "es": "Mi casa está muy lejos.", "icon": "🏠" },
+        { "en": "Where is my phone?", "say": "wéris mai fóun", "es": "¿Dónde está mi móvil?", "icon": "📱" },
+        { "en": "Enjoy it!", "say": "enyói-it", "es": "¡Disfrútalo!", "icon": "🎉" },
+        { "en": "Tell me the answer.", "say": "tel mi di-iǽnser", "es": "Dime la respuesta.", "icon": "✅" },
+        { "en": "Lucía is so angry!", "say": "lusíiə is sou-wǽngri", "es": "¡Lucía está muy enfadada!", "icon": "😠" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "I am → <code>ai… ǽm</code> (con corte)",
+          "good": "<code>ai-iǽm</code>",
+          "why": "No pares la voz: de la i de I pasas a am con una i rapidita.",
+          "why_en": "Don't stop: glide from I into am."
+        },
+        {
+          "bad": "I am → <code>ai yǽm</code> (y fuerte)",
+          "good": "<code>ai-iǽm</code>",
+          "why": "El puente es una i suavecita, no la y fuerte de «yo» o de «llama».",
+          "why_en": "The bridge is a soft «y», not a strong one."
+        },
+        {
+          "bad": "go out → <code>gaut</code> (una sílaba)",
+          "good": "<code>gou-wáut</code>",
+          "why": "Las dos vocales se oyen. Si las fundes, ¡suena a gout, la gota (enfermedad)!",
+          "why_en": "Keep both vowels, or it sounds like «gout»."
+        },
+        {
+          "bad": "the end → <code>də énd</code>",
+          "good": "<code>di-iénd</code>",
+          "why": "Delante de vocal, the suena «di» (mapa C-05) y se une a end con un puente de i.",
+          "why_en": "Before a vowel, «the» sounds like «di»."
+        },
+        {
+          "bad": "to eat → <code>tə íit</code>",
+          "good": "<code>tu-wíit</code>",
+          "why": "Delante de vocal, to no se queda en ə: suena «tu» y se une con w.",
+          "why_en": "Before a vowel, «to» sounds like «tu» + w."
+        },
+        {
+          "bad": "far away → <code>fa-awéi</code> (sin R)",
+          "good": "<code>fárəwéi</code>",
+          "why": "En americano la R final siempre suena, y aquí además se pasa a away.",
+          "why_en": "American R is always pronounced and links."
+        },
+        {
+          "bad": "the apple → <code>dǽpəl</code> (vocales fundidas)",
+          "good": "<code>di-iǽpəl</code>",
+          "why": "En español fundimos («la alarma» → «lalarma»). En inglés, las dos vocales suenan.",
+          "why_en": "Don't blend the vowels like in Spanish."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¿Salimos?",
+      "title_en": "Shall we go out?",
+      "lines": [
+        { "who": "Ashley", "en": "Hi, Mario! Let's go out!", "say": "jai, mário! lets gou-wáut!", "es": "¡Hola, Mario! ¡Salgamos!" },
+        { "who": "Mario", "en": "Sure! Where are we going?", "say": "shur! wérer wi góu-wing?", "es": "¡Vale! ¿Adónde vamos?" },
+        { "who": "Ashley", "en": "To the aquarium. It's not far away.", "say": "tə di-iəkwériəm. its nat fárəwéi", "es": "Al acuario. No está lejos." },
+        { "who": "Mario", "en": "I agree! I love the octopus.", "say": "ai-iəgríi! ai lav di-iáktəpəs", "es": "¡Vale! Me encanta el pulpo." },
+        { "who": "Ashley", "en": "Me too! Who else is coming?", "say": "mi túu! juu-wélsis káming?", "es": "¡Y a mí! ¿Quién más viene?" },
+        { "who": "Mario", "en": "Just Lucía. She's so excited!", "say": "yast lusíiə. shiis sou-wiksáirid!", "es": "Solo Lucía. ¡Está emocionadísima!" },
+        { "who": "Ashley", "en": "Great! Three of us, then.", "say": "gréit! zríi-iəvás, den", "es": "¡Genial! Somos tres, pues." },
+        { "who": "Mario", "en": "Go on, I'm right behind you!", "say": "gou-wán, aim rait bijáind iu!", "es": "¡Tú delante, voy detrás de ti!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        { "es": "Di la primera palabra y <b>congela</b> la boca en su última vocal. ¿Cómo están tus labios?", "en": "Freeze your mouth on the last vowel." },
+        { "es": "¿Sonrisa (ii, ei, ai, oi)? Añade una <b>i</b> rapidita: «ai-iǽm». ¿Beso (uu, ou, au)? Añade una <b>w</b>: «gou-wáut».", "en": "Smile → add «y». Kiss → add «w»." },
+        { "es": "¿Acaba en R? Pasa la R a la palabra siguiente: «fa-rə-wéi».", "en": "Ends in R? Move the R to the next word." },
+        { "es": "Ahora sin congelar: une las dos palabras con el puente, <b>muy suave</b>, sin cortar la voz.", "en": "Now link them smoothly, without stopping your voice." },
+        { "es": "Escanea los QR, escucha 3 vídeos y <b>grábate</b>. ¿Se oyen las dos vocales? ¡Perfecto!", "en": "Listen, record yourself and compare." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "Do I owe you two euros?", "say": "dúu-wai-ióu iu túu iúrous?", "es": "¿Te debo dos euros?" },
+        { "en": "Go out and see if Ann is in the igloo.", "say": "gou-wáurən síi-if ǽnisin di-ígluu", "es": "Sal y mira si Ann está en el iglú." },
+        { "en": "Two owls and three eagles flew away.", "say": "túu-wáulsən zríi-íigəls flúu-wəwéi", "es": "Dos búhos y tres águilas se fueron volando." }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del espejo",
+      "title_en": "The mirror trick",
+      "es": "Antes de una vocal, mírate los labios 🪞: ¿<b>sonrisa</b> 🙂? → puente de i. ¿<b>Beso</b> 😗? → puente de w. ¿<b>R</b>? → la R se pasa. Y recuerda: el puente es un <mark>susurro, no un muro</mark>. Si lo haces muy fuerte suena raro; si no lo haces, suena a robot. 🤖",
+      "en": "Smile → «y» bridge. Kiss → «w» bridge. R → it links. The bridge is a whisper, not a wall."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Qué puente?",
+      "title_en": "Which bridge?",
+      "icon": "🌉",
+      "es": "Di las dos palabras y rodea el puente que aparece entre ellas: <b>i</b>, <b>w</b> o <b>r</b>.",
+      "en": "Say the two words and circle the bridge: i, w or r.",
+      "items": [
+        { "q": "I am → [i|w|r]", "a": "i" },
+        { "q": "go out → [i|w|r]", "a": "w" },
+        { "q": "far away → [i|w|r]", "a": "r" },
+        { "q": "the end → [i|w|r]", "a": "i" },
+        { "q": "do it → [i|w|r]", "a": "w" },
+        { "q": "where is → [i|w|r]", "a": "r" },
+        { "q": "say it → [i|w|r]", "a": "i" },
+        { "q": "how old → [i|w|r]", "a": "w" },
+        { "q": "after all → [i|w|r]", "a": "r" },
+        { "q": "enjoy it → [i|w|r]", "a": "i" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Sonrisa o beso?",
+      "title_en": "Smile or kiss?",
+      "icon": "🪞",
+      "es": "Di la palabra y fíjate en tus labios al final. Rodea <b>sonrisa</b> o <b>beso</b>.",
+      "en": "Say the word and check your lips at the end.",
+      "items": [
+        { "q": "see → [sonrisa|beso]", "a": "sonrisa" },
+        { "q": "go → [sonrisa|beso]", "a": "beso" },
+        { "q": "my → [sonrisa|beso]", "a": "sonrisa" },
+        { "q": "two → [sonrisa|beso]", "a": "beso" },
+        { "q": "play → [sonrisa|beso]", "a": "sonrisa" },
+        { "q": "now → [sonrisa|beso]", "a": "beso" },
+        { "q": "boy → [sonrisa|beso]", "a": "sonrisa" },
+        { "q": "know → [sonrisa|beso]", "a": "beso" },
+        { "q": "three → [sonrisa|beso]", "a": "sonrisa" },
+        { "q": "who → [sonrisa|beso]", "a": "beso" }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une lo escrito con lo que suena",
+      "title_en": "Match written and spoken",
+      "icon": "🔗",
+      "es": "Une cada frase con su pronunciación figurada.",
+      "en": "Match each phrase with how it sounds.",
+      "pairs": [
+        ["I am", "<code>ai-iǽm</code>"],
+        ["go out", "<code>gou-wáut</code>"],
+        ["the end", "<code>di-iénd</code>"],
+        ["to eat", "<code>tu-wíit</code>"],
+        ["far away", "<code>fárəwéi</code>"],
+        ["no idea", "<code>nou-waidíiə</code>"],
+        ["two eggs", "<code>túu-wégs</code>"],
+        ["where is", "<code>wéris</code>"]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica por puente",
+      "title_en": "Sort by bridge",
+      "icon": "🗂️",
+      "es": "Di cada frase y escríbela en la columna de su puente.",
+      "en": "Say each phrase and sort it by its bridge.",
+      "cats": [
+        { "name": "🙂 Puente de i", "words": ["I am", "the end", "say it", "three apples", "my own"] },
+        { "name": "😗 Puente de w", "words": ["go out", "do it", "two eggs", "how old", "no idea"] },
+        { "name": "🔗 La R se pasa", "words": ["far away", "where is", "after all", "four eggs", "more and more"] }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "In «go out», there is a little w between the words.", "a": true },
+        { "q": "In «I am», the bridge is a strong Spanish «y», like in «yo».", "a": false, "why": "es una i muy suave" },
+        { "q": "Before a vowel, «the» sounds like «di».", "a": true },
+        { "q": "In American English, the R in «far» is silent.", "a": false, "why": "la R americana siempre suena" },
+        { "q": "In «far away», the R moves to «away».", "a": true },
+        { "q": "In English, we blend «the apple» into «dǽpəl».", "a": false, "why": "las dos vocales suenan: di-iǽpəl" },
+        { "q": "After «see», «my» or «say» comes an «i» bridge.", "a": true },
+        { "q": "«Going» has a little w in the middle.", "a": true }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la frase con su puente (un guion y la i, la w o la r). Pon tilde en la parte fuerte.",
+      "en": "Write each phrase with its bridge, Spanish-style.",
+      "items": [
+        { "q": "🍳 two eggs → ____", "a": "túu-wégs" },
+        { "q": "💪 do it → ____", "a": "dúu-wit" },
+        { "q": "🍎 three apples → ____", "a": "zríi-iǽpəls" },
+        { "q": "🤷 no idea → ____", "a": "nou-waidíiə" },
+        { "q": "🔍 where is → ____", "a": "wéris" },
+        { "q": "🍏 the apple → ____", "a": "di-iǽpəl" },
+        { "q": "🎉 enjoy it → ____", "a": "enyói-it" },
+        { "q": "🤷 after all → ____", "a": "ǽfteról" },
+        { "q": "🏃 going → ____", "a": "góu-wing" },
+        { "q": "🧪 science → ____", "a": "sái-iəns" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Qué palabra cambia?",
+      "title_en": "Which form?",
+      "icon": "🔄",
+      "es": "Delante de vocal, the, a y to cambian. Rodea la forma correcta.",
+      "en": "Circle the right form before the next word.",
+      "items": [
+        { "q": "[də|di] end", "a": "di" },
+        { "q": "[də|di] dog", "a": "də" },
+        { "q": "[a|an] orange", "a": "an" },
+        { "q": "[a|an] cookie", "a": "a" },
+        { "q": "It's time [tə|tu] eat.", "a": "tu" },
+        { "q": "It's time [tə|tu] go.", "a": "tə" },
+        { "q": "[də|di] answer", "a": "di" },
+        { "q": "[də|di] park", "a": "də" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «Puente» escribe i, w o r.",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Español", "Puente", "Suena"],
+      "rows": [
+        ["I am", "yo soy", "?i", "?ai-iǽm"],
+        ["go out", "?salir", "w", "?gou-wáut"],
+        ["?far away", "muy lejos", "?r", "fárəwéi"],
+        ["the end", "?el fin", "?i", "di-iénd"],
+        ["to eat", "comer", "?w", "?tu-wíit"],
+        ["?two eggs", "dos huevos", "w", "túu-wégs"],
+        ["where is", "?dónde está", "?r", "wéris"],
+        ["no idea", "ni idea", "?w", "?nou-waidíiə"]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Dibuja el puente",
+      "title_en": "Write the bridge",
+      "icon": "🌉",
+      "es": "Escribe la frase poniendo el puente en pequeño entre las palabras: <i>go out → go (w) out, I am → I (i) am</i>.",
+      "en": "Write the bridge sound between the words.",
+      "items": [
+        { "q": "I am", "a": "I (i) am" },
+        { "q": "go out", "a": "go (w) out" },
+        { "q": "the end", "a": "the (i) end" },
+        { "q": "do it", "a": "do (w) it" },
+        { "q": "far away", "a": "fa (r) away" },
+        { "q": "see it", "a": "see (i) it" },
+        { "q": "how are you", "a": "how (w) are you" },
+        { "q": "my own", "a": "my (i) own" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo (vocales fundidas, cortes o puentes equivocados). Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "I am → <code>ai ǽm</code> (con corte)", "a": "ai-iǽm" },
+        { "q": "go out → <code>gaut</code>", "a": "gou-wáut" },
+        { "q": "the end → <code>də énd</code>", "a": "di-iénd" },
+        { "q": "to eat → <code>tə íit</code>", "a": "tu-wíit" },
+        { "q": "far away → <code>fa-awéi</code>", "a": "fárəwéi" },
+        { "q": "do it → <code>dúu-iit</code>", "a": "dúu-wit (puente de w)" },
+        { "q": "the apple → <code>dǽpəl</code>", "a": "di-iǽpəl" },
+        { "q": "no idea → <code>nai-díiə</code>", "a": "nou-waidíiə" }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena y dilo con puentes",
+      "title_en": "Put in order and say it",
+      "icon": "🧩",
+      "es": "Ordena las palabras. Después di la frase con todos sus puentes.",
+      "en": "Put the words in order, then say the sentence with its bridges.",
+      "items": [
+        { "q": "out / go / Let's", "a": "Let's go out" },
+        { "q": "ready / am / I", "a": "I am ready" },
+        { "q": "is / Where / phone / my", "a": "Where is my phone" },
+        { "q": "away / Go / Rocky", "a": "Go away, Rocky" },
+        { "q": "old / How / are / you", "a": "How old are you" },
+        { "q": "eat / to / Something", "a": "Something to eat" },
+        { "q": "it / now / Do", "a": "Do it now" },
+        { "q": "the / Tell / answer / me", "a": "Tell me the answer" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con su puente.",
+      "en": "Translate into English and say it with the bridge.",
+      "items": [
+        { "q": "salir", "a": "go out (gou-wáut)" },
+        { "q": "el fin", "a": "the end (di-iénd)" },
+        { "q": "muy lejos", "a": "far away (fárəwéi)" },
+        { "q": "ni idea", "a": "no idea (nou-waidíiə)" },
+        { "q": "hazlo", "a": "do it (dúu-wit)" },
+        { "q": "dos huevos", "a": "two eggs (túu-wégs)" },
+        { "q": "comer", "a": "to eat (tu-wíit)" },
+        { "q": "¡Disfrútalo!", "a": "Enjoy it! (enyói-it)" },
+        { "q": "la respuesta", "a": "the answer (di-iǽnser)" },
+        { "q": "¿Dónde está?", "a": "Where is it? (wérisit)" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) sin cortar la voz y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "How are you?", "say": "jáu-wer iu?" },
+        { "q": "I agree.", "say": "ai-iəgríi" },
+        { "q": "Let's go out!", "say": "lets gou-wáut!" },
+        { "q": "Do it again!", "say": "dúu-wirəguén!" },
+        { "q": "Three apples, please.", "say": "zríi-iǽpəls, pliis" },
+        { "q": "My house is far away.", "say": "mai jáusis fárəwéi" },
+        { "q": "Who else is coming?", "say": "juu-wélsis káming?" },
+        { "q": "Do I owe you two euros?", "say": "dúu-wai-ióu iu túu iúrous?" }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de puentes",
+      "title_en": "Bridge word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con un puente <b>dentro</b> (dos vocales seguidas que suenan). Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 words with a bridge inside.",
+      "words": ["going", "doing", "science", "quiet", "idea", "video", "radio", "piano", "lion", "flower"],
+      "clues": [
+        "going · yendo",
+        "doing · haciendo",
+        "science · ciencia",
+        "quiet · tranquilo",
+        "idea · idea",
+        "video · vídeo",
+        "radio · radio",
+        "piano · piano",
+        "lion · león",
+        "flower · flor"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza los puentes",
+      "title_en": "Read and find the bridges",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta, con todos sus puentes. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "A day at the zoo",
+      "text": [
+        "Tyler and Lucía go out to the zoo. They see a lion and three eagles. “I am so happy!” says Lucía.",
+        "Then they eat ice cream. “Do it again next week?” asks Tyler. “No idea,” says Lucía. “The zoo is far away.”"
+      ],
+      "items": [
+        { "q": "How does «go out» sound?", "a": "<code>gou-wáut</code> (puente de w)" },
+        { "q": "How does «the zoo is» sound?", "a": "<code>də súu-wis</code>" },
+        { "q": "Write two examples with an «i» bridge from the text.", "a": "I am, see a, three eagles, they eat, lion (cualquiera)" },
+        { "q": "Lucía is happy at the zoo.", "tf": true, "a": true },
+        { "q": "In «far away», the R is silent.", "tf": true, "a": false, "why": "la R se pasa: <code>fárəwéi</code>" },
+        { "q": "«No idea» has a w bridge after «no».", "tf": true, "a": true }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con puentes. Marca el puente entre paréntesis, léelas y grábate.",
+      "en": "Write three sentences with bridges and record yourself.",
+      "items": [
+        { "q": "Una frase con <b>go out</b>, <b>do it</b> o <b>two</b> + vocal (puente de w).", "lines": 2, "a": "Ej.: Let's go (w) out tonight!" },
+        { "q": "Una frase con <b>I am</b>, <b>the</b> + vocal o <b>three</b> + vocal (puente de i).", "lines": 2, "a": "Ej.: I (i) am at the (i) airport." },
+        { "q": "Una frase con <b>far away</b>, <b>where is</b> o <b>after all</b> (R de enlace).", "lines": 2 }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Uno vocal + vocal con un puente de i: <code>ai-iǽm</code>, <code>di-iénd</code>.", "en": "I can link with a «y» bridge." },
+    { "es": "Uno vocal + vocal con un puente de w: <code>gou-wáut</code>, <code>dúu-wit</code>.", "en": "I can link with a «w» bridge." },
+    { "es": "Paso la R a la palabra siguiente: <code>fárəwéi</code>, <code>wéris</code>.", "en": "I can use linking R." },
+    { "es": "Sé cuándo the suena «di» y to suena «tu».", "en": "I know when «the» is «di» and «to» is «tu»." },
+    { "es": "No fundo las vocales como en español: ¡las dos suenan!", "en": "I don't blend vowels together." },
+    { "es": "Puedo decir «Two owls and three eagles flew away» de un tirón.", "en": "I can say the owl tongue twister." }
+  ]
+}

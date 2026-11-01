@@ -1,0 +1,1904 @@
+{
+  "id": "P-01",
+  "block": "P",
+  "title": "PALABRAS QUE YA USAS",
+  "file_title": "Palabras que ya usas (cognados y préstamos)",
+  "subtitle": "Words you already know · ¡pero en americano!",
+  "icon": "🍕",
+  "map": {
+    "center": "Se escriben casi igual que en español… ¡pero <b>suenan distinto</b>! Cambia el <b>golpe</b> o cambian las <b>vocales</b>.",
+    "listen": "chocolate",
+    "nodes": [
+      {
+        "title": "El golpe se mueve",
+        "icon": "🎯",
+        "color": "green",
+        "rows": [
+          [
+            "hospital",
+            "<code>jáspirəl</code>"
+          ],
+          [
+            "robot",
+            "<code>róubat</code>"
+          ],
+          [
+            "menu",
+            "<code>méniu</code>"
+          ]
+        ]
+      },
+      {
+        "title": "La O final → OU",
+        "icon": "📻",
+        "color": "blue",
+        "rows": [
+          [
+            "radio",
+            "<code>réidiou</code>"
+          ],
+          [
+            "video",
+            "<code>vídiou</code>"
+          ],
+          [
+            "piano",
+            "<code>piǽnou</code>"
+          ]
+        ]
+      },
+      {
+        "title": "La A cambia",
+        "icon": "🍌",
+        "color": "purple",
+        "rows": [
+          [
+            "taxi",
+            "<code>tǽksi</code>"
+          ],
+          [
+            "banana",
+            "<code>bənǽnə</code>"
+          ],
+          [
+            "pizza",
+            "<code>píitsə</code>"
+          ]
+        ]
+      },
+      {
+        "title": "La I que dice AI",
+        "icon": "💡",
+        "color": "orange",
+        "rows": [
+          [
+            "idea",
+            "<code>aidíiə</code>"
+          ],
+          [
+            "Wi-Fi",
+            "<code>wáifai</code>"
+          ],
+          [
+            "vitamin",
+            "<code>váirəmin</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Letras con truco",
+        "icon": "🤫",
+        "color": "pink",
+        "items": [
+          "la <b>h</b> suena: hotel <code>joutél</code>",
+          "<b>ch</b> = sh: chef <code>shef</code>",
+          "sin d: sandwich <code>sǽnwich</code>"
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Antes de decirla, piensa: ¿dónde va el <b>golpe</b>? ¿qué <b>vocales</b> cambian? ¡No la leas en español!",
+        "art": "🍕"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "¿La clave del <code>uífi</code>?"
+      ],
+      "good": [
+        "<code>wáifai</code> 📶"
+      ],
+      "note": "¡Dos «ai»! Como «guay» + «fai»."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🍫 chocolate → ____",
+          "a": "cháklət"
+        },
+        {
+          "q": "📻 radio → ____",
+          "a": "réidiou"
+        },
+        {
+          "q": "🍕 pizza → ____",
+          "a": "píitsə"
+        },
+        {
+          "q": "💡 idea → ____",
+          "a": "aidíiə"
+        },
+        {
+          "q": "🍔 hamburger → ____",
+          "a": "jǽmberguer"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¡Cuidado con las palabras fáciles!",
+      "title_en": "Watch out for the easy words!",
+      "icon": "🔎",
+      "es": "Hotel, chocolate, pizza, radio… Te las sabes de memoria y por eso son <mark>las más traicioneras</mark>: tu cerebro las lee en español sin darse cuenta. Pero en inglés americano casi nunca suenan igual. Fíjate en tres cosas: dónde va el <b>golpe</b> (mapa R-01), qué <b>vocales</b> cambian y qué <b>letras</b> tienen truco. ¡Vas a pedir pizza como en Nueva York! 🍕 (Las marcas y los nombres propios, en el mapa P-02.)",
+      "en": "Words like hotel, chocolate or pizza look Spanish, but they don't sound Spanish. Watch the stress, the vowels and the tricky letters.",
+      "formula": [
+        "misma palabra escrita ≠ mismo *sonido*"
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · El golpe cambia de sitio",
+      "title_en": "The stress moves",
+      "icon": "🎯",
+      "es": "Muchas palabras que en español son <b>agudas</b> (golpe al final) en inglés llevan el golpe <b>delante</b>: hospi<b>TAL</b> → <b>HOS</b>pital, ani<b>MAL</b> → <b>AN</b>imal, ro<b>BOT</b> → <b>RO</b>bot. Si mantienes el golpe español, al americano le cuesta reconocer la palabra.",
+      "en": "Many words stressed at the end in Spanish are stressed at the beginning in English: HOSpital, ANimal, RObot.",
+      "formula": [
+        "ani*MAL* → *ǼN*əməl"
+      ],
+      "examples": [
+        {
+          "en": "hospital",
+          "say": "jáspirəl",
+          "es": "hospital",
+          "icon": "🏥"
+        },
+        {
+          "en": "animal",
+          "say": "ǽnəməl",
+          "es": "animal",
+          "icon": "🐾"
+        },
+        {
+          "en": "robot",
+          "say": "róubat",
+          "es": "robot",
+          "icon": "🤖"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · La O final suena OU",
+      "title_en": "Final O sounds like OU",
+      "icon": "📻",
+      "es": "En español la o final es redondita y corta. En inglés americano casi siempre se convierte en <code>ou</code>: <mark>no es «no», es «nou»</mark> (lo verás en el mapa V-08). radio → <code>réidiou</code>, piano → <code>piǽnou</code>.",
+      "en": "A final O usually sounds like «ou» in American English: radio, video, piano.",
+      "formula": [
+        "radi*o* → réidi*ou*"
+      ],
+      "examples": [
+        {
+          "en": "radio",
+          "say": "réidiou",
+          "es": "radio",
+          "icon": "📻"
+        },
+        {
+          "en": "video",
+          "say": "vídiou",
+          "es": "vídeo",
+          "icon": "🎬"
+        },
+        {
+          "en": "piano",
+          "say": "piǽnou",
+          "es": "piano",
+          "icon": "🎹"
+        },
+        {
+          "en": "tomato",
+          "say": "təméirou",
+          "es": "tomate",
+          "icon": "🍅"
+        },
+        {
+          "en": "avocado",
+          "say": "ævəkádou",
+          "es": "aguacate",
+          "icon": "🥑"
+        },
+        {
+          "en": "mango",
+          "say": "mǽngou",
+          "es": "mango",
+          "icon": "🥭"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · La A cambia",
+      "title_en": "The A changes",
+      "icon": "🍌",
+      "es": "La a española casi nunca se queda igual. Si es <b>fuerte</b>, suele ser <code>æ</code>, una a con boca de e (mapa V-03): <b>TAX</b>i. Si es <b>débil</b>, se encoge a <code>ə</code> (mapa V-01): pizz<b>a</b>. Y a veces suena <code>ei</code>: r<b>a</b>dio, tom<b>a</b>to.",
+      "en": "A stressed A often sounds like /æ/; a weak A becomes a schwa /ə/; sometimes it sounds like «ei».",
+      "examples": [
+        {
+          "en": "taxi",
+          "say": "tǽksi",
+          "es": "taxi",
+          "icon": "🚕"
+        },
+        {
+          "en": "banana",
+          "say": "bənǽnə",
+          "es": "plátano",
+          "icon": "🍌"
+        },
+        {
+          "en": "pizza",
+          "say": "píitsə",
+          "es": "pizza",
+          "icon": "🍕"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · La I que dice AI",
+      "title_en": "The I that says «ai»",
+      "icon": "💡",
+      "es": "En algunas palabras la i suena <code>ai</code>, como en «b<b>ai</b>le»: <b>i</b>dea, W<b>i</b>-F<b>i</b>, v<b>i</b>tamin. ¡Y ojo!: los británicos dicen VIT-a-min, pero los americanos, VAI-ta-min. En otras palabras la i es una <code>ii</code> larga: pizza → <code>píitsə</code>.",
+      "en": "In some words the letter I sounds like «ai»: idea, Wi-Fi, vitamin, virus.",
+      "formula": [
+        "*i*dea → *ai*díiə"
+      ],
+      "examples": [
+        {
+          "en": "idea",
+          "say": "aidíiə",
+          "es": "idea",
+          "icon": "💡"
+        },
+        {
+          "en": "Wi-Fi",
+          "say": "wáifai",
+          "es": "wifi",
+          "icon": "📶"
+        },
+        {
+          "en": "vitamin",
+          "say": "váirəmin",
+          "es": "vitamina",
+          "icon": "💊"
+        },
+        {
+          "en": "virus",
+          "say": "váirəs",
+          "es": "virus",
+          "icon": "🦠"
+        },
+        {
+          "en": "diet",
+          "say": "dáiət",
+          "es": "dieta",
+          "icon": "🥗"
+        },
+        {
+          "en": "pilot",
+          "say": "páilət",
+          "es": "piloto",
+          "icon": "👩‍✈️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Letras con truco",
+      "title_en": "Tricky letters",
+      "icon": "🤫",
+      "es": "En español la <b>h</b> es muda («otel»); en inglés <mark>sí suena</mark>, suave como un vaho: <code>joutél</code> (mapa C-06). La <b>ch</b> de chef suena <code>sh</code>, como mandar callar 🤫. Chocolate pierde una sílaba (<code>cháklət</code>), en sandwich la <b>d</b> casi no se oye y la <b>u</b> de music suena <code>iu</code>: <code>miúusik</code>.",
+      "en": "The H in hotel is pronounced, CH in chef sounds like SH, and chocolate has only two syllables.",
+      "examples": [
+        {
+          "en": "hotel",
+          "say": "joutél",
+          "es": "hotel",
+          "icon": "🏨"
+        },
+        {
+          "en": "chef",
+          "say": "shef",
+          "es": "chef, cocinero/a",
+          "icon": "👨‍🍳"
+        },
+        {
+          "en": "chocolate",
+          "say": "cháklət",
+          "es": "chocolate",
+          "icon": "🍫"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "idea",
+          "ipa": "aɪˈdiə",
+          "say": "aidíiə",
+          "es": "idea",
+          "icon": "💡",
+          "anchor": "«<b>ay</b>» + «<b>día</b>»",
+          "tip": "Una buena idea: «¡ay!» + «día» → ai-DÍI-ə. La a final, flojita."
+        },
+        {
+          "en": "radio",
+          "ipa": "ˈreɪdioʊ",
+          "say": "réidiou",
+          "es": "radio",
+          "icon": "📻",
+          "anchor": "el <b>rey dio</b> la noticia 👑",
+          "tip": "Di «rey dio» con la fuerza en REY y acaba en «ou»: RÉI-diou."
+        },
+        {
+          "en": "Wi-Fi",
+          "ipa": "ˈwaɪfaɪ",
+          "say": "wáifai",
+          "es": "wifi",
+          "icon": "📶",
+          "anchor": "¡qué <b>guay</b>! + <b>fai</b>",
+          "tip": "Dos «ai»: WÁI-fai. Nada de «uífi»."
+        },
+        {
+          "en": "chef",
+          "ipa": "ʃɛf",
+          "say": "shef",
+          "es": "chef, cocinero/a",
+          "icon": "👨‍🍳",
+          "anchor": "<b>¡shh!</b> 🤫 + <b>ef</b>e",
+          "tip": "Manda callar y di la F a medias: sh-ef. ¡Nada de ch!"
+        },
+        {
+          "en": "sandwich",
+          "ipa": "ˈsænwɪtʃ",
+          "say": "sǽnwich",
+          "es": "sándwich",
+          "icon": "🥪",
+          "anchor": "<b>sángüich</b> 🥪",
+          "tip": "¡Así lo dicen muchos españoles y casi aciertan! Quita la g (y la d): SǼN-wich."
+        },
+        {
+          "en": "football",
+          "ipa": "ˈfʊtbɔl",
+          "say": "fútbol",
+          "es": "fútbol americano",
+          "icon": "🏈",
+          "anchor": "<b>fútbol</b> ⚽",
+          "tip": "Suena casi igual… ¡pero en EE. UU. es el fútbol americano! El nuestro es soccer: <code>sáker</code>."
+        },
+        {
+          "en": "camera",
+          "ipa": "ˈkæmərə",
+          "say": "kǽmərə",
+          "es": "cámara (de fotos)",
+          "icon": "📷",
+          "anchor": "<b>cá</b>mara 📷",
+          "tip": "Mismo golpe que en español; la primera a es æ y las otras se encogen: KǼ-mə-rə."
+        },
+        {
+          "en": "internet",
+          "ipa": "ˈɪntɚˌnɛt",
+          "say": "ínternet",
+          "es": "internet",
+          "icon": "🌐",
+          "anchor": "<s>internet</s> → <b>ÍN</b>ternet",
+          "tip": "Golpe delante. Muchos americanos se comen la T: <code>ínernet</code> (mapa C-03)."
+        },
+        {
+          "en": "animal",
+          "ipa": "ˈænəməl",
+          "say": "ǽnəməl",
+          "es": "animal",
+          "icon": "🐾",
+          "anchor": "<s>animal</s> → <b>Ǽ</b>nəməl",
+          "tip": "Golpe delante y las otras dos sílabas, muy flojitas: ǼN-ə-məl."
+        },
+        {
+          "en": "menu",
+          "ipa": "ˈmɛnju",
+          "say": "méniu",
+          "es": "menú, carta",
+          "icon": "📋",
+          "anchor": "<s>menú</s> → <b>MÉ</b>niu",
+          "tip": "Al revés que en español: MÉ-niu."
+        },
+        {
+          "en": "robot",
+          "ipa": "ˈroʊbɑt",
+          "say": "róubat",
+          "es": "robot",
+          "icon": "🤖",
+          "anchor": "<s>robot</s> → <b>RÓU</b>bat",
+          "tip": "Golpe delante, «ou» al principio y la o de bot suena a: RÓU-bat."
+        },
+        {
+          "en": "vitamin",
+          "ipa": "ˈvaɪɾəmɪn",
+          "say": "váirəmin",
+          "es": "vitamina",
+          "icon": "💊",
+          "anchor": "<s>vitamina</s> → <b>VÁI</b>rəmin",
+          "tip": "VAI con «ai», T de toque (r) y sin a final."
+        },
+        {
+          "en": "doctor",
+          "ipa": "ˈdɑktɚ",
+          "say": "dákter",
+          "es": "médico/a",
+          "icon": "🩺",
+          "anchor": "<s>doctor</s> → <b>DÁK</b>ter",
+          "tip": "Golpe delante y la o suena a. ¡Y la r final se pronuncia!"
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "chocolate",
+          "es": "chocolate"
+        },
+        {
+          "q": "idea",
+          "es": "idea"
+        },
+        {
+          "q": "wifi",
+          "label": "Wi-Fi",
+          "es": "wifi"
+        },
+        {
+          "q": "vitamin",
+          "es": "vitamina"
+        },
+        {
+          "q": "hamburger",
+          "es": "hamburguesa"
+        },
+        {
+          "q": "tomato",
+          "es": "tomate"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Español vs. inglés de un vistazo",
+      "title_en": "Spanish vs. English at a glance",
+      "icon": "🧭",
+      "head": [
+        "Palabra",
+        "🇪🇸 En español",
+        "🇺🇸 En inglés",
+        "Suena",
+        "¿Qué cambia?"
+      ],
+      "rows": [
+        [
+          "hotel",
+          "ho<b>TEL</b>",
+          "ho<b>TEL</b>",
+          "<code>joutél</code>",
+          "la h suena · o → ou"
+        ],
+        [
+          "chocolate",
+          "choco<b>LA</b>te",
+          "<b>CHOC</b>late",
+          "<code>cháklət</code>",
+          "golpe · ¡solo 2 sílabas!"
+        ],
+        [
+          "animal",
+          "ani<b>MAL</b>",
+          "<b>AN</b>imal",
+          "<code>ǽnəməl</code>",
+          "golpe · a → æ"
+        ],
+        [
+          "hospital",
+          "hospi<b>TAL</b>",
+          "<b>HOS</b>pital",
+          "<code>jáspirəl</code>",
+          "golpe · h · t → r"
+        ],
+        [
+          "idea",
+          "i<b>DE</b>a",
+          "i<b>DE</b>a",
+          "<code>aidíiə</code>",
+          "i → ai"
+        ],
+        [
+          "radio",
+          "<b>RA</b>dio",
+          "<b>RA</b>dio",
+          "<code>réidiou</code>",
+          "a → ei · o → ou"
+        ],
+        [
+          "piano",
+          "pi<b>A</b>no",
+          "pi<b>AN</b>o",
+          "<code>piǽnou</code>",
+          "a → æ · o → ou"
+        ],
+        [
+          "hamburger",
+          "hambur<b>GUE</b>sa",
+          "<b>HAM</b>burger",
+          "<code>jǽmberguer</code>",
+          "golpe · h"
+        ],
+        [
+          "tomato",
+          "to<b>MA</b>te",
+          "to<b>MA</b>to",
+          "<code>təméirou</code>",
+          "a → ei · t → r"
+        ],
+        [
+          "internet",
+          "inter<b>NET</b>",
+          "<b>IN</b>ternet",
+          "<code>ínternet</code>",
+          "golpe"
+        ],
+        [
+          "menu",
+          "me<b>NÚ</b>",
+          "<b>MEN</b>u",
+          "<code>méniu</code>",
+          "golpe"
+        ],
+        [
+          "robot",
+          "ro<b>BOT</b>",
+          "<b>RO</b>bot",
+          "<code>róubat</code>",
+          "golpe · o → ou"
+        ],
+        [
+          "natural",
+          "natu<b>RAL</b>",
+          "<b>NAT</b>ural",
+          "<code>nǽchərəl</code>",
+          "golpe · t → ch"
+        ],
+        [
+          "vitamin",
+          "vita<b>MI</b>na",
+          "<b>VI</b>tamin",
+          "<code>váirəmin</code>",
+          "golpe · i → ai"
+        ]
+      ],
+      "note": "Pista: si en español la palabra es aguda (golpe al final), sospecha. Muchas veces en inglés el golpe va delante… ¡aunque no siempre: ho<b>TEL</b>!",
+      "note_en": "If the Spanish word is stressed at the end, be careful: the English word is often stressed at the start."
+    },
+    {
+      "t": "stress",
+      "title": "El golpe se va delante",
+      "title_en": "The stress moves to the front",
+      "icon": "🎯",
+      "es": "En español, golpe al final; en inglés, ¡al principio! Da la palmada en la ●.",
+      "en": "Stressed at the end in Spanish, at the start in English.",
+      "items": [
+        {
+          "syl": [
+            "hos",
+            "pi",
+            "tal"
+          ],
+          "s": 0,
+          "say": "jáspirəl",
+          "es": "🇪🇸 hospi<b>TAL</b>",
+          "icon": "🏥"
+        },
+        {
+          "syl": [
+            "an",
+            "i",
+            "mal"
+          ],
+          "s": 0,
+          "say": "ǽnəməl",
+          "es": "🇪🇸 ani<b>MAL</b>",
+          "icon": "🐾"
+        },
+        {
+          "syl": [
+            "ro",
+            "bot"
+          ],
+          "s": 0,
+          "say": "róubat",
+          "es": "🇪🇸 ro<b>BOT</b>",
+          "icon": "🤖"
+        },
+        {
+          "syl": [
+            "men",
+            "u"
+          ],
+          "s": 0,
+          "say": "méniu",
+          "es": "🇪🇸 me<b>NÚ</b>",
+          "icon": "📋"
+        },
+        {
+          "syl": [
+            "doc",
+            "tor"
+          ],
+          "s": 0,
+          "say": "dákter",
+          "es": "🇪🇸 doc<b>TOR</b>",
+          "icon": "🩺"
+        },
+        {
+          "syl": [
+            "nat",
+            "u",
+            "ral"
+          ],
+          "s": 0,
+          "say": "nǽchərəl",
+          "es": "🇪🇸 natu<b>RAL</b>",
+          "icon": "🌿"
+        },
+        {
+          "syl": [
+            "vi",
+            "ta",
+            "min"
+          ],
+          "s": 0,
+          "say": "váirəmin",
+          "es": "🇪🇸 vita<b>MI</b>na",
+          "icon": "💊"
+        },
+        {
+          "syl": [
+            "in",
+            "ter",
+            "net"
+          ],
+          "s": 0,
+          "say": "ínternet",
+          "es": "🇪🇸 inter<b>NET</b>",
+          "icon": "🌐"
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "title": "Mismo golpe, otros sonidos",
+      "title_en": "Same stress, new sounds",
+      "icon": "🎵",
+      "es": "Aquí el golpe cae donde en español… pero las vocales cambian. ¡Escúchalas bien!",
+      "en": "The stress is the same as in Spanish, but the vowels change.",
+      "items": [
+        {
+          "syl": [
+            "ho",
+            "tel"
+          ],
+          "s": 1,
+          "say": "joutél",
+          "es": "la h suena · o → ou",
+          "icon": "🏨"
+        },
+        {
+          "syl": [
+            "i",
+            "de",
+            "a"
+          ],
+          "s": 1,
+          "say": "aidíiə",
+          "es": "i → ai",
+          "icon": "💡"
+        },
+        {
+          "syl": [
+            "pi",
+            "an",
+            "o"
+          ],
+          "s": 1,
+          "say": "piǽnou",
+          "es": "a → æ · o → ou",
+          "icon": "🎹"
+        },
+        {
+          "syl": [
+            "to",
+            "ma",
+            "to"
+          ],
+          "s": 1,
+          "say": "təméirou",
+          "es": "a → ei · t → r",
+          "icon": "🍅"
+        },
+        {
+          "syl": [
+            "ba",
+            "nan",
+            "a"
+          ],
+          "s": 1,
+          "say": "bənǽnə",
+          "es": "ə · æ · ə",
+          "icon": "🍌"
+        },
+        {
+          "syl": [
+            "cam",
+            "er",
+            "a"
+          ],
+          "s": 0,
+          "say": "kǽmərə",
+          "es": "æ · ə · ə",
+          "icon": "📷"
+        },
+        {
+          "syl": [
+            "tax",
+            "i"
+          ],
+          "s": 0,
+          "say": "tǽksi",
+          "es": "a → æ",
+          "icon": "🚕"
+        },
+        {
+          "syl": [
+            "piz",
+            "za"
+          ],
+          "s": 0,
+          "say": "píitsə",
+          "es": "i larga · a → ə",
+          "icon": "🍕"
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "wide": true,
+      "cols": 4,
+      "title": "Del zoo y de la cocina",
+      "title_en": "From the zoo and the kitchen",
+      "icon": "🦒",
+      "es": "Más palabras que ya conoces. Algunas cambian el golpe (✗) y otras lo mantienen (✓).",
+      "en": "More words you already know. Some move the stress, some don't.",
+      "items": [
+        {
+          "syl": [
+            "el",
+            "e",
+            "phant"
+          ],
+          "s": 0,
+          "say": "éləfənt",
+          "es": "✗ ele<b>FAN</b>te",
+          "icon": "🐘"
+        },
+        {
+          "syl": [
+            "di",
+            "no",
+            "saur"
+          ],
+          "s": 0,
+          "say": "dáinəsor",
+          "es": "✗ dino<b>SAU</b>rio",
+          "icon": "🦕"
+        },
+        {
+          "syl": [
+            "ti",
+            "ger"
+          ],
+          "s": 0,
+          "say": "táiguer",
+          "es": "✓ <b>TI</b>gre",
+          "icon": "🐯"
+        },
+        {
+          "syl": [
+            "gi",
+            "raffe"
+          ],
+          "s": 1,
+          "say": "yərǽf",
+          "es": "✓ ji<b>RA</b>fa",
+          "icon": "🦒"
+        },
+        {
+          "syl": [
+            "yo",
+            "gurt"
+          ],
+          "s": 0,
+          "say": "ióuguert",
+          "es": "✗ yo<b>GUR</b>",
+          "icon": "🥣"
+        },
+        {
+          "syl": [
+            "ketch",
+            "up"
+          ],
+          "s": 0,
+          "say": "kéchəp",
+          "es": "✓ <b>KÉT</b>chup",
+          "icon": "🍅"
+        },
+        {
+          "syl": [
+            "mu",
+            "se",
+            "um"
+          ],
+          "s": 1,
+          "say": "miusíiəm",
+          "es": "✓ mu<b>SE</b>o",
+          "icon": "🏛️"
+        },
+        {
+          "syl": [
+            "vol",
+            "ley",
+            "ball"
+          ],
+          "s": 0,
+          "say": "válibol",
+          "es": "✗ volei<b>BOL</b>",
+          "icon": "🏐"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¡Ojo con el fútbol!",
+      "title_en": "Careful with «football»!",
+      "icon": "🏈",
+      "es": "Mismo nombre, ¡otro deporte! En Estados Unidos, <b>football</b> es el fútbol americano.",
+      "en": "Same word, different sport! In the US, football means American football.",
+      "cols": [
+        {
+          "head": "🇪🇸 En España",
+          "color": "orange",
+          "items": [
+            "fútbol ⚽",
+            "fútbol americano 🏈",
+            "baloncesto 🏀",
+            "voleibol 🏐"
+          ]
+        },
+        {
+          "head": "🇺🇸 En EE. UU.",
+          "color": "blue",
+          "items": [
+            "soccer <code>sáker</code> ⚽",
+            "football <code>fútbol</code> 🏈",
+            "basketball <code>bǽskitbol</code> 🏀",
+            "volleyball <code>válibol</code> 🏐"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I'd like a hamburger and a Coca-Cola, please.",
+          "say": "aid láik ə jǽmberguer ənə kóukə kóulə, pliis",
+          "es": "Quiero una hamburguesa y una Coca-Cola, por favor.",
+          "icon": "🍔"
+        },
+        {
+          "en": "Our hotel has free Wi-Fi.",
+          "say": "áuer joutél jæs fríi wáifai",
+          "es": "Nuestro hotel tiene wifi gratis.",
+          "icon": "🏨"
+        },
+        {
+          "en": "My mom is a doctor at the hospital.",
+          "say": "mai mam is ə dákter ət də jáspirəl",
+          "es": "Mi madre es médica en el hospital.",
+          "icon": "🩺"
+        },
+        {
+          "en": "That's a great idea!",
+          "say": "dæts ə gréit aidíiə!",
+          "es": "¡Qué buena idea!",
+          "icon": "💡"
+        },
+        {
+          "en": "Let's watch a video on the internet.",
+          "say": "lets wach ə vídiou an di ínternet",
+          "es": "Vamos a ver un vídeo en internet.",
+          "icon": "🎬"
+        },
+        {
+          "en": "Can I see the menu?",
+          "say": "kən ai síi də méniu?",
+          "es": "¿Puedo ver la carta?",
+          "icon": "📋"
+        },
+        {
+          "en": "I love chocolate and bananas.",
+          "say": "ai láv cháklət ən bənǽnəs",
+          "es": "Me encantan el chocolate y los plátanos.",
+          "icon": "🍫"
+        },
+        {
+          "en": "The chef makes the best pizza.",
+          "say": "də shéf méiks də bést píitsə",
+          "es": "El chef hace la mejor pizza.",
+          "icon": "👨‍🍳"
+        },
+        {
+          "en": "My family loves music.",
+          "say": "mai fǽməli lavs miúusik",
+          "es": "A mi familia le encanta la música.",
+          "icon": "🎶"
+        },
+        {
+          "en": "Take a taxi to the museum.",
+          "say": "téik ə tǽksi tə də miusíiəm",
+          "es": "Coge un taxi hasta el museo.",
+          "icon": "🚕"
+        },
+        {
+          "en": "Ashley plays the piano.",
+          "say": "ǽshli pléis də piǽnou",
+          "es": "Ashley toca el piano.",
+          "icon": "🎹"
+        },
+        {
+          "en": "Smile for the camera!",
+          "say": "smáil fer də kǽmərə!",
+          "es": "¡Sonríe a la cámara!",
+          "icon": "📷"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "monster": "trampas",
+      "items": [
+        {
+          "bad": "hotel → <code>otél</code>",
+          "good": "<code>joutél</code>",
+          "why": "¡La h suena! Suave, como un vaho. Y la o es «ou».",
+          "why_en": "Pronounce the H, softly."
+        },
+        {
+          "bad": "Wi-Fi → <code>uífi</code>",
+          "good": "<code>wáifai</code>",
+          "why": "Dos «ai». Si pides el «uífi», no te entienden.",
+          "why_en": "Two «ai» sounds: WAI-fai."
+        },
+        {
+          "bad": "idea → <code>idéa</code>",
+          "good": "<code>aidíiə</code>",
+          "why": "La i del principio suena «ai» y la a final se encoge.",
+          "why_en": "The first I sounds like «ai»."
+        },
+        {
+          "bad": "chocolate → <code>chokoláte</code>",
+          "good": "<code>cháklət</code>",
+          "why": "Golpe delante y solo dos sílabas.",
+          "why_en": "Stress first, only two syllables."
+        },
+        {
+          "bad": "chef → «chef» con ch",
+          "good": "<code>shef</code>",
+          "why": "Viene del francés: ch = sh, como mandar callar 🤫.",
+          "why_en": "CH sounds like SH here."
+        },
+        {
+          "bad": "radio → <code>rádio</code>",
+          "good": "<code>réidiou</code>",
+          "why": "La a suena «ei» y la o final, «ou».",
+          "why_en": "A sounds like «ei», final O like «ou»."
+        },
+        {
+          "bad": "menu → <code>menú</code>",
+          "good": "<code>méniu</code>",
+          "why": "Golpe delante: MÉ-niu.",
+          "why_en": "Stress the first syllable."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el restaurante",
+      "title_en": "At the restaurant",
+      "lines": [
+        {
+          "who": "Ashley",
+          "en": "Hi! Here's the menu.",
+          "say": "jái! jirs də méniu",
+          "es": "¡Hola! Aquí tenéis la carta."
+        },
+        {
+          "who": "Mario",
+          "en": "Thanks! Do you have Wi-Fi?",
+          "say": "zǽnks! də iə jæv wáifai?",
+          "es": "¡Gracias! ¿Tenéis wifi?"
+        },
+        {
+          "who": "Ashley",
+          "en": "Sure! Are you ready to order?",
+          "say": "shur! ar iu réri tə órder?",
+          "es": "¡Claro! ¿Ya sabéis qué vais a pedir?"
+        },
+        {
+          "who": "Mario",
+          "en": "A hamburger with tomato, please.",
+          "say": "ə jǽmberguer wid təméirou, pliis",
+          "es": "Una hamburguesa con tomate, por favor."
+        },
+        {
+          "who": "Lucía",
+          "en": "And a pizza for me. And a Coca-Cola!",
+          "say": "ən ə píitsə fer míi. ənə kóukə kóulə!",
+          "es": "Y una pizza para mí. ¡Y una Coca-Cola!"
+        },
+        {
+          "who": "Ashley",
+          "en": "Great idea! Our chef makes amazing pizza.",
+          "say": "gréit aidíiə! áuer shéf méiks əméising píitsə",
+          "es": "¡Buena idea! Nuestro chef hace una pizza increíble."
+        },
+        {
+          "who": "Mario",
+          "en": "And for dessert… chocolate cake?",
+          "say": "ən fer disért… cháklət kéik?",
+          "es": "¿Y de postre… tarta de chocolate?"
+        },
+        {
+          "who": "Ashley",
+          "en": "Of course! With bananas?",
+          "say": "əv kórs! wid bənǽnəs?",
+          "es": "¡Claro! ¿Con plátano?"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo no caer en la trampa",
+      "title_en": "How not to fall into the trap",
+      "items": [
+        {
+          "es": "Antes de decir una palabra «fácil», <b>párate un segundo</b>: ¿suena igual en inglés? ¡Casi nunca!",
+          "en": "Before you say an easy word, stop for a second."
+        },
+        {
+          "es": "Busca el <b>golpe</b>: si en español es aguda (hospi<b>TAL</b>), en inglés probablemente vaya delante.",
+          "en": "Check the stress: it often moves to the front."
+        },
+        {
+          "es": "Revisa las <b>vocales</b>: o final → <code>ou</code>, a fuerte → <code>æ</code>, a débil → <code>ə</code>, a veces i → <code>ai</code>.",
+          "en": "Check the vowels: final O, A and I often change."
+        },
+        {
+          "es": "No olvides las <b>consonantes</b>: h suave, ch = sh en chef, v de verdad en video y vitamin.",
+          "en": "Don't forget the consonants: soft H, SH in chef, a real V."
+        },
+        {
+          "es": "Escanea los QR y repite como un loro 🦜. Grábate pidiendo en un restaurante: menu, pizza, Coca-Cola.",
+          "en": "Scan the QR codes, repeat and record yourself ordering food."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "A robot doctor ate chocolate, tomatoes and bananas in the hospital.",
+          "say": "ə róubat dákter éit cháklət, təméirous ən bənǽnəs in də jáspirəl",
+          "es": "Un médico robot comió chocolate, tomates y plátanos en el hospital."
+        },
+        {
+          "en": "The chef had an idea: pizza with tomato and avocado!",
+          "say": "də shéf jæd ən aidíiə: píitsə wid təméirou ən ævəkádou!",
+          "es": "El chef tuvo una idea: ¡pizza con tomate y aguacate!"
+        },
+        {
+          "en": "Wi-Fi, Wi-Fi, why is my Wi-Fi dying?",
+          "say": "wáifai, wáifai, wái is mai wáifai dáiing?",
+          "es": "Wifi, wifi, ¿por qué se me muere el wifi?"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El detector de trampas 🕵️",
+      "title_en": "The trap detector",
+      "es": "Cuando una palabra inglesa se parezca mucho a una española, ¡enciende la alarma! 🚨 Pregúntate siempre: ¿<b>golpe</b>?, ¿<b>vocales</b>?, ¿<b>letras con truco</b>? Y si dudas, escanea un QR: en 10 segundos oirás a un americano de verdad.",
+      "en": "When an English word looks very Spanish, sound the alarm: check the stress, the vowels and the tricky letters."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Dónde va el golpe?",
+      "title_en": "Where's the stress?",
+      "icon": "🎯",
+      "es": "Rodea cómo se dice en inglés americano. ¡No te dejes engañar por el español!",
+      "en": "Circle the American English stress.",
+      "items": [
+        {
+          "q": "🏥 hospital → [HOSpital|hospiTAL]",
+          "a": "HOSpital"
+        },
+        {
+          "q": "🐾 animal → [ANimal|aniMAL]",
+          "a": "ANimal"
+        },
+        {
+          "q": "🏨 hotel → [HOtel|hoTEL]",
+          "a": "hoTEL"
+        },
+        {
+          "q": "🤖 robot → [RObot|roBOT]",
+          "a": "RObot"
+        },
+        {
+          "q": "📋 menu → [MENu|meNU]",
+          "a": "MENu"
+        },
+        {
+          "q": "🍫 chocolate → [CHOClate|chocoLATE]",
+          "a": "CHOClate"
+        },
+        {
+          "q": "💡 idea → [Idea|iDEa]",
+          "a": "iDEa"
+        },
+        {
+          "q": "🍅 tomato → [TOmato|toMAto]",
+          "a": "toMAto"
+        },
+        {
+          "q": "🌐 internet → [INternet|interNET]",
+          "a": "INternet"
+        },
+        {
+          "q": "💊 vitamin → [VItamin|vitaMIN]",
+          "a": "VItamin"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "¿El golpe cae donde en español o se mueve? Di cada palabra y escríbela en su columna.",
+      "en": "Same stress as in Spanish, or does it move?",
+      "cats": [
+        {
+          "name": "✓ Golpe igual que en español",
+          "words": [
+            "hotel",
+            "idea",
+            "piano",
+            "tomato",
+            "banana",
+            "pizza",
+            "taxi",
+            "camera"
+          ]
+        },
+        {
+          "name": "🎯 El golpe se mueve",
+          "words": [
+            "hospital",
+            "animal",
+            "robot",
+            "menu",
+            "doctor",
+            "natural",
+            "chocolate",
+            "internet"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "radio",
+          "<code>réidiou</code>"
+        ],
+        [
+          "video",
+          "<code>vídiou</code>"
+        ],
+        [
+          "Wi-Fi",
+          "<code>wáifai</code>"
+        ],
+        [
+          "chef",
+          "<code>shef</code>"
+        ],
+        [
+          "vitamin",
+          "<code>váirəmin</code>"
+        ],
+        [
+          "sandwich",
+          "<code>sǽnwich</code>"
+        ],
+        [
+          "hamburger",
+          "<code>jǽmberguer</code>"
+        ],
+        [
+          "Coca-Cola",
+          "<code>kóukə kóulə</code>"
+        ]
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Di la palabra a la americana y rodea la sílaba fuerte.",
+      "en": "Say the word the American way and circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "hos",
+            "pi",
+            "tal"
+          ],
+          "s": 0,
+          "es": "hospital"
+        },
+        {
+          "syl": [
+            "an",
+            "i",
+            "mal"
+          ],
+          "s": 0,
+          "es": "animal"
+        },
+        {
+          "syl": [
+            "ro",
+            "bot"
+          ],
+          "s": 0,
+          "es": "robot"
+        },
+        {
+          "syl": [
+            "men",
+            "u"
+          ],
+          "s": 0,
+          "es": "menú"
+        },
+        {
+          "syl": [
+            "i",
+            "de",
+            "a"
+          ],
+          "s": 1,
+          "es": "idea"
+        },
+        {
+          "syl": [
+            "pi",
+            "an",
+            "o"
+          ],
+          "s": 1,
+          "es": "piano"
+        },
+        {
+          "syl": [
+            "to",
+            "ma",
+            "to"
+          ],
+          "s": 1,
+          "es": "tomate"
+        },
+        {
+          "syl": [
+            "vi",
+            "ta",
+            "min"
+          ],
+          "s": 0,
+          "es": "vitamina"
+        },
+        {
+          "syl": [
+            "ba",
+            "nan",
+            "a"
+          ],
+          "s": 1,
+          "es": "plátano"
+        },
+        {
+          "syl": [
+            "in",
+            "ter",
+            "net"
+          ],
+          "s": 0,
+          "es": "internet"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada con la tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "🐾 animal → ____",
+          "a": "ǽnəməl"
+        },
+        {
+          "q": "🎬 video → ____",
+          "a": "vídiou"
+        },
+        {
+          "q": "🚕 taxi → ____",
+          "a": "tǽksi"
+        },
+        {
+          "q": "📋 menu → ____",
+          "a": "méniu"
+        },
+        {
+          "q": "🤖 robot → ____",
+          "a": "róubat"
+        },
+        {
+          "q": "🩺 doctor → ____",
+          "a": "dákter"
+        },
+        {
+          "q": "🍌 banana → ____",
+          "a": "bənǽnə"
+        },
+        {
+          "q": "🎹 piano → ____",
+          "a": "piǽnou"
+        },
+        {
+          "q": "👨‍👩‍👧 family → ____",
+          "a": "fǽməli"
+        },
+        {
+          "q": "🎶 music → ____",
+          "a": "miúusik"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "In English, the h in «hotel» is silent, like in Spanish.",
+          "a": false,
+          "why": "la h suena: joutél"
+        },
+        {
+          "q": "«Chocolate» has only two syllables in American English.",
+          "a": true
+        },
+        {
+          "q": "«Chef» starts with the same sound as «she».",
+          "a": true
+        },
+        {
+          "q": "«Menu» is stressed on the last syllable.",
+          "a": false,
+          "why": "MÉ-niu"
+        },
+        {
+          "q": "In the US, «football» is the same sport as Spanish «fútbol».",
+          "a": false,
+          "why": "es el fútbol americano; el nuestro es soccer"
+        },
+        {
+          "q": "The «i» in «idea» sounds like «ai».",
+          "a": true
+        },
+        {
+          "q": "«Radio» ends with an «ou» sound.",
+          "a": true
+        },
+        {
+          "q": "Americans say «vitamin» like the British: VIT-a-min.",
+          "a": false,
+          "why": "VÁI-rə-min"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Qué sonido?",
+      "title_en": "Which sound?",
+      "icon": "👂",
+      "es": "Di la palabra y rodea el sonido correcto.",
+      "en": "Say the word and circle the right sound.",
+      "items": [
+        {
+          "q": "📻 radio → la a suena [a|ei|æ]",
+          "a": "ei"
+        },
+        {
+          "q": "🚕 taxi → la a suena [a|ei|æ]",
+          "a": "æ"
+        },
+        {
+          "q": "🍕 pizza → la a final suena [a|ə]",
+          "a": "ə"
+        },
+        {
+          "q": "💡 idea → la i suena [i|ai]",
+          "a": "ai"
+        },
+        {
+          "q": "🎬 video → la o final suena [o|ou]",
+          "a": "ou"
+        },
+        {
+          "q": "👨‍🍳 chef → empieza por [ch|sh]",
+          "a": "sh"
+        },
+        {
+          "q": "🏨 hotel → la h [suena|es muda]",
+          "a": "suena"
+        },
+        {
+          "q": "🥪 sandwich → la d [suena fuerte|casi no suena]",
+          "a": "casi no suena"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la trampa",
+      "title_en": "Fix the trap",
+      "icon": "🩹",
+      "es": "Estas pronunciaciones están «en español». Escríbelas en americano.",
+      "en": "These are pronounced the Spanish way. Fix them.",
+      "items": [
+        {
+          "q": "hotel → <code>otél</code>",
+          "a": "joutél"
+        },
+        {
+          "q": "Wi-Fi → <code>uífi</code>",
+          "a": "wáifai"
+        },
+        {
+          "q": "idea → <code>idéa</code>",
+          "a": "aidíiə"
+        },
+        {
+          "q": "chocolate → <code>chokoláte</code>",
+          "a": "cháklət"
+        },
+        {
+          "q": "menu → <code>menú</code>",
+          "a": "méniu"
+        },
+        {
+          "q": "robot → <code>robót</code>",
+          "a": "róubat"
+        },
+        {
+          "q": "radio → <code>rádio</code>",
+          "a": "réidiou"
+        },
+        {
+          "q": "vitamin → <code>vitamína</code>",
+          "a": "váirəmin"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «¿Golpe igual?» escribe sí o no.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "¿Golpe igual?"
+      ],
+      "rows": [
+        [
+          "hospital",
+          "hospital",
+          "?jáspirəl",
+          "?no"
+        ],
+        [
+          "?idea",
+          "idea",
+          "aidíiə",
+          "?sí"
+        ],
+        [
+          "piano",
+          "?piano",
+          "?piǽnou",
+          "sí"
+        ],
+        [
+          "?robot",
+          "robot",
+          "róubat",
+          "?no"
+        ],
+        [
+          "tomato",
+          "?tomate",
+          "?təméirou",
+          "?sí"
+        ],
+        [
+          "menu",
+          "menú",
+          "?méniu",
+          "?no"
+        ],
+        [
+          "?camera",
+          "cámara",
+          "kǽmərə",
+          "?sí"
+        ],
+        [
+          "natural",
+          "?natural",
+          "?nǽchərəl",
+          "no"
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe cómo suena la frase",
+      "title_en": "Write how the phrase sounds",
+      "icon": "🔗",
+      "es": "Escribe cómo suena cada grupo de palabras, con las palabras pequeñas flojitas (ə).",
+      "en": "Write how each phrase sounds.",
+      "items": [
+        {
+          "q": "a pizza and a Coca-Cola",
+          "a": "ə píitsə ənə kóukə kóulə"
+        },
+        {
+          "q": "a taxi to the hotel",
+          "a": "ə tǽksi tə də joutél"
+        },
+        {
+          "q": "a banana and a tomato",
+          "a": "ə bənǽnə ənə təméirou"
+        },
+        {
+          "q": "a video on the internet",
+          "a": "ə vídiou an di ínternet"
+        },
+        {
+          "q": "the doctor's idea",
+          "a": "də dákters aidíiə"
+        },
+        {
+          "q": "chocolate and vitamins",
+          "a": "cháklət ən váirəmins"
+        },
+        {
+          "q": "the chef's menu",
+          "a": "də shéfs méniu"
+        },
+        {
+          "q": "my family's camera",
+          "a": "mai fǽməlis kǽmərə"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "A hamburger and a Coca-Cola, please.",
+          "say": "ə jǽmberguer ənə kóukə kóulə, pliis"
+        },
+        {
+          "q": "What's the Wi-Fi password?",
+          "say": "wats də wáifai pǽswerd?"
+        },
+        {
+          "q": "The hotel has a piano.",
+          "say": "də joutél jæs ə piǽnou"
+        },
+        {
+          "q": "I need vitamins.",
+          "say": "ai níid váirəmins"
+        },
+        {
+          "q": "Turn on the radio!",
+          "say": "térn an də réidiou!"
+        },
+        {
+          "q": "This chocolate is delicious.",
+          "say": "dis cháklət is dilíshəs"
+        },
+        {
+          "q": "My favorite animal is the tiger.",
+          "say": "mai féivrit ǽnəməl is də táiguer"
+        },
+        {
+          "q": "Let's watch a video!",
+          "say": "lets wach ə vídiou!"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés americano y dilo en voz alta. ¡Cuidado con la última!",
+      "en": "Translate into American English and say it.",
+      "items": [
+        {
+          "q": "plátano",
+          "a": "banana (bənǽnə)"
+        },
+        {
+          "q": "hamburguesa",
+          "a": "hamburger (jǽmberguer)"
+        },
+        {
+          "q": "tomate",
+          "a": "tomato (təméirou)"
+        },
+        {
+          "q": "médico",
+          "a": "doctor (dákter)"
+        },
+        {
+          "q": "cámara de fotos",
+          "a": "camera (kǽmərə)"
+        },
+        {
+          "q": "familia",
+          "a": "family (fǽməli)"
+        },
+        {
+          "q": "música",
+          "a": "music (miúusik)"
+        },
+        {
+          "q": "vitamina",
+          "a": "vitamin (váirəmin)"
+        },
+        {
+          "q": "aguacate",
+          "a": "avocado (ævəkádou)"
+        },
+        {
+          "q": "fútbol (el nuestro ⚽)",
+          "a": "soccer (sáker)"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de trampas",
+      "title_en": "Trap word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Cada vez que encuentres una, dila a la americana.",
+      "en": "Find 10 words and say them the American way.",
+      "words": [
+        "chocolate",
+        "hospital",
+        "animal",
+        "piano",
+        "tomato",
+        "banana",
+        "robot",
+        "camera",
+        "vitamin",
+        "sandwich"
+      ],
+      "clues": [
+        "chocolate · CHOC-late",
+        "hospital · HOS-pi-tal",
+        "animal · AN-i-mal",
+        "piano · pi-AN-o",
+        "tomato · to-MA-to",
+        "banana · ba-NAN-a",
+        "robot · RO-bot",
+        "camera · CAM-er-a",
+        "vitamin · VI-ta-min",
+        "sandwich · SAN(d)-wich"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las trampas",
+      "title_en": "Read and find the traps",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Mario in New York",
+      "text": [
+        "Mario is in New York with his family. Their hotel is near Central Park, and it has free Wi-Fi.",
+        "For dinner, they go to a small Italian restaurant. Mario reads the menu and asks for a pizza with tomato. His sister wants a hamburger and a Coca-Cola. For dessert: chocolate ice cream!"
+      ],
+      "items": [
+        {
+          "q": "Where is the hotel?",
+          "a": "Near Central Park."
+        },
+        {
+          "q": "How do you say «menu»?",
+          "a": "<code>méniu</code> (golpe delante)"
+        },
+        {
+          "q": "What does Mario's sister want?",
+          "a": "A hamburger and a Coca-Cola."
+        },
+        {
+          "q": "The hotel has free Wi-Fi.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «hotel», the h is silent.",
+          "tf": true,
+          "a": false,
+          "why": "suena: joutél"
+        },
+        {
+          "q": "«Chocolate» is stressed on the first syllable.",
+          "tf": true,
+          "a": true,
+          "why": "CHÁK-lət"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases con palabras de este mapa y léelas en voz alta. ¡Grábate!",
+      "en": "Write your own sentences with words from this map and record yourself.",
+      "items": [
+        {
+          "q": "Pide comida en un restaurante (pizza, hamburger, chocolate…).",
+          "lines": 2,
+          "a": "Ej.: Can I have a pizza and a chocolate cake, please?"
+        },
+        {
+          "q": "Habla de tu familia y sus trabajos (doctor, chef, pilot…).",
+          "lines": 2,
+          "a": "Ej.: My mom is a doctor and my dad is a chef."
+        },
+        {
+          "q": "Escribe tu animal y tu música favoritos.",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé que las palabras «fáciles» casi nunca suenan igual en inglés.",
+      "en": "I know easy-looking words often sound different."
+    },
+    {
+      "es": "Pongo el golpe delante en <b>HOS</b>pital, <b>AN</b>imal, <b>RO</b>bot y <b>MEN</b>u.",
+      "en": "I stress hospital, animal, robot and menu on the first syllable."
+    },
+    {
+      "es": "Digo la o final como <code>ou</code>: <code>réidiou</code>, <code>vídiou</code>, <code>piǽnou</code>.",
+      "en": "I say final O as «ou»."
+    },
+    {
+      "es": "Pido el <code>wáifai</code> y digo <code>aidíiə</code> con «ai».",
+      "en": "I say Wi-Fi and idea with «ai»."
+    },
+    {
+      "es": "Hago sonar la h de <code>joutél</code> y digo <code>shef</code> con sh.",
+      "en": "I pronounce the H in hotel and SH in chef."
+    },
+    {
+      "es": "Sé que en EE. UU. nuestro fútbol es <code>sáker</code> ⚽.",
+      "en": "I know Americans call fútbol «soccer»."
+    }
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "id": "V-10",
+  "block": "V",
+  "title": "AR, OR, AIR, EAR",
+  "file_title": "AR, OR, AIR, EAR (vocales + R)",
+  "subtitle": "Vowels before R · car, more, hair, here",
+  "icon": "🚗",
+  "map": {
+    "center": "Delante de <b>R</b>, la vocal cambia: car = <code>kar</code>, more = <code>mor</code>, hair = <code>jéer</code>, here = <code>jíer</code>.",
+    "listen": "car",
+    "nodes": [
+      { "title": "AR /ɑr/", "icon": "🚗", "color": "green", "rows": [["car", "<code>kar</code>"], ["star", "<code>star</code>"], ["heart", "<code>jart</code>"]] },
+      { "title": "OR /ɔr/", "icon": "🚪", "color": "blue", "rows": [["more", "<code>mor</code>"], ["door", "<code>dor</code>"], ["four", "<code>for</code>"]] },
+      { "title": "AIR /ɛr/", "icon": "💇", "color": "purple", "rows": [["hair", "<code>jéer</code>"], ["where", "<code>wéer</code>"], ["bear", "<code>béer</code>"]] },
+      { "title": "EAR /ɪr/", "icon": "👂", "color": "orange", "rows": [["here", "<code>jíer</code>"], ["ear", "<code>íer</code>"], ["beer", "<code>bíer</code>"]] },
+      { "title": "Las más raras", "icon": "🔥", "color": "pink", "rows": [["fire", "<code>fáier</code>"], ["hour", "<code>áuer</code>"], ["sure", "<code>shur</code>"]] },
+      { "title": "Truco: el pirata", "icon": "🏴‍☠️", "color": "yellow", "html": "Di «¡<b>arrr</b>!» como un pirata, pero <b>sin vibrar</b>: la lengua atrás, sin tocar nada.", "art": "🦜" }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["<code>jair</code> (leer la AI)"],
+      "good": ["<code>jéer</code> 💇"],
+      "note": "AIR no es «ai»: es una e que se desliza hacia la R."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "🚗 car → ____", "a": "kar" },
+        { "q": "🚪 door → ____", "a": "dor" },
+        { "q": "🪑 chair → ____", "a": "chéer" },
+        { "q": "🍺 beer → ____", "a": "bíer" },
+        { "q": "🔥 fire → ____", "a": "fáier" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué le pasa a la vocal?",
+      "title_en": "What happens to the vowel?",
+      "icon": "🔎",
+      "es": "En español, la r es un golpecito que va <b>después</b> de la vocal. En inglés americano, la R es tan fuerte que <b>tiñe la vocal</b> de delante y la cambia. Por eso car, hair o here no se leen como en español. Hay cuatro sonidos estrella: <code>ar</code> (car), <code>or</code> (more), <code>éer</code> (hair) e <code>íer</code> (here), y tres más raros: <code>ur</code> (sure), <code>áier</code> (fire) y <code>áuer</code> (hour). <mark>La R siempre se pronuncia</mark>, también al final: es la R americana (mapa C-01).",
+      "en": "In American English, R changes the vowel before it. The four big ones are /ɑr/ (car), /ɔr/ (more), /ɛr/ (hair) and /ɪr/ (here). And the R is always pronounced, even at the end of a word.",
+      "formula": ["AR → *ar*  ·  OR → *or*", "AIR → *éer*  ·  EAR → *íer*"]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        { "part": "tongue", "es": "Di la vocal y, <b>sin cortar</b>, lleva la lengua hacia atrás hasta la R americana. La punta no toca nada.", "en": "Say the vowel, then glide your tongue back into the R without stopping." },
+        { "part": "jaw", "es": "Empieza abierta (sobre todo en <code>ar</code>) y se cierra un poco al llegar a la R: es un <b>movimiento</b>, no una postura fija.", "en": "Your jaw starts open and closes a little as you reach the R." },
+        { "part": "lips", "es": "En <code>or</code>, labios redondos como para decir «o». En <code>éer</code> e <code>íer</code>, empiezas sonriendo y acabas con los labios un poco hacia delante.", "en": "Round lips for /ɔr/; start with a smile for /ɛr/ and /ɪr/." },
+        { "part": "voice", "es": "Todo va en <b>una sola sílaba</b>: car, hair, here. La <code>er</code> que escribimos al final de hair o here es solo el camino hacia la R.", "en": "It's one syllable: the -er we write in hair or here is just the glide into the R." }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · AR suena ar",
+      "title_en": "AR sounds /ɑr/",
+      "icon": "🚗",
+      "es": "La <b>A</b> delante de <b>R</b> suena como la a de «carne», con la boca bien abierta, y después la R americana: <code>kar</code>, <code>star</code>, <code>park</code>. ¡Ojo con dos cosas! <b>Heart</b> se escribe con EAR y suena <code>jart</code>. Y detrás de <b>W</b>, la AR se vuelve <code>or</code>: war, warm (regla 2).",
+      "en": "A + R sounds /ɑr/: car, star, park. Heart has this sound too. After W, AR sounds /ɔr/.",
+      "formula": ["c + *ar* → kar", "h + *ear* + t → jart"],
+      "examples": [
+        { "en": "car", "say": "kar", "es": "coche", "icon": "🚗" },
+        { "en": "star", "say": "star", "es": "estrella", "icon": "⭐" },
+        { "en": "park", "say": "park", "es": "parque", "icon": "🌳" },
+        { "en": "heart", "say": "jart", "es": "corazón", "icon": "❤️" },
+        { "en": "guitar", "say": "guitár", "es": "guitarra", "icon": "🎸" },
+        { "en": "garden", "say": "gárdən", "es": "jardín", "icon": "🌷" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · OR, ORE, OOR, OUR suenan or",
+      "title_en": "OR, ORE, OOR, OUR sound /ɔr/",
+      "icon": "🚪",
+      "es": "<b>OR</b>, <b>ORE</b>, <b>OOR</b>, <b>OAR</b> y muchas <b>OUR</b> suenan igual: una o redonda + R, <code>or</code>, como en «a<b>mor</b>». Por eso <b>for</b> y <b>four</b> suenan igual, y <b>door</b> rima con <b>more</b>. Y un truco: <mark>W + AR también suena or</mark>: war, warm, quarter.",
+      "en": "OR, ORE, OOR, OAR and many OUR spellings sound /ɔr/: more, door, four. After W, AR also sounds /ɔr/: war, warm.",
+      "examples": [
+        { "en": "more", "say": "mor", "es": "más", "icon": "➕" },
+        { "en": "door", "say": "dor", "es": "puerta", "icon": "🚪" },
+        { "en": "four", "say": "for", "es": "cuatro", "icon": "4️⃣" },
+        { "en": "horse", "say": "jors", "es": "caballo", "icon": "🐴" },
+        { "en": "board", "say": "bord", "es": "pizarra / tablero", "icon": "📋" },
+        { "en": "warm", "say": "worm", "es": "calentito", "icon": "🧣" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · AIR, ARE, EAR suenan éer",
+      "title_en": "AIR, ARE, EAR sound /ɛr/",
+      "icon": "💇",
+      "es": "<b>AIR</b>, <b>ARE</b>, a veces <b>EAR</b> y <b>ERE</b> (where, there) suenan como una <b>e</b> abierta que se desliza hacia la R: <code>éer</code>. ¡Nada de leer «ai» en hair o chair! Lo escribimos con <code>er</code> al final para que no lo confundas con <b>her</b> (<code>jer</code>): <mark>en hair hay una e; en her, no</mark>.",
+      "en": "AIR, ARE and some EAR and ERE spellings sound /ɛr/: hair, care, bear, where. Don't say «ai»!",
+      "examples": [
+        { "en": "hair", "say": "jéer", "es": "pelo", "icon": "💇" },
+        { "en": "chair", "say": "chéer", "es": "silla", "icon": "🪑" },
+        { "en": "care", "say": "kéer", "es": "cuidar / importar", "icon": "🤲" },
+        { "en": "bear", "say": "béer", "es": "oso", "icon": "🐻" },
+        { "en": "where", "say": "wéer", "es": "dónde", "icon": "❓" },
+        { "en": "there", "say": "déer", "es": "allí", "icon": "👉" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · EAR, EER suenan íer",
+      "title_en": "EAR, EER sound /ɪr/",
+      "icon": "👂",
+      "es": "<b>EAR</b> (casi siempre), <b>EER</b> y a veces <b>ERE</b> suenan como una <b>i</b> que se desliza hacia la R: <code>íer</code>. Apoya bien la i: <b>JÍ</b>-er. ¡Cuidado con <b>here</b> y <b>there</b>! Se escriben casi igual, pero here suena <code>jíer</code> y there, <code>déer</code>.",
+      "en": "EAR, EER and sometimes ERE sound /ɪr/: ear, beer, here. Here and there don't rhyme!",
+      "examples": [
+        { "en": "ear", "say": "íer", "es": "oreja / oído", "icon": "👂" },
+        { "en": "here", "say": "jíer", "es": "aquí", "icon": "📍" },
+        { "en": "beer", "say": "bíer", "es": "cerveza", "icon": "🍺" },
+        { "en": "near", "say": "níer", "es": "cerca", "icon": "🤏" },
+        { "en": "deer", "say": "díer", "es": "ciervo", "icon": "🦌" },
+        { "en": "clear", "say": "klíer", "es": "claro / despejado", "icon": "✨" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · URE, OUR: el raro ur",
+      "title_en": "The rare /ʊr/",
+      "icon": "🎫",
+      "es": "Un sonido menos común: una <b>u</b> corta + R, <code>ur</code>. Lo oirás en <b>sure</b> (la S suena sh), <b>tour</b> y <b>pure</b>. Muchos americanos lo cambian por <code>or</code> o <code>er</code>: sure puede sonar <code>shur</code>, <code>shor</code> o <code>sher</code>. ¡Las tres valen!",
+      "en": "/ʊr/ is rare: sure, tour, pure. Many Americans also say sure as /ʃɔr/ or /ʃɝ/.",
+      "examples": [
+        { "en": "sure", "say": "shur", "es": "seguro / claro", "icon": "✅" },
+        { "en": "tour", "say": "tur", "es": "gira / visita", "icon": "🚌" },
+        { "en": "pure", "say": "piur", "es": "puro", "icon": "💎" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · IRE, OUR, OWER: áier, áuer",
+      "title_en": "/aɪr/ and /aʊr/",
+      "icon": "🔥",
+      "es": "Con los diptongos <b>ai</b> y <b>au</b>, la R también se pega: <b>fire</b> = <code>fáier</code>, <b>hour</b> = <code>áuer</code>. Suenan como una sílaba estirada, casi dos: <b>FÁI</b>-er, <b>ÁU</b>-er. Fíjate: <b>hour</b> y <b>our</b> suenan igual (la H es muda), y <b>flower</b> y <b>flour</b> (harina), también.",
+      "en": "With /aɪ/ and /aʊ/, the R glides in too: fire, tired, hour, flower. It sounds like one long syllable, almost two.",
+      "examples": [
+        { "en": "fire", "say": "fáier", "es": "fuego", "icon": "🔥" },
+        { "en": "tired", "say": "táierd", "es": "cansado", "icon": "😴" },
+        { "en": "vampire", "say": "vǽmpaier", "es": "vampiro", "icon": "🧛" },
+        { "en": "hour", "say": "áuer", "es": "hora", "icon": "⏰" },
+        { "en": "flower", "say": "fláuer", "es": "flor", "icon": "🌸" },
+        { "en": "shower", "say": "sháuer", "es": "ducha", "icon": "🚿" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 7,
+      "title": "7 · ¡Ojo! R + vocal",
+      "title_en": "Watch out: R + vowel",
+      "icon": "⚠️",
+      "es": "Si detrás de la R viene <b>otra vocal</b>, la R pasa a la sílaba siguiente y la vocal suele cambiar: <b>very</b> = <code>véri</code> (no <code>ver</code>), <b>sorry</b> = <code>sári</code> (no <code>sor</code>). Otras se quedan igual: <b>story</b> = <code>stóri</code>. Y en casi todo EE. UU., <b>Harry</b> y <b>carrot</b> se dicen con e: <code>jéri</code>, <code>kérət</code>.",
+      "en": "When a vowel follows the R, the R moves to the next syllable and the vowel often changes: very, sorry. Most Americans say Harry and carrot with an /ɛ/.",
+      "examples": [
+        { "en": "very", "say": "véri", "es": "muy", "icon": "💯" },
+        { "en": "sorry", "say": "sári", "es": "perdón", "icon": "🙏" },
+        { "en": "story", "say": "stóri", "es": "cuento / historia", "icon": "📖" },
+        { "en": "carrot", "say": "kérət", "es": "zanahoria", "icon": "🥕" },
+        { "en": "Harry", "say": "jéri", "es": "Harry", "icon": "🧙" },
+        { "en": "zero", "say": "sírou", "es": "cero", "icon": "0️⃣" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "car", "ipa": "kɑr", "say": "kar", "es": "coche", "icon": "🚗", "anchor": "<b>car</b>ne 🥩", "tip": "Di «car» de carne y deja la R americana al final, sin vibrar." },
+        { "en": "star", "ipa": "stɑr", "say": "star", "es": "estrella", "icon": "⭐", "anchor": "e<b>star</b> 😊", "tip": "Quítale la e del principio: ¡sssstar! (mapa C-11)." },
+        { "en": "far", "ipa": "fɑr", "say": "far", "es": "lejos", "icon": "🔭", "anchor": "<b>far</b>o 🌊", "tip": "El faro se ve desde muy lejos: far." },
+        { "en": "more", "ipa": "mɔr", "say": "mor", "es": "más", "icon": "➕", "anchor": "a<b>mor</b> ❤️", "tip": "More love = más amor. La o, un poco más abierta y redonda." },
+        { "en": "door", "ipa": "dɔr", "say": "dor", "es": "puerta", "icon": "🚪", "anchor": "<b>Dor</b>a la exploradora 🗺️", "tip": "Dora abre la puerta: door. Rima con more y four." },
+        { "en": "four", "ipa": "fɔr", "say": "for", "es": "cuatro", "icon": "4️⃣", "anchor": "<b>Fór</b>mula 1 🏎️", "tip": "Cuatro ruedas: for. La U de four no suena." },
+        { "en": "horse", "ipa": "hɔrs", "say": "jors", "es": "caballo", "icon": "🐴", "anchor": "<b>Jor</b>ge 🤠", "tip": "Di «Jor» con j suave, como vaho (no jota fuerte), y añade una s: jors." },
+        { "en": "hair", "ipa": "hɛr", "say": "jéer", "es": "pelo", "icon": "💇", "anchor": "<s>jair</s> → <b>jéer</b>", "tip": "AIR no suena «ai»: e abierta + R." },
+        { "en": "bear", "ipa": "bɛr", "say": "béer", "es": "oso", "icon": "🐻", "anchor": "<b>Ber</b>ta 🐻", "tip": "Casi: abre un poco más la e y deslízala hacia la R: BÉ-er." },
+        { "en": "beer", "ipa": "bɪr", "say": "bíer", "es": "cerveza", "icon": "🍺", "anchor": "<b>vier</b>nes 🍻", "tip": "Casi: apoya más la i, BÍ-er (en español, v y b suenan igual)." },
+        { "en": "fear", "ipa": "fɪr", "say": "fíer", "es": "miedo", "icon": "😱", "anchor": "<b>fier</b>a 🦁", "tip": "Una fiera da miedo. Casi: apoya la i, FÍ-er." },
+        { "en": "hour", "ipa": "aʊr", "say": "áuer", "es": "hora", "icon": "⏰", "anchor": "<b>aur</b>a ✨", "tip": "La H no suena (mapa C-06). Our (nuestro) suena igual." },
+        { "en": "flower", "ipa": "ˈflaʊɚ", "say": "fláuer", "es": "flor", "icon": "🌸", "anchor": "<b>flau</b>ta + er 🎶", "tip": "FLÁU-er. Flour (harina) suena igual." },
+        { "en": "tour", "ipa": "tʊr", "say": "tur", "es": "gira / visita", "icon": "🚌", "anchor": "<b>tur</b>no 🎫", "tip": "Muchos americanos dicen también «tor»." },
+        { "en": "Star Wars", "ipa": "stɑr wɔrz", "say": "star wors", "es": "La guerra de las galaxias", "icon": "🌌", "anchor": "<s>estar guars</s> → <b>star wors</b>", "tip": "Dos R distintas: AR y OR. ¡Y sin e delante!" }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "car", "es": "coche" },
+        { "q": "more", "es": "más" },
+        { "q": "hair", "es": "pelo" },
+        { "q": "here", "es": "aquí" },
+        { "q": "fire", "es": "fuego" },
+        { "q": "hour", "es": "hora" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "La familia F: siete sonidos con R",
+      "title_en": "The F family: seven R sounds",
+      "icon": "👪",
+      "head": ["Palabra · Word", "Español", "Sonido", "Suena"],
+      "rows": [
+        ["fear", "miedo", "/ɪr/", "<code>fíer</code>"],
+        ["fair", "justo / feria", "/ɛr/", "<code>féer</code>"],
+        ["far", "lejos", "/ɑr/", "<code>far</code>"],
+        ["four", "cuatro", "/ɔr/", "<code>for</code>"],
+        ["fur", "pelaje", "/ɝ/ (mapa V-09)", "<code>fer</code>"],
+        ["fire", "fuego", "/aɪr/", "<code>fáier</code>"],
+        ["flower", "flor", "/aʊr/", "<code>fláuer</code>"]
+      ],
+      "note": "Léelas en voz alta de arriba abajo y nota cómo cambia la boca en cada una.",
+      "note_en": "Read them aloud from top to bottom and feel your mouth change."
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Las letras engañan",
+      "title_en": "Spelling can fool you",
+      "icon": "🕵️",
+      "head": ["Letras · Spelling", "Palabras · Words", "Suenan"],
+      "rows": [
+        ["EAR", "ear, bear, heart, early", "<code>íer</code>, <code>béer</code>, <code>jart</code>, <code>érli</code>"],
+        ["ERE", "here, there, were", "<code>jíer</code>, <code>déer</code>, <code>wer</code>"],
+        ["OUR", "four, hour, tour, journey", "<code>for</code>, <code>áuer</code>, <code>tur</code>, <code>yérni</code>"],
+        ["OOR", "door, floor, poor", "<code>dor</code>, <code>flor</code>, <code>pur</code> / <code>por</code>"],
+        ["ARE", "care, are", "<code>kéer</code>, <code>ar</code>"]
+      ],
+      "note": "Con R, las letras dan pistas pero no órdenes: si dudas, mira el IPA del diccionario (mapa P-06). Ojo: muchos americanos dicen <b>our</b> como <code>ar</code>.",
+      "note_en": "With R, spelling gives clues, not rules. When in doubt, check the IPA in a dictionary."
+    },
+    {
+      "t": "pairs",
+      "title": "Parejas con R",
+      "title_en": "R minimal pairs",
+      "icon": "👂",
+      "items": [
+        { "a": { "en": "beer", "ipa": "bɪr", "say": "bíer", "es": "cerveza", "icon": "🍺" }, "b": { "en": "bear", "ipa": "bɛr", "say": "béer", "es": "oso", "icon": "🐻" }, "tip": "Con i, cerveza; con e, oso. ¡Que no te pongan un oso en la mesa! 🐻" },
+        { "a": { "en": "here", "ipa": "hɪr", "say": "jíer", "es": "aquí", "icon": "📍" }, "b": { "en": "hair", "ipa": "hɛr", "say": "jéer", "es": "pelo", "icon": "💇" }, "tip": "Sonrisa cerrada (i) para here; boca más abierta (e) para hair." },
+        { "a": { "en": "ear", "ipa": "ɪr", "say": "íer", "es": "oreja", "icon": "👂" }, "b": { "en": "air", "ipa": "ɛr", "say": "éer", "es": "aire", "icon": "💨" }, "tip": "La misma pareja sin consonante delante: i + er frente a e + er." },
+        { "a": { "en": "star", "ipa": "stɑr", "say": "star", "es": "estrella", "icon": "⭐" }, "b": { "en": "store", "ipa": "stɔr", "say": "stor", "es": "tienda", "icon": "🏪" }, "tip": "Boca abierta (a) para la estrella; labios redondos (o) para la tienda." },
+        { "a": { "en": "farm", "ipa": "fɑrm", "say": "farm", "es": "granja", "icon": "🚜" }, "b": { "en": "form", "ipa": "fɔrm", "say": "form", "es": "formulario", "icon": "📝" }, "tip": "Una letra cambia el sonido y la palabra." },
+        { "a": { "en": "heart", "ipa": "hɑrt", "say": "jart", "es": "corazón", "icon": "❤️" }, "b": { "en": "hurt", "ipa": "hɝt", "say": "jert", "es": "doler", "icon": "🤕" }, "tip": "My heart hurts = <code>mai jart jerts</code>, me duele el corazón." }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Británico vs. americano",
+      "title_en": "British vs. American",
+      "icon": "🌍",
+      "es": "En este libro aprendemos el inglés de <b>Estados Unidos</b>. En gran parte de Inglaterra, la R final se calla.",
+      "en": "We learn American English. In much of England, the final R is silent.",
+      "cols": [
+        { "head": "🇬🇧 Reino Unido", "color": "blue", "items": ["car → <code>kaa</code>", "more → <code>moo</code>", "hair → <code>jée</code>", "la R del final no suena"] },
+        { "head": "🇺🇸 Estados Unidos", "color": "red", "items": ["car → <code>kar</code>", "more → <code>mor</code>", "hair → <code>jéer</code>", "¡la R suena siempre!"] }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "Where are you?", "spoken": "Wher-er you?", "say": "wéer er iu", "es": "¿Dónde estás?" },
+        { "written": "Over here!", "spoken": "Over heer!", "say": "óuver jíer", "es": "¡Aquí!" },
+        { "written": "Over there!", "spoken": "Over thair!", "say": "óuver déer", "es": "¡Allí!" },
+        { "written": "Are you sure?", "spoken": "Ar you shur?", "say": "ar iu shur", "es": "¿Estás seguro?" },
+        { "written": "Far away", "spoken": "Fa-ra-way", "say": "fárəwéi", "es": "muy lejos" },
+        { "written": "For four hours", "spoken": "Fer four ours", "say": "fer for áuers", "es": "durante cuatro horas" }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "My car is in the park.", "say": "mai kar isin də park", "es": "Mi coche está en el parque.", "icon": "🚗" },
+        { "en": "There are four chairs.", "say": "déer ar for chéers", "es": "Hay cuatro sillas.", "icon": "🪑" },
+        { "en": "Where is the door?", "say": "wéer is də dor", "es": "¿Dónde está la puerta?", "icon": "🚪" },
+        { "en": "I have short hair.", "say": "ai jæv short jéer", "es": "Tengo el pelo corto.", "icon": "💇" },
+        { "en": "The bear is near the river.", "say": "də béer is níer də ríver", "es": "El oso está cerca del río.", "icon": "🐻" },
+        { "en": "Come here, Rocky!", "say": "kam jíer, ráki", "es": "¡Ven aquí, Rocky!", "icon": "🐶" },
+        { "en": "I'm sure it's four o'clock.", "say": "aim shur its for əklák", "es": "Seguro que son las cuatro.", "icon": "🕓" },
+        { "en": "The stars are far away.", "say": "də stars ar far əwéi", "es": "Las estrellas están muy lejos.", "icon": "⭐" },
+        { "en": "We need more water.", "say": "wi níid mor wárer", "es": "Necesitamos más agua.", "icon": "💧" },
+        { "en": "Be careful with the fire!", "say": "bi kéerfəl wid də fáier", "es": "¡Cuidado con el fuego!", "icon": "🔥" },
+        { "en": "I'm tired. I need a shower.", "say": "aim táierd. ai níid ə sháuer", "es": "Estoy cansado. Necesito una ducha.", "icon": "🚿" },
+        { "en": "See you in an hour!", "say": "sii iu inənáuer", "es": "¡Nos vemos en una hora!", "icon": "⏰" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "hair → <code>jair</code>", "good": "<code>jéer</code>", "why": "AIR no es «ai»: es una e que se desliza hacia la R.", "why_en": "AIR is not «ai»: it's /ɛr/." },
+        { "bad": "car → <code>karr</code> (r que vibra)", "good": "<code>kar</code>", "why": "La R final no vibra: la lengua va atrás y no toca nada.", "why_en": "Don't trill the final R." },
+        { "bad": "here → <code>jer</code>", "good": "<code>jíer</code>", "why": "Con «jer» dices her (de ella). Apoya la i.", "why_en": "«Jer» sounds like her. Say the /ɪ/ first." },
+        { "bad": "four → <code>fóur</code>", "good": "<code>for</code>", "why": "Aquí OUR suena or: ni rastro de la u.", "why_en": "OUR in four sounds /ɔr/." },
+        { "bad": "heart → <code>jeárt</code>", "good": "<code>jart</code>", "why": "La EAR de heart suena ar, como en car.", "why_en": "Heart sounds like /hɑrt/." },
+        { "bad": "warm → <code>uárm</code>", "good": "<code>worm</code>", "why": "W + AR suena or. (Y ojo: worm, gusano, suena <code>werm</code>.)", "why_en": "W + AR sounds /wɔr/." },
+        { "bad": "sure → <code>súre</code>", "good": "<code>shur</code>", "why": "La S suena sh y la E final no se lee.", "why_en": "S sounds /ʃ/ and the final E is silent." },
+        { "bad": "fire → <code>fíre</code>", "good": "<code>fáier</code>", "why": "IRE = ai + er, en una sílaba estirada.", "why_en": "IRE sounds /aɪr/." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el zoo",
+      "title_en": "At the zoo",
+      "lines": [
+        { "who": "Ashley", "en": "Mario, where are you?", "say": "mário, wéer ar iu?", "es": "Mario, ¿dónde estás?" },
+        { "who": "Mario", "en": "I'm over here, near the bears!", "say": "aim óuver jíer, níer də béers!", "es": "¡Estoy aquí, cerca de los osos!" },
+        { "who": "Ashley", "en": "Are you sure? I can't see you.", "say": "ar iu shur? ai kænt sii iu", "es": "¿Seguro? No te veo." },
+        { "who": "Mario", "en": "Look! There's a bear with brown fur.", "say": "luk! déers ə béer wid braun fer", "es": "¡Mira! Hay un oso de pelo marrón." },
+        { "who": "Ashley", "en": "Wow! And there are four deer!", "say": "wau! ən déer ar for díer!", "es": "¡Hala! ¡Y hay cuatro ciervos!" },
+        { "who": "Mario", "en": "I'm tired. Can we sit on that chair?", "say": "aim táierd. kən wi sit an dæt chéer?", "es": "Estoy cansado. ¿Nos sentamos en esa silla?" },
+        { "who": "Ashley", "en": "Sure! Let's get some more water.", "say": "shur! lets guet səm mor wárer", "es": "¡Claro! Vamos a por más agua." },
+        { "who": "Mario", "en": "Thanks! The bears are my favorite!", "say": "zænks! də béers ar mai féivrit!", "es": "¡Gracias! ¡Los osos son mis favoritos!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        { "es": "Di «<b>car</b>» de «carne» y, sin cortar, lleva la lengua hacia atrás sin tocar nada.", "en": "Say «car» from «carne» and glide your tongue back." },
+        { "es": "Haz lo mismo con «<b>or</b>» (amor); luego con <code>éer</code> (hair) e <code>íer</code> (here).", "en": "Do the same with /ɔr/, then /ɛr/ and /ɪr/." },
+        { "es": "Lee la familia F de arriba abajo: fear, fair, far, four, fur, fire, flower.", "en": "Read the F family from top to bottom." },
+        { "es": "Practica las parejas: beer/bear, here/hair, star/store. Exagera.", "en": "Practice the pairs and exaggerate." },
+        { "es": "Di «Where are you? Over here!», escanea los QR y <b>grábate</b>.", "en": "Say «Where are you? Over here!», listen and record yourself." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "Four more horses are at the door.", "say": "for mor jórsis ar ət də dor", "es": "Hay cuatro caballos más en la puerta." },
+        { "en": "Where's the bear with the hair near the chair?", "say": "wéers də béer wid də jéer níer də chéer?", "es": "¿Dónde está el oso del pelo, cerca de la silla?" },
+        { "en": "A star in a car is far from the bar.", "say": "ə star inə kar is far frəm də bar", "es": "Una estrella en un coche está lejos del bar." }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "La R manda",
+      "title_en": "The R is the boss",
+      "es": "Antes de leer una vocal, mira si detrás viene una <b>R</b>. Si la hay, la vocal cambia y la R <b>suena siempre</b>. Repasa los cuatro sonidos estrella con una frase: <b>My car is near the door, over there</b> → <code>kar</code>, <code>níer</code>, <code>dor</code>, <code>déer</code>. 🚗",
+      "en": "Before you read a vowel, check for an R after it. If there is one, the vowel changes and the R is always pronounced."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Qué sonido?",
+      "title_en": "Which sound?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea su sonido.",
+      "en": "Say the word and circle its sound.",
+      "items": [
+        { "q": "car → [ar|or|éer|íer]", "a": "ar" },
+        { "q": "door → [ar|or|éer|íer]", "a": "or" },
+        { "q": "hair → [ar|or|éer|íer]", "a": "éer" },
+        { "q": "beer → [ar|or|éer|íer]", "a": "íer" },
+        { "q": "heart → [ar|or|éer|íer]", "a": "ar" },
+        { "q": "four → [ar|or|éer|íer]", "a": "or" },
+        { "q": "where → [ar|or|éer|íer]", "a": "éer" },
+        { "q": "ear → [ar|or|éer|íer]", "a": "íer" },
+        { "q": "warm → [ar|or|éer|íer]", "a": "or" },
+        { "q": "bear → [ar|or|éer|íer]", "a": "éer" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Cuatro cajas",
+      "title_en": "Four boxes",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en la caja de su sonido.",
+      "en": "Say each word and write it in the right box.",
+      "cats": [
+        { "name": "🚗 ar", "words": ["star", "park", "heart", "garden"] },
+        { "name": "🚪 or", "words": ["door", "four", "horse", "warm"] },
+        { "name": "💇 éer", "words": ["chair", "where", "bear", "there"] },
+        { "name": "👂 íer", "words": ["ear", "beer", "near", "deer"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["car", "<code>kar</code>"],
+        ["door", "<code>dor</code>"],
+        ["chair", "<code>chéer</code>"],
+        ["ear", "<code>íer</code>"],
+        ["fire", "<code>fáier</code>"],
+        ["hour", "<code>áuer</code>"],
+        ["sure", "<code>shur</code>"],
+        ["heart", "<code>jart</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Recuerda: AIR = <b>éer</b>, EAR = <b>íer</b> (o lo que toque).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        { "q": "⭐ star → ____", "a": "star" },
+        { "q": "➕ more → ____", "a": "mor" },
+        { "q": "🐴 horse → ____", "a": "jors" },
+        { "q": "🤲 care → ____", "a": "kéer" },
+        { "q": "🤏 near → ____", "a": "níer" },
+        { "q": "😴 tired → ____", "a": "táierd" },
+        { "q": "🌸 flower → ____", "a": "fláuer" },
+        { "q": "🚌 tour → ____", "a": "tur" },
+        { "q": "🌳 park → ____", "a": "park" },
+        { "q": "👗 wear → ____", "a": "wéer" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "En inglés americano, ¿estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "In American English, do they sound the same or different?",
+      "items": [
+        { "q": "hour · our → [igual|diferente]", "a": "igual" },
+        { "q": "here · hear → [igual|diferente]", "a": "igual" },
+        { "q": "four · for (dichas solas) → [igual|diferente]", "a": "igual" },
+        { "q": "where · wear → [igual|diferente]", "a": "igual" },
+        { "q": "flower · flour → [igual|diferente]", "a": "igual" },
+        { "q": "there · their → [igual|diferente]", "a": "igual" },
+        { "q": "bear · beer → [igual|diferente]", "a": "diferente" },
+        { "q": "star · store → [igual|diferente]", "a": "diferente" },
+        { "q": "heart · hurt → [igual|diferente]", "a": "diferente" },
+        { "q": "fair · far → [igual|diferente]", "a": "diferente" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "In American English, the R in «car» is pronounced.", "a": true },
+        { "q": "«Hair» sounds like «jair».", "a": false, "why": "suena <code>jéer</code>" },
+        { "q": "«Bear» and «beer» sound the same.", "a": false, "why": "<code>béer</code> / <code>bíer</code>" },
+        { "q": "«Heart» has the same vowel as «car».", "a": true },
+        { "q": "«Warm» rhymes with «form».", "a": true },
+        { "q": "In «four», you can hear a U.", "a": false, "why": "suena <code>for</code>" },
+        { "q": "«Here» and «there» rhyme.", "a": false, "why": "<code>jíer</code> / <code>déer</code>" },
+        { "q": "In much of England, the R in «car» is silent.", "a": true }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte y di la palabra con su sonido de R.",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        { "syl": ["gar", "den"], "s": 0, "es": "jardín" },
+        { "syl": ["gui", "tar"], "s": 1, "es": "guitarra" },
+        { "syl": ["mor", "ning"], "s": 0, "es": "mañana" },
+        { "syl": ["air", "port"], "s": 0, "es": "aeropuerto" },
+        { "syl": ["up", "stairs"], "s": 1, "es": "arriba" },
+        { "syl": ["pre", "pare"], "s": 1, "es": "preparar" },
+        { "syl": ["ap", "pear"], "s": 1, "es": "aparecer" },
+        { "syl": ["vam", "pire"], "s": 0, "es": "vampiro" },
+        { "syl": ["to", "mor", "row"], "s": 1, "es": "mañana (el día)" },
+        { "syl": ["car", "toon"], "s": 1, "es": "dibujos animados" }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Ordena las letras",
+      "title_en": "Unscramble the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra. Después dila en voz alta.",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        { "q": "🚗 coche", "a": "car" },
+        { "q": "🚪 puerta", "a": "door" },
+        { "q": "🪑 silla", "a": "chair" },
+        { "q": "👂 oreja", "a": "ear" },
+        { "q": "🐻 oso", "a": "bear" },
+        { "q": "🔥 fuego", "a": "fire" },
+        { "q": "🌸 flor", "a": "flower" },
+        { "q": "🐴 caballo", "a": "horse" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "hair → <code>jair</code>", "a": "jéer" },
+        { "q": "here → <code>jer</code>", "a": "jíer" },
+        { "q": "four → <code>fóur</code>", "a": "for" },
+        { "q": "heart → <code>jeárt</code>", "a": "jart" },
+        { "q": "sure → <code>súre</code>", "a": "shur" },
+        { "q": "fire → <code>fíre</code>", "a": "fáier" },
+        { "q": "warm → <code>uárm</code>", "a": "worm" },
+        { "q": "where → <code>uére</code>", "a": "wéer" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe la frase como suena",
+      "title_en": "Write the phrase as it sounds",
+      "icon": "🗣️",
+      "es": "Escribe cómo suena cada frase con la figurada.",
+      "en": "Write how each phrase sounds.",
+      "items": [
+        { "q": "Where are you?", "a": "wéer ar iu" },
+        { "q": "Over here!", "a": "óuver jíer" },
+        { "q": "four more cars", "a": "for mor kars" },
+        { "q": "I'm sure.", "a": "aim shur" },
+        { "q": "near the door", "a": "níer də dor" },
+        { "q": "fair hair", "a": "féer jéer" },
+        { "q": "an hour", "a": "ənáuer" },
+        { "q": "far, far away", "a": "far, fárəwéi" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada línea 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each line three times and tick a box each time.",
+      "items": [
+        { "q": "car, star, park", "say": "kar, star, park" },
+        { "q": "more, door, four", "say": "mor, dor, for" },
+        { "q": "hair, chair, where", "say": "jéer, chéer, wéer" },
+        { "q": "ear, here, beer", "say": "íer, jíer, bíer" },
+        { "q": "fire, hour, sure", "say": "fáier, áuer, shur" },
+        { "q": "Where are you? Over here!", "say": "wéer ar iu? óuver jíer!" },
+        { "q": "Four more horses are at the door.", "say": "for mor jórsis ar ət də dor" },
+        { "q": "A star in a car is far from the bar.", "say": "ə star inə kar is far frəm də bar" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta, con la R americana.",
+      "en": "Translate into English and say it aloud.",
+      "items": [
+        { "q": "coche", "a": "car (kar)" },
+        { "q": "puerta", "a": "door (dor)" },
+        { "q": "silla", "a": "chair (chéer)" },
+        { "q": "oreja", "a": "ear (íer)" },
+        { "q": "aquí", "a": "here (jíer)" },
+        { "q": "dónde", "a": "where (wéer)" },
+        { "q": "cuatro", "a": "four (for)" },
+        { "q": "fuego", "a": "fire (fáier)" },
+        { "q": "hora", "a": "hour (áuer)" },
+        { "q": "seguro", "a": "sure (shur)" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «Sonido» escribe ar, or, éer, íer…",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Español", "Suena", "Sonido"],
+      "rows": [
+        ["car", "?coche", "?kar", "ar"],
+        ["?door", "puerta", "dor", "?or"],
+        ["chair", "?silla", "?chéer", "éer"],
+        ["?ear", "oreja", "íer", "?íer"],
+        ["heart", "corazón", "?jart", "?ar"],
+        ["?four", "cuatro", "for", "?or"],
+        ["here", "?aquí", "?jíer", "íer"],
+        ["fire", "?fuego", "fáier", "?ai + er"]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras con R",
+      "title_en": "R word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con vocal + R. Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 words with a vowel + R.",
+      "words": ["car", "star", "door", "horse", "chair", "bear", "beer", "heart", "fire", "flower"],
+      "clues": ["car · coche", "star · estrella", "door · puerta", "horse · caballo", "chair · silla", "bear · oso", "beer · cerveza", "heart · corazón", "fire · fuego", "flower · flor"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las R",
+      "title_en": "Read and find the R sounds",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Ashley's Farm",
+      "text": [
+        "Ashley lives on a farm far from the city. There are four horses, two deer and a lot of flowers.",
+        "Every morning, she feeds the horses and sits on her favorite chair near the door. «I'm sure this is the best place in the world!» she says."
+      ],
+      "items": [
+        { "q": "How many horses are there?", "a": "Four (<code>for</code>)." },
+        { "q": "Find two words in the text with the sound <code>or</code>.", "a": "four, horses, morning, door (cualquiera)." },
+        { "q": "How does «chair» sound?", "a": "<code>chéer</code>" },
+        { "q": "Ashley lives near the city.", "tf": true, "a": false, "why": "far from = lejos de" },
+        { "q": "«Near» and «deer» have the same R sound.", "tf": true, "a": true, "why": "<code>níer</code>, <code>díer</code>" },
+        { "q": "«Farm» and «far» have the sound <code>ar</code>.", "tf": true, "a": true }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con palabras de este mapa. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with words from this map and record yourself.",
+      "items": [
+        { "q": "Una frase sobre tu casa con where, here o there.", "lines": 2, "a": "Ej.: My chair is over there, near the door." },
+        { "q": "Una frase con car, star o park.", "lines": 2, "a": "Ej.: My dad's car is in the park." },
+        { "q": "Una frase con fire, hour o flower.", "lines": 2 }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Digo la R americana al final de car, more y hair.", "en": "I pronounce the final R in car, more and hair." },
+    { "es": "Sé decir <code>ar</code>, <code>or</code>, <code>éer</code> e <code>íer</code>: car, more, hair, here.", "en": "I can say the four big R sounds." },
+    { "es": "No leo «ai» en hair, chair ni air.", "en": "I don't say «ai» in hair, chair or air." },
+    { "es": "Distingo beer/bear y here/hair.", "en": "I can tell beer/bear and here/hair apart." },
+    { "es": "Sé que W + AR suena or: war, warm.", "en": "I know W + AR sounds /wɔr/." },
+    { "es": "Digo fire y hour como una sílaba estirada: <code>fáier</code>, <code>áuer</code>.", "en": "I can say fire and hour." }
+  ]
+}

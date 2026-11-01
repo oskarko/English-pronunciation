@@ -1,0 +1,669 @@
+{
+  "id": "V-11",
+  "block": "V",
+  "title": "LA E MÁGICA",
+  "file_title": "La E mágica (reglas de lectura)",
+  "subtitle": "Magic E · la e muda que cambia la vocal",
+  "icon": "🪄",
+  "map": {
+    "center": "Una <b>e</b> muda al final hace que la vocal diga <b>su nombre</b>: kit = <code>kit</code>, kite = <code>kait</code>.",
+    "listen": "kite",
+    "nodes": [
+      { "title": "Sin E: vocal corta", "icon": "✂️", "color": "green", "rows": [["cap", "<code>kæp</code>"], ["kit", "<code>kit</code>"], ["hop", "<code>jap</code>"]] },
+      { "title": "Con E: su nombre", "icon": "🪄", "color": "blue", "rows": [["cape", "<code>keip</code>"], ["kite", "<code>kait</code>"], ["hope", "<code>joup</code>"]] },
+      { "title": "Los 5 nombres", "icon": "🔤", "color": "purple", "chips": ["A <code>ei</code>", "E <code>ii</code>", "I <code>ai</code>", "O <code>ou</code>", "U <code>iuu</code>"], "after": "así suenan las vocales en el abecedario" },
+      { "title": "Dos vocales juntas", "icon": "👯", "color": "orange", "rows": [["EE · EA", "<code>ii</code> see, tea"], ["AI · AY", "<code>ei</code> rain, day"], ["OA", "<code>ou</code> boat"]] },
+      { "title": "IGH · IE · OW", "icon": "🌙", "color": "pink", "rows": [["IGH · IE", "<code>ai</code> night, pie"], ["OW", "<code>ou</code> snow · <code>au</code> now"]] },
+      { "title": "¡Rebeldes!", "icon": "😈", "color": "yellow", "html": "En <b>have</b>, <b>give</b>, <b>love</b> y <b>come</b> la E no hace magia: <code>jæv</code>, <code>guiv</code>, <code>lav</code>, <code>kam</code>." }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["<code>jópe</code> (leer la e)"],
+      "good": ["<code>joup</code> 🙏"],
+      "note": "La E final no suena nunca: solo da la orden."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "🪁 kite → ____", "a": "kait" },
+        { "q": "🐱 cute → ____", "a": "kiuut" },
+        { "q": "🌧️ rain → ____", "a": "rein" },
+        { "q": "⛵ boat → ____", "a": "bout" },
+        { "q": "🌙 night → ____", "a": "nait" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la e mágica?",
+      "title_en": "What is the magic E?",
+      "icon": "🔎",
+      "es": "En español, cada vocal suena siempre igual. En inglés, cada vocal tiene <b>dos voces</b>: una <b>corta</b> (cap, kit, hop) y otra que es <b>su nombre</b> en el abecedario: A = <code>ei</code>, E = <code>ii</code>, I = <code>ai</code>, O = <code>ou</code>, U = <code>iuu</code>. ¿Quién decide cuál toca? Muchas veces, una <mark>E muda al final</mark>: no suena, pero toca la vocal con su varita y la hace decir su nombre: cap → cape, kit → kite, hop → hope.",
+      "en": "English vowels have two voices: a short sound (cap, kit, hop) and their alphabet name (cape, kite, hope). A silent E at the end usually makes the vowel say its name.",
+      "formula": ["vocal + consonante + *e muda*", "→ la vocal dice su *nombre*"]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · A + consonante + E = ei",
+      "title_en": "A_E says /eɪ/",
+      "icon": "🎂",
+      "es": "<b>A</b> + consonante + <b>E</b> suena <code>ei</code>, el diptongo de «r<b>ey</b>». Sin la e, la A es corta: la <code>æ</code> de cat (mapa V-03). <b>Mad</b> = <code>mæd</code> (enfadado) y <b>made</b> = <code>meid</code> (hecho). <b>Plan</b> es un plan; <b>plane</b>, un avión.",
+      "en": "A + consonant + E says /eɪ/: cake, game, name. Without the E, the A is short /æ/: mad/made, plan/plane.",
+      "formula": ["c + *a* + k + *e* → keik"],
+      "examples": [
+        { "en": "cake", "say": "keik", "es": "tarta", "icon": "🎂" },
+        { "en": "game", "say": "gueim", "es": "juego / partido", "icon": "🎮" },
+        { "en": "name", "say": "neim", "es": "nombre", "icon": "📛" },
+        { "en": "plane", "say": "plein", "es": "avión", "icon": "✈️" },
+        { "en": "lake", "say": "leik", "es": "lago", "icon": "🏞️" },
+        { "en": "skate", "say": "skeit", "es": "patinar", "icon": "🛹" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · I + consonante + E = ai",
+      "title_en": "I_E says /aɪ/",
+      "icon": "🪁",
+      "es": "<b>I</b> + consonante + <b>E</b> suena <code>ai</code>, el diptongo de «<b>ai</b>re». Sin la e, la I es corta y relajada, casi una e (mapa V-02): <b>kit</b> = <code>kit</code>, <b>kite</b> = <code>kait</code>. <b>Win</b> es ganar; <b>wine</b>, vino.",
+      "en": "I + consonant + E says /aɪ/: kite, time, bike. Without the E, the I is short /ɪ/: kit/kite, win/wine.",
+      "examples": [
+        { "en": "kite", "say": "kait", "es": "cometa", "icon": "🪁" },
+        { "en": "time", "say": "taim", "es": "tiempo / hora", "icon": "⏱️" },
+        { "en": "bike", "say": "baik", "es": "bici", "icon": "🚲" },
+        { "en": "five", "say": "faiv", "es": "cinco", "icon": "5️⃣" },
+        { "en": "nice", "say": "nais", "es": "majo / bonito", "icon": "😊" },
+        { "en": "like", "say": "laik", "es": "gustar", "icon": "👍" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · O + consonante + E = ou",
+      "title_en": "O_E says /oʊ/",
+      "icon": "🏠",
+      "es": "<b>O</b> + consonante + <b>E</b> suena <code>ou</code>: una o que se cierra en u (mapa V-08). Sin la e, la O suena a, como en hot (mapa V-05): <b>not</b> = <code>nat</code>, <b>note</b> = <code>nout</code>. <b>Hop</b> es saltar; <b>hope</b>, esperanza.",
+      "en": "O + consonant + E says /oʊ/: home, hope, nose. Without the E, the O sounds /ɑ/: not/note, hop/hope.",
+      "examples": [
+        { "en": "home", "say": "joum", "es": "casa / hogar", "icon": "🏠" },
+        { "en": "hope", "say": "joup", "es": "esperar / esperanza", "icon": "🙏" },
+        { "en": "nose", "say": "nous", "es": "nariz", "icon": "👃" },
+        { "en": "phone", "say": "foun", "es": "teléfono", "icon": "📱" },
+        { "en": "bone", "say": "boun", "es": "hueso", "icon": "🦴" },
+        { "en": "note", "say": "nout", "es": "nota", "icon": "📝" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · U + consonante + E = iuu",
+      "title_en": "U_E says /juː/ or /uː/",
+      "icon": "🧊",
+      "es": "<b>U</b> + consonante + <b>E</b> dice su nombre: <code>iuu</code> (cute, cube). Detrás de <b>j</b>, <b>l</b> o <b>r</b> (y, en americano, también detrás de t, d o n) se pierde la i y queda <code>uu</code>: tube, June, rule. Sin la e, la U es corta y suena a (mapa V-04): <b>cut</b> = <code>kat</code>, <b>cute</b> = <code>kiuut</code>.",
+      "en": "U + consonant + E says /juː/ (cute, cube) or /uː/ after j, l, r, t, d, n (tube, June, rule). Without the E, the U is short /ʌ/: cut/cute.",
+      "examples": [
+        { "en": "cute", "say": "kiuut", "es": "mono / adorable", "icon": "🐱" },
+        { "en": "cube", "say": "kiuub", "es": "cubo", "icon": "🧊" },
+        { "en": "tube", "say": "tuub", "es": "tubo", "icon": "🧪" },
+        { "en": "June", "say": "yuun", "es": "junio", "icon": "📅" },
+        { "en": "rule", "say": "ruul", "es": "regla / norma", "icon": "📏" },
+        { "en": "flute", "say": "fluut", "es": "flauta", "icon": "🎶" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · E + consonante + E = ii",
+      "title_en": "E_E says /iː/",
+      "icon": "🧩",
+      "es": "<b>E</b> + consonante + <b>E</b> suena <code>ii</code> larga. Es la menos frecuente, pero sale en palabras muy útiles: these, complete, Chinese, Japanese. Sin la e, la E es corta: <b>pet</b> = <code>pet</code> (mascota) y <b>Pete</b> = <code>piit</code> (un nombre).",
+      "en": "E + consonant + E says /iː/: these, complete, Chinese. Without the E, it's short /ɛ/: pet/Pete.",
+      "examples": [
+        { "en": "these", "say": "diis", "es": "estos / estas", "icon": "👇" },
+        { "en": "Pete", "say": "piit", "es": "Pete (nombre)", "icon": "🧒" },
+        { "en": "complete", "say": "kəmplíit", "es": "completo", "icon": "✅" },
+        { "en": "Chinese", "say": "chainíis", "es": "chino", "icon": "🥢" },
+        { "en": "Japanese", "say": "yæpəníis", "es": "japonés", "icon": "🍣" },
+        { "en": "extreme", "say": "ikstríim", "es": "extremo", "icon": "🧗" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · EE y EA = ii",
+      "title_en": "EE and EA say /iː/",
+      "icon": "🌳",
+      "es": "Ahora, parejas de letras. Una regla de andar por casa: <mark>cuando dos vocales van juntas, la primera dice su nombre y la segunda se calla</mark>. <b>EE</b> y <b>EA</b> suenan <code>ii</code> larga: see, tree, tea, eat. ¡Ojo! EA tiene rebeldes famosas: bread = <code>bred</code>, great = <code>greit</code> (mapa P-06).",
+      "en": "When two vowels go together, the first one often says its name: EE and EA say /iː/ (see, tea). EA has exceptions: bread, great.",
+      "examples": [
+        { "en": "see", "say": "sii", "es": "ver", "icon": "👀" },
+        { "en": "tree", "say": "trii", "es": "árbol", "icon": "🌳" },
+        { "en": "green", "say": "griin", "es": "verde", "icon": "💚" },
+        { "en": "tea", "say": "tii", "es": "té", "icon": "🍵" },
+        { "en": "eat", "say": "iit", "es": "comer", "icon": "🍽️" },
+        { "en": "beach", "say": "biich", "es": "playa", "icon": "🏖️" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 7,
+      "title": "7 · AI y AY = ei",
+      "title_en": "AI and AY say /eɪ/",
+      "icon": "🌧️",
+      "es": "<b>AI</b> (en medio de la palabra) y <b>AY</b> (al final) suenan <code>ei</code>: rain, train, wait, day, play. Las dos rebeldes más famosas son de las palabras más usadas: <b>said</b> = <code>sed</code> y <b>says</b> = <code>ses</code>.",
+      "en": "AI (in the middle) and AY (at the end) say /eɪ/: rain, train, day, play. Watch out: said and says sound /ɛ/.",
+      "examples": [
+        { "en": "rain", "say": "rein", "es": "lluvia", "icon": "🌧️" },
+        { "en": "train", "say": "trein", "es": "tren", "icon": "🚂" },
+        { "en": "wait", "say": "weit", "es": "esperar", "icon": "⏳" },
+        { "en": "day", "say": "dei", "es": "día", "icon": "☀️" },
+        { "en": "play", "say": "plei", "es": "jugar", "icon": "🎮" },
+        { "en": "say", "say": "sei", "es": "decir", "icon": "💬" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 8,
+      "title": "8 · OA = ou · OW = ou o au",
+      "title_en": "OA says /oʊ/ · OW says /oʊ/ or /aʊ/",
+      "icon": "⛵",
+      "es": "<b>OA</b> suena <code>ou</code>: boat, coat, road. <b>OW</b> también, sobre todo al final: snow, show, yellow… pero <mark>OW tiene doble vida</mark>: en now, how, cow o down suena <code>au</code>. No hay regla segura: apréndelas por familias (snow-show-slow · now-how-cow).",
+      "en": "OA says /oʊ/: boat, road. OW says /oʊ/ (snow, show) or /aʊ/ (now, cow). Learn them in families.",
+      "examples": [
+        { "en": "boat", "say": "bout", "es": "barco", "icon": "⛵" },
+        { "en": "coat", "say": "kout", "es": "abrigo", "icon": "🧥" },
+        { "en": "snow", "say": "snou", "es": "nieve", "icon": "❄️" },
+        { "en": "yellow", "say": "iélou", "es": "amarillo", "icon": "💛" },
+        { "en": "now", "say": "nau", "es": "ahora", "icon": "⏰" },
+        { "en": "cow", "say": "kau", "es": "vaca", "icon": "🐄" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 9,
+      "title": "9 · IGH e IE = ai",
+      "title_en": "IGH and IE say /aɪ/",
+      "icon": "🌙",
+      "es": "<b>IGH</b> suena <code>ai</code> y la GH no suena: night, light, high, right. <b>IE</b> al final de palabras cortas, también: pie, tie, lie. Pero dentro de la palabra, IE suele sonar <code>ii</code>: piece, field. Y una rebelde muy común: <b>friend</b> = <code>frend</code>.",
+      "en": "IGH says /aɪ/ (night, light). IE says /aɪ/ at the end of short words (pie, tie) but /iː/ inside words (piece, field). Friend is an exception.",
+      "examples": [
+        { "en": "night", "say": "nait", "es": "noche", "icon": "🌙" },
+        { "en": "light", "say": "lait", "es": "luz", "icon": "💡" },
+        { "en": "high", "say": "jai", "es": "alto", "icon": "⬆️" },
+        { "en": "right", "say": "rait", "es": "derecha / correcto", "icon": "👉" },
+        { "en": "pie", "say": "pai", "es": "tarta (de horno)", "icon": "🥧" },
+        { "en": "piece", "say": "piis", "es": "trozo", "icon": "🧩" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 10,
+      "title": "10 · ¡Las rebeldes!",
+      "title_en": "The rebels",
+      "icon": "😈",
+      "es": "Muchas palabras muy comunes no hacen caso a la e mágica. Un secreto: en inglés casi ninguna palabra acaba en <b>V</b>, así que le ponen una E detrás… y esa E <mark>no siempre es mágica</mark>: have, give, live, love. Y algunas en -OME, -ONE u -OVE suenan a corta: come, some, done, one.",
+      "en": "Many common words ignore the magic E. English words don't usually end in V, so an E is added, and it isn't always magic: have, give, live, love, come, some.",
+      "examples": [
+        { "en": "have", "say": "jæv", "es": "tener", "icon": "🤲" },
+        { "en": "give", "say": "guiv", "es": "dar", "icon": "🎁" },
+        { "en": "live", "say": "liv", "es": "vivir", "icon": "🏡" },
+        { "en": "love", "say": "lav", "es": "amor / encantar", "icon": "❤️" },
+        { "en": "come", "say": "kam", "es": "venir", "icon": "👋" },
+        { "en": "some", "say": "sam", "es": "algunos / algo de", "icon": "🍪" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "name", "ipa": "neɪm", "say": "neim", "es": "nombre", "icon": "📛", "anchor": "<b>Neym</b>ar ⚽", "tip": "El «Neym» de Neymar es justo name: A + m + E = ei." },
+        { "en": "lake", "ipa": "leɪk", "say": "leik", "es": "lago", "icon": "🏞️", "anchor": "la <b>ley</b> + k ⚖️", "tip": "Di «ley» y añade una k: leik." },
+        { "en": "play", "ipa": "pleɪ", "say": "plei", "es": "jugar", "icon": "🎮", "anchor": "¿una partida a la <b>Play</b>? 🕹️", "tip": "AY = ei. ¡Ya lo dices bien!" },
+        { "en": "like", "ipa": "laɪk", "say": "laik", "es": "gustar", "icon": "👍", "anchor": "dar un <b>like</b> 📲", "tip": "I + k + E = ai. Ya lo dices bien en redes." },
+        { "en": "see", "ipa": "siː", "say": "sii", "es": "ver", "icon": "👀", "anchor": "¡<b>sí</b>! ✔️", "tip": "¿Lo ves? ¡Sí! Alarga la i: sii. Sea (mar) suena igual." },
+        { "en": "tea", "ipa": "tiː", "say": "tii", "es": "té", "icon": "🍵", "anchor": "para <b>ti</b> 🫖", "tip": "Un té para ti: tea. Alarga la i: tii." },
+        { "en": "green", "ipa": "ɡriːn", "say": "griin", "es": "verde", "icon": "💚", "anchor": "el <b>Grin</b>ch 🎄", "tip": "El Grinch es verde. Quita la ch y alarga la i: griin." },
+        { "en": "tube", "ipa": "tuːb", "say": "tuub", "es": "tubo", "icon": "🧪", "anchor": "<b>tub</b>o", "tip": "Sin la o y con u larga. Ojo: tub (bañera) suena <code>tab</code>." },
+        { "en": "light", "ipa": "laɪt", "say": "lait", "es": "luz / ligero", "icon": "💡", "anchor": "yogur <b>light</b> 🥛", "tip": "Ya lo dices bien: lait. La GH no suena." },
+        { "en": "high", "ipa": "haɪ", "say": "jai", "es": "alto", "icon": "⬆️", "anchor": "<b>Jai</b>me 🙋", "tip": "Con j suave, como vaho. High five! = <code>jai faiv</code> 🙌" },
+        { "en": "goal", "ipa": "ɡoʊl", "say": "goul", "es": "gol / meta", "icon": "⚽", "anchor": "<s>gol</s> → <b>goul</b>", "tip": "OA = ou. El «gol» español no vale en inglés." },
+        { "en": "coach", "ipa": "koʊtʃ", "say": "kouch", "es": "entrenador", "icon": "🏅", "anchor": "<s>koch</s> → <b>kouch</b>", "tip": "OA = ou, también en el coach del gimnasio." },
+        { "en": "hope", "ipa": "hoʊp", "say": "joup", "es": "esperanza", "icon": "🙏", "anchor": "<s>jópe</s> → <b>joup</b>", "tip": "La E final no suena: solo manda." },
+        { "en": "cute", "ipa": "kjuːt", "say": "kiuut", "es": "mono / adorable", "icon": "🐱", "anchor": "<s>kúte</s> → <b>kiuut</b>", "tip": "U + t + E dice su nombre: iuu." }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "kite", "es": "cometa" },
+        { "q": "cute", "es": "mono" },
+        { "q": "hope", "es": "esperanza" },
+        { "q": "rain", "es": "lluvia" },
+        { "q": "boat", "es": "barco" },
+        { "q": "night", "es": "noche" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Parejas de letras",
+      "title_en": "Vowel teams",
+      "icon": "👯",
+      "head": ["Letras · Letters", "Suenan", "Ejemplos · Examples", "Rebeldes · Rebels"],
+      "rows": [
+        ["EE", "<code>ii</code>", "see, tree, green", "—"],
+        ["EA", "<code>ii</code>", "tea, eat, beach", "bread, head, great (P-06)"],
+        ["AI", "<code>ei</code>", "rain, train, wait", "said = <code>sed</code>"],
+        ["AY", "<code>ei</code>", "day, play, say", "says = <code>ses</code>"],
+        ["OA", "<code>ou</code>", "boat, coat, road", "broad = <code>brod</code>"],
+        ["OW", "<code>ou</code> / <code>au</code>", "snow, show / now, cow", "¡apréndelas por familias!"],
+        ["IE", "<code>ai</code> / <code>ii</code>", "pie, tie / piece, field", "friend = <code>frend</code>"],
+        ["IGH", "<code>ai</code>", "night, light, high", "—"],
+        ["EIGH", "<code>ei</code>", "eight, weigh", "height = <code>jait</code>"]
+      ],
+      "note": "Las pistas funcionan en la mayoría de palabras, pero no en todas. Si una palabra te hace dudar, búscala (mapa P-06).",
+      "note_en": "These clues work for most words, but not all. When in doubt, look it up."
+    },
+    {
+      "t": "pairs",
+      "title": "Sin e y con e",
+      "title_en": "Without and with E",
+      "icon": "🪄",
+      "items": [
+        { "a": { "en": "cap", "ipa": "kæp", "say": "kæp", "es": "gorra", "icon": "🧢" }, "b": { "en": "cape", "ipa": "keɪp", "say": "keip", "es": "capa", "icon": "🦸" }, "tip": "La e no suena, pero convierte la gorra en una capa de superhéroe." },
+        { "a": { "en": "kit", "ipa": "kɪt", "say": "kit", "es": "kit / equipo", "icon": "🧰" }, "b": { "en": "kite", "ipa": "kaɪt", "say": "kait", "es": "cometa", "icon": "🪁" }, "tip": "La i corta se vuelve <code>ai</code>, como su nombre." },
+        { "a": { "en": "hop", "ipa": "hɑp", "say": "jap", "es": "saltar", "icon": "🐇" }, "b": { "en": "hope", "ipa": "hoʊp", "say": "joup", "es": "esperanza", "icon": "🙏" }, "tip": "De saltar a esperar con una sola letra." },
+        { "a": { "en": "cut", "ipa": "kʌt", "say": "kat", "es": "cortar", "icon": "✂️" }, "b": { "en": "cute", "ipa": "kjuːt", "say": "kiuut", "es": "mono / adorable", "icon": "🐱" }, "tip": "La U corta suena a; con e, dice su nombre: iuu." },
+        { "a": { "en": "pet", "ipa": "pɛt", "say": "pet", "es": "mascota", "icon": "🐶" }, "b": { "en": "Pete", "ipa": "piːt", "say": "piit", "es": "Pete (nombre)", "icon": "🧒" }, "tip": "Pete has a pet: <code>piit jæs ə pet</code>." },
+        { "a": { "en": "tub", "ipa": "tʌb", "say": "tab", "es": "bañera", "icon": "🛁" }, "b": { "en": "tube", "ipa": "tuːb", "say": "tuub", "es": "tubo", "icon": "🧪" }, "tip": "Después de T, el americano dice <code>uu</code>, sin i." }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Una consonante o dos",
+      "title_en": "One consonant or two",
+      "icon": "⚖️",
+      "es": "La e mágica tiene una prima: al añadir -ING o -ER, <b>una</b> consonante deja la vocal larga (dice su nombre) y <b>dos</b> la dejan corta. Así sabrás leer hoping (esperando) y hopping (saltando).",
+      "en": "One consonant keeps the vowel long; a double consonant keeps it short: hoping/hopping, diner/dinner.",
+      "cols": [
+        { "head": "1️⃣ Una → vocal larga", "color": "green", "items": ["hoping → <code>jóuping</code>", "diner → <code>dáiner</code>", "later → <code>léirer</code>", "super → <code>súuper</code>"] },
+        { "head": "2️⃣ Dos → vocal corta", "color": "orange", "items": ["hopping → <code>jáping</code>", "dinner → <code>díner</code>", "latter → <code>lǽrer</code>", "supper → <code>sáper</code>"] }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "I like my bike.", "say": "ai laik mai baik", "es": "Me gusta mi bici.", "icon": "🚲" },
+        { "en": "Let's play a game!", "say": "lets plei ə gueim", "es": "¡Juguemos a algo!", "icon": "🎮" },
+        { "en": "Take the train at five.", "say": "teik də trein ət faiv", "es": "Coge el tren a las cinco.", "icon": "🚂" },
+        { "en": "I hope you have a nice time.", "say": "ai joup iu jæv ə nais taim", "es": "Espero que lo pases bien.", "icon": "🙏" },
+        { "en": "The boat is on the lake.", "say": "də bout isan də leik", "es": "El barco está en el lago.", "icon": "⛵" },
+        { "en": "It's late. Go home!", "say": "its leit. gou joum", "es": "Es tarde. ¡Vete a casa!", "icon": "🏠" },
+        { "en": "I see the sea.", "say": "ai sii də sii", "es": "Veo el mar.", "icon": "🌊" },
+        { "en": "Turn on the light, it's night.", "say": "tern an də lait, its nait", "es": "Enciende la luz, es de noche.", "icon": "💡" },
+        { "en": "My name is Mike and I'm nine.", "say": "mai neim is maik ən aim nain", "es": "Me llamo Mike y tengo nueve años.", "icon": "🧒" },
+        { "en": "Come and have some cake!", "say": "kam ən jæv səm keik", "es": "¡Ven a comer tarta!", "icon": "🎂" },
+        { "en": "Look at the snow!", "say": "luk ət də snou", "es": "¡Mira la nieve!", "icon": "❄️" },
+        { "en": "My friend said hi.", "say": "mai frend sed jai", "es": "Mi amigo me saludó.", "icon": "👋" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "hope → <code>jópe</code>", "good": "<code>joup</code>", "why": "La E final no suena: solo da la orden a la O.", "why_en": "The final E is silent." },
+        { "bad": "cute → <code>kúte</code>", "good": "<code>kiuut</code>", "why": "U + consonante + E dice su nombre: iuu.", "why_en": "U_E says its name: /juː/." },
+        { "bad": "time → <code>tíme</code>", "good": "<code>taim</code>", "why": "I + consonante + E = ai, y la e se calla.", "why_en": "I_E says /aɪ/." },
+        { "bad": "have → <code>jeiv</code>", "good": "<code>jæv</code>", "why": "Rebelde: aquí la E no hace magia.", "why_en": "Have is a rebel: short /æ/." },
+        { "bad": "love → <code>louv</code>", "good": "<code>lav</code>", "why": "Rebelde: la O suena a corta (mapa V-04).", "why_en": "Love is a rebel: /ʌ/." },
+        { "bad": "said → <code>seid</code>", "good": "<code>sed</code>", "why": "Rebelde: aquí AI suena e.", "why_en": "Said is a rebel: /ɛ/." },
+        { "bad": "friend → <code>fríend</code>", "good": "<code>frend</code>", "why": "Rebelde: IE suena e, en una sílaba.", "why_en": "Friend is a rebel: /ɛ/." },
+        { "bad": "boat → <code>boát</code>", "good": "<code>bout</code>", "why": "OA = ou, todo en una sílaba.", "why_en": "OA says /oʊ/, one syllable." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "La cometa de Mike",
+      "title_en": "Mike's kite",
+      "lines": [
+        { "who": "Mike", "en": "Hi Mario! Do you like my new kite?", "say": "jai mário! du iu laik mai nuu kait?", "es": "¡Hola, Mario! ¿Te gusta mi cometa nueva?" },
+        { "who": "Mario", "en": "It's so cute! Can I fly it?", "say": "its sou kiuut! kən ai flai it?", "es": "¡Es preciosa! ¿Puedo volarla?" },
+        { "who": "Mike", "en": "Sure! But wait, it's late. Let's go at five.", "say": "shur! bət weit, its leit. lets gou ət faiv", "es": "¡Claro! Pero espera, es tarde. Vamos a las cinco." },
+        { "who": "Mario", "en": "Okay. I hope it doesn't rain.", "say": "oukéi. ai joup it dás'n rein", "es": "Vale. Espero que no llueva." },
+        { "who": "Mike", "en": "Look! The sky is blue and the sea is green.", "say": "luk! də skai is bluu ən də sii is griin", "es": "¡Mira! El cielo es azul y el mar, verde." },
+        { "who": "Mario", "en": "Let's take some cake and tea!", "say": "lets teik səm keik ən tii!", "es": "¡Llevemos tarta y té!" },
+        { "who": "Mike", "en": "Great! Come on, let's go!", "say": "greit! kəmán, lets gou!", "es": "¡Genial! ¡Venga, vamos!" },
+        { "who": "Mario", "en": "Bye, Mom! See you at night!", "say": "bai, mam! sii iu ət nait!", "es": "¡Adiós, mamá! ¡Nos vemos por la noche!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo leer una palabra nueva",
+      "title_en": "How to read a new word",
+      "items": [
+        { "es": "Mira el final: ¿acaba en vocal + consonante + <b>e</b>? Entonces la vocal dice su nombre y la e se calla.", "en": "Check the end: vowel + consonant + E? The vowel says its name." },
+        { "es": "¿Hay dos vocales juntas? Busca la pareja: EE/EA = <code>ii</code>, AI/AY = <code>ei</code>, OA = <code>ou</code>.", "en": "Two vowels together? Find the vowel team." },
+        { "es": "¿Ves IGH? Di <code>ai</code> y olvídate de la GH.", "en": "IGH says /aɪ/." },
+        { "es": "¿Es una palabra cortita y muy común (have, give, come, said)? Desconfía: puede ser rebelde.", "en": "Very common short words are often rebels." },
+        { "es": "Si dudas, mira el IPA del diccionario y escucha el QR (mapa P-06).", "en": "When in doubt, check the dictionary and listen." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "Kate ate a cake by the lake.", "say": "keit eit ə keik bai də leik", "es": "Kate se comió una tarta junto al lago." },
+        { "en": "Mike likes to ride his nice bike at night.", "say": "maik laiks tə raid jis nais baik ət nait", "es": "A Mike le gusta montar en su bonita bici por la noche." },
+        { "en": "The goat in the coat rode the boat.", "say": "də gout in də kout roud də bout", "es": "La cabra del abrigo se subió al barco." }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "La varita de la E",
+      "title_en": "The magic wand",
+      "es": "Antes de leer una palabra, mira si acaba en <b>E</b>: si la hay, la vocal de antes dice su nombre (A = <code>ei</code>, I = <code>ai</code>, O = <code>ou</code>, U = <code>iuu</code>). Pero recuerda que con las palabras más comunes (have, give, love, come) la varita a veces falla. 🪄",
+      "en": "Before you read a word, look for a final E: the vowel before it usually says its name. But common words like have, give, love and come are rebels."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Corta o con nombre?",
+      "title_en": "Short or long?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea cómo suena.",
+      "en": "Say the word and circle how it sounds.",
+      "items": [
+        { "q": "kite → [kit|kait]", "a": "kait" },
+        { "q": "cap → [kæp|keip]", "a": "kæp" },
+        { "q": "hope → [jap|joup]", "a": "joup" },
+        { "q": "cut → [kat|kiuut]", "a": "kat" },
+        { "q": "plane → [plæn|plein]", "a": "plein" },
+        { "q": "win → [win|wain]", "a": "win" },
+        { "q": "note → [nat|nout]", "a": "nout" },
+        { "q": "tube → [tab|tuub]", "a": "tuub" },
+        { "q": "hat → [jæt|jeit]", "a": "jæt" },
+        { "q": "Pete → [pet|piit]", "a": "piit" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna: ¿vocal corta, dice su nombre o rebelde?",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        { "name": "✂️ vocal corta", "words": ["cap", "kit", "hop", "cut", "pet", "plan"] },
+        { "name": "🪄 dice su nombre", "words": ["cape", "kite", "hope", "cute", "these", "plane"] },
+        { "name": "😈 rebelde", "words": ["have", "give", "love", "come"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["cake", "<code>keik</code>"],
+        ["bike", "<code>baik</code>"],
+        ["home", "<code>joum</code>"],
+        ["cute", "<code>kiuut</code>"],
+        ["rain", "<code>rein</code>"],
+        ["boat", "<code>bout</code>"],
+        ["night", "<code>nait</code>"],
+        ["green", "<code>griin</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Añade la e mágica",
+      "title_en": "Add the magic E",
+      "icon": "🪄",
+      "es": "Añade una <b>e</b> al final. Escribe la palabra nueva y cómo suena.",
+      "en": "Add an E. Write the new word and how it sounds.",
+      "items": [
+        { "q": "🪁 kit + e → _____", "a": "kite · <code>kait</code>" },
+        { "q": "🙏 hop + e → _____", "a": "hope · <code>joup</code>" },
+        { "q": "🐱 cut + e → _____", "a": "cute · <code>kiuut</code>" },
+        { "q": "🦸 cap + e → _____", "a": "cape · <code>keip</code>" },
+        { "q": "🌲 pin + e → _____", "a": "pine · <code>pain</code>" },
+        { "q": "📝 not + e → _____", "a": "note · <code>nout</code>" },
+        { "q": "✈️ plan + e → _____", "a": "plane · <code>plein</code>" },
+        { "q": "🧪 tub + e → _____", "a": "tube · <code>tuub</code>" },
+        { "q": "⏱️ Tim + e → _____", "a": "time · <code>taim</code>" },
+        { "q": "😠 hat + e → _____", "a": "hate · <code>jeit</code>" }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada de estas parejas de letras.",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        { "q": "🌳 tree → ____", "a": "trii" },
+        { "q": "🏖️ beach → ____", "a": "biich" },
+        { "q": "🚂 train → ____", "a": "trein" },
+        { "q": "🎮 play → ____", "a": "plei" },
+        { "q": "🧥 coat → ____", "a": "kout" },
+        { "q": "❄️ snow → ____", "a": "snou" },
+        { "q": "🐄 cow → ____", "a": "kau" },
+        { "q": "💡 light → ____", "a": "lait" },
+        { "q": "🥧 pie → ____", "a": "pai" },
+        { "q": "🧩 piece → ____", "a": "piis" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Cuál es la rebelde?",
+      "title_en": "Find the rebel",
+      "icon": "😈",
+      "es": "Dos palabras siguen la regla. Rodea la rebelde.",
+      "en": "Two words follow the rule. Circle the rebel.",
+      "items": [
+        { "q": "[cake|have|make]", "a": "have" },
+        { "q": "[five|give|nice]", "a": "give" },
+        { "q": "[home|come|bone]", "a": "come" },
+        { "q": "[stove|love|rope]", "a": "love" },
+        { "q": "[rain|said|paid]", "a": "said" },
+        { "q": "[pie|tie|friend]", "a": "friend" },
+        { "q": "[team|bread|seat]", "a": "bread" },
+        { "q": "[day|play|says]", "a": "says" },
+        { "q": "[move|note|rose]", "a": "move" },
+        { "q": "[done|joke|code]", "a": "done" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "The final E in «hope» is silent.", "a": true },
+        { "q": "«Kit» and «kite» have the same vowel sound.", "a": false, "why": "<code>kit</code> / <code>kait</code>" },
+        { "q": "With a magic E, the vowel says its name.", "a": true },
+        { "q": "«Have» rhymes with «cave».", "a": false, "why": "<code>jæv</code> / <code>keiv</code>" },
+        { "q": "EA in «tea» sounds like «ii».", "a": true },
+        { "q": "OW always sounds «ou».", "a": false, "why": "now = <code>nau</code>" },
+        { "q": "«Night» and «light» rhyme.", "a": true },
+        { "q": "In «friend», IE sounds like «ai».", "a": false, "why": "<code>frend</code>" }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Ordena las letras",
+      "title_en": "Unscramble the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra. ¿Lleva e mágica o pareja de vocales?",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        { "q": "🪁 cometa", "a": "kite" },
+        { "q": "🐱 mono, adorable", "a": "cute" },
+        { "q": "🏠 casa, hogar", "a": "home" },
+        { "q": "🚂 tren", "a": "train" },
+        { "q": "⛵ barco", "a": "boat" },
+        { "q": "🌙 noche", "a": "night" },
+        { "q": "🌳 árbol", "a": "tree" },
+        { "q": "❄️ nieve", "a": "snow" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "hope → <code>jópe</code>", "a": "joup" },
+        { "q": "cute → <code>kúte</code>", "a": "kiuut" },
+        { "q": "time → <code>tíme</code>", "a": "taim" },
+        { "q": "have → <code>jeiv</code>", "a": "jæv" },
+        { "q": "love → <code>louv</code>", "a": "lav" },
+        { "q": "said → <code>seid</code>", "a": "sed" },
+        { "q": "friend → <code>fríend</code>", "a": "frend" },
+        { "q": "boat → <code>boát</code>", "a": "bout" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe la frase como suena",
+      "title_en": "Write the phrase as it sounds",
+      "icon": "🗣️",
+      "es": "Escribe cómo suena cada frase con la figurada.",
+      "en": "Write how each phrase sounds.",
+      "items": [
+        { "q": "I like my bike.", "a": "ai laik mai baik" },
+        { "q": "Kate ate a cake.", "a": "keit eit ə keik" },
+        { "q": "Go home!", "a": "gou joum" },
+        { "q": "See you at nine.", "a": "sii iu ət nain" },
+        { "q": "It's a cute cube.", "a": "itsə kiuut kiuub" },
+        { "q": "The train is late.", "a": "də trein is leit" },
+        { "q": "Turn on the light.", "a": "tern an də lait" },
+        { "q": "I hope it's sunny.", "a": "ai joup its sáni" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada línea 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each line three times and tick a box each time.",
+      "items": [
+        { "q": "cap, cape", "say": "kæp, keip" },
+        { "q": "kit, kite", "say": "kit, kait" },
+        { "q": "hop, hope", "say": "jap, joup" },
+        { "q": "cut, cute", "say": "kat, kiuut" },
+        { "q": "pet, Pete", "say": "pet, piit" },
+        { "q": "Kate ate a cake by the lake.", "say": "keit eit ə keik bai də leik" },
+        { "q": "The goat in the coat rode the boat.", "say": "də gout in də kout roud də bout" },
+        { "q": "Mike likes to ride his nice bike.", "say": "maik laiks tə raid jis nais baik" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta.",
+      "en": "Translate into English and say it aloud.",
+      "items": [
+        { "q": "cometa", "a": "kite (kait)" },
+        { "q": "casa, hogar", "a": "home (joum)" },
+        { "q": "tren", "a": "train (trein)" },
+        { "q": "barco", "a": "boat (bout)" },
+        { "q": "noche", "a": "night (nait)" },
+        { "q": "árbol", "a": "tree (trii)" },
+        { "q": "té", "a": "tea (tii)" },
+        { "q": "nieve", "a": "snow (snou)" },
+        { "q": "juego", "a": "game (gueim)" },
+        { "q": "nombre", "a": "name (neim)" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos: la palabra sin e, con e y cómo suena cada una.",
+      "en": "Fill in the gaps.",
+      "head": ["Sin e", "Suena", "Con e", "Suena"],
+      "rows": [
+        ["cap", "kæp", "?cape", "?keip"],
+        ["kit", "?kit", "kite", "?kait"],
+        ["hop", "?jap", "?hope", "joup"],
+        ["cut", "kat", "?cute", "?kiuut"],
+        ["?pet", "pet", "Pete", "?piit"],
+        ["plan", "?plæn", "?plane", "plein"],
+        ["not", "?nat", "note", "?nout"]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras mágica",
+      "title_en": "Magic word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con e mágica o pareja de vocales. Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 words with a magic E or a vowel team.",
+      "words": ["kite", "cake", "home", "cute", "rain", "boat", "night", "tree", "snow", "play"],
+      "clues": ["kite · cometa", "cake · tarta", "home · casa", "cute · mono", "rain · lluvia", "boat · barco", "night · noche", "tree · árbol", "snow · nieve", "play · jugar"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y busca la magia",
+      "title_en": "Read and find the magic",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Kate's Kite",
+      "text": [
+        "Kate has a new kite. It's white and blue, and it has a long tail. Every Sunday, she rides her bike to the lake with her friend Mike.",
+        "They fly the kite and eat cake under a tree. When it's late, they go home. «What a nice day!» says Kate."
+      ],
+      "items": [
+        { "q": "Where do Kate and Mike go on Sundays?", "a": "To the lake (<code>leik</code>)." },
+        { "q": "Find three words with a magic E.", "a": "Kate, kite, white, rides, bike, lake, Mike, cake, late, home, nice (cualquiera)." },
+        { "q": "How does «tail» sound?", "a": "<code>teil</code>" },
+        { "q": "Kate's kite is green.", "tf": true, "a": false, "why": "white and blue" },
+        { "q": "«Tail» and «tale» sound the same.", "tf": true, "a": true, "why": "las dos suenan <code>teil</code>" },
+        { "q": "In «says», AY sounds «ei».", "tf": true, "a": false, "why": "rebelde: <code>ses</code>" }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con palabras de este mapa. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with words from this map and record yourself.",
+      "items": [
+        { "q": "Una frase con dos palabras con e mágica (bike, cake, home, cute…).", "lines": 2, "a": "Ej.: I ride my bike home." },
+        { "q": "Una frase con una pareja de vocales (rain, boat, tree, night…).", "lines": 2, "a": "Ej.: The boat is in the rain." },
+        { "q": "Una frase con una rebelde (have, give, love, come, said…).", "lines": 2 }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé que una <b>E</b> muda al final hace que la vocal diga su nombre.", "en": "I know a silent final E makes the vowel say its name." },
+    { "es": "Distingo cap/cape, kit/kite, hop/hope y cut/cute.", "en": "I can say cap/cape, kit/kite, hop/hope and cut/cute." },
+    { "es": "Sé leer EE, EA, AI, AY, OA e IGH.", "en": "I can read the vowel teams." },
+    { "es": "Sé que OW puede sonar <code>ou</code> (snow) o <code>au</code> (now).", "en": "I know OW has two sounds." },
+    { "es": "Conozco las rebeldes: have, give, love, come, said, friend.", "en": "I know the rebels." },
+    { "es": "Sé que una consonante deja la vocal larga y dos la dejan corta: hoping/hopping.", "en": "I can read hoping and hopping." }
+  ]
+}

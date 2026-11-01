@@ -1,0 +1,683 @@
+{
+  "id": "P-04",
+  "block": "P",
+  "title": "PALABRAS PELIGROSAS",
+  "file_title": "Palabras peligrosas",
+  "subtitle": "Words that get you in trouble · ¡cuidado con la vocal!",
+  "icon": "🙊",
+  "map": {
+    "center": "Cambiar <b>un solo sonido</b> cambia la palabra: de la playa a una <b>palabrota</b> 🙊, o del hambre al enfado.",
+    "listen": "beach",
+    "nodes": [
+      {
+        "title": "La ii larga te salva",
+        "icon": "😁",
+        "color": "green",
+        "rows": [
+          ["beach", "<code>biich</code> 🏖️"],
+          ["sheet", "<code>shiit</code> 📄"],
+          ["piece", "<code>piis</code> 🍰"]
+        ],
+        "after": "con i corta… ¡palabrota! 🙊"
+      },
+      {
+        "title": "Can't sin miedo",
+        "icon": "🙅",
+        "color": "blue",
+        "items": [
+          "<b>can't</b> → <code>kænt</code>",
+          "<b>a</b> muy abierta, con sonrisa 😁",
+          "a cerrada = ¡otra palabrota! 🙊"
+        ]
+      },
+      {
+        "title": "¿Hambre o enfado?",
+        "icon": "😋",
+        "color": "purple",
+        "rows": [
+          ["hungry 😋", "<code>jángri</code>"],
+          ["angry 😠", "<code>ǽngri</code>"]
+        ],
+        "after": "¡echa vaho con la <b>j suave</b>!"
+      },
+      {
+        "title": "¿Trabajo o paseo?",
+        "icon": "💼",
+        "color": "orange",
+        "rows": [
+          ["work 💼", "<code>werk</code>"],
+          ["walk 🚶", "<code>wok</code>"]
+        ],
+        "after": "walk suena como la sartén <b>wok</b> 🥘"
+      },
+      {
+        "title": "Más líos",
+        "icon": "🤪",
+        "color": "pink",
+        "rows": [
+          ["sheep / ship", "<code>shiip</code> / <code>ship</code>"],
+          ["three / tree", "<code>zrii</code> / <code>trii</code>"],
+          ["chicken / kitchen", "<code>chíkən</code> / <code>kíchən</code>"]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "<b>Sonríe y alarga</b>: mejor una ii demasiado larga que una corta. ¡Exagera sin miedo!",
+        "art": "😁"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["I'm <code>ǽngri</code>, can I eat? 😠"],
+      "good": ["I'm <code>jángri</code> 😋"],
+      "note": "Sin la j suave, el camarero pensará que estás enfadado."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "🏖️ beach → ____", "a": "biich" },
+        { "q": "📄 sheet → ____", "a": "shiit" },
+        { "q": "🍰 piece → ____", "a": "piis" },
+        { "q": "😋 hungry → ____", "a": "jángri" },
+        { "q": "🐔 chicken → ____", "a": "chíkən" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Por qué son peligrosas?",
+      "title_en": "Why are they dangerous?",
+      "icon": "🚨",
+      "es": "En español, si alargas o acortas una vocal, no pasa nada. En inglés, <b>sí pasa</b>: cambiar un solo sonido convierte una palabra en <b>otra</b>. A veces es gracioso (pedir un barco, <i>ship</i>, cuando querías una oveja, <i>sheep</i> 🐑🚢), pero otras veces… ¡sale una <b>palabrota</b>! 🙊 <mark>Aquí aprendes a decirlas bien para que nunca te pase.</mark>",
+      "en": "In English, changing one sound makes a different word. Sometimes it's funny, and sometimes it's a rude word! Learn to say these words right.",
+      "formula": ["*ii larga* → beach 🏖️", "*i corta* → ¡palabrota! 🙊"]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        { "part": "lips", "es": "Para la <b>ii larga</b> (beach, sheet, piece), <b>estira los labios</b> como en una sonrisa enorme 😁 y mantenla un buen rato.", "en": "For the long ee, smile wide and hold it." },
+        { "part": "tongue", "es": "Para la <b>i corta</b> (ship, live), la lengua se relaja y baja un poquito: suena casi como una e. Rapidita.", "en": "For the short i, relax your tongue: it sounds almost like an e." },
+        { "part": "jaw", "es": "Para la <b>/æ/</b> de can't, bad o angry, <b>baja la mandíbula</b> como para decir «a», pero con boca de sonrisa.", "en": "For /æ/, drop your jaw and smile." },
+        { "part": "teeth", "es": "Para la <b>v</b> de very, los dientes de arriba tocan el labio de abajo. Para la <b>z</b> de three y think, la lengua asoma entre los dientes.", "en": "For v, top teeth on your lower lip. For th, tongue between your teeth." },
+        { "part": "air", "es": "Para la <b>h</b> de hungry, echa vaho como si limpiaras unas gafas: una j suave, nunca una jota fuerte.", "en": "For h, breathe out softly, like fogging up your glasses." }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · La ii larga te salva",
+      "title_en": "The long ee saves you",
+      "icon": "😁",
+      "es": "Tres palabras muy normales se convierten en <b>palabrotas</b> 🙊 si las dices con una <b>i corta</b>: <b>beach</b> (playa), <b>sheet</b> (hoja, sábana) y <b>piece</b> (trozo). La solución es fácil: <mark>alarga la ii y sonríe</mark>. Mejor pasarte de larga que quedarte corto. (La ii larga y la i corta, a fondo en el mapa V-02.)",
+      "en": "With a short i, beach, sheet and piece sound like rude words. Make the ee long and smile!",
+      "formula": ["b + *iii* + ch → *biich* 🏖️"],
+      "examples": [
+        { "en": "beach", "say": "biich", "es": "playa", "icon": "🏖️" },
+        { "en": "sheet", "say": "shiit", "es": "hoja, sábana", "icon": "📄" },
+        { "en": "piece", "say": "piis", "es": "trozo", "icon": "🍰" },
+        { "en": "peace", "say": "piis", "es": "paz", "icon": "☮️" },
+        { "en": "a sheet of paper", "say": "ə shíirəv péiper", "es": "una hoja de papel", "icon": "📝" },
+        { "en": "a piece of cake", "say": "ə píisəv kéik", "es": "trozo de tarta · ¡chupado!", "icon": "🎂" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Can't: boca bien abierta",
+      "title_en": "Can't: open wide",
+      "icon": "🙅",
+      "es": "<b>Can't</b> (no puedo) se dice con <b>/æ/</b>: una a muy abierta, con boca de sonrisa: <code>kænt</code>. Si la dices con una a cortita y cerrada, puede sonar a otra <b>palabrota</b> muy fea 🙊. Exagera la /æ/ y alárgala un poquito. Muchos americanos casi no sueltan la T final (mapa C-03). Can y can't, a fondo en el mapa H-08.",
+      "en": "Say can't with a wide-open /æ/ and a smile. A short, closed vowel can sound like a rude word.",
+      "examples": [
+        { "en": "I can't.", "say": "ai kænt", "es": "No puedo.", "icon": "🙅" },
+        { "en": "I can't wait!", "say": "ai kæn' wéit", "es": "¡Qué ganas!", "icon": "🤩" },
+        { "en": "You can't swim here.", "say": "iu kæn' swim jir", "es": "Aquí no se puede nadar.", "icon": "🏊" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Larga o corta",
+      "title_en": "Long or short",
+      "icon": "📏",
+      "es": "Muchas parejas solo se distinguen por la <b>duración y la tensión</b> de la vocal: <b>sheep</b> (oveja) y <b>ship</b> (barco), <b>leave</b> (irse) y <b>live</b> (vivir), <b>fool</b> (tonto) y <b>full</b> (lleno), <b>pool</b> (piscina) y <b>pull</b> (tirar). La larga es tensa y estirada; la corta, relajada y rapidita. (U larga y corta en el mapa V-06.)",
+      "en": "Many pairs differ only in vowel length: sheep/ship, leave/live, fool/full, pool/pull.",
+      "examples": [
+        { "en": "sheep", "say": "shiip", "es": "oveja", "icon": "🐑" },
+        { "en": "ship", "say": "ship", "es": "barco", "icon": "🚢" },
+        { "en": "leave", "say": "liiv", "es": "irse, dejar", "icon": "🚪" },
+        { "en": "live", "say": "liv", "es": "vivir", "icon": "🏠" },
+        { "en": "fool", "say": "fuul", "es": "tonto", "icon": "🤡" },
+        { "en": "full", "say": "ful", "es": "lleno", "icon": "🍽️" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Vocales que el español no tiene",
+      "title_en": "New vowels",
+      "icon": "🆕",
+      "es": "El español tiene 5 vocales; el inglés, muchas más. Si usas tu «a» o tu «e» de siempre, mezclas palabras: <b>bad</b> (malo, con /æ/ de boca abierta) y <b>bed</b> (cama, con nuestra e); <b>hungry</b> (con una a cortita, /ʌ/) y <b>angry</b> (con /æ/); <b>work</b> (con la vocal con R de bird) y <b>walk</b> (con una o abierta).",
+      "en": "English has more vowels than Spanish: bad/bed, hungry/angry, work/walk.",
+      "examples": [
+        { "en": "bad", "say": "bæd", "es": "malo", "icon": "👎" },
+        { "en": "bed", "say": "bed", "es": "cama", "icon": "🛏️" },
+        { "en": "hungry", "say": "jángri", "es": "con hambre", "icon": "😋" },
+        { "en": "angry", "say": "ǽngri", "es": "enfadado", "icon": "😠" },
+        { "en": "work", "say": "werk", "es": "trabajar, trabajo", "icon": "💼" },
+        { "en": "walk", "say": "wok", "es": "caminar, pasear", "icon": "🚶" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Consonantes que lo cambian todo",
+      "title_en": "Consonants that change everything",
+      "icon": "🔄",
+      "es": "También las consonantes son peligrosas. <b>Three</b> (tres) empieza con la z de «zapato», y <b>tree</b> (árbol), con t. <b>Think</b> (pensar) lleva z, y <b>sink</b> (fregadero), s. <b>Very</b> (muy) lleva v de dientes, y <b>berry</b> (baya), b. ¡Y la <b>h</b> de hungry! Sin ella, tienes hambre… de pelea 😠. (Más en C-04 y C-07.)",
+      "en": "Consonants matter too: three/tree, think/sink, very/berry, hungry/angry.",
+      "examples": [
+        { "en": "three", "say": "zrii", "es": "tres", "icon": "3️⃣" },
+        { "en": "tree", "say": "trii", "es": "árbol", "icon": "🌳" },
+        { "en": "think", "say": "zink", "es": "pensar", "icon": "🤔" },
+        { "en": "sink", "say": "sink", "es": "fregadero", "icon": "🚰" },
+        { "en": "very", "say": "véri", "es": "muy", "icon": "‼️" },
+        { "en": "berry", "say": "béri", "es": "baya", "icon": "🫐" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · El orden y el golpe",
+      "title_en": "Order and stress",
+      "icon": "🔀",
+      "es": "<b>Chicken</b> (pollo) y <b>kitchen</b> (cocina) tienen casi los mismos sonidos, pero al revés: <code>chíkən</code> empieza por CH y <code>kíchən</code> por K. Y en <b>desert</b> (desierto) y <b>dessert</b> (postre) cambia el <b>golpe</b>: DÉ-sert frente a di-SÉRT (también en el mapa P-03).",
+      "en": "Chicken and kitchen swap their sounds; desert and dessert change the stress.",
+      "examples": [
+        { "en": "chicken", "say": "chíkən", "es": "pollo", "icon": "🐔" },
+        { "en": "kitchen", "say": "kíchən", "es": "cocina", "icon": "🍳" },
+        { "en": "chicken in the kitchen", "say": "chíkən in də kíchən", "es": "pollo en la cocina", "icon": "🧑‍🍳" },
+        { "en": "desert", "say": "désert", "es": "desierto", "icon": "🏜️" },
+        { "en": "dessert", "say": "disért", "es": "postre", "icon": "🍨" },
+        { "en": "dessert in the desert", "say": "disért in də désert", "es": "postre en el desierto", "icon": "🐫" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "beach", "ipa": "biːtʃ", "say": "biich", "es": "playa", "icon": "🏖️", "anchor": "el claxon: <b>¡biiii</b>p! 🚗", "tip": "Haz un «¡biiiip!» larguísimo y cambia la p por ch: <code>biich</code>. ¡Cuanto más larga, más segura!" },
+        { "en": "sheet", "ipa": "ʃiːt", "say": "shiit", "es": "hoja, sábana", "icon": "📄", "anchor": "<b>¡shhh!</b> 🤫 + <b>iit</b>", "tip": "Manda callar y sigue con una ii larga y sonriente: «shhh-iiit»." },
+        { "en": "piece", "ipa": "piːs", "say": "piis", "es": "trozo", "icon": "🍰", "anchor": "el <b>¡piiii!</b> de la tele 📺 + s", "tip": "Es el pitido que tapa las palabrotas en la tele… ¡y aquí te salva de decir una! Alarga la ii y añade s." },
+        { "en": "can't", "ipa": "kænt", "say": "kænt", "es": "no poder", "icon": "🙅", "anchor": "<s>kant</s> → <b>kænt</b> 😁", "tip": "Boca abierta, como para sonreír: la /æ/ está entre la a y la e. Nunca una a cortita y cerrada." },
+        { "en": "hungry", "ipa": "ˈhʌŋɡri", "say": "jángri", "es": "con hambre", "icon": "😋", "anchor": "<b>¡ja!</b> 😂 + <b>ngri</b>", "tip": "Empieza con una risa suave, «ja», sin rascar la garganta: JÁN-gri. ¡Si te comes la j, dices angry!" },
+        { "en": "angry", "ipa": "ˈæŋɡri", "say": "ǽngri", "es": "enfadado", "icon": "😠", "anchor": "<b>án</b>gulo 📐 + <b>gri</b>", "tip": "Casi: abre la a con boca de sonrisa (/æ/) y no pongas j delante: ǼN-gri." },
+        { "en": "work", "ipa": "wɝk", "say": "werk", "es": "trabajar", "icon": "💼", "anchor": "<s>wok</s> 🥘 → <b>werk</b>", "tip": "Lleva la vocal con R de bird (mapa V-09): la lengua se va hacia atrás, sin decir «o»." },
+        { "en": "walk", "ipa": "wɔk", "say": "wok", "es": "caminar, pasear", "icon": "🚶", "anchor": "la sartén <b>wok</b> 🥘", "tip": "Suena como la sartén china (muchos americanos dicen <code>wak</code>). ¡Y la L no suena!" },
+        { "en": "three", "ipa": "θriː", "say": "zrii", "es": "tres", "icon": "3️⃣", "anchor": "<s>tri</s> 🌳 → <b>z</b>rii", "tip": "Con la z de «zapato» y la lengua entre los dientes. Con t, dices tree (árbol)." },
+        { "en": "very", "ipa": "ˈvɛri", "say": "véri", "es": "muy", "icon": "‼️", "anchor": "<s>béri</s> 🫐 → <b>v</b>éri", "tip": "Apoya los dientes de arriba en el labio de abajo y haz vibrar: vvvéri. Con b, dices berry (baya)." },
+        { "en": "chicken", "ipa": "ˈtʃɪkən", "say": "chíkən", "es": "pollo", "icon": "🐔", "anchor": "<b>chi</b>co 👦 + <b>kən</b>", "tip": "Empieza por CH, como «chico»: CHÍ-kən. Si empiezas por K, ¡estás en la cocina!" },
+        { "en": "kitchen", "ipa": "ˈkɪtʃən", "say": "kíchən", "es": "cocina", "icon": "🍳", "anchor": "<b>ki</b>lo ⚖️ + <b>chən</b>", "tip": "Empieza por K, como «kilo»: KÍ-chən. En la kitchen se cocina el chicken." }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "beach", "es": "playa" },
+        { "q": "a piece of cake", "es": "¡está chupado!" },
+        { "q": "a sheet of paper", "es": "una hoja de papel" },
+        { "q": "I can't", "es": "no puedo" },
+        { "q": "I'm hungry", "es": "tengo hambre" },
+        { "q": "kitchen", "es": "cocina" }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Cuidado: ¡palabrotas a la vista!",
+      "title_en": "Watch out: rude words ahead!",
+      "icon": "🚨",
+      "head": ["Palabra", "Bien dicha ✅", "Mal dicha ❌"],
+      "rows": [
+        ["beach 🏖️", "<code>biich</code> = playa", "i corta → b*tch 🙊"],
+        ["sheet 📄", "<code>shiit</code> = hoja, sábana", "i corta → sh*t 🙊"],
+        ["piece 🍰", "<code>piis</code> = trozo", "i corta → p*ss 🙊"],
+        ["peace ☮️", "<code>piis</code> = paz", "i corta → p*ss 🙊"],
+        ["can't 🙅", "<code>kænt</code> = no puedo", "a cerrada → 🙊"]
+      ],
+      "note": "🙊 = palabrota. No hace falta saber qué significan: basta con <b>alargar la ii</b> y <b>abrir la /æ/</b>, y nunca las dirás. 😉",
+      "note_en": "🙊 = rude word. You don't need to know what they mean: just make the ee long and the /æ/ wide!"
+    },
+    {
+      "t": "pairs",
+      "title": "Parejas que te pueden liar",
+      "title_en": "Pairs that can trick you",
+      "icon": "👂",
+      "items": [
+        {
+          "a": { "en": "sheep", "ipa": "ʃiːp", "say": "shiip", "es": "oveja", "icon": "🐑" },
+          "b": { "en": "ship", "ipa": "ʃɪp", "say": "ship", "es": "barco", "icon": "🚢" },
+          "tip": "«The sheep is on the ship»: la oveja está en el barco. 🐑🚢"
+        },
+        {
+          "a": { "en": "leave", "ipa": "liːv", "say": "liiv", "es": "irse", "icon": "🚪" },
+          "b": { "en": "live", "ipa": "lɪv", "say": "liv", "es": "vivir", "icon": "🏠" },
+          "tip": "«I live here» (vivo aquí) no es «I leave here» (me voy de aquí)."
+        },
+        {
+          "a": { "en": "fool", "ipa": "fuːl", "say": "fuul", "es": "tonto", "icon": "🤡" },
+          "b": { "en": "full", "ipa": "fʊl", "say": "ful", "es": "lleno", "icon": "🍽️" },
+          "tip": "Después de comer di «I'm full», ¡no «I'm a fool»! 😂"
+        },
+        {
+          "a": { "en": "pool", "ipa": "puːl", "say": "puul", "es": "piscina", "icon": "🏊" },
+          "b": { "en": "pull", "ipa": "pʊl", "say": "pul", "es": "tirar", "icon": "🪢" },
+          "tip": "En las puertas pone PULL: tira, que no hay ninguna piscina. 🚪"
+        },
+        {
+          "a": { "en": "bad", "ipa": "bæd", "say": "bæd", "es": "malo", "icon": "👎" },
+          "b": { "en": "bed", "ipa": "bɛd", "say": "bed", "es": "cama", "icon": "🛏️" },
+          "tip": "bad con boca abierta de sonrisa (/æ/); bed con nuestra e."
+        },
+        {
+          "a": { "en": "think", "ipa": "θɪŋk", "say": "zink", "es": "pensar", "icon": "🤔" },
+          "b": { "en": "sink", "ipa": "sɪŋk", "say": "sink", "es": "fregadero", "icon": "🚰" },
+          "tip": "«I think so» (creo que sí) con z de zapato; con s, ¡hablas de fregaderos!"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Larga 😁 frente a corta 😐",
+      "title_en": "Long vs. short",
+      "icon": "📏",
+      "es": "Fíjate en la boca: la larga sonríe y dura; la corta descansa y es rapidita.",
+      "en": "Watch your mouth: the long ee smiles, the short i relaxes.",
+      "cols": [
+        {
+          "head": "😁 ii larga /iː/",
+          "color": "green",
+          "items": ["beach <code>biich</code> 🏖️", "sheet <code>shiit</code> 📄", "piece <code>piis</code> 🍰", "sheep <code>shiip</code> 🐑", "leave <code>liiv</code> 🚪"]
+        },
+        {
+          "head": "😐 i corta /ɪ/",
+          "color": "red",
+          "items": ["ship <code>ship</code> 🚢", "live <code>liv</code> 🏠", "sit <code>sit</code> 🪑", "fish <code>fish</code> 🐟", "kitchen <code>kíchən</code> 🍳"]
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "I'm going to the beach.", "spoken": "I'm goin' to the BEEEACH.", "say": "aim góuing tə də biich", "es": "Voy a la playa." },
+        { "written": "Can I have a piece of cake?", "spoken": "C'n I have a PEEsa cake?", "say": "kənai jæv ə píisə kéik", "es": "¿Me das un trozo de tarta?" },
+        { "written": "I need a sheet of paper.", "spoken": "I need a SHEEda paper.", "say": "ai niid ə shíirə péiper", "es": "Necesito una hoja de papel." },
+        { "written": "I can't go.", "spoken": "I CAN' go.", "say": "ai kæn' góu", "es": "No puedo ir." },
+        { "written": "I'm hungry!", "spoken": "I'm HUNG-gree!", "say": "aim jángri", "es": "¡Tengo hambre!" },
+        { "written": "Let's walk to work.", "spoken": "Let's WOK to WERK.", "say": "lets wok tə werk", "es": "Vamos andando al trabajo." }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "Let's go to the beach!", "say": "lets góu tə də biich", "es": "¡Vamos a la playa!", "icon": "🏖️" },
+        { "en": "Can I have a sheet of paper?", "say": "kənai jæv ə shíirəv péiper", "es": "¿Me das una hoja de papel?", "icon": "📄" },
+        { "en": "Do you want a piece of pizza?", "say": "du iu wánt ə píisəv píitsə", "es": "¿Quieres un trozo de pizza?", "icon": "🍕" },
+        { "en": "Sorry, I can't.", "say": "sári, ai kænt", "es": "Lo siento, no puedo.", "icon": "🙅" },
+        { "en": "I'm hungry. Let's eat!", "say": "aim jángri. lets iit", "es": "Tengo hambre. ¡Vamos a comer!", "icon": "😋" },
+        { "en": "Don't be angry with me.", "say": "dount bi ǽngri wid mi", "es": "No te enfades conmigo.", "icon": "😠" },
+        { "en": "I walk to work every day.", "say": "ai wok tə werk évri dei", "es": "Voy andando al trabajo todos los días.", "icon": "🚶" },
+        { "en": "The sheep is on the ship.", "say": "də shiip is an də ship", "es": "La oveja está en el barco.", "icon": "🐑" },
+        { "en": "I live in Madrid, but I leave tomorrow.", "say": "ai liv in mədríd, bət ai liiv təmárou", "es": "Vivo en Madrid, pero me voy mañana.", "icon": "🧳" },
+        { "en": "There are three trees in the garden.", "say": "der ar zrii triis in də gárdən", "es": "Hay tres árboles en el jardín.", "icon": "🌳" },
+        { "en": "The chicken is in the kitchen.", "say": "də chíkən is in də kíchən", "es": "El pollo está en la cocina.", "icon": "🐔" },
+        { "en": "I think the sink is full.", "say": "ai zink də sink is ful", "es": "Creo que el fregadero está lleno.", "icon": "🚰" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "monster": "nono",
+      "items": [
+        { "bad": "a piece of cake con <b>i corta</b> 🙊", "good": "<code>ə píisəv kéik</code> 🍰", "why": "Con i corta suena a palabrota. ¡Alarga la ii!", "why_en": "A short i makes it a rude word. Make it long!" },
+        { "bad": "I'm <code>ǽngri</code>, can I eat?", "good": "I'm <code>jángri</code>, can I eat?", "why": "Sin la j suave dices «estoy enfadado». ¡Echa vaho!", "why_en": "Without the h, hungry becomes angry." },
+        { "bad": "I <code>wok</code> in an office.", "good": "I <code>werk</code> in an office.", "why": "walk es caminar: ¡no vas paseando por la oficina! work lleva la vocal de bird.", "why_en": "Work has the «er» sound of bird." },
+        { "bad": "Después de comer: I'm a <code>fuul</code>! 🤡", "good": "I'm <code>ful</code>! 🍽️", "why": "fool = tonto; full = lleno. Con uu larga, ¡te llamas tonto a ti mismo!", "why_en": "Full has a short u; fool has a long one." },
+        { "bad": "I <code>liiv</code> in Madrid.", "good": "I <code>liv</code> in Madrid.", "why": "Con ii larga dices «me voy de Madrid».", "why_en": "Leave = irse; live = vivir." },
+        { "bad": "I have <code>trii</code> dogs.", "good": "I have <code>zrii</code> dogs.", "why": "Con t, tienes «árbol perros» 🌳🐶. ¡Lengua entre los dientes!", "why_en": "Three starts with /θ/: tongue between your teeth." },
+        { "bad": "I'm <code>béri</code> happy.", "good": "I'm <code>véri</code> happy.", "why": "berry es una baya 🫐. very lleva v: dientes en el labio.", "why_en": "Very starts with a real v." },
+        { "bad": "Cook it in the <code>chíkən</code>.", "good": "Cook it in the <code>kíchən</code>.", "why": "chicken es pollo; kitchen es cocina.", "why_en": "Kitchen starts with K." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Un día de playa",
+      "title_en": "A day at the beach",
+      "lines": [
+        { "who": "Ashley", "en": "Hi Mario! Do you want to go to the beach?", "say": "jai mário! du iu wánə góu tə də biich?", "es": "¡Hola, Mario! ¿Quieres ir a la playa?" },
+        { "who": "Mario", "en": "Sure! I can bring a sheet to sit on.", "say": "shur! ai kən bring ə shiit tə sirán", "es": "¡Claro! Puedo llevar una sábana para sentarnos." },
+        { "who": "Ashley", "en": "Great! I'm making chicken sandwiches.", "say": "gréit! aim méiking chíkən sǽnwichis", "es": "¡Genial! Yo preparo sándwiches de pollo." },
+        { "who": "Mario", "en": "I'm so hungry. Can I have a piece now?", "say": "aim sou jángri. kənai jæv ə piis nau?", "es": "Tengo muchísima hambre. ¿Me das un trozo ya?" },
+        { "who": "Ashley", "en": "Sorry, you can't! They're for lunch.", "say": "sári, iu kænt! der fer lanch", "es": "¡Lo siento, no puedes! Son para la comida." },
+        { "who": "Mario", "en": "Now I'm angry… just kidding! I'm only hungry.", "say": "nau aim ǽngri… yast kíring! aim óunli jángri", "es": "Ahora estoy enfadado… ¡es broma! Solo tengo hambre." },
+        { "who": "Ashley", "en": "Ha ha! Let's walk there. It's very close.", "say": "ja ja! lets wok der. its véri klous", "es": "¡Ja, ja! Vamos andando. Está muy cerca." },
+        { "who": "Mario", "en": "And after the beach… dessert!", "say": "ən ǽfter də biich… disért!", "es": "Y después de la playa… ¡postre!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo no meter la pata",
+      "title_en": "How to stay out of trouble",
+      "items": [
+        { "es": "Practica delante del espejo: <b>sonrisa grande</b> para la ii larga (beach), boca relajada para la i corta (ship).", "en": "Practice in front of a mirror: big smile for ee, relaxed mouth for i." },
+        { "es": "Di las parejas seguidas y exagera la diferencia: <code>shiip</code> – <code>ship</code>, <code>liiv</code> – <code>liv</code>, <code>fuul</code> – <code>ful</code>.", "en": "Say the pairs one after the other and exaggerate." },
+        { "es": "Usa frases «seguras»: <b>a piece of cake</b>, <b>a sheet of paper</b>, <b>the beach</b>. Dilas 5 veces seguidas.", "en": "Practice safe phrases five times in a row." },
+        { "es": "Grábate diciendo «I'm hungry» y «I'm angry». ¿Se nota la j suave y la vocal distinta?", "en": "Record yourself saying hungry and angry. Can you hear the difference?" },
+        { "es": "Escanea los QR, escucha a americanos de verdad y repite como un loro 🦜.", "en": "Scan the QR codes, listen and repeat." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "She sells seashells by the seashore.", "say": "shi sels síishels bai də síishor", "es": "Ella vende conchas a la orilla del mar." },
+        { "en": "Three sheep on a ship eat a piece of peach.", "say": "zrii shiip an ə ship iit ə píisəv piich", "es": "Tres ovejas en un barco comen un trozo de melocotón." },
+        { "en": "Chicken in the kitchen, kitchen with the chicken.", "say": "chíkən in də kíchən, kíchən wid də chíkən", "es": "Pollo en la cocina, cocina con el pollo." }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de la sonrisa",
+      "title_en": "The smile trick",
+      "icon": "😁",
+      "es": "Ante la duda, <b>sonríe y alarga</b>: <code>biich</code>, <code>shiit</code>, <code>piis</code>. Un americano entiende perfectamente una ii un poco larga… ¡pero una corta puede ponerte colorado! 😳 Y si alguna vez te equivocas, ríete: a todos nos ha pasado. 😄",
+      "en": "When in doubt, smile and make the ee long. And if you make a mistake, just laugh: it happens to everyone!"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Larga o corta?",
+      "title_en": "Long or short?",
+      "icon": "📏",
+      "es": "Di la palabra en voz alta y rodea si la i es larga (😁 /iː/) o corta (😐 /ɪ/).",
+      "en": "Say the word and circle long or short.",
+      "items": [
+        { "q": "🏖️ beach → [larga|corta]", "a": "larga" },
+        { "q": "🚢 ship → [larga|corta]", "a": "corta" },
+        { "q": "📄 sheet → [larga|corta]", "a": "larga" },
+        { "q": "🏠 live → [larga|corta]", "a": "corta" },
+        { "q": "🍰 piece → [larga|corta]", "a": "larga" },
+        { "q": "🚪 leave → [larga|corta]", "a": "larga" },
+        { "q": "🐑 sheep → [larga|corta]", "a": "larga" },
+        { "q": "🪑 sit → [larga|corta]", "a": "corta" },
+        { "q": "☮️ peace → [larga|corta]", "a": "larga" },
+        { "q": "🐟 fish → [larga|corta]", "a": "corta" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica por la vocal",
+      "title_en": "Sort by vowel",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna (fíjate en la vocal de la sílaba fuerte).",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        { "name": "😁 ii larga /iː/", "words": ["beach", "sheet", "piece", "sheep", "leave", "three", "tree"] },
+        { "name": "😐 i corta /ɪ/", "words": ["ship", "live", "think", "sink", "chicken", "kitchen"] },
+        { "name": "😮 a abierta /æ/", "words": ["can't", "bad", "angry", "happy"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["beach", "<code>biich</code>"],
+        ["sheep", "<code>shiip</code>"],
+        ["live", "<code>liv</code>"],
+        ["hungry", "<code>jángri</code>"],
+        ["angry", "<code>ǽngri</code>"],
+        ["work", "<code>werk</code>"],
+        ["walk", "<code>wok</code>"],
+        ["kitchen", "<code>kíchən</code>"]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Qué querías decir?",
+      "title_en": "What did you mean?",
+      "icon": "🤔",
+      "es": "Rodea la palabra que dice lo que quieres decir. Después, dila en voz alta.",
+      "en": "Circle the right word and say it aloud.",
+      "items": [
+        { "q": "😋 Tengo hambre → I'm [hungry|angry].", "a": "hungry" },
+        { "q": "🏠 Vivo aquí → I [live|leave] here.", "a": "live" },
+        { "q": "🍽️ Estoy lleno → I'm [full|a fool].", "a": "full" },
+        { "q": "🚪 Tira de la puerta → [Pull|Pool]", "a": "Pull" },
+        { "q": "💼 Voy a trabajar → I go to [work|walk].", "a": "work" },
+        { "q": "🤔 Creo que sí → I [think|sink] so.", "a": "think" },
+        { "q": "‼️ Muy bonito → [very|berry] nice", "a": "very" },
+        { "q": "🐔 El pollo → the [chicken|kitchen]", "a": "chicken" },
+        { "q": "🛏️ Una cama → a [bed|bad]", "a": "bed" },
+        { "q": "🐑 La oveja → the [sheep|ship]", "a": "sheep" }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Usa <b>ii</b> o <b>uu</b> para las vocales largas.",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        { "q": "🐑 sheep → ____", "a": "shiip" },
+        { "q": "🚢 ship → ____", "a": "ship" },
+        { "q": "🚪 leave → ____", "a": "liiv" },
+        { "q": "🏠 live → ____", "a": "liv" },
+        { "q": "🤡 fool → ____", "a": "fuul" },
+        { "q": "🍽️ full → ____", "a": "ful" },
+        { "q": "🏊 pool → ____", "a": "puul" },
+        { "q": "3️⃣ three → ____", "a": "zrii" },
+        { "q": "🌳 tree → ____", "a": "trii" },
+        { "q": "🍳 kitchen → ____", "a": "kíchən" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "✅",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "«Beach» has a long /iː/ sound.", "a": true },
+        { "q": "«Ship» and «sheep» sound the same.", "a": false, "why": "ship = /ɪ/ corta; sheep = /iː/ larga" },
+        { "q": "«Hungry» starts with a soft h sound.", "a": true },
+        { "q": "«Walk» and «work» have the same vowel.", "a": false, "why": "<code>wok</code> / <code>werk</code>" },
+        { "q": "In «very», your top teeth touch your bottom lip.", "a": true },
+        { "q": "«Three» starts with the same sound as «tree».", "a": false, "why": "three = /θ/, la z de zapato" },
+        { "q": "«Dessert» is stressed on the second syllable.", "a": true },
+        { "q": "Americans say «can't» with a wide-open /æ/.", "a": true }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe cómo suena la frase",
+      "title_en": "Write how the phrase sounds",
+      "icon": "🗣️",
+      "es": "Escribe la frase entera con pronunciación figurada, pegando las palabras como un americano.",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        { "q": "a piece of cake", "a": "ə píisəv kéik" },
+        { "q": "a sheet of paper", "a": "ə shíirəv péiper" },
+        { "q": "I'm hungry.", "a": "aim jángri" },
+        { "q": "I can't.", "a": "ai kænt" },
+        { "q": "I'm full.", "a": "aim ful" },
+        { "q": "I live here.", "a": "ai liv jir" },
+        { "q": "I think so.", "a": "ai zink sou" },
+        { "q": "the chicken in the kitchen", "a": "də chíkən in də kíchən" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada dice OTRA palabra. Escríbela bien.",
+      "en": "Each sound-alike spelling says a different word. Fix it.",
+      "items": [
+        { "q": "hungry → <code>ǽngri</code>", "a": "jángri" },
+        { "q": "walk → <code>werk</code>", "a": "wok" },
+        { "q": "work → <code>wok</code>", "a": "werk" },
+        { "q": "three → <code>trii</code>", "a": "zrii" },
+        { "q": "very → <code>béri</code>", "a": "véri" },
+        { "q": "kitchen → <code>chíkən</code>", "a": "kíchən" },
+        { "q": "sheep → <code>ship</code>", "a": "shiip" },
+        { "q": "dessert → <code>désert</code>", "a": "disért" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez. ¡Sonríe en las ii largas!",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "a piece of cake", "say": "ə píisəv kéik" },
+        { "q": "Let's go to the beach!", "say": "lets góu tə də biich" },
+        { "q": "a sheet of paper", "say": "ə shíirəv péiper" },
+        { "q": "I can't wait!", "say": "ai kæn' wéit" },
+        { "q": "I'm hungry, not angry!", "say": "aim jángri, nat ǽngri" },
+        { "q": "The sheep is on the ship.", "say": "də shiip is an də ship" },
+        { "q": "I walk to work.", "say": "ai wok tə werk" },
+        { "q": "three trees", "say": "zrii triis" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con el sonido correcto.",
+      "en": "Translate into English and say it with the right sound.",
+      "items": [
+        { "q": "playa", "a": "beach (biich)" },
+        { "q": "una hoja de papel", "a": "a sheet of paper (ə shíirəv péiper)" },
+        { "q": "un trozo de tarta", "a": "a piece of cake (ə píisəv kéik)" },
+        { "q": "No puedo.", "a": "I can't. (ai kænt)" },
+        { "q": "Tengo hambre.", "a": "I'm hungry. (aim jángri)" },
+        { "q": "Estoy enfadado.", "a": "I'm angry. (aim ǽngri)" },
+        { "q": "oveja", "a": "sheep (shiip)" },
+        { "q": "barco", "a": "ship (ship)" },
+        { "q": "cocina", "a": "kitchen (kíchən)" },
+        { "q": "postre", "a": "dessert (disért)" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En la última columna escribe larga o corta.",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Español", "Suena", "¿Larga o corta?"],
+      "rows": [
+        ["beach", "playa", "?biich", "?larga"],
+        ["?ship", "barco", "?ship", "corta"],
+        ["sheet", "?hoja, sábana", "shiit", "?larga"],
+        ["live", "?vivir", "?liv", "corta"],
+        ["?leave", "irse", "liiv", "?larga"],
+        ["piece", "?trozo", "?piis", "larga"],
+        ["?fool", "tonto", "?fuul", "larga"],
+        ["full", "?lleno", "ful", "?corta"]
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧩",
+      "es": "Ordena las palabras y escribe la frase. Después, dila en voz alta.",
+      "en": "Put the words in order and say the sentence.",
+      "items": [
+        { "q": "ship / on / The / sheep / the / is", "a": "The sheep is on the ship." },
+        { "q": "hungry / I'm / so", "a": "I'm so hungry." },
+        { "q": "of / cake / a / piece", "a": "a piece of cake" },
+        { "q": "to / work / walk / I", "a": "I walk to work." },
+        { "q": "kitchen / the / chicken / in / is / The", "a": "The chicken is in the kitchen." },
+        { "q": "sheet / Can / of / I / paper / a / have", "a": "Can I have a sheet of paper?" },
+        { "q": "so / think / I", "a": "I think so." },
+        { "q": "full / I'm / very", "a": "I'm very full." }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras peligrosa",
+      "title_en": "Dangerous word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras y dila bien en voz alta cada vez que encuentres una.",
+      "en": "Find 10 words and say each one aloud.",
+      "words": ["beach", "sheet", "piece", "sheep", "ship", "hungry", "angry", "kitchen", "chicken", "three"],
+      "clues": ["beach · playa", "sheet · hoja", "piece · trozo", "sheep · oveja", "ship · barco", "hungry · con hambre", "angry · enfadado", "kitchen · cocina", "chicken · pollo", "three · tres"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta (¡ojo a las ii largas!). Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "A day at the beach",
+      "text": [
+        "Mario and Tyler walk to the beach. Mario brings a big sheet to sit on, and Tyler brings chicken sandwiches from his mom's kitchen.",
+        "After swimming, Mario says, “I'm so hungry!” Tyler laughs: “Hungry, not angry, right?” They eat a piece of cake for dessert. Then Mario sees a big ship. “Look! A sheep!” he says. “A ship, Mario!” says Tyler."
+      ],
+      "items": [
+        { "q": "What does Mario bring?", "a": "A sheet (<code>shiit</code>) to sit on." },
+        { "q": "Where are the sandwiches from?", "a": "From Tyler's mom's kitchen (<code>kíchən</code>)." },
+        { "q": "Which word does Mario say by mistake?", "a": "sheep (<code>shiip</code>): quería decir ship (<code>ship</code>)." },
+        { "q": "Mario is angry.", "tf": true, "a": false, "why": "he's hungry 😋" },
+        { "q": "They eat a piece of cake.", "tf": true, "a": true },
+        { "q": "Mario and Tyler go to the beach by car.", "tf": true, "a": false, "why": "they walk" }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases, léelas en voz alta (¡con sonrisa!) y grábate.",
+      "en": "Write your sentences, read them aloud and record yourself.",
+      "items": [
+        { "q": "Una frase con beach, sheet o piece (¡con ii larga!).", "lines": 2, "a": "Ej.: I'd like a piece of cake, please." },
+        { "q": "Una frase con hungry y otra con angry.", "lines": 2, "a": "Ej.: I'm hungry. My dad is angry." },
+        { "q": "Inventa un trabalenguas con una pareja (sheep/ship, chicken/kitchen…).", "lines": 2 }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Digo <b>beach</b>, <b>sheet</b> y <b>piece</b> con una ii bien larga 😁.", "en": "I say beach, sheet and piece with a long ee." },
+    { "es": "Digo <b>can't</b> con la /æ/ bien abierta: <code>kænt</code>.", "en": "I say can't with a wide-open /æ/." },
+    { "es": "Distingo sheep/ship, leave/live, fool/full y pool/pull.", "en": "I can tell long and short vowels apart." },
+    { "es": "No confundo hungry 😋 con angry 😠.", "en": "I don't mix up hungry and angry." },
+    { "es": "Digo three, think y very con su sonido de verdad.", "en": "I say three, think and very with the right sounds." },
+    { "es": "No me lío con chicken/kitchen ni con desert/dessert.", "en": "I don't mix up chicken/kitchen or desert/dessert." }
+  ]
+}

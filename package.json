@@ -1,0 +1,19 @@
+{
+  "name": "english-pronunciation",
+  "version": "1.0.0",
+  "description": "Así suena el inglés: mapas mentales en PDF para aprender la pronunciación del inglés americano con trucos y palabras en español, ejercicios y solucionario.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "build": "node tools/build.mjs all --book",
+    "validate": "node tools/validate.mjs content"
+  },
+  "keywords": ["english", "inglés", "pronunciation", "pronunciación", "american english", "inglés americano", "phonetics", "IPA", "connected speech", "mind maps", "mapas mentales", "ESL", "worksheets"],
+  "author": "Óscar R. Garrucho (oskarko)",
+  "license": "MIT AND CC-BY-4.0",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "puppeteer-core": "^23.11.1",
+    "qrcode-generator": "^1.4.4"
+  }
+}

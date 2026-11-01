@@ -1,0 +1,1724 @@
+{
+  "id": "C-04",
+  "block": "C",
+  "title": "TH SORDA <em>/θ/</em>",
+  "file_title": "TH sorda /θ/",
+  "subtitle": "The voiceless TH · think = «zinc»",
+  "icon": "🤔",
+  "map": {
+    "center": "La <b>TH sorda</b> /θ/ es la <b>z</b> de «<b>z</b>apato»: lengua entre los dientes y sopla. think = <code>zink</code> (¡zinc!).",
+    "listen": "think",
+    "nodes": [
+      {
+        "title": "Así se pone la boca",
+        "icon": "👅",
+        "color": "green",
+        "items": [
+          "lengua <b>entre los dientes</b>",
+          "sopla aire, <b>sin voz</b>",
+          "¡la z de España!"
+        ]
+      },
+      {
+        "title": "Al principio",
+        "icon": "🤔",
+        "color": "blue",
+        "rows": [
+          [
+            "think",
+            "<code>zink</code>"
+          ],
+          [
+            "three",
+            "<code>zrii</code>"
+          ],
+          [
+            "thank you",
+            "<code>zǽnkiu</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Al final",
+        "icon": "👄",
+        "color": "purple",
+        "rows": [
+          [
+            "mouth",
+            "<code>mauz</code>"
+          ],
+          [
+            "both",
+            "<code>bouz</code>"
+          ],
+          [
+            "math",
+            "<code>mæz</code>"
+          ]
+        ]
+      },
+      {
+        "title": "¡No es S, T ni F!",
+        "icon": "🚫",
+        "color": "orange",
+        "items": [
+          "think ≠ <b>s</b>ink (fregadero)",
+          "three ≠ <b>t</b>ree (árbol)",
+          "thin ≠ <b>f</b>in (aleta)"
+        ]
+      },
+      {
+        "title": "En medio y en grupos",
+        "icon": "🎂",
+        "color": "pink",
+        "rows": [
+          [
+            "birthday",
+            "<code>bérzdei</code>"
+          ],
+          [
+            "months",
+            "<code>manzs</code>"
+          ],
+          [
+            "fifth",
+            "<code>fifz</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Piensa en el metal <b>zinc</b>: think = <code>zink</code>. Si asoma la lengua, ¡vas bien! 😛",
+        "art": "🦷"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "<code>sink</code> con S"
+      ],
+      "good": [
+        "<code>zink</code> 🤔"
+      ],
+      "note": "Con S dices «sink»: ¡fregadero! 🚰"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🤔 think → ____",
+          "a": "zink"
+        },
+        {
+          "q": "3️⃣ three → ____",
+          "a": "zrii"
+        },
+        {
+          "q": "🙏 thank you → ____",
+          "a": "zǽnkiu"
+        },
+        {
+          "q": "👄 mouth → ____",
+          "a": "mauz"
+        },
+        {
+          "q": "🎂 birthday → ____",
+          "a": "bérzdei"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la TH sorda?",
+      "title_en": "What is the voiceless TH?",
+      "icon": "🔎",
+      "es": "Si hablas español de España, ¡estás de suerte! La TH de <b>think</b> es <mark>la z de «zapato»</mark> (o la c de «cena»): la lengua asoma entre los dientes y sale aire, sin voz. Por eso think suena igual que el metal <b>zinc</b>. Si en tu zona se sesea («caza» suena como «casa»), es un sonido nuevo para ti: no es una s, ¡saca la lengua! Aquí ves la TH <b>sorda</b> /θ/; la <b>sonora</b> de the y mother está en el mapa C-05.",
+      "en": "The TH in think is the Spanish «z» in «zapato»: tongue between your teeth, blow air, no voice. Think sounds just like «zinc».",
+      "formula": [
+        "lengua *entre los dientes* + aire + *sin voz* → /θ/"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "tongue",
+          "es": "La punta de la lengua asoma un poquito <b>entre los dientes</b> (o toca justo el borde de los de arriba).",
+          "en": "Put the tip of your tongue between your teeth."
+        },
+        {
+          "part": "teeth",
+          "es": "Los dientes de arriba <b>rozan</b> la lengua, sin morderla fuerte.",
+          "en": "Your top teeth touch your tongue lightly."
+        },
+        {
+          "part": "air",
+          "es": "Sopla: el aire pasa entre la lengua y los dientes. Puedes alargarlo: <code>zzzzink</code>.",
+          "en": "Blow air between your tongue and teeth."
+        },
+        {
+          "part": "voice",
+          "es": "<b>Sin voz</b>: la garganta no vibra (mano en el cuello). Si vibra, es la TH de the (mapa C-05).",
+          "en": "No voice: your throat doesn't vibrate."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · TH al principio",
+      "title_en": "TH at the start",
+      "icon": "🤔",
+      "es": "La mayoría de palabras «de contenido» que empiezan por TH (verbos, números, nombres) llevan la sorda: think, three, thank, Thursday, thousand. Pon la lengua entre los dientes <b>antes</b> de empezar y sopla. Ojo con <b>thr-</b> (three, throw): z + R americana, sin vocal en medio.",
+      "en": "Most content words that start with TH use the voiceless sound: think, three, thank, Thursday.",
+      "formula": [
+        "*th* + ink → *z*ink"
+      ],
+      "examples": [
+        {
+          "en": "think",
+          "say": "zink",
+          "es": "pensar",
+          "icon": "🤔"
+        },
+        {
+          "en": "three",
+          "say": "zrii",
+          "es": "tres",
+          "icon": "3️⃣"
+        },
+        {
+          "en": "thank you",
+          "say": "zǽnkiu",
+          "es": "gracias",
+          "icon": "🙏"
+        },
+        {
+          "en": "Thursday",
+          "say": "zérsdei",
+          "es": "jueves",
+          "icon": "📅"
+        },
+        {
+          "en": "thousand",
+          "say": "záusənd",
+          "es": "mil",
+          "icon": "🔢"
+        },
+        {
+          "en": "thumb",
+          "say": "zam",
+          "es": "pulgar",
+          "icon": "👍"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · TH al final",
+      "title_en": "TH at the end",
+      "icon": "👄",
+      "es": "Al final de palabra, la TH es casi siempre sorda: mouth, both, math, tooth, north, south. Los hispanohablantes tienden a <mark>comérsela o cambiarla por s o t</mark>. Termina con la lengua entre los dientes y deja salir el aire: <code>mauz</code>, no «maus» (¡ratón!).",
+      "en": "At the end of a word, TH is almost always voiceless. Don't drop it or change it into S or T.",
+      "examples": [
+        {
+          "en": "mouth",
+          "say": "mauz",
+          "es": "boca",
+          "icon": "👄"
+        },
+        {
+          "en": "both",
+          "say": "bouz",
+          "es": "ambos",
+          "icon": "👯"
+        },
+        {
+          "en": "tooth",
+          "say": "tuuz",
+          "es": "diente",
+          "icon": "🦷"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · TH en medio",
+      "title_en": "TH in the middle",
+      "icon": "🎂",
+      "es": "En medio de palabra también suena, aunque vaya pegada a otra consonante: birthday, nothing, something, healthy, bathroom. No te la saltes: <code>bérzdei</code>, no «bérdei». (Ojo: en mother o brother es la sonora, mapa C-05.)",
+      "en": "In the middle of a word, say it too: birthday, nothing, healthy. (Mother and brother use the voiced TH: map C-05.)",
+      "examples": [
+        {
+          "en": "birthday",
+          "say": "bérzdei",
+          "es": "cumpleaños",
+          "icon": "🎂"
+        },
+        {
+          "en": "nothing",
+          "say": "názing",
+          "es": "nada",
+          "icon": "🤷"
+        },
+        {
+          "en": "healthy",
+          "say": "jélzi",
+          "es": "sano",
+          "icon": "🥗"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Grupos difíciles",
+      "title_en": "Tricky clusters",
+      "icon": "🧗",
+      "es": "Los ordinales y algunos plurales juntan la TH con otras consonantes: fifth, sixth, twelfth, months. Dilos despacio y luego júntalos: <code>fif-z</code>, <code>siks-z</code>. Tranquilo: hablando rápido, hasta los americanos los simplifican (months suena a menudo <code>mants</code>).",
+      "en": "Ordinals and some plurals pile up consonants: fifth, sixth, twelfth, months. Even Americans simplify them when they speak fast.",
+      "examples": [
+        {
+          "en": "months",
+          "say": "manzs",
+          "es": "meses",
+          "icon": "🗓️"
+        },
+        {
+          "en": "fifth",
+          "say": "fifz",
+          "es": "quinto",
+          "icon": "5️⃣"
+        },
+        {
+          "en": "sixth",
+          "say": "siksz",
+          "es": "sexto",
+          "icon": "6️⃣"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "think",
+          "ipa": "θɪŋk",
+          "say": "zink",
+          "es": "pensar",
+          "icon": "🤔",
+          "anchor": "<b>zinc</b> 🔩",
+          "tip": "¡Idénticos! Think suena igual que el metal zinc."
+        },
+        {
+          "en": "thin",
+          "ipa": "θɪn",
+          "say": "zin",
+          "es": "delgado",
+          "icon": "🥢",
+          "anchor": "<b>cin</b>ta 🎀",
+          "tip": "«Cinta» sin -ta: una cinta muy delgada."
+        },
+        {
+          "en": "thick",
+          "ipa": "θɪk",
+          "say": "zik",
+          "es": "grueso",
+          "icon": "📚",
+          "anchor": "<b>cic</b>lo 🔄",
+          "tip": "«Ciclo» sin -lo. Un libro muy gordo: thick!"
+        },
+        {
+          "en": "thank you",
+          "ipa": "ˈθæŋk juː",
+          "say": "zǽnkiu",
+          "es": "gracias",
+          "icon": "🙏",
+          "anchor": "<b>zanc</b>os 🎪",
+          "tip": "Unos zancos muy educados: thank you! Abre la a con sonrisa (mapa V-03)."
+        },
+        {
+          "en": "Thor",
+          "ipa": "θɔr",
+          "say": "zor",
+          "es": "Thor (el de Marvel)",
+          "icon": "⚡",
+          "anchor": "<b>Zor</b>ro 🦊",
+          "tip": "El dios del trueno suena a «Zor»: zorro sin -ro y con R americana (mapa C-01)."
+        },
+        {
+          "en": "path",
+          "ipa": "pæθ",
+          "say": "pæz",
+          "es": "camino",
+          "icon": "🛤️",
+          "anchor": "<b>paz</b> ☮️",
+          "tip": "Un camino de paz. Abre la a con sonrisa: <code>pæz</code>."
+        },
+        {
+          "en": "math",
+          "ipa": "mæθ",
+          "say": "mæz",
+          "es": "mates",
+          "icon": "🧮",
+          "anchor": "<b>maz</b>o 🔨",
+          "tip": "«Mazo» sin -o y con la a abierta. ¡Las mates, a mazazos!"
+        },
+        {
+          "en": "teeth",
+          "ipa": "tiːθ",
+          "say": "tiiz",
+          "es": "dientes",
+          "icon": "🦷",
+          "anchor": "<b>tiz</b>a 🖍️",
+          "tip": "«Tiza» sin -a y con la i larga: dientes blancos como la tiza."
+        },
+        {
+          "en": "south",
+          "ipa": "saʊθ",
+          "say": "sauz",
+          "es": "sur",
+          "icon": "🧭",
+          "anchor": "<b>sauc</b>e llorón 🌳",
+          "tip": "«Sauce» sin la e: south. ¡No lo confundas con la palabra inglesa sauce (salsa)!"
+        },
+        {
+          "en": "three",
+          "ipa": "θriː",
+          "say": "zrii",
+          "es": "tres",
+          "icon": "3️⃣",
+          "anchor": "<s>tree</s> 🌳 → <b>zrii</b>",
+          "tip": "Con T dices «árbol». Z de zapato + R americana."
+        },
+        {
+          "en": "mouth",
+          "ipa": "maʊθ",
+          "say": "mauz",
+          "es": "boca",
+          "icon": "👄",
+          "anchor": "<s>mouse</s> 🐭 → <b>mauz</b>",
+          "tip": "Con S dices «ratón». Termina con la lengua entre los dientes."
+        },
+        {
+          "en": "both",
+          "ipa": "boʊθ",
+          "say": "bouz",
+          "es": "ambos",
+          "icon": "👯",
+          "anchor": "<s>boat</s> ⛵ → <b>bouz</b>",
+          "tip": "Con T dices «barco». Ou + z: <code>bouz</code>."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "think",
+          "es": "pensar"
+        },
+        {
+          "q": "thank you",
+          "es": "gracias"
+        },
+        {
+          "q": "three",
+          "es": "tres"
+        },
+        {
+          "q": "mouth",
+          "es": "boca"
+        },
+        {
+          "q": "birthday",
+          "es": "cumpleaños"
+        },
+        {
+          "q": "Thursday",
+          "es": "jueves"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Sin TH… ¡cambias de palabra!",
+      "title_en": "Without TH, it's a different word!",
+      "icon": "🔀",
+      "head": [
+        "✅ Con TH",
+        "❌ Con S",
+        "❌ Con T",
+        "❌ Con F"
+      ],
+      "rows": [
+        [
+          "thin <i>delgado</i>",
+          "sin <i>pecado</i>",
+          "tin <i>lata</i>",
+          "fin <i>aleta</i>"
+        ],
+        [
+          "thought <i>pensé</i>",
+          "sought <i>buscó</i>",
+          "taught <i>enseñó</i>",
+          "fought <i>luchó</i>"
+        ],
+        [
+          "three <i>tres</i>",
+          "—",
+          "tree <i>árbol</i>",
+          "free <i>gratis</i>"
+        ],
+        [
+          "thank <i>agradecer</i>",
+          "sank <i>se hundió</i>",
+          "tank <i>tanque</i>",
+          "—"
+        ],
+        [
+          "think <i>pensar</i>",
+          "sink <i>fregadero</i>",
+          "—",
+          "—"
+        ],
+        [
+          "mouth <i>boca</i>",
+          "mouse <i>ratón</i>",
+          "—",
+          "—"
+        ],
+        [
+          "path <i>camino</i>",
+          "pass <i>pasar</i>",
+          "pat <i>palmadita</i>",
+          "—"
+        ],
+        [
+          "both <i>ambos</i>",
+          "—",
+          "boat <i>barco</i>",
+          "—"
+        ]
+      ],
+      "note": "Si seseas, la TH te sale como S; si no, muchas veces como T. Y en algunos acentos se oye F. Ninguna vale: <b>¡lengua entre los dientes!</b>",
+      "note_en": "Don't swap TH for S, T or F: you'll say a different word."
+    },
+    {
+      "t": "table",
+      "title": "Los ordinales: ¡TH al final!",
+      "title_en": "Ordinal numbers",
+      "icon": "🏅",
+      "head": [
+        "Número",
+        "Inglés",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "4.º",
+          "fourth",
+          "<code>forz</code>"
+        ],
+        [
+          "5.º",
+          "fifth",
+          "<code>fifz</code>"
+        ],
+        [
+          "6.º",
+          "sixth",
+          "<code>siksz</code>"
+        ],
+        [
+          "7.º",
+          "seventh",
+          "<code>sévənz</code>"
+        ],
+        [
+          "8.º",
+          "eighth",
+          "<code>eitz</code>"
+        ],
+        [
+          "9.º",
+          "ninth",
+          "<code>nainz</code>"
+        ],
+        [
+          "10.º",
+          "tenth",
+          "<code>tenz</code>"
+        ],
+        [
+          "12.º",
+          "twelfth",
+          "<code>twelfz</code>"
+        ],
+        [
+          "13.º",
+          "thirteenth",
+          "<code>zertíinz</code>"
+        ],
+        [
+          "30.º",
+          "thirtieth",
+          "<code>zérdiəz</code>"
+        ]
+      ],
+      "note": "Del 4.º en adelante acaban en TH sorda (menos los que terminan en first, second y third). ¡Úsalos en las fechas: May 5th = «May fifth»!",
+      "note_en": "From 4th on, ordinals end in a voiceless TH."
+    },
+    {
+      "t": "compare",
+      "title": "¿Sorda o sonora?",
+      "title_en": "Voiceless or voiced?",
+      "icon": "⚖️",
+      "es": "La TH tiene dos sonidos. Pon la mano en el cuello: si no vibra, es la de este mapa.",
+      "en": "TH has two sounds. Hand on your throat: no buzz means voiceless.",
+      "cols": [
+        {
+          "head": "🤫 Sorda /θ/ (C-04)",
+          "color": "blue",
+          "items": [
+            "sin voz, como la z de «zapato»",
+            "palabras «grandes»: think, three, Thursday",
+            "final de sustantivo: mouth, bath",
+            "suena <code>z</code>: <code>zink</code>"
+          ]
+        },
+        {
+          "head": "🐝 Sonora /ð/ (C-05)",
+          "color": "orange",
+          "items": [
+            "con voz: la garganta zumba",
+            "palabras pequeñas: the, this, they",
+            "-ther: mother, brother",
+            "suena <code>d</code> suave: <code>də</code>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "¿TH, S o T?",
+      "title_en": "TH, S or T?",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "three",
+            "ipa": "θriː",
+            "say": "zrii",
+            "es": "tres",
+            "icon": "3️⃣"
+          },
+          "b": {
+            "en": "tree",
+            "ipa": "triː",
+            "say": "trii",
+            "es": "árbol",
+            "icon": "🌳"
+          },
+          "tip": "«I have three kids» ≠ «I have tree kids». 😄"
+        },
+        {
+          "a": {
+            "en": "mouth",
+            "ipa": "maʊθ",
+            "say": "mauz",
+            "es": "boca",
+            "icon": "👄"
+          },
+          "b": {
+            "en": "mouse",
+            "ipa": "maʊs",
+            "say": "maus",
+            "es": "ratón",
+            "icon": "🐭"
+          },
+          "tip": "Abre la boca (mouth)… ¡y que no salga un ratón (mouse)!"
+        },
+        {
+          "a": {
+            "en": "think",
+            "ipa": "θɪŋk",
+            "say": "zink",
+            "es": "pensar",
+            "icon": "🤔"
+          },
+          "b": {
+            "en": "sink",
+            "ipa": "sɪŋk",
+            "say": "sink",
+            "es": "fregadero / hundirse",
+            "icon": "🚰"
+          },
+          "tip": "Si seseas, cuidado: «I sink» = «me hundo». 😅"
+        },
+        {
+          "a": {
+            "en": "both",
+            "ipa": "boʊθ",
+            "say": "bouz",
+            "es": "ambos",
+            "icon": "👯"
+          },
+          "b": {
+            "en": "boat",
+            "ipa": "boʊt",
+            "say": "bout",
+            "es": "barco",
+            "icon": "⛵"
+          },
+          "tip": "Con T, tus dos amigos se convierten en un barco."
+        },
+        {
+          "a": {
+            "en": "thank",
+            "ipa": "θæŋk",
+            "say": "zænk",
+            "es": "agradecer",
+            "icon": "🙏"
+          },
+          "b": {
+            "en": "tank",
+            "ipa": "tæŋk",
+            "say": "tænk",
+            "es": "tanque",
+            "icon": "🪖"
+          },
+          "tip": "«Tank you» suena a «tanque tú». ¡Mejor thank you!"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I think so.",
+          "say": "ai zink sou",
+          "es": "Creo que sí.",
+          "icon": "🤔"
+        },
+        {
+          "en": "Thank you very much!",
+          "say": "zǽnkiu véri mach!",
+          "es": "¡Muchas gracias!",
+          "icon": "🙏"
+        },
+        {
+          "en": "My birthday is on Thursday.",
+          "say": "mai bérzdei is an zérsdei",
+          "es": "Mi cumpleaños es el jueves.",
+          "icon": "🎂"
+        },
+        {
+          "en": "Open your mouth, please.",
+          "say": "óupən ior mauz, pliis",
+          "es": "Abre la boca, por favor.",
+          "icon": "👄"
+        },
+        {
+          "en": "Brush your teeth!",
+          "say": "brash ior tiiz!",
+          "es": "¡Lávate los dientes!",
+          "icon": "🪥"
+        },
+        {
+          "en": "Three, two, one… go!",
+          "say": "zrii, tuu, wan… gou!",
+          "es": "¡Tres, dos, uno… ya!",
+          "icon": "🚀"
+        },
+        {
+          "en": "Math is my favorite subject.",
+          "say": "mæz is mai féivərit sábyekt",
+          "es": "Las mates son mi asignatura favorita.",
+          "icon": "🧮"
+        },
+        {
+          "en": "Nothing is free.",
+          "say": "názing is frii",
+          "es": "Nada es gratis.",
+          "icon": "🆓"
+        },
+        {
+          "en": "Today is the fifth of May.",
+          "say": "tədéi is də fifz əv mei",
+          "es": "Hoy es 5 de mayo.",
+          "icon": "📅"
+        },
+        {
+          "en": "I need a bath.",
+          "say": "ai niid ə bæz",
+          "es": "Necesito un baño.",
+          "icon": "🛁"
+        },
+        {
+          "en": "Happy Thanksgiving!",
+          "say": "jǽpi zænksguíving!",
+          "es": "¡Feliz Día de Acción de Gracias!",
+          "icon": "🦃"
+        },
+        {
+          "en": "Both of my friends live in the south.",
+          "say": "bouz əv mai frends liv in də sauz",
+          "es": "Mis dos amigos viven en el sur.",
+          "icon": "🧭"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "think → <code>sink</code>",
+          "good": "<code>zink</code>",
+          "why": "Con S dices «fregadero». Lengua entre los dientes: z de zapato.",
+          "why_en": "With S, you say «sink»."
+        },
+        {
+          "bad": "three → <code>trii</code>",
+          "good": "<code>zrii</code>",
+          "why": "Con T dices «árbol».",
+          "why_en": "With T, you say «tree»."
+        },
+        {
+          "bad": "thank you → <code>tǽnkiu</code>",
+          "good": "<code>zǽnkiu</code>",
+          "why": "Con T suena a «tank» (tanque). 😄",
+          "why_en": "With T, it sounds like «tank»."
+        },
+        {
+          "bad": "mouth → <code>maus</code>",
+          "good": "<code>mauz</code>",
+          "why": "Con S dices «mouse» (ratón).",
+          "why_en": "With S, you say «mouse»."
+        },
+        {
+          "bad": "birthday → <code>bérdei</code>",
+          "good": "<code>bérzdei</code>",
+          "why": "¡No te comas la TH del medio!",
+          "why_en": "Don't drop the TH."
+        },
+        {
+          "bad": "Thursday → <code>túrsdei</code>",
+          "good": "<code>zérsdei</code>",
+          "why": "La TH no es T, y la UR suena «er» (mapa V-09).",
+          "why_en": "TH isn't T, and UR sounds like «er»."
+        },
+        {
+          "bad": "math → <code>mæt</code>",
+          "good": "<code>mæz</code>",
+          "why": "Sin TH dices «mat» (esterilla). Termina con la lengua fuera.",
+          "why_en": "Without TH, it's «mat»."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "El cumpleaños de Mario",
+      "title_en": "Mario's birthday",
+      "lines": [
+        {
+          "who": "Jenny",
+          "en": "Mario, when is your birthday?",
+          "say": "mário, wen is ior bérzdei?",
+          "es": "Mario, ¿cuándo es tu cumpleaños?"
+        },
+        {
+          "who": "Mario",
+          "en": "It's on Thursday, the third of March.",
+          "say": "its an zérsdei, də zerd əv march",
+          "es": "Es el jueves, el 3 de marzo."
+        },
+        {
+          "who": "Jenny",
+          "en": "How old will you be?",
+          "say": "jau ould wil iu bii?",
+          "es": "¿Cuántos años vas a cumplir?"
+        },
+        {
+          "who": "Mario",
+          "en": "Thirteen! I think it's my lucky number.",
+          "say": "zertíin! ai zink its mai láki námber",
+          "es": "¡Trece! Creo que es mi número de la suerte."
+        },
+        {
+          "who": "Jenny",
+          "en": "Thirteen or thirty? 😄",
+          "say": "zertíin or zérdi?",
+          "es": "¿Trece o treinta? 😄"
+        },
+        {
+          "who": "Mario",
+          "en": "Thirteen! I'm not that old!",
+          "say": "zertíin! aim nat dæt ould!",
+          "es": "¡Trece! ¡No soy tan mayor!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Here's something for you. Happy birthday!",
+          "say": "jirs sámzing fer iu. jǽpi bérzdei!",
+          "es": "Toma, algo para ti. ¡Feliz cumpleaños!"
+        },
+        {
+          "who": "Mario",
+          "en": "A math game! Thank you so much!",
+          "say": "ə mæz gueim! zǽnkiu sou mach!",
+          "es": "¡Un juego de mates! ¡Muchísimas gracias!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di «<b>z</b>apato», «<b>z</b>umo», «<b>c</b>ena» y fíjate: la lengua asoma entre los dientes. ¡Ese es el sonido!",
+          "en": "Say «zapato» and feel your tongue between your teeth."
+        },
+        {
+          "es": "Mantén la lengua ahí y sopla largo: <code>zzzz</code>. Mano en el cuello: no tiene que vibrar.",
+          "en": "Hold it there and blow. No buzz in your throat."
+        },
+        {
+          "es": "Añade vocales: <code>zink</code>, <code>zrii</code>, <code>zǽnkiu</code>.",
+          "en": "Add vowels: think, three, thank you."
+        },
+        {
+          "es": "Termina palabras sin perder la TH: <code>mauz</code>, <code>bouz</code>, <code>mæz</code>. Acaba con la lengua fuera.",
+          "en": "Finish words with your tongue out."
+        },
+        {
+          "es": "Ahora los grupos, despacio y luego rápido: <code>fif-z</code>, <code>siks-z</code>, <code>man-zs</code>. <b>Grábate</b> y compara con los QR.",
+          "en": "Practise clusters slowly, then faster. Record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Three thin thieves think about Thursday.",
+          "say": "zrii zin ziivs zink əbáut zérsdei",
+          "es": "Tres ladrones flacos piensan en el jueves."
+        },
+        {
+          "en": "Thank you for the thirty-three thick things.",
+          "say": "zǽnkiu fer də zérdi zrii zik zings",
+          "es": "Gracias por las treinta y tres cosas gruesas."
+        },
+        {
+          "en": "I thought a thought, but the thought I thought wasn't the thought I thought I thought.",
+          "say": "ai zot ə zot, bət də zot ai zot wásənt də zot ai zot ai zot",
+          "es": "Pensé un pensamiento, pero el que pensé no era el que creía haber pensado (tradicional)."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del zinc",
+      "title_en": "The zinc trick",
+      "es": "Cada vez que veas <b>think</b>, piensa en el metal <b>zinc</b>. Y si te sale una s o una t, mírate en un espejo: ¡tiene que asomar la punta de la lengua! 😛",
+      "en": "Every time you see «think», remember «zinc». Use a mirror: the tip of your tongue must show."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Rodea la palabra correcta",
+      "title_en": "Circle the right word",
+      "icon": "🔍",
+      "es": "Lee la pista y rodea la palabra correcta. Después dila: ¡con TH, lengua fuera!",
+      "en": "Read the clue, circle the right word and say it.",
+      "items": [
+        {
+          "q": "🤔 pensar → [think|sink]",
+          "a": "think"
+        },
+        {
+          "q": "🌳 árbol → [three|tree]",
+          "a": "tree"
+        },
+        {
+          "q": "3️⃣ tres → [three|tree]",
+          "a": "three"
+        },
+        {
+          "q": "🐭 ratón → [mouth|mouse]",
+          "a": "mouse"
+        },
+        {
+          "q": "👄 boca → [mouth|mouse]",
+          "a": "mouth"
+        },
+        {
+          "q": "🥢 delgado → [thin|fin|sin]",
+          "a": "thin"
+        },
+        {
+          "q": "🐟 aleta → [thin|fin|sin]",
+          "a": "fin"
+        },
+        {
+          "q": "🪖 tanque → [thank|tank]",
+          "a": "tank"
+        },
+        {
+          "q": "⛵ barco → [both|boat]",
+          "a": "boat"
+        },
+        {
+          "q": "👯 ambos → [both|boat]",
+          "a": "both"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela según dónde está la TH.",
+      "en": "Say each word and sort it by where the TH is.",
+      "cats": [
+        {
+          "name": "🤔 TH al principio",
+          "words": [
+            "think",
+            "three",
+            "Thursday",
+            "thousand",
+            "thumb",
+            "thin"
+          ]
+        },
+        {
+          "name": "🎂 TH en medio",
+          "words": [
+            "birthday",
+            "nothing",
+            "healthy",
+            "author",
+            "something",
+            "bathroom"
+          ]
+        },
+        {
+          "name": "👄 TH al final",
+          "words": [
+            "mouth",
+            "both",
+            "math",
+            "tooth",
+            "north",
+            "month"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "think",
+          "<code>zink</code>"
+        ],
+        [
+          "three",
+          "<code>zrii</code>"
+        ],
+        [
+          "mouth",
+          "<code>mauz</code>"
+        ],
+        [
+          "birthday",
+          "<code>bérzdei</code>"
+        ],
+        [
+          "Thursday",
+          "<code>zérsdei</code>"
+        ],
+        [
+          "both",
+          "<code>bouz</code>"
+        ],
+        [
+          "teeth",
+          "<code>tiiz</code>"
+        ],
+        [
+          "thousand",
+          "<code>záusənd</code>"
+        ]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Sorda o sonora?",
+      "title_en": "Voiceless or voiced?",
+      "icon": "🖐️",
+      "es": "Pon la mano en el cuello y di la palabra. ¿Vibra? Rodea <b>sorda</b> /θ/ o <b>sonora</b> /ð/ (la sonora la verás en el mapa C-05).",
+      "en": "Hand on your throat: voiceless or voiced?",
+      "items": [
+        {
+          "q": "think → [sorda|sonora]",
+          "a": "sorda"
+        },
+        {
+          "q": "the → [sorda|sonora]",
+          "a": "sonora"
+        },
+        {
+          "q": "three → [sorda|sonora]",
+          "a": "sorda"
+        },
+        {
+          "q": "this → [sorda|sonora]",
+          "a": "sonora"
+        },
+        {
+          "q": "mouth → [sorda|sonora]",
+          "a": "sorda"
+        },
+        {
+          "q": "mother → [sorda|sonora]",
+          "a": "sonora"
+        },
+        {
+          "q": "Thursday → [sorda|sonora]",
+          "a": "sorda"
+        },
+        {
+          "q": "they → [sorda|sonora]",
+          "a": "sonora"
+        },
+        {
+          "q": "bath → [sorda|sonora]",
+          "a": "sorda"
+        },
+        {
+          "q": "brother → [sorda|sonora]",
+          "a": "sonora"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Usa <b>z</b> para la TH sorda y pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "🥢 thin → ____",
+          "a": "zin"
+        },
+        {
+          "q": "📚 thick → ____",
+          "a": "zik"
+        },
+        {
+          "q": "🦷 tooth → ____",
+          "a": "tuuz"
+        },
+        {
+          "q": "😁 teeth → ____",
+          "a": "tiiz"
+        },
+        {
+          "q": "🧭 north → ____",
+          "a": "norz"
+        },
+        {
+          "q": "☀️ south → ____",
+          "a": "sauz"
+        },
+        {
+          "q": "🤷 nothing → ____",
+          "a": "názing"
+        },
+        {
+          "q": "🥗 healthy → ____",
+          "a": "jélzi"
+        },
+        {
+          "q": "📅 Thursday → ____",
+          "a": "zérsdei"
+        },
+        {
+          "q": "🔢 thousand → ____",
+          "a": "záusənd"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "The voiceless TH sounds like the Spanish «z» in «zapato».",
+          "a": true
+        },
+        {
+          "q": "For /θ/, your throat vibrates.",
+          "a": false,
+          "why": "es sorda: sin voz"
+        },
+        {
+          "q": "«Think» and «sink» sound the same.",
+          "a": false,
+          "why": "z ≠ s"
+        },
+        {
+          "q": "If you say «tree» instead of «three», you say «árbol».",
+          "a": true
+        },
+        {
+          "q": "In «birthday», the TH is silent.",
+          "a": false,
+          "why": "suena: bérzdei"
+        },
+        {
+          "q": "The tip of your tongue goes between your teeth.",
+          "a": true
+        },
+        {
+          "q": "«Mouth» with an S sounds like «mouse».",
+          "a": true
+        },
+        {
+          "q": "Many Americans simplify «months» when they speak fast.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Escríbelo en inglés",
+      "title_en": "Spell it",
+      "icon": "🔤",
+      "es": "Escribe la palabra inglesa. ¡Todas llevan TH sorda!",
+      "en": "Write the English word. They all have a voiceless TH.",
+      "items": [
+        {
+          "q": "🤔 pensar",
+          "a": "think"
+        },
+        {
+          "q": "3️⃣ tres",
+          "a": "three"
+        },
+        {
+          "q": "👄 boca",
+          "a": "mouth"
+        },
+        {
+          "q": "🦷 diente",
+          "a": "tooth"
+        },
+        {
+          "q": "🧮 mates",
+          "a": "math"
+        },
+        {
+          "q": "🛁 baño (bañera)",
+          "a": "bath"
+        },
+        {
+          "q": "🧭 norte",
+          "a": "north"
+        },
+        {
+          "q": "🎂 cumpleaños",
+          "a": "birthday"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa los ordinales",
+      "title_en": "Complete the ordinals",
+      "icon": "🏅",
+      "es": "Completa la tabla. Todos acaban en TH sorda.",
+      "en": "Complete the table.",
+      "head": [
+        "Número",
+        "Inglés",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "4.º",
+          "fourth",
+          "?forz"
+        ],
+        [
+          "5.º",
+          "?fifth",
+          "fifz"
+        ],
+        [
+          "6.º",
+          "sixth",
+          "?siksz"
+        ],
+        [
+          "7.º",
+          "?seventh",
+          "?sévənz"
+        ],
+        [
+          "8.º",
+          "eighth",
+          "?eitz"
+        ],
+        [
+          "9.º",
+          "?ninth",
+          "nainz"
+        ],
+        [
+          "10.º",
+          "tenth",
+          "?tenz"
+        ],
+        [
+          "12.º",
+          "?twelfth",
+          "?twelfz"
+        ],
+        [
+          "13.º",
+          "thirteenth",
+          "?zertíinz"
+        ],
+        [
+          "30.º",
+          "?thirtieth",
+          "zérdiəz"
+        ]
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "think → <code>sink</code>",
+          "a": "zink"
+        },
+        {
+          "q": "three → <code>trii</code>",
+          "a": "zrii"
+        },
+        {
+          "q": "mouth → <code>maus</code>",
+          "a": "mauz"
+        },
+        {
+          "q": "thank you → <code>tǽnkiu</code>",
+          "a": "zǽnkiu"
+        },
+        {
+          "q": "birthday → <code>bérdei</code>",
+          "a": "bérzdei"
+        },
+        {
+          "q": "Thursday → <code>túrsdei</code>",
+          "a": "zérsdei"
+        },
+        {
+          "q": "math → <code>mæt</code>",
+          "a": "mæz"
+        },
+        {
+          "q": "both → <code>bout</code>",
+          "a": "bouz"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧩",
+      "es": "Ordena las palabras y lee la frase sacando la lengua en cada TH.",
+      "en": "Put the words in order and read the sentence.",
+      "items": [
+        {
+          "q": "think / so / I",
+          "a": "I think so."
+        },
+        {
+          "q": "you / much / Thank / very",
+          "a": "Thank you very much!"
+        },
+        {
+          "q": "Thursday / birthday / My / on / is",
+          "a": "My birthday is on Thursday."
+        },
+        {
+          "q": "teeth / your / Brush",
+          "a": "Brush your teeth!"
+        },
+        {
+          "q": "three / have / I / cats",
+          "a": "I have three cats."
+        },
+        {
+          "q": "math / like / I",
+          "a": "I like math."
+        },
+        {
+          "q": "mouth / Open / your",
+          "a": "Open your mouth."
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Thank you!",
+          "say": "zǽnkiu!"
+        },
+        {
+          "q": "I think so.",
+          "say": "ai zink sou"
+        },
+        {
+          "q": "Three, two, one!",
+          "say": "zrii, tuu, wan!"
+        },
+        {
+          "q": "Happy birthday!",
+          "say": "jǽpi bérzdei!"
+        },
+        {
+          "q": "Both of us.",
+          "say": "bouz əv as"
+        },
+        {
+          "q": "Open your mouth.",
+          "say": "óupən ior mauz"
+        },
+        {
+          "q": "See you on Thursday.",
+          "say": "sii iu an zérsdei"
+        },
+        {
+          "q": "The fifth month.",
+          "say": "də fifz manz"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con la lengua entre los dientes.",
+      "en": "Translate into English and say it.",
+      "items": [
+        {
+          "q": "pensar",
+          "a": "think (zink)"
+        },
+        {
+          "q": "tres",
+          "a": "three (zrii)"
+        },
+        {
+          "q": "gracias",
+          "a": "thank you (zǽnkiu)"
+        },
+        {
+          "q": "boca",
+          "a": "mouth (mauz)"
+        },
+        {
+          "q": "jueves",
+          "a": "Thursday (zérsdei)"
+        },
+        {
+          "q": "mil",
+          "a": "thousand (záusənd)"
+        },
+        {
+          "q": "cumpleaños",
+          "a": "birthday (bérzdei)"
+        },
+        {
+          "q": "nada",
+          "a": "nothing (názing)"
+        },
+        {
+          "q": "dientes",
+          "a": "teeth (tiiz)"
+        },
+        {
+          "q": "ambos",
+          "a": "both (bouz)"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte y di la palabra con su TH.",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "birth",
+            "day"
+          ],
+          "s": 0,
+          "es": "cumpleaños"
+        },
+        {
+          "syl": [
+            "Thurs",
+            "day"
+          ],
+          "s": 0,
+          "es": "jueves"
+        },
+        {
+          "syl": [
+            "thou",
+            "sand"
+          ],
+          "s": 0,
+          "es": "mil"
+        },
+        {
+          "syl": [
+            "thir",
+            "teen"
+          ],
+          "s": 1,
+          "es": "trece"
+        },
+        {
+          "syl": [
+            "thir",
+            "ty"
+          ],
+          "s": 0,
+          "es": "treinta"
+        },
+        {
+          "syl": [
+            "bath",
+            "room"
+          ],
+          "s": 0,
+          "es": "cuarto de baño"
+        },
+        {
+          "syl": [
+            "noth",
+            "ing"
+          ],
+          "s": 0,
+          "es": "nada"
+        },
+        {
+          "syl": [
+            "some",
+            "thing"
+          ],
+          "s": 0,
+          "es": "algo"
+        },
+        {
+          "syl": [
+            "ath",
+            "lete"
+          ],
+          "s": 0,
+          "es": "atleta"
+        },
+        {
+          "syl": [
+            "health",
+            "y"
+          ],
+          "s": 0,
+          "es": "sano"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de TH",
+      "title_en": "TH word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con TH sorda. Dila en voz alta, lengua fuera, cada vez que encuentres una.",
+      "en": "Find 10 words with a voiceless TH.",
+      "words": [
+        "think",
+        "three",
+        "thank",
+        "thin",
+        "mouth",
+        "both",
+        "math",
+        "tooth",
+        "birthday",
+        "Thursday"
+      ],
+      "clues": [
+        "think · pensar",
+        "three · tres",
+        "thank · agradecer",
+        "thin · delgado",
+        "mouth · boca",
+        "both · ambos",
+        "math · mates",
+        "tooth · diente",
+        "birthday · cumpleaños",
+        "Thursday · jueves"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las TH",
+      "title_en": "Read and find the THs",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Ethan's birthday",
+      "text": [
+        "Ethan is thirteen. His birthday is on Thursday, the third of May. His three best friends think he wants a book, but he wants something else: a math game!",
+        "At the party, Ethan opens his mouth and blows out the candles. “Thank you, everybody!” he says. “This is the best birthday ever!”"
+      ],
+      "items": [
+        {
+          "q": "How old is Ethan?",
+          "a": "Thirteen: <code>zertíin</code>."
+        },
+        {
+          "q": "When is his birthday?",
+          "a": "On Thursday, the third of May: <code>an zérsdei, də zerd əv mei</code>."
+        },
+        {
+          "q": "Write three words from the text with a voiceless TH /θ/.",
+          "a": "Ethan, thirteen, birthday, Thursday, third, three, think, something, math, mouth, thank (cualquiera)."
+        },
+        {
+          "q": "Ethan wants a math game.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Ethan has four best friends.",
+          "tf": true,
+          "a": false,
+          "why": "three best friends"
+        },
+        {
+          "q": "«This» has the same TH as «think».",
+          "tf": true,
+          "a": false,
+          "why": "this lleva la sonora /ð/ (C-05)"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con TH sorda. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with a voiceless TH and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con tu cumpleaños (birthday, Thursday, the fifth…).",
+          "lines": 2,
+          "a": "Ej.: My birthday is on the fifth of June."
+        },
+        {
+          "q": "Una frase con think o thank you.",
+          "lines": 2,
+          "a": "Ej.: I think math is fun. Thank you, teacher!"
+        },
+        {
+          "q": "Una frase con mouth, teeth o tooth.",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Pongo la lengua entre los dientes y soplo, sin voz: <code>zink</code>.",
+      "en": "I can make the voiceless TH."
+    },
+    {
+      "es": "Sé que /θ/ es la z de «zapato» (¡think = zinc!).",
+      "en": "I know /θ/ is the Spanish «z»."
+    },
+    {
+      "es": "No digo sink, tree ni mouse cuando quiero decir think, three y mouth.",
+      "en": "I don't swap TH for S or T."
+    },
+    {
+      "es": "Pronuncio la TH final: <code>mauz</code>, <code>bouz</code>, <code>mæz</code>.",
+      "en": "I say the final TH."
+    },
+    {
+      "es": "Digo los ordinales: <code>fifz</code>, <code>siksz</code>, <code>twelfz</code>.",
+      "en": "I can say ordinal numbers."
+    },
+    {
+      "es": "Puedo decir el trabalenguas del «thought» sin trabarme.",
+      "en": "I can say the «thought» tongue twister."
+    }
+  ]
+}

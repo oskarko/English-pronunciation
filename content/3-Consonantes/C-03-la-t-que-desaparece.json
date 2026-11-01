@@ -1,0 +1,1853 @@
+{
+  "id": "C-03",
+  "block": "C",
+  "title": "LA <em>T</em> QUE DESAPARECE",
+  "file_title": "La T que desaparece (T glotal y NT)",
+  "subtitle": "The disappearing T · button = «bá'n»",
+  "icon": "👻",
+  "map": {
+    "center": "En americano, la <b>T</b> a veces se <b>corta en la garganta</b> (button = <code>bá'n</code>) o se <b>esconde</b> tras la N (twenty = <code>twéni</code>).",
+    "listen": "button",
+    "nodes": [
+      {
+        "title": "Corte + N",
+        "icon": "✂️",
+        "color": "green",
+        "rows": [
+          [
+            "button",
+            "<code>bá'n</code>"
+          ],
+          [
+            "mountain",
+            "<code>máun'n</code>"
+          ],
+          [
+            "certain",
+            "<code>sér'n</code>"
+          ]
+        ],
+        "after": "sin vocal: la N sale <b>por la nariz</b>"
+      },
+      {
+        "title": "NT: ¡se esconde!",
+        "icon": "🙈",
+        "color": "blue",
+        "rows": [
+          [
+            "twenty",
+            "<code>twéni</code>"
+          ],
+          [
+            "internet",
+            "<code>ínerne'</code>"
+          ],
+          [
+            "center",
+            "<code>séner</code>"
+          ]
+        ]
+      },
+      {
+        "title": "T final cortada",
+        "icon": "🐈",
+        "color": "purple",
+        "rows": [
+          [
+            "cat",
+            "<code>kæ'</code>"
+          ],
+          [
+            "what",
+            "<code>wa'</code>"
+          ],
+          [
+            "Batman",
+            "<code>bǽ'mæn</code>"
+          ]
+        ],
+        "after": "corte seco, <b>sin soltar aire</b>"
+      },
+      {
+        "title": "¡Aquí sí suena!",
+        "icon": "✋",
+        "color": "orange",
+        "items": [
+          "al empezar: <b>t</b>able, <b>t</b>en",
+          "sílaba fuerte: seven<b>TEEN</b>",
+          "antes de vocal: toque (C-02)"
+        ]
+      },
+      {
+        "title": "I don't know",
+        "icon": "🤷",
+        "color": "pink",
+        "rows": [
+          [
+            "I don't know",
+            "<code>ai dóun nóu</code>"
+          ],
+          [
+            "Don't worry",
+            "<code>dóun wéri</code>"
+          ]
+        ],
+        "after": "delante de consonante, la T se va"
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "La T glotal es el cortecito de «¡<b>oh-oh</b>!» 😬. Úsalo en <code>bá'n</code> y <code>kí'n</code>.",
+        "art": "👻"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "<code>bóton</code>, como «botón»"
+      ],
+      "good": [
+        "<code>bá'n</code> 🔘"
+      ],
+      "note": "Sin vocal: corte en la garganta y N por la nariz."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🔘 button → ____",
+          "a": "bá'n"
+        },
+        {
+          "q": "⛰️ mountain → ____",
+          "a": "máun'n"
+        },
+        {
+          "q": "💵 twenty → ____",
+          "a": "twéni"
+        },
+        {
+          "q": "🐈 kitten → ____",
+          "a": "kí'n"
+        },
+        {
+          "q": "🤷 I don't know → ____",
+          "a": "ai dóun nóu"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Dónde se mete la T?",
+      "title_en": "Where does the T go?",
+      "icon": "🔎",
+      "es": "En el mapa C-02 viste que la T entre vocales suena como una r suave (water = <code>wárer</code>). Pero la T americana tiene más trucos: a veces <b>se corta en la garganta</b>, como en «¡oh-oh!» 😬 (button = <code>bá'n</code>), y a veces <b>se esconde</b> tras la N (twenty = <code>twéni</code>). <mark>No es pereza: así habla todo EE. UU.</mark> En la figurada, el corte se escribe <code>'</code>.",
+      "en": "A T can be cut off in the throat (button = «bá'n») or hide after an N (twenty = «twéni»).",
+      "formula": [
+        "T + *-en / -on* → *corte* (bá'n)",
+        "N + *T* + vocal débil → *T muda* (twéni)"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se hace el corte",
+      "title_en": "How to make the stop",
+      "items": [
+        {
+          "part": "voice",
+          "label": "Garganta",
+          "es": "Cierras de golpe el paso del aire <b>en la garganta</b>, como en «¡oh-oh!». Es la T glotal, /ʔ/.",
+          "en": "A stop in your throat, like in «uh-oh»."
+        },
+        {
+          "part": "tongue",
+          "es": "Puede ir a su sitio (detrás de los dientes), pero <b>no suelta</b> el aire.",
+          "en": "Your tongue doesn't release the T."
+        },
+        {
+          "part": "air",
+          "es": "<b>Sin explosión</b>: nada del «pff» de la T de table.",
+          "en": "No puff of air."
+        },
+        {
+          "part": "nose",
+          "es": "En button, la N sale <b>por la nariz</b> justo después del corte: <code>bá'n</code>.",
+          "en": "The N comes out through your nose."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · T + N: el corte",
+      "title_en": "T + N: the glottal stop",
+      "icon": "🔘",
+      "es": "Cuando detrás de la T viene una sílaba débil con <b>-en, -on, -ain</b> o <b>-in</b>, los americanos no dicen esa vocal: cortan en la garganta y pasan <mark>directos a la N</mark>, que suena por la nariz. Pasa en button, cotton, kitten, mountain, certain o Manhattan.",
+      "en": "Before a weak -en, -on, -ain or -in, Americans stop the air in their throat and go straight into the N.",
+      "formula": [
+        "bu + *TT* + on → bá*'*n",
+        "moun + *T* + ain → máun*'*n"
+      ],
+      "examples": [
+        {
+          "en": "button",
+          "say": "bá'n",
+          "es": "botón",
+          "icon": "🔘"
+        },
+        {
+          "en": "mountain",
+          "say": "máun'n",
+          "es": "montaña",
+          "icon": "⛰️"
+        },
+        {
+          "en": "certain",
+          "say": "sér'n",
+          "es": "seguro",
+          "icon": "🤔"
+        },
+        {
+          "en": "cotton",
+          "say": "ká'n",
+          "es": "algodón",
+          "icon": "☁️"
+        },
+        {
+          "en": "kitten",
+          "say": "kí'n",
+          "es": "gatito",
+          "icon": "🐈"
+        },
+        {
+          "en": "Manhattan",
+          "say": "mænjǽ'n",
+          "es": "Manhattan",
+          "icon": "🗽"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · T antes de consonante",
+      "title_en": "T before a consonant",
+      "icon": "🦇",
+      "es": "Si a la T le sigue una <b>consonante</b> (en la misma palabra o en la siguiente), tampoco se suelta: se corta en la garganta y pasas directo a la consonante. Es lo que ya viste en <code>gue' mi</code> (get me) en el mapa C-02.",
+      "en": "Before a consonant, the T isn't released either: stop in your throat and move on.",
+      "examples": [
+        {
+          "en": "Batman",
+          "say": "bǽ'mæn",
+          "es": "Batman",
+          "icon": "🦇"
+        },
+        {
+          "en": "football",
+          "say": "fú'bol",
+          "es": "fútbol americano",
+          "icon": "🏈"
+        },
+        {
+          "en": "hot dog",
+          "say": "já'dog",
+          "es": "perrito caliente",
+          "icon": "🌭"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · T al final: se corta",
+      "title_en": "Final T: cut it off",
+      "icon": "🐈",
+      "es": "Al final de la frase, la T americana casi no se oye: la lengua va a su sitio, pero <b>no suelta el aire</b>. Ojo: no es quitarla sin más, es <mark>cortar la vocal en seco</mark>. Y si la palabra siguiente empieza por vocal, vuelve el toque del mapa C-02: <code>gue'</code> (get), pero <code>guérit</code> (get it).",
+      "en": "At the end of a phrase, the T is cut off: the vowel stops suddenly and no air comes out. Before a vowel, it becomes a tap.",
+      "examples": [
+        {
+          "en": "cat",
+          "say": "kæ'",
+          "es": "gato",
+          "icon": "🐱"
+        },
+        {
+          "en": "What?",
+          "say": "wa'?",
+          "es": "¿Qué?",
+          "icon": "❓"
+        },
+        {
+          "en": "Good night!",
+          "say": "gud nai'!",
+          "es": "¡Buenas noches!",
+          "icon": "🌙"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · NT: la T se esconde",
+      "title_en": "NT: the hiding T",
+      "icon": "🙈",
+      "es": "Cuando la T va <b>detrás de una N</b> y después viene una vocal débil, muchos americanos <mark>no la dicen</mark>: es como si la N se la tragara. Twenty suena <code>twéni</code> e internet, <code>ínerne'</code>. Pero si la sílaba siguiente es fuerte (seven<b>TEEN</b>, un<b>TIL</b>), la T suena clara.",
+      "en": "After N and before a weak vowel, many Americans drop the T: twenty, internet, center. Before a stressed syllable, the T stays.",
+      "formula": [
+        "twen + *T* + y → twé*n*i"
+      ],
+      "examples": [
+        {
+          "en": "twenty",
+          "say": "twéni",
+          "es": "veinte",
+          "icon": "💵"
+        },
+        {
+          "en": "internet",
+          "say": "ínerne'",
+          "es": "internet",
+          "icon": "🌐"
+        },
+        {
+          "en": "center",
+          "say": "séner",
+          "es": "centro",
+          "icon": "🎯"
+        },
+        {
+          "en": "wanted",
+          "say": "wánid",
+          "es": "quería / quise",
+          "icon": "🙋"
+        },
+        {
+          "en": "interview",
+          "say": "ínerviu",
+          "es": "entrevista",
+          "icon": "💼"
+        },
+        {
+          "en": "plenty",
+          "say": "pléni",
+          "es": "de sobra",
+          "icon": "🍪"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · «I don't know»",
+      "title_en": "«I don't know»",
+      "icon": "🤷",
+      "es": "En <b>don't</b> (y en won't), la T casi nunca se oye delante de consonante. «I don't know» tiene tres velocidades: <code>ai dóunt nóu</code> (despacio) → <code>ai dóun nóu</code> (normal) → <code>aidənóu</code> (rápido, el famoso «I dunno» del mapa H-07).",
+      "en": "In don't, the T usually disappears before a consonant: I don't know, don't worry.",
+      "examples": [
+        {
+          "en": "I don't know.",
+          "say": "ai dóun nóu",
+          "es": "No lo sé.",
+          "icon": "🤷"
+        },
+        {
+          "en": "I don't like it.",
+          "say": "ai dóun láikit",
+          "es": "No me gusta.",
+          "icon": "🙅"
+        },
+        {
+          "en": "Don't worry!",
+          "say": "dóun wéri!",
+          "es": "¡No te preocupes!",
+          "icon": "😌"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "uh-oh",
+          "ipa": "ˈʌʔoʊ",
+          "say": "á'ou",
+          "es": "¡oh, oh! (algo va mal)",
+          "icon": "😬",
+          "anchor": "¡<b>oh-oh</b>! 😬",
+          "tip": "El cortecito entre los dos «oh» es la T glotal. ¡Ya sabes hacerla!"
+        },
+        {
+          "en": "button",
+          "ipa": "ˈbʌʔn̩",
+          "say": "bá'n",
+          "es": "botón",
+          "icon": "🔘",
+          "anchor": "<s>botón</s> → <b>BÁ'n</b>",
+          "tip": "Se parece a «botón», pero no: «ba», corte en la garganta y la n por la nariz."
+        },
+        {
+          "en": "kitten",
+          "ipa": "ˈkɪʔn̩",
+          "say": "kí'n",
+          "es": "gatito",
+          "icon": "🐈",
+          "anchor": "<b>Ki</b>ri 🧀 + corte + n",
+          "tip": "Empieza como el queso Kiri, pero en vez del toque, corta. (kitty = <code>kíri</code>, mapa C-02)"
+        },
+        {
+          "en": "mountain",
+          "ipa": "ˈmaʊnʔn̩",
+          "say": "máun'n",
+          "es": "montaña",
+          "icon": "⛰️",
+          "anchor": "<s>moun-tein</s> → <b>MÁUN'n</b>",
+          "tip": "La -tain final no suena «tein»: corte + n. Fuerza en MÁUN."
+        },
+        {
+          "en": "Manhattan",
+          "ipa": "mænˈhæʔn̩",
+          "say": "mænjǽ'n",
+          "es": "Manhattan",
+          "icon": "🗽",
+          "anchor": "<s>Man-ja-TÁN</s> → <b>mænJǼ'n</b>",
+          "tip": "Fuerza en HA, con la a de sonrisa abierta (mapa V-03), y corte al final."
+        },
+        {
+          "en": "Batman",
+          "ipa": "ˈbæʔˌmæn",
+          "say": "bǽ'mæn",
+          "es": "Batman",
+          "icon": "🦇",
+          "anchor": "<s>Bat-man</s> → <b>BǼ'mæn</b>",
+          "tip": "La T se queda pegada en la garganta, justo antes de la m. ¡Nada de explosión!"
+        },
+        {
+          "en": "football",
+          "ipa": "ˈfʊʔˌbɔl",
+          "say": "fú'bol",
+          "es": "fútbol americano",
+          "icon": "🏈",
+          "anchor": "«<b>fúbol</b>» ⚽, dicho deprisa",
+          "tip": "Mucha gente dice «fúbol» sin T: ¡eso es casi el corte americano! En EE. UU., football es el fútbol americano."
+        },
+        {
+          "en": "cat",
+          "ipa": "kæʔ",
+          "say": "kæ'",
+          "es": "gato",
+          "icon": "🐱",
+          "anchor": "<s>ca-te</s> → <b>kæ'</b>",
+          "tip": "No le añadas una e al final. Corta en seco y abre la a con sonrisa (mapa V-03)."
+        },
+        {
+          "en": "what",
+          "ipa": "wʌʔ",
+          "say": "wa'",
+          "es": "qué",
+          "icon": "❓",
+          "anchor": "<b>gua</b>po 😎",
+          "tip": "Di «gua» de guapo, casi sin g, y corta en seco: <code>wa'</code>."
+        },
+        {
+          "en": "but",
+          "ipa": "bʌʔ",
+          "say": "ba'",
+          "es": "pero",
+          "icon": "🙄",
+          "anchor": "¡<b>bah</b>! 🙄",
+          "tip": "Como el «¡bah!» de «me da igual», pero cortado en la garganta."
+        },
+        {
+          "en": "twenty",
+          "ipa": "ˈtwɛni",
+          "say": "twéni",
+          "es": "veinte",
+          "icon": "💵",
+          "anchor": "<s>Tuenti</s> 📱 → <b>TWÉni</b>",
+          "tip": "Aquella red social española se llamaba así por twenty. Un americano diría <code>twéni</code>."
+        },
+        {
+          "en": "Santa",
+          "ipa": "ˈsænə",
+          "say": "sǽnə",
+          "es": "Papá Noel",
+          "icon": "🎅",
+          "anchor": "«<b>sana</b>, sana…» 🐸",
+          "tip": "Santa sin T suena casi a «sana, sana, culito de rana». Abre la a con sonrisa."
+        },
+        {
+          "en": "internet",
+          "ipa": "ˈɪnɚnɛʔ",
+          "say": "ínerne'",
+          "es": "internet",
+          "icon": "🌐",
+          "anchor": "<s>in-ter-NET</s> → <b>ÍNerne'</b>",
+          "tip": "Fuerza al principio; la primera T se esconde y la última se corta."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "button",
+          "es": "botón"
+        },
+        {
+          "q": "mountain",
+          "es": "montaña"
+        },
+        {
+          "q": "twenty",
+          "es": "veinte"
+        },
+        {
+          "q": "internet",
+          "es": "internet"
+        },
+        {
+          "q": "I don't know",
+          "es": "no lo sé"
+        },
+        {
+          "q": "Manhattan",
+          "es": "Manhattan"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Qué hace la T?",
+      "title_en": "What does the T do?",
+      "icon": "🧭",
+      "head": [
+        "Palabra · Word",
+        "¿Dónde está la T?",
+        "¿Qué pasa?",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "table",
+          "al principio",
+          "T normal",
+          "<code>téibəl</code>"
+        ],
+        [
+          "water",
+          "entre vocales",
+          "toque (mapa C-02)",
+          "<code>wárer</code>"
+        ],
+        [
+          "button",
+          "antes de -on",
+          "corte ✂️",
+          "<code>bá'n</code>"
+        ],
+        [
+          "football",
+          "antes de consonante",
+          "corte ✂️",
+          "<code>fú'bol</code>"
+        ],
+        [
+          "cat",
+          "al final",
+          "corte ✂️",
+          "<code>kæ'</code>"
+        ],
+        [
+          "twenty",
+          "N + T + vocal débil",
+          "se esconde 🙈",
+          "<code>twéni</code>"
+        ],
+        [
+          "seventeen",
+          "N + T + sílaba fuerte",
+          "T normal",
+          "<code>sevəntíin</code>"
+        ],
+        [
+          "get it",
+          "final + vocal",
+          "toque (mapa C-02)",
+          "<code>guérit</code>"
+        ],
+        [
+          "get me",
+          "final + consonante",
+          "corte ✂️",
+          "<code>gue' mi</code>"
+        ],
+        [
+          "I don't know",
+          "NT + consonante",
+          "se esconde 🙈",
+          "<code>ai dóun nóu</code>"
+        ]
+      ],
+      "note": "Resumen: delante de <b>vocal débil</b>, toque; delante de <b>-en/-on</b>, consonante o pausa, corte; detrás de <b>N</b>, ¡se esconde! Y al empezar sílaba fuerte, T de siempre.",
+      "note_en": "Before a weak vowel: tap. Before N, a consonant or a pause: stop. After N: it hides. At the start of a stressed syllable: a normal T."
+    },
+    {
+      "t": "stress",
+      "title": "La sílaba fuerte manda",
+      "title_en": "Stress decides",
+      "icon": "🥁",
+      "es": "Mira dónde cae el golpe (●). Si la T de NT abre la sílaba <b>fuerte</b>, se oye; si va antes de una sílaba <b>débil</b>, se esconde.",
+      "en": "If the T starts the stressed syllable, you hear it. Before a weak syllable, it hides.",
+      "items": [
+        {
+          "syl": [
+            "sev",
+            "en",
+            "ty"
+          ],
+          "s": 0,
+          "say": "sévəni",
+          "es": "setenta · T muda"
+        },
+        {
+          "syl": [
+            "sev",
+            "en",
+            "teen"
+          ],
+          "s": 2,
+          "say": "sevəntíin",
+          "es": "diecisiete · T clara"
+        },
+        {
+          "syl": [
+            "nine",
+            "ty"
+          ],
+          "s": 0,
+          "say": "náini",
+          "es": "noventa · T muda"
+        },
+        {
+          "syl": [
+            "nine",
+            "teen"
+          ],
+          "s": 1,
+          "say": "naintíin",
+          "es": "diecinueve · T clara"
+        },
+        {
+          "syl": [
+            "twen",
+            "ty"
+          ],
+          "s": 0,
+          "say": "twéni",
+          "es": "veinte · T muda"
+        },
+        {
+          "syl": [
+            "un",
+            "til"
+          ],
+          "s": 1,
+          "say": "əntíl",
+          "es": "hasta · T clara"
+        },
+        {
+          "syl": [
+            "in",
+            "ter",
+            "view"
+          ],
+          "s": 0,
+          "say": "ínerviu",
+          "es": "entrevista · T muda"
+        },
+        {
+          "syl": [
+            "en",
+            "ter",
+            "tain"
+          ],
+          "s": 2,
+          "say": "enertéin",
+          "es": "entretener · 1.ª T muda, 2.ª clara"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "wide": true,
+      "title": "Una T, muchos disfraces",
+      "title_en": "One T, many costumes",
+      "icon": "🎭",
+      "es": "Este resumen junta los mapas C-02 y C-03. La letra es la misma; lo que cambia es lo que hay alrededor.",
+      "en": "This sums up maps C-02 and C-03: same letter, different sounds.",
+      "cols": [
+        {
+          "head": "🅃 T normal",
+          "color": "blue",
+          "items": [
+            "al empezar palabra: <b>t</b>able, <b>t</b>en",
+            "al empezar sílaba fuerte: ho<b>TEL</b>, seven<b>TEEN</b>",
+            "detrás de S: s<b>t</b>op, s<b>t</b>ory"
+          ]
+        },
+        {
+          "head": "🔄 Toque (C-02)",
+          "color": "green",
+          "items": [
+            "entre vocales: water, city",
+            "final + vocal: get it, got it",
+            "suena <code>r</code>: <code>wárer</code>, <code>guérit</code>"
+          ]
+        },
+        {
+          "head": "✂️ Corte o 🙈 muda (C-03)",
+          "color": "purple",
+          "items": [
+            "antes de -en/-on: button, kitten",
+            "antes de consonante o pausa: cat, Batman",
+            "detrás de N: twenty, center"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "¿Toque o corte?",
+      "title_en": "Tap or stop?",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "kitty",
+            "ipa": "ˈkɪɾi",
+            "say": "kíri",
+            "es": "minino",
+            "icon": "🐱"
+          },
+          "b": {
+            "en": "kitten",
+            "ipa": "ˈkɪʔn̩",
+            "say": "kí'n",
+            "es": "gatito (cría)",
+            "icon": "🐈"
+          },
+          "tip": "Detrás viene vocal → toque. Detrás viene -en → corte."
+        },
+        {
+          "a": {
+            "en": "butter",
+            "ipa": "ˈbʌɾɚ",
+            "say": "bárer",
+            "es": "mantequilla",
+            "icon": "🧈"
+          },
+          "b": {
+            "en": "button",
+            "ipa": "ˈbʌʔn̩",
+            "say": "bá'n",
+            "es": "botón",
+            "icon": "🔘"
+          },
+          "tip": "Las dos llevan TT, pero la que acaba en -on lleva corte."
+        },
+        {
+          "a": {
+            "en": "eating",
+            "ipa": "ˈiːɾɪŋ",
+            "say": "íiring",
+            "es": "comiendo",
+            "icon": "🍽️"
+          },
+          "b": {
+            "en": "eaten",
+            "ipa": "ˈiːʔn̩",
+            "say": "íi'n",
+            "es": "comido",
+            "icon": "😋"
+          },
+          "tip": "eating = toque; eaten = corte. ¡Ya has comido!"
+        },
+        {
+          "a": {
+            "en": "writer",
+            "ipa": "ˈraɪɾɚ",
+            "say": "ráirer",
+            "es": "escritor",
+            "icon": "✍️"
+          },
+          "b": {
+            "en": "written",
+            "ipa": "ˈrɪʔn̩",
+            "say": "rí'n",
+            "es": "escrito",
+            "icon": "📜"
+          },
+          "tip": "Ojo: aquí también cambia la vocal: <code>ai</code> → <code>i</code>."
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "I don't know.",
+          "spoken": "I don' know.",
+          "say": "ai dóun nóu",
+          "es": "No lo sé."
+        },
+        {
+          "written": "Wait for me!",
+          "spoken": "Wai' for me!",
+          "say": "wei' fer mi",
+          "es": "¡Espérame!"
+        },
+        {
+          "written": "What time is it?",
+          "spoken": "Wha' time is it?",
+          "say": "wa' táimisit",
+          "es": "¿Qué hora es?"
+        },
+        {
+          "written": "It's twenty to eight.",
+          "spoken": "It's twenny to eigh'.",
+          "say": "its twéni tə ei'",
+          "es": "Son las ocho menos veinte."
+        },
+        {
+          "written": "Don't forget it!",
+          "spoken": "Don' forge-dit!",
+          "say": "dóun ferguérit",
+          "es": "¡No lo olvides!"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "Press the button.",
+          "say": "pres də bá'n",
+          "es": "Pulsa el botón.",
+          "icon": "🔘"
+        },
+        {
+          "en": "We climbed a big mountain.",
+          "say": "wi klaimd ə big máun'n",
+          "es": "Subimos una montaña grande.",
+          "icon": "⛰️"
+        },
+        {
+          "en": "My kitten is white.",
+          "say": "mai kí'n is wai'",
+          "es": "Mi gatito es blanco.",
+          "icon": "🐈"
+        },
+        {
+          "en": "She lives in Manhattan.",
+          "say": "shi livs in mænjǽ'n",
+          "es": "Vive en Manhattan.",
+          "icon": "🗽"
+        },
+        {
+          "en": "I have twenty dollars.",
+          "say": "ai jæv twéni dálers",
+          "es": "Tengo veinte dólares.",
+          "icon": "💵"
+        },
+        {
+          "en": "The internet is slow today.",
+          "say": "di ínerne' is slou tədéi",
+          "es": "Internet va lento hoy.",
+          "icon": "🐢"
+        },
+        {
+          "en": "I have a job interview.",
+          "say": "ai jæv ə yab ínerviu",
+          "es": "Tengo una entrevista de trabajo.",
+          "icon": "💼"
+        },
+        {
+          "en": "Batman eats hot dogs.",
+          "say": "bǽ'mæn iits já'dogs",
+          "es": "Batman come perritos calientes.",
+          "icon": "🦇"
+        },
+        {
+          "en": "Are you certain?",
+          "say": "ar iu sér'n?",
+          "es": "¿Estás seguro?",
+          "icon": "🤔"
+        },
+        {
+          "en": "It's hot, but it's not bad.",
+          "say": "its ja', ba' its na' bæd",
+          "es": "Hace calor, pero no está mal.",
+          "icon": "☀️"
+        },
+        {
+          "en": "Santa Claus is coming!",
+          "say": "sǽnə klos is káming!",
+          "es": "¡Viene Papá Noel!",
+          "icon": "🎅"
+        },
+        {
+          "en": "There are plenty of cookies.",
+          "say": "dérer pléniəv kúkis",
+          "es": "Hay galletas de sobra.",
+          "icon": "🍪"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "button → <code>bóton</code> (con vocal)",
+          "good": "<code>bá'n</code>",
+          "why": "Ni o ni ninguna vocal entre la T y la N: corte en la garganta y N por la nariz.",
+          "why_en": "No vowel: glottal stop + N."
+        },
+        {
+          "bad": "mountain → <code>máuntein</code>",
+          "good": "<code>máun'n</code>",
+          "why": "La -tain final no suena «tein»: corte + n.",
+          "why_en": "-tain is just a stop + N."
+        },
+        {
+          "bad": "cat → <code>kǽte</code>",
+          "good": "<code>kæ'</code>",
+          "why": "No añadas una e al final: corta la vocal en seco.",
+          "why_en": "Don't add an extra «e»."
+        },
+        {
+          "bad": "kitten → <code>kíri</code>",
+          "good": "<code>kí'n</code>",
+          "why": "Eso es kitty (toque). Delante de -en va corte.",
+          "why_en": "Kitty has a tap; kitten has a stop."
+        },
+        {
+          "bad": "seventeen → <code>sevəníin</code>",
+          "good": "<code>sevəntíin</code>",
+          "why": "Aquí la T abre la sílaba fuerte: suena clara. Si la escondes, ¡parece seventy!",
+          "why_en": "Before a stressed syllable, the T stays."
+        },
+        {
+          "bad": "Manhattan → <code>manjatán</code>",
+          "good": "<code>mænjǽ'n</code>",
+          "why": "La fuerza va en HA y el final se corta.",
+          "why_en": "Stress HA and stop at the end."
+        },
+        {
+          "bad": "I don't know → <code>ai dont nou</code> (T fuerte)",
+          "good": "<code>ai dóun nóu</code>",
+          "why": "Entre dos N, la T desaparece.",
+          "why_en": "Between two Ns, the T disappears."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Un perrito en Manhattan",
+      "title_en": "A hot dog in Manhattan",
+      "lines": [
+        {
+          "who": "Tyler",
+          "en": "Welcome to Manhattan, Mario!",
+          "say": "wélkəm tə mænjǽ'n, mário!",
+          "es": "¡Bienvenido a Manhattan, Mario!"
+        },
+        {
+          "who": "Mario",
+          "en": "Wow! The buildings look like mountains!",
+          "say": "wau! də bíldings luk laik máun'ns!",
+          "es": "¡Hala! ¡Los edificios parecen montañas!"
+        },
+        {
+          "who": "Tyler",
+          "en": "Are you hungry? Let's get a hot dog.",
+          "say": "ar iu jángri? lets guérə já'dog",
+          "es": "¿Tienes hambre? Vamos a por un perrito caliente."
+        },
+        {
+          "who": "Mario",
+          "en": "Sure! How much is it?",
+          "say": "shur! jau mach ísit?",
+          "es": "¡Claro! ¿Cuánto cuesta?"
+        },
+        {
+          "who": "Tyler",
+          "en": "Eight dollars. Wait… I forgot my wallet!",
+          "say": "ei' dálers. wei'… ai fergá' mai wáli'!",
+          "es": "Ocho dólares. Espera… ¡me he olvidado la cartera!"
+        },
+        {
+          "who": "Mario",
+          "en": "Don't worry. I have twenty dollars.",
+          "say": "dóun wéri. ai jæv twéni dálers",
+          "es": "No te preocupes. Tengo veinte dólares."
+        },
+        {
+          "who": "Tyler",
+          "en": "Thanks! You're a great friend.",
+          "say": "zænks! iur ə grei' frend",
+          "es": "¡Gracias! Eres un gran amigo."
+        },
+        {
+          "who": "Mario",
+          "en": "No problem. But I don't know the way back!",
+          "say": "nou prábləm. ba' ai dóun nóu də wei bæk!",
+          "es": "No hay problema. ¡Pero no sé volver!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di «¡oh-oh!» como cuando algo se rompe 😬. Ese cortecito en la garganta es la T glotal.",
+          "en": "Say «uh-oh» and feel the stop in your throat."
+        },
+        {
+          "es": "Ahora «ba» + corte + n, con la boca quieta y la n por la nariz: <code>bá'n</code>, <code>kí'n</code>, <code>máun'n</code>.",
+          "en": "Now «ba» + stop + N through your nose."
+        },
+        {
+          "es": "Termina palabras cortando en seco, sin soltar aire ni añadir e: <code>kæ'</code>, <code>wa'</code>, <code>na'</code>.",
+          "en": "End words with a stop: no puff, no extra «e»."
+        },
+        {
+          "es": "Esconde la T tras la N: <code>twéni</code>, <code>séner</code>, <code>ínerviu</code>. Pero en seventeen, ¡T clara!",
+          "en": "Hide the T after N, but not before a stressed syllable."
+        },
+        {
+          "es": "Escanea los QR, escucha a americanos diciendo button o I don't know y <b>grábate</b> imitándolos.",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Button the cotton coat on the kitten.",
+          "say": "bá'n də ká'n kóuran də kí'n",
+          "es": "Abrocha el abrigo de algodón del gatito."
+        },
+        {
+          "en": "Santa wanted twenty printers in the center.",
+          "say": "sǽnə wánid twéni príners in də séner",
+          "es": "Papá Noel quería veinte impresoras en el centro."
+        },
+        {
+          "en": "Certain kittens in Manhattan have forgotten their mittens.",
+          "say": "sér'n kí'ns in mænjǽ'n jæv fergá'n der mí'ns",
+          "es": "Algunos gatitos de Manhattan han olvidado sus manoplas."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del «¡oh-oh!»",
+      "title_en": "The «uh-oh» trick",
+      "es": "Cuando veas <b>-tten, -tton</b> o <b>-tain</b>, piensa en «¡oh-oh!»: corta en la garganta y deja salir la N por la nariz. Y si la T va detrás de N y antes de una vocal débil, ¡escóndela! 👻",
+      "en": "See -tten, -tton or -tain? Think «uh-oh»: stop in your throat and let the N out through your nose."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Qué hace la T?",
+      "title_en": "What does the T do?",
+      "icon": "🔍",
+      "es": "Di la palabra y rodea qué hace la T: <b>toque</b> (C-02), <b>corte</b> en la garganta, <b>muda</b> (se esconde tras la N) o <b>T</b> normal.",
+      "en": "Say the word and circle what the T does.",
+      "items": [
+        {
+          "q": "water → [toque|corte|muda|T]",
+          "a": "toque"
+        },
+        {
+          "q": "button → [toque|corte|muda|T]",
+          "a": "corte"
+        },
+        {
+          "q": "twenty → [toque|corte|muda|T]",
+          "a": "muda"
+        },
+        {
+          "q": "table → [toque|corte|muda|T]",
+          "a": "T"
+        },
+        {
+          "q": "mountain → [toque|corte|muda|T]",
+          "a": "corte"
+        },
+        {
+          "q": "city → [toque|corte|muda|T]",
+          "a": "toque"
+        },
+        {
+          "q": "center → [toque|corte|muda|T]",
+          "a": "muda"
+        },
+        {
+          "q": "hotel → [toque|corte|muda|T]",
+          "a": "T"
+        },
+        {
+          "q": "Batman → [toque|corte|muda|T]",
+          "a": "corte"
+        },
+        {
+          "q": "interview → [toque|corte|muda|T]",
+          "a": "muda"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "✂️ Corte + N",
+          "words": [
+            "button",
+            "cotton",
+            "kitten",
+            "certain",
+            "written",
+            "curtain"
+          ]
+        },
+        {
+          "name": "🙈 Se esconde (NT)",
+          "words": [
+            "twenty",
+            "plenty",
+            "center",
+            "wanted",
+            "interview",
+            "winter"
+          ]
+        },
+        {
+          "name": "🔄 Toque (C-02)",
+          "words": [
+            "water",
+            "city",
+            "butter",
+            "kitty",
+            "better",
+            "pretty"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "button",
+          "<code>bá'n</code>"
+        ],
+        [
+          "mountain",
+          "<code>máun'n</code>"
+        ],
+        [
+          "twenty",
+          "<code>twéni</code>"
+        ],
+        [
+          "center",
+          "<code>séner</code>"
+        ],
+        [
+          "kitten",
+          "<code>kí'n</code>"
+        ],
+        [
+          "wanted",
+          "<code>wánid</code>"
+        ],
+        [
+          "Manhattan",
+          "<code>mænjǽ'n</code>"
+        ],
+        [
+          "internet",
+          "<code>ínerne'</code>"
+        ]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Pueden sonar igual?",
+      "title_en": "Can they sound the same?",
+      "icon": "👂",
+      "es": "En inglés americano, ¿estas dos palabras pueden sonar igual? Rodea sí o no.",
+      "en": "In American English, can they sound the same?",
+      "items": [
+        {
+          "q": "winter · winner → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "planter · planner → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "latter · ladder → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "kitty · kitten → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "butter · button → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "seventy · seventeen → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "eating · eaten → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "ninety · nineteen → [sí|no]",
+          "a": "no"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Usa el apóstrofo <code>'</code> para el corte y pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "☁️ cotton → ____",
+          "a": "ká'n"
+        },
+        {
+          "q": "🤔 certain → ____",
+          "a": "sér'n"
+        },
+        {
+          "q": "✍️ written → ____",
+          "a": "rí'n"
+        },
+        {
+          "q": "🪟 curtain → ____",
+          "a": "kér'n"
+        },
+        {
+          "q": "🧠 forgotten → ____",
+          "a": "fergá'n"
+        },
+        {
+          "q": "🍪 plenty → ____",
+          "a": "pléni"
+        },
+        {
+          "q": "💼 interview → ____",
+          "a": "ínerviu"
+        },
+        {
+          "q": "🙋 wanted → ____",
+          "a": "wánid"
+        },
+        {
+          "q": "🦇 Batman → ____",
+          "a": "bǽ'mæn"
+        },
+        {
+          "q": "🏈 football → ____",
+          "a": "fú'bol"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "In «button», there is a vowel between the T and the N.",
+          "a": false,
+          "why": "corte + n: bá'n"
+        },
+        {
+          "q": "The glottal T is like the little stop in «uh-oh».",
+          "a": true
+        },
+        {
+          "q": "In «twenty», many Americans hide the T after the N.",
+          "a": true
+        },
+        {
+          "q": "The T in «seventeen» disappears.",
+          "a": false,
+          "why": "seven-TEEN: la T abre la sílaba fuerte"
+        },
+        {
+          "q": "«Kitty» and «kitten» have the same T sound.",
+          "a": false,
+          "why": "toque vs. corte"
+        },
+        {
+          "q": "In «I don't know», the T of «don't» usually disappears.",
+          "a": true
+        },
+        {
+          "q": "You should add an «e» after a final T: «cate».",
+          "a": false,
+          "why": "corte seco: kæ'"
+        },
+        {
+          "q": "In «table», the T disappears.",
+          "a": false,
+          "why": "empieza la palabra"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Después decide: si la T abre la sílaba fuerte, ¡se oye!",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "twen",
+            "ty"
+          ],
+          "s": 0,
+          "es": "veinte"
+        },
+        {
+          "syl": [
+            "sev",
+            "en",
+            "ty"
+          ],
+          "s": 0,
+          "es": "setenta"
+        },
+        {
+          "syl": [
+            "sev",
+            "en",
+            "teen"
+          ],
+          "s": 2,
+          "es": "diecisiete"
+        },
+        {
+          "syl": [
+            "nine",
+            "ty"
+          ],
+          "s": 0,
+          "es": "noventa"
+        },
+        {
+          "syl": [
+            "nine",
+            "teen"
+          ],
+          "s": 1,
+          "es": "diecinueve"
+        },
+        {
+          "syl": [
+            "in",
+            "ter",
+            "net"
+          ],
+          "s": 0,
+          "es": "internet"
+        },
+        {
+          "syl": [
+            "in",
+            "ter",
+            "view"
+          ],
+          "s": 0,
+          "es": "entrevista"
+        },
+        {
+          "syl": [
+            "en",
+            "ter",
+            "tain"
+          ],
+          "s": 2,
+          "es": "entretener"
+        },
+        {
+          "syl": [
+            "Man",
+            "hat",
+            "tan"
+          ],
+          "s": 1,
+          "es": "Manhattan"
+        },
+        {
+          "syl": [
+            "moun",
+            "tain"
+          ],
+          "s": 0,
+          "es": "montaña"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "button → <code>bóton</code>",
+          "a": "bá'n"
+        },
+        {
+          "q": "mountain → <code>máuntein</code>",
+          "a": "máun'n"
+        },
+        {
+          "q": "cat → <code>kǽte</code>",
+          "a": "kæ'"
+        },
+        {
+          "q": "kitten → <code>kíri</code>",
+          "a": "kí'n"
+        },
+        {
+          "q": "seventeen → <code>sevəníin</code>",
+          "a": "sevəntíin"
+        },
+        {
+          "q": "center → <code>sentér</code>",
+          "a": "séner"
+        },
+        {
+          "q": "Manhattan → <code>manjátan</code>",
+          "a": "mænjǽ'n"
+        },
+        {
+          "q": "internet → <code>internét</code>",
+          "a": "ínerne'"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe cómo suena la frase",
+      "title_en": "Write how the sentence sounds",
+      "icon": "🔗",
+      "es": "Escribe cómo suena la frase entera, con cortes (<b>'</b>) y T escondidas.",
+      "en": "Write how the whole sentence sounds.",
+      "items": [
+        {
+          "q": "I don't know.",
+          "a": "ai dóun nóu"
+        },
+        {
+          "q": "Not now.",
+          "a": "na' nau"
+        },
+        {
+          "q": "What time is it?",
+          "a": "wa' táimisit"
+        },
+        {
+          "q": "Wait for me!",
+          "a": "wei' fer mi"
+        },
+        {
+          "q": "Get some water.",
+          "a": "gue' səm wárer"
+        },
+        {
+          "q": "It's twenty to eight.",
+          "a": "its twéni tə ei'"
+        },
+        {
+          "q": "a hot dog",
+          "a": "ə já'dog"
+        },
+        {
+          "q": "Don't forget it!",
+          "a": "dóun ferguérit"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Press the button.",
+          "say": "pres də bá'n"
+        },
+        {
+          "q": "I don't know.",
+          "say": "ai dóun nóu"
+        },
+        {
+          "q": "Twenty-one.",
+          "say": "twéni wan"
+        },
+        {
+          "q": "Good night!",
+          "say": "gud nai'!"
+        },
+        {
+          "q": "Not bad!",
+          "say": "na' bæd!"
+        },
+        {
+          "q": "What a cute kitten!",
+          "say": "wárə kiu' kí'n!"
+        },
+        {
+          "q": "Look at that mountain!",
+          "say": "lúkə' dæ' máun'n!"
+        },
+        {
+          "q": "I'm not certain.",
+          "say": "aim na' sér'n"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con su corte o su T escondida.",
+      "en": "Translate into English and say it.",
+      "items": [
+        {
+          "q": "botón",
+          "a": "button (bá'n)"
+        },
+        {
+          "q": "montaña",
+          "a": "mountain (máun'n)"
+        },
+        {
+          "q": "veinte",
+          "a": "twenty (twéni)"
+        },
+        {
+          "q": "gatito",
+          "a": "kitten (kí'n)"
+        },
+        {
+          "q": "algodón",
+          "a": "cotton (ká'n)"
+        },
+        {
+          "q": "centro",
+          "a": "center (séner)"
+        },
+        {
+          "q": "entrevista",
+          "a": "interview (ínerviu)"
+        },
+        {
+          "q": "seguro",
+          "a": "certain (sér'n)"
+        },
+        {
+          "q": "No lo sé.",
+          "a": "I don't know. (ai dóun nóu)"
+        },
+        {
+          "q": "gato",
+          "a": "cat (kæ')"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧩",
+      "es": "Ordena las palabras y lee la frase con cortes y T escondidas.",
+      "en": "Put the words in order and read the sentence.",
+      "items": [
+        {
+          "q": "know / don't / I",
+          "a": "I don't know."
+        },
+        {
+          "q": "button / the / Press",
+          "a": "Press the button."
+        },
+        {
+          "q": "mountain / big / a / It's",
+          "a": "It's a big mountain."
+        },
+        {
+          "q": "cute / kitten / is / My",
+          "a": "My kitten is cute."
+        },
+        {
+          "q": "dollars / twenty / have / I",
+          "a": "I have twenty dollars."
+        },
+        {
+          "q": "Manhattan / in / lives / She",
+          "a": "She lives in Manhattan."
+        },
+        {
+          "q": "worry / Don't",
+          "a": "Don't worry!"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En la última columna escribe: corte, se esconde, toque o T normal.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "¿Qué hace la T?"
+      ],
+      "rows": [
+        [
+          "button",
+          "botón",
+          "?bá'n",
+          "?corte"
+        ],
+        [
+          "?mountain",
+          "montaña",
+          "máun'n",
+          "corte"
+        ],
+        [
+          "twenty",
+          "?veinte",
+          "?twéni",
+          "se esconde"
+        ],
+        [
+          "?water",
+          "agua",
+          "wárer",
+          "?toque"
+        ],
+        [
+          "center",
+          "?centro",
+          "séner",
+          "?se esconde"
+        ],
+        [
+          "table",
+          "mesa",
+          "?téibəl",
+          "?T normal"
+        ],
+        [
+          "?kitten",
+          "gatito",
+          "?kí'n",
+          "corte"
+        ],
+        [
+          "seventeen",
+          "?diecisiete",
+          "sevəntíin",
+          "?T normal"
+        ]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de T fantasma",
+      "title_en": "Ghost T word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con T que se corta o se esconde. Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 words with a disappearing T.",
+      "words": [
+        "button",
+        "cotton",
+        "kitten",
+        "mountain",
+        "certain",
+        "twenty",
+        "plenty",
+        "center",
+        "winter",
+        "wanted"
+      ],
+      "clues": [
+        "button · botón",
+        "cotton · algodón",
+        "kitten · gatito",
+        "mountain · montaña",
+        "certain · seguro",
+        "twenty · veinte",
+        "plenty · de sobra",
+        "center · centro",
+        "winter · invierno",
+        "wanted · quería"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las T fantasma",
+      "title_en": "Read and find the ghost Ts",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "A big day in Manhattan",
+      "text": [
+        "Ashley lives in Manhattan. Every morning she takes the subway to a big building in the city center. Today she has a job interview at twenty to nine.",
+        "After the interview, she buys a hot dog and a cotton T-shirt. “Did you get the job?” asks her mom. “I don't know yet,” says Ashley. “But I'm pretty certain!”"
+      ],
+      "items": [
+        {
+          "q": "Where does Ashley live?",
+          "a": "In Manhattan: <code>mænjǽ'n</code>."
+        },
+        {
+          "q": "Find two words with a glottal T + N.",
+          "a": "Manhattan, cotton, certain (cualquiera)."
+        },
+        {
+          "q": "Find two words where the T hides after N.",
+          "a": "center, interview, twenty (cualquiera)."
+        },
+        {
+          "q": "Ashley's interview is at 8:40.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «pretty», the T is a glottal stop.",
+          "tf": true,
+          "a": false,
+          "why": "es un toque: príri (C-02)"
+        },
+        {
+          "q": "In «I don't know yet», the T of «don't» disappears.",
+          "tf": true,
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con T que se corta o se esconde. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with disappearing Ts and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con button, cotton o kitten.",
+          "lines": 2,
+          "a": "Ej.: My kitten plays with a cotton ball."
+        },
+        {
+          "q": "Una frase con un número con NT (twenty, seventy, ninety…).",
+          "lines": 2,
+          "a": "Ej.: My grandma is ninety."
+        },
+        {
+          "q": "Una frase que empiece por «I don't know…».",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Hago el corte de «¡oh-oh!» en <code>bá'n</code>, <code>máun'n</code> y <code>kí'n</code>.",
+      "en": "I can make a glottal stop."
+    },
+    {
+      "es": "Sé que delante de -en/-on la T no lleva vocal: corte + n.",
+      "en": "I know there's no vowel in button."
+    },
+    {
+      "es": "Escondo la T tras la N: <code>twéni</code>, <code>séner</code>, <code>ínerviu</code>.",
+      "en": "I can hide the T after N."
+    },
+    {
+      "es": "Corto la T final sin añadir «e»: <code>kæ'</code>, <code>wa'</code>, <code>na'</code>.",
+      "en": "I can cut off a final T."
+    },
+    {
+      "es": "Digo <code>ai dóun nóu</code> sin T.",
+      "en": "I can say «I don't know» like an American."
+    },
+    {
+      "es": "Distingo toque, corte y T normal: kitty, kitten, seventeen.",
+      "en": "I can tell tap, stop and normal T apart."
+    }
+  ]
+}

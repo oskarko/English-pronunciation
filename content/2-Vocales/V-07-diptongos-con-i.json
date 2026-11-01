@@ -1,0 +1,714 @@
+{
+  "id": "V-07",
+  "block": "V",
+  "title": "DIPTONGOS CON <em>I</em>",
+  "file_title": "Diptongos con I (/eɪ/, /aɪ/, /ɔɪ/)",
+  "subtitle": "Day, my, boy · ¡ya los sabes decir!",
+  "icon": "🚂",
+  "map": {
+    "center": "<b>EI</b>, <b>AI</b> y <b>OI</b> ya existen en español (s<b>ei</b>s, b<b>ai</b>le, est<b>oy</b>). El truco es saber <b>cuándo</b> suenan en inglés.",
+    "listen": "day",
+    "nodes": [
+      {
+        "title": "EI /eɪ/",
+        "icon": "🚂",
+        "color": "green",
+        "rows": [
+          ["day", "<code>dei</code>"],
+          ["rain", "<code>rein</code>"],
+          ["train", "<code>trein</code>"]
+        ]
+      },
+      {
+        "title": "AI /aɪ/",
+        "icon": "💃",
+        "color": "blue",
+        "rows": [
+          ["my", "<code>mai</code>"],
+          ["time", "<code>taim</code>"],
+          ["five", "<code>faiv</code>"]
+        ]
+      },
+      {
+        "title": "OI /ɔɪ/",
+        "icon": "🧸",
+        "color": "purple",
+        "rows": [
+          ["boy", "<code>boi</code>"],
+          ["toy", "<code>toi</code>"],
+          ["coin", "<code>koin</code>"]
+        ]
+      },
+      {
+        "title": "¿Cómo se escribe?",
+        "icon": "✍️",
+        "color": "orange",
+        "items": [
+          "<b>ei</b>: n<b>a</b>me, r<b>ai</b>n, d<b>ay</b>, <b>eigh</b>t",
+          "<b>ai</b>: t<b>i</b>me, m<b>y</b>, n<b>igh</b>t",
+          "<b>oi</b>: b<b>oy</b>, c<b>oi</b>n"
+        ]
+      },
+      {
+        "title": "¡Ojo! E no es EI",
+        "icon": "👂",
+        "color": "pink",
+        "items": [
+          "pen <code>pen</code> ≠ pain <code>pein</code>",
+          "get <code>guet</code> ≠ gate <code>gueit</code>",
+          "sell <code>sel</code> ≠ sale <code>seil</code>"
+        ]
+      },
+      {
+        "title": "Ancla española",
+        "icon": "⚓",
+        "color": "yellow",
+        "rows": [
+          ["train", "<code>trein</code> · <b>trein</b>ta"],
+          ["bye", "<code>bai</code> · <b>bai</b>le"],
+          ["toy", "<code>toi</code> · es<b>toy</b>"]
+        ],
+        "art": "💃"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["<code>náme</code>, <code>espáin</code>"],
+      "good": ["<code>neim</code> 📛, <code>spein</code> 🇪🇸"],
+      "note": "Leer la A «a la española» es el fallo n.º 1. ¡Aquí la A dice «ei»!"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "📛 name → ____", "a": "neim" },
+        { "q": "🌧️ rain → ____", "a": "rein" },
+        { "q": "⏰ time → ____", "a": "taim" },
+        { "q": "🧸 toy → ____", "a": "toi" },
+        { "q": "🖐️ five → ____", "a": "faiv" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es un diptongo?",
+      "title_en": "What is a diphthong?",
+      "icon": "🔎",
+      "es": "Un diptongo son <b>dos vocales en un solo golpe de voz</b>: la boca empieza en una y <b>se desliza</b> hacia la otra. ¡Buenas noticias! Los tres diptongos de este mapa ya los dices en español: <b>ei</b> (s<b>ei</b>s), <b>ai</b> (b<b>ai</b>le) y <b>oi</b> (est<b>oy</b>). El problema es que el inglés casi nunca los escribe así: <mark>la A de name suena «ei» y la I de time suena «ai»</mark>.",
+      "en": "A diphthong is two vowels in one syllable: your mouth glides from one to the other. Spanish already has /eɪ/ (seis), /aɪ/ (baile) and /ɔɪ/ (estoy). The tricky part is the spelling: name = «neim», time = «taim».",
+      "formula": ["*e* + i → ei (day)", "*a* + i → ai (my)", "*o* + i → oi (boy)"]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "jaw",
+          "es": "Empieza con la boca colocada para la primera vocal y <b>ciérrala un poco</b> al final: la mandíbula sube hacia la i.",
+          "en": "Start with the first vowel and close your mouth a little at the end."
+        },
+        {
+          "part": "tongue",
+          "es": "La lengua <b>se desliza</b> hacia arriba y hacia delante, hacia la i. Es un solo movimiento suave, no dos golpes.",
+          "en": "Your tongue glides up and forward towards i, in one smooth movement."
+        },
+        {
+          "part": "lips",
+          "es": "En <b>oi</b> los labios empiezan un poco redondos (o) y se estiran al llegar a la i.",
+          "en": "In /ɔɪ/, the lips start a little rounded and then spread."
+        },
+        {
+          "part": "ear",
+          "es": "La primera vocal es <b>fuerte y larga</b>; la i del final, <b>débil y rápida</b>. Di «dei», nunca «de-í».",
+          "en": "The first part is strong and long; the final i is weak and quick."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · EI: day, name, rain",
+      "title_en": "/eɪ/ as in day",
+      "icon": "🚂",
+      "es": "Es la «ei» de s<b>ei</b>s y r<b>ei</b>na. El inglés la escribe de muchas formas: <b>A + consonante + E</b> (name, make, late), <b>AI</b> (rain, wait), <b>AY</b> (day, play), <b>EIGH</b> (eight), <b>EY</b> (they, hey), <b>EA</b> (great, break) y la <b>A</b> que cierra sílaba (baby, table, paper). <mark>Es el nombre de la letra A en inglés.</mark>",
+      "en": "/eɪ/ is the «ei» in Spanish «seis». It's spelled a-e, ai, ay, eigh, ey, ea: name, rain, day, eight, they, great.",
+      "examples": [
+        { "en": "day", "say": "dei", "es": "día", "icon": "☀️" },
+        { "en": "name", "say": "neim", "es": "nombre", "icon": "📛" },
+        { "en": "rain", "say": "rein", "es": "lluvia", "icon": "🌧️" },
+        { "en": "eight", "say": "eit", "es": "ocho", "icon": "🎱" },
+        { "en": "great", "say": "greit", "es": "genial", "icon": "🌟" },
+        { "en": "baby", "say": "béibi", "es": "bebé", "icon": "👶" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · AI: my, time, night",
+      "title_en": "/aɪ/ as in my",
+      "icon": "💃",
+      "es": "Es la «ai» de b<b>ai</b>le y h<b>ay</b>. Se escribe con <b>I + consonante + E</b> (time, five, nice), <b>Y</b> al final (my, why, fly), <b>IGH</b> (night, light, high), <b>IE</b> (pie, tie), <b>I + ND / LD</b> (find, kind, child) y en I, eye o buy. <mark>Es el nombre de la letra I en inglés.</mark>",
+      "en": "/aɪ/ is the «ai» in Spanish «baile». Spelled i-e, y, igh, ie: time, my, night, pie, find.",
+      "examples": [
+        { "en": "my", "say": "mai", "es": "mi", "icon": "🙋" },
+        { "en": "time", "say": "taim", "es": "tiempo / hora", "icon": "⏰" },
+        { "en": "five", "say": "faiv", "es": "cinco", "icon": "🖐️" },
+        { "en": "night", "say": "nait", "es": "noche", "icon": "🌃" },
+        { "en": "why", "say": "wai", "es": "¿por qué?", "icon": "🤔" },
+        { "en": "nice", "say": "nais", "es": "majo, bonito", "icon": "😊" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · OI: boy, toy, coin",
+      "title_en": "/ɔɪ/ as in boy",
+      "icon": "🧸",
+      "es": "Es la «oi» de est<b>oy</b> y b<b>oi</b>na, pero empezando con una o <b>más abierta</b> (la /ɔ/ de V-05). Es el más fácil de leer: se escribe <b>OY</b>, casi siempre al final (boy, toy, enjoy), u <b>OI</b>, en medio de la palabra (coin, oil, voice, point).",
+      "en": "/ɔɪ/ is the «oi» in Spanish «estoy», starting with a more open o. Spelled oy (boy, toy) or oi (coin, oil, voice).",
+      "examples": [
+        { "en": "boy", "say": "boi", "es": "chico, niño", "icon": "👦" },
+        { "en": "toy", "say": "toi", "es": "juguete", "icon": "🧸" },
+        { "en": "coin", "say": "koin", "es": "moneda", "icon": "🪙" },
+        { "en": "oil", "say": "oil", "es": "aceite", "icon": "🫒" },
+        { "en": "voice", "say": "vois", "es": "voz", "icon": "🗣️" },
+        { "en": "enjoy", "say": "inyói", "es": "disfrutar", "icon": "🎉" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · ¡E corta no es EI!",
+      "title_en": "/ɛ/ is not /eɪ/",
+      "icon": "👂",
+      "es": "Aquí está la trampa: la /ɛ/ de <b>pen</b> es una e española, cortita y quieta. La /eɪ/ de <b>pain</b> <b>se desliza</b> hacia la i. Si no haces ese deslizamiento, dices otra palabra: <b>pen</b> (boli) ≠ <b>pain</b> (dolor), <b>get</b> (conseguir) ≠ <b>gate</b> (puerta de embarque), <b>sell</b> (vender) ≠ <b>sale</b> (rebajas).",
+      "en": "/ɛ/ (pen) is a short Spanish e. /eɪ/ (pain) glides to i. Pen ≠ pain, get ≠ gate, sell ≠ sale.",
+      "formula": ["p + *e* + n → pen", "p + *ei* + n → pein"],
+      "examples": [
+        { "en": "pen", "say": "pen", "es": "bolígrafo", "icon": "🖊️" },
+        { "en": "pain", "say": "pein", "es": "dolor", "icon": "🤕" },
+        { "en": "get", "say": "guet", "es": "conseguir", "icon": "🎁" },
+        { "en": "gate", "say": "gueit", "es": "puerta de embarque", "icon": "🛫" },
+        { "en": "sell", "say": "sel", "es": "vender", "icon": "💰" },
+        { "en": "sale", "say": "seil", "es": "rebajas", "icon": "🏷️" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Las letras engañan",
+      "title_en": "Letters can fool you",
+      "icon": "🕵️",
+      "es": "Cuidado con leer «a la española»: en inglés <b>AI se lee ei</b> (rain, wait, Spain: ¡nada de «Espáin»!), <b>EY</b> puede ser ei (they) o ai (eye), <b>UY</b> es ai (buy, guy) y en <b>EIGH</b> la GH no suena (eight). Y una excepción famosa: <b>says</b> es <code>ses</code>, con e corta.",
+      "en": "Don't read it Spanish-style: AI sounds /eɪ/ (Spain), EY can be /eɪ/ (they) or /aɪ/ (eye), UY is /aɪ/ (buy, guy).",
+      "examples": [
+        { "en": "Spain", "say": "spein", "es": "España", "icon": "🇪🇸" },
+        { "en": "wait", "say": "weit", "es": "esperar", "icon": "⏳" },
+        { "en": "they", "say": "dei", "es": "ellos / ellas", "icon": "👫" },
+        { "en": "eye", "say": "ai", "es": "ojo", "icon": "👁️" },
+        { "en": "guy", "say": "gai", "es": "chico, tío", "icon": "🧔" },
+        { "en": "height", "say": "jait", "es": "altura", "icon": "📏" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "train", "ipa": "treɪn", "say": "trein", "es": "tren", "icon": "🚂", "anchor": "<b>trein</b>ta 🚃", "tip": "Di «treinta» y para antes de la «ta». ¡Un tren con treinta vagones!" },
+        { "en": "pain", "ipa": "peɪn", "say": "pein", "es": "dolor", "icon": "🤕", "anchor": "<b>pein</b>e 💇", "tip": "Peinarse con tirones da pain (dolor). ¡No digas pen, que es un boli!" },
+        { "en": "say", "ipa": "seɪ", "say": "sei", "es": "decir", "icon": "💬", "anchor": "<b>sei</b>s 6️⃣", "tip": "Di «seis» sin la s final. ¡Ojo! says es <code>ses</code>, con e corta." },
+        { "en": "rain", "ipa": "reɪn", "say": "rein", "es": "lluvia", "icon": "🌧️", "anchor": "<b>rein</b>a 👑", "tip": "Una reina bajo la lluvia. Con R americana, sin vibrar (C-01)." },
+        { "en": "baby", "ipa": "ˈbeɪbi", "say": "béibi", "es": "bebé", "icon": "👶", "anchor": "<s>babi</s> 🥼 → <b>BÉI</b>bi", "tip": "Leído en español, baby suena a «babi», el del cole. ¡Es béibi!" },
+        { "en": "Spain", "ipa": "speɪn", "say": "spein", "es": "España", "icon": "🇪🇸", "anchor": "<s>Espáin</s> → <b>spein</b>", "tip": "AI se lee «ei». Y sin e delante (C-11): sssspein." },
+        { "en": "I / eye", "ipa": "aɪ", "say": "ai", "es": "yo / ojo", "icon": "👁️", "anchor": "<b>hay</b> · ¡<b>ay</b>!", "tip": "Dos palabras, un sonido: I (yo) y eye (ojo). ¡Ay, mi ojo!" },
+        { "en": "hi", "ipa": "haɪ", "say": "jai", "es": "hola", "icon": "👋", "anchor": "<b>Jai</b>me 👨", "tip": "Hi, Jaime! Con j suave, como el vaho (C-06)." },
+        { "en": "bye", "ipa": "baɪ", "say": "bai", "es": "adiós", "icon": "🖐️", "anchor": "<b>bai</b>le 💃", "tip": "Bye-bye = <code>baibái</code>: dices adiós bailando." },
+        { "en": "why", "ipa": "waɪ", "say": "wai", "es": "¿por qué?", "icon": "🤔", "anchor": "<b>guay</b> 😎", "tip": "Why? ¡Porque es guay! Pero sin g: uai." },
+        { "en": "my", "ipa": "maɪ", "say": "mai", "es": "mi", "icon": "🙋", "anchor": "<b>Mai</b>te 👧", "tip": "My Maite = mi Maite. La y final suena «ai»." },
+        { "en": "Wi-Fi", "ipa": "ˈwaɪfaɪ", "say": "wáifai", "es": "wifi", "icon": "📶", "anchor": "<s>güifi</s> → <b>WÁI</b>fai", "tip": "Las dos I dicen «ai». En EE. UU. nadie dice «güifi»." },
+        { "en": "boy", "ipa": "bɔɪ", "say": "boi", "es": "chico, niño", "icon": "👦", "anchor": "<b>voy</b> 🏃", "tip": "En español, «voy» suena boi (la b y la v suenan igual). ¡Voy, boy!" },
+        { "en": "toy", "ipa": "tɔɪ", "say": "toi", "es": "juguete", "icon": "🧸", "anchor": "es<b>toy</b> 🙋", "tip": "Estoy jugando con mi toy. Abre un poco más la o." },
+        { "en": "soy", "ipa": "sɔɪ", "say": "soi", "es": "soja", "icon": "🌱", "anchor": "<b>soy</b> 🙋", "tip": "Soy sauce = salsa de soja. ¡Se escribe y se dice como «soy»!" },
+        { "en": "oil", "ipa": "ɔɪl", "say": "oil", "es": "aceite", "icon": "🫒", "anchor": "<b>hoy</b> + l 📅", "tip": "La h de «hoy» no suena: hoy + l = oil." }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "day", "es": "día" },
+        { "q": "great", "es": "genial" },
+        { "q": "my", "es": "mi" },
+        { "q": "night", "es": "noche" },
+        { "q": "boy", "es": "chico" },
+        { "q": "enjoy", "es": "disfrutar" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Cómo se escribe cada diptongo?",
+      "title_en": "How is each diphthong spelled?",
+      "icon": "🧭",
+      "head": ["Sonido", "Letras · Letters", "Ejemplos", "Suena"],
+      "rows": [
+        ["/eɪ/", "A + consonante + E", "name, make, late", "<code>neim</code>, <code>meik</code>"],
+        ["/eɪ/", "AI · AY", "rain, wait · day, play", "<code>rein</code>, <code>dei</code>"],
+        ["/eɪ/", "EIGH · EY · EA", "eight · they · great", "<code>eit</code>, <code>greit</code>"],
+        ["/eɪ/", "A que cierra sílaba", "baby, table, paper", "<code>béibi</code>, <code>téibəl</code>"],
+        ["/aɪ/", "I + consonante + E", "time, five, nice", "<code>taim</code>, <code>nais</code>"],
+        ["/aɪ/", "Y final · IE · UY", "my, why · pie · buy", "<code>mai</code>, <code>pai</code>"],
+        ["/aɪ/", "IGH · I + ND / LD", "night, high · find, child", "<code>nait</code>, <code>faind</code>"],
+        ["/ɔɪ/", "OY · OI", "boy, toy · coin, voice", "<code>boi</code>, <code>vois</code>"]
+      ],
+      "note": "<b>Truco:</b> la A y la I muchas veces «dicen su nombre» en inglés (A = <code>ei</code>, I = <code>ai</code>). Lo verás a fondo con la E mágica en V-11 y con el abecedario en P-07.",
+      "note_en": "Tip: A and I often «say their name» (A = /eɪ/, I = /aɪ/). More in V-11 (magic E) and P-07 (alphabet)."
+    },
+    {
+      "t": "stress",
+      "title": "¿Dónde está el golpe?",
+      "title_en": "Where is the stress?",
+      "icon": "🥁",
+      "es": "Mira dónde cae el golpe (●). ¡Ojo con las palabras que en español acentúas en otro sitio, como bebé o idea!",
+      "en": "Watch the stress: baby and idea are stressed differently from Spanish.",
+      "items": [
+        { "syl": ["ba", "by"], "s": 0, "say": "béibi", "es": "bebé", "icon": "👶" },
+        { "syl": ["pa", "per"], "s": 0, "say": "péiper", "es": "papel", "icon": "📄" },
+        { "syl": ["Fri", "day"], "s": 0, "say": "fráidei", "es": "viernes", "icon": "🎉" },
+        { "syl": ["ti", "ger"], "s": 0, "say": "táiguer", "es": "tigre", "icon": "🐯" },
+        { "syl": ["en", "joy"], "s": 1, "say": "inyói", "es": "disfrutar", "icon": "😄" },
+        { "syl": ["a", "void"], "s": 1, "say": "əvóid", "es": "evitar", "icon": "🙅" },
+        { "syl": ["ex", "plain"], "s": 1, "say": "ikspléin", "es": "explicar", "icon": "👩‍🏫" },
+        { "syl": ["i", "de", "a"], "s": 1, "say": "aidíə", "es": "idea", "icon": "💡" }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "¿E quieta o EI que se desliza?",
+      "title_en": "/ɛ/ or /eɪ/?",
+      "icon": "👂",
+      "items": [
+        {
+          "a": { "en": "pen", "ipa": "pɛn", "say": "pen", "es": "bolígrafo", "icon": "🖊️" },
+          "b": { "en": "pain", "ipa": "peɪn", "say": "pein", "es": "dolor", "icon": "🤕" },
+          "tip": "My pen is a pain! = ¡Mi boli es un rollo! 😄"
+        },
+        {
+          "a": { "en": "get", "ipa": "ɡɛt", "say": "guet", "es": "conseguir", "icon": "🎁" },
+          "b": { "en": "gate", "ipa": "ɡeɪt", "say": "gueit", "es": "puerta de embarque", "icon": "🛫" },
+          "tip": "En el aeropuerto: «Gate eight» = <code>guéiréit</code>, puerta ocho."
+        },
+        {
+          "a": { "en": "sell", "ipa": "sɛl", "say": "sel", "es": "vender", "icon": "💰" },
+          "b": { "en": "sale", "ipa": "seɪl", "say": "seil", "es": "rebajas", "icon": "🏷️" },
+          "tip": "Las tiendas sell (venden) más cuando hay sale (rebajas)."
+        },
+        {
+          "a": { "en": "wet", "ipa": "wɛt", "say": "wet", "es": "mojado", "icon": "💦" },
+          "b": { "en": "wait", "ipa": "weɪt", "say": "weit", "es": "esperar", "icon": "⏳" },
+          "tip": "Wait, I'm wet! = ¡Espera, que estoy mojado!"
+        },
+        {
+          "a": { "en": "pepper", "ipa": "ˈpɛpɚ", "say": "péper", "es": "pimienta", "icon": "🌶️" },
+          "b": { "en": "paper", "ipa": "ˈpeɪpɚ", "say": "péiper", "es": "papel", "icon": "📄" },
+          "tip": "Si no deslizas, pides pimienta en vez de papel. ¡Achís! 🤧"
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "¿AI u OI?",
+      "title_en": "/aɪ/ or /ɔɪ/?",
+      "icon": "🎯",
+      "items": [
+        {
+          "a": { "en": "buy", "ipa": "baɪ", "say": "bai", "es": "comprar", "icon": "🛒" },
+          "b": { "en": "boy", "ipa": "bɔɪ", "say": "boi", "es": "chico, niño", "icon": "👦" },
+          "tip": "Buy the boy a toy! = ¡Cómprale un juguete al niño!"
+        },
+        {
+          "a": { "en": "tie", "ipa": "taɪ", "say": "tai", "es": "corbata", "icon": "👔" },
+          "b": { "en": "toy", "ipa": "tɔɪ", "say": "toi", "es": "juguete", "icon": "🧸" },
+          "tip": "Una corbata no es un juguete… ¡salvo para Rocky! 🐶"
+        },
+        {
+          "a": { "en": "I'll", "ipa": "aɪl", "say": "ail", "es": "yo (+ futuro)", "icon": "🙋" },
+          "b": { "en": "oil", "ipa": "ɔɪl", "say": "oil", "es": "aceite", "icon": "🫒" },
+          "tip": "I'll = I will. Cambia una sola vocal y pasas de «yo» a «aceite»."
+        },
+        {
+          "a": { "en": "file", "ipa": "faɪl", "say": "fail", "es": "archivo", "icon": "📁" },
+          "b": { "en": "foil", "ipa": "fɔɪl", "say": "foil", "es": "papel de aluminio", "icon": "🥪" },
+          "tip": "Un archivo (file) envuelto en papel de aluminio (foil)."
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "Have a nice day!", "spoken": "Hava nice day!", "say": "jǽvə náis déi!", "es": "¡Que tengas un buen día!" },
+        { "written": "Take it easy!", "spoken": "Tay-ki-deasy!", "say": "téikirísi!", "es": "¡Tranqui!" },
+        { "written": "Oh boy!", "spoken": "Oh boy!", "say": "ou bói!", "es": "¡Madre mía!" },
+        { "written": "No way!", "spoken": "No way!", "say": "nóu wéi!", "es": "¡Ni hablar! / ¡No me digas!" },
+        { "written": "I don't mind.", "spoken": "I don' mind.", "say": "ai dóun máind", "es": "No me importa." },
+        { "written": "Right away!", "spoken": "Righ-da-way!", "say": "ráirəwéi!", "es": "¡Ahora mismo!" }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "My name is Mike.", "say": "mai néim is máik", "es": "Me llamo Mike.", "icon": "👋" },
+        { "en": "It's raining in Spain.", "say": "its réining in spéin", "es": "Está lloviendo en España.", "icon": "🌧️" },
+        { "en": "Wait for me at gate eight!", "say": "wéit fər mi ət guéiréit!", "es": "¡Espérame en la puerta ocho!", "icon": "🛫" },
+        { "en": "I like to ride my bike at night.", "say": "ai láik tə ráid mai báik ət náit", "es": "Me gusta montar en bici por la noche.", "icon": "🚲" },
+        { "en": "The boy has a new toy.", "say": "də bói jæs ə nuu tói", "es": "El niño tiene un juguete nuevo.", "icon": "🧸" },
+        { "en": "Five times five is twenty-five.", "say": "fáiv táims fáiv is twéni fáiv", "es": "Cinco por cinco son veinticinco.", "icon": "🖐️" },
+        { "en": "They play games every day.", "say": "déi pléi guéims évri déi", "es": "Juegan a juegos todos los días.", "icon": "🎮" },
+        { "en": "Too much noise, boys!", "say": "tuu mach nóis, bóis!", "es": "¡Demasiado ruido, chicos!", "icon": "🔊" },
+        { "en": "Why are you crying?", "say": "wái ər iu kráiing?", "es": "¿Por qué lloras?", "icon": "😢" },
+        { "en": "Give me a coin, please.", "say": "guív mi ə kóin, pliis", "es": "Dame una moneda, por favor.", "icon": "🪙" },
+        { "en": "Have a great time!", "say": "jǽvə gréit táim!", "es": "¡Pásalo genial!", "icon": "🎉" },
+        { "en": "The baby is eating a cake.", "say": "də béibi is íiring ə kéik", "es": "El bebé se está comiendo una tarta.", "icon": "🎂" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "name → <code>náme</code>", "good": "<code>neim</code>", "why": "La A con E mágica dice su nombre, «ei». Y la E final no suena.", "why_en": "A with magic E says its name; the final E is silent." },
+        { "bad": "Spain → <code>espáin</code>", "good": "<code>spein</code>", "why": "AI se lee «ei», y sin e delante (C-11).", "why_en": "AI sounds /eɪ/, and no e before S." },
+        { "bad": "time → <code>tíme</code>", "good": "<code>taim</code>", "why": "La I con E mágica dice su nombre: «ai».", "why_en": "I with magic E sounds /aɪ/." },
+        { "bad": "baby → <code>bábi</code>", "good": "<code>béibi</code>", "why": "¡Eso es el babi del cole! La A dice «ei».", "why_en": "The A says its name: BAY-bee." },
+        { "bad": "pain → <code>pen</code>", "good": "<code>pein</code>", "why": "Sin deslizar hacia la i dices pen (boli).", "why_en": "Without the glide you say pen." },
+        { "bad": "eight → <code>éigt</code>", "good": "<code>eit</code>", "why": "La GH no suena. Eight suena igual que ate, «comí» (P-05).", "why_en": "GH is silent. Eight sounds like ate." },
+        { "bad": "Wi-Fi → <code>güífi</code>", "good": "<code>wáifai</code>", "why": "Las dos I dicen «ai» y no hay ninguna g.", "why_en": "Both I's sound /aɪ/." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el aeropuerto",
+      "title_en": "At the airport",
+      "lines": [
+        { "who": "Lucía", "en": "Mario, wait! What gate is it?", "say": "mário, wéit! wat guéit ísit?", "es": "¡Mario, espera! ¿Qué puerta es?" },
+        { "who": "Mario", "en": "Gate eight. Our plane is at nine.", "say": "guéiréit. aur pléin isət náin", "es": "La puerta ocho. Nuestro avión sale a las nueve." },
+        { "who": "Lucía", "en": "Oh no! Is it late?", "say": "ou nóu! ísit léit?", "es": "¡Oh, no! ¿Va con retraso?" },
+        { "who": "Mario", "en": "No, it's on time. Relax!", "say": "nóu, its an táim. rilǽks!", "es": "No, va puntual. ¡Tranquila!" },
+        { "who": "Mike", "en": "Hi, guys! I'm Mike. Is this the plane to Spain?", "say": "jái, gáis! aim máik. is dis də pléin tə spéin?", "es": "¡Hola, chicos! Soy Mike. ¿Es este el avión a España?" },
+        { "who": "Lucía", "en": "Yes! We live in Spain. We're flying home today.", "say": "iés! wi lív in spéin. wir fláiing jóum tədéi", "es": "¡Sí! Vivimos en España. Hoy volvemos a casa." },
+        { "who": "Mike", "en": "Nice! Enjoy your flight!", "say": "náis! inyói iur fláit!", "es": "¡Qué bien! ¡Disfrutad del vuelo!" },
+        { "who": "Mario", "en": "Thanks! Have a nice day, Mike. Bye!", "say": "zænks! jǽvə náis déi, máik. bái!", "es": "¡Gracias! Que tengas un buen día, Mike. ¡Adiós!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        { "es": "Di en español «s<b>ei</b>s», «b<b>ai</b>le» y «est<b>oy</b>». ¡Ya tienes los tres sonidos!", "en": "Say «seis», «baile», «estoy»: you already have the three sounds." },
+        { "es": "Alarga la primera vocal y deja la i <b>suave</b> y rápida: <code>déi</code>, <code>mái</code>, <code>bói</code>.", "en": "Make the first vowel long and the final i soft." },
+        { "es": "Lee palabras en las que la A y la I dicen su nombre: name, cake, time, five.", "en": "Read words where A and I say their name." },
+        { "es": "Practica pen/pain, get/gate y sell/sale: la e corta se queda quieta; la ei se desliza.", "en": "Practice pen/pain, get/gate, sell/sale." },
+        { "es": "Escanea los QR y <b>grábate</b> diciendo «Have a nice day!».", "en": "Scan the QR codes and record yourself." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "Eight gray trains wait in the rain in Spain.", "say": "éit gréi tréins wéit in də réin in spéin", "es": "Ocho trenes grises esperan bajo la lluvia en España." },
+        { "en": "Mike likes to ride his white bike at night.", "say": "máik láiks tə ráid jis wáit báik ət náit", "es": "A Mike le gusta montar en su bici blanca por la noche." },
+        { "en": "The noisy boy enjoys his toy with joy.", "say": "də nóisi bói inyóis jis tói wid yói", "es": "El niño ruidoso disfruta de su juguete con alegría." }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "¡Ya los sabías!",
+      "title_en": "You already knew them!",
+      "es": "Los tres diptongos de este mapa caben en una frase española: «<b>Hoy</b> b<b>ai</b>lo s<b>ei</b>s veces». Ahí tienes <b>oi</b>, <b>ai</b> y <b>ei</b>. El inglés solo los esconde detrás de otras letras: la A de n<b>a</b>me, la I de t<b>i</b>me, la Y de m<b>y</b>. ¡Destápalos! 🕵️",
+      "en": "Remember «Hoy bailo seis veces»: oi, ai, ei. English just hides them behind other letters."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Qué diptongo?",
+      "title_en": "Which diphthong?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea el diptongo que oyes.",
+      "en": "Say the word and circle the diphthong you hear.",
+      "items": [
+        { "q": "name → [ei|ai|oi]", "a": "ei" },
+        { "q": "time → [ei|ai|oi]", "a": "ai" },
+        { "q": "boy → [ei|ai|oi]", "a": "oi" },
+        { "q": "rain → [ei|ai|oi]", "a": "ei" },
+        { "q": "night → [ei|ai|oi]", "a": "ai" },
+        { "q": "coin → [ei|ai|oi]", "a": "oi" },
+        { "q": "day → [ei|ai|oi]", "a": "ei" },
+        { "q": "my → [ei|ai|oi]", "a": "ai" },
+        { "q": "toy → [ei|ai|oi]", "a": "oi" },
+        { "q": "eight → [ei|ai|oi]", "a": "ei" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        { "name": "🚂 /eɪ/ ei", "words": ["name", "rain", "day", "eight", "they", "great"] },
+        { "name": "💃 /aɪ/ ai", "words": ["time", "my", "night", "buy", "eye", "find"] },
+        { "name": "🧸 /ɔɪ/ oi", "words": ["boy", "toy", "coin", "oil", "voice", "enjoy"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["day", "<code>dei</code>"],
+        ["my", "<code>mai</code>"],
+        ["boy", "<code>boi</code>"],
+        ["eight", "<code>eit</code>"],
+        ["night", "<code>nait</code>"],
+        ["great", "<code>greit</code>"],
+        ["Wi-Fi", "<code>wáifai</code>"],
+        ["baby", "<code>béibi</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada con <b>ei</b>, <b>ai</b> u <b>oi</b>. Pon tilde en la sílaba fuerte.",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        { "q": "📛 name → ____", "a": "neim" },
+        { "q": "🍰 cake → ____", "a": "keik" },
+        { "q": "🎮 game → ____", "a": "gueim" },
+        { "q": "🌃 night → ____", "a": "nait" },
+        { "q": "😊 nice → ____", "a": "nais" },
+        { "q": "🚲 bike → ____", "a": "baik" },
+        { "q": "🔊 noise → ____", "a": "nois" },
+        { "q": "🪙 coin → ____", "a": "koin" },
+        { "q": "📄 paper → ____", "a": "péiper" },
+        { "q": "🐯 tiger → ____", "a": "táiguer" }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. ¿Cae en el diptongo?",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        { "syl": ["ba", "by"], "s": 0, "es": "bebé" },
+        { "syl": ["pa", "per"], "s": 0, "es": "papel" },
+        { "syl": ["ta", "ble"], "s": 0, "es": "mesa" },
+        { "syl": ["Fri", "day"], "s": 0, "es": "viernes" },
+        { "syl": ["ti", "ger"], "s": 0, "es": "tigre" },
+        { "syl": ["en", "joy"], "s": 1, "es": "disfrutar" },
+        { "syl": ["a", "void"], "s": 1, "es": "evitar" },
+        { "syl": ["ex", "plain"], "s": 1, "es": "explicar" },
+        { "syl": ["to", "day"], "s": 1, "es": "hoy" },
+        { "syl": ["i", "de", "a"], "s": 1, "es": "idea" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "Spanish already has the sounds /eɪ/, /aɪ/ and /ɔɪ/.", "a": true },
+        { "q": "The AI in «rain» sounds like the Spanish «ai».", "a": false, "why": "suena ei: rein" },
+        { "q": "«Pen» and «pain» sound the same.", "a": false, "why": "pen / pein" },
+        { "q": "The I in «time» sounds «ai».", "a": true },
+        { "q": "The GH in «night» is silent.", "a": true },
+        { "q": "«I» and «eye» sound the same.", "a": true },
+        { "q": "In «says», AY sounds «ei».", "a": false, "why": "says = ses (¡excepción!)" },
+        { "q": "«Boy» and «buy» sound the same.", "a": false, "why": "boi / bai" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "¿Estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "Do they sound the same or different?",
+      "items": [
+        { "q": "pen · pain → [igual|diferente]", "a": "diferente" },
+        { "q": "I · eye → [igual|diferente]", "a": "igual" },
+        { "q": "buy · bye → [igual|diferente]", "a": "igual" },
+        { "q": "get · gate → [igual|diferente]", "a": "diferente" },
+        { "q": "eight · ate → [igual|diferente]", "a": "igual" },
+        { "q": "tie · toy → [igual|diferente]", "a": "diferente" },
+        { "q": "sale · sail → [igual|diferente]", "a": "igual" },
+        { "q": "wet · wait → [igual|diferente]", "a": "diferente" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pega las palabras",
+      "title_en": "Link the words",
+      "icon": "🔗",
+      "es": "Escribe cómo suena la frase entera, pegando las palabras como un americano.",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        { "q": "Have a nice day!", "a": "jǽvə náis déi!" },
+        { "q": "Take it easy!", "a": "téikirísi!" },
+        { "q": "No way!", "a": "nóu wéi!" },
+        { "q": "Oh boy!", "a": "ou bói!" },
+        { "q": "Right away!", "a": "ráirəwéi!" },
+        { "q": "I don't mind.", "a": "ai dóun máind" },
+        { "q": "Bye-bye!", "a": "baibái!" },
+        { "q": "Wait a minute!", "a": "wéirə mínit!" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "name → <code>náme</code>", "a": "neim" },
+        { "q": "Spain → <code>espáin</code>", "a": "spein" },
+        { "q": "time → <code>tíme</code>", "a": "taim" },
+        { "q": "baby → <code>bábi</code>", "a": "béibi" },
+        { "q": "eight → <code>éigt</code>", "a": "eit" },
+        { "q": "five → <code>fíve</code>", "a": "faiv" },
+        { "q": "Wi-Fi → <code>güífi</code>", "a": "wáifai" },
+        { "q": "great → <code>griit</code>", "a": "greit" },
+        { "q": "pain → <code>pen</code>", "a": "pein" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "Have a nice day!", "say": "jǽvə náis déi!" },
+        { "q": "My name is Mike.", "say": "mai néim is máik" },
+        { "q": "Eight great games.", "say": "éit gréit guéims" },
+        { "q": "Oh boy, what a noise!", "say": "ou bói, warə nóis!" },
+        { "q": "Wait for me!", "say": "wéit fər mi!" },
+        { "q": "I like my white bike.", "say": "ai láik mai wáit báik" },
+        { "q": "Enjoy your toy!", "say": "inyói iur tói!" },
+        { "q": "Why is it raining?", "say": "wái ísit réining?" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con su diptongo.",
+      "en": "Translate into English and say it.",
+      "items": [
+        { "q": "día", "a": "day (dei)" },
+        { "q": "nombre", "a": "name (neim)" },
+        { "q": "lluvia", "a": "rain (rein)" },
+        { "q": "ocho", "a": "eight (eit)" },
+        { "q": "mi", "a": "my (mai)" },
+        { "q": "noche", "a": "night (nait)" },
+        { "q": "cinco", "a": "five (faiv)" },
+        { "q": "chico, niño", "a": "boy (boi)" },
+        { "q": "juguete", "a": "toy (toi)" },
+        { "q": "moneda", "a": "coin (koin)" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En la última columna escribe <b>ei</b>, <b>ai</b> u <b>oi</b>.",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Español", "Suena", "Diptongo"],
+      "rows": [
+        ["day", "día", "?dei", "?ei"],
+        ["?time", "tiempo / hora", "taim", "ai"],
+        ["boy", "?chico", "?boi", "oi"],
+        ["?rain", "lluvia", "rein", "?ei"],
+        ["night", "?noche", "?nait", "?ai"],
+        ["toy", "juguete", "?toi", "?oi"],
+        ["?eight", "ocho", "eit", "ei"],
+        ["five", "?cinco", "faiv", "?ai"]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de diptongos",
+      "title_en": "Diphthong word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Dila en voz alta y di qué diptongo tiene: ei, ai u oi.",
+      "en": "Find 10 words and say which diphthong they have.",
+      "words": ["day", "rain", "name", "eight", "time", "five", "night", "boy", "toy", "coin"],
+      "clues": ["day · día", "rain · lluvia", "name · nombre", "eight · ocho", "time · tiempo", "five · cinco", "night · noche", "boy · chico", "toy · juguete", "coin · moneda"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza los diptongos",
+      "title_en": "Read and find the diphthongs",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Mike's Birthday",
+      "text": [
+        "Today is Mike's birthday. He is eight. His mom made a big cake, and his friends came to play games.",
+        "Jenny gave him a white bike, and Tyler gave him a noisy toy train. “Oh boy! I love my new toys!” says Mike. They play outside until it starts to rain."
+      ],
+      "items": [
+        { "q": "How old is Mike?", "a": "He's eight: <code>eit</code>." },
+        { "q": "Find three words with /eɪ/.", "a": "today, birthday, eight, made, cake, came, play, games, gave, train, they, rain (cualquiera)." },
+        { "q": "Find two words with /aɪ/ and two with /ɔɪ/.", "a": "/aɪ/: Mike, white, bike, Tyler, I, my, outside · /ɔɪ/: boy, noisy, toy, toys." },
+        { "q": "Mike's mom made a cake.", "tf": true, "a": true },
+        { "q": "Jenny gave him a toy train.", "tf": true, "a": false, "why": "Jenny le regaló una bici; el tren fue de Tyler" },
+        { "q": "«Eight» and «gave» have the same vowel sound.", "tf": true, "a": true }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con palabras de este mapa. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with words from this map and record yourself.",
+      "items": [
+        { "q": "Una frase con day, play o rain.", "lines": 2, "a": "Ej.: I play games every day." },
+        { "q": "Una frase con my, time o night.", "lines": 2, "a": "Ej.: It's time for my bike ride." },
+        { "q": "Una frase con boy, toy o enjoy.", "lines": 2 }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé que <b>ei</b>, <b>ai</b> y <b>oi</b> ya existen en español: seis, baile, estoy.", "en": "I know Spanish already has /eɪ/, /aɪ/ and /ɔɪ/." },
+    { "es": "Leo la A de name y la I de time diciendo su nombre: <code>neim</code>, <code>taim</code>.", "en": "I read A in name and I in time correctly." },
+    { "es": "Distingo pen de pain, get de gate y sell de sale.", "en": "I can tell pen from pain, get from gate and sell from sale." },
+    { "es": "Sé que AI y AY suenan <code>ei</code>: rain, day, Spain.", "en": "I know AI and AY sound /eɪ/." },
+    { "es": "Sé decir boy, toy y coin con una o abierta.", "en": "I can say boy, toy and coin." },
+    { "es": "Puedo decir «Have a nice day!» como un americano.", "en": "I can say «Have a nice day!» like an American." }
+  ]
+}

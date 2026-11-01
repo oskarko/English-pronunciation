@@ -1,0 +1,1847 @@
+{
+  "id": "C-14",
+  "block": "C",
+  "title": "CONSONANTES FINALES",
+  "file_title": "Consonantes finales",
+  "subtitle": "Final consonants · ¡no te comas el final!",
+  "icon": "🏁",
+  "map": {
+    "center": "En español casi nunca acabamos en <b>p, t, k, b, g, m</b>. En inglés sí… ¡y la última consonante <b>se oye</b>!",
+    "listen": "bag",
+    "nodes": [
+      {
+        "title": "¿Qué nos pasa?",
+        "icon": "🤔",
+        "color": "green",
+        "items": [
+          "el español acaba en vocal, n, s, l, r, d, z",
+          "nos <b>comemos</b> la p, t, k, b, g…",
+          "…o la <b>cambiamos</b>: m → n, d → t"
+        ]
+      },
+      {
+        "title": "Cambia la palabra",
+        "icon": "👂",
+        "color": "blue",
+        "rows": [
+          [
+            "cap · cab",
+            "<code>kæp</code> · <code>kæb</code>"
+          ],
+          [
+            "bet · bed",
+            "<code>bet</code> · <code>bed</code>"
+          ],
+          [
+            "back · bag",
+            "<code>bæk</code> · <code>bæg</code>"
+          ]
+        ],
+        "after": "¡otra consonante, otra palabra!"
+      },
+      {
+        "title": "M no es N",
+        "icon": "👄",
+        "color": "purple",
+        "rows": [
+          [
+            "some",
+            "<code>sam</code> labios cerrados"
+          ],
+          [
+            "son",
+            "<code>san</code> lengua arriba"
+          ],
+          [
+            "I'm",
+            "<code>aim</code>, nunca <s>ain</s>"
+          ]
+        ]
+      },
+      {
+        "title": "Grupos finales",
+        "icon": "🧱",
+        "color": "orange",
+        "rows": [
+          [
+            "first",
+            "<code>ferst</code>"
+          ],
+          [
+            "world",
+            "<code>werld</code>"
+          ],
+          [
+            "help",
+            "<code>jelp</code>"
+          ]
+        ],
+        "after": "¡se dicen <b>todas</b>!"
+      },
+      {
+        "title": "La vocal se estira",
+        "icon": "🐢",
+        "color": "pink",
+        "html": "Antes de <b>b, d, g</b> la vocal <b>dura más</b>: bed 🐢 es más larga que bet ⚡."
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Acaba la palabra <b>con la boca puesta</b>: labios cerrados en p, b, m; lengua arriba en t, d.",
+        "art": "🏁"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "bed → <code>bet</code> o <code>be</code>"
+      ],
+      "good": [
+        "<code>bed</code> 🛏️"
+      ],
+      "note": "Sin la d, bed (cama) suena a bet (apuesta) 🎲"
+    },
+    "mini": {
+      "es": "¿Qué consonante final falta?",
+      "en": "Which final consonant is missing?",
+      "items": [
+        {
+          "q": "🧢 gorra → ca___",
+          "a": "p (cap)"
+        },
+        {
+          "q": "🚕 taxi → ca___",
+          "a": "b (cab)"
+        },
+        {
+          "q": "🛏️ cama → be___",
+          "a": "d (bed)"
+        },
+        {
+          "q": "👜 bolsa → ba___",
+          "a": "g (bag)"
+        },
+        {
+          "q": "🍬 chicle → gu___",
+          "a": "m (gum)"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Por qué nos comemos el final?",
+      "title_en": "Why do we drop the end?",
+      "icon": "🔎",
+      "es": "Piensa en palabras españolas: casa, perro, canción, papel, verdad. Casi todas acaban en <b>vocal</b> o en <b>n, s, l, r, d, z</b>. Por eso, cuando ves <b>big</b>, <b>cap</b> o <b>some</b>, tu boca hace trampa: <b>se come</b> la última consonante (<s>bi</s>) o la <b>cambia</b> por otra más cómoda (<s>bik</s>, <s>son</s>). En inglés eso es grave, porque <mark>la consonante final cambia la palabra</mark>: cap es gorra; cab, taxi; y cat, gato.",
+      "en": "Spanish words almost never end in p, t, k, b, g or m, so Spanish speakers tend to drop or change final consonants. In English, the last consonant can change the whole word: cap, cab, cat.",
+      "formula": [
+        "ca + *p* → cap 🧢 gorra",
+        "ca + *b* → cab 🚕 taxi",
+        "ca + *t* → cat 🐱 gato"
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Español vs. inglés al final",
+      "title_en": "Spanish vs. English word endings",
+      "icon": "⚖️",
+      "es": "Tu boca está entrenada para el español. Mira las diferencias y verás por qué te cuesta.",
+      "en": "Your mouth is trained for Spanish. These are the differences.",
+      "cols": [
+        {
+          "head": "🇪🇸 Español",
+          "color": "orange",
+          "items": [
+            "acaba en vocal o en n, s, l, r, d, z",
+            "la d final se debilita: «Madrí», «usté»",
+            "como mucho, dos consonantes: «bíceps»",
+            "la m final suena n: «álbun»"
+          ]
+        },
+        {
+          "head": "🇺🇸 Inglés",
+          "color": "blue",
+          "items": [
+            "acaba en <b>cualquier</b> consonante",
+            "la d final se oye: good, bad, food",
+            "hasta cuatro: texts, sixths",
+            "la m final, con labios cerrados: some, room"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se acaba una palabra",
+      "title_en": "How to finish a word",
+      "items": [
+        {
+          "part": "lips",
+          "es": "Para <b>p, b, m</b> los labios <b>se cierran</b> al final y se quedan así un instante. Si no los cierras, no hay p, ni b, ni m.",
+          "en": "For p, b and m, close your lips at the end and keep them closed for a moment."
+        },
+        {
+          "part": "tongue",
+          "es": "Para <b>t, d, n</b> la punta de la lengua <b>sube</b> a la encía de arriba y se queda pegada. Para <b>k, g</b>, es la parte de atrás de la lengua la que toca el paladar, como en «casa» y «gato».",
+          "en": "For t, d and n, the tongue tip goes up to the gum ridge. For k and g, the back of the tongue touches the roof of your mouth."
+        },
+        {
+          "part": "voice",
+          "es": "En <b>b, d, g</b> la garganta vibra (aunque sea poquito); en <b>p, t, k</b>, no. Pon la mano en el cuello y compara <b>bed</b> y <b>bet</b>.",
+          "en": "Your voice vibrates a little for b, d and g, but not for p, t and k."
+        },
+        {
+          "part": "air",
+          "es": "Al final de una frase, los americanos casi no sueltan aire en la p, t, k: la boca se cierra y ya está. ¡Pero se cierra! (con la T lo verás a fondo en el mapa C-03).",
+          "en": "At the end of a sentence, Americans often don't release p, t or k with a puff of air, but the mouth still closes."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · P y B finales",
+      "title_en": "Final P and B",
+      "icon": "👄",
+      "es": "Las dos se hacen <b>cerrando los labios</b>. La diferencia: con <b>p</b> la vocal se corta de golpe y la garganta no vibra; con <b>b</b> la vocal se estira un poquito y la garganta vibra. Nada de dejar la palabra a medias (<s>ca</s>) ni de soltar una «e» al final (<s>kæbe</s>).",
+      "en": "Both are made by closing your lips. P cuts the vowel short; B lets it stretch a little. Don't drop them and don't add an «e».",
+      "formula": [
+        "ca + *p* → kæp (corta ⚡)",
+        "ca + *b* → kæb (larga 🐢)"
+      ],
+      "examples": [
+        {
+          "en": "cap",
+          "say": "kæp",
+          "es": "gorra",
+          "icon": "🧢"
+        },
+        {
+          "en": "cab",
+          "say": "kæb",
+          "es": "taxi",
+          "icon": "🚕"
+        },
+        {
+          "en": "cup",
+          "say": "kap",
+          "es": "taza",
+          "icon": "☕"
+        },
+        {
+          "en": "club",
+          "say": "klab",
+          "es": "club",
+          "icon": "🏆"
+        },
+        {
+          "en": "job",
+          "say": "yab",
+          "es": "trabajo",
+          "icon": "💼"
+        },
+        {
+          "en": "sleep",
+          "say": "sliip",
+          "es": "dormir",
+          "icon": "😴"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · T y D finales",
+      "title_en": "Final T and D",
+      "icon": "👅",
+      "es": "La punta de la lengua <b>sube</b> a la encía de arriba y se queda ahí. Con <b>t</b> la vocal se corta en seco; con <b>d</b> dura más y la garganta vibra. ¡Ojo, España!: la d final de «Madrid» o «usted» casi no se oye o suena a z. En inglés la <b>d</b> final <mark>se oye siempre</mark>: <code>gud</code>, <code>bæd</code>, <code>red</code>.",
+      "en": "The tongue tip goes up and stays there. T cuts the vowel short; D makes it longer. Never drop a final D.",
+      "examples": [
+        {
+          "en": "bet",
+          "say": "bet",
+          "es": "apuesta",
+          "icon": "🎲"
+        },
+        {
+          "en": "bed",
+          "say": "bed",
+          "es": "cama",
+          "icon": "🛏️"
+        },
+        {
+          "en": "hat",
+          "say": "jæt",
+          "es": "sombrero",
+          "icon": "🎩"
+        },
+        {
+          "en": "sad",
+          "say": "sæd",
+          "es": "triste",
+          "icon": "😢"
+        },
+        {
+          "en": "seat",
+          "say": "siit",
+          "es": "asiento",
+          "icon": "💺"
+        },
+        {
+          "en": "seed",
+          "say": "siid",
+          "es": "semilla",
+          "icon": "🌱"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · K y G finales",
+      "title_en": "Final K and G",
+      "icon": "🔙",
+      "es": "La parte de atrás de la lengua toca el paladar. La <b>k</b> final ya la sabes hacer («tic tac», «bistec»); la que más se pierde es la <b>g</b>: <s>bi</s> por <b>big</b>, <s>do</s> por <b>dog</b>. Y si la cambias por k, <b>bag</b> (bolsa) se convierte en <b>back</b> (espalda). Truco: la g final es una k <b>con zumbido</b> y con la vocal más larga.",
+      "en": "The back of the tongue touches the roof of your mouth. Don't drop a final G, and don't turn it into a K: bag is not back.",
+      "examples": [
+        {
+          "en": "back",
+          "say": "bæk",
+          "es": "espalda",
+          "icon": "🔙"
+        },
+        {
+          "en": "bag",
+          "say": "bæg",
+          "es": "bolsa",
+          "icon": "👜"
+        },
+        {
+          "en": "pick",
+          "say": "pik",
+          "es": "elegir",
+          "icon": "☝️"
+        },
+        {
+          "en": "pig",
+          "say": "pig",
+          "es": "cerdo",
+          "icon": "🐷"
+        },
+        {
+          "en": "duck",
+          "say": "dak",
+          "es": "pato",
+          "icon": "🦆"
+        },
+        {
+          "en": "dog",
+          "say": "dog",
+          "es": "perro",
+          "icon": "🐶"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · La M final no es N",
+      "title_en": "Final M is not N",
+      "icon": "😋",
+      "es": "En español, la m final de «álbum» o «Islam» la solemos decir como n: «álbun». En inglés la <b>m</b> final es muy común y se hace <b>cerrando los labios</b>. <b>some</b> (algo) no es <b>son</b> (hijo) y <b>team</b> (equipo) no es <b>teen</b> (adolescente). Truco: acaba con el «mmm» de «¡qué rico!» 😋.",
+      "en": "Close your lips for a final M. Some and son, team and teen are different words.",
+      "examples": [
+        {
+          "en": "some",
+          "say": "sam",
+          "es": "algo / unos",
+          "icon": "🍪"
+        },
+        {
+          "en": "son",
+          "say": "san",
+          "es": "hijo",
+          "icon": "👦"
+        },
+        {
+          "en": "team",
+          "say": "tiim",
+          "es": "equipo",
+          "icon": "⚽"
+        },
+        {
+          "en": "teen",
+          "say": "tiin",
+          "es": "adolescente",
+          "icon": "🧑"
+        },
+        {
+          "en": "I'm",
+          "say": "aim",
+          "es": "soy / estoy",
+          "icon": "🙋"
+        },
+        {
+          "en": "from",
+          "say": "fram",
+          "es": "de / desde",
+          "icon": "📍"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Grupos finales",
+      "title_en": "Final clusters",
+      "icon": "🧱",
+      "es": "Una palabra inglesa puede acabar en <b>dos, tres y hasta cuatro</b> consonantes seguidas: help, first, world, texts. El español no tiene eso y tendemos a quedarnos con la primera: <s>jel</s>, <s>fers</s>, <s>wer</s>. Dilas <b>despacio, consonante a consonante</b>, y luego acelera. Hablando rápido, los americanos simplifican algunas (asked → <code>æst</code>, texts → <code>teks</code>), pero <mark>nunca se comen el final entero</mark>.",
+      "en": "English words can end in two, three or even four consonants. Say them slowly, one by one, then speed up.",
+      "formula": [
+        "fir + *s* + *t* → ferst",
+        "wor + *l* + *d* → werld"
+      ],
+      "examples": [
+        {
+          "en": "help",
+          "say": "jelp",
+          "es": "ayuda",
+          "icon": "🆘"
+        },
+        {
+          "en": "first",
+          "say": "ferst",
+          "es": "primero",
+          "icon": "🥇"
+        },
+        {
+          "en": "world",
+          "say": "werld",
+          "es": "mundo",
+          "icon": "🌍"
+        },
+        {
+          "en": "next",
+          "say": "nekst",
+          "es": "siguiente",
+          "icon": "⏭️"
+        },
+        {
+          "en": "asked",
+          "say": "æskt",
+          "es": "preguntó",
+          "icon": "❓"
+        },
+        {
+          "en": "texts",
+          "say": "teksts",
+          "es": "mensajes",
+          "icon": "📱"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · La vocal se estira",
+      "title_en": "The vowel gets longer",
+      "icon": "🐢",
+      "es": "El secreto americano: al final de la palabra la b, d, g, v, z suenan flojitas, así que lo que de verdad oyes es la <b>vocal</b>. Delante de una consonante <b>sonora</b> la vocal <b>dura más</b> 🐢; delante de una <b>sorda</b> es cortita y se corta de golpe ⚡. Si no te sale bien la d de bed, estira la e: «be‑e‑d». ¡Ya suenas americano!",
+      "en": "Before a voiced consonant (b, d, g, v, z) the vowel is longer; before a voiceless one (p, t, k, f, s) it is short. That's how Americans hear the difference.",
+      "formula": [
+        "rai + *t* → vocal corta ⚡",
+        "rai + *d* → vocal larga 🐢"
+      ],
+      "examples": [
+        {
+          "en": "right",
+          "say": "rait",
+          "es": "correcto",
+          "icon": "✅"
+        },
+        {
+          "en": "ride",
+          "say": "raid",
+          "es": "montar",
+          "icon": "🚲"
+        },
+        {
+          "en": "half",
+          "say": "jæf",
+          "es": "mitad",
+          "icon": "🌗"
+        },
+        {
+          "en": "have",
+          "say": "jæv",
+          "es": "tener",
+          "icon": "🤲"
+        },
+        {
+          "en": "plate",
+          "say": "pleit",
+          "es": "plato",
+          "icon": "🍽️"
+        },
+        {
+          "en": "played",
+          "say": "pleid",
+          "es": "jugó",
+          "icon": "🎮"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "chip",
+          "ipa": "tʃɪp",
+          "say": "chip",
+          "es": "chip / patata de bolsa",
+          "icon": "🥔",
+          "anchor": "el <b>chip</b> del móvil 📱",
+          "tip": "¡Ya lo dices con p final! Haz lo mismo con cap, cup o stop."
+        },
+        {
+          "en": "top",
+          "ipa": "tɑp",
+          "say": "tap",
+          "es": "parte de arriba",
+          "icon": "🔝",
+          "anchor": "<b>tap</b>a 🍤",
+          "tip": "Di «tapa» sin la última a. Los labios se quedan cerrados."
+        },
+        {
+          "en": "web",
+          "ipa": "wɛb",
+          "say": "web",
+          "es": "web / telaraña",
+          "icon": "🌐",
+          "anchor": "la <b>web</b> 🕸️",
+          "tip": "Acaba con los labios cerrados y la garganta vibrando: «webbb»."
+        },
+        {
+          "en": "pot",
+          "ipa": "pɑt",
+          "say": "pat",
+          "es": "olla",
+          "icon": "🍲",
+          "anchor": "<b>pat</b>o 🦆",
+          "tip": "Di «pato» sin la o. La lengua se queda arriba, en la t."
+        },
+        {
+          "en": "said",
+          "ipa": "sɛd",
+          "say": "sed",
+          "es": "dijo",
+          "icon": "💬",
+          "anchor": "<b>sed</b> 🥤",
+          "tip": "¡Ni «seid» ni «sez»! Como «sed», con una d de verdad: lengua arriba."
+        },
+        {
+          "en": "look",
+          "ipa": "lʊk",
+          "say": "luk",
+          "es": "mirar",
+          "icon": "👀",
+          "anchor": "tu <b>look</b> 😎",
+          "tip": "Ya lo dices bien: «luk», con u cortita y k clara."
+        },
+        {
+          "en": "pack",
+          "ipa": "pæk",
+          "say": "pæk",
+          "es": "paquete / pack",
+          "icon": "📦",
+          "anchor": "un <b>pack</b> de yogures 🥛",
+          "tip": "Con boca de sonrisa (æ) y la k bien clara al final."
+        },
+        {
+          "en": "blog",
+          "ipa": "blɔɡ",
+          "say": "blog",
+          "es": "blog",
+          "icon": "💻",
+          "anchor": "un <b>blog</b> 💻",
+          "tip": "No digas «blo»: acaba en g, con la garganta vibrando."
+        },
+        {
+          "en": "mug",
+          "ipa": "mʌɡ",
+          "say": "mag",
+          "es": "taza grande",
+          "icon": "☕",
+          "anchor": "<b>mag</b>o 🧙",
+          "tip": "Di «mago» sin la o. ¡Que no se te convierta en «mak»!"
+        },
+        {
+          "en": "gum",
+          "ipa": "ɡʌm",
+          "say": "gam",
+          "es": "chicle",
+          "icon": "🍬",
+          "anchor": "<b>gam</b>ba 🦐",
+          "tip": "Di «gamba» y frena en la m, con los labios pegados."
+        },
+        {
+          "en": "ham",
+          "ipa": "hæm",
+          "say": "jæm",
+          "es": "jamón",
+          "icon": "🍖",
+          "anchor": "<b>jam</b>ón 🍖",
+          "tip": "Casi: j suave (vaho) y labios cerrados al final. Ni «jan» ni «jamón»."
+        },
+        {
+          "en": "text",
+          "ipa": "tɛkst",
+          "say": "tekst",
+          "es": "mensaje / texto",
+          "icon": "📝",
+          "anchor": "<b>text</b>o 📝",
+          "tip": "Di «texto» sin la o: ¡tres consonantes seguidas, k‑s‑t!"
+        },
+        {
+          "en": "film",
+          "ipa": "fɪlm",
+          "say": "film",
+          "es": "película",
+          "icon": "🎬",
+          "anchor": "un <b>film</b>e 🎬",
+          "tip": "Di «filme» sin la e: los labios se cierran en la m."
+        },
+        {
+          "en": "Instagram",
+          "ipa": "ˈɪnstəɡræm",
+          "say": "ínstəgræm",
+          "es": "Instagram",
+          "icon": "📸",
+          "anchor": "<s>Instagran</s> → ínstəgræ<b>m</b>",
+          "tip": "Acaba con los labios cerrados: «mmm». ¡Nada de n!"
+        },
+        {
+          "en": "Madrid",
+          "ipa": "məˈdrɪd",
+          "say": "mədríd",
+          "es": "Madrid",
+          "icon": "🏙️",
+          "anchor": "<s>Madriz</s> <s>Madrí</s> → mədrí<b>d</b>",
+          "tip": "Los americanos dicen la d final clarita, y la fuerza va en DRÍD."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "bag",
+          "es": "bolsa"
+        },
+        {
+          "q": "bed",
+          "es": "cama"
+        },
+        {
+          "q": "some",
+          "es": "algo / unos"
+        },
+        {
+          "q": "first",
+          "es": "primero"
+        },
+        {
+          "q": "world",
+          "es": "mundo"
+        },
+        {
+          "q": "asked",
+          "es": "preguntó"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Una consonante, otra palabra",
+      "title_en": "One consonant, another word",
+      "icon": "🔄",
+      "head": [
+        "Final",
+        "Palabra · Word",
+        "Suena",
+        "Si la cambias o te la comes…"
+      ],
+      "rows": [
+        [
+          "p",
+          "cap · gorra 🧢",
+          "<code>kæp</code>",
+          "cab · taxi 🚕"
+        ],
+        [
+          "b",
+          "rib · costilla 🍖",
+          "<code>rib</code>",
+          "rip · rasgar ✂️"
+        ],
+        [
+          "t",
+          "bet · apuesta 🎲",
+          "<code>bet</code>",
+          "bed · cama 🛏️"
+        ],
+        [
+          "d",
+          "card · tarjeta 💳",
+          "<code>kard</code>",
+          "cart · carrito 🛒"
+        ],
+        [
+          "k",
+          "back · espalda 🔙",
+          "<code>bæk</code>",
+          "bag · bolsa 👜"
+        ],
+        [
+          "g",
+          "pig · cerdo 🐷",
+          "<code>pig</code>",
+          "pick · elegir ☝️"
+        ],
+        [
+          "m",
+          "some · algo 🍪",
+          "<code>sam</code>",
+          "son · hijo 👦"
+        ],
+        [
+          "n",
+          "teen · adolescente 🧑",
+          "<code>tiin</code>",
+          "team · equipo ⚽"
+        ],
+        [
+          "ld",
+          "world · mundo 🌍",
+          "<code>werld</code>",
+          "word · palabra 💬"
+        ],
+        [
+          "kt",
+          "asked · preguntó ❓",
+          "<code>æskt</code>",
+          "ask · preguntar (¡presente!)"
+        ]
+      ],
+      "note": "Una sola consonante cambia el significado. <b>No te la comas ni la cambies</b>: termina siempre la palabra con la boca puesta.",
+      "note_en": "One consonant changes the meaning. Don't drop it and don't change it."
+    },
+    {
+      "t": "pairs",
+      "title": "Parejas para entrenar el oído",
+      "title_en": "Pairs to train your ear",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "cap",
+            "ipa": "kæp",
+            "say": "kæp",
+            "es": "gorra",
+            "icon": "🧢"
+          },
+          "b": {
+            "en": "cab",
+            "ipa": "kæb",
+            "say": "kæb",
+            "es": "taxi",
+            "icon": "🚕"
+          },
+          "tip": "En cab la æ dura un pelín más y los labios zumban al cerrar."
+        },
+        {
+          "a": {
+            "en": "bet",
+            "ipa": "bɛt",
+            "say": "bet",
+            "es": "apuesta",
+            "icon": "🎲"
+          },
+          "b": {
+            "en": "bed",
+            "ipa": "bɛd",
+            "say": "bed",
+            "es": "cama",
+            "icon": "🛏️"
+          },
+          "tip": "Para bed, estira la e y apoya la lengua al final."
+        },
+        {
+          "a": {
+            "en": "back",
+            "ipa": "bæk",
+            "say": "bæk",
+            "es": "espalda",
+            "icon": "🔙"
+          },
+          "b": {
+            "en": "bag",
+            "ipa": "bæɡ",
+            "say": "bæg",
+            "es": "bolsa",
+            "icon": "👜"
+          },
+          "tip": "¡Que en el súper no te den una espalda en vez de una bolsa!"
+        },
+        {
+          "a": {
+            "en": "some",
+            "ipa": "sʌm",
+            "say": "sam",
+            "es": "algo / unos",
+            "icon": "🍪"
+          },
+          "b": {
+            "en": "son",
+            "ipa": "sʌn",
+            "say": "san",
+            "es": "hijo",
+            "icon": "👦"
+          },
+          "tip": "some: labios cerrados. son: lengua arriba. (Y son suena igual que sun, sol ☀️.)"
+        },
+        {
+          "a": {
+            "en": "seat",
+            "ipa": "siːt",
+            "say": "siit",
+            "es": "asiento",
+            "icon": "💺"
+          },
+          "b": {
+            "en": "seed",
+            "ipa": "siːd",
+            "say": "siid",
+            "es": "semilla",
+            "icon": "🌱"
+          },
+          "tip": "Las dos llevan ii larga, pero en seed dura todavía más."
+        },
+        {
+          "a": {
+            "en": "white",
+            "ipa": "waɪt",
+            "say": "wait",
+            "es": "blanco",
+            "icon": "⚪"
+          },
+          "b": {
+            "en": "wide",
+            "ipa": "waɪd",
+            "say": "waid",
+            "es": "ancho",
+            "icon": "↔️"
+          },
+          "tip": "white se corta en seco ⚡; wide se estira 🐢."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "My big bag is black.",
+          "say": "mai big bǽguis blæk",
+          "es": "Mi bolsa grande es negra.",
+          "icon": "👜"
+        },
+        {
+          "en": "Some kids like milk.",
+          "say": "sam kids laik milk",
+          "es": "A algunos niños les gusta la leche.",
+          "icon": "🥛"
+        },
+        {
+          "en": "Good job, team!",
+          "say": "gud yab, tiim!",
+          "es": "¡Buen trabajo, equipo!",
+          "icon": "👏"
+        },
+        {
+          "en": "The cat is on the bed.",
+          "say": "də kǽris an də bed",
+          "es": "El gato está en la cama.",
+          "icon": "🐱"
+        },
+        {
+          "en": "I'm from Madrid.",
+          "say": "aim fram mədríd",
+          "es": "Soy de Madrid.",
+          "icon": "🏙️"
+        },
+        {
+          "en": "Pick a card!",
+          "say": "píkə kard!",
+          "es": "¡Elige una carta!",
+          "icon": "🃏"
+        },
+        {
+          "en": "Help! My dog is sad.",
+          "say": "jelp! mai dóguis sæd",
+          "es": "¡Socorro! Mi perro está triste.",
+          "icon": "🐶"
+        },
+        {
+          "en": "This is my first text.",
+          "say": "dísis mai ferst tekst",
+          "es": "Este es mi primer mensaje.",
+          "icon": "📱"
+        },
+        {
+          "en": "She asked a question.",
+          "say": "shi ǽsktə kwéschən",
+          "es": "Hizo una pregunta.",
+          "icon": "❓"
+        },
+        {
+          "en": "The world is big.",
+          "say": "də wérldis big",
+          "es": "El mundo es grande.",
+          "icon": "🌍"
+        },
+        {
+          "en": "Come back, Rocky!",
+          "say": "kam bæk, ráki!",
+          "es": "¡Vuelve, Rocky!",
+          "icon": "🐕"
+        },
+        {
+          "en": "I have half a cup.",
+          "say": "ai jæv jǽfə kap",
+          "es": "Tengo media taza.",
+          "icon": "☕"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "bed → <code>bet</code> (d sorda)",
+          "good": "<code>bed</code>",
+          "why": "Con t, bed (cama) se convierte en bet (apuesta). Estira la e y apoya la lengua.",
+          "why_en": "With a T, bed becomes bet."
+        },
+        {
+          "bad": "big → <code>bi</code>",
+          "good": "<code>big</code>",
+          "why": "¡No te comas la g! La parte de atrás de la lengua toca el paladar.",
+          "why_en": "Don't drop the final G."
+        },
+        {
+          "bad": "some → <code>san</code>",
+          "good": "<code>sam</code>",
+          "why": "Con n dices son (hijo). Cierra los labios: «mmm».",
+          "why_en": "Close your lips for M."
+        },
+        {
+          "bad": "world → <code>werl</code>",
+          "good": "<code>werld</code>",
+          "why": "La d final también cuenta: world tiene l + d al final.",
+          "why_en": "Say both final consonants: l + d."
+        },
+        {
+          "bad": "first → <code>fers</code>",
+          "good": "<code>ferst</code>",
+          "why": "Grupo final s + t: la t se oye, aunque sea suave.",
+          "why_en": "Say the final T too."
+        },
+        {
+          "bad": "help → <code>jel</code>",
+          "good": "<code>jelp</code>",
+          "why": "Cierra los labios al final para la p.",
+          "why_en": "Close your lips for the P."
+        },
+        {
+          "bad": "cab → <code>kǽbe</code>",
+          "good": "<code>kæb</code>",
+          "why": "No añadas una e: cierra los labios y ya está.",
+          "why_en": "Don't add an extra vowel."
+        },
+        {
+          "bad": "I'm → <code>ain</code>",
+          "good": "<code>aim</code>",
+          "why": "I'm acaba en m: labios cerrados.",
+          "why_en": "I'm ends in M."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el súper",
+      "title_en": "At the supermarket",
+      "lines": [
+        {
+          "who": "Ashley",
+          "en": "Hey Mario! What's in your bag?",
+          "say": "jei mário! wats in ior bæg?",
+          "es": "¡Hola, Mario! ¿Qué llevas en la bolsa?"
+        },
+        {
+          "who": "Mario",
+          "en": "Some milk, some ham and a big cake.",
+          "say": "sam milk, sam jæm ənd ə big kéik",
+          "es": "Leche, jamón y una tarta grande."
+        },
+        {
+          "who": "Ashley",
+          "en": "A cake? Is it your mom's birthday?",
+          "say": "ə kéik? ísit ior mams bérzdei?",
+          "es": "¿Una tarta? ¿Es el cumpleaños de tu madre?"
+        },
+        {
+          "who": "Mario",
+          "en": "No, it's for my team. We won the cup!",
+          "say": "nou, its fər mai tiim. wi wan də kap!",
+          "es": "No, es para mi equipo. ¡Hemos ganado la copa!"
+        },
+        {
+          "who": "Ashley",
+          "en": "Good job! What's the prize?",
+          "say": "gud yab! wats də práis?",
+          "es": "¡Bien hecho! ¿Cuál es el premio?"
+        },
+        {
+          "who": "Mario",
+          "en": "A red cap and a big gold cup.",
+          "say": "ə red kæp ənd ə big gould kap",
+          "es": "Una gorra roja y una copa de oro grande."
+        },
+        {
+          "who": "Ashley",
+          "en": "Cool! Can I come and help?",
+          "say": "kuul! kən ai kam ən jelp?",
+          "es": "¡Genial! ¿Puedo ir a ayudar?"
+        },
+        {
+          "who": "Mario",
+          "en": "Sure! The party starts at six.",
+          "say": "shur! də párdi stártsət siks",
+          "es": "¡Claro! La fiesta empieza a las seis."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Exagera al principio: di la palabra y <b>quédate</b> en la última consonante: «big… g», «cap… p», «some… mmm».",
+          "en": "Exaggerate: hold the last consonant."
+        },
+        {
+          "es": "Mano en el cuello: con b, d, g notarás un zumbido; con p, t, k, nada.",
+          "en": "Hand on your throat: feel the buzz in b, d, g."
+        },
+        {
+          "es": "Juega con parejas: cap/cab, bet/bed, back/bag. Estira la vocal en la segunda 🐢.",
+          "en": "Practice pairs and stretch the vowel before b, d, g."
+        },
+        {
+          "es": "Con grupos (first, world, help), di cada consonante despacio y luego acelera.",
+          "en": "Say clusters slowly, then faster."
+        },
+        {
+          "es": "Escanea los QR, escucha 3 vídeos y <b>grábate</b>. ¿Se oye el final de cada palabra?",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "A cat in a cap took a cab to the lab.",
+          "say": "ə kǽrinə kæp túkə kæb tə də læb",
+          "es": "Un gato con gorra cogió un taxi al laboratorio."
+        },
+        {
+          "en": "Big pig, big bag, big pink bed.",
+          "say": "big pig, big bæg, big pink bed",
+          "es": "Cerdo grande, bolsa grande, gran cama rosa."
+        },
+        {
+          "en": "Some team teens come home from the gym.",
+          "say": "sam tiim tiins kam joum fram də yim",
+          "es": "Unos chicos del equipo vuelven a casa del gimnasio."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del freno",
+      "title_en": "The brake trick",
+      "es": "Imagina que cada palabra inglesa acaba con un <b>freno</b> 🚲: la boca se queda puesta en la última consonante (labios cerrados, lengua arriba o lengua atrás). Si al terminar tienes la boca abierta como para decir una vocal… ¡te has comido el final! 😋",
+      "en": "Imagine every English word ends with a brake: your mouth stays in the position of the last consonant."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Qué palabra es?",
+      "title_en": "Which word is it?",
+      "icon": "🔍",
+      "es": "Mira el dibujo y rodea la palabra correcta. Después, dila con la consonante final bien clara.",
+      "en": "Look at the picture and circle the right word.",
+      "items": [
+        {
+          "q": "🧢 gorra → [cap|cab]",
+          "a": "cap"
+        },
+        {
+          "q": "🚕 taxi → [cap|cab]",
+          "a": "cab"
+        },
+        {
+          "q": "🛏️ cama → [bet|bed]",
+          "a": "bed"
+        },
+        {
+          "q": "🎲 apuesta → [bet|bed]",
+          "a": "bet"
+        },
+        {
+          "q": "👜 bolsa → [back|bag]",
+          "a": "bag"
+        },
+        {
+          "q": "🔙 espalda → [back|bag]",
+          "a": "back"
+        },
+        {
+          "q": "🐷 cerdo → [pick|pig]",
+          "a": "pig"
+        },
+        {
+          "q": "👦 hijo → [some|son]",
+          "a": "son"
+        },
+        {
+          "q": "⚽ equipo → [team|teen]",
+          "a": "team"
+        },
+        {
+          "q": "🌍 mundo → [word|world]",
+          "a": "world"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Dónde termina tu boca?",
+      "title_en": "Where does your mouth end?",
+      "icon": "🗂️",
+      "es": "Di cada palabra y fíjate en cómo acaba tu boca. Escríbela en su columna.",
+      "en": "Say each word and sort it by how your mouth finishes.",
+      "cats": [
+        {
+          "name": "👄 Labios (p, b, m)",
+          "words": [
+            "cap",
+            "cup",
+            "job",
+            "club",
+            "some",
+            "team",
+            "from",
+            "help"
+          ]
+        },
+        {
+          "name": "👅 Punta de la lengua (t, d, n)",
+          "words": [
+            "bet",
+            "bed",
+            "hat",
+            "sad",
+            "son",
+            "teen",
+            "white",
+            "world"
+          ]
+        },
+        {
+          "name": "🔙 Atrás (k, g)",
+          "words": [
+            "back",
+            "bag",
+            "dog",
+            "pig",
+            "look",
+            "milk",
+            "duck",
+            "pick"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su significado",
+      "title_en": "Match word and meaning",
+      "icon": "🔗",
+      "es": "Une cada palabra inglesa con su traducción. ¡Fíjate en la última letra!",
+      "en": "Match each word with its meaning.",
+      "pairs": [
+        [
+          "cap",
+          "gorra 🧢"
+        ],
+        [
+          "cab",
+          "taxi 🚕"
+        ],
+        [
+          "bet",
+          "apuesta 🎲"
+        ],
+        [
+          "bed",
+          "cama 🛏️"
+        ],
+        [
+          "back",
+          "espalda 🔙"
+        ],
+        [
+          "bag",
+          "bolsa 👜"
+        ],
+        [
+          "some",
+          "algo / unos 🍪"
+        ],
+        [
+          "son",
+          "hijo 👦"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa el final",
+      "title_en": "Complete the ending",
+      "icon": "✍️",
+      "es": "Escribe la consonante (o consonantes) final que falta. Después di la palabra entera, sin comerte nada.",
+      "en": "Write the missing final consonant(s), then say the word.",
+      "items": [
+        {
+          "q": "🐶 perro → do___",
+          "a": "g (dog)"
+        },
+        {
+          "q": "🎩 sombrero → ha___",
+          "a": "t (hat)"
+        },
+        {
+          "q": "😢 triste → sa___",
+          "a": "d (sad)"
+        },
+        {
+          "q": "☕ taza → cu___",
+          "a": "p (cup)"
+        },
+        {
+          "q": "⚽ equipo → tea___",
+          "a": "m (team)"
+        },
+        {
+          "q": "👦 hijo → so___",
+          "a": "n (son)"
+        },
+        {
+          "q": "🔙 espalda → ba___",
+          "a": "ck (back)"
+        },
+        {
+          "q": "🌍 mundo → wor___",
+          "a": "ld (world)"
+        },
+        {
+          "q": "🆘 ayuda → hel___",
+          "a": "p (help)"
+        },
+        {
+          "q": "🥇 primero → fir___",
+          "a": "st (first)"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "¿Estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "Do they sound the same or different?",
+      "items": [
+        {
+          "q": "cap · cab → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "son · sun → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "bet · bed → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "some · sum → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "seat · seed → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "team · teen → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "right · write → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "world · word → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "back · bag → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "rap · wrap → [igual|diferente]",
+          "a": "igual"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Vocal corta o larga?",
+      "title_en": "Short or long vowel?",
+      "icon": "🐢",
+      "es": "Antes de b, d, g la vocal se estira 🐢; antes de p, t, k se corta ⚡. Rodea cómo es la vocal.",
+      "en": "Circle: is the vowel short or long?",
+      "items": [
+        {
+          "q": "bet → [corta|larga]",
+          "a": "corta"
+        },
+        {
+          "q": "bed → [corta|larga]",
+          "a": "larga"
+        },
+        {
+          "q": "cap → [corta|larga]",
+          "a": "corta"
+        },
+        {
+          "q": "cab → [corta|larga]",
+          "a": "larga"
+        },
+        {
+          "q": "seat → [corta|larga]",
+          "a": "corta"
+        },
+        {
+          "q": "seed → [corta|larga]",
+          "a": "larga"
+        },
+        {
+          "q": "back → [corta|larga]",
+          "a": "corta"
+        },
+        {
+          "q": "bag → [corta|larga]",
+          "a": "larga"
+        },
+        {
+          "q": "right → [corta|larga]",
+          "a": "corta"
+        },
+        {
+          "q": "ride → [corta|larga]",
+          "a": "larga"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "Most Spanish words end in a vowel or in n, s, l, r, d, z.",
+          "a": true
+        },
+        {
+          "q": "«Bet» and «bed» mean the same thing.",
+          "a": false,
+          "why": "bet = apuesta, bed = cama"
+        },
+        {
+          "q": "To say a final M, you close your lips.",
+          "a": true
+        },
+        {
+          "q": "«Some» and «son» sound the same.",
+          "a": false,
+          "why": "some acaba en m: labios cerrados"
+        },
+        {
+          "q": "The vowel in «bed» is longer than the vowel in «bet».",
+          "a": true
+        },
+        {
+          "q": "In «world», you can drop the D.",
+          "a": false,
+          "why": "sin d suena casi a word, palabra"
+        },
+        {
+          "q": "«Asked» ends in three consonant sounds: s, k, t.",
+          "a": true
+        },
+        {
+          "q": "Americans add an «e» at the end: «bigue».",
+          "a": false,
+          "why": "eso lo hacemos nosotros; ellos cierran la boca"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «Final» escribe la consonante o consonantes con las que acaba.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "Final"
+      ],
+      "rows": [
+        [
+          "cap",
+          "gorra",
+          "?kæp",
+          "?p"
+        ],
+        [
+          "?bed",
+          "cama",
+          "bed",
+          "d"
+        ],
+        [
+          "bag",
+          "?bolsa",
+          "?bæg",
+          "g"
+        ],
+        [
+          "some",
+          "?algo / unos",
+          "sam",
+          "?m"
+        ],
+        [
+          "?world",
+          "mundo",
+          "werld",
+          "?ld"
+        ],
+        [
+          "first",
+          "?primero",
+          "?ferst",
+          "st"
+        ],
+        [
+          "?back",
+          "espalda",
+          "bæk",
+          "?k"
+        ],
+        [
+          "help",
+          "ayuda",
+          "?jelp",
+          "?lp"
+        ]
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo en el final. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake at the end. Fix it.",
+      "items": [
+        {
+          "q": "big → <code>bi</code>",
+          "a": "big"
+        },
+        {
+          "q": "bed → <code>bet</code>",
+          "a": "bed (vocal larga + d)"
+        },
+        {
+          "q": "some → <code>san</code>",
+          "a": "sam"
+        },
+        {
+          "q": "world → <code>werl</code>",
+          "a": "werld"
+        },
+        {
+          "q": "help → <code>jel</code>",
+          "a": "jelp"
+        },
+        {
+          "q": "Instagram → <code>ínstəgran</code>",
+          "a": "ínstəgræm"
+        },
+        {
+          "q": "first → <code>fers</code>",
+          "a": "ferst"
+        },
+        {
+          "q": "Madrid → <code>mədrí</code>",
+          "a": "mədríd"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Cambia el final",
+      "title_en": "Change the ending",
+      "icon": "🔄",
+      "es": "Cambia solo la última consonante para formar la palabra que se pide. Escríbela y dila.",
+      "en": "Change only the last consonant to make the new word.",
+      "items": [
+        {
+          "q": "cap 🧢 gorra → 🚕 taxi",
+          "a": "cab"
+        },
+        {
+          "q": "bed 🛏️ cama → 🎲 apuesta",
+          "a": "bet"
+        },
+        {
+          "q": "back 🔙 espalda → 👜 bolsa",
+          "a": "bag"
+        },
+        {
+          "q": "son 👦 hijo → 🍪 algo / unos",
+          "a": "some"
+        },
+        {
+          "q": "seed 🌱 semilla → 💺 asiento",
+          "a": "seat"
+        },
+        {
+          "q": "had 🫴 tenía → 🎩 sombrero",
+          "a": "hat"
+        },
+        {
+          "q": "pig 🐷 cerdo → ☝️ elegir",
+          "a": "pick"
+        },
+        {
+          "q": "teen 🧑 adolescente → ⚽ equipo",
+          "a": "team"
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Escribe la palabra",
+      "title_en": "Spell the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en inglés. ¡No te olvides de la última!",
+      "en": "Unscramble and spell the word.",
+      "items": [
+        {
+          "q": "🛏️ cama",
+          "a": "bed"
+        },
+        {
+          "q": "👜 bolsa",
+          "a": "bag"
+        },
+        {
+          "q": "🐷 cerdo",
+          "a": "pig"
+        },
+        {
+          "q": "☕ taza",
+          "a": "cup"
+        },
+        {
+          "q": "🌍 mundo",
+          "a": "world"
+        },
+        {
+          "q": "🥇 primero",
+          "a": "first"
+        },
+        {
+          "q": "🆘 ayuda",
+          "a": "help"
+        },
+        {
+          "q": "🍬 chicle",
+          "a": "gum"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez. ¡Que se oigan los finales!",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "A big bag.",
+          "say": "ə big bæg"
+        },
+        {
+          "q": "Some milk, please.",
+          "say": "sam milk, pliis"
+        },
+        {
+          "q": "Good job!",
+          "say": "gud yab!"
+        },
+        {
+          "q": "I'm in bed.",
+          "say": "aim in bed"
+        },
+        {
+          "q": "Help me!",
+          "say": "jelp mi!"
+        },
+        {
+          "q": "Come back!",
+          "say": "kam bæk!"
+        },
+        {
+          "q": "The first word in the world.",
+          "say": "də ferst werd in də werld"
+        },
+        {
+          "q": "My red cap is in the cab.",
+          "say": "mai red kæp isin də kæb"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta cerrando bien el final.",
+      "en": "Translate into English and say it with a clear final consonant.",
+      "items": [
+        {
+          "q": "gorra",
+          "a": "cap (kæp)"
+        },
+        {
+          "q": "taxi",
+          "a": "cab (kæb)"
+        },
+        {
+          "q": "cama",
+          "a": "bed (bed)"
+        },
+        {
+          "q": "bolsa",
+          "a": "bag (bæg)"
+        },
+        {
+          "q": "espalda",
+          "a": "back (bæk)"
+        },
+        {
+          "q": "algo / unos",
+          "a": "some (sam)"
+        },
+        {
+          "q": "hijo",
+          "a": "son (san)"
+        },
+        {
+          "q": "mundo",
+          "a": "world (werld)"
+        },
+        {
+          "q": "primero",
+          "a": "first (ferst)"
+        },
+        {
+          "q": "ayuda",
+          "a": "help (jelp)"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de finales",
+      "title_en": "Final consonant word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Cada vez que encuentres una, dila en voz alta con su consonante final.",
+      "en": "Find 10 words and say each one with its final consonant.",
+      "words": [
+        "cap",
+        "cab",
+        "bed",
+        "bag",
+        "back",
+        "gum",
+        "world",
+        "first",
+        "help",
+        "team"
+      ],
+      "clues": [
+        "cap · gorra",
+        "cab · taxi",
+        "bed · cama",
+        "bag · bolsa",
+        "back · espalda",
+        "gum · chicle",
+        "world · mundo",
+        "first · primero",
+        "help · ayuda",
+        "team · equipo"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y escucha los finales",
+      "title_en": "Read and hear the endings",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Mario's Big Bag",
+      "text": [
+        "Mario has a big black bag. In the bag, he has a cap, a cup, a map and some gum.",
+        "At the park, his dog Rocky grabs the bag and runs. “Stop, Rocky! Come back!” Mario yells. Rocky drops the bag next to a red bench. Good dog!"
+      ],
+      "items": [
+        {
+          "q": "What's in the bag? Write two things.",
+          "a": "a cap, a cup, a map, some gum (cualquiera)"
+        },
+        {
+          "q": "How does «bag» end: with /ɡ/ or with /k/?",
+          "a": "Con /ɡ/: <code>bæg</code> (con /k/ sería back, espalda)."
+        },
+        {
+          "q": "Find two words in the text that end in M.",
+          "a": "some, gum, come"
+        },
+        {
+          "q": "Rocky drops the bag next to a red bench.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "«Back» and «bag» sound the same.",
+          "tf": true,
+          "a": false,
+          "why": "back acaba en /k/; bag, en /ɡ/ y con vocal más larga"
+        },
+        {
+          "q": "In «Come back!», your lips close at the end of «come».",
+          "tf": true,
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas. Léelas en voz alta, grábate y comprueba que se oyen los finales.",
+      "en": "Write three sentences, read them aloud and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con dos palabras que acaben en g (big, bag, dog, pig…).",
+          "lines": 2,
+          "a": "Ej.: My dog has a big bag."
+        },
+        {
+          "q": "Una frase con some, team o from (¡labios cerrados!).",
+          "lines": 2,
+          "a": "Ej.: Some kids from my team are here."
+        },
+        {
+          "q": "Una frase con un grupo final: first, world, help, next…",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Cierro la boca al final: <b>cap</b>, <b>bed</b> y <b>big</b> se oyen enteras.",
+      "en": "I can say final consonants clearly."
+    },
+    {
+      "es": "Distingo <b>bet</b> y <b>bed</b>, <b>back</b> y <b>bag</b>, <b>cap</b> y <b>cab</b>.",
+      "en": "I can tell bet from bed and back from bag."
+    },
+    {
+      "es": "Digo la <b>m</b> final con los labios cerrados: <code>sam</code>, <code>aim</code>.",
+      "en": "I close my lips for a final M."
+    },
+    {
+      "es": "Estiro la vocal antes de b, d, g: bed 🐢, bet ⚡.",
+      "en": "I make the vowel longer before b, d, g."
+    },
+    {
+      "es": "Digo grupos finales enteros: <code>ferst</code>, <code>werld</code>, <code>jelp</code>.",
+      "en": "I can say final clusters."
+    },
+    {
+      "es": "No añado una «e» al final de las palabras.",
+      "en": "I don't add an extra vowel at the end."
+    }
+  ]
+}

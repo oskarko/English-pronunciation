@@ -1,0 +1,1694 @@
+{
+  "id": "H-09",
+  "block": "H",
+  "title": "FRASES DEL DÍA A DÍA",
+  "file_title": "Frases del día a día",
+  "subtitle": "Everyday phrases · What's up? = «watsáp»",
+  "icon": "☕",
+  "map": {
+    "center": "Las frases de cada día se dicen <b>de un tirón</b>, como si fueran una sola palabra: What's up? = <code>watsáp</code>.",
+    "listen": "how you doing",
+    "nodes": [
+      {
+        "title": "Saludar",
+        "icon": "👋",
+        "color": "green",
+        "rows": [
+          [
+            "What's up?",
+            "<code>watsáp</code>"
+          ],
+          [
+            "How you doin'?",
+            "<code>jáu iə dúuin</code>"
+          ],
+          [
+            "Nice to meet you",
+            "<code>náis tə míichu</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Responder",
+        "icon": "😊",
+        "color": "blue",
+        "rows": [
+          [
+            "I'm good!",
+            "<code>aim gúd</code>"
+          ],
+          [
+            "Not much.",
+            "<code>ná' mách</code>"
+          ],
+          [
+            "Sounds good!",
+            "<code>sáuns gúd</code>"
+          ]
+        ]
+      },
+      {
+        "title": "En la tienda",
+        "icon": "🛒",
+        "color": "purple",
+        "rows": [
+          [
+            "Can I get…?",
+            "<code>kən ai guét</code>"
+          ],
+          [
+            "Here you go.",
+            "<code>jír iə góu</code>"
+          ],
+          [
+            "Thank you so much!",
+            "<code>zǽnkiu sou mách</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Perdona…",
+        "icon": "🙋",
+        "color": "orange",
+        "rows": [
+          [
+            "Excuse me.",
+            "<code>ikskiúus mi</code>"
+          ],
+          [
+            "What do you mean?",
+            "<code>wárəiə míin</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Despedirse",
+        "icon": "🚪",
+        "color": "pink",
+        "rows": [
+          [
+            "See you later!",
+            "<code>síiə léirer</code>"
+          ],
+          [
+            "Have a good one!",
+            "<code>jǽvə gúd wan</code>"
+          ],
+          [
+            "Talk to you later!",
+            "<code>tók tə iə léirer</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Apréndelas como un <b>bloque</b>, con la fuerza en la última palabra importante: <code>lets góu</code>, <code>jǽvə gúd wan</code>.",
+        "art": "🧩"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "<code>sánkiu</code> / <code>tánkiu</code>"
+      ],
+      "good": [
+        "<code>zǽnkiu</code> 🙏"
+      ],
+      "note": "La TH de thank you es la z de «zapato» (C-04)"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "👋 What's up? → ____",
+          "a": "watsáp"
+        },
+        {
+          "q": "😊 I'm good. → ____",
+          "a": "aim gúd"
+        },
+        {
+          "q": "🙏 Thank you so much! → ____",
+          "a": "zǽnkiu sou mách"
+        },
+        {
+          "q": "🫴 Here you go. → ____",
+          "a": "jír iə góu"
+        },
+        {
+          "q": "⏰ See you later! → ____",
+          "a": "síiə léirer"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Por qué suenan tan distintas?",
+      "title_en": "Why do they sound so different?",
+      "icon": "☕",
+      "es": "Las frases que se dicen cien veces al día se gastan como un caramelo: se pegan, se encogen y salen <b>de un tirón</b>. Por eso What's up? suena <code>watsáp</code> (¡como la app!) y How are you doing? se queda en <code>jáu iə dúuin</code>. Aquí tienes las frases más útiles <mark>tal como suenan de verdad</mark>: para saludar, responder, pedir, dar las gracias y despedirte. Apréndelas enteras, como si fueran una sola palabra.",
+      "en": "Everyday phrases are said so often that they get glued together and shortened. Learn each one as a single block, the way it really sounds.",
+      "formula": [
+        "What's + up → *watsáp*",
+        "How are you doing → *jáu iə dúuin*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así suenas simpático",
+      "title_en": "Sound friendly",
+      "items": [
+        {
+          "part": "voice",
+          "es": "Que la voz <b>suba y baje</b>. Con un tono plano, ¡hasta Thank you suena enfadado! La música del inglés la ves en R-05.",
+          "en": "Let your voice go up and down. A flat tone sounds unfriendly."
+        },
+        {
+          "part": "jaw",
+          "es": "Mandíbula suelta y <b>nada de pausas</b>: la frase sale de un tirón, como cuando dices «¿quétalestás?».",
+          "en": "Relax your jaw and don't stop between words."
+        },
+        {
+          "part": "lips",
+          "es": "Sonríe un poco: la a de thanks y have (/æ/) sale mejor con la boca estirada… ¡y además pareces simpático!",
+          "en": "Smile a little: the /æ/ in thanks and have comes out better."
+        },
+        {
+          "part": "ear",
+          "es": "En cada frase, solo la <b>palabra fuerte</b> suena clara; las demás van casi susurradas: have a <b>GOOD</b> one.",
+          "en": "Only the key word is clear; the rest is almost whispered."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Saludar",
+      "title_en": "Saying hello",
+      "icon": "👋",
+      "es": "Para saludar, los americanos casi nunca dicen «How do you do?» (suena a película antigua). Lo normal es esto, todo de un tirón. Ojo: What's up? y How's it going? <b>no esperan una respuesta larga</b>.",
+      "en": "Americans greet each other like this. What's up? and How's it going? don't need a long answer.",
+      "examples": [
+        {
+          "en": "What's up?",
+          "say": "watsáp?",
+          "es": "¿Qué tal? / ¿Qué pasa?",
+          "icon": "👋"
+        },
+        {
+          "en": "How are you doing?",
+          "say": "jáuər iə dúuing?",
+          "es": "¿Qué tal estás?",
+          "icon": "🙂"
+        },
+        {
+          "en": "How you doin'?",
+          "say": "jáu iə dúuin?",
+          "es": "¿Qué tal? (muy informal)",
+          "icon": "😎"
+        },
+        {
+          "en": "How's it going?",
+          "say": "jáusit góuing?",
+          "es": "¿Cómo va?",
+          "icon": "🚶"
+        },
+        {
+          "en": "Nice to meet you.",
+          "say": "náis tə míichu",
+          "es": "Encantado de conocerte.",
+          "icon": "🤝"
+        },
+        {
+          "en": "Good morning!",
+          "say": "gud mórning!",
+          "es": "¡Buenos días!",
+          "icon": "🌞"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Responder",
+      "title_en": "Answering",
+      "icon": "😊",
+      "es": "A «How are you?» casi nadie responde «I'm fine, thank you, and you?» como en los libros. Lo normal es <b>I'm good!</b> o <b>Pretty good</b>. Y a «What's up?» se contesta <b>Not much</b> (nada especial).",
+      "en": "The usual answers are I'm good, Pretty good and Not much.",
+      "examples": [
+        {
+          "en": "I'm good!",
+          "say": "aim gúd!",
+          "es": "¡Bien!",
+          "icon": "😊"
+        },
+        {
+          "en": "Pretty good.",
+          "say": "príri gúd",
+          "es": "Bastante bien.",
+          "icon": "👌"
+        },
+        {
+          "en": "Not much.",
+          "say": "ná' mách",
+          "es": "Nada especial.",
+          "icon": "🤷"
+        },
+        {
+          "en": "Not bad.",
+          "say": "ná' bǽd",
+          "es": "No está mal.",
+          "icon": "🙂"
+        },
+        {
+          "en": "Sounds good!",
+          "say": "sáuns gúd!",
+          "es": "¡Me parece bien!",
+          "icon": "👍"
+        },
+        {
+          "en": "No worries!",
+          "say": "nóu wéris!",
+          "es": "¡No pasa nada!",
+          "icon": "😌"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Pedir y dar las gracias",
+      "title_en": "Asking and thanking",
+      "icon": "🛒",
+      "es": "En tiendas y restaurantes, lo más natural es <b>Can I get…?</b>, con el can flojito (mapa H-08). Cuando te dan algo, oirás <b>Here you go</b>. Y las gracias, siempre con la TH de «zapato».",
+      "en": "In shops, say Can I get…? You'll hear Here you go when they hand you something.",
+      "examples": [
+        {
+          "en": "Can I get a coffee?",
+          "say": "kən ai guérə káfi?",
+          "es": "¿Me pone un café?",
+          "icon": "☕"
+        },
+        {
+          "en": "Can I get the check?",
+          "say": "kən ai guét də chék?",
+          "es": "¿Me trae la cuenta?",
+          "icon": "🧾"
+        },
+        {
+          "en": "Here you go.",
+          "say": "jír iə góu",
+          "es": "Aquí tiene(s).",
+          "icon": "🫴"
+        },
+        {
+          "en": "For here or to go?",
+          "say": "fər jír ər tə góu?",
+          "es": "¿Para tomar aquí o para llevar?",
+          "icon": "🥤"
+        },
+        {
+          "en": "Excuse me.",
+          "say": "ikskiúus mi",
+          "es": "Perdone. / Disculpe.",
+          "icon": "🙋"
+        },
+        {
+          "en": "Thank you so much!",
+          "say": "zǽnkiu sou mách!",
+          "es": "¡Muchísimas gracias!",
+          "icon": "🙏"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Despedirse",
+      "title_en": "Saying goodbye",
+      "icon": "🚪",
+      "es": "Para irte, lo más americano es <b>Have a good one!</b> (vale para el día, la tarde o el finde). Y en vez de «Goodbye», que suena muy serio, di <b>See you later</b> o <b>See ya</b>.",
+      "en": "Have a good one is the most American goodbye. See you later and See ya are friendly and common.",
+      "examples": [
+        {
+          "en": "See you later!",
+          "say": "síiə léirer!",
+          "es": "¡Hasta luego!",
+          "icon": "👋"
+        },
+        {
+          "en": "See ya!",
+          "say": "síiə!",
+          "es": "¡Chao!",
+          "icon": "✌️"
+        },
+        {
+          "en": "Talk to you later!",
+          "say": "tók tə iə léirer!",
+          "es": "¡Hablamos!",
+          "icon": "📱"
+        },
+        {
+          "en": "Have a good one!",
+          "say": "jǽvə gúd wan!",
+          "es": "¡Que vaya bien!",
+          "icon": "🌈"
+        },
+        {
+          "en": "Have a nice day!",
+          "say": "jǽvə náis déi!",
+          "es": "¡Que tengas un buen día!",
+          "icon": "🌞"
+        },
+        {
+          "en": "Take care!",
+          "say": "téik kér!",
+          "es": "¡Cuídate!",
+          "icon": "💛"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Entender y reaccionar",
+      "title_en": "Understanding and reacting",
+      "icon": "💡",
+      "es": "Si no entiendes algo, di <b>Excuse me?</b> subiendo la voz al final (R-05) o <b>What do you mean?</b>. Y para ponerte en marcha: <b>Let's go!</b>",
+      "en": "If you don't understand, say Excuse me? with a rising tone, or What do you mean?",
+      "examples": [
+        {
+          "en": "What do you mean?",
+          "say": "wárəiə míin?",
+          "es": "¿Qué quieres decir?",
+          "icon": "🤔"
+        },
+        {
+          "en": "What's going on?",
+          "say": "wats góuing án?",
+          "es": "¿Qué pasa aquí?",
+          "icon": "👀"
+        },
+        {
+          "en": "Excuse me?",
+          "say": "ikskiúus mi?",
+          "es": "¿Perdón? (no te he oído)",
+          "icon": "👂"
+        },
+        {
+          "en": "Let's go!",
+          "say": "lets góu!",
+          "es": "¡Vamos!",
+          "icon": "🏃"
+        },
+        {
+          "en": "Got it!",
+          "say": "gárit!",
+          "es": "¡Entendido!",
+          "icon": "💡"
+        },
+        {
+          "en": "My bad!",
+          "say": "mai bǽd!",
+          "es": "¡Culpa mía!",
+          "icon": "🙈"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "What's up?",
+          "ipa": "wʌts ˈʌp",
+          "say": "watsáp",
+          "es": "¿qué tal?",
+          "icon": "📱",
+          "anchor": "<b>WhatsApp</b> 📱",
+          "tip": "Igualito que la app (en España, «guasap»). Y no espera una respuesta larga: Not much!"
+        },
+        {
+          "en": "See ya",
+          "ipa": "ˈsiː jə",
+          "say": "síiə",
+          "es": "¡chao!",
+          "icon": "🎤",
+          "anchor": "<b>Sia</b> 🎤 (la cantante)",
+          "tip": "Como la cantante, alargando la i: SÍI-ə. See ya!"
+        },
+        {
+          "en": "later",
+          "ipa": "ˈleɪɾɚ",
+          "say": "léirer",
+          "es": "luego",
+          "icon": "⏰",
+          "anchor": "<b>Leire</b> + r",
+          "tip": "El nombre Leire + una r americana. La T suena r (C-02): See you later = <code>síiə léirer</code>."
+        },
+        {
+          "en": "have a",
+          "ipa": "ˈhævə",
+          "say": "jǽvə",
+          "es": "que tengas…",
+          "icon": "🏝️",
+          "anchor": "<b>Java</b> 🏝️ (la isla)",
+          "tip": "Con la j suave, como vaho, y V de verdad (C-07): JǼ-və. Have a good one!"
+        },
+        {
+          "en": "thank you",
+          "ipa": "ˈθæŋk ju",
+          "say": "zǽnkiu",
+          "es": "gracias",
+          "icon": "🎪",
+          "anchor": "<b>zanc</b>os 🎪 + iu",
+          "tip": "La TH es la z de «zancos» (C-04). ¡Nada de «sankiu» ni «tankiu»!"
+        },
+        {
+          "en": "Excuse me",
+          "ipa": "ɪkˈskjuːz mi",
+          "say": "ikskiúus mi",
+          "es": "perdone",
+          "icon": "🙋",
+          "anchor": "<b>excus</b>a (con «i»)",
+          "tip": "Di «excusa» metiendo una i: iks-KIÚUS-mi. Y no te comas la k: nada de «escús»."
+        },
+        {
+          "en": "Can I get",
+          "ipa": "kən aɪ ˈɡɛt",
+          "say": "kən ai guét",
+          "es": "¿me pone…?",
+          "icon": "🐻",
+          "anchor": "<b>Kenai</b> 🐻 + guet",
+          "tip": "Como en H-08, can flojito. Can I get a coffee? = <code>kən ai guérə káfi?</code>"
+        },
+        {
+          "en": "Sounds good",
+          "ipa": "ˈsaʊnz ˈɡʊd",
+          "say": "sáuns gúd",
+          "es": "me parece bien",
+          "icon": "🧖",
+          "anchor": "<b>saun</b>a 🧖 + s",
+          "tip": "Di «sauna» sin la a final y añade s: SÁUNS. La D se la comen (H-07)."
+        },
+        {
+          "en": "talk",
+          "ipa": "tɔk",
+          "say": "tok",
+          "es": "hablar",
+          "icon": "🚪",
+          "anchor": "«<b>toc</b>, toc» 🚪",
+          "tip": "Como llamar a la puerta. ¡La L no suena! Talk to you later = <code>tók tə iə léirer</code>."
+        },
+        {
+          "en": "how",
+          "ipa": "haʊ",
+          "say": "jau",
+          "es": "cómo / qué tal",
+          "icon": "🐦",
+          "anchor": "<b>jau</b>la 🐦",
+          "tip": "Con la j suave, como vaho. How you doin'? = <code>jáu iə dúuin</code>."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "what's up",
+          "es": "¿qué tal?"
+        },
+        {
+          "q": "how you doing",
+          "es": "¿qué tal estás?"
+        },
+        {
+          "q": "I'm good",
+          "es": "¡bien!"
+        },
+        {
+          "q": "have a good one",
+          "es": "¡que vaya bien!"
+        },
+        {
+          "q": "see you later",
+          "es": "¡hasta luego!"
+        },
+        {
+          "q": "here you go",
+          "es": "aquí tienes"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Qué contesto?",
+      "title_en": "What do I say back?",
+      "icon": "💬",
+      "head": [
+        "Te dicen · They say",
+        "Suena",
+        "Tú contestas · You say",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "What's up?",
+          "<code>watsáp?</code>",
+          "Not much. You?",
+          "<code>ná' mách. iú?</code>"
+        ],
+        [
+          "How are you doing?",
+          "<code>jáuər iə dúuing?</code>",
+          "I'm good, thanks!",
+          "<code>aim gúd, zǽnks!</code>"
+        ],
+        [
+          "How's it going?",
+          "<code>jáusit góuing?</code>",
+          "Pretty good!",
+          "<code>príri gúd!</code>"
+        ],
+        [
+          "Nice to meet you.",
+          "<code>náis tə míichu</code>",
+          "Nice to meet you too!",
+          "<code>náis tə míichu túu!</code>"
+        ],
+        [
+          "Thank you so much!",
+          "<code>zǽnkiu sou mách!</code>",
+          "You're welcome!",
+          "<code>iər wélkəm!</code>"
+        ],
+        [
+          "Here you go.",
+          "<code>jír iə góu</code>",
+          "Thanks!",
+          "<code>zǽnks!</code>"
+        ],
+        [
+          "For here or to go?",
+          "<code>fər jír ər tə góu?</code>",
+          "To go, please.",
+          "<code>tə góu, plíis</code>"
+        ],
+        [
+          "Have a good one!",
+          "<code>jǽvə gúd wan!</code>",
+          "You too!",
+          "<code>iu túu!</code>"
+        ],
+        [
+          "Sorry!",
+          "<code>sári!</code>",
+          "No worries!",
+          "<code>nóu wéris!</code>"
+        ]
+      ],
+      "note": "A <b>Have a good one!</b> o <b>Have a nice day!</b> se contesta <b>You too!</b> (¡Igualmente!). A <b>Thank you</b>: You're welcome, No problem o Sure.",
+      "note_en": "Answer Have a good one with You too! Answer Thank you with You're welcome or No problem."
+    },
+    {
+      "t": "compare",
+      "wide": true,
+      "title": "De libro vs. de la calle",
+      "title_en": "Textbook vs. street",
+      "icon": "📕",
+      "es": "Las dos columnas son <b>correctas</b>, pero la primera suena a libro de texto o a película antigua. En la calle oirás la segunda.",
+      "en": "Both are correct, but the first column sounds like an old textbook.",
+      "cols": [
+        {
+          "head": "📕 De libro (correcto, pero rígido)",
+          "color": "blue",
+          "items": [
+            "How do you do?",
+            "I'm fine, thank you. And you?",
+            "Goodbye.",
+            "I would like a coffee, please."
+          ]
+        },
+        {
+          "head": "🗽 De la calle (lo normal)",
+          "color": "red",
+          "items": [
+            "How's it going? · <code>jáusit góuing</code>",
+            "I'm good! You? · <code>aim gúd! iú?</code>",
+            "See ya! · <code>síiə</code>",
+            "Can I get a coffee? · <code>kən ai guérə káfi</code>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "What's up?",
+          "spoken": "Wassup?",
+          "say": "watsáp?",
+          "es": "¿Qué tal?"
+        },
+        {
+          "written": "How are you doing?",
+          "spoken": "How ya doin'?",
+          "say": "jáu iə dúuin?",
+          "es": "¿Qué tal estás?"
+        },
+        {
+          "written": "Nice to meet you.",
+          "spoken": "Nice ta meetcha.",
+          "say": "náis tə míichu",
+          "es": "Encantado."
+        },
+        {
+          "written": "What do you mean?",
+          "spoken": "Whaddaya mean?",
+          "say": "wárəiə míin?",
+          "es": "¿Qué quieres decir?"
+        },
+        {
+          "written": "See you later!",
+          "spoken": "See ya lader!",
+          "say": "síiə léirer!",
+          "es": "¡Hasta luego!"
+        },
+        {
+          "written": "Talk to you later!",
+          "spoken": "Talk ta ya lader!",
+          "say": "tók tə iə léirer!",
+          "es": "¡Hablamos!"
+        },
+        {
+          "written": "Thanks a lot!",
+          "spoken": "Thanksa lot!",
+          "say": "zǽnksə lát!",
+          "es": "¡Muchas gracias!"
+        },
+        {
+          "written": "Excuse me.",
+          "spoken": "'Scuse me.",
+          "say": "skiúus mi",
+          "es": "Perdone."
+        },
+        {
+          "written": "Can I get a coffee?",
+          "spoken": "C'n I gedda coffee?",
+          "say": "kən ai guérə káfi?",
+          "es": "¿Me pone un café?"
+        },
+        {
+          "written": "Have a good one!",
+          "spoken": "Hava good one!",
+          "say": "jǽvə gúd wan!",
+          "es": "¡Que vaya bien!"
+        },
+        {
+          "written": "What's going on?",
+          "spoken": "What's goin' on?",
+          "say": "wats góuin án?",
+          "es": "¿Qué pasa?"
+        },
+        {
+          "written": "Here you go.",
+          "spoken": "Here ya go.",
+          "say": "jír iə góu",
+          "es": "Aquí tienes."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "Hey Tyler, what's up?",
+          "say": "jéi táiler, watsáp?",
+          "es": "¡Eh, Tyler! ¿Qué tal?",
+          "icon": "👋"
+        },
+        {
+          "en": "I'm good, thanks. How about you?",
+          "say": "aim gúd, zǽnks. jáu əbáuchu?",
+          "es": "Bien, gracias. ¿Y tú?",
+          "icon": "😊"
+        },
+        {
+          "en": "Can I get a hot chocolate, please?",
+          "say": "kən ai guérə ja' cháklət, plíis?",
+          "es": "¿Me pone un chocolate caliente, por favor?",
+          "icon": "☕"
+        },
+        {
+          "en": "Here you go. Have a nice day!",
+          "say": "jír iə góu. jǽvə náis déi!",
+          "es": "Aquí tienes. ¡Que tengas un buen día!",
+          "icon": "🫴"
+        },
+        {
+          "en": "Thank you so much, Mrs. Smith!",
+          "say": "zǽnkiu sou mách, mísis smíz!",
+          "es": "¡Muchísimas gracias, señora Smith!",
+          "icon": "🙏"
+        },
+        {
+          "en": "Excuse me, where's the bathroom?",
+          "say": "ikskiúus mi, wérs də bǽzruum?",
+          "es": "Perdone, ¿dónde está el baño?",
+          "icon": "🚻"
+        },
+        {
+          "en": "What do you mean, «tomorrow»?",
+          "say": "wárəiə míin, təmárou?",
+          "es": "¿Cómo que «mañana»?",
+          "icon": "🤔"
+        },
+        {
+          "en": "Let's go! We're late!",
+          "say": "lets góu! wir léit!",
+          "es": "¡Vamos! ¡Llegamos tarde!",
+          "icon": "🏃"
+        },
+        {
+          "en": "What's going on here?",
+          "say": "wats góuing án jír?",
+          "es": "¿Qué pasa aquí?",
+          "icon": "👀"
+        },
+        {
+          "en": "Talk to you later, Mom!",
+          "say": "tók tə iə léirer, mám!",
+          "es": "¡Hablamos luego, mamá!",
+          "icon": "📱"
+        },
+        {
+          "en": "For here or to go?",
+          "say": "fər jír ər tə góu?",
+          "es": "¿Para tomar aquí o para llevar?",
+          "icon": "🍦"
+        },
+        {
+          "en": "Sounds good! See you at six.",
+          "say": "sáuns gúd! síiə ət síks",
+          "es": "¡Me parece bien! Nos vemos a las seis.",
+          "icon": "👍"
+        },
+        {
+          "en": "Have a good one, guys!",
+          "say": "jǽvə gúd wan, gáis!",
+          "es": "¡Que os vaya bien, chicos!",
+          "icon": "🌈"
+        },
+        {
+          "en": "Nice to meet you, I'm Lucía.",
+          "say": "náis tə míichu, aim lusíə",
+          "es": "Encantada, soy Lucía.",
+          "icon": "🤝"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "thank you → <code>sánkiu</code> / <code>tánkiu</code>",
+          "good": "<code>zǽnkiu</code>",
+          "why": "La TH es la z de «zapato» (C-04). Saca un poquito la lengua.",
+          "why_en": "TH is like the Spanish z in «zapato»."
+        },
+        {
+          "bad": "What's up? → <code>wat is áp</code>",
+          "good": "<code>watsáp</code>",
+          "why": "Todo de un tirón, con la fuerza en up: ¡como la app!",
+          "why_en": "Say it in one go, stress on up."
+        },
+        {
+          "bad": "Excuse me → <code>eskiús mi</code>",
+          "good": "<code>ikskiúus mi</code>",
+          "why": "No te comas la k (iks-) y alarga la u: iks-KIÚUS.",
+          "why_en": "Don't drop the k: «iks-KIÚUS mi»."
+        },
+        {
+          "bad": "How are you? → «I'm fine, thank you, and you?» 🤖",
+          "good": "<code>aim gúd!</code> / <code>príri gúd!</code>",
+          "why": "Lo de los libros suena a robot. En la calle: I'm good!",
+          "why_en": "That's textbook English. Say I'm good!"
+        },
+        {
+          "bad": "Have a good one → <code>jáb a gud uán</code>",
+          "good": "<code>jǽvə gúd wan</code>",
+          "why": "V de verdad (C-07) y todo pegado: JǼ-və.",
+          "why_en": "Use a real V and link the words."
+        },
+        {
+          "bad": "See you later → <code>si iu láter</code>",
+          "good": "<code>síiə léirer</code>",
+          "why": "La T de later suena r (C-02) y la a es «ei».",
+          "why_en": "Later has a tap and the «ei» sound."
+        },
+        {
+          "bad": "Here you go → <code>jer iu gó</code>",
+          "good": "<code>jír iə góu</code>",
+          "why": "Here suena «jir» (V-10) y go es «gou» (V-08).",
+          "why_en": "Here = «jir», go = «gou»."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En la cafetería",
+      "title_en": "At the café",
+      "lines": [
+        {
+          "who": "Ashley",
+          "en": "Hi! What's up? What can I get you?",
+          "say": "jái! watsáp? wat kən ai guéchu?",
+          "es": "¡Hola! ¿Qué tal? ¿Qué te pongo?"
+        },
+        {
+          "who": "Mario",
+          "en": "Hi! Not much. Can I get a hot chocolate, please?",
+          "say": "jái! ná' mách. kən ai guérə ja' cháklət, plíis?",
+          "es": "¡Hola! Nada especial. ¿Me pones un chocolate caliente?"
+        },
+        {
+          "who": "Ashley",
+          "en": "Sure! For here or to go?",
+          "say": "shúr! fər jír ər tə góu?",
+          "es": "¡Claro! ¿Para tomar aquí o para llevar?"
+        },
+        {
+          "who": "Mario",
+          "en": "To go, please.",
+          "say": "tə góu, plíis",
+          "es": "Para llevar, por favor."
+        },
+        {
+          "who": "Ashley",
+          "en": "Here you go. That's three dollars.",
+          "say": "jír iə góu. dæts zríi dálers",
+          "es": "Aquí tienes. Son tres dólares."
+        },
+        {
+          "who": "Mario",
+          "en": "Thank you so much!",
+          "say": "zǽnkiu sou mách!",
+          "es": "¡Muchas gracias!"
+        },
+        {
+          "who": "Ashley",
+          "en": "No problem. Have a good one!",
+          "say": "nóu prábləm. jǽvə gúd wan!",
+          "es": "De nada. ¡Que vaya bien!"
+        },
+        {
+          "who": "Mario",
+          "en": "You too! See you later!",
+          "say": "iu túu! síiə léirer!",
+          "es": "¡Igualmente! ¡Hasta luego!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Escoge 5 frases de este mapa y apréndelas como si fueran <b>una sola palabra</b>: <code>watsáp</code>, <code>jǽvə gúd wan</code>.",
+          "en": "Pick 5 phrases and learn each one as a single word."
+        },
+        {
+          "es": "Busca la palabra fuerte (casi siempre la última importante) y dale el golpe: have a <b>GOOD</b> one, see you <b>LA</b>ter.",
+          "en": "Find the key word and stress it."
+        },
+        {
+          "es": "Pega lo demás sin pausas, flojito: <code>jǽvə</code>, <code>síiə</code>, <code>tə iə</code>.",
+          "en": "Glue the rest together, softly."
+        },
+        {
+          "es": "Practica mini-diálogos de dos frases: What's up? → Not much!",
+          "en": "Practice tiny dialogues."
+        },
+        {
+          "es": "Escanea los QR y repite como un loro 🦜 la <b>música</b>, no solo las palabras.",
+          "en": "Scan the QR codes and copy the melody."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Cadenas rápidas",
+      "title_en": "Speed chains",
+      "items": [
+        {
+          "en": "What's up? Not much! How's it going? Pretty good!",
+          "say": "watsáp? ná' mách! jáusit góuing? príri gúd!",
+          "es": "¿Qué tal? ¡Nada! ¿Cómo va? ¡Bastante bien!"
+        },
+        {
+          "en": "Here you go. Thanks a lot! No worries. Have a good one!",
+          "say": "jír iə góu. zǽnksə lát! nóu wéris. jǽvə gúd wan!",
+          "es": "Aquí tienes. ¡Mil gracias! No hay de qué. ¡Que vaya bien!"
+        },
+        {
+          "en": "See you later, talk to you later, have a good one, take care!",
+          "say": "síiə léirer, tók tə iə léirer, jǽvə gúd wan, téik kér!",
+          "es": "¡Hasta luego, hablamos, que vaya bien, cuídate!"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del bloque",
+      "title_en": "The block trick",
+      "es": "No traduzcas palabra por palabra: estas frases son <b>bloques</b> 🧩 que los americanos dicen sin pensar. Apréndete el bloque entero, con su música, y úsalo tal cual. ¿Un reto? Usa hoy tres de ellas con alguien… ¡o con tu perro, como Mario con Rocky! 🐶",
+      "en": "Don't translate word by word: learn each phrase as a block, with its music, and use it today."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "¿Qué contestas?",
+      "title_en": "What do you say back?",
+      "icon": "🔗",
+      "es": "Une cada frase con su respuesta. Después léelas en voz alta por parejas.",
+      "en": "Match each phrase with its answer.",
+      "pairs": [
+        [
+          "What's up?",
+          "Not much. You?"
+        ],
+        [
+          "How are you doing?",
+          "I'm good, thanks!"
+        ],
+        [
+          "Thank you so much!",
+          "You're welcome!"
+        ],
+        [
+          "Have a good one!",
+          "You too!"
+        ],
+        [
+          "Nice to meet you.",
+          "Nice to meet you too!"
+        ],
+        [
+          "Sorry!",
+          "No worries!"
+        ],
+        [
+          "Here you go.",
+          "Thanks!"
+        ],
+        [
+          "For here or to go?",
+          "To go, please."
+        ]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Qué significa?",
+      "title_en": "What does it mean?",
+      "icon": "🤔",
+      "es": "¡Cuidado con traducir palabra por palabra! Rodea el significado correcto.",
+      "en": "Circle the right meaning.",
+      "items": [
+        {
+          "q": "Have a good one! → [¡Que vaya bien!|¡Ten uno bueno!]",
+          "a": "¡Que vaya bien!"
+        },
+        {
+          "q": "What's up? → [¿Qué hay arriba?|¿Qué tal?]",
+          "a": "¿Qué tal?"
+        },
+        {
+          "q": "Here you go. → [Aquí tienes.|Aquí vas.]",
+          "a": "Aquí tienes."
+        },
+        {
+          "q": "Not much. → [Nada especial.|No mucho dinero.]",
+          "a": "Nada especial."
+        },
+        {
+          "q": "For here or to go? → [¿Aquí o para llevar?|¿Vienes o te vas?]",
+          "a": "¿Aquí o para llevar?"
+        },
+        {
+          "q": "No worries! → [¡No pasa nada!|¡No tengo preocupaciones!]",
+          "a": "¡No pasa nada!"
+        },
+        {
+          "q": "Take care! → [¡Cuídate!|¡Toma cuidado!]",
+          "a": "¡Cuídate!"
+        },
+        {
+          "q": "Sounds good! → [¡Me parece bien!|¡Suena bonito!]",
+          "a": "¡Me parece bien!"
+        },
+        {
+          "q": "My bad! → [¡Culpa mía!|¡Mi malo!]",
+          "a": "¡Culpa mía!"
+        },
+        {
+          "q": "Excuse me? (↗) → [¿Perdón?|¡Excusa!]",
+          "a": "¿Perdón?"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Cómo suena?",
+      "title_en": "How does it sound?",
+      "icon": "👂",
+      "es": "Rodea la pronunciación americana de verdad.",
+      "en": "Circle the real American pronunciation.",
+      "items": [
+        {
+          "q": "What's up? → [watsáp|wat is áp]",
+          "a": "watsáp"
+        },
+        {
+          "q": "Thank you → [sánkiu|zǽnkiu]",
+          "a": "zǽnkiu"
+        },
+        {
+          "q": "See you later → [síiə léirer|si iu láter]",
+          "a": "síiə léirer"
+        },
+        {
+          "q": "Have a good one → [jǽvə gúd wan|jáb a gud uán]",
+          "a": "jǽvə gúd wan"
+        },
+        {
+          "q": "Excuse me → [eskiús mi|ikskiúus mi]",
+          "a": "ikskiúus mi"
+        },
+        {
+          "q": "Here you go → [jír iə góu|jer iu gó]",
+          "a": "jír iə góu"
+        },
+        {
+          "q": "I'm good → [aim gúd|ai am gud]",
+          "a": "aim gúd"
+        },
+        {
+          "q": "Pretty good → [príri gúd|príti gud]",
+          "a": "príri gúd"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Para qué sirve?",
+      "title_en": "What is it for?",
+      "icon": "🗂️",
+      "es": "Di cada frase en voz alta y escríbela en su columna.",
+      "en": "Say each phrase and sort it.",
+      "cats": [
+        {
+          "name": "👋 Saludar",
+          "words": [
+            "What's up?",
+            "How's it going?",
+            "Nice to meet you",
+            "Good morning!"
+          ]
+        },
+        {
+          "name": "🛒 Pedir y dar",
+          "words": [
+            "Can I get…?",
+            "Excuse me",
+            "For here or to go?",
+            "Here you go"
+          ]
+        },
+        {
+          "name": "🚪 Despedirse",
+          "words": [
+            "See you later!",
+            "Have a good one!",
+            "Take care!",
+            "Talk to you later!"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada de cada frase, de un tirón. Pon tilde en la palabra fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each phrase sounds.",
+      "items": [
+        {
+          "q": "👋 What's up? → ____",
+          "a": "watsáp"
+        },
+        {
+          "q": "😊 I'm good. → ____",
+          "a": "aim gúd"
+        },
+        {
+          "q": "👌 Pretty good. → ____",
+          "a": "príri gúd"
+        },
+        {
+          "q": "🤷 Not much. → ____",
+          "a": "ná' mách"
+        },
+        {
+          "q": "🫴 Here you go. → ____",
+          "a": "jír iə góu"
+        },
+        {
+          "q": "🙋 Excuse me. → ____",
+          "a": "ikskiúus mi"
+        },
+        {
+          "q": "🌈 Have a good one! → ____",
+          "a": "jǽvə gúd wan"
+        },
+        {
+          "q": "⏰ See you later! → ____",
+          "a": "síiə léirer"
+        },
+        {
+          "q": "🙏 Thanks a lot! → ____",
+          "a": "zǽnksə lát"
+        },
+        {
+          "q": "🏃 Let's go! → ____",
+          "a": "lets góu"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos: la frase, cómo suena o qué significa.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Suena",
+        "Español"
+      ],
+      "rows": [
+        [
+          "What's up?",
+          "?watsáp",
+          "¿Qué tal?"
+        ],
+        [
+          "How's it going?",
+          "jáusit góuing?",
+          "?¿Cómo va?"
+        ],
+        [
+          "?Nice to meet you.",
+          "náis tə míichu",
+          "Encantado."
+        ],
+        [
+          "Sounds good!",
+          "?sáuns gúd!",
+          "¡Me parece bien!"
+        ],
+        [
+          "Can I get a coffee?",
+          "?kən ai guérə káfi?",
+          "¿Me pone un café?"
+        ],
+        [
+          "?Have a good one!",
+          "jǽvə gúd wan!",
+          "¡Que vaya bien!"
+        ],
+        [
+          "Talk to you later!",
+          "tók tə iə léirer!",
+          "?¡Hablamos!"
+        ],
+        [
+          "No worries!",
+          "?nóu wéris!",
+          "¡No pasa nada!"
+        ]
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "«What's up?» sounds like the app WhatsApp.",
+          "a": true
+        },
+        {
+          "q": "When someone says «What's up?», you tell them your whole day.",
+          "a": false,
+          "why": "basta con Not much!"
+        },
+        {
+          "q": "«Have a good one» means «¡Que vaya bien!».",
+          "a": true
+        },
+        {
+          "q": "The TH in «thank you» sounds like the Spanish z in «zapato».",
+          "a": true
+        },
+        {
+          "q": "«I'm fine, thank you, and you?» is the most common answer in the street.",
+          "a": false,
+          "why": "lo normal es I'm good!"
+        },
+        {
+          "q": "In «later», the T sounds like a soft r.",
+          "a": true
+        },
+        {
+          "q": "«For here or to go?» is a question about food or drinks.",
+          "a": true
+        },
+        {
+          "q": "You answer «Have a good one!» with «You too!».",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe la frase como suena",
+      "title_en": "Write the phrase as it sounds",
+      "icon": "🔗",
+      "es": "Escribe cómo suena la frase entera, de un tirón.",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        {
+          "q": "How are you doing?",
+          "a": "jáuər iə dúuing? / jáu iə dúuin?"
+        },
+        {
+          "q": "Nice to meet you.",
+          "a": "náis tə míichu"
+        },
+        {
+          "q": "What do you mean?",
+          "a": "wárəiə míin?"
+        },
+        {
+          "q": "Talk to you later!",
+          "a": "tók tə iə léirer!"
+        },
+        {
+          "q": "Thank you so much!",
+          "a": "zǽnkiu sou mách!"
+        },
+        {
+          "q": "What's going on?",
+          "a": "wats góuing án?"
+        },
+        {
+          "q": "Can I get the check?",
+          "a": "kən ai guét də chék?"
+        },
+        {
+          "q": "Have a nice day!",
+          "a": "jǽvə náis déi!"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "thank you → <code>sánkiu</code>",
+          "a": "zǽnkiu (TH = z)"
+        },
+        {
+          "q": "What's up? → <code>wat is áp</code>",
+          "a": "watsáp"
+        },
+        {
+          "q": "Excuse me → <code>eskiús mi</code>",
+          "a": "ikskiúus mi"
+        },
+        {
+          "q": "later → <code>láter</code>",
+          "a": "léirer"
+        },
+        {
+          "q": "Have a good one → <code>jáb a gud uán</code>",
+          "a": "jǽvə gúd wan"
+        },
+        {
+          "q": "Here you go → <code>jer iu gó</code>",
+          "a": "jír iə góu"
+        },
+        {
+          "q": "Pretty good → <code>príti gud</code>",
+          "a": "príri gúd (T = r suave)"
+        },
+        {
+          "q": "Sounds good → <code>sáunds gúd</code> (con D)",
+          "a": "sáuns gúd"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧩",
+      "es": "Ordena las palabras. Después dila de un tirón.",
+      "en": "Put the words in order and say it in one go.",
+      "items": [
+        {
+          "q": "get / I / Can / coffee / a",
+          "a": "Can I get a coffee"
+        },
+        {
+          "q": "one / Have / good / a",
+          "a": "Have a good one"
+        },
+        {
+          "q": "later / you / See",
+          "a": "See you later"
+        },
+        {
+          "q": "mean / you / do / What",
+          "a": "What do you mean"
+        },
+        {
+          "q": "go / here / or / For / to",
+          "a": "For here or to go"
+        },
+        {
+          "q": "much / so / Thank / you",
+          "a": "Thank you so much"
+        },
+        {
+          "q": "you / to / Talk / later",
+          "a": "Talk to you later"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, de un tirón) y marca una casilla cada vez.",
+      "en": "Read each phrase three times and tick a box each time.",
+      "items": [
+        {
+          "q": "What's up?",
+          "say": "watsáp?"
+        },
+        {
+          "q": "How you doin'?",
+          "say": "jáu iə dúuin?"
+        },
+        {
+          "q": "I'm good, thanks!",
+          "say": "aim gúd, zǽnks!"
+        },
+        {
+          "q": "Nice to meet you!",
+          "say": "náis tə míichu!"
+        },
+        {
+          "q": "Can I get a coffee?",
+          "say": "kən ai guérə káfi?"
+        },
+        {
+          "q": "Here you go.",
+          "say": "jír iə góu"
+        },
+        {
+          "q": "Thank you so much!",
+          "say": "zǽnkiu sou mách!"
+        },
+        {
+          "q": "Excuse me?",
+          "say": "ikskiúus mi?"
+        },
+        {
+          "q": "Have a good one!",
+          "say": "jǽvə gúd wan!"
+        },
+        {
+          "q": "See you later!",
+          "say": "síiə léirer!"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés de la calle. Después dilo en voz alta de un tirón.",
+      "en": "Translate into everyday English and say it.",
+      "items": [
+        {
+          "q": "¿Qué tal?",
+          "a": "What's up? / How's it going? (watsáp / jáusit góuing)"
+        },
+        {
+          "q": "Bien, gracias.",
+          "a": "I'm good, thanks. (aim gúd, zǽnks)"
+        },
+        {
+          "q": "Encantado.",
+          "a": "Nice to meet you. (náis tə míichu)"
+        },
+        {
+          "q": "¿Me pone un café?",
+          "a": "Can I get a coffee? (kən ai guérə káfi?)"
+        },
+        {
+          "q": "Aquí tienes.",
+          "a": "Here you go. (jír iə góu)"
+        },
+        {
+          "q": "¡Muchísimas gracias!",
+          "a": "Thank you so much! (zǽnkiu sou mách!)"
+        },
+        {
+          "q": "Perdone.",
+          "a": "Excuse me. (ikskiúus mi)"
+        },
+        {
+          "q": "¡Que vaya bien!",
+          "a": "Have a good one! (jǽvə gúd wan!)"
+        },
+        {
+          "q": "¡Hasta luego!",
+          "a": "See you later! (síiə léirer!)"
+        },
+        {
+          "q": "¡Vamos!",
+          "a": "Let's go! (lets góu!)"
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Coffee time",
+      "text": [
+        "Mario walks into a café. “Hi! What's up?” says Ashley. “Not much,” says Mario. “Can I get a hot chocolate, please?”",
+        "“Sure! For here or to go?” “To go, please.” “Here you go!” “Thank you so much!” “No problem. Have a good one!”"
+      ],
+      "items": [
+        {
+          "q": "What does Mario order?",
+          "a": "A hot chocolate, to go."
+        },
+        {
+          "q": "How does «What's up?» sound?",
+          "a": "<code>watsáp</code>"
+        },
+        {
+          "q": "How does «Have a good one!» sound?",
+          "a": "<code>jǽvə gúd wan</code>"
+        },
+        {
+          "q": "Mario drinks his hot chocolate in the café.",
+          "tf": true,
+          "a": false,
+          "why": "to go = para llevar"
+        },
+        {
+          "q": "«Not much» is a normal answer to «What's up?».",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Ashley says «Here you go» when she gives Mario his drink.",
+          "tf": true,
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de frases",
+      "title_en": "Phrase word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras de las frases del día a día. Di en voz alta la frase de la que salen.",
+      "en": "Find 10 words from everyday phrases.",
+      "words": [
+        "thanks",
+        "later",
+        "excuse",
+        "good",
+        "worries",
+        "check",
+        "mean",
+        "sounds",
+        "care",
+        "nice"
+      ],
+      "clues": [
+        "thanks · gracias",
+        "later · luego",
+        "excuse · disculpar",
+        "good · bien",
+        "worries · No worries!",
+        "check · la cuenta",
+        "mean · querer decir",
+        "sounds · Sounds good!",
+        "care · Take care!",
+        "nice · Nice to meet you"
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Del libro a la calle",
+      "title_en": "From textbook to street",
+      "icon": "🗽",
+      "es": "Estas frases son correctas, pero suenan a libro antiguo. Escribe cómo lo diría un americano en la calle.",
+      "en": "Rewrite each textbook phrase the way people really say it.",
+      "items": [
+        {
+          "q": "How do you do?",
+          "a": "How's it going? / How are you doing?"
+        },
+        {
+          "q": "I am fine, thank you.",
+          "a": "I'm good, thanks!"
+        },
+        {
+          "q": "Goodbye.",
+          "a": "See you later! / Have a good one!"
+        },
+        {
+          "q": "I would like a coffee, please.",
+          "a": "Can I get a coffee, please?"
+        },
+        {
+          "q": "What is happening?",
+          "a": "What's going on?"
+        },
+        {
+          "q": "I beg your pardon?",
+          "a": "Excuse me? / Sorry?"
+        },
+        {
+          "q": "Thank you very much.",
+          "a": "Thank you so much! / Thanks a lot!"
+        },
+        {
+          "q": "It does not matter.",
+          "a": "No worries!"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus mini-diálogos. Léelos en voz alta de un tirón y grábate.",
+      "en": "Write your own mini dialogues and record yourself.",
+      "items": [
+        {
+          "q": "Saluda a un amigo y contesta (What's up? / How's it going?).",
+          "lines": 2,
+          "a": "Ej.: — What's up, Tyler? — Not much. You?"
+        },
+        {
+          "q": "Pide algo en una cafetería con Can I get…?",
+          "lines": 2,
+          "a": "Ej.: Can I get a hot chocolate, please?"
+        },
+        {
+          "q": "Despídete de alguien de dos formas distintas.",
+          "lines": 2,
+          "a": "Ej.: See you later! / Have a good one!"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé saludar de un tirón: <code>watsáp</code>, <code>jáu iə dúuin</code>.",
+      "en": "I can say hello the American way."
+    },
+    {
+      "es": "Sé responder como un americano: <code>aim gúd!</code>, <code>ná' mách</code>.",
+      "en": "I can answer: I'm good! Not much."
+    },
+    {
+      "es": "Pido con <code>kən ai guét…?</code> y entiendo «For here or to go?».",
+      "en": "I can order with Can I get…?"
+    },
+    {
+      "es": "Digo thank you con la TH de «zapato»: <code>zǽnkiu</code>.",
+      "en": "I say thank you with a real TH."
+    },
+    {
+      "es": "Me despido con <code>síiə léirer</code> y <code>jǽvə gúd wan</code>.",
+      "en": "I can say goodbye: See you later! Have a good one!"
+    },
+    {
+      "es": "A «Have a good one!» contesto «You too!».",
+      "en": "I answer Have a good one with You too!"
+    }
+  ]
+}

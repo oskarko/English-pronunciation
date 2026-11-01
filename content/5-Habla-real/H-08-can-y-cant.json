@@ -1,0 +1,635 @@
+{
+  "id": "H-08",
+  "block": "H",
+  "title": "CAN <em>y</em> CAN'T",
+  "file_title": "Can y can't",
+  "subtitle": "Can or can't? · I can = «ai kən»",
+  "icon": "🏊",
+  "map": {
+    "center": "En americano, <b>can</b> casi no suena (<code>kən</code>) y <b>can't</b> va fuerte y abierta (<code>kǽn'</code>): la T apenas se oye.",
+    "listen": "I can't",
+    "nodes": [
+      {
+        "title": "CAN = débil",
+        "icon": "🐭",
+        "color": "green",
+        "rows": [["I can swim", "<code>ai kən swím</code>"], ["I can go", "<code>ai kən góu</code>"]],
+        "after": "rapidita y sin fuerza: <code>kən</code>"
+      },
+      {
+        "title": "CAN'T = fuerte",
+        "icon": "💪",
+        "color": "blue",
+        "rows": [["I can't swim", "<code>ai kǽn' swím</code>"], ["I can't go", "<code>ai kǽn' góu</code>"]],
+        "after": "a abierta + corte en la garganta"
+      },
+      {
+        "title": "El ritmo",
+        "icon": "🥁",
+        "color": "purple",
+        "items": [
+          "I can <b>GO</b> → ta-ta-<b>TAM</b>",
+          "I <b>CAN'T GO</b> → ta-<b>TAM-TAM</b>"
+        ]
+      },
+      {
+        "title": "Respuestas cortas",
+        "icon": "💬",
+        "color": "orange",
+        "rows": [["Yes, I can.", "<code>iés, ai kǽn</code>"], ["No, I can't.", "<code>nóu, ai kǽn'</code>"]],
+        "after": "al final, can va <b>fuerte</b>"
+      },
+      {
+        "title": "¿Y la T?",
+        "icon": "🤫",
+        "color": "pink",
+        "items": [
+          "casi no se oye: <code>kǽn'</code>",
+          "fíate de la <b>vocal</b> y del <b>golpe</b>, no de la T"
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "¿Una <code>ə</code> rapidita? Es <b>can</b>. ¿Una <code>æ</code> abierta con golpe? Es <b>can't</b>. Si dudas: «Can or can't?»",
+        "art": "🤔"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["<code>ai kǽn swím</code> (can fuerte)"],
+      "good": ["<code>ai kən swím</code> 🏊"],
+      "note": "Con can fuerte, ¡el americano oye can't!"
+    },
+    "mini": {
+      "es": "¿Can o can't? Lee y completa:",
+      "en": "Read and write can or can't.",
+      "items": [
+        { "q": "🏊 <code>ai kən swím</code> → I ____ swim", "a": "can" },
+        { "q": "🎸 <code>ai kǽn' pléi</code> → I ____ play", "a": "can't" },
+        { "q": "🍳 <code>shi kən kúk</code> → She ____ cook", "a": "can" },
+        { "q": "🚲 <code>iés, ai kǽn</code> → Yes, I ____", "a": "can" },
+        { "q": "🍕 <code>wi kǽn' góu</code> → We ____ go", "a": "can't" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Can o can't?",
+      "title_en": "Can or can't?",
+      "icon": "🤷",
+      "es": "Es uno de los líos más famosos del inglés americano: <b>can</b> (puedo, sé) y <b>can't</b> (no puedo, no sé) se parecen muchísimo, porque la T final de can't <b>casi no se oye</b>. ¿Cómo los distinguen los americanos? Por la <b>vocal</b> y el <b>golpe</b>: can va flojita y cortita (<code>kən</code>) y can't va fuerte, abierta y con un corte seco (<code>kǽn'</code>). <mark>Si lo dices al revés, dices justo lo contrario.</mark>",
+      "en": "In American English, the T in can't is almost silent. The difference is the vowel and the stress: can is weak «kən», can't is strong «kǽn'».",
+      "formula": [
+        "can → *kən* (débil)",
+        "can't → *kǽn'* (fuerte)"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        { "part": "jaw", "es": "<b>can</b>: mandíbula casi cerrada y relajada, una <code>ə</code> de nada. <b>can't</b>: abre la boca como para la a de cat (V-03) y estira un poco los labios.", "en": "can: relaxed, almost closed. can't: open your mouth wide for the «cat» vowel." },
+        { "part": "tongue", "es": "En los dos, la punta de la lengua sube a la encía para la <b>n</b>. En can't se queda ahí un instante… y <b>no suelta</b> ninguna T.", "en": "The tongue goes up for the n. In can't it stays there and doesn't release a T." },
+        { "part": "air", "es": "Al final de can't, la garganta corta el aire de golpe, como en «¡oh-oh!». Es la T glotal (mapa C-03): la escribimos <code>'</code>.", "en": "At the end of can't, your throat cuts the air, like in «uh-oh»." },
+        { "part": "ear", "es": "Escucha la <b>vocal</b> y el <b>ritmo</b>, no la T: <code>kən</code> pasa volando; <code>kǽn'</code> se nota.", "en": "Listen for the vowel and the beat, not the T." }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · CAN va débil",
+      "title_en": "CAN is weak",
+      "icon": "🐭",
+      "es": "En frases afirmativas normales, <b>can</b> no lleva fuerza: se dice <code>kən</code>, rapidito, casi «kn». El golpe se lo lleva el <b>verbo</b> de detrás: I can <b>SWIM</b>.",
+      "en": "In normal positive sentences, can is weak «kən» and the main verb gets the stress.",
+      "formula": ["I + *kən* + SWIM → ai kən swím"],
+      "examples": [
+        { "en": "I can swim.", "say": "ai kən swím", "es": "Sé nadar.", "icon": "🏊" },
+        { "en": "You can go.", "say": "iu kən góu", "es": "Puedes irte.", "icon": "🚪" },
+        { "en": "We can help.", "say": "wi kən jélp", "es": "Podemos ayudar.", "icon": "🙋" },
+        { "en": "She can dance.", "say": "shi kən dǽns", "es": "Ella sabe bailar.", "icon": "💃" },
+        { "en": "It can wait.", "say": "it kən wéit", "es": "Puede esperar.", "icon": "⏳" },
+        { "en": "They can see it.", "say": "dei kən síi it", "es": "Lo pueden ver.", "icon": "👀" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · CAN'T va fuerte",
+      "title_en": "CAN'T is strong",
+      "icon": "💪",
+      "es": "<b>Can't</b> siempre lleva fuerza: vocal abierta /æ/ (la de cat), más larga, y al final un corte en la garganta en lugar de T: <code>kǽn'</code>. Muchos americanos la abren tanto que suena casi <code>kéən'</code>. El verbo de detrás también va fuerte: <b>dos golpes</b> seguidos.",
+      "en": "Can't is always stressed: open /æ/ vowel, a bit longer, and a glottal cut instead of a clear T.",
+      "formula": ["I + *KǼN'* + SWIM → ai kǽn' swím"],
+      "examples": [
+        { "en": "I can't swim.", "say": "ai kǽn' swím", "es": "No sé nadar.", "icon": "🚫" },
+        { "en": "You can't go.", "say": "iu kǽn' góu", "es": "No puedes ir.", "icon": "⛔" },
+        { "en": "We can't help.", "say": "wi kǽn' jélp", "es": "No podemos ayudar.", "icon": "🙅" },
+        { "en": "She can't dance.", "say": "shi kǽn' dǽns", "es": "Ella no sabe bailar.", "icon": "🪑" },
+        { "en": "It can't wait.", "say": "it kǽn' wéit", "es": "No puede esperar.", "icon": "🚨" },
+        { "en": "They can't see it.", "say": "dei kǽn' síi it", "es": "No lo pueden ver.", "icon": "🙈" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Al final, CAN fuerte",
+      "title_en": "At the end, CAN is strong",
+      "icon": "🏁",
+      "es": "Cuando can va <b>al final</b> de la frase (respuestas cortas) recupera su fuerza: <code>kǽn</code>, con la a abierta. ¿Y cómo se distingue entonces de can't? Por el <b>final</b>: can't se corta en seco (<code>kǽn'</code>); can se queda sonando (<code>kǽn</code>).",
+      "en": "At the end of a sentence, can is strong «kǽn». Can't ends with a sudden cut; can keeps ringing.",
+      "examples": [
+        { "en": "Yes, I can.", "say": "iés, ai kǽn", "es": "Sí, puedo.", "icon": "✅" },
+        { "en": "No, I can't.", "say": "nóu, ai kǽn'", "es": "No, no puedo.", "icon": "❌" },
+        { "en": "I think I can.", "say": "ai zínk ai kǽn", "es": "Creo que puedo.", "icon": "🚂" },
+        { "en": "Sure you can!", "say": "shúr iu kǽn!", "es": "¡Claro que puedes!", "icon": "👍" },
+        { "en": "as fast as you can", "say": "əs fǽst əs iu kǽn", "es": "lo más rápido que puedas", "icon": "🏃" },
+        { "en": "Who can? I can!", "say": "júu kǽn? ái kǽn!", "es": "¿Quién puede? ¡Yo!", "icon": "🙋" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · En preguntas, CAN débil",
+      "title_en": "In questions, CAN is weak",
+      "icon": "❓",
+      "es": "Al principio de una pregunta, can también va flojito: <code>kən</code>. El golpe va al verbo: Can you <b>HELP</b> me? → <code>kən iə jélp mi?</code> Lo oirás en mil pedidos: Can I get…? (mapa H-09).",
+      "en": "At the start of a question, can is weak too: Can you HELP me? → «kən iə jélp mi?».",
+      "examples": [
+        { "en": "Can I go?", "say": "kən ai góu?", "es": "¿Puedo ir?", "icon": "🚶" },
+        { "en": "Can you help me?", "say": "kən iə jélp mi?", "es": "¿Me ayudas?", "icon": "🙏" },
+        { "en": "Can we play?", "say": "kən wi pléi?", "es": "¿Podemos jugar?", "icon": "⚽" },
+        { "en": "Can I have one?", "say": "kən ai jǽv wán?", "es": "¿Me das uno?", "icon": "🍪" },
+        { "en": "Can she come?", "say": "kən shi kám?", "es": "¿Puede venir ella?", "icon": "👧" },
+        { "en": "Can't you see?", "say": "kǽnchə síi?", "es": "¿No lo ves? (H-06)", "icon": "👀" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Para dejarlo clarísimo",
+      "title_en": "To make it crystal clear",
+      "icon": "🔦",
+      "es": "Si no quieres dudas: di <b>cannot</b> (<code>kǽnat</code>), que se oye perfecto; insiste en can con alegría (I <b>CAN</b> do it!), o añade algo detrás: «I can't, sorry» / «I can, no problem».",
+      "en": "To be totally clear, say cannot, stress can happily, or add a little phrase after it.",
+      "examples": [
+        { "en": "I cannot believe it!", "say": "ai kǽnat bəlíivit!", "es": "¡No me lo puedo creer!", "icon": "😲" },
+        { "en": "I CAN do it!", "say": "ai kǽn dúu it!", "es": "¡Sí que puedo hacerlo!", "icon": "💪" },
+        { "en": "I can't, sorry.", "say": "ai kǽn', sári", "es": "No puedo, lo siento.", "icon": "🙏" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "can", "ipa": "kən", "say": "kən", "es": "puedo, sé (débil)", "icon": "🧑", "anchor": "<b>Ken</b> 🧑 (dicho flojito)", "tip": "Como el novio de Barbie, pero sin fuerza y rapidísimo: <code>ai kən góu</code>." },
+        { "en": "can't", "ipa": "kænʔ", "say": "kǽn'", "es": "no puedo, no sé", "icon": "🎤", "anchor": "<b>can</b>ta 🎤 (sin «ta»)", "tip": "Di «canta», abre la a como en cat y corta en seco donde iba la T: KǼN'." },
+        { "en": "Yes, I can", "ipa": "jɛs aɪ ˈkæn", "say": "iés, ai kǽn", "es": "sí, puedo", "icon": "🦜", "anchor": "tu<b>cán</b> 🦜", "tip": "Al final de la frase, can suena fuerte como el «cán» de tucán. ¡Y sin corte final!" },
+        { "en": "Can I", "ipa": "kən aɪ", "say": "kən ái", "es": "¿puedo…?", "icon": "🐻", "anchor": "<b>Kenai</b> 🐻 (Hermano oso)", "tip": "Como el protagonista de «Hermano oso»: kə-NÁI. Can I go? = <code>kən ai góu?</code>" },
+        { "en": "Can you", "ipa": "kən jə", "say": "kən iə", "es": "¿puedes…?", "icon": "🦒", "anchor": "<b>Kenia</b> 🦒", "tip": "Dilo rápido y sin fuerza; el golpe va en el verbo: <code>kən iə jélp mi?</code>" },
+        { "en": "Can't you", "ipa": "ˈkæntʃə", "say": "kǽnchə", "es": "¿no puedes…?", "icon": "🏀", "anchor": "<b>cancha</b> 🏀", "tip": "La T + you se funde en ch (H-06). Can't you see? = ¿No lo ves?" },
+        { "en": "cannot", "ipa": "ˈkænɑt", "say": "kǽnat", "es": "no puedo (muy claro)", "icon": "👴", "anchor": "<b>cana</b>s + t 👴", "tip": "KǼ-nat: como «canas» con t al final. Para dejarlo clarísimo: I cannot believe it!" },
+        { "en": "a can", "ipa": "ə ˈkæn", "say": "ə kǽn", "es": "una lata", "icon": "🥫", "anchor": "un <b>can</b> 🐶 (perro)", "tip": "Can también es «lata», y siempre suena fuerte: a can of soda = <code>ə kǽn əv sóurə</code>. ¡Y en español, un can es un perro!" }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "I can", "es": "puedo" },
+        { "q": "I can't", "es": "no puedo" },
+        { "q": "yes I can", "es": "sí, puedo" },
+        { "q": "can you", "es": "¿puedes…?" },
+        { "q": "can't you", "es": "¿no puedes…?" },
+        { "q": "cannot", "es": "no puedo" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Débil o fuerte?",
+      "title_en": "Weak or strong?",
+      "icon": "🧭",
+      "head": ["Frase · Phrase", "¿Dónde está can?", "¿Cómo suena?", "Suena"],
+      "rows": [
+        ["I can swim.", "delante del verbo", "🐭 débil", "<code>ai kən swím</code>"],
+        ["Can you swim?", "empieza la pregunta", "🐭 débil", "<code>kən iə swím?</code>"],
+        ["What can I do?", "dentro de la pregunta", "🐭 débil", "<code>wat kən ai dúu?</code>"],
+        ["Yes, I can.", "al final", "💪 fuerte", "<code>iés, ai kǽn</code>"],
+        ["I think I can.", "al final", "💪 fuerte", "<code>ai zínk ai kǽn</code>"],
+        ["a can of soda", "es una lata (sustantivo)", "💪 fuerte", "<code>ə kǽn əv sóurə</code>"],
+        ["I can't swim.", "negativa", "💪 fuerte + corte", "<code>ai kǽn' swím</code>"],
+        ["No, I can't.", "negativa al final", "💪 fuerte + corte", "<code>nóu, ai kǽn'</code>"]
+      ],
+      "note": "Can solo va fuerte cuando está <b>al final</b>, es una <b>lata</b> o quieres <b>insistir</b>. Can't va fuerte <b>siempre</b>.",
+      "note_en": "Can is strong only at the end, as a noun, or for emphasis. Can't is always strong."
+    },
+    {
+      "t": "compare",
+      "wide": true,
+      "title": "Americano vs. británico",
+      "title_en": "American vs. British",
+      "icon": "🌍",
+      "es": "En británico, can't lleva otra vocal (la /ɑ/ larga de «father»), así que se distingue fácil. En americano, can (fuerte) y can't tienen la <b>misma</b> vocal: lo que cambia es el <b>golpe</b> y el <b>corte</b>.",
+      "en": "In British English can't has a different vowel. In American English the difference is stress and the final cut.",
+      "cols": [
+        { "head": "🇺🇸 can", "color": "green", "items": ["débil: <code>kən</code>", "corta y sin fuerza", "el golpe va al verbo"] },
+        { "head": "🇺🇸 can't", "color": "red", "items": ["fuerte: <code>kǽn'</code>", "a abierta y más larga", "la T casi no se oye"] },
+        { "head": "🇬🇧 can't", "color": "blue", "items": ["<code>kaant</code>, con a larga", "la T suena más clara", "¡más fácil de distinguir!"] }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "Escucha la diferencia",
+      "title_en": "Hear the difference",
+      "icon": "👂",
+      "items": [
+        { "a": { "en": "I can go.", "ipa": "aɪ kən ˈɡoʊ", "say": "ai kən góu", "es": "Puedo ir.", "icon": "✅" }, "b": { "en": "I can't go.", "ipa": "aɪ ˈkænʔ ˈɡoʊ", "say": "ai kǽn' góu", "es": "No puedo ir.", "icon": "❌" }, "tip": "Escucha la vocal: <code>ə</code> rapidita frente a <code>æ</code> abierta." },
+        { "a": { "en": "She can swim.", "ipa": "ʃi kən ˈswɪm", "say": "shi kən swím", "es": "Sabe nadar.", "icon": "🏊" }, "b": { "en": "She can't swim.", "ipa": "ʃi ˈkænʔ ˈswɪm", "say": "shi kǽn' swím", "es": "No sabe nadar.", "icon": "🛟" }, "tip": "En la negativa hay dos golpes seguidos: CAN'T SWIM." },
+        { "a": { "en": "We can play.", "ipa": "wi kən ˈpleɪ", "say": "wi kən pléi", "es": "Podemos jugar.", "icon": "⚽" }, "b": { "en": "We can't play.", "ipa": "wi ˈkænʔ ˈpleɪ", "say": "wi kǽn' pléi", "es": "No podemos jugar.", "icon": "🌧️" }, "tip": "ta-ta-TAM frente a ta-TAM-TAM." },
+        { "a": { "en": "You can come.", "ipa": "ju kən ˈkʌm", "say": "iu kən kám", "es": "Puedes venir.", "icon": "🎉" }, "b": { "en": "You can't come.", "ipa": "ju ˈkænʔ ˈkʌm", "say": "iu kǽn' kám", "es": "No puedes venir.", "icon": "🚫" }, "tip": "Si dudas, mira la cara de quien habla… ¡o pregunta!" },
+        { "a": { "en": "I can see it.", "ipa": "aɪ kən ˈsiː ɪt", "say": "ai kən síi it", "es": "Lo veo.", "icon": "👀" }, "b": { "en": "I can't see it.", "ipa": "aɪ ˈkænʔ ˈsiː ɪt", "say": "ai kǽn' síi it", "es": "No lo veo.", "icon": "🙈" }, "tip": "El corte de can't es como el de «¡oh-oh!»." }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "I can do it.", "spoken": "I c'n do it.", "say": "ai kən dúu it", "es": "Puedo hacerlo." },
+        { "written": "I can't do it.", "spoken": "I CAN' do it.", "say": "ai kǽn' dúu it", "es": "No puedo hacerlo." },
+        { "written": "Can I have one?", "spoken": "C'n I have one?", "say": "kən ai jǽv wán?", "es": "¿Me das uno?" },
+        { "written": "Can you help me?", "spoken": "C'n ya help me?", "say": "kən iə jélp mi?", "es": "¿Me ayudas?" },
+        { "written": "Yes, I can!", "spoken": "Yes, I CAN!", "say": "iés, ai kǽn!", "es": "¡Sí, puedo!" },
+        { "written": "I can't wait!", "spoken": "I CAN' wait!", "say": "ai kǽn' wéit!", "es": "¡Qué ganas!" },
+        { "written": "You can't be serious!", "spoken": "You CAN' be serious!", "say": "iu kǽn' bi síriəs!", "es": "¡No lo dirás en serio!" },
+        { "written": "We can talk later.", "spoken": "We c'n talk later.", "say": "wi kən tók léirer", "es": "Podemos hablar luego." }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "I can swim, but I can't dive.", "say": "ai kən swím, bət ai kǽn' dáiv", "es": "Sé nadar, pero no sé tirarme de cabeza.", "icon": "🏊" },
+        { "en": "Lucía can play the piano.", "say": "lusíə kən pléi də piǽnou", "es": "Lucía sabe tocar el piano.", "icon": "🎹" },
+        { "en": "Rocky can't climb trees.", "say": "ráki kǽn' kláim tríis", "es": "Rocky no sabe trepar a los árboles.", "icon": "🐶" },
+        { "en": "Can I ask a question?", "say": "kən ai ǽskə kuéschən?", "es": "¿Puedo hacer una pregunta?", "icon": "🙋" },
+        { "en": "Can you pass the cookies?", "say": "kən iə pǽs də kúkis?", "es": "¿Me pasas las galletas?", "icon": "🍪" },
+        { "en": "I'm sorry, I can't come.", "say": "aim sári, ai kǽn' kám", "es": "Lo siento, no puedo ir.", "icon": "😢" },
+        { "en": "Yes, you can!", "say": "iés, iu kǽn!", "es": "¡Sí, tú puedes!", "icon": "💪" },
+        { "en": "I can't find my keys.", "say": "ai kǽn' fáind mai kíis", "es": "No encuentro mis llaves.", "icon": "🔑" },
+        { "en": "We can play after dinner.", "say": "wi kən pléi ǽfter díner", "es": "Podemos jugar después de cenar.", "icon": "🎮" },
+        { "en": "Run as fast as you can!", "say": "rán əs fǽst əs iu kǽn!", "es": "¡Corre lo más rápido que puedas!", "icon": "🏃" },
+        { "en": "She can speak three languages.", "say": "shi kən spíik zríi lǽngwiyis", "es": "Ella habla tres idiomas.", "icon": "🗣️" },
+        { "en": "I cannot believe it!", "say": "ai kǽnat bəlíivit!", "es": "¡No me lo puedo creer!", "icon": "😲" },
+        { "en": "Can't you see? It's a surprise!", "say": "kǽnchə síi? itsə serpráis!", "es": "¿No lo ves? ¡Es una sorpresa!", "icon": "🎂" },
+        { "en": "Who can play on Saturday?", "say": "júu kən pléi an sǽrerdei?", "es": "¿Quién puede jugar el sábado?", "icon": "⚽" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "I can swim → <code>ai kǽn swím</code> (can fuerte)", "good": "<code>ai kən swím</code>", "why": "Con can fuerte, el americano entiende «can't». ¡Justo lo contrario!", "why_en": "A strong can sounds like can't." },
+        { "bad": "I can't go → <code>ai kən góu</code> (can't flojito)", "good": "<code>ai kǽn' góu</code>", "why": "Si no le das fuerza a can't, suena a can. Abre la boca y dale golpe.", "why_en": "A weak can't sounds like can." },
+        { "bad": "can't → <code>kánt</code> (a cerrada y T explosiva)", "good": "<code>kǽn'</code>", "why": "Lo que importa es la a abierta y el golpe. Ojo: con una a cerrada y cortita, puede sonar a una palabrota muy fea (P-04).", "why_en": "Open the vowel wide: a short, closed vowel can sound like a rude word." },
+        { "bad": "Yes, I can → <code>iés, ai kən</code>", "good": "<code>iés, ai kǽn</code>", "why": "Al final de la frase, can va fuerte.", "why_en": "At the end, can is strong." },
+        { "bad": "Can you help me? → <code>KǼN iu jélp mi?</code>", "good": "<code>kən iə jélp mi?</code>", "why": "Al empezar la pregunta, can va flojito; el golpe va en help.", "why_en": "Weak can at the start of a question." },
+        { "bad": "a can of soda → <code>ə kən əv sóurə</code>", "good": "<code>ə kǽn əv sóurə</code>", "why": "Cuando es una lata (sustantivo), siempre suena fuerte.", "why_en": "The noun can is always strong." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En la piscina",
+      "title_en": "At the pool",
+      "lines": [
+        { "who": "Mike", "en": "Hey Mario! Can you swim?", "say": "jéi mário! kən iə swím?", "es": "¡Eh, Mario! ¿Sabes nadar?" },
+        { "who": "Mario", "en": "Yes, I can! Can you?", "say": "iés, ai kǽn! kǽn iu?", "es": "¡Sí! ¿Y tú?" },
+        { "who": "Mike", "en": "I can swim, but I can't dive.", "say": "ai kən swím, bət ai kǽn' dáiv", "es": "Sé nadar, pero no sé tirarme de cabeza." },
+        { "who": "Mario", "en": "I can teach you! It's easy.", "say": "ai kən tíichu! its íisi", "es": "¡Yo te enseño! Es fácil." },
+        { "who": "Mike", "en": "Wait… did you say «can» or «can't»?", "say": "wéit… díyə séi kǽn ər kǽn'?", "es": "Espera… ¿has dicho «can» o «can't»?" },
+        { "who": "Mario", "en": "I said I CAN! Watch me!", "say": "ai séd ai kǽn! wách mi!", "es": "¡He dicho que SÍ puedo! ¡Mírame!" },
+        { "who": "Mike", "en": "Wow! I can't believe it!", "say": "wáu! ai kǽn' bəlíivit!", "es": "¡Hala! ¡No me lo puedo creer!" },
+        { "who": "Mario", "en": "See? You can do it too!", "say": "síi? iu kən dúu it túu!", "es": "¿Ves? ¡Tú también puedes!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        { "es": "Di <b>can</b> como un susurro: <code>kən</code>, casi «kn». Repite: <code>ai kən, ai kən</code>.", "en": "Whisper can: «kən»." },
+        { "es": "Di <b>can't</b> abriendo la boca como en cat y corta el aire en la garganta: <code>kǽn'</code>.", "en": "Say can't with an open vowel and a cut." },
+        { "es": "Da palmadas: I can <b>GO</b> (una palmada) · I <b>CAN'T GO</b> (dos palmadas).", "en": "Clap the rhythm: one clap vs. two claps." },
+        { "es": "Practica parejas: <code>ai kən góu</code> / <code>ai kǽn' góu</code>. Pide a alguien que adivine cuál dices.", "en": "Practice pairs and let someone guess." },
+        { "es": "Escanea los QR y escucha: fíjate en la vocal y en el golpe, no en la T.", "en": "Scan the QR codes and listen for the vowel and the beat." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "Can you can a can as a canner can can a can?", "say": "kən iə kǽn ə kǽn əs ə kǽner kən kǽn ə kǽn?", "es": "¿Sabes enlatar una lata como un enlatador enlata una lata? (to can = enlatar)" },
+        { "en": "I can, you can't; you can, I can't — together we can!", "say": "ai kǽn, iu kǽn'; iu kǽn, ai kǽn', təguéder wi kǽn!", "es": "Yo puedo, tú no; tú puedes, yo no: ¡juntos sí podemos!" },
+        { "en": "Candy can't stand cans of candy.", "say": "kǽndi kǽn' stǽnd kǽns əv kǽndi", "es": "Candy no soporta las latas de caramelos." }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de la palmada",
+      "title_en": "The clap trick",
+      "es": "Piensa en palmadas 👏: <b>can</b> no se lleva palmada (I can <b>GO</b> 👏), <b>can't</b> sí (I <b>CAN'T</b> 👏 <b>GO</b> 👏). Y si alguna vez no estás seguro de lo que te han dicho, pregunta sin vergüenza: «Sorry, <b>can</b> or <b>can't</b>?». ¡Los americanos también lo hacen!",
+      "en": "Clap it: can gets no clap, can't gets one. If in doubt, just ask: «Can or can't?»"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Can o can't?",
+      "title_en": "Can or can't?",
+      "icon": "🔍",
+      "es": "Lee la pronunciación figurada en voz alta y rodea lo que se dice.",
+      "en": "Read the sound-alike spelling aloud and circle can or can't.",
+      "items": [
+        { "q": "<code>ai kən swím</code> → [can|can't]", "a": "can" },
+        { "q": "<code>ai kǽn' swím</code> → [can|can't]", "a": "can't" },
+        { "q": "<code>shi kən kúk</code> → [can|can't]", "a": "can" },
+        { "q": "<code>wi kǽn' góu</code> → [can|can't]", "a": "can't" },
+        { "q": "<code>iés, ai kǽn</code> → [can|can't]", "a": "can" },
+        { "q": "<code>dei kǽn' síi it</code> → [can|can't]", "a": "can't" },
+        { "q": "<code>iu kən sít jír</code> → [can|can't]", "a": "can" },
+        { "q": "<code>nóu, shi kǽn'</code> → [can|can't]", "a": "can't" },
+        { "q": "<code>ji kən rán fǽst</code> → [can|can't]", "a": "can" },
+        { "q": "<code>ai kǽn' fáindit</code> → [can|can't]", "a": "can't" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Débil o fuerte?",
+      "title_en": "Weak or strong?",
+      "icon": "🥁",
+      "es": "¿Cómo suena <b>can</b> en cada frase? Rodea.",
+      "en": "How does can sound here? Circle.",
+      "items": [
+        { "q": "I can swim. → [débil|fuerte]", "a": "débil" },
+        { "q": "Yes, I can. → [débil|fuerte]", "a": "fuerte" },
+        { "q": "Can you help me? → [débil|fuerte]", "a": "débil" },
+        { "q": "a can of soda → [débil|fuerte]", "a": "fuerte" },
+        { "q": "We can play later. → [débil|fuerte]", "a": "débil" },
+        { "q": "I think I can. → [débil|fuerte]", "a": "fuerte" },
+        { "q": "What can I do? → [débil|fuerte]", "a": "débil" },
+        { "q": "Run as fast as you can! → [débil|fuerte]", "a": "fuerte" },
+        { "q": "She can dance. → [débil|fuerte]", "a": "débil" },
+        { "q": "Sure you can! → [débil|fuerte]", "a": "fuerte" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort them",
+      "icon": "🗂️",
+      "es": "Di cada frase en voz alta y escríbela en su columna.",
+      "en": "Say each phrase and sort it.",
+      "cats": [
+        { "name": "🐭 can débil (kən)", "words": ["I can go", "Can I…?", "We can help", "Can you…?", "She can cook"] },
+        { "name": "💪 can fuerte (kǽn)", "words": ["Yes, I can", "a can of soda", "I think I can", "Who can?", "as fast as you can"] },
+        { "name": "🚫 can't (kǽn')", "words": ["I can't go", "No, I can't", "She can't swim", "I can't wait", "Can't you see?"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada frase con su sonido",
+      "title_en": "Match phrase and sound",
+      "icon": "🔗",
+      "es": "Une la frase con su pronunciación figurada.",
+      "en": "Match each phrase with how it sounds.",
+      "pairs": [
+        ["I can go", "<code>ai kən góu</code>"],
+        ["I can't go", "<code>ai kǽn' góu</code>"],
+        ["Yes, I can", "<code>iés, ai kǽn</code>"],
+        ["No, I can't", "<code>nóu, ai kǽn'</code>"],
+        ["Can I…?", "<code>kən ai</code>"],
+        ["Can you…?", "<code>kən iə</code>"],
+        ["cannot", "<code>kǽnat</code>"],
+        ["Can't you…?", "<code>kǽnchə</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Ojo con la vocal de can: <b>ə</b> si es débil, <b>æ</b> si es fuerte (puedes escribir e/a).",
+      "en": "Write how it sounds. Watch the vowel in can.",
+      "items": [
+        { "q": "🏊 I can swim → ____", "a": "ai kən swím" },
+        { "q": "🚫 I can't swim → ____", "a": "ai kǽn' swím" },
+        { "q": "✅ Yes, I can. → ____", "a": "iés, ai kǽn" },
+        { "q": "❌ No, I can't. → ____", "a": "nóu, ai kǽn'" },
+        { "q": "🙋 Can I go? → ____", "a": "kən ai góu?" },
+        { "q": "🙏 Can you help me? → ____", "a": "kən iə jélp mi?" },
+        { "q": "🥫 a can → ____", "a": "ə kǽn" },
+        { "q": "😲 cannot → ____", "a": "kǽnat" },
+        { "q": "🏀 Can't you see? → ____", "a": "kǽnchə síi?" },
+        { "q": "💃 She can dance → ____", "a": "shi kən dǽns" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos: la frase, cómo suena o qué significa.",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Suena", "Español"],
+      "rows": [
+        ["I can swim.", "?ai kən swím", "Sé nadar."],
+        ["?I can't swim.", "ai kǽn' swím", "No sé nadar."],
+        ["Yes, I can.", "iés, ai kǽn", "?Sí, puedo."],
+        ["No, I can't.", "?nóu, ai kǽn'", "No, no puedo."],
+        ["?Can I go?", "kən ai góu?", "¿Puedo ir?"],
+        ["Can you help me?", "?kən iə jélp mi?", "¿Me ayudas?"],
+        ["I can't wait!", "ai kǽn' wéit!", "?¡Qué ganas!"],
+        ["?cannot", "kǽnat", "no puedo (muy claro)"]
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "In «I can swim», «can» is usually weak: «kən».", "a": true },
+        { "q": "The T in «can't» is always very clear in American English.", "a": false, "why": "casi no se oye: kǽn'" },
+        { "q": "«Can't» usually has more stress than «can».", "a": true },
+        { "q": "In «Yes, I can», «can» is strong.", "a": true },
+        { "q": "In British English, «can't» sounds like «kaant».", "a": true },
+        { "q": "If you say «can» very strongly, an American may hear «can't».", "a": true },
+        { "q": "«Can» meaning «lata» is always weak.", "a": false, "why": "como sustantivo va fuerte: ə kǽn" },
+        { "q": "«Cannot» is a very clear way to say «can't».", "a": true }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pásalo a negativa",
+      "title_en": "Make it negative",
+      "icon": "🔄",
+      "es": "Escribe la frase en negativa y cómo suena. ¡Dale fuerza a can't!",
+      "en": "Make it negative and write how it sounds.",
+      "items": [
+        { "q": "I can swim.", "a": "I can't swim. (ai kǽn' swím)" },
+        { "q": "She can dance.", "a": "She can't dance. (shi kǽn' dǽns)" },
+        { "q": "We can go.", "a": "We can't go. (wi kǽn' góu)" },
+        { "q": "You can sit here.", "a": "You can't sit here. (iu kǽn' sít jír)" },
+        { "q": "Rocky can jump.", "a": "Rocky can't jump. (ráki kǽn' yámp)" },
+        { "q": "They can see it.", "a": "They can't see it. (dei kǽn' síi it)" },
+        { "q": "I can find it.", "a": "I can't find it. (ai kǽn' fáindit)" },
+        { "q": "He can play.", "a": "He can't play. (ji kǽn' pléi)" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "I can swim → <code>ai kǽn swím</code>", "a": "ai kən swím (can débil)" },
+        { "q": "I can't go → <code>ai kən góu</code>", "a": "ai kǽn' góu (can't fuerte)" },
+        { "q": "Yes, I can → <code>iés, ai kən</code>", "a": "iés, ai kǽn (al final, fuerte)" },
+        { "q": "Can you help me? → <code>KǼN iu jélp mi?</code>", "a": "kən iə jélp mi?" },
+        { "q": "can't → <code>kánt</code>", "a": "kǽn' (a abierta, sin soltar la T)" },
+        { "q": "a can of soda → <code>ə kən əv sóurə</code>", "a": "ə kǽn əv sóurə (lata = fuerte)" },
+        { "q": "No, I can't → <code>nóu, ai kən</code>", "a": "nóu, ai kǽn'" },
+        { "q": "Can I go? → <code>KǼN ái góu?</code>", "a": "kən ai góu?" }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧩",
+      "es": "Ordena las palabras. Después dila en voz alta con el ritmo correcto.",
+      "en": "Put the words in order and say it aloud.",
+      "items": [
+        { "q": "swim / can / I", "a": "I can swim" },
+        { "q": "dive / swim / I / can't / but / can / I", "a": "I can swim but I can't dive" },
+        { "q": "help / Can / me / you", "a": "Can you help me" },
+        { "q": "can / I / Yes", "a": "Yes, I can" },
+        { "q": "believe / I / it / cannot", "a": "I cannot believe it" },
+        { "q": "piano / Lucía / play / can / the", "a": "Lucía can play the piano" },
+        { "q": "find / keys / can't / my / I", "a": "I can't find my keys" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces y marca una casilla cada vez. ¡Can flojito, can't con golpe!",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "I can swim.", "say": "ai kən swím" },
+        { "q": "I can't swim.", "say": "ai kǽn' swím" },
+        { "q": "Yes, I can!", "say": "iés, ai kǽn!" },
+        { "q": "No, I can't.", "say": "nóu, ai kǽn'" },
+        { "q": "Can I go?", "say": "kən ai góu?" },
+        { "q": "Can you help me?", "say": "kən iə jélp mi?" },
+        { "q": "I can't wait!", "say": "ai kǽn' wéit!" },
+        { "q": "You can do it!", "say": "iu kən dúu it!" },
+        { "q": "I cannot believe it!", "say": "ai kǽnat bəlíivit!" },
+        { "q": "Can you can a can?", "say": "kən iə kǽn ə kǽn?" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con el ritmo correcto.",
+      "en": "Translate into English and say it with the right rhythm.",
+      "items": [
+        { "q": "Sé nadar.", "a": "I can swim. (ai kən swím)" },
+        { "q": "No sé nadar.", "a": "I can't swim. (ai kǽn' swím)" },
+        { "q": "Sí, puedo.", "a": "Yes, I can. (iés, ai kǽn)" },
+        { "q": "No, no puedo.", "a": "No, I can't. (nóu, ai kǽn')" },
+        { "q": "¿Puedo ir?", "a": "Can I go? (kən ai góu?)" },
+        { "q": "¿Me ayudas?", "a": "Can you help me? (kən iə jélp mi?)" },
+        { "q": "¡Qué ganas!", "a": "I can't wait! (ai kǽn' wéit!)" },
+        { "q": "una lata", "a": "a can (ə kǽn)" },
+        { "q": "¡Tú puedes!", "a": "You can do it! (iu kən dúu it!)" },
+        { "q": "¡No me lo puedo creer!", "a": "I cannot believe it! (ai kǽnat bəlíivit!)" }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y escucha el golpe",
+      "title_en": "Read and feel the beat",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "At the pool",
+      "text": [
+        "Mario and Mike are at the pool. Mike can swim, but he can't dive. Mario can dive, and he can swim very fast.",
+        "“Can you teach me?” asks Mike. “Yes, I can!” says Mario. “I can't wait!” says Mike."
+      ],
+      "items": [
+        { "q": "Can Mike dive?", "a": "No, he can't. (<code>nóu, ji kǽn'</code>)" },
+        { "q": "How does «can» sound in «Mike can swim»?", "a": "Débil: <code>kən</code>" },
+        { "q": "How does «can» sound in «Yes, I can!»?", "a": "Fuerte: <code>kǽn</code> (al final)" },
+        { "q": "Mario can't swim.", "tf": true, "a": false, "why": "Mario can swim very fast." },
+        { "q": "In «he can't dive», «can't» is strong.", "tf": true, "a": true },
+        { "q": "Mike is not excited.", "tf": true, "a": false, "why": "I can't wait! = ¡Qué ganas!" }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "¿Dónde va el golpe?",
+      "title_en": "Where's the main beat?",
+      "icon": "👏",
+      "es": "Rodea la palabra que lleva el golpe principal. ¿Cuándo se lo lleva can?",
+      "en": "Circle the word with the main stress.",
+      "items": [
+        { "syl": ["I", "can", "swim"], "s": 2, "es": "Sé nadar." },
+        { "syl": ["Yes,", "I", "can"], "s": 2, "es": "Sí, puedo." },
+        { "syl": ["Can", "you", "help", "me?"], "s": 2, "es": "¿Me ayudas?" },
+        { "syl": ["She", "can", "dance"], "s": 2, "es": "Sabe bailar." },
+        { "syl": ["I", "think", "I", "can"], "s": 3, "es": "Creo que puedo." },
+        { "syl": ["We", "can", "play"], "s": 2, "es": "Podemos jugar." },
+        { "syl": ["Run", "as", "fast", "as", "you", "can"], "s": 5, "es": "Corre todo lo que puedas." },
+        { "syl": ["What", "can", "I", "do?"], "s": 3, "es": "¿Qué puedo hacer?" }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases. Léelas en voz alta y grábate: ¿se nota la diferencia?",
+      "en": "Write your own sentences, read them aloud and record yourself.",
+      "items": [
+        { "q": "Escribe 2 cosas que sabes hacer (I can…).", "lines": 2, "a": "Ej.: I can swim. I can play the guitar." },
+        { "q": "Escribe 2 cosas que no sabes hacer (I can't…).", "lines": 2, "a": "Ej.: I can't dive. I can't cook." },
+        { "q": "Pregunta a alguien si sabe hacer algo (Can you…?).", "lines": 2, "a": "Ej.: Can you ride a bike?" }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Digo <b>can</b> flojito: <code>ai kən swím</code>.", "en": "I say can weakly." },
+    { "es": "Digo <b>can't</b> fuerte y abierta: <code>ai kǽn' swím</code>.", "en": "I say can't strongly, with an open vowel." },
+    { "es": "Sé que al final de la frase can va fuerte: <code>iés, ai kǽn</code>.", "en": "I know can is strong at the end." },
+    { "es": "Distingo can y can't por la vocal y el golpe, no por la T.", "en": "I tell them apart by the vowel and the beat." },
+    { "es": "Sé usar <b>cannot</b> para dejarlo clarísimo.", "en": "I can use cannot to be totally clear." },
+    { "es": "Puedo decir el trabalenguas «Can you can a can?».", "en": "I can say «Can you can a can?»." }
+  ]
+}

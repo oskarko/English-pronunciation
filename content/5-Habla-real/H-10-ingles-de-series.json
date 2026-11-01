@@ -1,0 +1,1699 @@
+{
+  "id": "H-10",
+  "block": "H",
+  "title": "INGLÉS DE SERIES",
+  "file_title": "Inglés de series",
+  "subtitle": "TV English · Come on! = «kəmán»",
+  "icon": "🍿",
+  "map": {
+    "center": "En series y pelis, el inglés va <b>a toda velocidad</b>: frases pegadas y encogidas. Come on! = <code>kəmán</code>.",
+    "listen": "are you kidding me",
+    "nodes": [
+      {
+        "title": "¡Sorpresa!",
+        "icon": "😲",
+        "color": "green",
+        "rows": [
+          [
+            "Oh my God!",
+            "<code>ou mai gád</code>"
+          ],
+          [
+            "No way!",
+            "<code>nóu wéi</code>"
+          ],
+          [
+            "Are you kidding me?",
+            "<code>ər iə kírin mi</code>"
+          ]
+        ]
+      },
+      {
+        "title": "¡Venga ya!",
+        "icon": "🙄",
+        "color": "blue",
+        "rows": [
+          [
+            "Come on!",
+            "<code>kəmán</code>"
+          ],
+          [
+            "Get out of here!",
+            "<code>gueráurə jír</code>"
+          ],
+          [
+            "Whatever.",
+            "<code>waréver</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Para ganar tiempo",
+        "icon": "🤔",
+        "color": "purple",
+        "rows": [
+          [
+            "You know what?",
+            "<code>iənóu wát</code>"
+          ],
+          [
+            "I mean…",
+            "<code>ai míin</code>"
+          ],
+          [
+            "Wait a minute!",
+            "<code>wéirə mínit</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Formas cortas",
+        "icon": "✂️",
+        "color": "orange",
+        "rows": [
+          [
+            "Gotta go!",
+            "<code>gárə góu</code>"
+          ],
+          [
+            "Lemme see.",
+            "<code>lémi síi</code>"
+          ],
+          [
+            "Whatcha doin'?",
+            "<code>wáchə dúuin</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Del sur de EE. UU.",
+        "icon": "🤠",
+        "color": "pink",
+        "rows": [
+          [
+            "y'all",
+            "<code>iól</code>"
+          ],
+          [
+            "Howdy!",
+            "<code>jáuri</code>"
+          ]
+        ],
+        "after": "= «vosotros» y «¡hola!» en Texas"
+      },
+      {
+        "title": "Truco para series",
+        "icon": "📺",
+        "color": "yellow",
+        "html": "Pon <b>subtítulos en inglés</b>, no en español: verás lo que se escribe y oirás cómo se dice.",
+        "art": "🍿"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "<code>kom ón</code> (palabra a palabra)"
+      ],
+      "good": [
+        "<code>kəmán</code> 💪"
+      ],
+      "note": "Come se queda en «kəm» y on suena con a abierta"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "💪 Come on! → ____",
+          "a": "kəmán"
+        },
+        {
+          "q": "😲 No way! → ____",
+          "a": "nóu wéi"
+        },
+        {
+          "q": "⏱️ Wait a minute! → ____",
+          "a": "wéirə mínit"
+        },
+        {
+          "q": "🏃 Gotta go! → ____",
+          "a": "gárə góu"
+        },
+        {
+          "q": "🙄 Whatever. → ____",
+          "a": "waréver"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Por qué no entiendo las series?",
+      "title_en": "Why is TV English so hard?",
+      "icon": "🍿",
+      "es": "En clase, el inglés va despacito y bien vocalizado. En las series, los personajes hablan <b>como en la vida real</b>: rápido, pegando palabras (H-01), fundiendo sonidos (H-06), comiéndose otros (H-07) y usando gonna, gotta y compañía (H-04). Aquí tienes las frases que más oirás en series y pelis americanas, <mark>tal como suenan de verdad</mark>, y trucos para entenderlas. ¡Palomitas listas!",
+      "en": "On TV, people speak fast and naturally. These are the phrases you'll hear most, the way they really sound, plus tips to understand series.",
+      "formula": [
+        "Get + out + of + here → *gueráurə jír*"
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · ¡Sorpresa!",
+      "title_en": "Surprise!",
+      "icon": "😲",
+      "es": "Para reaccionar ante algo increíble. Ojo: <b>Shut up!</b> entre amigos y con sonrisa significa «¡No me digas!», pero dicho en serio es «¡Cállate!», que es muy borde. Muchas familias prefieren <b>Oh my gosh!</b> en lugar de Oh my God.",
+      "en": "Reactions to surprising news. Shut up! with a smile means «No way!»; said seriously, it's rude.",
+      "examples": [
+        {
+          "en": "Oh my God!",
+          "say": "ou mai gád!",
+          "es": "¡Dios mío!",
+          "icon": "😱"
+        },
+        {
+          "en": "Oh my gosh!",
+          "say": "ou mai gásh!",
+          "es": "¡Madre mía! (más suave)",
+          "icon": "😮"
+        },
+        {
+          "en": "No way!",
+          "say": "nóu wéi!",
+          "es": "¡No me digas! / ¡Ni hablar!",
+          "icon": "😲"
+        },
+        {
+          "en": "Are you kidding me?",
+          "say": "ər iə kírin mi?",
+          "es": "¿Me tomas el pelo?",
+          "icon": "🤨"
+        },
+        {
+          "en": "Seriously?",
+          "say": "síriəsli?",
+          "es": "¿En serio?",
+          "icon": "😐"
+        },
+        {
+          "en": "Shut up!",
+          "say": "sharáp!",
+          "es": "¡No me digas! (con sonrisa)",
+          "icon": "🤐"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · ¡Venga ya!",
+      "title_en": "Come on!",
+      "icon": "🙄",
+      "es": "<b>Come on</b> sirve para todo: animar («¡Vamos!»), meter prisa o protestar («¡Venga ya!»). <b>Get out of here!</b> puede ser literal («¡Fuera!») o de broma («¡Anda ya!»). Y <b>What the heck</b> es la forma suave y apta para todos: no hace falta ir más lejos.",
+      "en": "Come on can cheer, hurry or protest. What the heck is the soft, family-friendly version.",
+      "examples": [
+        {
+          "en": "Come on!",
+          "say": "kəmán!",
+          "es": "¡Venga! / ¡Vamos!",
+          "icon": "💪"
+        },
+        {
+          "en": "Get out of here!",
+          "say": "gueráurə jír!",
+          "es": "¡Anda ya! / ¡Fuera de aquí!",
+          "icon": "🚪"
+        },
+        {
+          "en": "Whatever.",
+          "say": "waréver",
+          "es": "Me da igual. / Lo que tú digas.",
+          "icon": "🙄"
+        },
+        {
+          "en": "What the heck?",
+          "say": "wat də jék?",
+          "es": "¿Pero qué…?",
+          "icon": "🤯"
+        },
+        {
+          "en": "Give me a break!",
+          "say": "guími ə bréik!",
+          "es": "¡Dame un respiro!",
+          "icon": "😩"
+        },
+        {
+          "en": "Big deal!",
+          "say": "bíg díil!",
+          "es": "¡Vaya cosa!",
+          "icon": "🤷"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Para ganar tiempo",
+      "title_en": "Buying time",
+      "icon": "🤔",
+      "es": "Los personajes rellenan huecos todo el rato: <b>I mean</b> («o sea»), <b>like</b> («en plan»), <b>you know</b> («ya sabes»). Si los reconoces, dejarás de perderte buscando su significado: ¡casi no significan nada!",
+      "en": "Fillers like I mean, like and you know fill gaps. They hardly mean anything.",
+      "examples": [
+        {
+          "en": "You know what?",
+          "say": "iənóu wát?",
+          "es": "¿Sabes qué?",
+          "icon": "💡"
+        },
+        {
+          "en": "I mean…",
+          "say": "ai míin…",
+          "es": "O sea… / Quiero decir…",
+          "icon": "🗣️"
+        },
+        {
+          "en": "Wait a minute!",
+          "say": "wéirə mínit!",
+          "es": "¡Espera un momento!",
+          "icon": "⏱️"
+        },
+        {
+          "en": "Hold on!",
+          "say": "jóuldán!",
+          "es": "¡Espera!",
+          "icon": "✋"
+        },
+        {
+          "en": "like…",
+          "say": "láik…",
+          "es": "en plan…",
+          "icon": "💬"
+        },
+        {
+          "en": "you know…",
+          "say": "iənóu…",
+          "es": "ya sabes…",
+          "icon": "🤝"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Formas cortas",
+      "title_en": "Short forms",
+      "icon": "✂️",
+      "es": "Muchas frases de series vienen ya encogidas: gonna, gotta, wanna (H-04), lemme, kinda (H-07), whatcha (H-06). A veces las verás así escritas en los subtítulos. Muy rápido, I'm gonna suena casi <code>áimənə</code>.",
+      "en": "Series are full of short forms: gonna, gotta, wanna, lemme, whatcha.",
+      "examples": [
+        {
+          "en": "Gotta go!",
+          "say": "gárə góu!",
+          "es": "¡Me tengo que ir!",
+          "icon": "🏃"
+        },
+        {
+          "en": "I'm gonna…",
+          "say": "aim gánə…",
+          "es": "Voy a…",
+          "icon": "👉"
+        },
+        {
+          "en": "Lemme see.",
+          "say": "lémi síi",
+          "es": "A ver. / Déjame ver.",
+          "icon": "👀"
+        },
+        {
+          "en": "Whatcha doin'?",
+          "say": "wáchə dúuin?",
+          "es": "¿Qué haces?",
+          "icon": "🤔"
+        },
+        {
+          "en": "Wanna come?",
+          "say": "wánə kám?",
+          "es": "¿Quieres venir?",
+          "icon": "🎉"
+        },
+        {
+          "en": "Kinda cool.",
+          "say": "káində kúul",
+          "es": "Bastante guay.",
+          "icon": "😎"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Y'all y palabras de la calle",
+      "title_en": "Y'all and street words",
+      "icon": "🤠",
+      "es": "Cada zona de EE. UU. tiene sus palabras. En el sur (Texas, Georgia…) dicen <b>y'all</b> (you all, «vosotros») y <b>Howdy!</b>; en el resto, <b>you guys</b>, aunque hablen a chicas. Y en cualquier serie de adolescentes: dude, awesome, cool.",
+      "en": "In the South, people say y'all and Howdy. Elsewhere, you guys. Teens say dude, awesome, cool.",
+      "examples": [
+        {
+          "en": "y'all",
+          "say": "iól",
+          "es": "vosotros (sur de EE. UU.)",
+          "icon": "🤠"
+        },
+        {
+          "en": "Howdy!",
+          "say": "jáuri!",
+          "es": "¡Hola! (Texas)",
+          "icon": "🌵"
+        },
+        {
+          "en": "you guys",
+          "say": "iu gáis",
+          "es": "vosotros, chicos",
+          "icon": "👥"
+        },
+        {
+          "en": "Dude!",
+          "say": "dúud!",
+          "es": "¡Tío!",
+          "icon": "🏄"
+        },
+        {
+          "en": "Awesome!",
+          "say": "ósəm!",
+          "es": "¡Genial!",
+          "icon": "🤩"
+        },
+        {
+          "en": "Cool!",
+          "say": "kúul!",
+          "es": "¡Guay!",
+          "icon": "😎"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "Come on",
+          "ipa": "kəˈmɑn",
+          "say": "kəmán",
+          "es": "¡venga!",
+          "icon": "🐊",
+          "anchor": "<b>ca</b>i<b>mán</b> 🐊 (sin la i)",
+          "tip": "Di «caimán» comiéndote la i: kə-MÁN. Come on, caimán!"
+        },
+        {
+          "en": "Get out of here",
+          "ipa": "ɡɛˈɾaʊɾə ˈhɪr",
+          "say": "gueráurə jír",
+          "es": "¡anda ya!",
+          "icon": "✨",
+          "anchor": "gue + <b>aura</b> ✨ + jir",
+          "tip": "Las T de get y out suenan r (C-02) y of se queda en ə: gue-RÁU-rə JÍR."
+        },
+        {
+          "en": "Shut up",
+          "ipa": "ʃʌˈɾʌp",
+          "say": "sharáp",
+          "es": "¡calla! / ¡no me digas!",
+          "icon": "🎤",
+          "anchor": "sha + <b>rap</b> 🎤",
+          "tip": "Como en C-02. Con sonrisa = «¡no me digas!»; en serio = «¡cállate!» (borde)."
+        },
+        {
+          "en": "No way",
+          "ipa": "ˈnoʊ ˈweɪ",
+          "say": "nóu wéi",
+          "es": "¡no me digas!",
+          "icon": "🐂",
+          "anchor": "no + <b>buey</b> 🐂 (sin b)",
+          "tip": "Di «buey» sin la b: «uéi». ¿Un buey en tu salón? ¡No way!"
+        },
+        {
+          "en": "kidding",
+          "ipa": "ˈkɪɾɪn",
+          "say": "kírin",
+          "es": "bromeando",
+          "icon": "🧀",
+          "anchor": "<b>Kiri</b> 🧀 + n",
+          "tip": "La DD entre vocales suena r (C-02): KÍ-rin. Are you kidding me? = <code>ər iə kírin mi?</code>"
+        },
+        {
+          "en": "you know",
+          "ipa": "jəˈnoʊ",
+          "say": "iənóu",
+          "es": "ya sabes",
+          "icon": "🙅",
+          "anchor": "<b>ya no</b> 🙅 (+ u)",
+          "tip": "Di «ya no» con una i suave al principio y la o final en «ou»: iə-NÓU."
+        },
+        {
+          "en": "dude",
+          "ipa": "duːd",
+          "say": "duud",
+          "es": "tío",
+          "icon": "🏄",
+          "anchor": "<b>dud</b>a 🤔 (con u larga)",
+          "tip": "«Duda» sin la a y alargando la u: DUUD. Dude, that's awesome!"
+        },
+        {
+          "en": "seriously",
+          "ipa": "ˈsɪriəsli",
+          "say": "síriəsli",
+          "es": "en serio",
+          "icon": "📱",
+          "anchor": "<b>Siri</b> 📱 + əsli",
+          "tip": "SÍ-ri-ə-sli. Aquí la r es americana: la lengua no toca nada (C-01)."
+        },
+        {
+          "en": "let me",
+          "ipa": "ˈlɛmi",
+          "say": "lémi",
+          "es": "déjame (lemme)",
+          "icon": "👀",
+          "anchor": "<b>lemi</b>ng 🐹",
+          "tip": "Como en H-07: «leming» sin la ng. Lemme see = a ver."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "come on",
+          "es": "¡venga!"
+        },
+        {
+          "q": "no way",
+          "es": "¡no me digas!"
+        },
+        {
+          "q": "are you kidding me",
+          "es": "¿me tomas el pelo?"
+        },
+        {
+          "q": "whatever",
+          "es": "me da igual"
+        },
+        {
+          "q": "gotta go",
+          "es": "me tengo que ir"
+        },
+        {
+          "q": "you know what",
+          "es": "¿sabes qué?"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "El tono lo cambia todo",
+      "title_en": "Tone changes everything",
+      "icon": "🎭",
+      "head": [
+        "Frase · Phrase",
+        "Suena",
+        "Con sonrisa 😄",
+        "En serio 😠"
+      ],
+      "rows": [
+        [
+          "Shut up!",
+          "<code>sharáp!</code>",
+          "¡No me digas!",
+          "¡Cállate! (borde)"
+        ],
+        [
+          "Get out of here!",
+          "<code>gueráurə jír!</code>",
+          "¡Anda ya!",
+          "¡Fuera de aquí!"
+        ],
+        [
+          "Come on!",
+          "<code>kəmán!</code>",
+          "¡Vamos, tú puedes!",
+          "¡Venga ya, hombre!"
+        ],
+        [
+          "No way!",
+          "<code>nóu wéi!</code>",
+          "¡No me digas!",
+          "¡Ni hablar!"
+        ],
+        [
+          "Whatever.",
+          "<code>waréver</code>",
+          "Me da igual, tú eliges.",
+          "Lo que tú digas (pasota)."
+        ],
+        [
+          "Seriously?",
+          "<code>síriəsli?</code>",
+          "¿En serio? ¡Qué fuerte!",
+          "¿Me lo dices en serio?"
+        ]
+      ],
+      "note": "En inglés, el <b>tono</b> cambia el significado (R-05). Si no estás seguro, usa la versión con sonrisa… ¡y sonríe de verdad!",
+      "note_en": "Tone changes the meaning. When in doubt, smile."
+    },
+    {
+      "t": "compare",
+      "wide": true,
+      "title": "Subtítulo vs. lo que oyes",
+      "title_en": "Subtitles vs. what you hear",
+      "icon": "📺",
+      "es": "Los subtítulos suelen escribir la forma completa, pero el actor dice la corta. ¡No te asustes si no coinciden!",
+      "en": "Subtitles often show the full form, but actors say the short one.",
+      "cols": [
+        {
+          "head": "📺 Subtítulo",
+          "color": "blue",
+          "items": [
+            "I'm going to call her.",
+            "What are you doing?",
+            "I've got to go.",
+            "Let me see.",
+            "Get out of here!"
+          ]
+        },
+        {
+          "head": "👂 Lo que oyes",
+          "color": "red",
+          "items": [
+            "<code>aim gánə kóler</code>",
+            "<code>wáchə dúuin?</code>",
+            "<code>gárə góu</code>",
+            "<code>lémi síi</code>",
+            "<code>gueráurə jír!</code>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "vocab",
+      "wide": true,
+      "cols": 5,
+      "title": "Palabras estrella de las series",
+      "title_en": "TV star words",
+      "icon": "⭐",
+      "items": [
+        {
+          "en": "dude",
+          "es": "tío",
+          "icon": "🏄"
+        },
+        {
+          "en": "awesome",
+          "es": "genial",
+          "icon": "🤩"
+        },
+        {
+          "en": "cool",
+          "es": "guay",
+          "icon": "😎"
+        },
+        {
+          "en": "you guys",
+          "es": "vosotros",
+          "icon": "👥"
+        },
+        {
+          "en": "y'all",
+          "es": "vosotros (sur)",
+          "icon": "🤠"
+        },
+        {
+          "en": "totally",
+          "es": "totalmente",
+          "icon": "💯"
+        },
+        {
+          "en": "literally",
+          "es": "literalmente (¡para todo!)",
+          "icon": "📖"
+        },
+        {
+          "en": "no kidding",
+          "es": "¿en serio? / ya te digo",
+          "icon": "😯"
+        },
+        {
+          "en": "my bad",
+          "es": "culpa mía",
+          "icon": "🙈"
+        },
+        {
+          "en": "for real",
+          "es": "en serio",
+          "icon": "✅"
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "Come on!",
+          "spoken": "C'mon!",
+          "say": "kəmán!",
+          "es": "¡Venga!"
+        },
+        {
+          "written": "Get out of here!",
+          "spoken": "Get outta here!",
+          "say": "gueráurə jír!",
+          "es": "¡Anda ya!"
+        },
+        {
+          "written": "What are you doing?",
+          "spoken": "Whatcha doin'?",
+          "say": "wáchə dúuin?",
+          "es": "¿Qué haces?"
+        },
+        {
+          "written": "I've got to go.",
+          "spoken": "Gotta go!",
+          "say": "gárə góu!",
+          "es": "¡Me tengo que ir!"
+        },
+        {
+          "written": "I'm going to call her.",
+          "spoken": "I'm gonna call 'er.",
+          "say": "aim gánə kóler",
+          "es": "Voy a llamarla."
+        },
+        {
+          "written": "Let me see.",
+          "spoken": "Lemme see.",
+          "say": "lémi síi",
+          "es": "A ver."
+        },
+        {
+          "written": "Are you kidding me?",
+          "spoken": "Are ya kiddin' me?",
+          "say": "ər iə kírin mi?",
+          "es": "¿Me tomas el pelo?"
+        },
+        {
+          "written": "You know what?",
+          "spoken": "Y'know what?",
+          "say": "iənóu wát?",
+          "es": "¿Sabes qué?"
+        },
+        {
+          "written": "Don't worry about it.",
+          "spoken": "Don' worry 'bout it.",
+          "say": "dóun wéri báurit",
+          "es": "No te preocupes."
+        },
+        {
+          "written": "Wait a minute!",
+          "spoken": "Waida minute!",
+          "say": "wéirə mínit!",
+          "es": "¡Espera un momento!"
+        },
+        {
+          "written": "You all ready?",
+          "spoken": "Y'all ready?",
+          "say": "iól réri?",
+          "es": "¿Estáis listos?"
+        },
+        {
+          "written": "Do you want to come?",
+          "spoken": "Wanna come?",
+          "say": "wánə kám?",
+          "es": "¿Quieres venir?"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases de serie para leer en voz alta",
+      "title_en": "TV lines to read aloud",
+      "items": [
+        {
+          "en": "Come on, Tyler! You can do it!",
+          "say": "kəmán, táiler! iu kən dúu it!",
+          "es": "¡Vamos, Tyler! ¡Tú puedes!",
+          "icon": "🏀"
+        },
+        {
+          "en": "No way! Is that a real dinosaur?",
+          "say": "nóu wéi! is dǽrə ríil dáinəsor?",
+          "es": "¡No me digas! ¿Eso es un dinosaurio de verdad?",
+          "icon": "🦖"
+        },
+        {
+          "en": "Whatever. I don't care.",
+          "say": "waréver. ai dóun kér",
+          "es": "Me da igual. No me importa.",
+          "icon": "🙄"
+        },
+        {
+          "en": "Sorry, gotta go! See ya!",
+          "say": "sári, gárə góu! síiə!",
+          "es": "¡Perdona, me tengo que ir! ¡Chao!",
+          "icon": "🏃"
+        },
+        {
+          "en": "Wait a minute… where's Rocky?",
+          "say": "wéirə mínit… wérs ráki?",
+          "es": "Espera un momento… ¿dónde está Rocky?",
+          "icon": "🐶"
+        },
+        {
+          "en": "Are you kidding me? We won!",
+          "say": "ər iə kírin mi? wi wán!",
+          "es": "¿En serio? ¡Hemos ganado!",
+          "icon": "🏆"
+        },
+        {
+          "en": "You know what? Let's order pizza.",
+          "say": "iənóu wát? lets órder píitsə",
+          "es": "¿Sabes qué? Pidamos pizza.",
+          "icon": "🍕"
+        },
+        {
+          "en": "I mean, it's not a big deal.",
+          "say": "ai míin, its nárə bíg díil",
+          "es": "O sea, tampoco es para tanto.",
+          "icon": "🤷"
+        },
+        {
+          "en": "Whatcha doin', Mario?",
+          "say": "wáchə dúuin, mário?",
+          "es": "¿Qué haces, Mario?",
+          "icon": "👀"
+        },
+        {
+          "en": "I'm gonna eat the last slice!",
+          "say": "aim gánə íit də lǽs sláis!",
+          "es": "¡Me voy a comer el último trozo!",
+          "icon": "🍕"
+        },
+        {
+          "en": "Howdy, y'all! Welcome to Texas!",
+          "say": "jáuri, iól! wélkəm tə téksəs!",
+          "es": "¡Hola a todos! ¡Bienvenidos a Texas!",
+          "icon": "🤠"
+        },
+        {
+          "en": "Get out of here! That's so funny!",
+          "say": "gueráurə jír! dæts sóu fáni!",
+          "es": "¡Anda ya! ¡Qué gracioso!",
+          "icon": "😂"
+        },
+        {
+          "en": "Oh my gosh, it's snowing!",
+          "say": "ou mai gásh, its snóuing!",
+          "es": "¡Madre mía, está nevando!",
+          "icon": "❄️"
+        },
+        {
+          "en": "Seriously? Again?",
+          "say": "síriəsli? əguén?",
+          "es": "¿En serio? ¿Otra vez?",
+          "icon": "😩"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "Come on → <code>kom ón</code>",
+          "good": "<code>kəmán</code>",
+          "why": "Come se queda en «kəm» y on suena con a abierta (V-05). Todo pegado.",
+          "why_en": "Say «kəmán», all in one."
+        },
+        {
+          "bad": "Whatever → <code>guatéber</code>",
+          "good": "<code>waréver</code>",
+          "why": "La T suena r (C-02), V de verdad (C-07) y la fuerza en E: wa-RÉ-ver.",
+          "why_en": "Tap the T, use a real V, stress EV."
+        },
+        {
+          "bad": "Shut up → <code>shat ap</code> (y en serio, a un profe)",
+          "good": "<code>sharáp</code> (y con sonrisa, entre amigos)",
+          "why": "La T se pega a up: sha-RÁP. Y ojo: dicho en serio es muy borde.",
+          "why_en": "Link it: «sharáp». Said seriously, it's rude."
+        },
+        {
+          "bad": "Oh my God → <code>o mai gód</code>",
+          "good": "<code>ou mai gád</code>",
+          "why": "La o de oh es «ou» (V-08) y la de God, una a abierta (V-05).",
+          "why_en": "Oh = «ou», God = «gád»."
+        },
+        {
+          "bad": "Are you kidding me? → <code>ar iú kíding mi</code>",
+          "good": "<code>ər iə kírin mi</code>",
+          "why": "Are y you van flojitos, y la DD suena r (C-02).",
+          "why_en": "Weak are and you; the DD is a tap."
+        },
+        {
+          "bad": "y'all → <code>yál</code> (con y fuerte)",
+          "good": "<code>iól</code>",
+          "why": "Es you + all: una i suave y luego «ol».",
+          "why_en": "It's you + all: «iól»."
+        },
+        {
+          "bad": "Gotta go → <code>góta gó</code>",
+          "good": "<code>gárə góu</code>",
+          "why": "La TT suena r (C-02) y go es «gou» (V-08).",
+          "why_en": "Tap the TT and say «gou»."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Noche de series",
+      "title_en": "Movie night",
+      "lines": [
+        {
+          "who": "Jenny",
+          "en": "Come on, Lucía! The show's starting!",
+          "say": "kəmán, lusíə! də shóus stárding!",
+          "es": "¡Venga, Lucía! ¡Que empieza la serie!"
+        },
+        {
+          "who": "Lucía",
+          "en": "Wait a minute! Lemme get the popcorn.",
+          "say": "wéirə mínit! lémi guét də pápkorn",
+          "es": "¡Espera un momento! Déjame coger las palomitas."
+        },
+        {
+          "who": "Jenny",
+          "en": "Oh my gosh, look! That's the new guy.",
+          "say": "ou mai gásh, lúk! dæts də núu gái",
+          "es": "¡Madre mía, mira! Es el chico nuevo."
+        },
+        {
+          "who": "Lucía",
+          "en": "No way! He's from Texas? Howdy, y'all!",
+          "say": "nóu wéi! jiis frəm téksəs? jáuri, iól!",
+          "es": "¡No me digas! ¿Es de Texas? ¡Hola a todos!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Shh! I can't hear. What did he say?",
+          "say": "sh! ai kǽn' jír. wat dídi séi?",
+          "es": "¡Chis! No oigo. ¿Qué ha dicho?"
+        },
+        {
+          "who": "Lucía",
+          "en": "I dunno. English subtitles, please!",
+          "say": "ai dənóu. ínglish sábtairəls, plíis!",
+          "es": "No sé. ¡Subtítulos en inglés, por favor!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Whatever. You know what? You're right.",
+          "say": "waréver. iənóu wát? iər ráit",
+          "es": "Vale. ¿Sabes qué? Tienes razón."
+        },
+        {
+          "who": "Lucía",
+          "en": "Awesome! Now I get it!",
+          "say": "ósəm! náu ai guérit!",
+          "es": "¡Genial! ¡Ahora sí lo pillo!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo ver series para aprender",
+      "title_en": "How to learn with series",
+      "items": [
+        {
+          "es": "Elige algo que <b>ya conozcas</b> (una peli que te sabes en español) o una serie de dibujos: entenderás la historia aunque se te escapen palabras.",
+          "en": "Start with something you already know."
+        },
+        {
+          "es": "Pon <b>subtítulos en inglés</b>, nunca en español: ves lo que se escribe y oyes cómo se dice.",
+          "en": "Use English subtitles, not Spanish ones."
+        },
+        {
+          "es": "Cuando una frase te sorprenda, <b>para</b>, vuelve 5 segundos atrás y escúchala otra vez. Y otra.",
+          "en": "Pause, rewind 5 seconds and listen again."
+        },
+        {
+          "es": "Haz de <b>sombra</b> (shadowing): repite la frase justo detrás del actor, copiando su música y su velocidad.",
+          "en": "Shadow the actors: repeat right after them."
+        },
+        {
+          "es": "Apunta tus frases favoritas con su figurada: <code>kəmán</code>, <code>gueráurə jír</code>…",
+          "en": "Write down your favorite lines."
+        },
+        {
+          "es": "Cuando te sientas seguro, prueba un capítulo <b>sin subtítulos</b>. ¡Te sorprenderás!",
+          "en": "Then try an episode with no subtitles."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Cadenas de serie",
+      "title_en": "TV speed chains",
+      "items": [
+        {
+          "en": "Come on, come on! Wait a minute… No way! Get out of here!",
+          "say": "kəmán, kəmán! wéirə mínit… nóu wéi! gueráurə jír!",
+          "es": "¡Venga, venga! Espera… ¡No me digas! ¡Anda ya!"
+        },
+        {
+          "en": "Whatcha doin'? Gotta go! Lemme see… whatever!",
+          "say": "wáchə dúuin? gárə góu! lémi síi… waréver!",
+          "es": "¿Qué haces? ¡Me tengo que ir! A ver… ¡me da igual!"
+        },
+        {
+          "en": "Y'all know what? I mean… are you kidding me?",
+          "say": "iól nóu wát? ai míin… ər iə kírin mi?",
+          "es": "¿Sabéis qué? O sea… ¿me tomáis el pelo?"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de las palomitas",
+      "title_en": "The popcorn trick",
+      "es": "No intentes entender <b>cada palabra</b> 🍿: ni los americanos las oyen todas. Quédate con la palabra fuerte de cada frase y con el <b>tono</b> (¿sorpresa?, ¿enfado?, ¿broma?). Y recuerda: <b>What the heck</b> es la versión suave; en este libro no necesitamos ninguna más fuerte. 😉",
+      "en": "Don't try to catch every word. Catch the key word and the tone. And What the heck is all you need."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "¿Qué significa?",
+      "title_en": "What does it mean?",
+      "icon": "🔗",
+      "es": "Une cada frase de serie con su significado.",
+      "en": "Match each TV phrase with its meaning.",
+      "pairs": [
+        [
+          "Come on!",
+          "¡Venga!"
+        ],
+        [
+          "No way!",
+          "¡No me digas!"
+        ],
+        [
+          "Gotta go!",
+          "¡Me tengo que ir!"
+        ],
+        [
+          "Whatever.",
+          "Me da igual."
+        ],
+        [
+          "Wait a minute!",
+          "¡Espera un momento!"
+        ],
+        [
+          "Are you kidding me?",
+          "¿Me tomas el pelo?"
+        ],
+        [
+          "You know what?",
+          "¿Sabes qué?"
+        ],
+        [
+          "Lemme see.",
+          "A ver."
+        ]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Con sonrisa o en serio?",
+      "title_en": "Joking or serious?",
+      "icon": "🎭",
+      "es": "Lee la situación y rodea lo que significa la frase.",
+      "en": "Read the situation and circle the meaning.",
+      "items": [
+        {
+          "q": "Shut up! (tu amiga, riéndose, al saber que has ganado) → [¡No me digas!|¡Cállate!]",
+          "a": "¡No me digas!"
+        },
+        {
+          "q": "Get out of here! (tu amigo alucina con una noticia) → [¡Anda ya!|¡Fuera de aquí!]",
+          "a": "¡Anda ya!"
+        },
+        {
+          "q": "Get out of here! (mamá ve barro en la cocina) → [¡Anda ya!|¡Fuera de aquí!]",
+          "a": "¡Fuera de aquí!"
+        },
+        {
+          "q": "Come on! (el entrenador, en plena carrera) → [¡Vamos, tú puedes!|¡Venga ya, hombre!]",
+          "a": "¡Vamos, tú puedes!"
+        },
+        {
+          "q": "Come on! (tu hermano te pilla haciendo trampas) → [¡Vamos, tú puedes!|¡Venga ya, hombre!]",
+          "a": "¡Venga ya, hombre!"
+        },
+        {
+          "q": "No way! (alguien te pide tu último caramelo) → [¡No me digas!|¡Ni hablar!]",
+          "a": "¡Ni hablar!"
+        },
+        {
+          "q": "No way! (Rocky ha salido en la tele) → [¡No me digas!|¡Ni hablar!]",
+          "a": "¡No me digas!"
+        },
+        {
+          "q": "Whatever. (con los ojos en blanco 🙄) → [Me da igual.|¡Qué bien!]",
+          "a": "Me da igual."
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Cómo suena?",
+      "title_en": "How does it sound?",
+      "icon": "👂",
+      "es": "Rodea la pronunciación americana de verdad.",
+      "en": "Circle the real American pronunciation.",
+      "items": [
+        {
+          "q": "Come on! → [kəmán|kom ón]",
+          "a": "kəmán"
+        },
+        {
+          "q": "Whatever → [waréver|guatéber]",
+          "a": "waréver"
+        },
+        {
+          "q": "Gotta go → [gárə góu|góta gó]",
+          "a": "gárə góu"
+        },
+        {
+          "q": "No way → [nóu wéi|no uái]",
+          "a": "nóu wéi"
+        },
+        {
+          "q": "Oh my God → [ou mai gád|o mai gód]",
+          "a": "ou mai gád"
+        },
+        {
+          "q": "y'all → [iól|yál]",
+          "a": "iól"
+        },
+        {
+          "q": "Dude → [duud|dúde]",
+          "a": "duud"
+        },
+        {
+          "q": "Seriously → [síriəsli|seriúsli]",
+          "a": "síriəsli"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort them",
+      "icon": "🗂️",
+      "es": "Di cada frase con su tono y escríbela en su columna.",
+      "en": "Say each phrase with the right tone and sort it.",
+      "cats": [
+        {
+          "name": "😲 Sorpresa",
+          "words": [
+            "No way!",
+            "Oh my God!",
+            "Are you kidding me?",
+            "Seriously?"
+          ]
+        },
+        {
+          "name": "🙄 Protesta o pasotismo",
+          "words": [
+            "Whatever.",
+            "Come on!",
+            "Give me a break!",
+            "Big deal!"
+          ]
+        },
+        {
+          "name": "🤔 Ganar tiempo",
+          "words": [
+            "You know what?",
+            "I mean…",
+            "Wait a minute!",
+            "Hold on!"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada, de un tirón y a velocidad de serie (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each phrase sounds at TV speed.",
+      "items": [
+        {
+          "q": "💪 Come on! → ____",
+          "a": "kəmán"
+        },
+        {
+          "q": "😲 No way! → ____",
+          "a": "nóu wéi"
+        },
+        {
+          "q": "🏃 Gotta go! → ____",
+          "a": "gárə góu"
+        },
+        {
+          "q": "🙄 Whatever. → ____",
+          "a": "waréver"
+        },
+        {
+          "q": "⏱️ Wait a minute! → ____",
+          "a": "wéirə mínit"
+        },
+        {
+          "q": "👀 Lemme see. → ____",
+          "a": "lémi síi"
+        },
+        {
+          "q": "🤐 Shut up! → ____",
+          "a": "sharáp"
+        },
+        {
+          "q": "😱 Oh my God! → ____",
+          "a": "ou mai gád"
+        },
+        {
+          "q": "🤠 y'all → ____",
+          "a": "iól"
+        },
+        {
+          "q": "🏄 Dude! → ____",
+          "a": "duud"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Del subtítulo a lo que oyes",
+      "title_en": "From subtitle to sound",
+      "icon": "📋",
+      "es": "Completa los huecos: el subtítulo, lo que oyes o qué significa.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Subtítulo",
+        "Lo que oyes",
+        "Español"
+      ],
+      "rows": [
+        [
+          "Get out of here!",
+          "?gueráurə jír!",
+          "¡Anda ya!"
+        ],
+        [
+          "What are you doing?",
+          "wáchə dúuin?",
+          "?¿Qué haces?"
+        ],
+        [
+          "?I've got to go.",
+          "gárə góu",
+          "Me tengo que ir."
+        ],
+        [
+          "I'm going to call her.",
+          "?aim gánə kóler",
+          "Voy a llamarla."
+        ],
+        [
+          "Let me see.",
+          "lémi síi",
+          "?A ver."
+        ],
+        [
+          "?You know what?",
+          "iənóu wát?",
+          "¿Sabes qué?"
+        ],
+        [
+          "Are you kidding me?",
+          "?ər iə kírin mi?",
+          "¿Me tomas el pelo?"
+        ],
+        [
+          "you all",
+          "iól",
+          "?vosotros"
+        ]
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "«Come on» sounds like «kəmán».",
+          "a": true
+        },
+        {
+          "q": "«Shut up!» is always rude.",
+          "a": false,
+          "why": "con sonrisa = ¡no me digas!"
+        },
+        {
+          "q": "«Y'all» means «you all» and is typical of the American South.",
+          "a": true
+        },
+        {
+          "q": "English subtitles are better than Spanish ones for learning.",
+          "a": true
+        },
+        {
+          "q": "In «Whatever», the T sounds like a soft r.",
+          "a": true
+        },
+        {
+          "q": "«Gotta go» means «I've got to go».",
+          "a": true
+        },
+        {
+          "q": "You should try to understand every single word in a series.",
+          "a": false,
+          "why": "quédate con la palabra fuerte y el tono"
+        },
+        {
+          "q": "«What the heck» is a soft, family-friendly expression.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe lo que oyes",
+      "title_en": "Write what you hear",
+      "icon": "🎧",
+      "es": "Escribe cómo suena la frase a velocidad de serie.",
+      "en": "Write how the phrase sounds at TV speed.",
+      "items": [
+        {
+          "q": "Get out of here!",
+          "a": "gueráurə jír!"
+        },
+        {
+          "q": "What are you doing?",
+          "a": "wáchə dúuin?"
+        },
+        {
+          "q": "Come on!",
+          "a": "kəmán!"
+        },
+        {
+          "q": "Wait a minute!",
+          "a": "wéirə mínit!"
+        },
+        {
+          "q": "You know what?",
+          "a": "iənóu wát?"
+        },
+        {
+          "q": "Let me see.",
+          "a": "lémi síi"
+        },
+        {
+          "q": "Are you kidding me?",
+          "a": "ər iə kírin mi?"
+        },
+        {
+          "q": "I'm going to call her.",
+          "a": "aim gánə kóler"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "Come on → <code>kom ón</code>",
+          "a": "kəmán"
+        },
+        {
+          "q": "Whatever → <code>guatéber</code>",
+          "a": "waréver"
+        },
+        {
+          "q": "Gotta go → <code>góta gó</code>",
+          "a": "gárə góu"
+        },
+        {
+          "q": "Oh my God → <code>o mai gód</code>",
+          "a": "ou mai gád"
+        },
+        {
+          "q": "y'all → <code>yál</code>",
+          "a": "iól"
+        },
+        {
+          "q": "Shut up → <code>shat ap</code>",
+          "a": "sharáp"
+        },
+        {
+          "q": "Are you kidding me? → <code>ar iú kíding mi</code>",
+          "a": "ər iə kírin mi?"
+        },
+        {
+          "q": "Wait a minute → <code>wéit ə mínut</code>",
+          "a": "wéirə mínit"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧩",
+      "es": "Ordena las palabras. Después dila como en una serie.",
+      "en": "Put the words in order and say it like on TV.",
+      "items": [
+        {
+          "q": "Tyler / on / Come",
+          "a": "Come on, Tyler"
+        },
+        {
+          "q": "here / of / Get / out",
+          "a": "Get out of here"
+        },
+        {
+          "q": "me / kidding / you / Are",
+          "a": "Are you kidding me"
+        },
+        {
+          "q": "what / know / You",
+          "a": "You know what"
+        },
+        {
+          "q": "minute / Wait / a",
+          "a": "Wait a minute"
+        },
+        {
+          "q": "pizza / gonna / I'm / order",
+          "a": "I'm gonna order pizza"
+        },
+        {
+          "q": "Mario / doin' / Whatcha",
+          "a": "Whatcha doin', Mario"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee como un actor",
+      "title_en": "Read like an actor",
+      "icon": "🎬",
+      "es": "Lee cada frase 3 veces y marca una casilla cada vez. ¡Ponle el tono de la serie!",
+      "en": "Read each line three times, with feeling.",
+      "items": [
+        {
+          "q": "Come on!",
+          "say": "kəmán!"
+        },
+        {
+          "q": "No way!",
+          "say": "nóu wéi!"
+        },
+        {
+          "q": "Get out of here!",
+          "say": "gueráurə jír!"
+        },
+        {
+          "q": "Are you kidding me?",
+          "say": "ər iə kírin mi?"
+        },
+        {
+          "q": "Wait a minute!",
+          "say": "wéirə mínit!"
+        },
+        {
+          "q": "You know what?",
+          "say": "iənóu wát?"
+        },
+        {
+          "q": "Whatever.",
+          "say": "waréver"
+        },
+        {
+          "q": "Gotta go!",
+          "say": "gárə góu!"
+        },
+        {
+          "q": "Lemme see.",
+          "say": "lémi síi"
+        },
+        {
+          "q": "Howdy, y'all!",
+          "say": "jáuri, iól!"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés de las series. Después dilo con el tono adecuado.",
+      "en": "Translate into TV English and say it with feeling.",
+      "items": [
+        {
+          "q": "¡Venga!",
+          "a": "Come on! (kəmán!)"
+        },
+        {
+          "q": "¡No me digas!",
+          "a": "No way! (nóu wéi!)"
+        },
+        {
+          "q": "¡Me tengo que ir!",
+          "a": "Gotta go! (gárə góu!)"
+        },
+        {
+          "q": "¡Espera un momento!",
+          "a": "Wait a minute! (wéirə mínit!)"
+        },
+        {
+          "q": "¿Me tomas el pelo?",
+          "a": "Are you kidding me? (ər iə kírin mi?)"
+        },
+        {
+          "q": "¿Sabes qué?",
+          "a": "You know what? (iənóu wát?)"
+        },
+        {
+          "q": "Me da igual.",
+          "a": "Whatever. (waréver)"
+        },
+        {
+          "q": "A ver.",
+          "a": "Let me see. / Lemme see. (lémi síi)"
+        },
+        {
+          "q": "¿En serio?",
+          "a": "Seriously? (síriəsli?)"
+        },
+        {
+          "q": "¡Madre mía!",
+          "a": "Oh my gosh! (ou mai gásh!)"
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Movie night",
+      "text": [
+        "It's movie night at Jenny's house. “Come on, Lucía! It's starting!” says Jenny. “Wait a minute! Lemme get the popcorn,” says Lucía.",
+        "In the movie, a cowboy says: “Howdy, y'all!” Lucía laughs: “No way! I understood that!” “Awesome!” says Jenny. “English subtitles really work!”"
+      ],
+      "items": [
+        {
+          "q": "What does Lucía want to get?",
+          "a": "The popcorn."
+        },
+        {
+          "q": "How does «Come on!» sound?",
+          "a": "<code>kəmán</code>"
+        },
+        {
+          "q": "What does «y'all» mean?",
+          "a": "you all, «vosotros» (sur de EE. UU.)"
+        },
+        {
+          "q": "Lucía doesn't understand the cowboy.",
+          "tf": true,
+          "a": false,
+          "why": "No way! I understood that!"
+        },
+        {
+          "q": "«Lemme» is a short form of «let me».",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Jenny thinks English subtitles are useless.",
+          "tf": true,
+          "a": false,
+          "why": "English subtitles really work!"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de series",
+      "title_en": "TV word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras que oirás en las series. Dila en voz alta con tono de actor.",
+      "en": "Find 10 words you'll hear on TV.",
+      "words": [
+        "dude",
+        "awesome",
+        "whatever",
+        "kidding",
+        "gotta",
+        "lemme",
+        "yall",
+        "howdy",
+        "seriously",
+        "cool"
+      ],
+      "clues": [
+        "dude · tío",
+        "awesome · genial",
+        "whatever · me da igual",
+        "kidding · bromeando",
+        "gotta · tengo que",
+        "lemme · déjame",
+        "y'all · vosotros",
+        "howdy · ¡hola! (Texas)",
+        "seriously · en serio",
+        "cool · guay"
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Reacciona como en una serie",
+      "title_en": "React like on TV",
+      "icon": "🎬",
+      "es": "Lee la situación y escribe qué dirías, como un personaje de serie. Después dilo con el tono adecuado.",
+      "en": "Read the situation and write what you'd say, TV style.",
+      "items": [
+        {
+          "q": "Te dicen que has ganado un viaje a Disney.",
+          "a": "No way! / Oh my gosh!"
+        },
+        {
+          "q": "Tienes que irte corriendo.",
+          "a": "Sorry, gotta go!"
+        },
+        {
+          "q": "Tu hermano hace trampas en el juego.",
+          "a": "Come on!"
+        },
+        {
+          "q": "Necesitas pensar un segundo.",
+          "a": "Wait a minute… / Lemme see…"
+        },
+        {
+          "q": "Te da igual qué peli ver.",
+          "a": "Whatever."
+        },
+        {
+          "q": "Saludas a tus amigos en Texas.",
+          "a": "Howdy, y'all!"
+        },
+        {
+          "q": "Quieres saber qué está haciendo tu amigo.",
+          "a": "Whatcha doin'?"
+        },
+        {
+          "q": "No te puedes creer una noticia.",
+          "a": "Are you kidding me? / Seriously?"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases de serie. Léelas en voz alta como un actor y grábate.",
+      "en": "Write your own TV lines and record yourself.",
+      "items": [
+        {
+          "q": "Escribe tu frase favorita de este mapa y cómo suena.",
+          "lines": 2,
+          "a": "Ej.: Come on! (kəmán)"
+        },
+        {
+          "q": "Escribe un mini-diálogo de sorpresa con No way! o Are you kidding me?",
+          "lines": 2,
+          "a": "Ej.: — We won! — No way! Are you kidding me?"
+        },
+        {
+          "q": "¿Qué serie o peli vas a ver esta semana con subtítulos en inglés?",
+          "lines": 2,
+          "a": "Ej.: This week I'm gonna watch my favorite cartoon in English."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Entiendo y digo <code>kəmán</code>, <code>nóu wéi</code> y <code>gueráurə jír</code>.",
+      "en": "I understand and say Come on, No way and Get out of here."
+    },
+    {
+      "es": "Sé que el tono cambia el significado: Shut up! con sonrisa = «¡No me digas!».",
+      "en": "I know tone changes the meaning."
+    },
+    {
+      "es": "Reconozco gotta, gonna, lemme y whatcha en las series.",
+      "en": "I recognize gotta, gonna, lemme and whatcha."
+    },
+    {
+      "es": "Sé qué es <b>y'all</b> y dónde se dice.",
+      "en": "I know what y'all means and where people say it."
+    },
+    {
+      "es": "Veo series con subtítulos en inglés, no en español.",
+      "en": "I watch series with English subtitles."
+    },
+    {
+      "es": "Uso What the heck, la versión suave, y no necesito más.",
+      "en": "I use the soft What the heck."
+    }
+  ]
+}

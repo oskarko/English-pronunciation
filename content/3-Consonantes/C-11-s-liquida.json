@@ -1,0 +1,1645 @@
+{
+  "id": "C-11",
+  "block": "C",
+  "title": "NO DIGAS «ESPAIN»",
+  "file_title": "No digas «Espain» (S + consonante)",
+  "subtitle": "S + consonant · Spain = «spein», not «espein»",
+  "icon": "🐍",
+  "map": {
+    "center": "Muchas palabras inglesas <b>empiezan por S + consonante</b>. ¡No les pongas una <b>e</b> delante! Spain = <code>spein</code>.",
+    "listen": "Spain",
+    "nodes": [
+      {
+        "title": "¿Qué pasa?",
+        "icon": "🤔",
+        "color": "green",
+        "items": [
+          "el español <b>nunca</b> empieza por s + consonante",
+          "por eso metemos una <b>e</b>: <s>Espain</s>",
+          "en inglés, <b>¡fuera la e!</b>"
+        ]
+      },
+      {
+        "title": "Suena así",
+        "icon": "🔊",
+        "color": "blue",
+        "rows": [
+          [
+            "Spain",
+            "<code>spein</code>"
+          ],
+          [
+            "school",
+            "<code>skuul</code>"
+          ],
+          [
+            "student",
+            "<code>stúudənt</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Truco 1: serpiente",
+        "icon": "🐍",
+        "color": "purple",
+        "html": "Sisea primero y suelta después: <code>sssss…pein</code>. La S se puede alargar; ¡la e sobra!"
+      },
+      {
+        "title": "Truco 2: pégala",
+        "icon": "🔗",
+        "color": "orange",
+        "rows": [
+          [
+            "I speak",
+            "<code>ais-piik</code>"
+          ],
+          [
+            "my school",
+            "<code>mais-kuul</code>"
+          ]
+        ],
+        "after": "como en «lo<b>s pein</b>es» 🪮"
+      },
+      {
+        "title": "Anclas",
+        "icon": "⚓",
+        "color": "pink",
+        "rows": [
+          [
+            "e<b>star</b>",
+            "= star ⭐"
+          ],
+          [
+            "e<b>squí</b>",
+            "= ski ⛷️"
+          ],
+          [
+            "la<b>s tap</b>as",
+            "= stop 🛑"
+          ]
+        ]
+      },
+      {
+        "title": "¡Hasta tres!",
+        "icon": "💪",
+        "color": "yellow",
+        "rows": [
+          [
+            "street",
+            "<code>striit</code>"
+          ],
+          [
+            "spring",
+            "<code>spring</code>"
+          ],
+          [
+            "scream",
+            "<code>skriim</code>"
+          ]
+        ],
+        "art": "🐍"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "Spain → <code>espéin</code>"
+      ],
+      "good": [
+        "<code>spein</code> 🇪🇸"
+      ],
+      "note": "Esa e añade una sílaba: «es-tu-dent» tiene 3; student, solo 2."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🇪🇸 Spain → ____",
+          "a": "spein"
+        },
+        {
+          "q": "🏫 school → ____",
+          "a": "skuul"
+        },
+        {
+          "q": "🛑 stop → ____",
+          "a": "stap"
+        },
+        {
+          "q": "⭐ star → ____",
+          "a": "star"
+        },
+        {
+          "q": "❄️ snow → ____",
+          "a": "snou"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Por qué decimos «Espain»?",
+      "title_en": "Why do we say «Espain»?",
+      "icon": "🔎",
+      "es": "En español <b>ninguna palabra empieza por S + consonante</b>: siempre ponemos una <b>e</b> delante (<b>e</b>spaña, <b>e</b>scuela, <b>e</b>strella). Por eso, sin darnos cuenta, decimos «<b>e</b>spain», «<b>e</b>school» o «<b>e</b>student». En inglés esa e <mark>no existe</mark>: la palabra empieza directamente con el siseo de la S. Es uno de los «acentos españoles» más famosos… ¡y de los más fáciles de arreglar!",
+      "en": "Spanish never starts a word with S + consonant, so Spanish speakers add an «e»: «Espain», «eschool». In English there's no e: start right away with the hissing S.",
+      "formula": [
+        "<s>e</s> + *S* + pain → *spein* (Spain)",
+        "<s>e</s> + *S* + chool → *skuul* (school)"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "jaw",
+          "es": "Empieza con los dientes <b>casi juntos</b>, ya en posición de «sss». Si abres la boca antes de la S, sale una e.",
+          "en": "Start with your teeth almost closed. Opening first makes an e."
+        },
+        {
+          "part": "tongue",
+          "es": "La punta de la lengua, cerca de los dientes de arriba <b>sin tocar</b>, como en «<b>s</b>í». Desde ahí salta directa a la siguiente consonante (p, t, k, m, n, l…).",
+          "en": "Tongue tip near your top teeth, then straight to the next consonant."
+        },
+        {
+          "part": "air",
+          "es": "La S es <b>aire que silba</b> 🐍 y se puede alargar: «sssss». Mientras sisea, no hay ninguna vocal.",
+          "en": "The S is a hiss you can stretch: sssss."
+        },
+        {
+          "part": "voice",
+          "es": "La S es <b>sorda</b>: la garganta no vibra. La e sí vibra: si notas un zumbido <b>antes</b> de la S, se te ha colado la e.",
+          "en": "S is voiceless. If your throat buzzes before the S, you've added an e."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · ¡Fuera la e!",
+      "title_en": "No e at the start",
+      "icon": "🚫",
+      "es": "Cuando una palabra inglesa empieza por <b>S + consonante</b> (sp, st, sk, sm, sn, sl…), se dice <mark>tal cual, sin e</mark>. Tu boca ya sabe hacerlo: lo hace a diario en mitad de palabras como «pa<b>st</b>a», «i<b>sl</b>a» o «mi<b>sm</b>o». Solo tienes que <b>empezar</b> por ahí.",
+      "en": "If an English word starts with S + consonant, say it as it is, with no e before it. You already say these clusters in the middle of Spanish words.",
+      "examples": [
+        {
+          "en": "Spain",
+          "say": "spein",
+          "es": "España",
+          "icon": "🇪🇸"
+        },
+        {
+          "en": "school",
+          "say": "skuul",
+          "es": "colegio",
+          "icon": "🏫"
+        },
+        {
+          "en": "student",
+          "say": "stúudənt",
+          "es": "estudiante",
+          "icon": "🧑‍🎓"
+        },
+        {
+          "en": "Spanish",
+          "say": "spǽnish",
+          "es": "español",
+          "icon": "💬"
+        },
+        {
+          "en": "special",
+          "say": "spéshəl",
+          "es": "especial",
+          "icon": "⭐"
+        },
+        {
+          "en": "sport",
+          "say": "sport",
+          "es": "deporte",
+          "icon": "⚽"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · El truco de la serpiente",
+      "title_en": "The snake trick",
+      "icon": "🐍",
+      "es": "La S es un sonido que puedes <b>alargar</b> todo lo que quieras sin abrir la boca. Empieza siseando como una serpiente, <b>«sssss…»</b>, y cuando lleves un segundo, suelta el resto de la palabra: «sssss…<b>tap</b>», «sssss…<b>nou</b>». Así es imposible que se cuele la e. Después ve acortando la S hasta que suene normal.",
+      "en": "Start with a long snake hiss, «sssss…», then add the rest of the word. Then make the hiss shorter and shorter.",
+      "formula": [
+        "*sssss…* + tap → *stap* (stop)",
+        "*sssss…* + nou → *snou* (snow)"
+      ],
+      "examples": [
+        {
+          "en": "stop",
+          "say": "stap",
+          "es": "parar",
+          "icon": "🛑"
+        },
+        {
+          "en": "snow",
+          "say": "snou",
+          "es": "nieve",
+          "icon": "❄️"
+        },
+        {
+          "en": "small",
+          "say": "smol",
+          "es": "pequeño",
+          "icon": "🐜"
+        },
+        {
+          "en": "sleep",
+          "say": "sliip",
+          "es": "dormir",
+          "icon": "😴"
+        },
+        {
+          "en": "star",
+          "say": "star",
+          "es": "estrella",
+          "icon": "⭐"
+        },
+        {
+          "en": "sky",
+          "say": "skai",
+          "es": "cielo",
+          "icon": "🌌"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Pégala a la palabra de antes",
+      "title_en": "Hook it onto the word before",
+      "icon": "🔗",
+      "es": "Dentro de una frase, la palabra de delante te echa una mano: <b>engancha la S a ella</b> y el problema desaparece. «I speak» se convierte en «<b>ais</b>-piik»; «my school», en «<b>mais</b>-kuul». Es lo mismo que haces en español sin pensar: en «lo<b>s pein</b>es» 🪮, ¡ya está escondido Spain!",
+      "en": "In a sentence, hook the S onto the word before: «I speak» → «ais-piik», «my school» → «mais-kuul».",
+      "formula": [
+        "I + *s*peak → *ais*-piik",
+        "my + *s*chool → *mais*-kuul"
+      ],
+      "examples": [
+        {
+          "en": "I speak Spanish.",
+          "say": "ai spiik spǽnish",
+          "es": "Hablo español.",
+          "icon": "💬"
+        },
+        {
+          "en": "my school",
+          "say": "mai skuul",
+          "es": "mi colegio",
+          "icon": "🏫"
+        },
+        {
+          "en": "the street",
+          "say": "də striit",
+          "es": "la calle",
+          "icon": "🛣️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · ¡Hasta tres seguidas!",
+      "title_en": "Three in a row",
+      "icon": "💪",
+      "es": "Algunas palabras empiezan con <b>tres consonantes</b>: <b>str</b>, <b>spr</b>, <b>scr</b>, <b>spl</b>, <b>squ</b>. Mismo truco: siseo y luego el grupo, como en «e<b>str</b>ella» o «e<b>spl</b>éndido» sin la e. La R es la americana (mapa C-01).",
+      "en": "Some words start with three consonants: str, spr, scr, spl, squ. Same trick: hiss first, then the rest.",
+      "examples": [
+        {
+          "en": "street",
+          "say": "striit",
+          "es": "calle",
+          "icon": "🛣️"
+        },
+        {
+          "en": "strong",
+          "say": "strong",
+          "es": "fuerte",
+          "icon": "💪"
+        },
+        {
+          "en": "spring",
+          "say": "spring",
+          "es": "primavera",
+          "icon": "🌸"
+        },
+        {
+          "en": "scream",
+          "say": "skriim",
+          "es": "grito / gritar",
+          "icon": "😱"
+        },
+        {
+          "en": "splash",
+          "say": "splæsh",
+          "es": "salpicar / ¡chof!",
+          "icon": "💦"
+        },
+        {
+          "en": "strawberry",
+          "say": "stróberi",
+          "es": "fresa",
+          "icon": "🍓"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Si la vocal se escribe, se dice",
+      "title_en": "If the vowel is written, say it",
+      "icon": "✍️",
+      "es": "¡No te pases de frenada! Si la palabra inglesa <b>sí lleva una vocal escrita</b> delante de la S, esa vocal se pronuncia, aunque suele ser débil: <b>e</b>scape <code>iskéip</code>, <b>e</b>specially <code>ispéshəli</code>. Fíjate: <b>special</b> no lleva e, pero <b>especially</b> sí. Y con o sin vocal, ¡a veces cambia la palabra! (mira las parejas)",
+      "en": "If the English word really has a vowel written before the S (escape, especially), say it, usually weakly. Special has no e; especially does.",
+      "examples": [
+        {
+          "en": "special",
+          "say": "spéshəl",
+          "es": "especial",
+          "icon": "⭐"
+        },
+        {
+          "en": "especially",
+          "say": "ispéshəli",
+          "es": "sobre todo",
+          "icon": "✨"
+        },
+        {
+          "en": "escape",
+          "say": "iskéip",
+          "es": "escapar",
+          "icon": "🏃"
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "title": "Cuenta las sílabas",
+      "title_en": "Count the syllables",
+      "icon": "🥁",
+      "es": "Esa e de más añade una sílaba entera. Mira cuántas tiene de verdad cada palabra (● = la fuerte).",
+      "en": "That extra e adds a whole syllable. Count the real ones.",
+      "items": [
+        {
+          "syl": [
+            "stu",
+            "dent"
+          ],
+          "s": 0,
+          "say": "stúudənt",
+          "es": "estudiante · 2, no 3"
+        },
+        {
+          "syl": [
+            "Spa",
+            "nish"
+          ],
+          "s": 0,
+          "say": "spǽnish",
+          "es": "español · 2, no 3"
+        },
+        {
+          "syl": [
+            "spe",
+            "cial"
+          ],
+          "s": 0,
+          "say": "spéshəl",
+          "es": "especial · 2, no 3"
+        },
+        {
+          "syl": [
+            "sto",
+            "ry"
+          ],
+          "s": 0,
+          "say": "stóri",
+          "es": "historia · 2, no 3"
+        },
+        {
+          "syl": [
+            "spa",
+            "ghet",
+            "ti"
+          ],
+          "s": 1,
+          "say": "spəguéri",
+          "es": "espaguetis · 3, no 4"
+        },
+        {
+          "syl": [
+            "Spi",
+            "der",
+            "Man"
+          ],
+          "s": 0,
+          "say": "spáirermæn",
+          "es": "Spiderman · 3, no 4"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "Spain",
+          "ipa": "speɪn",
+          "say": "spein",
+          "es": "España",
+          "icon": "🇪🇸",
+          "anchor": "lo<b>s pein</b>es 🪮",
+          "tip": "Di «los peines» de corrido: ¡ahí dentro está Spain! Sin la e."
+        },
+        {
+          "en": "star",
+          "ipa": "stɑr",
+          "say": "star",
+          "es": "estrella",
+          "icon": "⭐",
+          "anchor": "e<b>star</b> 🧍",
+          "tip": "Di «estar» y quítale la e: ¡ya eres una estrella! (con R americana)"
+        },
+        {
+          "en": "ski",
+          "ipa": "skiː",
+          "say": "skii",
+          "es": "esquiar / esquí",
+          "icon": "⛷️",
+          "anchor": "e<b>squí</b> 🎿",
+          "tip": "«Esquí» sin la e, y alarga un poco la i: skii."
+        },
+        {
+          "en": "stop",
+          "ipa": "stɑp",
+          "say": "stap",
+          "es": "parar",
+          "icon": "🛑",
+          "anchor": "la<b>s tap</b>as 🍢",
+          "tip": "Quédate con «s-tap» de «las tapas»: ¡stop! (la o suena a)."
+        },
+        {
+          "en": "store",
+          "ipa": "stɔr",
+          "say": "stor",
+          "es": "tienda",
+          "icon": "🏪",
+          "anchor": "lo<b>s tor</b>os 🐂",
+          "tip": "«Los toros» → «s-tor». La R, americana."
+        },
+        {
+          "en": "strong",
+          "ipa": "strɔŋ",
+          "say": "strong",
+          "es": "fuerte",
+          "icon": "💪",
+          "anchor": "lo<b>s tron</b>cos 🪵",
+          "tip": "Y la n de «troncos» ya suena como la NG inglesa (mapa C-13)."
+        },
+        {
+          "en": "smart",
+          "ipa": "smɑrt",
+          "say": "smart",
+          "es": "listo",
+          "icon": "🧠",
+          "anchor": "lo<b>s mart</b>es 📅",
+          "tip": "«Los martes» → «s-mart». ¡Los martes soy más listo!"
+        },
+        {
+          "en": "speak",
+          "ipa": "spiːk",
+          "say": "spiik",
+          "es": "hablar",
+          "icon": "🗣️",
+          "anchor": "lo<b>s pic</b>os ⛰️",
+          "tip": "Casi: alarga la i, spiik."
+        },
+        {
+          "en": "spell",
+          "ipa": "spɛl",
+          "say": "spel",
+          "es": "deletrear",
+          "icon": "🔤",
+          "anchor": "lo<b>s pel</b>os 💇",
+          "tip": "«Los pelos» → «s-pel». La L final es oscura (mapa C-12)."
+        },
+        {
+          "en": "Spanish",
+          "ipa": "ˈspænɪʃ",
+          "say": "spǽnish",
+          "es": "español",
+          "icon": "💬",
+          "anchor": "<s>es-pá-nish</s> → <b>SPǼ</b>nish",
+          "tip": "Dos sílabas, no tres. Y la a es la de cat (mapa V-03)."
+        },
+        {
+          "en": "student",
+          "ipa": "ˈstuːdənt",
+          "say": "stúudənt",
+          "es": "estudiante",
+          "icon": "🧑‍🎓",
+          "anchor": "<s>e</s>studiante → <b>STÚU</b>dənt",
+          "tip": "Fuera la e y fuera la «i»: STÚU-dənt, no «estiúdent»."
+        },
+        {
+          "en": "Spider-Man",
+          "ipa": "ˈspaɪɾɚˌmæn",
+          "say": "spáirermæn",
+          "es": "Spiderman",
+          "icon": "🕷️",
+          "anchor": "<s>Espáiderman</s> → <b>SPÁI</b>rermæn",
+          "tip": "El superhéroe, sin e. Y la D entre vocales suena r (mapa C-02)."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "Spain",
+          "es": "España"
+        },
+        {
+          "q": "school",
+          "es": "colegio"
+        },
+        {
+          "q": "student",
+          "es": "estudiante"
+        },
+        {
+          "q": "Spanish",
+          "es": "español"
+        },
+        {
+          "q": "street",
+          "es": "calle"
+        },
+        {
+          "q": "special",
+          "es": "especial"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Todos los grupos con S",
+      "title_en": "All the S clusters",
+      "icon": "🧭",
+      "head": [
+        "Grupo · Cluster",
+        "Ejemplos · Examples",
+        "Suena",
+        "Ya lo dices en…"
+      ],
+      "rows": [
+        [
+          "<b>sp-</b>",
+          "Spain, speak, sport",
+          "<code>spein</code>, <code>spiik</code>, <code>sport</code>",
+          "e<b>sp</b>ada, lo<b>s p</b>eines"
+        ],
+        [
+          "<b>st-</b>",
+          "star, stop, student",
+          "<code>star</code>, <code>stap</code>, <code>stúudənt</code>",
+          "e<b>st</b>ar, pa<b>st</b>a"
+        ],
+        [
+          "<b>sk-</b> / <b>sc-</b> / <b>sch-</b>",
+          "ski, sky, school",
+          "<code>skii</code>, <code>skai</code>, <code>skuul</code>",
+          "e<b>squ</b>í, pe<b>sc</b>a"
+        ],
+        [
+          "<b>sm-</b>",
+          "small, smile, smart",
+          "<code>smol</code>, <code>smail</code>, <code>smart</code>",
+          "mi<b>sm</b>o, lo<b>s m</b>artes"
+        ],
+        [
+          "<b>sn-</b>",
+          "snow, snake, snack",
+          "<code>snou</code>, <code>sneik</code>, <code>snæk</code>",
+          "a<b>sn</b>o, lo<b>s n</b>iños"
+        ],
+        [
+          "<b>sl-</b>",
+          "sleep, slow, slide",
+          "<code>sliip</code>, <code>slou</code>, <code>slaid</code>",
+          "i<b>sl</b>a"
+        ],
+        [
+          "<b>sw-</b>",
+          "sweet, swim, sweater",
+          "<code>swiit</code>, <code>swim</code>, <code>swérer</code>",
+          "¡fácil!: <b>su</b>ave, <b>su</b>eño"
+        ],
+        [
+          "<b>str-</b> / <b>spr-</b> / <b>scr-</b>",
+          "street, spring, scream",
+          "<code>striit</code>, <code>spring</code>, <code>skriim</code>",
+          "e<b>str</b>ella, e<b>scr</b>ibir"
+        ],
+        [
+          "<b>spl-</b> / <b>squ-</b>",
+          "splash, squeeze",
+          "<code>splæsh</code>, <code>skwiis</code>",
+          "e<b>spl</b>éndido, e<b>scu</b>ela"
+        ]
+      ],
+      "note": "Todos estos grupos existen en español… ¡pero en mitad de palabra! Solo tienes que <b>empezar</b> por ellos. El grupo <b>sw</b> ya lo dominas: «<b>su</b>ave» empieza igual que sweet.",
+      "note_en": "Spanish has all these clusters in the middle of words. Just start with them."
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I'm from Spain.",
+          "say": "aim frəm spein",
+          "es": "Soy de España.",
+          "icon": "🇪🇸"
+        },
+        {
+          "en": "My school is small.",
+          "say": "mai skuul is smol",
+          "es": "Mi colegio es pequeño.",
+          "icon": "🏫"
+        },
+        {
+          "en": "Stop! It's snowing!",
+          "say": "stap! its snóuing!",
+          "es": "¡Para! ¡Está nevando!",
+          "icon": "❄️"
+        },
+        {
+          "en": "Ashley is a smart student.",
+          "say": "ǽshli isə smart stúudənt",
+          "es": "Ashley es una alumna muy lista.",
+          "icon": "🧠"
+        },
+        {
+          "en": "Look at the stars in the sky!",
+          "say": "luk ət də stars in də skai!",
+          "es": "¡Mira las estrellas en el cielo!",
+          "icon": "🌌"
+        },
+        {
+          "en": "Spider-Man is strong.",
+          "say": "spáirermæn is strong",
+          "es": "Spiderman es fuerte.",
+          "icon": "🕷️"
+        },
+        {
+          "en": "I love spaghetti!",
+          "say": "ai lav spəguéri!",
+          "es": "¡Me encantan los espaguetis!",
+          "icon": "🍝"
+        },
+        {
+          "en": "Speak slowly, please.",
+          "say": "spiik slóuli, pliis",
+          "es": "Habla despacio, por favor.",
+          "icon": "🐢"
+        },
+        {
+          "en": "Smile! It's spring!",
+          "say": "smail! its spring!",
+          "es": "¡Sonríe! ¡Es primavera!",
+          "icon": "🌸"
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "Con vocal o sin vocal: ¡otra palabra!",
+      "title_en": "With or without a vowel",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "state",
+            "ipa": "steɪt",
+            "say": "steit",
+            "es": "estado",
+            "icon": "🗺️"
+          },
+          "b": {
+            "en": "estate",
+            "ipa": "ɪˈsteɪt",
+            "say": "istéit",
+            "es": "finca / herencia",
+            "icon": "🏡"
+          },
+          "tip": "Si dices «esteit», un americano oye estate. 😮"
+        },
+        {
+          "a": {
+            "en": "steam",
+            "ipa": "stiːm",
+            "say": "stiim",
+            "es": "vapor",
+            "icon": "♨️"
+          },
+          "b": {
+            "en": "esteem",
+            "ipa": "ɪˈstiːm",
+            "say": "istíim",
+            "es": "estima",
+            "icon": "💖"
+          },
+          "tip": "Self-esteem (autoestima) sí lleva vocal delante."
+        },
+        {
+          "a": {
+            "en": "sleep",
+            "ipa": "sliːp",
+            "say": "sliip",
+            "es": "dormir",
+            "icon": "😴"
+          },
+          "b": {
+            "en": "asleep",
+            "ipa": "əˈsliːp",
+            "say": "əslíip",
+            "es": "dormido",
+            "icon": "💤"
+          },
+          "tip": "Con una vocal delante cambia la palabra: fall asleep = dormirse."
+        },
+        {
+          "a": {
+            "en": "special",
+            "ipa": "ˈspɛʃəl",
+            "say": "spéshəl",
+            "es": "especial",
+            "icon": "⭐"
+          },
+          "b": {
+            "en": "especially",
+            "ipa": "ɪˈspɛʃəli",
+            "say": "ispéshəli",
+            "es": "sobre todo",
+            "icon": "✨"
+          },
+          "tip": "Special empieza por S; especially sí lleva su vocal."
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "serpiente",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "Spain → <code>espéin</code>",
+          "good": "<code>spein</code>",
+          "why": "Sin e: empieza directamente con el siseo de la S.",
+          "why_en": "No e: start with the hiss."
+        },
+        {
+          "bad": "school → <code>eskúul</code>",
+          "good": "<code>skuul</code>",
+          "why": "Una sola sílaba. Engancha la S a la palabra de antes: «mais-kuul».",
+          "why_en": "One syllable only."
+        },
+        {
+          "bad": "student → <code>estiúdent</code>",
+          "good": "<code>stúudənt</code>",
+          "why": "Sin e y sin «i»: en americano es STÚU-dənt.",
+          "why_en": "No e and no «y» sound in American English."
+        },
+        {
+          "bad": "Spanish → <code>espánish</code>",
+          "good": "<code>spǽnish</code>",
+          "why": "Dos sílabas, y la a es la de cat (mapa V-03).",
+          "why_en": "Two syllables, with the vowel of cat."
+        },
+        {
+          "bad": "stop → <code>estóp</code>",
+          "good": "<code>stap</code>",
+          "why": "Ni e delante ni o española: la o suena a (mapa V-05).",
+          "why_en": "No e, and the o sounds like a."
+        },
+        {
+          "bad": "especially → <code>spéshəli</code>",
+          "good": "<code>ispéshəli</code>",
+          "why": "¡Al revés! Esta sí lleva vocal escrita, así que se dice (suave).",
+          "why_en": "This one has a written e, so say it."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Primer día de cole",
+      "title_en": "First day at school",
+      "lines": [
+        {
+          "who": "Ms. Stone",
+          "en": "Hi! Are you a new student?",
+          "say": "jai! ar iu ə nu stúudənt?",
+          "es": "¡Hola! ¿Eres un alumno nuevo?"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes! I'm Mario. I'm from Spain.",
+          "say": "iés! aim mário. aim frəm spein",
+          "es": "¡Sí! Soy Mario. Soy de España."
+        },
+        {
+          "who": "Ms. Stone",
+          "en": "Welcome to our school! Do you speak English?",
+          "say": "wélkəm tu aur skuul! du iu spiik ínglish?",
+          "es": "¡Bienvenido a nuestro colegio! ¿Hablas inglés?"
+        },
+        {
+          "who": "Mario",
+          "en": "A little. And I speak Spanish, of course!",
+          "say": "ə lírəl. ənd ai spiik spǽnish, əv kórs!",
+          "es": "Un poco. ¡Y hablo español, claro!"
+        },
+        {
+          "who": "Ms. Stone",
+          "en": "Great! This is Tyler. He's a star student.",
+          "say": "greit! dis is táiler. jiis ə stár stúudənt",
+          "es": "¡Genial! Este es Tyler. Es un alumno estrella."
+        },
+        {
+          "who": "Tyler",
+          "en": "Hey, Mario! Do you like sports?",
+          "say": "jei, mário! du iu laik sports?",
+          "es": "¡Eh, Mario! ¿Te gustan los deportes?"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes! Soccer, skating and swimming.",
+          "say": "iés! sáker, skéiring ənd swíming",
+          "es": "¡Sí! El fútbol, el patinaje y la natación."
+        },
+        {
+          "who": "Tyler",
+          "en": "Cool! Let's skate after school!",
+          "say": "kuul! lets skeit ǽfter skuul!",
+          "es": "¡Guay! ¡Vamos a patinar después de clase!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Sisea como una serpiente 🐍: «sssss». Nota que la boca está casi cerrada y no hay ninguna vocal.",
+          "en": "Hiss like a snake: no vowel at all."
+        },
+        {
+          "es": "Sin cortar el siseo, añade el resto: «sssss-tap», «sssss-kuul», «sssss-pein».",
+          "en": "Keep hissing and add the rest of the word."
+        },
+        {
+          "es": "Acorta la S poco a poco: «sss-tap», «ss-tap»… <code>stap</code>.",
+          "en": "Make the hiss shorter, little by little."
+        },
+        {
+          "es": "En frases, engánchala a la palabra de antes: «ais-piik», «mais-kuul».",
+          "en": "In sentences, hook the S onto the word before."
+        },
+        {
+          "es": "Escanea los QR, escucha 3 vídeos y <b>grábate</b> diciendo «I'm from Spain!». ¿Se ha colado la e?",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Six small snakes sleep in the snow.",
+          "say": "siks smol sneiks sliip in də snou",
+          "es": "Seis serpientes pequeñas duermen en la nieve."
+        },
+        {
+          "en": "Stan the student speaks Spanish in Spain.",
+          "say": "stæn də stúudənt spiiks spǽnish in spein",
+          "es": "Stan, el estudiante, habla español en España."
+        },
+        {
+          "en": "Stop! Strong storms smash small stores.",
+          "say": "stap! strong storms smæsh smol stors",
+          "es": "¡Para! Las tormentas fuertes destrozan tiendas pequeñas."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de los peines",
+      "title_en": "The «los peines» trick",
+      "es": "¿Se te escapa la e? Piensa en «lo<b>s pein</b>es» 🪮: la S va pegada a lo de antes y «pein» sale solo. Si empiezas la frase, sisea como una serpiente 🐍: «sssss…pein». Y si dudas, cuenta las sílabas con los dedos ✋: si te sale una de más, ¡hay una e escondida! Spain, school, student: <mark>¡ni una e más!</mark>",
+      "en": "Think of «los peines»: hook the S onto the word before, or hiss like a snake. Count the syllables on your fingers: one too many means a hidden e!"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Cuántas sílabas?",
+      "title_en": "How many syllables?",
+      "icon": "🔢",
+      "es": "Di la palabra en voz alta, <b>sin e</b>, y rodea cuántas sílabas tiene.",
+      "en": "Say the word with no e and circle the number of syllables.",
+      "items": [
+        {
+          "q": "Spain → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "school → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "student → [2|3]",
+          "a": "2"
+        },
+        {
+          "q": "Spanish → [2|3]",
+          "a": "2"
+        },
+        {
+          "q": "star → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "special → [2|3]",
+          "a": "2"
+        },
+        {
+          "q": "strawberry → [3|4]",
+          "a": "3"
+        },
+        {
+          "q": "spaghetti → [3|4]",
+          "a": "3"
+        },
+        {
+          "q": "stop → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "Spider-Man → [3|4]",
+          "a": "3"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Con vocal o sin vocal?",
+      "title_en": "With or without a vowel?",
+      "icon": "🔍",
+      "es": "Mira cómo se escribe. ¿Se dice con una vocal delante de la S o sin ella? Rodea.",
+      "en": "Look at the spelling. Is there a vowel sound before the S?",
+      "items": [
+        {
+          "q": "special → [con vocal|sin vocal]",
+          "a": "sin vocal"
+        },
+        {
+          "q": "especially → [con vocal|sin vocal]",
+          "a": "con vocal"
+        },
+        {
+          "q": "state → [con vocal|sin vocal]",
+          "a": "sin vocal"
+        },
+        {
+          "q": "estate → [con vocal|sin vocal]",
+          "a": "con vocal"
+        },
+        {
+          "q": "school → [con vocal|sin vocal]",
+          "a": "sin vocal"
+        },
+        {
+          "q": "escape → [con vocal|sin vocal]",
+          "a": "con vocal"
+        },
+        {
+          "q": "sleep → [con vocal|sin vocal]",
+          "a": "sin vocal"
+        },
+        {
+          "q": "asleep → [con vocal|sin vocal]",
+          "a": "con vocal"
+        },
+        {
+          "q": "Spain → [con vocal|sin vocal]",
+          "a": "sin vocal"
+        },
+        {
+          "q": "establish → [con vocal|sin vocal]",
+          "a": "con vocal"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Una o dos consonantes tras la S?",
+      "title_en": "One or two consonants after the S?",
+      "icon": "🗂️",
+      "es": "Di cada palabra y clasifícala según los <b>sonidos</b> que van detrás de la S (¡no las letras!).",
+      "en": "Sort the words by the consonant sounds after the S.",
+      "cats": [
+        {
+          "name": "🐍 S + 1 consonante",
+          "words": [
+            "Spain",
+            "school",
+            "star",
+            "snow",
+            "small",
+            "sleep",
+            "sky",
+            "sweet"
+          ]
+        },
+        {
+          "name": "💪 S + 2 consonantes",
+          "words": [
+            "street",
+            "spring",
+            "scream",
+            "splash",
+            "strong",
+            "strawberry",
+            "squeeze",
+            "spray"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "Spain",
+          "<code>spein</code>"
+        ],
+        [
+          "school",
+          "<code>skuul</code>"
+        ],
+        [
+          "student",
+          "<code>stúudənt</code>"
+        ],
+        [
+          "Spanish",
+          "<code>spǽnish</code>"
+        ],
+        [
+          "special",
+          "<code>spéshəl</code>"
+        ],
+        [
+          "street",
+          "<code>striit</code>"
+        ],
+        [
+          "small",
+          "<code>smol</code>"
+        ],
+        [
+          "snow",
+          "<code>snou</code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada, <b>sin e</b> delante, y pon tilde en la sílaba fuerte si hay más de una.",
+      "en": "Write how each word sounds, with no e at the start.",
+      "items": [
+        {
+          "q": "⭐ star → ____",
+          "a": "star"
+        },
+        {
+          "q": "🛑 stop → ____",
+          "a": "stap"
+        },
+        {
+          "q": "⛷️ ski → ____",
+          "a": "skii"
+        },
+        {
+          "q": "🌌 sky → ____",
+          "a": "skai"
+        },
+        {
+          "q": "😴 sleep → ____",
+          "a": "sliip"
+        },
+        {
+          "q": "🗣️ speak → ____",
+          "a": "spiik"
+        },
+        {
+          "q": "🐍 snake → ____",
+          "a": "sneik"
+        },
+        {
+          "q": "😊 smile → ____",
+          "a": "smail"
+        },
+        {
+          "q": "🍓 strawberry → ____",
+          "a": "stróberi"
+        },
+        {
+          "q": "📖 story → ____",
+          "a": "stóri"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "Many English words start with S + consonant.",
+          "a": true
+        },
+        {
+          "q": "You should say «Espain» for Spain.",
+          "a": false,
+          "why": "sin e: <code>spein</code>"
+        },
+        {
+          "q": "«Student» has three syllables.",
+          "a": false,
+          "why": "dos: STÚU-dənt"
+        },
+        {
+          "q": "«Especially» starts with a vowel sound.",
+          "a": true
+        },
+        {
+          "q": "The S is a sound you can make longer: sssss.",
+          "a": true
+        },
+        {
+          "q": "«School» and «escuela» have the same number of syllables.",
+          "a": false,
+          "why": "school tiene 1; escuela, 3"
+        },
+        {
+          "q": "«State» and «estate» sound the same.",
+          "a": false,
+          "why": "estate lleva vocal delante"
+        },
+        {
+          "q": "In American English, «student» has no «y» sound: «stúudənt».",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧩",
+      "es": "Ordena las palabras y di la frase en voz alta, ¡sin ninguna e de más!",
+      "en": "Put the words in order and say the sentence.",
+      "items": [
+        {
+          "q": "Spain / from / I'm",
+          "a": "I'm from Spain."
+        },
+        {
+          "q": "Spanish / speak / I",
+          "a": "I speak Spanish."
+        },
+        {
+          "q": "small / is / school / My",
+          "a": "My school is small."
+        },
+        {
+          "q": "student / a / Steve / is / smart",
+          "a": "Steve is a smart student."
+        },
+        {
+          "q": "stars / at / Look / the",
+          "a": "Look at the stars!"
+        },
+        {
+          "q": "spaghetti / love / I",
+          "a": "I love spaghetti!"
+        },
+        {
+          "q": "slowly / Speak / please",
+          "a": "Speak slowly, please."
+        },
+        {
+          "q": "street / the / in / Stop",
+          "a": "Stop in the street."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Engancha la S",
+      "title_en": "Hook the S",
+      "icon": "🔗",
+      "es": "Escribe cómo suena, <b>enganchando la S</b> a la palabra de antes con un guion (truco 2). Ejemplo: I speak → «ais-piik».",
+      "en": "Write it hooking the S onto the word before: I speak → «ais-piik».",
+      "items": [
+        {
+          "q": "my school",
+          "a": "mais-kuul"
+        },
+        {
+          "q": "the street",
+          "a": "dəs-triit"
+        },
+        {
+          "q": "a star",
+          "a": "əs-tar"
+        },
+        {
+          "q": "you speak",
+          "a": "ius-piik"
+        },
+        {
+          "q": "go to school",
+          "a": "gou təs-kuul"
+        },
+        {
+          "q": "a student",
+          "a": "əs-túudənt"
+        },
+        {
+          "q": "the snow",
+          "a": "dəs-nou"
+        },
+        {
+          "q": "my sport",
+          "a": "mais-port"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "Spain → <code>espéin</code>",
+          "a": "spein"
+        },
+        {
+          "q": "school → <code>eskúul</code>",
+          "a": "skuul"
+        },
+        {
+          "q": "student → <code>estiúdent</code>",
+          "a": "stúudənt"
+        },
+        {
+          "q": "star → <code>estár</code>",
+          "a": "star"
+        },
+        {
+          "q": "small → <code>esmól</code>",
+          "a": "smol"
+        },
+        {
+          "q": "snow → <code>esnóu</code>",
+          "a": "snou"
+        },
+        {
+          "q": "escape → <code>skeip</code>",
+          "a": "iskéip (¡esta sí lleva vocal!)"
+        },
+        {
+          "q": "special → <code>espéshəl</code>",
+          "a": "spéshəl"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "I'm from Spain.",
+          "say": "aim frəm spein"
+        },
+        {
+          "q": "I speak Spanish.",
+          "say": "ai spiik spǽnish"
+        },
+        {
+          "q": "My school is small.",
+          "say": "mai skuul is smol"
+        },
+        {
+          "q": "Stop! It's snowing!",
+          "say": "stap! its snóuing!"
+        },
+        {
+          "q": "Look at the stars!",
+          "say": "luk ət də stars!"
+        },
+        {
+          "q": "Spider-Man is strong.",
+          "say": "spáirermæn is strong"
+        },
+        {
+          "q": "Speak slowly, please.",
+          "say": "spiik slóuli, pliis"
+        },
+        {
+          "q": "Six small snakes sleep in the snow.",
+          "say": "siks smol sneiks sliip in də snou"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta: ¡sin e!",
+      "en": "Translate into English and say it with no e.",
+      "items": [
+        {
+          "q": "España",
+          "a": "Spain (spein)"
+        },
+        {
+          "q": "colegio",
+          "a": "school (skuul)"
+        },
+        {
+          "q": "estudiante",
+          "a": "student (stúudənt)"
+        },
+        {
+          "q": "español",
+          "a": "Spanish (spǽnish)"
+        },
+        {
+          "q": "estrella",
+          "a": "star (star)"
+        },
+        {
+          "q": "calle",
+          "a": "street (striit)"
+        },
+        {
+          "q": "nieve",
+          "a": "snow (snou)"
+        },
+        {
+          "q": "pequeño",
+          "a": "small (smol)"
+        },
+        {
+          "q": "deporte",
+          "a": "sport (sport)"
+        },
+        {
+          "q": "fresa",
+          "a": "strawberry (stróberi)"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «Sílabas» escribe cuántas tiene la palabra inglesa.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "Sílabas"
+      ],
+      "rows": [
+        [
+          "Spain",
+          "España",
+          "?spein",
+          "?1"
+        ],
+        [
+          "?school",
+          "colegio",
+          "skuul",
+          "1"
+        ],
+        [
+          "student",
+          "?estudiante",
+          "?stúudənt",
+          "2"
+        ],
+        [
+          "?Spanish",
+          "español",
+          "spǽnish",
+          "?2"
+        ],
+        [
+          "special",
+          "?especial",
+          "spéshəl",
+          "?2"
+        ],
+        [
+          "?strawberry",
+          "fresa",
+          "?stróberi",
+          "3"
+        ],
+        [
+          "street",
+          "?calle",
+          "?striit",
+          "1"
+        ],
+        [
+          "?spaghetti",
+          "espaguetis",
+          "spəguéri",
+          "?3"
+        ]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa sin e",
+      "title_en": "No-e word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras que empiezan por S + consonante. Dila en voz alta, sin e, cada vez que encuentres una.",
+      "en": "Find 10 words starting with S + consonant.",
+      "words": [
+        "Spain",
+        "school",
+        "student",
+        "star",
+        "stop",
+        "snow",
+        "small",
+        "sleep",
+        "speak",
+        "street"
+      ],
+      "clues": [
+        "Spain · España",
+        "school · colegio",
+        "student · estudiante",
+        "star · estrella",
+        "stop · parar",
+        "snow · nieve",
+        "small · pequeño",
+        "sleep · dormir",
+        "speak · hablar",
+        "street · calle"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta (¡sin ninguna e de más!). Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Stella's First Day",
+      "text": [
+        "Stella is a student from Spain. On her first day at an American school, she was scared. Everything was so strange!",
+        "Then she met Steve. «Do you speak Spanish?» she asked. «A little!» he said with a big smile. Now they study together, and Stella's English is super strong."
+      ],
+      "items": [
+        {
+          "q": "Where is Stella from?",
+          "a": "From Spain (<code>spein</code>, ¡sin e!)."
+        },
+        {
+          "q": "Find five words that start with S + consonant.",
+          "a": "Stella, student, Spain, school, scared, strange, Steve, speak, Spanish, smile, study, strong (cualquiera)."
+        },
+        {
+          "q": "How many syllables does «student» have?",
+          "a": "Two: STÚU-dənt."
+        },
+        {
+          "q": "Steve speaks a little Spanish.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "«Strange» starts with three consonant sounds.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "«Scared» starts with a vowel sound.",
+          "tf": true,
+          "a": false,
+          "why": "empieza por /sk/: <code>skerd</code>"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con palabras de S + consonante. Léelas en voz alta y grábate: ¿se cuela alguna e?",
+      "en": "Write three sentences with S + consonant words and record yourself.",
+      "items": [
+        {
+          "q": "Preséntate: di de dónde eres y qué idiomas hablas.",
+          "lines": 2,
+          "a": "Ej.: I'm from Spain and I speak Spanish."
+        },
+        {
+          "q": "Describe tu colegio, tu calle o tu trabajo (small, special, strange…).",
+          "lines": 2,
+          "a": "Ej.: My street is small but special."
+        },
+        {
+          "q": "Una frase con tres palabras de S + consonante.",
+          "lines": 2,
+          "a": "Ej.: Stop! The street is full of snow."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Digo <b>Spain</b> como <code>spein</code>, ¡sin e delante!",
+      "en": "I can say Spain without an e."
+    },
+    {
+      "es": "Sé alargar la S como una serpiente 🐍: «sssss…tap».",
+      "en": "I can stretch the S like a snake."
+    },
+    {
+      "es": "Engancho la S a la palabra de antes: «ais-piik», «mais-kuul».",
+      "en": "I can hook the S onto the word before."
+    },
+    {
+      "es": "Cuento bien las sílabas: student tiene 2 y school, 1.",
+      "en": "I can count syllables: student = 2, school = 1."
+    },
+    {
+      "es": "Digo grupos de tres: street, spring, scream.",
+      "en": "I can say three-consonant clusters."
+    },
+    {
+      "es": "Sé que especially y escape sí llevan vocal delante.",
+      "en": "I know especially and escape do have a vowel."
+    }
+  ]
+}

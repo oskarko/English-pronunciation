@@ -1,0 +1,1883 @@
+{
+  "id": "H-07",
+  "block": "H",
+  "title": "SONIDOS QUE SE COMEN",
+  "file_title": "Sonidos que se comen (elisión)",
+  "subtitle": "Sounds that vanish · next door = «neks dór»",
+  "icon": "🍪",
+  "map": {
+    "center": "Al hablar rápido, los americanos <b>se comen</b> sonidos y hasta sílabas: next door = <code>neks dór</code>, family = <code>fǽmli</code>.",
+    "listen": "I don't know",
+    "nodes": [
+      {
+        "title": "T y D en medio",
+        "icon": "🍽️",
+        "color": "green",
+        "rows": [
+          [
+            "next door",
+            "<code>neks dór</code>"
+          ],
+          [
+            "last night",
+            "<code>læs náit</code>"
+          ],
+          [
+            "best friend",
+            "<code>bes frénd</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Frases encogidas",
+        "icon": "🗜️",
+        "color": "blue",
+        "rows": [
+          [
+            "I don't know",
+            "<code>ai dənóu</code>"
+          ],
+          [
+            "give me",
+            "<code>guími</code>"
+          ],
+          [
+            "let me",
+            "<code>lémi</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Más mordiscos",
+        "icon": "😋",
+        "color": "purple",
+        "rows": [
+          [
+            "kind of",
+            "<code>káində</code>"
+          ],
+          [
+            "because",
+            "<code>kəs</code>"
+          ],
+          [
+            "them",
+            "<code>əm</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Sílabas fantasma",
+        "icon": "👻",
+        "color": "orange",
+        "rows": [
+          [
+            "family",
+            "<code>fǽmli</code>"
+          ],
+          [
+            "chocolate",
+            "<code>cháklət</code>"
+          ],
+          [
+            "every",
+            "<code>évri</code>"
+          ]
+        ]
+      },
+      {
+        "title": "¡Ojo!",
+        "icon": "👀",
+        "color": "pink",
+        "html": "Antes de <b>vocal</b>, la T vuelve:",
+        "rows": [
+          [
+            "last of all",
+            "<code>lǽstəv ól</code>"
+          ]
+        ],
+        "after": "Y gimme, kinda… se dicen, pero <b>no</b> se escriben en un examen."
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "¿Tres consonantes seguidas? La <b>T</b> o la <b>D</b> del medio se va de vacaciones: nex(t) door, las(t) night.",
+        "art": "🏖️"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "<code>chokoláte</code> (4 sílabas)"
+      ],
+      "good": [
+        "<code>cháklət</code> 🍫"
+      ],
+      "note": "En inglés, chocolate tiene solo 2 sílabas"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🚪 next door → ____",
+          "a": "neks dór"
+        },
+        {
+          "q": "🌙 last night → ____",
+          "a": "læs náit"
+        },
+        {
+          "q": "🤷 I don't know → ____",
+          "a": "ai dənóu"
+        },
+        {
+          "q": "👨‍👩‍👧 family → ____",
+          "a": "fǽmli"
+        },
+        {
+          "q": "🎁 give me → ____",
+          "a": "guími"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es comerse sonidos?",
+      "title_en": "What is elision?",
+      "icon": "🍪",
+      "es": "Cuando hablas rápido, tu boca busca el camino más corto. En inglés eso significa que algunos sonidos <b>desaparecen</b>: la T de next door, la D de sandwich, la o de chocolate… Se llama <b>elisión</b>. <mark>No es hablar mal</mark>: cualquier americano dice <code>fǽmli</code> y <code>neks dór</code> sin pensarlo. Si tú lo dices todo enterito, se te entiende igual; pero si no conoces estos mordiscos, te costará entender series y canciones.",
+      "en": "In fast speech, Americans drop some sounds and even whole syllables: next door → «neks dór», family → «fǽmli». It's normal, not lazy.",
+      "formula": [
+        "consonante + *T / D* + consonante → *¡fuera!*",
+        "sílaba débil + sílaba débil → *una menos*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "¿Por qué pasa?",
+      "title_en": "Why does it happen?",
+      "items": [
+        {
+          "part": "tongue",
+          "es": "Para decir next door enterito, la lengua tendría que tocar arriba para la T, soltarla y volver a tocar para la D. Es mucho más fácil <b>saltarse la T</b> e ir directa a la D.",
+          "en": "It's easier to skip the T and go straight to the D."
+        },
+        {
+          "part": "air",
+          "es": "No hay explosión de T: el aire pasa de la <b>s</b> a la siguiente consonante sin parar.",
+          "en": "No T burst: the air flows straight on."
+        },
+        {
+          "part": "jaw",
+          "es": "Mandíbula relajada: las vocales débiles (schwas) se aplastan tanto que alguna <b>desaparece</b> y la palabra pierde una sílaba: fam-ly.",
+          "en": "Weak vowels get so short that some disappear: fam-ly."
+        },
+        {
+          "part": "ear",
+          "es": "Tu oído tiene que aprender a <b>rellenar</b> lo que falta. El cerebro de un americano ya lo hace sin darse cuenta.",
+          "en": "Train your ear to fill in the missing sounds."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · T y D entre consonantes",
+      "title_en": "T and D between consonants",
+      "icon": "🍽️",
+      "es": "Cuando una <b>T</b> o una <b>D</b> se queda atrapada entre dos consonantes (al final de una palabra y al principio de la siguiente), normalmente <b>desaparece</b>. La palabra sigue siendo la misma, pero suena más corta.",
+      "en": "A T or D squeezed between two consonants usually disappears: next door → «neks dór».",
+      "formula": [
+        "nex*t* + door → neks dór"
+      ],
+      "examples": [
+        {
+          "en": "next door",
+          "say": "neks dór",
+          "es": "la casa de al lado",
+          "icon": "🚪"
+        },
+        {
+          "en": "last night",
+          "say": "læs náit",
+          "es": "anoche",
+          "icon": "🌙"
+        },
+        {
+          "en": "best friend",
+          "say": "bes frénd",
+          "es": "mejor amigo",
+          "icon": "🤝"
+        },
+        {
+          "en": "It must be Rocky.",
+          "say": "it más bi ráki",
+          "es": "Debe de ser Rocky.",
+          "icon": "🐶"
+        },
+        {
+          "en": "an old man",
+          "say": "ən óul mǽn",
+          "es": "un anciano",
+          "icon": "👴"
+        },
+        {
+          "en": "a cold drink",
+          "say": "ə kóul drínk",
+          "es": "una bebida fría",
+          "icon": "🥤"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · También dentro de la palabra",
+      "title_en": "Inside words too",
+      "icon": "🥪",
+      "es": "Pasa lo mismo <b>dentro</b> de muchas palabras: la T o la D que va entre consonantes se esfuma. ¡Y algunas ya las decimos así en español, como «sánwich»!",
+      "en": "The same happens inside words: sandwich, grandma, exactly.",
+      "examples": [
+        {
+          "en": "sandwich",
+          "say": "sǽnwich",
+          "es": "sándwich",
+          "icon": "🥪"
+        },
+        {
+          "en": "grandma",
+          "say": "grǽnma",
+          "es": "abuela",
+          "icon": "👵"
+        },
+        {
+          "en": "exactly",
+          "say": "igsǽkli",
+          "es": "exactamente",
+          "icon": "🎯"
+        },
+        {
+          "en": "mostly",
+          "say": "móusli",
+          "es": "sobre todo",
+          "icon": "📊"
+        },
+        {
+          "en": "friendship",
+          "say": "frénship",
+          "es": "amistad",
+          "icon": "💞"
+        },
+        {
+          "en": "postcard",
+          "say": "póuskard",
+          "es": "postal",
+          "icon": "📮"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Frases encogidas",
+      "title_en": "Squeezed phrases",
+      "icon": "🗜️",
+      "es": "Algunas frases muy usadas se encogen tanto que tienen su propia forma escrita «de chat»: <b>dunno, lemme, gimme, kinda, sorta, 'cause</b>. Las verás en cómics, canciones y mensajes. <mark>En un examen, escribe siempre la forma completa.</mark>",
+      "en": "Some common phrases shrink so much they have their own chat spelling: dunno, lemme, gimme, kinda, sorta, 'cause.",
+      "examples": [
+        {
+          "en": "I don't know.",
+          "say": "ai dənóu",
+          "es": "No sé. (I dunno)",
+          "icon": "🤷"
+        },
+        {
+          "en": "Let me see.",
+          "say": "lémi síi",
+          "es": "A ver. (lemme)",
+          "icon": "👀"
+        },
+        {
+          "en": "Give me five!",
+          "say": "guími fáiv!",
+          "es": "¡Choca esos cinco! (gimme)",
+          "icon": "🙌"
+        },
+        {
+          "en": "It's kind of cold.",
+          "say": "its káində kóuld",
+          "es": "Hace algo de frío. (kinda)",
+          "icon": "🥶"
+        },
+        {
+          "en": "I sort of like it.",
+          "say": "ai sórdə láikit",
+          "es": "Me gusta, más o menos.",
+          "icon": "🤔"
+        },
+        {
+          "en": "Because I'm hungry.",
+          "say": "kəs aim jángri",
+          "es": "Porque tengo hambre. ('cause)",
+          "icon": "🍔"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · 'em y goin'",
+      "title_en": "'em and goin'",
+      "icon": "✂️",
+      "es": "Las palabras pequeñas también pierden trozos. <b>Them</b> se queda en <b>'em</b> (<code>əm</code>) y se pega a la palabra de antes. Y en -ing, la g se cae: going → <b>goin'</b>. La H de him y her también se esfuma (mapa C-06), y el -in' lo ves a fondo en C-13.",
+      "en": "Them becomes 'em (əm), and -ing often becomes -in': goin', nothin'.",
+      "examples": [
+        {
+          "en": "Tell them!",
+          "say": "téləm!",
+          "es": "¡Díselo! (a ellos)",
+          "icon": "📢"
+        },
+        {
+          "en": "Get them!",
+          "say": "guérəm!",
+          "es": "¡A por ellos!",
+          "icon": "🏃"
+        },
+        {
+          "en": "I love them.",
+          "say": "ai lávəm",
+          "es": "Me encantan.",
+          "icon": "❤️"
+        },
+        {
+          "en": "Where are you going?",
+          "say": "wér ər iə góuin?",
+          "es": "¿Adónde vas?",
+          "icon": "🗺️"
+        },
+        {
+          "en": "nothing",
+          "say": "názin",
+          "es": "nada (nothin')",
+          "icon": "🤐"
+        },
+        {
+          "en": "something",
+          "say": "sámzin",
+          "es": "algo (somethin')",
+          "icon": "🎁"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Sílabas fantasma",
+      "title_en": "Ghost syllables",
+      "icon": "👻",
+      "es": "En muchas palabras largas, una vocal débil se aplasta tanto que <b>desaparece</b>, y la palabra pierde una sílaba entera. El español no hace esto nunca: por eso decimos «fa-mi-lia» y «cho-co-la-te» con todas sus letras. En inglés, la fuerza va al principio y lo demás se encoge.",
+      "en": "In many long words, a weak vowel disappears and the word loses a syllable: family → «fǽmli».",
+      "examples": [
+        {
+          "en": "family",
+          "say": "fǽmli",
+          "es": "familia",
+          "icon": "👨‍👩‍👧"
+        },
+        {
+          "en": "chocolate",
+          "say": "cháklət",
+          "es": "chocolate",
+          "icon": "🍫"
+        },
+        {
+          "en": "every",
+          "say": "évri",
+          "es": "cada / todos",
+          "icon": "🔁"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "next door",
+          "ipa": "ˈnɛks ˈdɔr",
+          "say": "neks dór",
+          "es": "al lado",
+          "icon": "🚪",
+          "anchor": "<b>nex</b>o 🔗 + dor",
+          "tip": "Di «nexo» sin la o y luego «dor»: NEKS-DÓR. ¡La T se esfuma!"
+        },
+        {
+          "en": "best friend",
+          "ipa": "ˈbɛs ˈfrɛnd",
+          "say": "bes frénd",
+          "es": "mejor amigo",
+          "icon": "🤝",
+          "anchor": "<b>bes</b>o 😘 + frend",
+          "tip": "Un beso a tu mejor amigo: BES-FRÉND, sin T."
+        },
+        {
+          "en": "must be",
+          "ipa": "ˈmʌs bi",
+          "say": "más bi",
+          "es": "debe de ser",
+          "icon": "🤔",
+          "anchor": "<b>más bi</b>en 👌",
+          "tip": "It must be Rocky = <code>it más bi ráki</code>. ¡Más bien es Rocky!"
+        },
+        {
+          "en": "sandwich",
+          "ipa": "ˈsænwɪtʃ",
+          "say": "sǽnwich",
+          "es": "sándwich",
+          "icon": "🥪",
+          "anchor": "<b>sánwich</b> 🥪",
+          "tip": "En España ya decimos «sánwich» sin D. Solo abre la a como en cat (V-03)."
+        },
+        {
+          "en": "sort of",
+          "ipa": "ˈsɔrɾə",
+          "say": "sórdə",
+          "es": "más o menos (sorta)",
+          "icon": "🤏",
+          "anchor": "<b>sorda</b> 🦻",
+          "tip": "«Sorda» es casi perfecto: tras R, la T suena d suave (C-02). I sorta like it."
+        },
+        {
+          "en": "because",
+          "ipa": "kəz",
+          "say": "kəs",
+          "es": "porque ('cause)",
+          "icon": "🍊",
+          "anchor": "<b>Kas</b> 🍊 (el refresco)",
+          "tip": "Como el refresco, rapidito y con la s zumbando: kəs. 'Cause I said so! (¡Porque lo digo yo!)"
+        },
+        {
+          "en": "them",
+          "ipa": "əm",
+          "say": "əm",
+          "es": "los, las, ellos ('em)",
+          "icon": "👥",
+          "anchor": "«<b>em</b>…» al dudar 🤔",
+          "tip": "El «em…» que dices cuando piensas. Tell 'em = <code>téləm</code>."
+        },
+        {
+          "en": "let me",
+          "ipa": "ˈlɛmi",
+          "say": "lémi",
+          "es": "déjame (lemme)",
+          "icon": "👀",
+          "anchor": "<b>lemi</b>ng 🐹",
+          "tip": "Di «leming» sin la ng final: LÉ-mi. Lemme see = a ver."
+        },
+        {
+          "en": "chocolate",
+          "ipa": "ˈtʃɑklət",
+          "say": "cháklət",
+          "es": "chocolate",
+          "icon": "🍫",
+          "anchor": "<s>cho-co-la-te</s> → <b>CHÁK</b>lət",
+          "tip": "Dos sílabas y la fuerza al principio: CHÁK-lət."
+        },
+        {
+          "en": "camera",
+          "ipa": "ˈkæmrə",
+          "say": "kǽmrə",
+          "es": "cámara",
+          "icon": "📷",
+          "anchor": "<b>cám</b>a<b>ra</b> sin la a del medio",
+          "tip": "«Cámara» comiéndote la a central: KǼM-rə."
+        },
+        {
+          "en": "different",
+          "ipa": "ˈdɪfrənt",
+          "say": "dífrənt",
+          "es": "diferente",
+          "icon": "🔀",
+          "anchor": "<s>di-fe-ren-te</s> → <b>DÍF</b>rənt",
+          "tip": "Solo 2 sílabas y la fuerza en DÍF. La e del medio se esfuma."
+        },
+        {
+          "en": "vegetable",
+          "ipa": "ˈvɛdʒtəbəl",
+          "say": "védytəbəl",
+          "es": "verdura",
+          "icon": "🥦",
+          "anchor": "<s>ve-ge-téi-bol</s> → <b>VÉY</b>təbəl",
+          "tip": "3 sílabas, no 4, y con V de verdad: VÉY-tə-bəl."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "next door",
+          "es": "al lado"
+        },
+        {
+          "q": "I don't know",
+          "es": "no sé"
+        },
+        {
+          "q": "kind of",
+          "es": "un poco"
+        },
+        {
+          "q": "family",
+          "es": "familia"
+        },
+        {
+          "q": "chocolate",
+          "es": "chocolate"
+        },
+        {
+          "q": "probably",
+          "es": "seguramente"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Se come o no se come?",
+      "title_en": "Dropped or not?",
+      "icon": "🧭",
+      "head": [
+        "Frase · Phrase",
+        "¿Qué viene después?",
+        "¿Se cae la T / D?",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "last night",
+          "consonante (n)",
+          "✅ sí",
+          "<code>læs náit</code>"
+        ],
+        [
+          "last of all",
+          "vocal (o)",
+          "❌ no, se pega",
+          "<code>lǽstəv ól</code>"
+        ],
+        [
+          "best friend",
+          "consonante (f)",
+          "✅ sí",
+          "<code>bes frénd</code>"
+        ],
+        [
+          "best idea",
+          "vocal (i)",
+          "❌ no, se pega",
+          "<code>bestaidíə</code>"
+        ],
+        [
+          "old man",
+          "consonante (m)",
+          "✅ sí",
+          "<code>óul mǽn</code>"
+        ],
+        [
+          "old enough",
+          "vocal (e)",
+          "❌ no, se pega",
+          "<code>óuldináf</code>"
+        ],
+        [
+          "rock and roll",
+          "consonante (r)",
+          "✅ sí (and → 'n')",
+          "<code>rákənróul</code>"
+        ],
+        [
+          "you and I",
+          "vocal (I)",
+          "❌ no",
+          "<code>iu ənd ái</code>"
+        ],
+        [
+          "next week",
+          "consonante (w)",
+          "✅ sí",
+          "<code>neks wíik</code>"
+        ],
+        [
+          "next August",
+          "vocal (Au)",
+          "❌ no, se pega",
+          "<code>nekst ógəst</code>"
+        ]
+      ],
+      "note": "Regla de oro: <b>T / D entre consonantes = ¡fuera!</b> Si lo que viene es una <b>vocal</b>, la T o la D vuelve y se pega a ella (H-01).",
+      "note_en": "Golden rule: T or D between consonants drops. Before a vowel, it comes back and links."
+    },
+    {
+      "t": "compare",
+      "wide": true,
+      "title": "Se escribe, se chatea, se dice",
+      "title_en": "Written, texted, spoken",
+      "icon": "💬",
+      "es": "Estas formas cortas se <b>dicen</b> siempre y se <b>escriben</b> en chats, cómics y canciones. En un examen o un email formal, usa la forma completa.",
+      "en": "Say the short forms, text them to friends, but write the full forms in exams.",
+      "cols": [
+        {
+          "head": "✍️ Examen",
+          "color": "blue",
+          "items": [
+            "I don't know",
+            "give me",
+            "let me",
+            "kind of",
+            "sort of",
+            "because"
+          ]
+        },
+        {
+          "head": "📱 Chat",
+          "color": "purple",
+          "items": [
+            "I dunno",
+            "gimme",
+            "lemme",
+            "kinda",
+            "sorta",
+            "'cause / cuz"
+          ]
+        },
+        {
+          "head": "🗣️ Suena",
+          "color": "red",
+          "items": [
+            "<code>ai dənóu</code>",
+            "<code>guími</code>",
+            "<code>lémi</code>",
+            "<code>káində</code>",
+            "<code>sórdə</code>",
+            "<code>kəs</code>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "wide": true,
+      "cols": 4,
+      "title": "¿Cuántas sílabas suenan?",
+      "title_en": "How many syllables do you hear?",
+      "icon": "👻",
+      "es": "Mira cuántas sílabas quedan al hablar normal (y dónde cae el golpe ●). ¡La vocal fantasma ni se escribe!",
+      "en": "Count the syllables you really hear in normal speech.",
+      "items": [
+        {
+          "syl": [
+            "fam",
+            "ly"
+          ],
+          "s": 0,
+          "say": "fǽmli",
+          "es": "familia · 3 → 2"
+        },
+        {
+          "syl": [
+            "choc",
+            "late"
+          ],
+          "s": 0,
+          "say": "cháklət",
+          "es": "chocolate · 3 → 2"
+        },
+        {
+          "syl": [
+            "ev",
+            "ry"
+          ],
+          "s": 0,
+          "say": "évri",
+          "es": "cada · 3 → 2"
+        },
+        {
+          "syl": [
+            "cam",
+            "ra"
+          ],
+          "s": 0,
+          "say": "kǽmrə",
+          "es": "cámara · 3 → 2"
+        },
+        {
+          "syl": [
+            "diff",
+            "rent"
+          ],
+          "s": 0,
+          "say": "dífrənt",
+          "es": "diferente · 3 → 2"
+        },
+        {
+          "syl": [
+            "fav",
+            "rite"
+          ],
+          "s": 0,
+          "say": "féivrit",
+          "es": "favorito · 3 → 2"
+        },
+        {
+          "syl": [
+            "in",
+            "tres",
+            "ting"
+          ],
+          "s": 0,
+          "say": "íntrəsting",
+          "es": "interesante · 4 → 3"
+        },
+        {
+          "syl": [
+            "veg",
+            "ta",
+            "ble"
+          ],
+          "s": 0,
+          "say": "védytəbəl",
+          "es": "verdura · 4 → 3"
+        },
+        {
+          "syl": [
+            "res",
+            "trant"
+          ],
+          "s": 0,
+          "say": "réstrant",
+          "es": "restaurante · 3 → 2"
+        },
+        {
+          "syl": [
+            "prob",
+            "ly"
+          ],
+          "s": 0,
+          "say": "prábli",
+          "es": "seguramente · 3 → 2"
+        },
+        {
+          "syl": [
+            "ba",
+            "sic",
+            "ly"
+          ],
+          "s": 0,
+          "say": "béisikli",
+          "es": "básicamente · 4 → 3"
+        },
+        {
+          "syl": [
+            "sev",
+            "ral"
+          ],
+          "s": 0,
+          "say": "sévrəl",
+          "es": "varios · 3 → 2"
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "I don't know.",
+          "spoken": "I dunno.",
+          "say": "ai dənóu",
+          "es": "No sé."
+        },
+        {
+          "written": "Let me see.",
+          "spoken": "Lemme see.",
+          "say": "lémi síi",
+          "es": "A ver."
+        },
+        {
+          "written": "Give me that!",
+          "spoken": "Gimme that!",
+          "say": "guími dǽt!",
+          "es": "¡Dame eso!"
+        },
+        {
+          "written": "It's kind of cold.",
+          "spoken": "It's kinda cold.",
+          "say": "its káində kóuld",
+          "es": "Hace algo de frío."
+        },
+        {
+          "written": "I sort of like it.",
+          "spoken": "I sorta like it.",
+          "say": "ai sórdə láikit",
+          "es": "Me gusta, más o menos."
+        },
+        {
+          "written": "Because I'm hungry.",
+          "spoken": "'Cause I'm hungry.",
+          "say": "kəs aim jángri",
+          "es": "Porque tengo hambre."
+        },
+        {
+          "written": "Tell them to come.",
+          "spoken": "Tell 'em ta come.",
+          "say": "téləm tə kám",
+          "es": "Diles que vengan."
+        },
+        {
+          "written": "Where are you going?",
+          "spoken": "Where're ya goin'?",
+          "say": "wér ər iə góuin?",
+          "es": "¿Adónde vas?"
+        },
+        {
+          "written": "Jenny lives next door.",
+          "spoken": "Jenny lives nex' door.",
+          "say": "yéni lívs neks dór",
+          "es": "Jenny vive al lado."
+        },
+        {
+          "written": "Last night was fun.",
+          "spoken": "Las' night was fun.",
+          "say": "læs náit wəs fán",
+          "es": "Anoche fue divertido."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "Jenny lives next door.",
+          "say": "yéni lívs neks dór",
+          "es": "Jenny vive en la casa de al lado.",
+          "icon": "🚪"
+        },
+        {
+          "en": "I watched a movie last night.",
+          "say": "ai wácht ə múuvi læs náit",
+          "es": "Anoche vi una peli.",
+          "icon": "🎬"
+        },
+        {
+          "en": "Tyler is my best friend.",
+          "say": "táiler is mai bes frénd",
+          "es": "Tyler es mi mejor amigo.",
+          "icon": "🤝"
+        },
+        {
+          "en": "I don't know where it is.",
+          "say": "ai dənóu wér irís",
+          "es": "No sé dónde está.",
+          "icon": "🤷"
+        },
+        {
+          "en": "Give me a cookie, please!",
+          "say": "guími ə kúki, plíis!",
+          "es": "¡Dame una galleta, por favor!",
+          "icon": "🍪"
+        },
+        {
+          "en": "Let me help you.",
+          "say": "lémi jélp iu",
+          "es": "Deja que te ayude.",
+          "icon": "🙋"
+        },
+        {
+          "en": "It's kind of cold today.",
+          "say": "its káində kóul tədéi",
+          "es": "Hoy hace algo de frío.",
+          "icon": "🥶"
+        },
+        {
+          "en": "I love chocolate!",
+          "say": "ai láv cháklət!",
+          "es": "¡Me encanta el chocolate!",
+          "icon": "🍫"
+        },
+        {
+          "en": "Every family is different.",
+          "say": "évri fǽmli is dífrənt",
+          "es": "Cada familia es diferente.",
+          "icon": "👨‍👩‍👧"
+        },
+        {
+          "en": "Our favorite restaurant is closed.",
+          "say": "ar féivrit réstrant is klóusd",
+          "es": "Nuestro restaurante favorito está cerrado.",
+          "icon": "🍽️"
+        },
+        {
+          "en": "It's probably Rocky.",
+          "say": "its prábli ráki",
+          "es": "Seguramente es Rocky.",
+          "icon": "🐶"
+        },
+        {
+          "en": "Eat your vegetables!",
+          "say": "íicher védytəbəls!",
+          "es": "¡Cómete la verdura!",
+          "icon": "🥦"
+        },
+        {
+          "en": "Where's the camera?",
+          "say": "wérs də kǽmrə?",
+          "es": "¿Dónde está la cámara?",
+          "icon": "📷"
+        },
+        {
+          "en": "That's interesting!",
+          "say": "dæts íntrəsting!",
+          "es": "¡Qué interesante!",
+          "icon": "💡"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "chocolate → <code>chokoláte</code>",
+          "good": "<code>cháklət</code>",
+          "why": "Dos sílabas y la fuerza al principio: la o del medio se la come.",
+          "why_en": "Two syllables, stress on the first."
+        },
+        {
+          "bad": "every → <code>éveri</code>",
+          "good": "<code>évri</code>",
+          "why": "Every tiene 2 sílabas: ÉV-ri.",
+          "why_en": "Every has two syllables."
+        },
+        {
+          "bad": "different → <code>diferént</code>",
+          "good": "<code>dífrənt</code>",
+          "why": "Fuerza al principio y solo 2 sílabas: DÍF-rənt.",
+          "why_en": "Stress the first syllable; only two syllables."
+        },
+        {
+          "bad": "vegetable → <code>veyetéibəl</code>",
+          "good": "<code>védytəbəl</code>",
+          "why": "Nada de «téibol»: son 3 sílabas y el golpe va en VÉY.",
+          "why_en": "Three syllables, stress on VEG."
+        },
+        {
+          "bad": "camera → <code>kámera</code>",
+          "good": "<code>kǽmrə</code>",
+          "why": "Dos sílabas (KǼM-rə) y la a abierta de cat.",
+          "why_en": "Two syllables, with the «cat» vowel."
+        },
+        {
+          "bad": "I don't know → <code>ai dont nóu</code> (o española)",
+          "good": "<code>ai dənóu</code> / <code>ai dóun nóu</code>",
+          "why": "La T se cae antes de consonante y la o de don't es «ou» (V-08).",
+          "why_en": "Drop the T and say «ou»."
+        },
+        {
+          "bad": "interesting → <code>interésting</code>",
+          "good": "<code>íntrəsting</code>",
+          "why": "La fuerza va en IN, no en RES, y la e del medio se come.",
+          "why_en": "Stress IN and drop the middle vowel."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En casa de Jenny",
+      "title_en": "At Jenny's house",
+      "lines": [
+        {
+          "who": "Jenny",
+          "en": "Hey Lucía! Come in. Want some chocolate?",
+          "say": "jéi lusíə! kám ín. wánt səm cháklət?",
+          "es": "¡Hola, Lucía! Pasa. ¿Quieres chocolate?"
+        },
+        {
+          "who": "Lucía",
+          "en": "Yes, please! Gimme a big piece.",
+          "say": "iés, plíis! guími ə bíg píis",
+          "es": "¡Sí, por favor! Dame un trozo grande."
+        },
+        {
+          "who": "Jenny",
+          "en": "Here. My family's kinda crazy about chocolate.",
+          "say": "jír. mai fǽmlis káində kréisi əbáut cháklət",
+          "es": "Toma. Mi familia está un poco loca por el chocolate."
+        },
+        {
+          "who": "Lucía",
+          "en": "Who lives next door? I saw a dog last night.",
+          "say": "júu lívs neks dór? ai só ə dóg læs náit",
+          "es": "¿Quién vive al lado? Anoche vi un perro."
+        },
+        {
+          "who": "Jenny",
+          "en": "I dunno. Probably the new neighbors.",
+          "say": "ai dənóu. prábli də núu néibers",
+          "es": "No sé. Seguramente los vecinos nuevos."
+        },
+        {
+          "who": "Lucía",
+          "en": "Lemme see… That's my dog, Rocky!",
+          "say": "lémi síi… dæts mai dóg, ráki!",
+          "es": "A ver… ¡Es mi perro, Rocky!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Wow! Bring him in! 'Cause I love dogs!",
+          "say": "wáu! brínguim ín! kəs ai láv dógs!",
+          "es": "¡Hala! ¡Tráelo! ¡Que me encantan los perros!"
+        },
+        {
+          "who": "Lucía",
+          "en": "Rocky, let's go! But no chocolate for you!",
+          "say": "ráki, lets góu! bət nóu cháklət fər iú!",
+          "es": "¡Rocky, vamos! ¡Pero para ti no hay chocolate!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Busca las T y D atrapadas entre consonantes: nex<b>t</b> door, las<b>t</b> night, ol<b>d</b> man.",
+          "en": "Find T and D between consonants."
+        },
+        {
+          "es": "Dilo primero con T y luego sin ella: «nekst dór» → <code>neks dór</code>. ¿A que es más fácil?",
+          "en": "Say it with the T, then without it."
+        },
+        {
+          "es": "Cuenta las sílabas de verdad dando palmadas: fam-ly (2), choc-late (2), ev-ry (2).",
+          "en": "Clap the real syllables."
+        },
+        {
+          "es": "Practica las formas de chat en voz alta: <code>ai dənóu</code>, <code>lémi síi</code>, <code>guími</code>.",
+          "en": "Practice the short forms aloud."
+        },
+        {
+          "es": "Escanea los QR y escucha: ¿oyes la T de next door? ¡Seguro que no!",
+          "en": "Scan the QR codes and listen for the missing sounds."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "My best friend's family lives next door, and every night they eat chocolate.",
+          "say": "mai bes fréns fǽmli lívs neks dór, ən évri náit dei íit cháklət",
+          "es": "La familia de mi mejor amigo vive al lado, y cada noche comen chocolate."
+        },
+        {
+          "en": "Lemme see, gimme three, I dunno, 'cause I'm kinda sleepy!",
+          "say": "lémi síi, guími zríi, ai dənóu, kəs aim káində slíipi!",
+          "es": "¡A ver, dame tres, no sé, que tengo un poco de sueño!"
+        },
+        {
+          "en": "Last night, Mom's camera took different pictures of vegetables.",
+          "say": "læs náit, máms kǽmrə túk dífrənt píkchers əv védytəbəls",
+          "es": "Anoche, la cámara de mamá hizo fotos diferentes de verduras."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de la galleta",
+      "title_en": "The cookie trick",
+      "es": "Imagina que cada frase es una galleta 🍪 y el americano le da un mordisco: se come la T de next door, la o de chocolate, el «don't» de I don't know… Tú no tienes que comértelo todo desde el primer día, pero <b>sí entenderlo</b>. Y recuerda: dunno, gimme o kinda se dicen, pero en un examen se escribe la palabra completa.",
+      "en": "Every phrase is a cookie and Americans take a bite out of it. You don't have to eat it all, but you need to understand it."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Qué sonido desaparece?",
+      "title_en": "Which sound disappears?",
+      "icon": "🔍",
+      "es": "Di la frase rápido y rodea el sonido que se come.",
+      "en": "Say it fast and circle the sound that disappears.",
+      "items": [
+        {
+          "q": "next door → [t|d|s]",
+          "a": "t"
+        },
+        {
+          "q": "last night → [s|t|n]",
+          "a": "t"
+        },
+        {
+          "q": "sandwich → [n|d|w]",
+          "a": "d"
+        },
+        {
+          "q": "grandma → [n|d|m]",
+          "a": "d"
+        },
+        {
+          "q": "best friend → [s|t|f]",
+          "a": "t"
+        },
+        {
+          "q": "old man → [l|d|m]",
+          "a": "d"
+        },
+        {
+          "q": "mostly → [s|t|l]",
+          "a": "t"
+        },
+        {
+          "q": "exactly → [k|t|l]",
+          "a": "t"
+        },
+        {
+          "q": "friendship → [n|d|sh]",
+          "a": "d"
+        },
+        {
+          "q": "postcard → [s|t|k]",
+          "a": "t"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Cuántas sílabas suenan?",
+      "title_en": "How many syllables?",
+      "icon": "👏",
+      "es": "Al hablar rápido, ¿cuántas sílabas suenan? Da palmadas y rodea. ¡Cuidado, que hay trampa!",
+      "en": "In fast speech, how many syllables do you hear?",
+      "items": [
+        {
+          "q": "family → [2|3]",
+          "a": "2"
+        },
+        {
+          "q": "chocolate → [2|3]",
+          "a": "2"
+        },
+        {
+          "q": "every → [2|3]",
+          "a": "2"
+        },
+        {
+          "q": "camera → [2|3]",
+          "a": "2"
+        },
+        {
+          "q": "different → [2|3]",
+          "a": "2"
+        },
+        {
+          "q": "interesting → [3|4]",
+          "a": "3"
+        },
+        {
+          "q": "vegetable → [3|4]",
+          "a": "3"
+        },
+        {
+          "q": "banana → [2|3]",
+          "a": "3"
+        },
+        {
+          "q": "tomato → [2|3]",
+          "a": "3"
+        },
+        {
+          "q": "favorite → [2|3]",
+          "a": "2"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Qué se come?",
+      "title_en": "What gets eaten?",
+      "icon": "🗂️",
+      "es": "Di cada palabra o frase y escríbela en su columna.",
+      "en": "Say each one and sort it.",
+      "cats": [
+        {
+          "name": "🍽️ Se come una T o D",
+          "words": [
+            "next door",
+            "last night",
+            "best friend",
+            "sandwich",
+            "grandma",
+            "exactly"
+          ]
+        },
+        {
+          "name": "👻 Se come una sílaba",
+          "words": [
+            "family",
+            "chocolate",
+            "camera",
+            "different",
+            "every",
+            "vegetable"
+          ]
+        },
+        {
+          "name": "🗜️ Frase encogida",
+          "words": [
+            "dunno",
+            "gimme",
+            "lemme",
+            "kinda",
+            "sorta",
+            "'cause"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une la frase con su forma corta",
+      "title_en": "Match the full and short forms",
+      "icon": "🔗",
+      "es": "Une la forma completa con su forma «de chat».",
+      "en": "Match each full form with its short form.",
+      "pairs": [
+        [
+          "I don't know",
+          "dunno"
+        ],
+        [
+          "give me",
+          "gimme"
+        ],
+        [
+          "let me",
+          "lemme"
+        ],
+        [
+          "kind of",
+          "kinda"
+        ],
+        [
+          "sort of",
+          "sorta"
+        ],
+        [
+          "because",
+          "'cause"
+        ],
+        [
+          "them",
+          "'em"
+        ],
+        [
+          "going",
+          "goin'"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada, comiéndote lo que se come. Pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each one sounds.",
+      "items": [
+        {
+          "q": "🚪 next door → ____",
+          "a": "neks dór"
+        },
+        {
+          "q": "🌙 last night → ____",
+          "a": "læs náit"
+        },
+        {
+          "q": "🤝 best friend → ____",
+          "a": "bes frénd"
+        },
+        {
+          "q": "👨‍👩‍👧 family → ____",
+          "a": "fǽmli"
+        },
+        {
+          "q": "🍫 chocolate → ____",
+          "a": "cháklət"
+        },
+        {
+          "q": "🔁 every → ____",
+          "a": "évri"
+        },
+        {
+          "q": "📷 camera → ____",
+          "a": "kǽmrə"
+        },
+        {
+          "q": "🤏 kind of → ____",
+          "a": "káində"
+        },
+        {
+          "q": "🎁 give me → ____",
+          "a": "guími"
+        },
+        {
+          "q": "👀 let me → ____",
+          "a": "lémi"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Después tacha la vocal débil que se come al hablar rápido.",
+      "en": "Circle the stressed syllable, then cross out the vowel that disappears.",
+      "items": [
+        {
+          "syl": [
+            "fam",
+            "i",
+            "ly"
+          ],
+          "s": 0,
+          "es": "familia"
+        },
+        {
+          "syl": [
+            "choc",
+            "o",
+            "late"
+          ],
+          "s": 0,
+          "es": "chocolate"
+        },
+        {
+          "syl": [
+            "dif",
+            "fer",
+            "ent"
+          ],
+          "s": 0,
+          "es": "diferente"
+        },
+        {
+          "syl": [
+            "in",
+            "ter",
+            "est",
+            "ing"
+          ],
+          "s": 0,
+          "es": "interesante"
+        },
+        {
+          "syl": [
+            "veg",
+            "e",
+            "ta",
+            "ble"
+          ],
+          "s": 0,
+          "es": "verdura"
+        },
+        {
+          "syl": [
+            "cam",
+            "er",
+            "a"
+          ],
+          "s": 0,
+          "es": "cámara"
+        },
+        {
+          "syl": [
+            "ev",
+            "er",
+            "y"
+          ],
+          "s": 0,
+          "es": "cada"
+        },
+        {
+          "syl": [
+            "fa",
+            "vor",
+            "ite"
+          ],
+          "s": 0,
+          "es": "favorito"
+        },
+        {
+          "syl": [
+            "ba",
+            "nan",
+            "a"
+          ],
+          "s": 1,
+          "es": "plátano (¡no pierde ninguna!)"
+        },
+        {
+          "syl": [
+            "ex",
+            "act",
+            "ly"
+          ],
+          "s": 1,
+          "es": "exactamente"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "In «next door», the T usually disappears.",
+          "a": true
+        },
+        {
+          "q": "«Chocolate» has four syllables in American English.",
+          "a": false,
+          "why": "solo 2: cháklət"
+        },
+        {
+          "q": "You can write «gimme» in a formal email.",
+          "a": false,
+          "why": "solo en chats; escribe give me"
+        },
+        {
+          "q": "«Kinda» means «kind of».",
+          "a": true
+        },
+        {
+          "q": "In «last of all», the T disappears too.",
+          "a": false,
+          "why": "antes de vocal, la T vuelve: lǽstəv ól"
+        },
+        {
+          "q": "«Every» sounds like «évri».",
+          "a": true
+        },
+        {
+          "q": "«'Em» is a short form of «them».",
+          "a": true
+        },
+        {
+          "q": "Americans who say «fǽmli» are speaking badly.",
+          "a": false,
+          "why": "es la pronunciación normal"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe la frase como suena",
+      "title_en": "Write the phrase as it sounds",
+      "icon": "🗜️",
+      "es": "Escribe cómo suena la frase entera, comiéndote lo que se come.",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        {
+          "q": "I don't know.",
+          "a": "ai dənóu"
+        },
+        {
+          "q": "Let me see.",
+          "a": "lémi síi"
+        },
+        {
+          "q": "Give me five!",
+          "a": "guími fáiv!"
+        },
+        {
+          "q": "It's kind of cold.",
+          "a": "its káində kóuld"
+        },
+        {
+          "q": "my best friend",
+          "a": "mai bes frénd"
+        },
+        {
+          "q": "last night",
+          "a": "læs náit"
+        },
+        {
+          "q": "Tell them!",
+          "a": "téləm!"
+        },
+        {
+          "q": "Because I'm hungry.",
+          "a": "kəs aim jángri"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "chocolate → <code>chokoláte</code>",
+          "a": "cháklət"
+        },
+        {
+          "q": "every → <code>éveri</code>",
+          "a": "évri"
+        },
+        {
+          "q": "camera → <code>kámera</code>",
+          "a": "kǽmrə"
+        },
+        {
+          "q": "different → <code>diferént</code>",
+          "a": "dífrənt"
+        },
+        {
+          "q": "vegetable → <code>veyetéibəl</code>",
+          "a": "védytəbəl"
+        },
+        {
+          "q": "interesting → <code>interésting</code>",
+          "a": "íntrəsting"
+        },
+        {
+          "q": "next door → <code>nékst dór</code>",
+          "a": "neks dór (sin T)"
+        },
+        {
+          "q": "sandwich → <code>sǽndwich</code> (con D)",
+          "a": "sǽnwich"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧩",
+      "es": "Ordena las palabras. Después dila en voz alta, comiéndote lo que se come.",
+      "en": "Put the words in order and say it aloud.",
+      "items": [
+        {
+          "q": "door / lives / next / Jenny",
+          "a": "Jenny lives next door"
+        },
+        {
+          "q": "night / a / movie / I / watched / last",
+          "a": "I watched a movie last night"
+        },
+        {
+          "q": "friend / is / best / my / Tyler",
+          "a": "Tyler is my best friend"
+        },
+        {
+          "q": "see / me / Let",
+          "a": "Let me see"
+        },
+        {
+          "q": "cold / kind / It's / of",
+          "a": "It's kind of cold"
+        },
+        {
+          "q": "know / don't / I",
+          "a": "I don't know"
+        },
+        {
+          "q": "family / Every / different / is",
+          "a": "Every family is different"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Jenny lives next door.",
+          "say": "yéni lívs neks dór"
+        },
+        {
+          "q": "I dunno.",
+          "say": "ai dənóu"
+        },
+        {
+          "q": "Gimme five!",
+          "say": "guími fáiv!"
+        },
+        {
+          "q": "Lemme see.",
+          "say": "lémi síi"
+        },
+        {
+          "q": "It's kinda cold.",
+          "say": "its káində kóuld"
+        },
+        {
+          "q": "Every family is different.",
+          "say": "évri fǽmli is dífrənt"
+        },
+        {
+          "q": "I love chocolate!",
+          "say": "ai láv cháklət!"
+        },
+        {
+          "q": "Eat your vegetables!",
+          "say": "íicher védytəbəls!"
+        },
+        {
+          "q": "Tell 'em I said hi!",
+          "say": "téləm ai séd jái!"
+        },
+        {
+          "q": "Last night was awesome!",
+          "say": "læs náit wəs ósəm!"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta como un americano.",
+      "en": "Translate into English and say it like an American.",
+      "items": [
+        {
+          "q": "la casa de al lado",
+          "a": "next door (neks dór)"
+        },
+        {
+          "q": "anoche",
+          "a": "last night (læs náit)"
+        },
+        {
+          "q": "mi mejor amigo",
+          "a": "my best friend (mai bes frénd)"
+        },
+        {
+          "q": "No sé.",
+          "a": "I don't know. / I dunno. (ai dənóu)"
+        },
+        {
+          "q": "Dame eso.",
+          "a": "Give me that. / Gimme that. (guími dǽt)"
+        },
+        {
+          "q": "A ver.",
+          "a": "Let me see. / Lemme see. (lémi síi)"
+        },
+        {
+          "q": "familia",
+          "a": "family (fǽmli)"
+        },
+        {
+          "q": "cámara",
+          "a": "camera (kǽmrə)"
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza los mordiscos",
+      "title_en": "Read and find the missing sounds",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Last night at Jenny's",
+      "text": [
+        "Last night, Lucía went next door to see her best friend Jenny. Jenny's family was eating chocolate cake.",
+        "“Gimme a piece!” said Lucía. “I dunno,” said Jenny's mom, “it's kinda late… OK, just a little piece!”"
+      ],
+      "items": [
+        {
+          "q": "How does «last night» sound?",
+          "a": "<code>læs náit</code> (sin T)"
+        },
+        {
+          "q": "Write two short «chat» forms from the text.",
+          "a": "gimme, dunno, kinda"
+        },
+        {
+          "q": "How many syllables does «family» have in fast speech?",
+          "a": "Dos: <code>fǽmli</code>"
+        },
+        {
+          "q": "Jenny lives next door to Lucía.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «best friend», you hear the T clearly.",
+          "tf": true,
+          "a": false,
+          "why": "se come: bes frénd"
+        },
+        {
+          "q": "«Kinda late» means «un poco tarde».",
+          "tf": true,
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de mordiscos",
+      "title_en": "Bitten word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras que pierden un sonido al hablar. Di cada una en voz alta como suena de verdad.",
+      "en": "Find 10 words that lose a sound in speech.",
+      "words": [
+        "family",
+        "chocolate",
+        "camera",
+        "every",
+        "different",
+        "sandwich",
+        "gimme",
+        "lemme",
+        "kinda",
+        "dunno"
+      ],
+      "clues": [
+        "family · familia",
+        "chocolate · chocolate",
+        "camera · cámara",
+        "every · cada",
+        "different · diferente",
+        "sandwich · sándwich",
+        "gimme · dame",
+        "lemme · déjame",
+        "kinda · un poco",
+        "dunno · no sé"
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "De chat a examen",
+      "title_en": "From chat to exam",
+      "icon": "📝",
+      "es": "Estas frases están escritas «de chat». Escríbelas como en un examen, con la forma completa.",
+      "en": "Rewrite each chat-style sentence in full, exam-style English.",
+      "items": [
+        {
+          "q": "I dunno.",
+          "a": "I don't know."
+        },
+        {
+          "q": "Gimme that!",
+          "a": "Give me that!"
+        },
+        {
+          "q": "Lemme see.",
+          "a": "Let me see."
+        },
+        {
+          "q": "It's kinda cold.",
+          "a": "It's kind of cold."
+        },
+        {
+          "q": "I sorta like it.",
+          "a": "I sort of like it."
+        },
+        {
+          "q": "'Cause I'm hungry.",
+          "a": "Because I'm hungry."
+        },
+        {
+          "q": "Tell 'em to come.",
+          "a": "Tell them to come."
+        },
+        {
+          "q": "Where ya goin'?",
+          "a": "Where are you going?"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases. Léelas en voz alta comiéndote lo que se come y grábate.",
+      "en": "Write your own sentences, read them aloud and record yourself.",
+      "items": [
+        {
+          "q": "Una frase sobre lo que hiciste «last night».",
+          "lines": 2,
+          "a": "Ej.: Last night I watched a movie with my family."
+        },
+        {
+          "q": "Una frase sobre tu «best friend».",
+          "lines": 2,
+          "a": "Ej.: My best friend lives next door."
+        },
+        {
+          "q": "Un mensaje de chat con dunno, gimme, lemme o kinda.",
+          "lines": 2,
+          "a": "Ej.: Lemme see… I dunno, it's kinda late!"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé que la T y la D entre consonantes se caen: <code>neks dór</code>, <code>læs náit</code>.",
+      "en": "I know T and D drop between consonants."
+    },
+    {
+      "es": "Digo family, chocolate y every con 2 sílabas: <code>fǽmli</code>, <code>cháklət</code>, <code>évri</code>.",
+      "en": "I can say family, chocolate and every with two syllables."
+    },
+    {
+      "es": "Entiendo dunno, gimme, lemme, kinda, sorta y 'cause.",
+      "en": "I understand dunno, gimme, lemme, kinda, sorta and 'cause."
+    },
+    {
+      "es": "Sé que antes de vocal la T vuelve: <code>lǽstəv ól</code>.",
+      "en": "I know the T comes back before a vowel."
+    },
+    {
+      "es": "Sé que estas formas se dicen, pero no se escriben en un examen.",
+      "en": "I know these forms are spoken, not written in exams."
+    },
+    {
+      "es": "Puedo leer el trabalenguas «Lemme see, gimme three» sin trabarme.",
+      "en": "I can say the «Lemme see, gimme three» tongue twister."
+    }
+  ]
+}

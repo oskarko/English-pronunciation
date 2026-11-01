@@ -1,0 +1,1858 @@
+{
+  "id": "B-02",
+  "block": "B",
+  "title": "EL MAPA DE SONIDOS",
+  "file_title": "El mapa de sonidos",
+  "subtitle": "The American sound chart · tu chuleta",
+  "icon": "🗺️",
+  "map": {
+    "center": "El inglés americano tiene unos <b>40 sonidos</b>. ¡Muchos <b>ya los sabes</b> decir! Solo unos pocos son <b>nuevos</b> ★.",
+    "listen": "think",
+    "nodes": [
+      {
+        "title": "✓ Ya los tienes",
+        "icon": "😎",
+        "color": "green",
+        "chips": [
+          "/b/",
+          "/f/",
+          "/m/",
+          "/s/",
+          "/tʃ/",
+          "/eɪ/",
+          "/aɪ/",
+          "/ɔɪ/",
+          "/aʊ/"
+        ],
+        "after": "¡igual que en español!"
+      },
+      {
+        "title": "≈ Casi iguales",
+        "icon": "🤏",
+        "color": "blue",
+        "items": [
+          "/iː/ /uː/: <b>alárgalas</b>",
+          "/p/ /t/ /k/: con <b>soplido</b> 💨",
+          "/ð/: la d de «na<b>d</b>a»"
+        ]
+      },
+      {
+        "title": "★ Vocales nuevas",
+        "icon": "⭐",
+        "color": "purple",
+        "rows": [
+          [
+            "ship",
+            "<code>ship</code> /ɪ/"
+          ],
+          [
+            "cat",
+            "<code>kæt</code> /æ/"
+          ],
+          [
+            "about",
+            "<code>əbáut</code> /ə/"
+          ],
+          [
+            "bird",
+            "<code>berd</code> /ɝ/"
+          ]
+        ]
+      },
+      {
+        "title": "★ Consonantes nuevas",
+        "icon": "🌟",
+        "color": "orange",
+        "rows": [
+          [
+            "very",
+            "<code>véri</code> /v/"
+          ],
+          [
+            "zoo",
+            "<code>suu</code> /z/ 🐝"
+          ],
+          [
+            "red",
+            "<code>red</code> /r/"
+          ]
+        ]
+      },
+      {
+        "title": "Anclas",
+        "icon": "⚓",
+        "color": "pink",
+        "rows": [
+          [
+            "boy",
+            "<b>voy</b>"
+          ],
+          [
+            "where",
+            "<b>huer</b>ta"
+          ],
+          [
+            "pay",
+            "<b>pei</b>ne"
+          ]
+        ]
+      },
+      {
+        "title": "Cómo leer la tabla",
+        "icon": "🧭",
+        "color": "yellow",
+        "items": [
+          "símbolo → ejemplo → <code>así suena</code>",
+          "ancla 🇪🇸 y marca ✓ ≈ ★",
+          "el <b>mapa</b> que lo explica"
+        ],
+        "art": "🗺️"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "sheep dicho <code>ship</code> 🚢"
+      ],
+      "good": [
+        "sheep = <code>shiip</code> 🐑"
+      ],
+      "note": "Con solo 5 vocales, ¡tu oveja se convierte en barco!"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🐑 sheep → ____",
+          "a": "shiip"
+        },
+        {
+          "q": "🐱 cat → ____",
+          "a": "kæt"
+        },
+        {
+          "q": "👦 boy → ____",
+          "a": "boi"
+        },
+        {
+          "q": "🤔 think → ____",
+          "a": "zink"
+        },
+        {
+          "q": "💬 about → ____",
+          "a": "əbáut"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "Tu chuleta de sonidos",
+      "title_en": "Your sound cheat sheet",
+      "icon": "🗺️",
+      "es": "Aquí tienes <b>todos los sonidos</b> del inglés americano. En cada fila verás su símbolo <b>IPA</b> (el del diccionario), una palabra de ejemplo, cómo lo escribimos en la <b>figurada</b>, un <b>ancla</b> española cuando la hay, y una marca: <b>✓</b> igual que en español, <b>≈</b> parecido, <em>★</em> nuevo para ti. La última columna te dice <mark>qué mapa</mark> lo explica a fondo.",
+      "en": "Here are all the sounds of American English: IPA symbol, example word, sound spelling, Spanish anchor and how new it is for you. The last column tells you which map explains it.",
+      "formula": [
+        "✓ igual + ≈ parecido + *★ nuevo*"
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Las tres marcas",
+      "title_en": "The three marks",
+      "icon": "🏷️",
+      "es": "¡Buena noticia! Más de la mitad de los sonidos ya los tienes o casi. Concéntrate en los <em>★</em>.",
+      "en": "Good news: you already have more than half of the sounds. Focus on the ★ ones.",
+      "cols": [
+        {
+          "head": "✓ Ya los tienes",
+          "color": "green",
+          "items": [
+            "vocales /ɛ/ /ɑ/",
+            "/eɪ/ /aɪ/ /ɔɪ/ /aʊ/",
+            "/b/ /d/ /g/ /f/ /s/ /m/ /n/ /l/ /w/ /tʃ/",
+            "/θ/ (la z de España) y el toque /ɾ/"
+          ]
+        },
+        {
+          "head": "≈ Casi: ajusta un detalle",
+          "color": "blue",
+          "items": [
+            "/iː/ /uː/: alárgalas",
+            "/ʌ/ /ɔ/ /oʊ/ y las vocales con R",
+            "/p/ /t/ /k/: con soplido",
+            "/ð/ /ʃ/ /dʒ/ /h/ /ŋ/ /j/"
+          ]
+        },
+        {
+          "head": "★ Nuevos para ti",
+          "color": "red",
+          "items": [
+            "/ɪ/ /æ/ /ʊ/ /ə/",
+            "/ɝ/ /ɚ/ (vocal con R)",
+            "/v/ /z/ /ʒ/ /r/",
+            "/ʔ/ (T glotal) y L oscura"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Las vocales",
+      "title_en": "Vowels",
+      "icon": "👄",
+      "head": [
+        "Sonido",
+        "Ejemplo",
+        "Suena",
+        "Ancla 🇪🇸",
+        "Marca",
+        "Mapa"
+      ],
+      "rows": [
+        [
+          "/iː/",
+          "🐑 sheep",
+          "<code>shiip</code>",
+          "¡<b>sí</b>!, pero larga",
+          "<b>≈</b>",
+          "V-02"
+        ],
+        [
+          "/ɪ/",
+          "🚢 ship",
+          "<code>ship</code>",
+          "— i floja, casi e",
+          "<em>★</em>",
+          "V-02"
+        ],
+        [
+          "/ɛ/",
+          "🔟 ten",
+          "<code>ten</code>",
+          "<b>ten</b>go",
+          "<b>✓</b>",
+          "V-03 · V-07"
+        ],
+        [
+          "/æ/",
+          "🐱 cat",
+          "<code>kæt</code>",
+          "— a con boca de e",
+          "<em>★</em>",
+          "V-03"
+        ],
+        [
+          "/ɑ/",
+          "🚫 not",
+          "<code>nat</code>",
+          "<b>nat</b>a",
+          "<b>✓</b>",
+          "V-05"
+        ],
+        [
+          "/ʌ/",
+          "☀️ sun",
+          "<code>san</code>",
+          "<b>san</b>to (más corta)",
+          "<b>≈</b>",
+          "V-04"
+        ],
+        [
+          "/ɔ/",
+          "📞 call",
+          "<code>kol</code>",
+          "<b>col</b>",
+          "<b>≈</b>",
+          "V-05"
+        ],
+        [
+          "/ʊ/",
+          "👍 good",
+          "<code>gud</code>",
+          "— u floja, casi o",
+          "<em>★</em>",
+          "V-06"
+        ],
+        [
+          "/uː/",
+          "2️⃣ two",
+          "<code>tuu</code>",
+          "<b>tú</b>, pero larga",
+          "<b>≈</b>",
+          "V-06"
+        ],
+        [
+          "/ə/",
+          "💬 about",
+          "<code>əbáut</code>",
+          "— e perezosa",
+          "<em>★</em>",
+          "V-01"
+        ],
+        [
+          "/ɝ/",
+          "🐦 bird",
+          "<code>berd</code>",
+          "— vocal con R",
+          "<em>★</em>",
+          "V-09"
+        ],
+        [
+          "/ɚ/",
+          "👩‍🏫 teacher",
+          "<code>tíicher</code>",
+          "— vocal con R, débil",
+          "<em>★</em>",
+          "V-09"
+        ]
+      ],
+      "note": "Muchos americanos dicen /ɔ/ como /ɑ/: call = <code>kal</code>, talk = <code>tak</code>. Las dos valen (mapa V-05).",
+      "note_en": "Many Americans say /ɔ/ like /ɑ/: call = «kal». Both are fine."
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Los diptongos",
+      "title_en": "Diphthongs",
+      "icon": "🎢",
+      "head": [
+        "Sonido",
+        "Ejemplo",
+        "Suena",
+        "Ancla 🇪🇸",
+        "Marca",
+        "Mapa"
+      ],
+      "rows": [
+        [
+          "/eɪ/",
+          "💳 pay",
+          "<code>pei</code>",
+          "<b>pei</b>ne",
+          "<b>✓</b>",
+          "V-07"
+        ],
+        [
+          "/aɪ/",
+          "🙋 I",
+          "<code>ai</code>",
+          "¡<b>ay</b>!",
+          "<b>✓</b>",
+          "V-07"
+        ],
+        [
+          "/ɔɪ/",
+          "👦 boy",
+          "<code>boi</code>",
+          "<b>voy</b>",
+          "<b>✓</b>",
+          "V-07"
+        ],
+        [
+          "/aʊ/",
+          "🐄 cow",
+          "<code>kau</code>",
+          "<b>cau</b>sa",
+          "<b>✓</b>",
+          "V-08"
+        ],
+        [
+          "/oʊ/",
+          "🏃 go",
+          "<code>gou</code>",
+          "— o + u (¡no es «go»!)",
+          "<b>≈</b>",
+          "V-08"
+        ]
+      ],
+      "note": "Y /juː/ (music, cute, you) se escribe <code>iu</code>: music = <code>miúsik</code> (mapa V-06).",
+      "note_en": "And /juː/ (music, cute, you) is written «iu»."
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Las vocales con R",
+      "title_en": "R-colored vowels",
+      "icon": "🚗",
+      "head": [
+        "Sonido",
+        "Ejemplo",
+        "Suena",
+        "Ancla 🇪🇸",
+        "Marca",
+        "Mapa"
+      ],
+      "rows": [
+        [
+          "/ɑr/",
+          "🚗 car",
+          "<code>kar</code>",
+          "<b>car</b>ta",
+          "<b>≈</b>",
+          "V-10"
+        ],
+        [
+          "/ɔr/",
+          "4️⃣ four",
+          "<code>for</code>",
+          "<b>for</b>ma",
+          "<b>≈</b>",
+          "V-10"
+        ],
+        [
+          "/ɛr/",
+          "❓ where",
+          "<code>wéer</code>",
+          "<b>huer</b>ta",
+          "<b>≈</b>",
+          "V-10"
+        ],
+        [
+          "/ɪr/",
+          "👂 ear",
+          "<code>íer</code>",
+          "<b>ir</b>",
+          "<b>≈</b>",
+          "V-10"
+        ],
+        [
+          "/ʊr/",
+          "🧳 tour",
+          "<code>tur</code>",
+          "<b>tur</b>no",
+          "<b>≈</b>",
+          "V-10"
+        ],
+        [
+          "/aɪr/",
+          "🔥 fire",
+          "<code>fáier</code>",
+          "— <b>fai</b> + er",
+          "<b>≈</b>",
+          "V-10"
+        ],
+        [
+          "/aʊr/",
+          "⏰ hour",
+          "<code>áuer</code>",
+          "— <b>au</b> + er",
+          "<b>≈</b>",
+          "V-10"
+        ]
+      ],
+      "note": "En todas, la R es <b>americana</b>: la lengua se va hacia atrás sin tocar nada (mapa C-01). Ojo: <code>er</code> sirve para dos cosas: en where es e + R; en bird es una sola vocal con R <em>★</em>.",
+      "note_en": "The R is always American: the tongue pulls back and touches nothing."
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Las consonantes",
+      "title_en": "Consonants",
+      "icon": "👅",
+      "head": [
+        "Sonido",
+        "Ejemplo",
+        "Suena",
+        "Ancla 🇪🇸",
+        "Marca",
+        "Mapa"
+      ],
+      "rows": [
+        [
+          "/p/",
+          "🖊️ pen",
+          "<code>pen</code>",
+          "<b>p</b>apá + soplido 💨",
+          "<b>≈</b>",
+          "B-03"
+        ],
+        [
+          "/b/",
+          "🚌 bus",
+          "<code>bas</code>",
+          "<b>bas</b>ta",
+          "<b>✓</b>",
+          "C-07"
+        ],
+        [
+          "/t/",
+          "🔝 top",
+          "<code>tap</code>",
+          "<b>tap</b>a + soplido 💨",
+          "<b>≈</b>",
+          "B-03 · C-02"
+        ],
+        [
+          "/d/",
+          "🐶 dog",
+          "<code>dog</code>",
+          "<b>dog</b>o",
+          "<b>✓</b>",
+          "C-14"
+        ],
+        [
+          "/k/",
+          "🔑 key",
+          "<code>kii</code>",
+          "a<b>quí</b> + soplido 💨",
+          "<b>≈</b>",
+          "B-03"
+        ],
+        [
+          "/g/",
+          "🎮 game",
+          "<code>gueim</code>",
+          "<b>g</b>ato",
+          "<b>✓</b>",
+          "C-14"
+        ],
+        [
+          "/f/",
+          "🐟 fish",
+          "<code>fish</code>",
+          "<b>f</b>oca",
+          "<b>✓</b>",
+          "—"
+        ],
+        [
+          "/v/",
+          "❤️ very",
+          "<code>véri</code>",
+          "— dientes en el labio",
+          "<em>★</em>",
+          "C-07"
+        ],
+        [
+          "/θ/",
+          "🤔 think",
+          "<code>zink</code>",
+          "<b>z</b>apato, <b>c</b>ine",
+          "<b>✓</b> <i>(★ si seseas)</i>",
+          "C-04"
+        ],
+        [
+          "/ð/",
+          "👉 the",
+          "<code>də</code>",
+          "na<b>d</b>a",
+          "<b>≈</b>",
+          "C-05"
+        ],
+        [
+          "/s/",
+          "👀 see",
+          "<code>sii</code>",
+          "¡<b>s</b>í!",
+          "<b>✓</b>",
+          "C-08 · C-11"
+        ],
+        [
+          "/z/",
+          "🦓 zoo",
+          "<code>suu</code>",
+          "mi<b>s</b>mo 🐝",
+          "<em>★</em>",
+          "C-08"
+        ],
+        [
+          "/ʃ/",
+          "👧 she",
+          "<code>shii</code>",
+          "¡<b>shhh</b>! 🤫",
+          "<b>≈</b>",
+          "C-09"
+        ],
+        [
+          "/ʒ/",
+          "👓 vision",
+          "<code>víyən</code>",
+          "«<b>y</b>o» de Argentina 🧉",
+          "<em>★</em>",
+          "C-09"
+        ],
+        [
+          "/tʃ/",
+          "🧀 cheese",
+          "<code>chiis</code>",
+          "<b>ch</b>ocolate",
+          "<b>✓</b>",
+          "C-09"
+        ],
+        [
+          "/dʒ/",
+          "💼 job",
+          "<code>yab</code>",
+          "¡<b>y</b>o! (fuerte)",
+          "<b>≈</b>",
+          "C-09"
+        ],
+        [
+          "/h/",
+          "👋 hello",
+          "<code>jəlóu</code>",
+          "<b>j</b> suave, como vaho",
+          "<b>≈</b>",
+          "C-06"
+        ],
+        [
+          "/m/",
+          "👩 mom",
+          "<code>mam</code>",
+          "<b>m</b>amá",
+          "<b>✓</b>",
+          "C-14"
+        ],
+        [
+          "/n/",
+          "🙅 no",
+          "<code>nou</code>",
+          "<b>n</b>o",
+          "<b>✓</b>",
+          "C-14"
+        ],
+        [
+          "/ŋ/",
+          "🎤 sing",
+          "<code>sing</code>",
+          "te<b>n</b>go",
+          "<b>≈</b>",
+          "C-13"
+        ],
+        [
+          "/l/",
+          "🦁 lion",
+          "<code>láiən</code>",
+          "<b>l</b>eón",
+          "<b>✓</b>",
+          "C-12"
+        ],
+        [
+          "/r/",
+          "🔴 red",
+          "<code>red</code>",
+          "— ¡no vibra ni toca!",
+          "<em>★</em>",
+          "C-01"
+        ],
+        [
+          "/j/",
+          "✅ yes",
+          "<code>iés</code>",
+          "p<b>ie</b>",
+          "<b>≈</b>",
+          "C-10"
+        ],
+        [
+          "/w/",
+          "👌 well",
+          "<code>wel</code>",
+          "<b>huel</b>ga",
+          "<b>✓</b>",
+          "C-10"
+        ]
+      ],
+      "note": "/p/ /t/ /k/ llevan un soplido cuando empiezan una sílaba fuerte (lo practicas en B-03). Y si en tu zona «casa» y «caza» suenan igual, /θ/ es nuevo para ti <em>★</em>.",
+      "note_en": "/p/ /t/ /k/ have a puff of air at the start of a stressed syllable."
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Los sonidos más americanos",
+      "title_en": "The most American sounds",
+      "icon": "🇺🇸",
+      "head": [
+        "Sonido",
+        "Ejemplo",
+        "Suena",
+        "Ancla 🇪🇸",
+        "Marca",
+        "Mapa"
+      ],
+      "rows": [
+        [
+          "/ɾ/",
+          "💧 water",
+          "<code>wárer</code>",
+          "pe<b>r</b>o",
+          "<b>✓</b>",
+          "C-02"
+        ],
+        [
+          "/ʔ/",
+          "🔘 button",
+          "<code>bá'n</code>",
+          "— cortecito de garganta",
+          "<em>★</em>",
+          "C-03"
+        ],
+        [
+          "L oscura",
+          "⚽ ball",
+          "<code>bol</code>",
+          "— lengua atrás, casi u",
+          "<em>★</em>",
+          "C-12"
+        ]
+      ],
+      "note": "Son formas especiales de la T y de la L que hacen que el inglés suene «a Estados Unidos». ¡La primera ya la sabes hacer!",
+      "note_en": "Special forms of T and L that make English sound American."
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas para la tabla",
+      "title_en": "Anchors for the chart",
+      "items": [
+        {
+          "en": "pay",
+          "ipa": "peɪ",
+          "say": "pei",
+          "es": "pagar",
+          "icon": "💳",
+          "anchor": "<b>pei</b>ne 🪮",
+          "tip": "«Peine» sin la e final. Y pain (dolor) = <code>pein</code>: ¡como peine!"
+        },
+        {
+          "en": "not",
+          "ipa": "nɑt",
+          "say": "nat",
+          "es": "no",
+          "icon": "🚫",
+          "anchor": "<b>nat</b>a 🍦",
+          "tip": "La o de not suena a. La t final, cortita (mapa C-03)."
+        },
+        {
+          "en": "call",
+          "ipa": "kɔl",
+          "say": "kol",
+          "es": "llamar",
+          "icon": "📞",
+          "anchor": "<b>col</b> 🥬",
+          "tip": "Abre un poco la o y oscurece la L. Muchos americanos dicen <code>kal</code>."
+        },
+        {
+          "en": "cow",
+          "ipa": "kaʊ",
+          "say": "kau",
+          "es": "vaca",
+          "icon": "🐄",
+          "anchor": "<b>cau</b>sa",
+          "tip": "Una vaca con causa: <code>kau</code>. Now, how y wow riman con cow."
+        },
+        {
+          "en": "car",
+          "ipa": "kɑr",
+          "say": "kar",
+          "es": "coche",
+          "icon": "🚗",
+          "anchor": "<b>car</b>ta ✉️",
+          "tip": "Casi: la R es americana, la lengua atrás sin tocar (mapa C-01)."
+        },
+        {
+          "en": "four",
+          "ipa": "fɔr",
+          "say": "for",
+          "es": "cuatro",
+          "icon": "4️⃣",
+          "anchor": "<b>for</b>ma",
+          "tip": "For (para) suena igual que four. ¡Y la R se oye!"
+        },
+        {
+          "en": "where",
+          "ipa": "wɛr",
+          "say": "wer",
+          "es": "dónde",
+          "icon": "❓",
+          "anchor": "<b>huer</b>ta 🥕",
+          "tip": "«¿Dónde está la huerta?»: <code>wer</code>. Wear (llevar puesto) suena igual."
+        },
+        {
+          "en": "tour",
+          "ipa": "tʊr",
+          "say": "tur",
+          "es": "gira, visita",
+          "icon": "🧳",
+          "anchor": "<b>tur</b>no",
+          "tip": "Casi: la u es más floja. Algunos americanos dicen <code>tor</code>."
+        },
+        {
+          "en": "bus",
+          "ipa": "bʌs",
+          "say": "bas",
+          "es": "autobús",
+          "icon": "🚌",
+          "anchor": "<b>bas</b>ta ✋",
+          "tip": "La u de bus suena a corta y relajada (mapa V-04)."
+        },
+        {
+          "en": "top",
+          "ipa": "tɑp",
+          "say": "tap",
+          "es": "arriba, cima",
+          "icon": "🔝",
+          "anchor": "<b>tap</b>a + 💨",
+          "tip": "Con un soplido en la t: pon un papel delante de la boca y ¡que se mueva!"
+        },
+        {
+          "en": "dog",
+          "ipa": "dɔg",
+          "say": "dog",
+          "es": "perro",
+          "icon": "🐶",
+          "anchor": "<b>dog</b>o 🐕",
+          "tip": "Como el perro dogo, sin la o final. La g del final, bien dura."
+        },
+        {
+          "en": "thin",
+          "ipa": "θɪn",
+          "say": "zin",
+          "es": "delgado",
+          "icon": "🦒",
+          "anchor": "<b>cin</b>e 🎬",
+          "tip": "La c de «cine» en España es /θ/: ¡asoma la lengua entre los dientes!"
+        },
+        {
+          "en": "she",
+          "ipa": "ʃiː",
+          "say": "shii",
+          "es": "ella",
+          "icon": "👧",
+          "anchor": "¡<b>shhh</b>! 🤫",
+          "tip": "Manda callar y añade una i larga: <code>shii</code>."
+        },
+        {
+          "en": "is",
+          "ipa": "ɪz",
+          "say": "is",
+          "es": "es / está",
+          "icon": "🟰",
+          "anchor": "<b>is</b>la 🏝️",
+          "tip": "En «isla» tu s ya zumba (pon la mano en el cuello). ¡Esa es la s de is!"
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "think",
+          "es": "pensar"
+        },
+        {
+          "q": "sheep",
+          "es": "oveja"
+        },
+        {
+          "q": "cat",
+          "es": "gato"
+        },
+        {
+          "q": "bird",
+          "es": "pájaro"
+        },
+        {
+          "q": "very",
+          "es": "muy"
+        },
+        {
+          "q": "water",
+          "es": "agua"
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "Un sonido cambia la palabra",
+      "title_en": "One sound changes the word",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "ship",
+            "ipa": "ʃɪp",
+            "say": "ship",
+            "es": "barco",
+            "icon": "🚢"
+          },
+          "b": {
+            "en": "sheep",
+            "ipa": "ʃiːp",
+            "say": "shiip",
+            "es": "oveja",
+            "icon": "🐑"
+          },
+          "tip": "/ɪ/ corta y floja frente a /iː/ larga y tensa."
+        },
+        {
+          "a": {
+            "en": "cat",
+            "ipa": "kæt",
+            "say": "kæt",
+            "es": "gato",
+            "icon": "🐱"
+          },
+          "b": {
+            "en": "cut",
+            "ipa": "kʌt",
+            "say": "kat",
+            "es": "cortar",
+            "icon": "✂️"
+          },
+          "tip": "/æ/ con sonrisa frente a /ʌ/ relajada."
+        },
+        {
+          "a": {
+            "en": "full",
+            "ipa": "fʊl",
+            "say": "ful",
+            "es": "lleno",
+            "icon": "🍽️"
+          },
+          "b": {
+            "en": "fool",
+            "ipa": "fuːl",
+            "say": "fuul",
+            "es": "tonto",
+            "icon": "🤡"
+          },
+          "tip": "/ʊ/ corta frente a /uː/ larga."
+        },
+        {
+          "a": {
+            "en": "very",
+            "ipa": "ˈvɛri",
+            "say": "véri",
+            "es": "muy",
+            "icon": "❤️"
+          },
+          "b": {
+            "en": "berry",
+            "ipa": "ˈbɛri",
+            "say": "béri",
+            "es": "baya",
+            "icon": "🫐"
+          },
+          "tip": "Dientes en el labio frente a labios juntos."
+        },
+        {
+          "a": {
+            "en": "think",
+            "ipa": "θɪŋk",
+            "say": "zink",
+            "es": "pensar",
+            "icon": "🤔"
+          },
+          "b": {
+            "en": "sink",
+            "ipa": "sɪŋk",
+            "say": "sink",
+            "es": "fregadero",
+            "icon": "🧽"
+          },
+          "tip": "Lengua entre los dientes frente a una s normal."
+        },
+        {
+          "a": {
+            "en": "yes",
+            "ipa": "jɛs",
+            "say": "iés",
+            "es": "sí",
+            "icon": "✅"
+          },
+          "b": {
+            "en": "Jess",
+            "ipa": "dʒɛs",
+            "say": "yes",
+            "es": "nombre de chica",
+            "icon": "👩"
+          },
+          "tip": "¡Ojo! Si dices yes con una y fuerte, dices «Jess»."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Una frase para cada vocal",
+      "title_en": "A sentence for each vowel",
+      "items": [
+        {
+          "en": "The sheep is on the ship.",
+          "say": "də shiip is an də ship",
+          "es": "La oveja está en el barco.",
+          "icon": "🐑"
+        },
+        {
+          "en": "My cat has a black hat.",
+          "say": "mai kæt jæs ə blæk jæt",
+          "es": "Mi gato tiene un sombrero negro.",
+          "icon": "🐱"
+        },
+        {
+          "en": "I love my mom's cup of coffee.",
+          "say": "ai láv mai mams kap əv káfi",
+          "es": "Me encanta la taza de café de mi madre.",
+          "icon": "☕"
+        },
+        {
+          "en": "Look at the moon!",
+          "say": "lúkət də múun",
+          "es": "¡Mira la luna!",
+          "icon": "🌙"
+        },
+        {
+          "en": "It's about a banana.",
+          "say": "its əbáurə bənǽnə",
+          "es": "Va de un plátano.",
+          "icon": "🍌"
+        },
+        {
+          "en": "Her first word was «bird».",
+          "say": "jer ferst werd wəs berd",
+          "es": "Su primera palabra fue «pájaro».",
+          "icon": "🐦"
+        },
+        {
+          "en": "My teacher is a doctor.",
+          "say": "mai tíicher isə dákter",
+          "es": "Mi profesora es médica.",
+          "icon": "👩‍🏫"
+        },
+        {
+          "en": "Today is a great day!",
+          "say": "tədéi isə gréit déi",
+          "es": "¡Hoy es un gran día!",
+          "icon": "🌞"
+        },
+        {
+          "en": "The boy has a toy.",
+          "say": "də bói jæs ə tói",
+          "es": "El chico tiene un juguete.",
+          "icon": "🧸"
+        },
+        {
+          "en": "How now, brown cow?",
+          "say": "jau náu, bráun káu?",
+          "es": "¿Y ahora qué, vaca marrón?",
+          "icon": "🐄"
+        },
+        {
+          "en": "No, I don't know Joe.",
+          "say": "nóu, ai dóun nóu yóu",
+          "es": "No, no conozco a Joe.",
+          "icon": "🤷"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases con consonantes nuevas",
+      "title_en": "Sentences with new consonants",
+      "items": [
+        {
+          "en": "Very good, Vicky!",
+          "say": "véri gud, víki!",
+          "es": "¡Muy bien, Vicky!",
+          "icon": "👏"
+        },
+        {
+          "en": "I think it's Thursday.",
+          "say": "ai zink its zérsdei",
+          "es": "Creo que es jueves.",
+          "icon": "📅"
+        },
+        {
+          "en": "This is my brother.",
+          "say": "dis is mai bráder",
+          "es": "Este es mi hermano.",
+          "icon": "👦"
+        },
+        {
+          "en": "The zoo is busy.",
+          "say": "də suu is bísi",
+          "es": "El zoo está lleno de gente.",
+          "icon": "🦓"
+        },
+        {
+          "en": "She wants a new shirt.",
+          "say": "shi wants ə nuu shert",
+          "es": "Ella quiere una camisa nueva.",
+          "icon": "👕"
+        },
+        {
+          "en": "John has a job in June.",
+          "say": "yan jæs ə yab in yuun",
+          "es": "John tiene un trabajo en junio.",
+          "icon": "💼"
+        },
+        {
+          "en": "I usually watch television.",
+          "say": "ai iúyuəli wach téləviyən",
+          "es": "Normalmente veo la tele.",
+          "icon": "📺"
+        },
+        {
+          "en": "Happy birthday, Hannah!",
+          "say": "jǽpi bérzdei, jǽnə!",
+          "es": "¡Feliz cumpleaños, Hannah!",
+          "icon": "🎂"
+        },
+        {
+          "en": "Red roses are really romantic.",
+          "say": "red róusis ar ríili roumǽntik",
+          "es": "Las rosas rojas son muy románticas.",
+          "icon": "🌹"
+        },
+        {
+          "en": "Sing a long song.",
+          "say": "sing ə long song",
+          "es": "Canta una canción larga.",
+          "icon": "🎤"
+        },
+        {
+          "en": "Yes, you can!",
+          "say": "iés, iu kǽn!",
+          "es": "¡Sí, tú puedes!",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "sheep → <code>ship</code>",
+          "good": "<code>shiip</code>",
+          "why": "Alarga y tensa la i. Si no, en vez de oveja dices «barco».",
+          "why_en": "Make the vowel long, or you'll say «ship»."
+        },
+        {
+          "bad": "cat → <code>kat</code>",
+          "good": "<code>kæt</code>",
+          "why": "/æ/ es un sonido nuevo: una a con boca de e.",
+          "why_en": "/æ/ is a new sound."
+        },
+        {
+          "bad": "very → <code>béri</code>",
+          "good": "<code>véri</code>",
+          "why": "La /v/ existe: dientes de arriba sobre el labio de abajo.",
+          "why_en": "Top teeth on your bottom lip."
+        },
+        {
+          "bad": "zoo → <code>zuu</code> (z de zapato)",
+          "good": "<code>suu</code> 🐝",
+          "why": "/z/ no es la z española: es una s que zumba.",
+          "why_en": "/z/ is a buzzing s, not a Spanish z."
+        },
+        {
+          "bad": "go → <code>go</code> (o pura)",
+          "good": "<code>gou</code>",
+          "why": "La /oʊ/ americana termina en u.",
+          "why_en": "American /oʊ/ ends in a u."
+        },
+        {
+          "bad": "red → <code>rred</code>",
+          "good": "<code>red</code>",
+          "why": "La R americana no vibra ni toca nada.",
+          "why_en": "The American R never trills."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo usar esta tabla",
+      "title_en": "How to use this chart",
+      "icon": "🧭",
+      "items": [
+        {
+          "es": "Busca primero los <em>★</em>: son los sonidos nuevos y los que más se notan.",
+          "en": "Start with the ★ sounds."
+        },
+        {
+          "es": "Lee cada fila en voz alta: símbolo, palabra, figurada y ancla.",
+          "en": "Read each row aloud."
+        },
+        {
+          "es": "Escanea un QR y compara tu sonido con el de los americanos.",
+          "en": "Scan a QR code and compare."
+        },
+        {
+          "es": "Abre el mapa de la última columna para practicarlo a fondo.",
+          "en": "Open the map in the last column to practice."
+        },
+        {
+          "es": "Vuelve aquí siempre que no entiendas un símbolo del diccionario.",
+          "en": "Come back whenever a dictionary symbol puzzles you."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Six thick thistle sticks.",
+          "say": "siks zik zísəl stiks",
+          "es": "Seis palos gruesos de cardo."
+        },
+        {
+          "en": "A big black bug bit a big black bear.",
+          "say": "ə big blæk bag bit ə big blæk ber",
+          "es": "Un bicho negro grande mordió a un oso negro grande."
+        },
+        {
+          "en": "Good food puts Luke in a good mood.",
+          "say": "gud fuud puts luuk inə gud muud",
+          "es": "La buena comida pone a Luke de buen humor."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Tu ruta",
+      "title_en": "Your route",
+      "es": "No intentes aprender los 40 a la vez. Empieza por los <em>★</em>, que son los que más se notan, y practica <b>uno por semana</b> con su mapa y sus QR. ¡En unos meses tu inglés sonará a otro! 🚀",
+      "en": "Don't learn all 40 at once. Start with the ★ sounds: one a week, with its map and QR codes."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Qué sonido oyes?",
+      "title_en": "Which sound do you hear?",
+      "icon": "🔍",
+      "es": "Di la palabra y rodea su sonido. Usa la tabla si dudas.",
+      "en": "Say the word and circle its sound.",
+      "items": [
+        {
+          "q": "sheep → [/iː/|/ɪ/]",
+          "a": "/iː/"
+        },
+        {
+          "q": "ship → [/iː/|/ɪ/]",
+          "a": "/ɪ/"
+        },
+        {
+          "q": "cat → [/æ/|/ʌ/]",
+          "a": "/æ/"
+        },
+        {
+          "q": "cup → [/æ/|/ʌ/]",
+          "a": "/ʌ/"
+        },
+        {
+          "q": "food → [/uː/|/ʊ/]",
+          "a": "/uː/"
+        },
+        {
+          "q": "good → [/uː/|/ʊ/]",
+          "a": "/ʊ/"
+        },
+        {
+          "q": "bird → [/ɝ/|/ɪr/]",
+          "a": "/ɝ/"
+        },
+        {
+          "q": "ear → [/ɝ/|/ɪr/]",
+          "a": "/ɪr/"
+        },
+        {
+          "q": "very → [/v/|/b/]",
+          "a": "/v/"
+        },
+        {
+          "q": "think → [/θ/|/s/]",
+          "a": "/θ/"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Símbolo y palabra",
+      "title_en": "Symbol and word",
+      "icon": "🔗",
+      "es": "Une cada símbolo con la palabra que lo tiene.",
+      "en": "Match each symbol with a word.",
+      "pairs": [
+        [
+          "/æ/",
+          "cat"
+        ],
+        [
+          "/ʌ/",
+          "cup"
+        ],
+        [
+          "/ɑ/",
+          "not"
+        ],
+        [
+          "/ʊ/",
+          "good"
+        ],
+        [
+          "/uː/",
+          "two"
+        ],
+        [
+          "/ə/",
+          "about"
+        ],
+        [
+          "/eɪ/",
+          "pay"
+        ],
+        [
+          "/oʊ/",
+          "go"
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "✓, ≈ o ★",
+      "title_en": "Same, similar or new?",
+      "icon": "🏷️",
+      "es": "Según la tabla, ¿cómo es cada sonido para un hispanohablante? Escríbelo en su columna.",
+      "en": "Sort the sounds: same, similar or new?",
+      "cats": [
+        {
+          "name": "✓ igual",
+          "words": [
+            "/eɪ/",
+            "/aɪ/",
+            "/tʃ/",
+            "/m/",
+            "/f/"
+          ]
+        },
+        {
+          "name": "≈ parecido",
+          "words": [
+            "/iː/",
+            "/p/",
+            "/ð/",
+            "/h/"
+          ]
+        },
+        {
+          "name": "★ nuevo",
+          "words": [
+            "/æ/",
+            "/ə/",
+            "/v/",
+            "/z/",
+            "/r/"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Usa la tabla. Pon tilde en la sílaba fuerte.",
+      "en": "Write the sound spelling.",
+      "items": [
+        {
+          "q": "💳 pay → ____",
+          "a": "pei"
+        },
+        {
+          "q": "🐄 cow → ____",
+          "a": "kau"
+        },
+        {
+          "q": "4️⃣ four → ____",
+          "a": "for"
+        },
+        {
+          "q": "❓ where → ____",
+          "a": "wer"
+        },
+        {
+          "q": "🎵 music → ____",
+          "a": "miúsik"
+        },
+        {
+          "q": "👓 vision → ____",
+          "a": "víyən"
+        },
+        {
+          "q": "💼 job → ____",
+          "a": "yab"
+        },
+        {
+          "q": "👧 she → ____",
+          "a": "shii"
+        },
+        {
+          "q": "✅ yes → ____",
+          "a": "iés"
+        },
+        {
+          "q": "👋 hello → ____",
+          "a": "jəlóu"
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Lee el código IPA",
+      "title_en": "Read the IPA code",
+      "icon": "🔐",
+      "es": "Lee el IPA, ordena las letras y escribe la palabra.",
+      "en": "Read the IPA and spell the word.",
+      "items": [
+        {
+          "q": "🐑 /ʃiːp/",
+          "a": "sheep"
+        },
+        {
+          "q": "🚢 /ʃɪp/",
+          "a": "ship"
+        },
+        {
+          "q": "🐱 /kæt/",
+          "a": "cat"
+        },
+        {
+          "q": "☕ /kʌp/",
+          "a": "cup"
+        },
+        {
+          "q": "🤔 /θɪŋk/",
+          "a": "think"
+        },
+        {
+          "q": "👦 /bɔɪ/",
+          "a": "boy"
+        },
+        {
+          "q": "🐦 /bɝd/",
+          "a": "bird"
+        },
+        {
+          "q": "🔴 /rɛd/",
+          "a": "red"
+        },
+        {
+          "q": "👋 /həˈloʊ/",
+          "a": "hello"
+        },
+        {
+          "q": "🧀 /tʃiːz/",
+          "a": "cheese"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la ficha",
+      "title_en": "Complete the chart",
+      "icon": "📋",
+      "es": "Completa los huecos con ayuda de la tabla. En «Marca» escribe ✓, ≈ o ★.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Sonido",
+        "Ejemplo",
+        "Suena",
+        "Marca"
+      ],
+      "rows": [
+        [
+          "/æ/",
+          "cat",
+          "?kæt",
+          "?★"
+        ],
+        [
+          "/iː/",
+          "?sheep",
+          "shiip",
+          "≈"
+        ],
+        [
+          "/aɪ/",
+          "I",
+          "?ai",
+          "?✓"
+        ],
+        [
+          "/ə/",
+          "about",
+          "?əbáut",
+          "★"
+        ],
+        [
+          "/v/",
+          "?very",
+          "véri",
+          "?★"
+        ],
+        [
+          "/tʃ/",
+          "cheese",
+          "?chiis",
+          "?✓"
+        ],
+        [
+          "/oʊ/",
+          "go",
+          "?gou",
+          "≈"
+        ],
+        [
+          "/ɔɪ/",
+          "?boy",
+          "boi",
+          "?✓"
+        ]
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "American English has about 40 sounds.",
+          "a": true
+        },
+        {
+          "q": "/æ/ is exactly the Spanish a.",
+          "a": false,
+          "why": "es una a con boca de e"
+        },
+        {
+          "q": "The flap /ɾ/ in «water» sounds like the r in «pero».",
+          "a": true
+        },
+        {
+          "q": "/v/ and /b/ are the same sound in English.",
+          "a": false,
+          "why": "very ≠ berry"
+        },
+        {
+          "q": "/θ/ is like the z in «zapato».",
+          "a": true
+        },
+        {
+          "q": "In «zoo», the z buzzes like a bee.",
+          "a": true
+        },
+        {
+          "q": "/ə/ is a strong, long vowel.",
+          "a": false,
+          "why": "es débil y cortita"
+        },
+        {
+          "q": "«Boy» sounds like the Spanish «voy».",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Elige el ancla",
+      "title_en": "Choose the anchor",
+      "icon": "⚓",
+      "es": "¿Qué palabra española esconde el sonido inglés? Di las dos en voz alta y rodea.",
+      "en": "Which Spanish word hides the English sound?",
+      "items": [
+        {
+          "q": "boy → [voy|bol]",
+          "a": "voy"
+        },
+        {
+          "q": "pay → [peine|pino]",
+          "a": "peine"
+        },
+        {
+          "q": "where → [huerta|guerra]",
+          "a": "huerta"
+        },
+        {
+          "q": "not → [nata|nota]",
+          "a": "nata"
+        },
+        {
+          "q": "cow → [causa|cosa]",
+          "a": "causa"
+        },
+        {
+          "q": "four → [forma|fuera]",
+          "a": "forma"
+        },
+        {
+          "q": "bus → [basta|bosque]",
+          "a": "basta"
+        },
+        {
+          "q": "tour → [turno|torre]",
+          "a": "turno"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la figurada",
+      "title_en": "Fix the sound spelling",
+      "icon": "🩹",
+      "es": "Cada figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "think → <code>tink</code>",
+          "a": "zink"
+        },
+        {
+          "q": "very → <code>béri</code>",
+          "a": "véri"
+        },
+        {
+          "q": "cat → <code>kat</code>",
+          "a": "kæt"
+        },
+        {
+          "q": "go → <code>go</code>",
+          "a": "gou"
+        },
+        {
+          "q": "she → <code>si</code>",
+          "a": "shii"
+        },
+        {
+          "q": "job → <code>job</code>",
+          "a": "yab"
+        },
+        {
+          "q": "hello → <code>jélo</code>",
+          "a": "jəlóu"
+        },
+        {
+          "q": "zoo → <code>zuu</code>",
+          "a": "suu"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "The sheep is on the ship.",
+          "say": "də shiip is an də ship"
+        },
+        {
+          "q": "My cat has a black hat.",
+          "say": "mai kæt jæs ə blæk jæt"
+        },
+        {
+          "q": "Look at the moon!",
+          "say": "lúkət də múun"
+        },
+        {
+          "q": "The boy has a toy.",
+          "say": "də bói jæs ə tói"
+        },
+        {
+          "q": "How now, brown cow?",
+          "say": "jau náu, bráun káu?"
+        },
+        {
+          "q": "I think it's Thursday.",
+          "say": "ai zink its zérsdei"
+        },
+        {
+          "q": "Very good, Vicky!",
+          "say": "véri gud, víki!"
+        },
+        {
+          "q": "Red roses are really romantic.",
+          "say": "red róusis ar ríili roumǽntik"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés y escribe la figurada. Dilo en voz alta.",
+      "en": "Translate into English and write how it sounds.",
+      "items": [
+        {
+          "q": "oveja",
+          "a": "sheep (shiip)"
+        },
+        {
+          "q": "barco",
+          "a": "ship (ship)"
+        },
+        {
+          "q": "gato",
+          "a": "cat (kæt)"
+        },
+        {
+          "q": "taza",
+          "a": "cup (kap)"
+        },
+        {
+          "q": "pájaro",
+          "a": "bird (berd)"
+        },
+        {
+          "q": "queso",
+          "a": "cheese (chiis)"
+        },
+        {
+          "q": "coche",
+          "a": "car (kar)"
+        },
+        {
+          "q": "vaca",
+          "a": "cow (kau)"
+        },
+        {
+          "q": "pensar",
+          "a": "think (zink)"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de sonidos",
+      "title_en": "Sound word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras de la tabla. Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 words from the chart.",
+      "words": [
+        "sheep",
+        "ship",
+        "cat",
+        "cup",
+        "bird",
+        "boy",
+        "cow",
+        "think",
+        "very",
+        "zoo"
+      ],
+      "clues": [
+        "sheep · oveja",
+        "ship · barco",
+        "cat · gato",
+        "cup · taza",
+        "bird · pájaro",
+        "boy · chico",
+        "cow · vaca",
+        "think · pensar",
+        "very · muy",
+        "zoo · zoo"
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe y después dilo en voz alta. ¡Grábate!",
+      "en": "Write, then say it aloud and record yourself.",
+      "items": [
+        {
+          "q": "Elige tres sonidos ★ y escribe una palabra para cada uno, con su figurada.",
+          "lines": 2,
+          "a": "Ej.: /æ/ cat (kæt), /v/ very (véri), /ə/ about (əbáut)"
+        },
+        {
+          "q": "Inventa un ancla española nueva para un sonido de la tabla.",
+          "lines": 2,
+          "a": "Ej.: /aɪ/ → <b>Mai</b>te: my = <code>mai</code>"
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Lucía's sound chart",
+      "text": [
+        "Lucía has a sound chart on her wall. Every day she picks one new sound. On Monday it was /æ/, like in «cat». On Tuesday it was /v/, like in «very».",
+        "Today she is practicing /θ/. She puts her tongue between her teeth and says «think», «three» and «thank you». Rocky the dog looks at her and barks!"
+      ],
+      "items": [
+        {
+          "q": "Where is Lucía's sound chart?",
+          "a": "On her wall."
+        },
+        {
+          "q": "Which sound did she practice on Tuesday?",
+          "a": "/v/, como en very (<code>véri</code>)."
+        },
+        {
+          "q": "Where does she put her tongue for /θ/?",
+          "a": "Between her teeth."
+        },
+        {
+          "q": "On Monday she practiced /æ/.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "«Think», «three» and «thank you» have the sound /θ/.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Rocky is a cat.",
+          "tf": true,
+          "a": false,
+          "why": "es un perro"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé que el inglés americano tiene unos 40 sonidos, y que muchos ya los sé decir.",
+      "en": "I know American English has about 40 sounds."
+    },
+    {
+      "es": "Conozco los sonidos <em>★</em> nuevos para mí: /ɪ/ /æ/ /ʊ/ /ə/ /ɝ/ /v/ /z/ /r/.",
+      "en": "I know which sounds are new for me."
+    },
+    {
+      "es": "Sé leer una fila de la tabla: símbolo, ejemplo, figurada y ancla.",
+      "en": "I can read a row of the chart."
+    },
+    {
+      "es": "Uso anclas como pay = <b>pei</b>ne y where = <b>huer</b>ta.",
+      "en": "I use Spanish anchors."
+    },
+    {
+      "es": "Distingo ship/sheep, cat/cut y very/berry.",
+      "en": "I can tell ship/sheep, cat/cut and very/berry apart."
+    },
+    {
+      "es": "Sé qué mapa abrir para practicar cada sonido.",
+      "en": "I know which map to open for each sound."
+    }
+  ]
+}

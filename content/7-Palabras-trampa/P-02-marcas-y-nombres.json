@@ -1,0 +1,675 @@
+{
+  "id": "P-02",
+  "block": "P",
+  "title": "MARCAS <em>y</em> NOMBRES",
+  "file_title": "Marcas y nombres",
+  "subtitle": "Brands & names · así los dicen en EE. UU.",
+  "icon": "🏷️",
+  "map": {
+    "center": "Las marcas y los lugares <b>no se traducen</b>, pero en EE. UU. <b>suenan a la americana</b>: Nike = <code>náiki</code>.",
+    "listen": "Nike",
+    "nodes": [
+      {
+        "title": "Marcas",
+        "icon": "👟",
+        "color": "green",
+        "rows": [
+          ["Nike", "<code>náiki</code>"],
+          ["IKEA", "<code>aikíiə</code>"],
+          ["Adidas", "<code>ədíidəs</code>"]
+        ]
+      },
+      {
+        "title": "Apps",
+        "icon": "📱",
+        "color": "blue",
+        "rows": [
+          ["Google", "<code>gúugəl</code>"],
+          ["YouTube", "<code>iúutuub</code>"],
+          ["TikTok", "<code>tíktak</code>"]
+        ]
+      },
+      {
+        "title": "Lugares",
+        "icon": "🌍",
+        "color": "purple",
+        "rows": [
+          ["Madrid", "<code>mədríd</code>"],
+          ["Mexico", "<code>méksikou</code>"],
+          ["Japan", "<code>yəpǽn</code>"]
+        ]
+      },
+      {
+        "title": "Tu nombre en EE. UU.",
+        "icon": "🙋",
+        "color": "orange",
+        "rows": [
+          ["Mario", "<code>máriou</code>"],
+          ["Lucía", "<code>lusíiə</code>"],
+          ["José", "<code>jouséi</code>"]
+        ]
+      },
+      {
+        "title": "Nombres americanos",
+        "icon": "🇺🇸",
+        "color": "pink",
+        "rows": [
+          ["Ashley", "<code>ǽshli</code>"],
+          ["Michael", "<code>máikəl</code>"],
+          ["Sarah", "<code>sérə</code>"]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Las marcas no siguen reglas: <b>escúchalas</b> (QR) y cópialas como un <b>loro</b> 🦜",
+        "art": "🏷️"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["Nike → <code>naik</code> (como Mike)"],
+      "good": ["<code>náiki</code> 👟"],
+      "note": "Son <b>dos sílabas</b>: NÁI-ki, como la diosa griega de la victoria."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "👟 Nike → ____", "a": "náiki" },
+        { "q": "🛋️ IKEA → ____", "a": "aikíiə" },
+        { "q": "▶️ YouTube → ____", "a": "iúutuub" },
+        { "q": "🗾 Japan → ____", "a": "yəpǽn" },
+        { "q": "🙋 Mario → ____", "a": "máriou" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Por qué suenan tan raras?",
+      "title_en": "Why do they sound so different?",
+      "icon": "🏷️",
+      "es": "¿Has oído a un americano decir <code>náiki</code>, <code>aikíiə</code> o <code>mədríd</code> y no lo has reconocido? Las marcas y los lugares <b>no se traducen</b> (o casi), pero <mark>sí se pronuncian a la americana</mark>: con el golpe donde le suena bien a un americano, con vocales flojas (ə) y con su R. Si los dices «en español», a veces no te entienden. ¡Y tu nombre también cambia en su boca! Aquí aprenderás a decirlos y a reconocerlos.",
+      "en": "Brand and place names aren't translated, but Americans say them the American way: their own stress, weak vowels and R. Your name changes too!",
+      "formula": ["Nike = *náiki* · IKEA = *aikíiə* · Madrid = *mədríd*"]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Marcas con golpe americano",
+      "title_en": "Brands with American stress",
+      "icon": "👟",
+      "es": "Aunque vengan de otros idiomas, en EE. UU. las marcas tienen <b>su propia pronunciación</b>: Nike es la diosa griega (NÁI-ki), IKEA pone el golpe en KÍI y Adidas en DÍI. No hay regla mágica: hay que <b>escucharlas</b> y aprenderlas como canciones.",
+      "en": "Brands have their own American pronunciation. There's no magic rule: listen and learn them.",
+      "examples": [
+        { "en": "Nike", "say": "náiki", "es": "dos sílabas, no «naik»", "icon": "👟" },
+        { "en": "Adidas", "say": "ədíidəs", "es": "golpe en DÍI", "icon": "👕" },
+        { "en": "IKEA", "say": "aikíiə", "es": "empieza por «ai»", "icon": "🛋️" },
+        { "en": "Hyundai", "say": "jándei", "es": "rima con Sunday", "icon": "🚗" },
+        { "en": "Nestlé", "say": "nésli", "es": "sin t (o néslei)", "icon": "🍫" },
+        { "en": "Toyota", "say": "toióurə", "es": "T americana: rə", "icon": "🚙" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Apps y tecnología",
+      "title_en": "Apps and tech",
+      "icon": "📱",
+      "es": "Muchas son palabras inglesas (you, tube, phone, gram), así que siguen las reglas de siempre: <b>vocales largas</b> (<code>iúutuub</code>), <b>schwa</b> (<code>gúugəl</code>), <b>golpe delante</b> (<code>ínstəgræm</code>) y nada de «e» antes de S + consonante.",
+      "en": "Many app names are English words, so they follow normal rules: long vowels, schwa and first-syllable stress.",
+      "examples": [
+        { "en": "Google", "say": "gúugəl", "es": "u larga + gəl", "icon": "🔎" },
+        { "en": "YouTube", "say": "iúutuub", "es": "dos u largas", "icon": "▶️" },
+        { "en": "iPhone", "say": "áifoun", "es": "golpe en ÁI", "icon": "📱" },
+        { "en": "Instagram", "say": "ínstəgræm", "es": "golpe delante", "icon": "📸" },
+        { "en": "Netflix", "say": "nétfliks", "es": "deprisa: né'fliks", "icon": "🎬" },
+        { "en": "Spotify", "say": "spárəfai", "es": "sin e delante", "icon": "🎧" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Para comer, comprar y pasear",
+      "title_en": "Food, shops and fun",
+      "icon": "🍔",
+      "es": "Fíjate en tres trucos: la <b>o final</b> se vuelve <b>ou</b> (Oreo), la <b>a final</b> se vuelve <b>ə</b> (Nutella) y las sílabas débiles se encogen (<code>məkdánəlds</code>). ¡Y Disney acaba en «ni», no en «nei»!",
+      "en": "Final o becomes ou, final a becomes ə, and weak syllables shrink.",
+      "examples": [
+        { "en": "McDonald's", "say": "məkdánəlds", "es": "golpe en DÁ", "icon": "🍔" },
+        { "en": "Starbucks", "say": "stárbaks", "es": "sin e delante", "icon": "☕" },
+        { "en": "Nutella", "say": "nutélə", "es": "a final flojita", "icon": "🥄" },
+        { "en": "Oreo", "say": "óriou", "es": "o final = ou", "icon": "🍪" },
+        { "en": "Disney", "say": "dísni", "es": "acaba en -ni", "icon": "🏰" },
+        { "en": "Uber", "say": "úuber", "es": "u larga + r", "icon": "🚕" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Países y ciudades",
+      "title_en": "Countries and cities",
+      "icon": "🌍",
+      "es": "Algunos lugares <b>cambian de nombre</b> (Spain, Seville, Japan) y otros se escriben casi igual pero <b>suenan distinto</b>: Madrid con ə y la d final clara, Mexico con <b>ks</b>, Barcelona con <b>s</b> (no con z) y Paris con la <b>s final</b>.",
+      "en": "Some places change their names; others look the same but sound different.",
+      "examples": [
+        { "en": "Spain", "say": "spein", "es": "¡sin e! (mapa C-11)", "icon": "🇪🇸" },
+        { "en": "Madrid", "say": "mədríd", "es": "ə + d final clara", "icon": "🏙️" },
+        { "en": "Barcelona", "say": "barsəlóunə", "es": "con s, no con z", "icon": "⛪" },
+        { "en": "Mexico", "say": "méksikou", "es": "x = ks", "icon": "🌮" },
+        { "en": "Europe", "say": "iúrəp", "es": "golpe en IÚ", "icon": "🗺️" },
+        { "en": "Paris", "say": "pǽris", "es": "¡con s final!", "icon": "🗼" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Tu nombre en boca americana",
+      "title_en": "Your name, American style",
+      "icon": "🙋",
+      "es": "Un americano dirá tu nombre con <b>sus</b> sonidos: la o final se vuelve <b>ou</b>, la a final se vuelve <b>ə</b>, la j se vuelve una <b>h suave</b> y las sílabas débiles se encogen. ¡No es mala educación, es su acento! Tú puedes presentarte como siempre, pero <b>reconócelo</b> cuando te llamen.",
+      "en": "Americans say Spanish names with their own sounds: final o becomes ou, final a becomes ə, j becomes a soft h.",
+      "formula": ["Mari*o* → MÁ-ri-*ou*", "Lucí*a* → lu-SÍI-*ə*", "*J*osé → *jou*-SÉI"],
+      "examples": [
+        { "en": "Mario", "say": "máriou", "es": "o final → ou", "icon": "👦" },
+        { "en": "Lucía", "say": "lusíiə", "es": "a final → ə", "icon": "👧" },
+        { "en": "José", "say": "jouséi", "es": "j → h suave", "icon": "👨" },
+        { "en": "Carlos", "say": "kárlous", "es": "r americana + ou", "icon": "🧑" },
+        { "en": "María", "say": "məríiə", "es": "Ma- → mə", "icon": "👩" },
+        { "en": "Javier", "say": "javiér", "es": "j suave + r americana", "icon": "🧔" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · Nombres americanos",
+      "title_en": "American names",
+      "icon": "🇺🇸",
+      "es": "Y al revés: los nombres americanos se dicen <b>a la americana</b>, no como los leemos. Michael no es «Mícael», Sarah lleva una <b>e</b> y David pone el golpe <b>delante</b>.",
+      "en": "American names are said the American way, not the way we read them.",
+      "examples": [
+        { "en": "Ashley", "say": "ǽshli", "es": "a de cat (æ)", "icon": "👱‍♀️" },
+        { "en": "Michael", "say": "máikəl", "es": "¡no «Mícael»!", "icon": "👨" },
+        { "en": "Sarah", "say": "sérə", "es": "suena «Sera»", "icon": "👩" },
+        { "en": "Jennifer", "say": "yénifer", "es": "Jenny = yéni", "icon": "👩‍🦰" },
+        { "en": "Matthew", "say": "mǽziu", "es": "th = z", "icon": "👦" },
+        { "en": "David", "say": "déivid", "es": "golpe en DÉI", "icon": "🧑" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "TikTok", "ipa": "ˈtɪktɑk", "say": "tíktak", "es": "app de vídeos", "icon": "🎵", "anchor": "<b>tic-tac</b> ⏰", "tip": "¡Como el reloj! En EE. UU. la o de Tok suena a: TÍK-tak." },
+        { "en": "Japan", "ipa": "dʒəˈpæn", "say": "yəpǽn", "es": "Japón", "icon": "🗾", "anchor": "¡<b>ya</b>, <b>pan</b>! 🍞", "tip": "Golpe en PAN, con boca de sonrisa (æ). La primera a, flojita: yə-PǼN." },
+        { "en": "Zara", "ipa": "ˈzɑrə", "say": "sárə", "es": "tienda de ropa", "icon": "👗", "anchor": "<b>Sar</b>a 👩", "tip": "La z suena s y la a final, ə: SÁ-rə. ¡Y el nombre Sarah suena <code>sérə</code>!" },
+        { "en": "Chile", "ipa": "ˈtʃɪli", "say": "chíli", "es": "Chile (país)", "icon": "🏔️", "anchor": "<b>chili</b> con carne 🌶️", "tip": "El país suele sonar igual que el chili picante: CHÍ-li (algunos dicen <code>chíilei</code>)." },
+        { "en": "Juan", "ipa": "wɑn", "say": "wan", "es": "Juan", "icon": "🧑", "anchor": "c<b>uan</b>do ⏳", "tip": "Los americanos no dicen la jota: Juan = «uan», como en «cuando»." },
+        { "en": "Nutella", "ipa": "nuˈtɛlə", "say": "nutélə", "es": "crema de cacao", "icon": "🥄", "anchor": "nu + <b>tel</b>a 🧵", "tip": "Como «tela», con el golpe en TE y la a final flojita: nu-TÉ-lə." },
+        { "en": "WhatsApp", "ipa": "ˈwʌtsæp", "say": "wátsæp", "es": "app de mensajes", "icon": "💬", "anchor": "<b>guasap</b> 💬", "tip": "Casi: sin g y con el golpe delante: WÁTS-æp." },
+        { "en": "Nike", "ipa": "ˈnaɪki", "say": "náiki", "es": "marca deportiva", "icon": "👟", "anchor": "<s>naik</s> → <b>NÁI</b>ki", "tip": "Dos sílabas, como la diosa griega de la victoria. «Naik» suena a Mike." },
+        { "en": "Adidas", "ipa": "əˈdiːdəs", "say": "ədíidəs", "es": "marca deportiva", "icon": "👕", "anchor": "<s>Ádidas</s> → ə<b>DÍI</b>dəs", "tip": "El golpe va en DÍI y las otras a se vuelven ə." },
+        { "en": "IKEA", "ipa": "aɪˈkiːə", "say": "aikíiə", "es": "tienda de muebles", "icon": "🛋️", "anchor": "<s>ikéa</s> → ai<b>KÍI</b>ə", "tip": "Empieza por «ai» (como «¡ay!») y la e suena ii larga." },
+        { "en": "Hyundai", "ipa": "ˈhʌndeɪ", "say": "jándei", "es": "marca de coches", "icon": "🚗", "anchor": "<s>jiundái</s> → <b>JÁN</b>dei", "tip": "Rima con Sunday (domingo). Algunos dicen <code>jándai</code>." },
+        { "en": "Disney", "ipa": "ˈdɪzni", "say": "dísni", "es": "Disney", "icon": "🏰", "anchor": "<s>dísnei</s> → <b>DÍS</b>ni", "tip": "Acaba en una i cortita, no en «ei». La s zumba (casi z)." },
+        { "en": "Mexico", "ipa": "ˈmɛksɪkoʊ", "say": "méksikou", "es": "México", "icon": "🌮", "anchor": "<s>Méjico</s> (jota) → <b>MÉK</b>sikou", "tip": "La x suena ks, como en «taxi», y la o final, ou." }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "Nike", "es": "náiki" },
+        { "q": "IKEA", "es": "aikíiə" },
+        { "q": "Adidas", "es": "ədíidəs" },
+        { "q": "Hyundai", "es": "jándei" },
+        { "q": "Madrid", "es": "mədríd" },
+        { "q": "Barcelona", "es": "barsəlóunə" }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Marcas: así no, así sí",
+      "title_en": "Brands: wrong vs. right",
+      "icon": "🏷️",
+      "head": ["Marca", "Así NO", "Así SÍ 🇺🇸"],
+      "rows": [
+        ["Adidas", "<s>Á-di-das</s>", "<code>ədíidəs</code>"],
+        ["Amazon", "<s>a-ma-ZÓN</s>", "<code>ǽməsan</code>"],
+        ["Apple", "<s>Á-pel</s>", "<code>ǽpəl</code>"],
+        ["Disney", "<s>DÍS-nei</s>", "<code>dísni</code>"],
+        ["Google", "<s>GÚ-guel</s>", "<code>gúugəl</code>"],
+        ["Hyundai", "<s>jiun-DÁI</s>", "<code>jándei</code>"],
+        ["IKEA", "<s>i-KÉ-a</s>", "<code>aikíiə</code>"],
+        ["Lego", "<s>LÉ-go</s>", "<code>légou</code>"],
+        ["McDonald's", "<s>mac-DÓ-nals</s>", "<code>məkdánəlds</code>"],
+        ["Nestlé", "<s>nes-TLÉ</s>", "<code>nésli</code>"],
+        ["Nike", "<s>naik</s>", "<code>náiki</code>"],
+        ["Samsung", "<s>sam-SÚN</s>", "<code>sǽmsang</code>"],
+        ["Spotify", "<s>es-PÓ-ti-fai</s>", "<code>spárəfai</code>"],
+        ["Toyota", "<s>to-YÓ-ta</s>", "<code>toióurə</code>"],
+        ["Uber", "<s>Ú-ber</s> (r española)", "<code>úuber</code>"]
+      ],
+      "note": "Las marcas son nombres propios: cada país las dice a su manera. Si hablas inglés, dilas <b>a la americana</b> para que te entiendan.",
+      "note_en": "Each country says brands its own way. In English, say them the American way."
+    },
+    {
+      "t": "table",
+      "title": "Países y ciudades",
+      "title_en": "Countries and cities",
+      "icon": "🗺️",
+      "head": ["En español", "En inglés", "Suena"],
+      "rows": [
+        ["España", "Spain", "<code>spein</code>"],
+        ["Sevilla", "Seville", "<code>səvíl</code>"],
+        ["Italia", "Italy", "<code>írəli</code>"],
+        ["Japón", "Japan", "<code>yəpǽn</code>"],
+        ["Alemania", "Germany", "<code>yérməni</code>"],
+        ["Londres", "London", "<code>lándən</code>"],
+        ["Nueva York", "New York", "<code>nuu iórk</code>"],
+        ["Los Ángeles", "Los Angeles", "<code>los ǽnyələs</code>"],
+        ["Chicago", "Chicago", "<code>shikágou</code>"],
+        ["Colombia", "Colombia", "<code>kəlámbiə</code>"],
+        ["Europa", "Europe", "<code>iúrəp</code>"],
+        ["París", "Paris", "<code>pǽris</code> (muchos: <code>péris</code>)"]
+      ],
+      "note": "Ojo con la <b>T de Italy</b> (toque suave, mapa C-02) y la <b>ch de Chicago</b>, que suena <b>sh</b>.",
+      "note_en": "Watch the soft T in Italy and the sh sound in Chicago."
+    },
+    {
+      "t": "pairs",
+      "title": "Parecen distintas… ¡o no!",
+      "title_en": "Surprising pairs",
+      "icon": "👯",
+      "items": [
+        {
+          "a": { "en": "Zara", "ipa": "ˈzɑrə", "say": "sárə", "es": "la tienda", "icon": "👗" },
+          "b": { "en": "Sarah", "ipa": "ˈsɛrə", "say": "sérə", "es": "el nombre", "icon": "👩" },
+          "tip": "¡Lío total! La tienda Zara suena como nuestra «Sara», y el nombre Sarah suena «Sera»."
+        },
+        {
+          "a": { "en": "Chile", "ipa": "ˈtʃɪli", "say": "chíli", "es": "el país", "icon": "🏔️" },
+          "b": { "en": "chili", "ipa": "ˈtʃɪli", "say": "chíli", "es": "el picante", "icon": "🌶️" },
+          "tip": "Para la mayoría de americanos suenan igual (algunos dicen el país como <code>chíilei</code>)."
+        },
+        {
+          "a": { "en": "Hyundai", "ipa": "ˈhʌndeɪ", "say": "jándei", "es": "los coches", "icon": "🚗" },
+          "b": { "en": "Sunday", "ipa": "ˈsʌndeɪ", "say": "sándei", "es": "domingo", "icon": "📅" },
+          "tip": "Riman: JÁN-dei, SÁN-dei."
+        },
+        {
+          "a": { "en": "Turkey", "ipa": "ˈtɝki", "say": "térki", "es": "Turquía", "icon": "🕌" },
+          "b": { "en": "turkey", "ipa": "ˈtɝki", "say": "térki", "es": "pavo", "icon": "🦃" },
+          "tip": "El país y el pavo de Acción de Gracias suenan igual."
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Tu nombre: ¿a la española o a la americana?",
+      "title_en": "Your name: Spanish or American?",
+      "icon": "🙋",
+      "es": "Con <b>tu nombre</b> tienes libertad: puedes decirlo en español. Pero las <b>marcas y los lugares</b>, mejor a la americana para que te entiendan.",
+      "en": "Your name is yours. But say brands and places the American way.",
+      "cols": [
+        { "head": "🇪🇸 Tu nombre es tuyo", "color": "orange", "items": ["Preséntate como siempre: «I'm Lucía»", "Si lo pronuncian distinto, no es mala educación: es su acento", "Puedes ayudar: «Lu-CÍ-a, like see»"] },
+        { "head": "🇺🇸 Pero entiende el suyo", "color": "blue", "items": ["Te llamarán <code>lusíiə</code>, <code>máriou</code>, <code>jouséi</code>", "Marcas y lugares, a la americana: <code>náiki</code>, <code>mədríd</code>", "Sus nombres, a la americana: <code>máikəl</code>, <code>sérə</code>"] }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "I love my new Nike shoes!", "say": "ai lav mai nuu náiki shúus!", "es": "¡Me encantan mis zapatillas Nike nuevas!", "icon": "👟" },
+        { "en": "Let's go to IKEA on Saturday.", "say": "lets gou tə aikíiə an sǽrerdei", "es": "Vamos a IKEA el sábado.", "icon": "🛋️" },
+        { "en": "Can you google it?", "say": "kən iu gúugəl it?", "es": "¿Puedes buscarlo en Google?", "icon": "🔎" },
+        { "en": "I watch YouTube every day.", "say": "ai wach iúutuub évri déi", "es": "Veo YouTube todos los días.", "icon": "▶️" },
+        { "en": "My dad drives a Hyundai.", "say": "mai dǽd dráivs ə jándei", "es": "Mi padre conduce un Hyundai.", "icon": "🚗" },
+        { "en": "Two burgers at McDonald's, please.", "say": "tuu bérguers ət məkdánəlds, pliis", "es": "Dos hamburguesas en McDonald's, por favor.", "icon": "🍔" },
+        { "en": "I'm from Madrid, in Spain.", "say": "aim frəm mədríd, in spéin", "es": "Soy de Madrid, en España.", "icon": "🇪🇸" },
+        { "en": "We went to Paris and Italy.", "say": "wi went tə pǽris ən írəli", "es": "Fuimos a París e Italia.", "icon": "🗼" },
+        { "en": "My cousin lives in Mexico.", "say": "mai kásən livs in méksikou", "es": "Mi primo vive en México.", "icon": "🌮" },
+        { "en": "Japan is my dream trip!", "say": "yəpǽn is mai dríim tríp!", "es": "¡Japón es el viaje de mis sueños!", "icon": "🗾" },
+        { "en": "Nice to meet you, Lucía!", "say": "náis tə míit iu, lusíiə!", "es": "¡Encantada, Lucía!", "icon": "👋" },
+        { "en": "Ashley and Michael love Disney.", "say": "ǽshli ən máikəl lav dísni", "es": "A Ashley y a Michael les encanta Disney.", "icon": "🏰" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "Nike → <code>naik</code>", "good": "<code>náiki</code>", "why": "Son dos sílabas, como la diosa griega. «Naik» suena a Mike.", "why_en": "Two syllables: NIGH-kee." },
+        { "bad": "IKEA → <code>ikéa</code>", "good": "<code>aikíiə</code>", "why": "En EE. UU. empieza por «ai» y el golpe va en KÍI.", "why_en": "It starts with «eye» and the stress is on KEE." },
+        { "bad": "Adidas → <code>ádidas</code>", "good": "<code>ədíidəs</code>", "why": "El golpe va en DÍI y las otras a se vuelven ə.", "why_en": "Stress on DEE." },
+        { "bad": "Mexico → «Méjico» (con jota)", "good": "<code>méksikou</code>", "why": "En inglés la x suena ks, como en «taxi».", "why_en": "The x sounds like ks." },
+        { "bad": "Paris → «parí» (a la francesa)", "good": "<code>pǽris</code>", "why": "En inglés la s final se pronuncia.", "why_en": "In English, say the final s." },
+        { "bad": "Europe → «európ»", "good": "<code>iúrəp</code>", "why": "Empieza por «iú» y el golpe va delante: IÚ-rəp.", "why_en": "Stress on the first syllable: YOU-rup." },
+        { "bad": "Michael → «Mícael»", "good": "<code>máikəl</code>", "why": "Mi- suena «mai» y la ch suena k: MÁI-kəl.", "why_en": "Say MY-kul." },
+        { "bad": "Spain → «Espéin»", "good": "<code>spein</code>", "why": "Sin e delante de la S (mapa C-11).", "why_en": "No e before the s." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el aeropuerto",
+      "title_en": "At the airport",
+      "lines": [
+        { "who": "Jenny", "en": "Hi! You must be Lucía!", "say": "jái! iu mast bi lusíiə!", "es": "¡Hola! ¡Tú debes de ser Lucía!" },
+        { "who": "Lucía", "en": "Yes! And this is my brother, Mario.", "say": "iés! ən dis is mai bráder, máriou", "es": "¡Sí! Y este es mi hermano, Mario." },
+        { "who": "Jenny", "en": "Welcome to New York! How was the flight from Madrid?", "say": "wélkəm tə nuu iórk! jau wəs də fláit frəm mədríd?", "es": "¡Bienvenidos a Nueva York! ¿Qué tal el vuelo desde Madrid?" },
+        { "who": "Mario", "en": "Long! I watched three movies on my iPhone.", "say": "long! ai wacht zríi múuvis an mai áifoun", "es": "¡Largo! Vi tres pelis en mi iPhone." },
+        { "who": "Jenny", "en": "Are you hungry? There's a McDonald's and a Starbucks.", "say": "er iə jángri? ders ə məkdánəlds ən ə stárbaks", "es": "¿Tenéis hambre? Hay un McDonald's y un Starbucks." },
+        { "who": "Lucía", "en": "Starbucks, please! I need a coffee.", "say": "stárbaks, pliis! ai níid ə káfi", "es": "¡Starbucks, por favor! Necesito un café." },
+        { "who": "Jenny", "en": "Then we take an Uber to my house.", "say": "den wi téikən úuber tə mai jáus", "es": "Luego cogemos un Uber a mi casa." },
+        { "who": "Mario", "en": "Cool! Do you have a Nintendo?", "say": "kúul! dəiə jǽv ə ninténdou?", "es": "¡Guay! ¿Tienes una Nintendo?" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        { "es": "Haz una lista con <b>tus</b> marcas, apps y lugares favoritos (o los de tu próximo viaje).", "en": "Make a list of your favorite brands, apps and places." },
+        { "es": "Escucha cada una en los QR (YouGlish) y fíjate en la <b>sílaba fuerte</b>.", "en": "Listen to each one and find the stressed syllable." },
+        { "es": "Escribe su figurada y marca el golpe: <code>aikíiə</code>, <code>ədíidəs</code>.", "en": "Write how it sounds and mark the stress." },
+        { "es": "Prepara tu presentación: «My name is…, I'm from…» y dila en voz alta.", "en": "Practice introducing yourself." },
+        { "es": "Si no te entienden, prueba la versión americana: Madrid → <code>mədríd</code>.", "en": "If people don't understand, try the American version." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas de marcas",
+      "title_en": "Brand tongue twisters",
+      "items": [
+        { "en": "Mike likes Nike, and Nike likes Mike.", "say": "maik láiks náiki, ən náiki láiks máik", "es": "A Mike le gusta Nike, y a Nike le gusta Mike." },
+        { "en": "Sarah from Zara drives a Hyundai on Sunday.", "say": "sérə frəm sárə dráivs ə jándei an sándei", "es": "Sarah, la de Zara, conduce un Hyundai el domingo." },
+        { "en": "TikTok, TikTok, the clock in Tokyo goes tick-tock!", "say": "tíktak, tíktak, də klák in tóukiou góus tíktak!", "es": "TikTok, TikTok, ¡el reloj de Tokio hace tic-tac!" }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del loro",
+      "title_en": "The parrot trick",
+      "es": "Las marcas no siguen reglas fijas: cada una tiene <b>su</b> pronunciación americana. Escúchalas en los QR y cópialas como un <b>loro</b> 🦜. Y si alguien dice tu nombre de forma rara… ¡sonríe! Es la versión americana de ti. 😄",
+      "en": "Brands don't follow fixed rules. Listen and copy them like a parrot. And if someone says your name differently, smile!"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Cómo lo dice un americano?",
+      "title_en": "How does an American say it?",
+      "icon": "🔍",
+      "es": "Rodea la pronunciación americana.",
+      "en": "Circle the American pronunciation.",
+      "items": [
+        { "q": "Nike → [naik|náiki]", "a": "náiki" },
+        { "q": "IKEA → [ikéa|aikíiə]", "a": "aikíiə" },
+        { "q": "Disney → [dísnei|dísni]", "a": "dísni" },
+        { "q": "Europe → [európ|iúrəp]", "a": "iúrəp" },
+        { "q": "Paris → [parí|pǽris]", "a": "pǽris" },
+        { "q": "Hyundai → [jiundái|jándei]", "a": "jándei" },
+        { "q": "Nestlé → [nestlé|nésli]", "a": "nésli" },
+        { "q": "Michael → [mícael|máikəl]", "a": "máikəl" },
+        { "q": "Sarah → [sára|sérə]", "a": "sérə" },
+        { "q": "Japan → [jápan|yəpǽn]", "a": "yəpǽn" }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une marca y sonido",
+      "title_en": "Match brand and sound",
+      "icon": "🔗",
+      "es": "Une cada marca con su pronunciación figurada.",
+      "en": "Match each brand with how it sounds.",
+      "pairs": [
+        ["Nike", "<code>náiki</code>"],
+        ["IKEA", "<code>aikíiə</code>"],
+        ["Adidas", "<code>ədíidəs</code>"],
+        ["Hyundai", "<code>jándei</code>"],
+        ["Google", "<code>gúugəl</code>"],
+        ["Disney", "<code>dísni</code>"],
+        ["Uber", "<code>úuber</code>"],
+        ["Nestlé", "<code>nésli</code>"]
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte tal como la dice un americano.",
+      "en": "Circle the stressed syllable, American style.",
+      "items": [
+        { "syl": ["A", "di", "das"], "s": 1, "es": "Adidas" },
+        { "syl": ["I", "ke", "a"], "s": 1, "es": "IKEA" },
+        { "syl": ["Hyun", "dai"], "s": 0, "es": "Hyundai" },
+        { "syl": ["Mc", "Don", "ald's"], "s": 1, "es": "McDonald's" },
+        { "syl": ["In", "sta", "gram"], "s": 0, "es": "Instagram" },
+        { "syl": ["Ja", "pan"], "s": 1, "es": "Japón" },
+        { "syl": ["Eu", "rope"], "s": 0, "es": "Europa" },
+        { "syl": ["Ma", "drid"], "s": 1, "es": "Madrid" },
+        { "syl": ["Nu", "tel", "la"], "s": 1, "es": "Nutella" },
+        { "syl": ["Bar", "ce", "lo", "na"], "s": 2, "es": "Barcelona" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Qué le pasa al final?",
+      "title_en": "What happens at the end?",
+      "icon": "🗂️",
+      "es": "Di cada palabra a la americana y escríbela en su columna.",
+      "en": "Say each word the American way and sort it.",
+      "cats": [
+        { "name": "🅾️ -o final → ou", "words": ["Mario", "Oreo", "Lego", "Mexico", "Nintendo", "Chicago"] },
+        { "name": "🅰️ -a final → ə", "words": ["Nutella", "Barcelona", "Lucía", "Zara", "María", "Toyota"] }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada americana. Pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each name sounds, Spanish-style.",
+      "items": [
+        { "q": "🔎 Google → ____", "a": "gúugəl" },
+        { "q": "▶️ YouTube → ____", "a": "iúutuub" },
+        { "q": "📱 iPhone → ____", "a": "áifoun" },
+        { "q": "🚕 Uber → ____", "a": "úuber" },
+        { "q": "🎵 TikTok → ____", "a": "tíktak" },
+        { "q": "🏙️ Madrid → ____", "a": "mədríd" },
+        { "q": "🗼 Paris → ____", "a": "pǽris" },
+        { "q": "🍕 Italy → ____", "a": "írəli" },
+        { "q": "👱‍♀️ Ashley → ____", "a": "ǽshli" },
+        { "q": "👨 José → ____", "a": "jouséi" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "Americans say Nike with two syllables: «náiki».", "a": true },
+        { "q": "In the US, IKEA starts with the sound «ai».", "a": true },
+        { "q": "Americans pronounce the X in Mexico like the Spanish jota.", "a": false, "why": "suena ks: méksikou" },
+        { "q": "In English, the S at the end of Paris is silent.", "a": false, "why": "se pronuncia: pǽris" },
+        { "q": "Hyundai rhymes with Sunday in American English.", "a": true },
+        { "q": "Chile (the country) and chili (the pepper) usually sound the same in English.", "a": true },
+        { "q": "Americans usually say Lucía exactly like in Spain.", "a": false, "why": "dicen lusíiə" },
+        { "q": "Michael sounds like «máikəl».", "a": true }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Escribe el nombre en inglés y cómo suena.",
+      "en": "Write the English name and how it sounds.",
+      "head": ["En español", "En inglés", "Suena"],
+      "rows": [
+        ["España", "?Spain", "?spein"],
+        ["Sevilla", "?Seville", "səvíl"],
+        ["Alemania", "?Germany", "?yérməni"],
+        ["Londres", "London", "?lándən"],
+        ["Italia", "?Italy", "?írəli"],
+        ["Japón", "?Japan", "yəpǽn"],
+        ["Nueva York", "?New York", "?nuu iórk"],
+        ["Europa", "Europe", "?iúrəp"]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de marcas y lugares",
+      "title_en": "Brands and places word search",
+      "icon": "🔎",
+      "es": "Busca 10 nombres. Dilo a la americana cada vez que encuentres uno.",
+      "en": "Find 10 names and say each one the American way.",
+      "words": ["Nike", "IKEA", "Adidas", "Hyundai", "Google", "YouTube", "Disney", "Nutella", "Japan", "Mexico"],
+      "clues": ["Nike · náiki", "IKEA · aikíiə", "Adidas · ədíidəs", "Hyundai · jándei", "Google · gúugəl", "YouTube · iúutuub", "Disney · dísni", "Nutella · nutélə", "Japan · yəpǽn", "Mexico · méksikou"]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧩",
+      "es": "Ordena las fichas y di la frase con las marcas y lugares a la americana.",
+      "en": "Put the words in order and say the sentence.",
+      "items": [
+        { "q": "Mario / name / My / is", "a": "My name is Mario." },
+        { "q": "from / I'm / Spain", "a": "I'm from Spain." },
+        { "q": "IKEA / to / go / Let's", "a": "Let's go to IKEA." },
+        { "q": "a / Hyundai / drives / Dad", "a": "Dad drives a Hyundai." },
+        { "q": "on / YouTube / it / watch / I", "a": "I watch it on YouTube." },
+        { "q": "Japan / to / want / I / go / to", "a": "I want to go to Japan." },
+        { "q": "Nike / are / shoes / My", "a": "My shoes are Nike." },
+        { "q": "lives / Mexico / in / Jenny", "a": "Jenny lives in Mexico." }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe cómo suena la frase",
+      "title_en": "Write how the sentence sounds",
+      "icon": "🗣️",
+      "es": "Escribe la frase entera como la diría un americano.",
+      "en": "Write how an American would say the whole sentence.",
+      "items": [
+        { "q": "I'm from Barcelona.", "a": "aim frəm barsəlóunə" },
+        { "q": "Let's go to McDonald's.", "a": "lets gou tə məkdánəlds" },
+        { "q": "I love Nutella!", "a": "ai lav nutélə" },
+        { "q": "My name is José.", "a": "mai néim is jouséi" },
+        { "q": "Ashley lives in Chicago.", "a": "ǽshli livs in shikágou" },
+        { "q": "We go to IKEA.", "a": "wi gou tə aikíiə" },
+        { "q": "I use Instagram.", "a": "ai iúus ínstəgræm" },
+        { "q": "Turn on Netflix!", "a": "tern an nétfliks" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación tiene un fallo «a la española». Escríbela a la americana.",
+      "en": "Each one is said the Spanish way. Fix it.",
+      "items": [
+        { "q": "Nike → <code>naik</code>", "a": "náiki" },
+        { "q": "Adidas → <code>ádidas</code>", "a": "ədíidəs" },
+        { "q": "IKEA → <code>ikéa</code>", "a": "aikíiə" },
+        { "q": "Disney → <code>dísnei</code>", "a": "dísni" },
+        { "q": "Europe → <code>európ</code>", "a": "iúrəp" },
+        { "q": "Paris → <code>parí</code>", "a": "pǽris" },
+        { "q": "Spain → <code>espéin</code>", "a": "spein" },
+        { "q": "Michael → <code>míkael</code>", "a": "máikəl" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta a la americana.",
+      "en": "Translate into English and say it the American way.",
+      "items": [
+        { "q": "Soy de España.", "a": "I'm from Spain. (aim frəm spéin)" },
+        { "q": "Vivo en Sevilla.", "a": "I live in Seville. (ai liv in səvíl)" },
+        { "q": "Me encanta Japón.", "a": "I love Japan. (ai lav yəpǽn)" },
+        { "q": "Vamos a IKEA.", "a": "Let's go to IKEA. (lets gou tə aikíiə)" },
+        { "q": "Mis zapatillas son Nike.", "a": "My shoes are Nike. (mai shúus ar náiki)" },
+        { "q": "Búscalo en Google.", "a": "Google it. (gúugəl it)" },
+        { "q": "Mi padre tiene un Hyundai.", "a": "My dad has a Hyundai. (mai dǽd jæs ə jándei)" },
+        { "q": "Quiero ir a Italia.", "a": "I want to go to Italy. (ai want tə gou tə írəli)" },
+        { "q": "Londres es grande.", "a": "London is big. (lándən is big)" },
+        { "q": "Mi hermana se llama Lucía.", "a": "My sister's name is Lucía. (mai sísters néim is lusíiə)" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada línea 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each line three times and tick a box each time.",
+      "items": [
+        { "q": "Nike, Adidas, IKEA", "say": "náiki, ədíidəs, aikíiə" },
+        { "q": "Google, YouTube, Instagram", "say": "gúugəl, iúutuub, ínstəgræm" },
+        { "q": "Let's go to McDonald's!", "say": "lets gou tə məkdánəlds!" },
+        { "q": "I'm from Barcelona.", "say": "aim frəm barsəlóunə" },
+        { "q": "My dad drives a Hyundai.", "say": "mai dǽd dráivs ə jándei" },
+        { "q": "Mexico, Japan and Italy", "say": "méksikou, yəpǽn ən írəli" },
+        { "q": "Mario, Lucía and José", "say": "máriou, lusíiə ən jouséi" },
+        { "q": "Ashley, Michael and Sarah", "say": "ǽshli, máikəl ən sérə" },
+        { "q": "Mike likes Nike.", "say": "maik láiks náiki" },
+        { "q": "Sarah shops at Zara.", "say": "sérə shaps ət sárə" }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta, con marcas y nombres a la americana. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Lucía's first week",
+      "text": [
+        "On Monday, Lucía goes to Starbucks with Jenny. The barista asks, “What's your name?” Lucía says her name, and the cup says “Lusia”! Jenny laughs: “Here we say lu-SEE-uh.”",
+        "On Wednesday, they take an Uber to IKEA. Lucía says “i-KE-a” and the driver doesn't understand. Jenny helps: “eye-KEE-uh!” On Saturday, they watch a Disney movie on Netflix."
+      ],
+      "items": [
+        { "q": "Where do Lucía and Jenny go on Monday?", "a": "To Starbucks." },
+        { "q": "How does Jenny say «Lucía»?", "a": "<code>lusíiə</code> (lu-SEE-uh)." },
+        { "q": "Why doesn't the driver understand Lucía?", "a": "Porque dice «ikéa» a la española; en EE. UU. es <code>aikíiə</code>." },
+        { "q": "They go to IKEA by bus.", "tf": true, "a": false, "why": "van en Uber" },
+        { "q": "In the US, IKEA starts with «eye».", "tf": true, "a": true },
+        { "q": "They watch a Disney movie on Saturday.", "tf": true, "a": true }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases, léelas en voz alta a la americana y grábate.",
+      "en": "Write your own sentences, read them aloud and record yourself.",
+      "items": [
+        { "q": "Preséntate: tu nombre, de dónde eres y tu marca favorita.", "lines": 2, "a": "Ej.: Hi! I'm Mario. I'm from Madrid. I love Nike." },
+        { "q": "Tres lugares que quieres visitar, con su figurada.", "lines": 2, "a": "Ej.: Japan (yəpǽn), Italy (írəli), Paris (pǽris)." },
+        { "q": "Una frase con dos apps que uses.", "lines": 2, "a": "Ej.: I watch YouTube and listen to Spotify." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Digo <b>Nike</b> como <code>náiki</code> e <b>IKEA</b> como <code>aikíiə</code>.", "en": "I can say Nike and IKEA the American way." },
+    { "es": "Pronuncio las apps a la americana: <code>gúugəl</code>, <code>iúutuub</code>.", "en": "I can say app names the American way." },
+    { "es": "Digo los países y ciudades en inglés: Spain, Seville, Japan, Italy.", "en": "I can say countries and cities in English." },
+    { "es": "Reconozco mi nombre en boca americana (<code>máriou</code>, <code>lusíiə</code>).", "en": "I recognize my name, American style." },
+    { "es": "Digo bien los nombres americanos: <code>máikəl</code>, <code>sérə</code>, <code>ǽshli</code>.", "en": "I can say American names." },
+    { "es": "Sé que Hyundai rima con Sunday y que Zara suena «Sara».", "en": "I know some surprising pairs." }
+  ]
+}

@@ -1,0 +1,1679 @@
+{
+  "id": "B-03",
+  "block": "B",
+  "title": "TU BOCA EN INGLÉS",
+  "file_title": "Tu boca en inglés",
+  "subtitle": "Your mouth in English · el gimnasio de la boca",
+  "icon": "👄",
+  "map": {
+    "center": "Para sonar americano no basta con las letras: tu <b>boca</b>, tu <b>garganta</b> y tu <b>aire</b> trabajan distinto.",
+    "listen": "paper",
+    "nodes": [
+      {
+        "title": "Mano en la garganta",
+        "icon": "✋",
+        "color": "green",
+        "items": [
+          "<b>sordos</b>: no vibra (p, t, k, f, s)",
+          "<b>sonoros</b>: ¡vibra! (b, d, g, v, z)"
+        ],
+        "after": "pruébalo con <b>f</b> y <b>v</b> 🐝"
+      },
+      {
+        "title": "El soplido de P, T, K",
+        "icon": "💨",
+        "color": "blue",
+        "items": [
+          "al empezar sílaba fuerte: <b>p</b>en, <b>t</b>en, <b>k</b>ey",
+          "papel delante de la boca: ¡se mueve! 📄",
+          "tras <b>s</b>, sin soplido: s<b>p</b>ort"
+        ]
+      },
+      {
+        "title": "Largas y cortas",
+        "icon": "⏱️",
+        "color": "purple",
+        "rows": [
+          [
+            "sheep",
+            "<code>shiip</code>"
+          ],
+          [
+            "ship",
+            "<code>ship</code>"
+          ],
+          [
+            "food",
+            "<code>fuud</code>"
+          ],
+          [
+            "good",
+            "<code>gud</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Boca perezosa",
+        "icon": "😴",
+        "color": "orange",
+        "items": [
+          "mandíbula <b>suelta</b>",
+          "labios <b>relajados</b>",
+          "sílabas débiles → <code>ə</code>"
+        ]
+      },
+      {
+        "title": "Posición neutra",
+        "icon": "😐",
+        "color": "pink",
+        "html": "Boca entreabierta, lengua quieta en el suelo… y suelta la voz: <code>ə</code>. ¡Es la base del inglés!"
+      },
+      {
+        "title": "Español vs. inglés",
+        "icon": "⚖️",
+        "color": "yellow",
+        "items": [
+          "🇪🇸 boca tensa, vocales claras",
+          "🇺🇸 boca suelta, lengua más atrás",
+          "🇺🇸 más aire y más «zumbido»"
+        ],
+        "art": "🪞"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "<b>p</b>en sin aire: suena a «Ben»"
+      ],
+      "good": [
+        "<b>p</b>en + soplido 💨"
+      ],
+      "note": "Sin aire, pie suena a bye y cold a gold."
+    },
+    "mini": {
+      "es": "¿Vibra la garganta? Rodea:",
+      "en": "Does your throat buzz?",
+      "items": [
+        {
+          "q": "🐍 sss… → [vibra|no vibra]",
+          "a": "no vibra"
+        },
+        {
+          "q": "🐄 mmm… → [vibra|no vibra]",
+          "a": "vibra"
+        },
+        {
+          "q": "🤫 shhh… → [vibra|no vibra]",
+          "a": "no vibra"
+        },
+        {
+          "q": "💨 fff… → [vibra|no vibra]",
+          "a": "no vibra"
+        },
+        {
+          "q": "🚐 vvv… → [vibra|no vibra]",
+          "a": "vibra"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "Tu boca es un instrumento",
+      "title_en": "Your mouth is an instrument",
+      "icon": "🎺",
+      "es": "Cada idioma «toca» la boca a su manera. El español es un instrumento <b>tenso y preciso</b>: labios firmes, cinco vocales claras y poco aire. El inglés americano es más <b>relajado</b>: mandíbula suelta, lengua más atrás, vocales largas y cortas, soplidos de aire y una garganta que se <b>enciende</b> y se <b>apaga</b>. En este mapa vas a <mark>conocer tu boca por dentro</mark>. ¡Así todos los demás mapas te resultarán más fáciles!",
+      "en": "Each language plays the mouth differently. Spanish is tense and precise; American English is relaxed, with puffs of air, long and short vowels and a voice that switches on and off."
+    },
+    {
+      "t": "mouth",
+      "title": "Tu boca en modo inglés",
+      "title_en": "Your mouth in English mode",
+      "items": [
+        {
+          "part": "lips",
+          "es": "<b>Relajados</b> casi siempre. Solo se redondean de verdad en sonidos como <code>uu</code> (food) o <code>w</code> (we). En f y v, el labio de abajo toca los dientes de arriba.",
+          "en": "Relaxed most of the time. Round them only for sounds like food or we."
+        },
+        {
+          "part": "tongue",
+          "es": "Para t, d, n y l, la punta toca la <b>encía</b>, justo detrás de los dientes (no los dientes). Para la R se va <b>hacia atrás</b> sin tocar nada, y en th asoma entre los dientes.",
+          "en": "For t, d, n and l, the tip touches the gum ridge, not the teeth. For R it pulls back."
+        },
+        {
+          "part": "jaw",
+          "es": "<b>Suelta</b>, como si tuvieras un poco de sueño 😴. Se abre bastante en <code>æ</code> (cat) y <code>a</code> (hot).",
+          "en": "Loose, as if you were a bit sleepy. It opens wide for cat and hot."
+        },
+        {
+          "part": "air",
+          "es": "Sale con fuerza al empezar <b>p, t, k</b> en una sílaba fuerte: un soplido que apagaría una vela 🕯️.",
+          "en": "A strong puff of air after p, t, k at the start of a stressed syllable."
+        },
+        {
+          "part": "voice",
+          "es": "La garganta se <b>enciende</b> (sonoros: b, d, g, v, z) o se <b>apaga</b> (sordos: p, t, k, f, s). ¡Compruébalo con la mano en el cuello!",
+          "en": "Your voice switches on (b, d, g, v, z) or off (p, t, k, f, s). Check it with your hand on your throat."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Sordos y sonoros",
+      "title_en": "Voiceless and voiced",
+      "icon": "🐝",
+      "es": "Pon la mano en el cuello y di «sssss», como una serpiente 🐍: no vibra nada. Ahora di «mmmm» 😋: ¡vibra! Los sonidos <b>sordos</b> (p, t, k, f, s, sh, ch, la th de think) no vibran; los <b>sonoros</b> (b, d, g, v, z, m, n, l, r y todas las vocales) sí. Muchos van <mark>en parejas</mark>: la boca hace exactamente lo mismo y solo cambia la garganta.",
+      "en": "Put your hand on your throat. Voiceless sounds (p, t, k, f, s) don't buzz; voiced ones (b, d, g, v, z) do. Many come in pairs: same mouth, different throat.",
+      "formula": [
+        "f + *voz* = v",
+        "s + *voz* = /z/ 🐝"
+      ],
+      "examples": [
+        {
+          "en": "fine",
+          "say": "fain",
+          "es": "bien · no vibra",
+          "icon": "🙂"
+        },
+        {
+          "en": "vine",
+          "say": "vain",
+          "es": "parra · ¡vibra!",
+          "icon": "🍇"
+        },
+        {
+          "en": "pie",
+          "say": "pai",
+          "es": "tarta · no vibra",
+          "icon": "🥧"
+        },
+        {
+          "en": "buy",
+          "say": "bai",
+          "es": "comprar · ¡vibra!",
+          "icon": "🛒"
+        },
+        {
+          "en": "Sue",
+          "say": "suu",
+          "es": "Sue · no vibra",
+          "icon": "👩"
+        },
+        {
+          "en": "zoo",
+          "say": "suu",
+          "es": "zoo · ¡vibra! 🐝",
+          "icon": "🦓"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · El soplido de P, T, K",
+      "title_en": "The puff of P, T, K",
+      "icon": "💨",
+      "es": "Cuando <b>p</b>, <b>t</b> o <b>k</b> empiezan una sílaba fuerte, los americanos sueltan un <b>soplido</b>, como si apagaran una vela 🕯️. En español no lo hacemos, y por eso a sus oídos nuestro «pen» suena a «Ben» y nuestro «cold», a «gold». La prueba del papel: sujeta una hoja delante de la boca y di pen. <mark>¡Tiene que moverse!</mark>",
+      "en": "When p, t or k start a stressed syllable, Americans add a puff of air. Without it, pen sounds like Ben. Hold a sheet of paper in front of your mouth: it should move.",
+      "formula": [
+        "p · t · k + *💨 soplido* + sílaba fuerte"
+      ],
+      "examples": [
+        {
+          "en": "pen",
+          "say": "pen",
+          "es": "bolígrafo",
+          "icon": "🖊️"
+        },
+        {
+          "en": "ten",
+          "say": "ten",
+          "es": "diez",
+          "icon": "🔟"
+        },
+        {
+          "en": "key",
+          "say": "kii",
+          "es": "llave",
+          "icon": "🔑"
+        },
+        {
+          "en": "paper",
+          "say": "péiper",
+          "es": "papel · 💨 en la 1.ª p",
+          "icon": "📄"
+        },
+        {
+          "en": "computer",
+          "say": "kəmpiúrer",
+          "es": "ordenador · 💨 en la p",
+          "icon": "💻"
+        },
+        {
+          "en": "potato",
+          "say": "pətéirou",
+          "es": "patata · 💨 en la 1.ª t",
+          "icon": "🥔"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Después de S, sin soplido",
+      "title_en": "No puff after S",
+      "icon": "🐍",
+      "es": "Truco curioso: si delante de p, t o k hay una <b>s</b>, el soplido <b>desaparece</b>. Por eso la p de sport suena más suave, casi como una b. Haz la prueba del papel con pen y con spend: ¡solo se mueve con pen! (Y nada de e delante de la s: lo verás en el mapa C-11.)",
+      "en": "After s, p, t and k have no puff: sport, stop, sky.",
+      "examples": [
+        {
+          "en": "sport",
+          "say": "sport",
+          "es": "deporte",
+          "icon": "⚽"
+        },
+        {
+          "en": "stop",
+          "say": "stap",
+          "es": "parar",
+          "icon": "🛑"
+        },
+        {
+          "en": "sky",
+          "say": "skai",
+          "es": "cielo",
+          "icon": "☁️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Vocales largas y cortas",
+      "title_en": "Long and short vowels",
+      "icon": "⏱️",
+      "es": "En español todas las vocales duran más o menos lo mismo. En inglés hay vocales <b>largas y tensas</b> (<code>ii</code>, <code>uu</code>) y <b>cortas y flojas</b> (<code>i</code>, <code>u</code>). No es solo cuestión de tiempo: en las largas la boca se tensa (sonrisa en <code>ii</code>, morrito en <code>uu</code>); en las cortas, <mark>todo se afloja</mark>. Y además, cualquier vocal se alarga un poco delante de una consonante sonora: bead dura más que beat (mapa C-14).",
+      "en": "English has long, tense vowels (ii, uu) and short, relaxed ones (i, u). Vowels also get longer before voiced consonants.",
+      "examples": [
+        {
+          "en": "sheep",
+          "say": "shiip",
+          "es": "oveja · larga",
+          "icon": "🐑"
+        },
+        {
+          "en": "ship",
+          "say": "ship",
+          "es": "barco · corta",
+          "icon": "🚢"
+        },
+        {
+          "en": "food",
+          "say": "fuud",
+          "es": "comida · larga",
+          "icon": "🍲"
+        },
+        {
+          "en": "good",
+          "say": "gud",
+          "es": "bueno · corta",
+          "icon": "👍"
+        },
+        {
+          "en": "leave",
+          "say": "liiv",
+          "es": "irse · larga",
+          "icon": "🚪"
+        },
+        {
+          "en": "live",
+          "say": "liv",
+          "es": "vivir · corta",
+          "icon": "🏡"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · La boca perezosa",
+      "title_en": "The lazy American mouth",
+      "icon": "😴",
+      "es": "El americano habla con la <b>mandíbula suelta</b> y los labios relajados, sin esfuerzo. Las sílabas fuertes salen claras, pero las débiles se encogen hasta una vocal mínima: la schwa <code>ə</code> (mapa V-01). Si dices todas las vocales enteras y con la boca tensa, sonarás «a español». <mark>Afloja</mark>: ¡hablar inglés cansa menos de lo que crees!",
+      "en": "Americans speak with a loose jaw and relaxed lips. Weak syllables shrink to a tiny vowel, the schwa.",
+      "examples": [
+        {
+          "en": "about",
+          "say": "əbáut",
+          "es": "sobre",
+          "icon": "💬"
+        },
+        {
+          "en": "banana",
+          "say": "bənǽnə",
+          "es": "plátano",
+          "icon": "🍌"
+        },
+        {
+          "en": "sofa",
+          "say": "sóufə",
+          "es": "sofá",
+          "icon": "🛋️"
+        },
+        {
+          "en": "today",
+          "say": "tədéi",
+          "es": "hoy",
+          "icon": "📅"
+        },
+        {
+          "en": "problem",
+          "say": "prábləm",
+          "es": "problema",
+          "icon": "🤯"
+        },
+        {
+          "en": "lemon",
+          "say": "lémən",
+          "es": "limón",
+          "icon": "🍋"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · La posición neutra",
+      "title_en": "The neutral position",
+      "icon": "😐",
+      "es": "Es el «punto de partida» del inglés: boca un poco abierta, labios sueltos y lengua quieta y plana en el suelo de la boca. Desde ahí, suelta la voz sin mover nada: sale <code>ə</code>, un sonido entre la e y la a. Es lo que dice un americano cuando duda: «uh…». Vuelve a esta posición entre palabra y palabra: <mark>relaja</mark> y empieza otra vez.",
+      "en": "Mouth slightly open, lips loose, tongue flat. Let your voice out without moving anything: that's the schwa, the sound Americans make when they hesitate.",
+      "examples": [
+        {
+          "en": "a",
+          "say": "ə",
+          "es": "un / una",
+          "icon": "☝️"
+        },
+        {
+          "en": "the",
+          "say": "də",
+          "es": "el / la",
+          "icon": "👉"
+        },
+        {
+          "en": "of",
+          "say": "əv",
+          "es": "de",
+          "icon": "🔗"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Español vs. inglés: así cambia tu boca",
+      "title_en": "Spanish vs. English: how your mouth changes",
+      "icon": "⚖️",
+      "head": [
+        "Parte",
+        "🇪🇸 En español",
+        "🇺🇸 En inglés americano",
+        "Ejemplo"
+      ],
+      "rows": [
+        [
+          "😮 Mandíbula",
+          "firme, se mueve poco",
+          "suelta; se abre mucho en /æ/ y /ɑ/",
+          "cat → <code>kæt</code>"
+        ],
+        [
+          "👄 Labios",
+          "redondos y tensos en o, u",
+          "relajados casi siempre",
+          "good → <code>gud</code>"
+        ],
+        [
+          "👅 Punta de la lengua",
+          "toca los dientes en t, d, n",
+          "toca la encía, detrás de los dientes",
+          "ten → <code>ten</code>"
+        ],
+        [
+          "👅 Lengua y R",
+          "toca y vibra: pe<b>r</b>o, pe<b>rr</b>o",
+          "se va hacia atrás, sin tocar nada",
+          "red → <code>red</code>"
+        ],
+        [
+          "🦷 Dientes",
+          "solo «miran»",
+          "trabajan: f, v y th",
+          "very → <code>véri</code>"
+        ],
+        [
+          "💨 Aire",
+          "p, t, k sin soplido",
+          "soplido al empezar sílaba fuerte",
+          "pen → <code>pen</code> 💨"
+        ],
+        [
+          "🐝 Garganta",
+          "la s casi nunca zumba",
+          "/z/ y /v/ zumban",
+          "zoo → <code>suu</code> 🐝"
+        ],
+        [
+          "⏱️ Vocales",
+          "5, todas del mismo largo",
+          "más de 15: largas, cortas, perezosas",
+          "sheep · ship"
+        ],
+        [
+          "🥁 Ritmo",
+          "todas las sílabas iguales",
+          "sílabas fuertes y débiles",
+          "banana → <code>bənǽnə</code>"
+        ]
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Parejas sordo-sonoro",
+      "title_en": "Voiceless-voiced pairs",
+      "icon": "👯",
+      "head": [
+        "Sordo · no vibra",
+        "Ejemplo",
+        "Sonoro · ¡vibra!",
+        "Ejemplo"
+      ],
+      "rows": [
+        [
+          "/p/",
+          "🥧 pie <code>pai</code>",
+          "/b/",
+          "🛒 buy <code>bai</code>"
+        ],
+        [
+          "/t/",
+          "⏰ time <code>taim</code>",
+          "/d/",
+          "🪙 dime <code>daim</code>"
+        ],
+        [
+          "/k/",
+          "🧥 coat <code>kout</code>",
+          "/g/",
+          "🐐 goat <code>gout</code>"
+        ],
+        [
+          "/f/",
+          "🌬️ fan <code>fæn</code>",
+          "/v/",
+          "🚐 van <code>væn</code>"
+        ],
+        [
+          "/s/",
+          "👩 Sue <code>suu</code>",
+          "/z/",
+          "🦓 zoo <code>suu</code> 🐝"
+        ],
+        [
+          "/tʃ/",
+          "💸 cheap <code>chiip</code>",
+          "/dʒ/",
+          "🚙 jeep <code>yiip</code>"
+        ]
+      ],
+      "note": "Cada pareja usa la <b>misma</b> boca: solo cambia la garganta. ¡Ojo! En la figurada, /s/ y /z/ se escriben igual (<code>s</code>): el zumbido lo pones tú 🐝.",
+      "note_en": "Each pair uses the same mouth position; only the voice changes."
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas para tu boca",
+      "title_en": "Anchors for your mouth",
+      "items": [
+        {
+          "en": "is",
+          "ipa": "ɪz",
+          "say": "is",
+          "es": "es / está",
+          "icon": "🟰",
+          "anchor": "<b>is</b>la 🏝️",
+          "tip": "En «isla» tu s ya vibra (¡compruébalo con la mano!). Usa esa s en is, has, was."
+        },
+        {
+          "en": "zoo",
+          "ipa": "zuː",
+          "say": "suu",
+          "es": "zoo",
+          "icon": "🦓",
+          "anchor": "mi<b>s</b>mo 🐝",
+          "tip": "Di «mismo» despacio: esa s zumba. Ahora pégale una u larga: <code>suu</code>."
+        },
+        {
+          "en": "two",
+          "ipa": "tuː",
+          "say": "tuu",
+          "es": "dos",
+          "icon": "2️⃣",
+          "anchor": "<b>tú</b> + 💨",
+          "tip": "Di «tú» soplando en la t y alargando la u."
+        },
+        {
+          "en": "key",
+          "ipa": "kiː",
+          "say": "kii",
+          "es": "llave",
+          "icon": "🔑",
+          "anchor": "a<b>quí</b> + 💨",
+          "tip": "Quédate con «quí», con soplido y bien larga."
+        },
+        {
+          "en": "pain",
+          "ipa": "peɪn",
+          "say": "pein",
+          "es": "dolor",
+          "icon": "🤕",
+          "anchor": "<b>pein</b>e + 💨",
+          "tip": "«Peine» sin la e final, con un soplido en la p."
+        },
+        {
+          "en": "ten",
+          "ipa": "tɛn",
+          "say": "ten",
+          "es": "diez",
+          "icon": "🔟",
+          "anchor": "<b>ten</b>go + 💨",
+          "tip": "La t, en la encía (no en los dientes) y con aire."
+        },
+        {
+          "en": "car",
+          "ipa": "kɑr",
+          "say": "kar",
+          "es": "coche",
+          "icon": "🚗",
+          "anchor": "<b>car</b>ta + 💨",
+          "tip": "Soplido en la k y R americana al final (mapa C-01)."
+        },
+        {
+          "en": "pool",
+          "ipa": "puːl",
+          "say": "puul",
+          "es": "piscina",
+          "icon": "🏊",
+          "anchor": "<b>pul</b>po 🐙 + 💨",
+          "tip": "Con soplido en la p, u larga y L oscura al final (mapa C-12)."
+        },
+        {
+          "en": "Ben",
+          "ipa": "bɛn",
+          "say": "ben",
+          "es": "Ben (nombre)",
+          "icon": "👦",
+          "anchor": "¡<b>ven</b>! 🙋",
+          "tip": "Ben = «¡ven!». Ojo: si dices pen sin soplido, ¡a un americano le suena a Ben!"
+        },
+        {
+          "en": "see",
+          "ipa": "siː",
+          "say": "sii",
+          "es": "ver",
+          "icon": "👀",
+          "anchor": "¡<b>sí</b>! (largo)",
+          "tip": "Un «sí» que dura el doble y con sonrisa: <code>sii</code>."
+        },
+        {
+          "en": "me",
+          "ipa": "miː",
+          "say": "mii",
+          "es": "me / mí",
+          "icon": "🙋",
+          "anchor": "para <b>mí</b> (largo)",
+          "tip": "Alarga y sonríe. ¡La garganta vibra desde la m!"
+        },
+        {
+          "en": "bus",
+          "ipa": "bʌs",
+          "say": "bas",
+          "es": "autobús",
+          "icon": "🚌",
+          "anchor": "<b>bas</b>ta ✋",
+          "tip": "Di «basta» con la boca floja y la a cortita: <code>bas</code>."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "paper",
+          "es": "papel"
+        },
+        {
+          "q": "people",
+          "es": "gente"
+        },
+        {
+          "q": "pen",
+          "es": "bolígrafo"
+        },
+        {
+          "q": "zoo",
+          "es": "zoo"
+        },
+        {
+          "q": "sheep",
+          "es": "oveja"
+        },
+        {
+          "q": "about",
+          "es": "sobre"
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "Con soplido o sin soplido",
+      "title_en": "With or without a puff",
+      "icon": "💨",
+      "items": [
+        {
+          "a": {
+            "en": "pen",
+            "ipa": "pɛn",
+            "say": "pen",
+            "es": "bolígrafo",
+            "icon": "🖊️"
+          },
+          "b": {
+            "en": "Ben",
+            "ipa": "bɛn",
+            "say": "ben",
+            "es": "Ben (nombre)",
+            "icon": "👦"
+          },
+          "tip": "Sin soplido, tu pen le suena a Ben."
+        },
+        {
+          "a": {
+            "en": "pie",
+            "ipa": "paɪ",
+            "say": "pai",
+            "es": "tarta",
+            "icon": "🥧"
+          },
+          "b": {
+            "en": "buy",
+            "ipa": "baɪ",
+            "say": "bai",
+            "es": "comprar",
+            "icon": "🛒"
+          },
+          "tip": "p con aire; b con voz."
+        },
+        {
+          "a": {
+            "en": "time",
+            "ipa": "taɪm",
+            "say": "taim",
+            "es": "tiempo / hora",
+            "icon": "⏰"
+          },
+          "b": {
+            "en": "dime",
+            "ipa": "daɪm",
+            "say": "daim",
+            "es": "moneda de 10 centavos",
+            "icon": "🪙"
+          },
+          "tip": "t con aire; d con voz."
+        },
+        {
+          "a": {
+            "en": "cold",
+            "ipa": "koʊld",
+            "say": "kould",
+            "es": "frío",
+            "icon": "🥶"
+          },
+          "b": {
+            "en": "gold",
+            "ipa": "goʊld",
+            "say": "gould",
+            "es": "oro",
+            "icon": "🥇"
+          },
+          "tip": "k con aire; g con voz."
+        },
+        {
+          "a": {
+            "en": "coat",
+            "ipa": "koʊt",
+            "say": "kout",
+            "es": "abrigo",
+            "icon": "🧥"
+          },
+          "b": {
+            "en": "goat",
+            "ipa": "goʊt",
+            "say": "gout",
+            "es": "cabra",
+            "icon": "🐐"
+          },
+          "tip": "¿Abrigo o cabra? ¡El soplido decide!"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para notar tu boca",
+      "title_en": "Sentences to feel your mouth",
+      "items": [
+        {
+          "en": "Put the paper in the pocket.",
+          "say": "pút də péiper in də pákit",
+          "es": "Mete el papel en el bolsillo.",
+          "icon": "📄"
+        },
+        {
+          "en": "Ten tall trees.",
+          "say": "ten tól tríis",
+          "es": "Diez árboles altos.",
+          "icon": "🌳"
+        },
+        {
+          "en": "Kate keeps the cat in the kitchen.",
+          "say": "kéit kíips də kǽt in də kíchən",
+          "es": "Kate tiene al gato en la cocina.",
+          "icon": "🐱"
+        },
+        {
+          "en": "Can I have a cup of tea?",
+          "say": "kən ai jǽv ə káp əv tíi?",
+          "es": "¿Me pones una taza de té?",
+          "icon": "🍵"
+        },
+        {
+          "en": "The zoo is very busy.",
+          "say": "də súu is véri bísi",
+          "es": "El zoo está lleno de gente.",
+          "icon": "🦓"
+        },
+        {
+          "en": "I have five vans.",
+          "say": "ai jæv fáiv vǽns",
+          "es": "Tengo cinco furgonetas.",
+          "icon": "🚐"
+        },
+        {
+          "en": "She sees the sheep.",
+          "say": "shi síis də shíip",
+          "es": "Ella ve la oveja.",
+          "icon": "🐑"
+        },
+        {
+          "en": "Look! A good book.",
+          "say": "luk! ə gud búk",
+          "es": "¡Mira! Un buen libro.",
+          "icon": "📖"
+        },
+        {
+          "en": "Cool! A blue pool.",
+          "say": "kúul! ə blúu púul",
+          "es": "¡Qué guay! Una piscina azul.",
+          "icon": "🏊"
+        },
+        {
+          "en": "Today is Saturday.",
+          "say": "tədéi is sǽrerdei",
+          "es": "Hoy es sábado.",
+          "icon": "📅"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "pen sin soplido",
+          "good": "<code>pen</code> + 💨",
+          "why": "Al empezar sílaba fuerte, p, t y k llevan aire. Sin él, suena a Ben.",
+          "why_en": "Add a puff of air, or pen sounds like Ben."
+        },
+        {
+          "bad": "zoo con la garganta apagada",
+          "good": "<code>suu</code> 🐝 con voz",
+          "why": "Si la garganta no vibra, dices «Sue».",
+          "why_en": "Switch your voice on, or zoo sounds like Sue."
+        },
+        {
+          "bad": "sheep → <code>ship</code>",
+          "good": "<code>shiip</code>",
+          "why": "Las vocales largas, largas y tensas, con sonrisa.",
+          "why_en": "Long vowels are long and tense."
+        },
+        {
+          "bad": "good → <code>guud</code>",
+          "good": "<code>gud</code>",
+          "why": "La u corta va floja y rápida, casi o.",
+          "why_en": "Short vowels are short and relaxed."
+        },
+        {
+          "bad": "banana → <code>banána</code> con boca tensa",
+          "good": "<code>bənǽnə</code>",
+          "why": "Afloja la boca en las sílabas débiles.",
+          "why_en": "Relax your mouth in weak syllables."
+        },
+        {
+          "bad": "ten con la t en los dientes",
+          "good": "t en la encía + 💨",
+          "why": "La punta de la lengua va detrás de los dientes, en la encía.",
+          "why_en": "The tongue tip goes on the gum ridge."
+        },
+        {
+          "bad": "very → <code>béri</code>",
+          "good": "<code>véri</code>",
+          "why": "Dientes de arriba sobre el labio de abajo, y garganta encendida.",
+          "why_en": "Top teeth on your bottom lip, voice on."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "La prueba del papel",
+      "title_en": "The paper test",
+      "lines": [
+        {
+          "who": "Ashley",
+          "en": "Hold this paper in front of your mouth.",
+          "say": "jóuld dis péiper in fránt əv ier máuz",
+          "es": "Sujeta este papel delante de la boca."
+        },
+        {
+          "who": "Mario",
+          "en": "Like this? Pen.",
+          "say": "láik dis? pen",
+          "es": "¿Así? Pen."
+        },
+        {
+          "who": "Ashley",
+          "en": "The paper didn't move. Try again!",
+          "say": "də péiper dídənt múuv. trai əguén!",
+          "es": "El papel no se ha movido. ¡Otra vez!"
+        },
+        {
+          "who": "Mario",
+          "en": "Pen! Pen! Pen!",
+          "say": "pen! pen! pen!",
+          "es": "¡Pen! ¡Pen! ¡Pen!"
+        },
+        {
+          "who": "Ashley",
+          "en": "Yes! Now it moves. That's an American P!",
+          "say": "iés! náu it múuvs. dæts ən əmérikən píi!",
+          "es": "¡Sí! Ahora se mueve. ¡Esa es una P americana!"
+        },
+        {
+          "who": "Mario",
+          "en": "Cool! Can I try «zoo»?",
+          "say": "kúul! kən ai trái súu?",
+          "es": "¡Guay! ¿Puedo probar con «zoo»?"
+        },
+        {
+          "who": "Ashley",
+          "en": "Sure! Put your hand on your throat.",
+          "say": "shur! put ier jǽnd an ier zróut",
+          "es": "¡Claro! Pon la mano en la garganta."
+        },
+        {
+          "who": "Mario",
+          "en": "It's buzzing like a bee!",
+          "say": "its básing láik ə bíi!",
+          "es": "¡Está zumbando como una abeja!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Gimnasia de boca en 5 pasos",
+      "title_en": "Mouth gym in 5 steps",
+      "icon": "🏋️",
+      "items": [
+        {
+          "es": "<b>Bosteza</b> suavemente 🥱 para soltar la mandíbula.",
+          "en": "Yawn gently to relax your jaw."
+        },
+        {
+          "es": "Mano en el cuello: «ffff… vvvv…» y «ssss…» con zumbido de abeja 🐝. Nota cómo se enciende la voz.",
+          "en": "Hand on your throat: feel the voice switch on."
+        },
+        {
+          "es": "Papel delante de la boca: «pen, ten, key». ¡Que se mueva!",
+          "en": "Paper in front of your mouth: pen, ten, key."
+        },
+        {
+          "es": "Espejo 🪞: compara sheep (sonrisa tensa) y ship (boca floja).",
+          "en": "Mirror: compare sheep and ship."
+        },
+        {
+          "es": "Posición neutra: boca suelta, di <code>ə</code> y descansa. Repite cada día.",
+          "en": "Neutral position: relax and say «uh». Repeat every day."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Peter Piper picked a peck of pickled peppers.",
+          "say": "píirer páiper pikt ə pek əv píkəld pépers",
+          "es": "Peter Piper cogió un montón de pimientos en vinagre."
+        },
+        {
+          "en": "Two tired toads tried to take a taxi.",
+          "say": "tuu táierd touds traid tə teik ə tǽksi",
+          "es": "Dos sapos cansados intentaron coger un taxi."
+        },
+        {
+          "en": "Very busy bees buzz in the zoo.",
+          "say": "véri bísi biis bas in də suu",
+          "es": "Abejas muy ocupadas zumban en el zoo."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El espejo y el papel",
+      "title_en": "Mirror and paper",
+      "es": "Ten siempre a mano dos herramientas gratis: un <b>espejo</b> 🪞 (para ver tu boca) y una <b>hoja de papel</b> 📄 (para ver tu aire). Y tu mano en el cuello te dice si la voz está encendida. ¡Tu propio cuerpo es tu mejor profe!",
+      "en": "Keep a mirror and a sheet of paper handy, and use your hand on your throat. Your body is your best teacher!"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Vibra o no vibra?",
+      "title_en": "Buzz or no buzz?",
+      "icon": "✋",
+      "es": "Di el <b>primer</b> sonido de cada palabra, alargándolo, con la mano en el cuello. ¿Vibra?",
+      "en": "Say the first sound with your hand on your throat. Does it buzz?",
+      "items": [
+        {
+          "q": "🌞 sun → [vibra|no vibra]",
+          "a": "no vibra"
+        },
+        {
+          "q": "🦓 zoo → [vibra|no vibra]",
+          "a": "vibra"
+        },
+        {
+          "q": "🐟 fish → [vibra|no vibra]",
+          "a": "no vibra"
+        },
+        {
+          "q": "🚐 van → [vibra|no vibra]",
+          "a": "vibra"
+        },
+        {
+          "q": "🌙 moon → [vibra|no vibra]",
+          "a": "vibra"
+        },
+        {
+          "q": "🤫 she → [vibra|no vibra]",
+          "a": "no vibra"
+        },
+        {
+          "q": "🐝 bee → [vibra|no vibra]",
+          "a": "vibra"
+        },
+        {
+          "q": "🥧 pie → [vibra|no vibra]",
+          "a": "no vibra"
+        },
+        {
+          "q": "🐶 dog → [vibra|no vibra]",
+          "a": "vibra"
+        },
+        {
+          "q": "🔑 key → [vibra|no vibra]",
+          "a": "no vibra"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Hay soplido?",
+      "title_en": "Is there a puff?",
+      "icon": "💨",
+      "es": "Mira la letra en azul. ¿Lleva soplido? Compruébalo con un papel.",
+      "en": "Look at the blue letter. Is there a puff of air?",
+      "items": [
+        {
+          "q": "<b>p</b>en → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "s<b>p</b>ort → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "<b>t</b>en → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "s<b>t</b>op → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "<b>k</b>ey → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "s<b>k</b>y → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "<b>c</b>at → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "com<b>p</b>uter → [sí|no]",
+          "a": "sí"
+        },
+        {
+          "q": "<b>b</b>ig → [sí|no]",
+          "a": "no"
+        },
+        {
+          "q": "s<b>p</b>eak → [sí|no]",
+          "a": "no"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Sordos y sonoros",
+      "title_en": "Voiceless and voiced",
+      "icon": "🐝",
+      "es": "Di cada sonido alargado con la mano en el cuello y escríbelo en su columna.",
+      "en": "Say each sound with your hand on your throat and sort it.",
+      "cats": [
+        {
+          "name": "🔇 Sordos (no vibra)",
+          "words": [
+            "p",
+            "t",
+            "k",
+            "f",
+            "s",
+            "sh",
+            "ch"
+          ]
+        },
+        {
+          "name": "🐝 Sonoros (¡vibra!)",
+          "words": [
+            "b",
+            "d",
+            "g",
+            "v",
+            "z",
+            "m",
+            "n",
+            "l"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Larga o corta?",
+      "title_en": "Long or short?",
+      "icon": "⏱️",
+      "es": "Di cada palabra y clasifícala según su vocal.",
+      "en": "Say each word and sort it by its vowel.",
+      "cats": [
+        {
+          "name": "⏳ Larga (ii, uu)",
+          "words": [
+            "sheep",
+            "see",
+            "eat",
+            "leave",
+            "food",
+            "blue",
+            "school",
+            "moon"
+          ]
+        },
+        {
+          "name": "⚡ Corta (i, u)",
+          "words": [
+            "ship",
+            "sit",
+            "it",
+            "live",
+            "good",
+            "book",
+            "look",
+            "pull"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Busca la pareja",
+      "title_en": "Find the pair",
+      "icon": "👯",
+      "es": "Une cada palabra con su pareja: la misma boca, pero ¡con la garganta encendida!",
+      "en": "Match each word with its voiced partner.",
+      "pairs": [
+        [
+          "pie",
+          "buy"
+        ],
+        [
+          "time",
+          "dime"
+        ],
+        [
+          "coat",
+          "goat"
+        ],
+        [
+          "fan",
+          "van"
+        ],
+        [
+          "Sue",
+          "zoo"
+        ],
+        [
+          "cheap",
+          "jeep"
+        ],
+        [
+          "cold",
+          "gold"
+        ],
+        [
+          "pen",
+          "Ben"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Ojo con las vocales largas (<code>ii</code>, <code>uu</code>) y cortas.",
+      "en": "Write how each word sounds.",
+      "items": [
+        {
+          "q": "📄 paper → ____",
+          "a": "péiper"
+        },
+        {
+          "q": "👨‍👩‍👧 people → ____",
+          "a": "píipəl"
+        },
+        {
+          "q": "💻 computer → ____",
+          "a": "kəmpiúrer"
+        },
+        {
+          "q": "🥔 potato → ____",
+          "a": "pətéirou"
+        },
+        {
+          "q": "🚪 leave → ____",
+          "a": "liiv"
+        },
+        {
+          "q": "🏡 live → ____",
+          "a": "liv"
+        },
+        {
+          "q": "🏊 pool → ____",
+          "a": "puul"
+        },
+        {
+          "q": "🥶 cold → ____",
+          "a": "kould"
+        },
+        {
+          "q": "🥇 gold → ____",
+          "a": "gould"
+        },
+        {
+          "q": "🐐 goat → ____",
+          "a": "gout"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "¿Dónde va el soplido?",
+      "title_en": "Where is the puff?",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Si empieza por p, t o k, ¡ahí va el soplido!",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "pa",
+            "per"
+          ],
+          "s": 0,
+          "es": "papel"
+        },
+        {
+          "syl": [
+            "po",
+            "ta",
+            "to"
+          ],
+          "s": 1,
+          "es": "patata"
+        },
+        {
+          "syl": [
+            "com",
+            "pu",
+            "ter"
+          ],
+          "s": 1,
+          "es": "ordenador"
+        },
+        {
+          "syl": [
+            "to",
+            "day"
+          ],
+          "s": 1,
+          "es": "hoy"
+        },
+        {
+          "syl": [
+            "ta",
+            "ble"
+          ],
+          "s": 0,
+          "es": "mesa"
+        },
+        {
+          "syl": [
+            "kit",
+            "chen"
+          ],
+          "s": 0,
+          "es": "cocina"
+        },
+        {
+          "syl": [
+            "Can",
+            "a",
+            "da"
+          ],
+          "s": 0,
+          "es": "Canadá"
+        },
+        {
+          "syl": [
+            "pi",
+            "an",
+            "o"
+          ],
+          "s": 1,
+          "es": "piano"
+        },
+        {
+          "syl": [
+            "tea",
+            "cher"
+          ],
+          "s": 0,
+          "es": "profesor"
+        },
+        {
+          "syl": [
+            "Pe",
+            "ter"
+          ],
+          "s": 0,
+          "es": "Pedro"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "Voiced sounds make your throat buzz.",
+          "a": true
+        },
+        {
+          "q": "The p in «sport» has a big puff of air.",
+          "a": false,
+          "why": "después de s no hay soplido"
+        },
+        {
+          "q": "In «pen», Americans add a puff of air after the p.",
+          "a": true
+        },
+        {
+          "q": "In English, all vowels are the same length.",
+          "a": false,
+          "why": "hay largas y cortas"
+        },
+        {
+          "q": "For t and d, the tongue tip touches the teeth.",
+          "a": false,
+          "why": "toca la encía, detrás de los dientes"
+        },
+        {
+          "q": "The schwa comes from a relaxed, neutral mouth.",
+          "a": true
+        },
+        {
+          "q": "F and v use the same mouth position.",
+          "a": true
+        },
+        {
+          "q": "American English sounds best with a very tense mouth.",
+          "a": false,
+          "why": "la boca va suelta"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa las parejas",
+      "title_en": "Complete the pairs",
+      "icon": "📋",
+      "es": "Completa cada pareja sordo-sonoro: misma boca, distinta garganta.",
+      "en": "Complete each voiceless-voiced pair.",
+      "head": [
+        "Sordo",
+        "Palabra",
+        "Sonoro",
+        "Palabra"
+      ],
+      "rows": [
+        [
+          "p",
+          "pie",
+          "?b",
+          "?buy"
+        ],
+        [
+          "t",
+          "?time",
+          "d",
+          "dime"
+        ],
+        [
+          "k",
+          "coat",
+          "?g",
+          "?goat"
+        ],
+        [
+          "?f",
+          "fan",
+          "v",
+          "?van"
+        ],
+        [
+          "s",
+          "?Sue",
+          "?z",
+          "zoo"
+        ],
+        [
+          "ch",
+          "cheap",
+          "?j",
+          "?jeep"
+        ]
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la figurada",
+      "title_en": "Fix the sound spelling",
+      "icon": "🩹",
+      "es": "Cada figurada tiene un fallo de vocal o de acento. Escríbela bien.",
+      "en": "Each sound spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "sheep → <code>ship</code>",
+          "a": "shiip"
+        },
+        {
+          "q": "good → <code>guud</code>",
+          "a": "gud"
+        },
+        {
+          "q": "food → <code>fud</code>",
+          "a": "fuud"
+        },
+        {
+          "q": "banana → <code>banána</code>",
+          "a": "bənǽnə"
+        },
+        {
+          "q": "sofa → <code>sófa</code>",
+          "a": "sóufə"
+        },
+        {
+          "q": "paper → <code>papér</code>",
+          "a": "péiper"
+        },
+        {
+          "q": "leave → <code>liv</code>",
+          "a": "liiv"
+        },
+        {
+          "q": "lemon → <code>lemón</code>",
+          "a": "lémən"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Afloja la boca",
+      "title_en": "Relax your mouth",
+      "icon": "😴",
+      "es": "Escribe la figurada con <code>ə</code> en las sílabas débiles y tilde en la fuerte.",
+      "en": "Write the sound spelling with a schwa in the weak syllables.",
+      "items": [
+        {
+          "q": "about",
+          "a": "əbáut"
+        },
+        {
+          "q": "banana",
+          "a": "bənǽnə"
+        },
+        {
+          "q": "today",
+          "a": "tədéi"
+        },
+        {
+          "q": "problem",
+          "a": "prábləm"
+        },
+        {
+          "q": "lemon",
+          "a": "lémən"
+        },
+        {
+          "q": "Canada",
+          "a": "kǽnədə"
+        },
+        {
+          "q": "sofa",
+          "a": "sóufə"
+        },
+        {
+          "q": "America",
+          "a": "əmérikə"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de la boca",
+      "title_en": "Mouth word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras sobre la boca. Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 words about the mouth.",
+      "words": [
+        "voice",
+        "throat",
+        "tongue",
+        "teeth",
+        "lips",
+        "jaw",
+        "air",
+        "paper",
+        "mirror",
+        "relax"
+      ],
+      "clues": [
+        "voice · voz",
+        "throat · garganta",
+        "tongue · lengua",
+        "teeth · dientes",
+        "lips · labios",
+        "jaw · mandíbula",
+        "air · aire",
+        "paper · papel",
+        "mirror · espejo",
+        "relax · relajarse"
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido): con papel, con la mano en el cuello y delante del espejo.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Peter Piper picked a peck.",
+          "say": "píirer páiper pikt ə pek"
+        },
+        {
+          "q": "Put the paper in the pocket.",
+          "say": "pút də péiper in də pákit"
+        },
+        {
+          "q": "Kate keeps the cat in the kitchen.",
+          "say": "kéit kíips də kǽt in də kíchən"
+        },
+        {
+          "q": "The zoo is very busy.",
+          "say": "də súu is véri bísi"
+        },
+        {
+          "q": "Look! A good book.",
+          "say": "luk! ə gud búk"
+        },
+        {
+          "q": "Cool! A blue pool.",
+          "say": "kúul! ə blúu púul"
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Ashley's mouth gym",
+      "text": [
+        "Every morning, Ashley does her «mouth gym». First, she yawns to relax her jaw. Then she puts her hand on her throat and says «ffff» and «vvvv». With «vvvv», her throat buzzes like a bee.",
+        "Next, she holds a piece of paper in front of her mouth and says «pen, ten, key». The paper moves every time! Last, she looks in the mirror and says «sheep» with a big smile and «ship» with a lazy mouth."
+      ],
+      "items": [
+        {
+          "q": "Why does Ashley yawn?",
+          "a": "To relax her jaw."
+        },
+        {
+          "q": "Which sound makes her throat buzz: «ffff» or «vvvv»?",
+          "a": "«vvvv»: /v/ es sonora."
+        },
+        {
+          "q": "What does she hold in front of her mouth?",
+          "a": "A piece of paper."
+        },
+        {
+          "q": "The paper moves when she says «pen».",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "She says «ship» with a big smile.",
+          "tf": true,
+          "a": false,
+          "why": "la sonrisa es para sheep"
+        },
+        {
+          "q": "Ashley does her mouth gym every evening.",
+          "tf": true,
+          "a": false,
+          "why": "every morning"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé si un sonido es sordo o sonoro poniendo la mano en el cuello.",
+      "en": "I can feel if a sound is voiced or voiceless."
+    },
+    {
+      "es": "Digo pen, ten y key con soplido (¡el papel se mueve!).",
+      "en": "I say pen, ten and key with a puff of air."
+    },
+    {
+      "es": "Sé que después de s no hay soplido: sport, stop, sky.",
+      "en": "I know there's no puff after s."
+    },
+    {
+      "es": "Distingo vocales largas y cortas: <code>shiip</code> / <code>ship</code>, <code>fuud</code> / <code>gud</code>.",
+      "en": "I can make long and short vowels."
+    },
+    {
+      "es": "Hablo con la mandíbula suelta y digo las sílabas débiles con <code>ə</code>.",
+      "en": "I relax my jaw and use the schwa."
+    },
+    {
+      "es": "Conozco la posición neutra y vuelvo a ella para relajar.",
+      "en": "I know the neutral position."
+    }
+  ]
+}

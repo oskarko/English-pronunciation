@@ -1,0 +1,707 @@
+{
+  "id": "V-08",
+  "block": "V",
+  "title": "OU <em>y</em> AU",
+  "file_title": "OU y AU (/oʊ/ y /aʊ/)",
+  "subtitle": "Go home now · no es «no», es «nou»",
+  "icon": "🏠",
+  "map": {
+    "center": "Dos diptongos que terminan en <b>u</b>: <b>OU</b> (no es «no», es <code>nou</code>) y <b>AU</b> (now = <code>nau</code>).",
+    "listen": "home",
+    "nodes": [
+      {
+        "title": "OU /oʊ/",
+        "icon": "👋",
+        "color": "green",
+        "rows": [
+          ["go", "<code>gou</code>"],
+          ["no", "<code>nou</code>"],
+          ["phone", "<code>foun</code>"]
+        ]
+      },
+      {
+        "title": "AU /aʊ/",
+        "icon": "🏡",
+        "color": "blue",
+        "rows": [
+          ["now", "<code>nau</code>"],
+          ["how", "<code>jau</code>"],
+          ["out", "<code>aut</code>"]
+        ]
+      },
+      {
+        "title": "Así se pone la boca",
+        "icon": "👄",
+        "color": "purple",
+        "items": [
+          "empieza en <b>o</b> o en <b>a</b>",
+          "termina cerrando los labios en <b>u</b> 😗",
+          "¡la boca se <b>mueve</b>!"
+        ]
+      },
+      {
+        "title": "OW: ¡dos sonidos!",
+        "icon": "🦉",
+        "color": "orange",
+        "items": [
+          "sn<b>ow</b>, kn<b>ow</b>, yell<b>ow</b> → <code>ou</code>",
+          "n<b>ow</b>, h<b>ow</b>, d<b>ow</b>n → <code>au</code>",
+          "know = no, pero now ≠ no"
+        ]
+      },
+      {
+        "title": "¡Ojo! want ≠ won't",
+        "icon": "⚠️",
+        "color": "pink",
+        "items": [
+          "want <code>want</code> = querer",
+          "won't <code>wount</code> = no voy a",
+          "cold <code>kould</code> ≠ called <code>kold</code>"
+        ]
+      },
+      {
+        "title": "Ancla española",
+        "icon": "⚓",
+        "color": "yellow",
+        "rows": [
+          ["how", "<code>jau</code> · <b>jau</b>la"],
+          ["out", "<code>aut</code> · <b>aut</b>obús"],
+          ["go", "<code>gou</code> · <b>Gou</b>da 🧀"]
+        ],
+        "art": "🚌"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["<code>no</code>, <code>fon</code> (o plana)"],
+      "good": ["<code>nou</code>, <code>foun</code> 📱"],
+      "note": "Con la o plana suenas extranjero: ¡cierra en u, como un besito!"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "📱 phone → ____", "a": "foun" },
+        { "q": "🏠 home → ____", "a": "joum" },
+        { "q": "⏰ now → ____", "a": "nau" },
+        { "q": "🏡 house → ____", "a": "jaus" },
+        { "q": "👋 hello → ____", "a": "jəlóu" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿OU? ¿AU?",
+      "title_en": "/oʊ/ and /aʊ/",
+      "icon": "🔎",
+      "es": "Igual que en el mapa V-07, aquí tienes <b>diptongos</b>: dos vocales en un solo golpe. Pero estos terminan en <b>u</b>, con los labios cerrándose como para un besito. El <b>AU</b> lo conoces de sobra: j<b>au</b>la, <b>au</b>tobús. El <b>OU</b> es el que más nos cuesta, porque <mark>la O inglesa casi nunca es una o «plana» como la nuestra</mark>. Por eso no, go o phone suenan <code>nou</code>, <code>gou</code>, <code>foun</code>.",
+      "en": "These diphthongs end in u, with your lips closing. /aʊ/ is the «au» in Spanish «jaula». /oʊ/ is harder: no, go and phone sound «nou», «gou», «foun».",
+      "formula": ["*o* + u → ou (go)", "*a* + u → au (now)"]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "jaw",
+          "es": "En <b>au</b> empiezas con la boca <b>muy abierta</b> (a) y la vas cerrando. En <b>ou</b> empiezas medio abierta (o).",
+          "en": "For /aʊ/ start wide open; for /oʊ/ start half open. Then close."
+        },
+        {
+          "part": "lips",
+          "es": "Al final, los labios se <b>cierran y se redondean</b> hacia la u, como para silbar o dar un besito 😗.",
+          "en": "At the end, your lips close and round towards u."
+        },
+        {
+          "part": "tongue",
+          "es": "La parte de atrás de la lengua sube un poco al final, hacia la posición de la u.",
+          "en": "The back of the tongue rises a little at the end."
+        },
+        {
+          "part": "ear",
+          "es": "La primera vocal es <b>larga y fuerte</b>; la u final, suave y rápida. Si al principio no la oyes, ¡exagérala!",
+          "en": "The first vowel is long and strong; the final u is soft and quick."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · OU: no es «no», es «nou»",
+      "title_en": "/oʊ/ as in go",
+      "icon": "👋",
+      "es": "La O inglesa que «dice su nombre» no se queda quieta: <b>se cierra en u</b>. Aparece con <b>O al final</b> (go, no, so, hello), <b>O + consonante + E</b> (home, phone, nose), <b>OA</b> (boat, road, coat), <b>OW</b> (snow, know, yellow), <b>OLD / OLL / OST</b> (cold, roll, most) y en palabras como though o soul. <mark>Es el nombre de la letra O en inglés.</mark>",
+      "en": "/oʊ/ glides from o to u: go, home, boat, snow, cold. It's the name of the letter O.",
+      "examples": [
+        { "en": "go", "say": "gou", "es": "ir", "icon": "🏃" },
+        { "en": "no", "say": "nou", "es": "no", "icon": "🙅" },
+        { "en": "home", "say": "joum", "es": "casa, hogar", "icon": "🏠" },
+        { "en": "phone", "say": "foun", "es": "teléfono, móvil", "icon": "📱" },
+        { "en": "boat", "say": "bout", "es": "barco", "icon": "⛵" },
+        { "en": "snow", "say": "snou", "es": "nieve", "icon": "❄️" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · AU: now, how, out",
+      "title_en": "/aʊ/ as in now",
+      "icon": "🏡",
+      "es": "Es la «au» de j<b>au</b>la y <b>au</b>tobús: boca muy abierta que se cierra en u. Se escribe <b>OU</b> (out, house, mouse, cloud, sound) u <b>OW</b> (now, how, cow, down, brown). ¡Ojo! Las letras <b>OU</b> casi nunca se leen «ou»: out = <code>aut</code>, house = <code>jaus</code>.",
+      "en": "/aʊ/ is the «au» in Spanish «jaula». It's spelled ou (out, house) or ow (now, how, down).",
+      "examples": [
+        { "en": "now", "say": "nau", "es": "ahora", "icon": "⏰" },
+        { "en": "how", "say": "jau", "es": "cómo", "icon": "❓" },
+        { "en": "out", "say": "aut", "es": "fuera", "icon": "🚪" },
+        { "en": "house", "say": "jaus", "es": "casa", "icon": "🏡" },
+        { "en": "mouse", "say": "maus", "es": "ratón", "icon": "🐭" },
+        { "en": "down", "say": "daun", "es": "abajo", "icon": "⬇️" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · OW: ¿ou o au?",
+      "title_en": "OW: /oʊ/ or /aʊ/?",
+      "icon": "🦉",
+      "es": "Las letras <b>OW</b> tienen <b>dos</b> sonidos y no hay una regla fija: snow, know, show, yellow → <code>ou</code>; now, how, cow, down, owl → <code>au</code>. ¡Hasta hay palabras con los dos! <b>Bow</b> es <code>bou</code> (lazo, arco) o <code>bau</code> (reverencia). Una pista: <mark>cuando OW va al final y sin golpe (YEL-low, WIN-dow), casi siempre es ou</mark>.",
+      "en": "OW can be /oʊ/ (snow, know, yellow) or /aʊ/ (now, how, down). At the end of a word, unstressed, it's usually /oʊ/.",
+      "examples": [
+        { "en": "snow", "say": "snou", "es": "nieve", "icon": "❄️" },
+        { "en": "know", "say": "nou", "es": "saber", "icon": "🧠" },
+        { "en": "yellow", "say": "iélou", "es": "amarillo", "icon": "💛" },
+        { "en": "now", "say": "nau", "es": "ahora", "icon": "⏰" },
+        { "en": "cow", "say": "kau", "es": "vaca", "icon": "🐄" },
+        { "en": "owl", "say": "aul", "es": "búho", "icon": "🦉" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Palabras que acaban en O",
+      "title_en": "Words ending in O",
+      "icon": "🍅",
+      "es": "Muchas palabras que también tenemos en español acaban en O: tomato, potato, radio, video, piano, hello. En inglés esa O final <b>se cierra en u</b>: <code>təméirou</code>, <code>réidiou</code>. Si la dices como en español, se te nota el acento enseguida. (En P-01 tienes muchas más.)",
+      "en": "Final O in words like tomato, radio, video or piano sounds /oʊ/.",
+      "examples": [
+        { "en": "hello", "say": "jəlóu", "es": "hola", "icon": "👋" },
+        { "en": "tomato", "say": "təméirou", "es": "tomate", "icon": "🍅" },
+        { "en": "potato", "say": "pətéirou", "es": "patata", "icon": "🥔" },
+        { "en": "radio", "say": "réidiou", "es": "radio", "icon": "📻" },
+        { "en": "video", "say": "vídiou", "es": "vídeo", "icon": "🎬" },
+        { "en": "piano", "say": "piǽnou", "es": "piano", "icon": "🎹" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · want ≠ won't, cold ≠ called",
+      "title_en": "Pairs that change the meaning",
+      "icon": "⚠️",
+      "es": "Dos parejas que pueden meterte en un lío. <b>Want</b> (querer) lleva la a abierta de V-05: <code>want</code>. <b>Won't</b> (= will not, «no voy a») lleva OU: <code>wount</code>. ¡«I want to go» y «I won't go» significan lo contrario! Y <b>cold</b> (frío) es <code>kould</code>, mientras que <b>called</b> (llamó) es <code>kold</code>, con o abierta y sin u (o <code>kald</code>, V-05).",
+      "en": "Want /wɑnt/ vs won't /woʊnt/, and cold /koʊld/ vs called /kɔld/: these pairs can change your meaning.",
+      "examples": [
+        { "en": "want", "say": "want", "es": "querer", "icon": "🙋" },
+        { "en": "won't", "say": "wount", "es": "no (voy a)", "icon": "🙅" },
+        { "en": "cold", "say": "kould", "es": "frío", "icon": "🥶" },
+        { "en": "called", "say": "kold", "es": "llamó, llamado", "icon": "📞" },
+        { "en": "coat", "say": "kout", "es": "abrigo", "icon": "🧥" },
+        { "en": "caught", "say": "kot", "es": "pillado", "icon": "🎣" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "go", "ipa": "ɡoʊ", "say": "gou", "es": "ir", "icon": "🏃", "anchor": "<b>Gou</b>da 🧀", "tip": "Como el queso: Gou-da. Let's go = <code>lets góu</code>." },
+        { "en": "no", "ipa": "noʊ", "say": "nou", "es": "no", "icon": "🙅", "anchor": "Camp <b>Nou</b> ⚽", "tip": "Como el estadio del Barça. Así suena el «no» inglés… ¡y know (saber)!" },
+        { "en": "low", "ipa": "loʊ", "say": "lou", "es": "bajo", "icon": "⬇️", "anchor": "<b>Lou</b>rdes 👩", "tip": "Di «Lourdes» y quédate en «Lou». Low = bajo." },
+        { "en": "OK", "ipa": "oʊˈkeɪ", "say": "oukéi", "es": "vale", "icon": "👌", "anchor": "<s>okéi</s> → <b>ou</b>KÉI", "tip": "Empieza con OU, no con o, y el golpe va al final: ou-KÉI." },
+        { "en": "hello", "ipa": "həˈloʊ", "say": "jəlóu", "es": "hola", "icon": "👋", "anchor": "<s>jélo</s> → jə<b>LÓU</b>", "tip": "El golpe va al final y termina en u: jə-LÓU." },
+        { "en": "photo", "ipa": "ˈfoʊɾoʊ", "say": "fóurou", "es": "foto", "icon": "📸", "anchor": "<s>fóto</s> → <b>FÓU</b>rou", "tip": "¡Dos OU! Y la T suena r (C-02): FÓU-rou." },
+        { "en": "video", "ipa": "ˈvɪdioʊ", "say": "vídiou", "es": "vídeo", "icon": "🎬", "anchor": "<s>vídeo</s> → <b>VÍ</b>diou", "tip": "La E suena i y la O final se cierra en u: VÍ-di-ou." },
+        { "en": "bowl", "ipa": "boʊl", "say": "boul", "es": "bol, cuenco", "icon": "🥣", "anchor": "<s>bol</s> → <b>boul</b>", "tip": "¡Sorpresa! «Bol» viene de bowl, pero en inglés es <code>boul</code>. Ball sí suena <code>bol</code> (V-05)." },
+        { "en": "won't", "ipa": "woʊnt", "say": "wount", "es": "no (voy a)", "icon": "🙅", "anchor": "<s>wont</s> → <b>wount</b>", "tip": "Sin la u se parece a want (querer). ¡Y significa lo contrario!" },
+        { "en": "how", "ipa": "haʊ", "say": "jau", "es": "cómo", "icon": "❓", "anchor": "<b>jau</b>la 🐦", "tip": "How? ¡Como un pájaro en su jaula! Con j suave (C-06)." },
+        { "en": "out", "ipa": "aʊt", "say": "aut", "es": "fuera", "icon": "🚪", "anchor": "<b>aut</b>obús 🚌", "tip": "Get out = <code>gueráut</code>: ¡bájate del autobús!" },
+        { "en": "now", "ipa": "naʊ", "say": "nau", "es": "ahora", "icon": "⏰", "anchor": "astro<b>nau</b>ta 🚀", "tip": "¡El astronauta despega ahora mismo! Right now = <code>ráit náu</code>." },
+        { "en": "wow", "ipa": "waʊ", "say": "wau", "es": "¡hala!, ¡guau!", "icon": "🤩", "anchor": "¡<b>guau</b>! 🐶", "tip": "El «¡guau!» de sorpresa (y el de Rocky). Sin g: uau." },
+        { "en": "meow", "ipa": "miˈaʊ", "say": "miáu", "es": "miau", "icon": "🐱", "anchor": "¡<b>miau</b>! 🐱", "tip": "¡El gato americano dice casi lo mismo que el español!" },
+        { "en": "ouch", "ipa": "aʊtʃ", "say": "auch", "es": "¡ay!", "icon": "🤕", "anchor": "¡<b>auch</b>! 🤕", "tip": "Lo que gritas al darte un golpe. ¡Es inglés de verdad!" },
+        { "en": "cloud", "ipa": "klaʊd", "say": "klaud", "es": "nube", "icon": "☁️", "anchor": "<b>Claud</b>ia 👧", "tip": "Claudia mira las nubes: cloud. Una sola sílaba: klaud." }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "go", "es": "ir" },
+        { "q": "phone", "es": "teléfono" },
+        { "q": "hello", "es": "hola" },
+        { "q": "now", "es": "ahora" },
+        { "q": "house", "es": "casa" },
+        { "q": "about", "es": "sobre" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Cómo se escribe OU y AU?",
+      "title_en": "How are /oʊ/ and /aʊ/ spelled?",
+      "icon": "🧭",
+      "head": ["Sonido", "Letras · Letters", "Ejemplos", "Suena"],
+      "rows": [
+        ["/oʊ/", "O al final", "go, no, so, hello", "<code>gou</code>, <code>nou</code>"],
+        ["/oʊ/", "O + consonante + E", "home, phone, nose", "<code>joum</code>, <code>foun</code>"],
+        ["/oʊ/", "OA", "boat, road, coat", "<code>bout</code>, <code>roud</code>"],
+        ["/oʊ/", "OW", "snow, show, know, yellow", "<code>snou</code>, <code>shou</code>"],
+        ["/oʊ/", "OLD · OLL · OST", "cold, old, roll, most", "<code>kould</code>, <code>moust</code>"],
+        ["/aʊ/", "OU", "out, house, cloud, sound", "<code>aut</code>, <code>jaus</code>"],
+        ["/aʊ/", "OW", "now, how, cow, down", "<code>nau</code>, <code>daun</code>"]
+      ],
+      "note": "<b>¡Ojo!</b> OU es muy rebelde: out (<code>aut</code>), soup (<code>suup</code>), touch (<code>tach</code>), could (<code>kud</code>), though (<code>dou</code>)… Lo verás en P-06. Y OW puede ser <code>ou</code> u <code>au</code>.",
+      "note_en": "OU is a rebel: out, soup, touch, could, though all sound different. OW can be /oʊ/ or /aʊ/."
+    },
+    {
+      "t": "stress",
+      "title": "¿Dónde está el golpe?",
+      "title_en": "Where is the stress?",
+      "icon": "🥁",
+      "es": "Mira dónde cae el golpe (●). Aunque la OU final no lleve el golpe, <b>la u se sigue oyendo</b>.",
+      "en": "Even when the final /oʊ/ is unstressed, you can still hear the u.",
+      "items": [
+        { "syl": ["hel", "lo"], "s": 1, "say": "jəlóu", "es": "hola", "icon": "👋" },
+        { "syl": ["to", "ma", "to"], "s": 1, "say": "təméirou", "es": "tomate", "icon": "🍅" },
+        { "syl": ["ra", "di", "o"], "s": 0, "say": "réidiou", "es": "radio", "icon": "📻" },
+        { "syl": ["vi", "de", "o"], "s": 0, "say": "vídiou", "es": "vídeo", "icon": "🎬" },
+        { "syl": ["win", "dow"], "s": 0, "say": "wíndou", "es": "ventana", "icon": "🪟" },
+        { "syl": ["yel", "low"], "s": 0, "say": "iélou", "es": "amarillo", "icon": "💛" },
+        { "syl": ["a", "bout"], "s": 1, "say": "əbáut", "es": "sobre, acerca de", "icon": "💬" },
+        { "syl": ["al", "low"], "s": 1, "say": "əláu", "es": "permitir", "icon": "✅" }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "¿O abierta u OU?",
+      "title_en": "/ɔ/ or /oʊ/?",
+      "icon": "👂",
+      "items": [
+        {
+          "a": { "en": "coat", "ipa": "koʊt", "say": "kout", "es": "abrigo", "icon": "🧥" },
+          "b": { "en": "caught", "ipa": "kɔt", "say": "kot", "es": "pillado", "icon": "🎣" },
+          "tip": "Coat se cierra en u; caught se queda abierta (o <code>kat</code>, V-05)."
+        },
+        {
+          "a": { "en": "low", "ipa": "loʊ", "say": "lou", "es": "bajo", "icon": "⬇️" },
+          "b": { "en": "law", "ipa": "lɔ", "say": "lo", "es": "ley", "icon": "⚖️" },
+          "tip": "Low = <code>lou</code>, con besito al final. Law = <code>lo</code>, boca abierta."
+        },
+        {
+          "a": { "en": "bowl", "ipa": "boʊl", "say": "boul", "es": "bol, cuenco", "icon": "🥣" },
+          "b": { "en": "ball", "ipa": "bɔl", "say": "bol", "es": "pelota", "icon": "⚽" },
+          "tip": "¡Lío! Nuestro «bol» es bowl (<code>boul</code>), y ball suena <code>bol</code>."
+        },
+        {
+          "a": { "en": "cold", "ipa": "koʊld", "say": "kould", "es": "frío", "icon": "🥶" },
+          "b": { "en": "called", "ipa": "kɔld", "say": "kold", "es": "llamó", "icon": "📞" },
+          "tip": "Mom called. It's cold! = <code>mam kóld. its kóuld!</code>"
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "¿OU o AU?",
+      "title_en": "/oʊ/ or /aʊ/?",
+      "icon": "🎯",
+      "items": [
+        {
+          "a": { "en": "no", "ipa": "noʊ", "say": "nou", "es": "no", "icon": "🙅" },
+          "b": { "en": "now", "ipa": "naʊ", "say": "nau", "es": "ahora", "icon": "⏰" },
+          "tip": "No, not now! = <code>nóu, nat náu!</code> ¡Ahora no!"
+        },
+        {
+          "a": { "en": "load", "ipa": "loʊd", "say": "loud", "es": "carga", "icon": "📦" },
+          "b": { "en": "loud", "ipa": "laʊd", "say": "laud", "es": "fuerte, ruidoso", "icon": "🔊" },
+          "tip": "¡Trampa! Load suena <code>loud</code>, y loud suena <code>laud</code>."
+        },
+        {
+          "a": { "en": "coach", "ipa": "koʊtʃ", "say": "kouch", "es": "entrenador", "icon": "🏅" },
+          "b": { "en": "couch", "ipa": "kaʊtʃ", "say": "kauch", "es": "sofá", "icon": "🛋️" },
+          "tip": "¡El entrenador (coach) está tirado en el sofá (couch)!"
+        },
+        {
+          "a": { "en": "tone", "ipa": "toʊn", "say": "toun", "es": "tono", "icon": "🎵" },
+          "b": { "en": "town", "ipa": "taʊn", "say": "taun", "es": "pueblo", "icon": "🏘️" },
+          "tip": "Tone = <code>toun</code> (o + u); town = <code>taun</code> (a + u)."
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "Oh no!", "spoken": "Ohh nooo!", "say": "ou nóu!", "es": "¡Oh, no!" },
+        { "written": "How are you?", "spoken": "How-wer ya?", "say": "jáu ər iu?", "es": "¿Qué tal?" },
+        { "written": "Get out!", "spoken": "Gedd-out!", "say": "gueráut!", "es": "¡Fuera! / ¡No me digas!" },
+        { "written": "Go home!", "spoken": "Go home!", "say": "gou jóum!", "es": "¡Vete a casa!" },
+        { "written": "Slow down!", "spoken": "Slow down!", "say": "slóu dáun!", "es": "¡Más despacio!" },
+        { "written": "Shout it out loud!", "spoken": "Shou-di-dout loud!", "say": "sháuriráut láud!", "es": "¡Grítalo bien fuerte!" }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "Hello! How are you?", "say": "jəlóu! jáu ər iu?", "es": "¡Hola! ¿Qué tal?", "icon": "👋" },
+        { "en": "Where is my phone?", "say": "wér is mai fóun?", "es": "¿Dónde está mi móvil?", "icon": "📱" },
+        { "en": "Let's go home now.", "say": "lets góu jóum náu", "es": "Vámonos a casa ya.", "icon": "🏠" },
+        { "en": "It's cold. Close the window!", "say": "its kóuld. klóus də wíndou!", "es": "Hace frío. ¡Cierra la ventana!", "icon": "🥶" },
+        { "en": "There's a mouse in the house!", "say": "ders ə máus in də jáus!", "es": "¡Hay un ratón en la casa!", "icon": "🐭" },
+        { "en": "Look at the snow! Wow!", "say": "lúkət də snóu! wáu!", "es": "¡Mira la nieve! ¡Hala!", "icon": "❄️" },
+        { "en": "The yellow boat is slow.", "say": "də iélou bóut is slóu", "es": "El barco amarillo es lento.", "icon": "⛵" },
+        { "en": "Sit down on the couch.", "say": "sit dáun an də káuch", "es": "Siéntate en el sofá.", "icon": "🛋️" },
+        { "en": "I won't go out tonight.", "say": "ai wóunt gou áut tənáit", "es": "Esta noche no voy a salir.", "icon": "🙅" },
+        { "en": "How about a photo?", "say": "jau əbáurə fóurou?", "es": "¿Qué tal una foto?", "icon": "📸" },
+        { "en": "Don't shout! It's too loud.", "say": "dóunt sháut! its tuu láud", "es": "¡No grites! Está demasiado alto.", "icon": "🔊" },
+        { "en": "Tomatoes and potatoes, please!", "say": "təméirous ən pətéirous, pliis!", "es": "¡Tomates y patatas, por favor!", "icon": "🍅" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "no → <code>no</code> (o plana)", "good": "<code>nou</code>", "why": "La O que dice su nombre se cierra en u.", "why_en": "This O glides to u: /noʊ/." },
+        { "bad": "phone → <code>fon</code>", "good": "<code>foun</code>", "why": "O + consonante + E suena <code>ou</code>, y la E final no suena.", "why_en": "O + consonant + E sounds /oʊ/." },
+        { "bad": "won't → <code>wont</code>", "good": "<code>wount</code>", "why": "Sin la u suena casi a want (querer): ¡dices lo contrario!", "why_en": "Without the u it sounds like want." },
+        { "bad": "house → <code>jóuse</code>", "good": "<code>jaus</code>", "why": "OU se lee <code>au</code> y la E final no suena.", "why_en": "OU sounds /aʊ/; the final E is silent." },
+        { "bad": "hello → <code>jélo</code>", "good": "<code>jəlóu</code>", "why": "El golpe va al final, y la O se cierra en u.", "why_en": "Stress the end: heh-LOW." },
+        { "bad": "snow → <code>snau</code>", "good": "<code>snou</code>", "why": "Esta OW es <code>ou</code>, como en know y show. La de now es otra.", "why_en": "This OW sounds /oʊ/, like in know." },
+        { "bad": "about → <code>abóut</code>", "good": "<code>əbáut</code>", "why": "OU suena <code>au</code>, y la A del principio es schwa (V-01).", "why_en": "OU is /aʊ/ and the first A is a schwa." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Un día de nieve",
+      "title_en": "A snow day",
+      "lines": [
+        { "who": "Lucía", "en": "Mario! Look out the window! It's snowing!", "say": "mário! luk áut də wíndou! its snóuing!", "es": "¡Mario! ¡Mira por la ventana! ¡Está nevando!" },
+        { "who": "Mario", "en": "Wow! Let's go out now!", "say": "wáu! lets gou áut náu!", "es": "¡Hala! ¡Vamos a salir ya!" },
+        { "who": "Lucía", "en": "OK, but it's cold. Put on your coat.", "say": "oukéi, bət its kóuld. purán iur kóut", "es": "Vale, pero hace frío. Ponte el abrigo." },
+        { "who": "Mario", "en": "I don't want my coat. I'm not cold!", "say": "ai dóun wánt mai kóut. aim nat kóuld!", "es": "No quiero el abrigo. ¡No tengo frío!" },
+        { "who": "Lucía", "en": "Mom said: no coat, no snow!", "say": "mam sed: nóu kóut, nóu snóu!", "es": "Mamá ha dicho: ¡sin abrigo no hay nieve!" },
+        { "who": "Mario", "en": "OK, OK! How about a snowman?", "say": "oukéi, oukéi! jau əbáurə snóumæn?", "es": "¡Vale, vale! ¿Qué tal un muñeco de nieve?" },
+        { "who": "Lucía", "en": "Great! Let's give him a big round nose.", "say": "gréit! lets guív im ə big ráund nóus", "es": "¡Genial! Vamos a ponerle una nariz grande y redonda." },
+        { "who": "Mario", "en": "And a yellow bow tie! Wow, he looks so cool!", "say": "ən ə iélou bóu tai! wáu, ji luks sóu kúul!", "es": "¡Y una pajarita amarilla! ¡Hala, qué guay queda!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        { "es": "Di «<b>au</b>tobús» y «j<b>au</b>la». ¡Ya tienes la /aʊ/!", "en": "Say «autobús» and «jaula»: that's /aʊ/." },
+        { "es": "Para la /oʊ/, di una o y <b>cierra los labios</b> hacia la u sin cortar: o… u, <code>ou</code>.", "en": "For /oʊ/, say o and close your lips towards u." },
+        { "es": "Lee despacio: no → <code>nou</code>, go → <code>gou</code>, phone → <code>foun</code>. Al principio, exagera la u.", "en": "Read slowly: no, go, phone. Exaggerate the u at first." },
+        { "es": "Practica las parejas no/now, coat/caught y want/won't.", "en": "Practice no/now, coat/caught and want/won't." },
+        { "es": "Escanea los QR y <b>grábate</b> diciendo «Hello! How are you?».", "en": "Scan the QR codes and record yourself." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "How now, brown cow?", "say": "jáu náu, bráun káu?", "es": "¿Qué tal, vaca marrón? (frase tradicional para practicar)" },
+        { "en": "Joe goes home slowly in the snow.", "say": "yóu góus jóum slóuli in də snóu", "es": "Joe vuelve a casa despacito por la nieve." },
+        { "en": "A loud mouse found a round house downtown.", "say": "ə láud máus fáund ə ráund jáus dauntáun", "es": "Un ratón ruidoso encontró una casa redonda en el centro." }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El besito final",
+      "title_en": "The final kiss",
+      "es": "Los dos diptongos de este mapa terminan igual: con los labios cerrándose en un <b>besito</b> 😗. Si dices no, go o phone, no te quedes en la o: ¡acaba con el besito! <code>nou</code>, <code>gou</code>, <code>foun</code>. Y para la AU, abre bien la boca primero, como en j<b>au</b>la.",
+      "en": "Both diphthongs end with your lips closing in a little kiss. Don't stop on the o: no = «nou»."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿OU o AU?",
+      "title_en": "/oʊ/ or /aʊ/?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea el diptongo que oyes.",
+      "en": "Say the word and circle the diphthong you hear.",
+      "items": [
+        { "q": "go → [ou|au]", "a": "ou" },
+        { "q": "now → [ou|au]", "a": "au" },
+        { "q": "home → [ou|au]", "a": "ou" },
+        { "q": "house → [ou|au]", "a": "au" },
+        { "q": "boat → [ou|au]", "a": "ou" },
+        { "q": "out → [ou|au]", "a": "au" },
+        { "q": "snow → [ou|au]", "a": "ou" },
+        { "q": "cow → [ou|au]", "a": "au" },
+        { "q": "know → [ou|au]", "a": "ou" },
+        { "q": "down → [ou|au]", "a": "au" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        { "name": "👋 /oʊ/ ou", "words": ["go", "home", "boat", "snow", "cold", "yellow"] },
+        { "name": "🏡 /aʊ/ au", "words": ["now", "house", "cloud", "brown", "mouse", "about"] },
+        { "name": "🎣 /ɔ/ o abierta (V-05)", "words": ["caught", "law", "walk", "ball", "saw", "talk"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["hello", "<code>jəlóu</code>"],
+        ["phone", "<code>foun</code>"],
+        ["window", "<code>wíndou</code>"],
+        ["house", "<code>jaus</code>"],
+        ["about", "<code>əbáut</code>"],
+        ["won't", "<code>wount</code>"],
+        ["photo", "<code>fóurou</code>"],
+        ["cloud", "<code>klaud</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada con <b>ou</b> o <b>au</b>. Pon tilde en la sílaba fuerte.",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        { "q": "🏠 home → ____", "a": "joum" },
+        { "q": "❄️ snow → ____", "a": "snou" },
+        { "q": "⛵ boat → ____", "a": "bout" },
+        { "q": "🥶 cold → ____", "a": "kould" },
+        { "q": "👃 nose → ____", "a": "nous" },
+        { "q": "⬇️ down → ____", "a": "daun" },
+        { "q": "🐭 mouse → ____", "a": "maus" },
+        { "q": "🐄 cow → ____", "a": "kau" },
+        { "q": "🔊 loud → ____", "a": "laud" },
+        { "q": "🎹 piano → ____", "a": "piǽnou" }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Aunque no lleve el golpe, la OU final se oye.",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        { "syl": ["hel", "lo"], "s": 1, "es": "hola" },
+        { "syl": ["to", "ma", "to"], "s": 1, "es": "tomate" },
+        { "syl": ["ra", "di", "o"], "s": 0, "es": "radio" },
+        { "syl": ["vi", "de", "o"], "s": 0, "es": "vídeo" },
+        { "syl": ["win", "dow"], "s": 0, "es": "ventana" },
+        { "syl": ["yel", "low"], "s": 0, "es": "amarillo" },
+        { "syl": ["a", "bout"], "s": 1, "es": "sobre" },
+        { "syl": ["al", "low"], "s": 1, "es": "permitir" },
+        { "syl": ["pi", "a", "no"], "s": 1, "es": "piano" },
+        { "syl": ["po", "ta", "to"], "s": 1, "es": "patata" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "In English, «no» sounds exactly like the Spanish «no».", "a": false, "why": "suena nou" },
+        { "q": "The OU in «house» sounds «au».", "a": true },
+        { "q": "OW always sounds «au».", "a": false, "why": "snow, know, yellow = ou" },
+        { "q": "«Want» and «won't» mean the same.", "a": false, "why": "querer / no voy a" },
+        { "q": "«Know» and «no» sound the same.", "a": true },
+        { "q": "In «hello», the stress is on the first syllable.", "a": false, "why": "jəLÓU" },
+        { "q": "The «au» in «now» starts with the mouth wide open.", "a": true },
+        { "q": "«Load» and «loud» sound the same.", "a": false, "why": "loud / laud" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "¿Estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "Do they sound the same or different?",
+      "items": [
+        { "q": "no · know → [igual|diferente]", "a": "igual" },
+        { "q": "no · now → [igual|diferente]", "a": "diferente" },
+        { "q": "coat · caught → [igual|diferente]", "a": "diferente" },
+        { "q": "road · rode → [igual|diferente]", "a": "igual" },
+        { "q": "want · won't → [igual|diferente]", "a": "diferente" },
+        { "q": "so · sew → [igual|diferente]", "a": "igual" },
+        { "q": "tone · town → [igual|diferente]", "a": "diferente" },
+        { "q": "coach · couch → [igual|diferente]", "a": "diferente" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pega las palabras",
+      "title_en": "Link the words",
+      "icon": "🔗",
+      "es": "Escribe cómo suena la frase entera, pegando las palabras como un americano.",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        { "q": "Get out!", "a": "gueráut!" },
+        { "q": "How about a photo?", "a": "jau əbáurə fóurou?" },
+        { "q": "Go home!", "a": "gou jóum!" },
+        { "q": "Slow down!", "a": "slóu dáun!" },
+        { "q": "Oh no!", "a": "ou nóu!" },
+        { "q": "Look out!", "a": "lukáut!" },
+        { "q": "Shout it out!", "a": "sháuriráut!" },
+        { "q": "Hold on!", "a": "jouldán!" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "no → <code>no</code>", "a": "nou" },
+        { "q": "phone → <code>fon</code>", "a": "foun" },
+        { "q": "won't → <code>wont</code>", "a": "wount" },
+        { "q": "house → <code>jóuse</code>", "a": "jaus" },
+        { "q": "hello → <code>jélo</code>", "a": "jəlóu" },
+        { "q": "snow → <code>snau</code>", "a": "snou" },
+        { "q": "about → <code>abóut</code>", "a": "əbáut" },
+        { "q": "radio → <code>rádio</code>", "a": "réidiou" },
+        { "q": "bowl → <code>bol</code>", "a": "boul" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "Oh no, not now!", "say": "ou nóu, nat náu!" },
+        { "q": "Go home slowly.", "say": "gou jóum slóuli" },
+        { "q": "How about a coat?", "say": "jau əbáurə kóut?" },
+        { "q": "There's a mouse in the house!", "say": "ders ə máus in də jáus!" },
+        { "q": "I won't go out.", "say": "ai wóunt gou áut" },
+        { "q": "A yellow boat.", "say": "ə iélou bóut" },
+        { "q": "Wow! Look at the snow!", "say": "wáu! lúkət də snóu!" },
+        { "q": "Hello! How are you?", "say": "jəlóu! jáu ər iu?" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con su diptongo.",
+      "en": "Translate into English and say it.",
+      "items": [
+        { "q": "ir", "a": "go (gou)" },
+        { "q": "hogar, casa", "a": "home (joum)" },
+        { "q": "teléfono", "a": "phone (foun)" },
+        { "q": "nieve", "a": "snow (snou)" },
+        { "q": "frío", "a": "cold (kould)" },
+        { "q": "ahora", "a": "now (nau)" },
+        { "q": "cómo", "a": "how (jau)" },
+        { "q": "fuera", "a": "out (aut)" },
+        { "q": "ratón", "a": "mouse (maus)" },
+        { "q": "abajo", "a": "down (daun)" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En la última columna escribe <b>ou</b> o <b>au</b>.",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Español", "Suena", "¿ou o au?"],
+      "rows": [
+        ["go", "ir", "?gou", "?ou"],
+        ["?now", "ahora", "nau", "au"],
+        ["home", "?hogar", "?joum", "ou"],
+        ["?house", "casa", "jaus", "?au"],
+        ["snow", "?nieve", "?snou", "?ou"],
+        ["cow", "vaca", "?kau", "?au"],
+        ["?cold", "frío", "kould", "ou"],
+        ["out", "?fuera", "aut", "?au"]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de OU y AU",
+      "title_en": "OU and AU word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Dila en voz alta y di si lleva ou o au.",
+      "en": "Find 10 words and say if they have /oʊ/ or /aʊ/.",
+      "words": ["go", "no", "home", "phone", "snow", "boat", "now", "how", "house", "cloud"],
+      "clues": ["go · ir", "no · no", "home · hogar", "phone · teléfono", "snow · nieve", "boat · barco", "now · ahora", "how · cómo", "house · casa", "cloud · nube"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza los diptongos",
+      "title_en": "Read and find the diphthongs",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "A Snow Day in Town",
+      "text": [
+        "Joe lives in a small town. One cold morning, he looks out the window and shouts: “Wow! Snow!”",
+        "He puts on his coat and goes out. His dog, Brownie, runs around the house. Joe makes a snowman with a round nose and an old yellow bow tie. “Now he looks like a clown!” Joe says. Then he goes home and has a hot cocoa."
+      ],
+      "items": [
+        { "q": "What does Joe see out the window?", "a": "Snow: <code>snou</code>." },
+        { "q": "Find three words with /oʊ/.", "a": "Joe, cold, window, snow, coat, goes, snowman, nose, old, yellow, bow, home, cocoa (cualquiera)." },
+        { "q": "Find three words with /aʊ/.", "a": "town, out, shouts, wow, Brownie, around, house, round, now, clown (cualquiera)." },
+        { "q": "Joe lives in a big city.", "tf": true, "a": false, "why": "in a small town" },
+        { "q": "The snowman has a yellow bow tie.", "tf": true, "a": true },
+        { "q": "«Bow» in «bow tie» sounds like «now».", "tf": true, "a": false, "why": "bow tie = <code>bóu tai</code>" }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con palabras de este mapa. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with words from this map and record yourself.",
+      "items": [
+        { "q": "Una frase con home, phone o snow.", "lines": 2, "a": "Ej.: My phone is at home." },
+        { "q": "Una frase con now, how u out.", "lines": 2, "a": "Ej.: How about going out now?" },
+        { "q": "Una frase con want y otra con won't.", "lines": 2, "a": "Ej.: I want pizza. I won't eat soup." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé decir <b>no</b>, <b>go</b> y <b>phone</b> cerrando en u: <code>nou</code>, <code>gou</code>, <code>foun</code>.", "en": "I can say no, go and phone with /oʊ/." },
+    { "es": "Sé decir <b>now</b>, <b>how</b> y <b>out</b> como en «jaula» y «autobús».", "en": "I can say now, how and out with /aʊ/." },
+    { "es": "Sé que OW puede ser <code>ou</code> (snow) o <code>au</code> (now).", "en": "I know OW can be /oʊ/ or /aʊ/." },
+    { "es": "No confundo want con won't ni cold con called.", "en": "I don't mix up want/won't or cold/called." },
+    { "es": "Digo hello, photo y tomato con la OU final.", "en": "I say hello, photo and tomato with a final /oʊ/." },
+    { "es": "Puedo decir «How now, brown cow?» sin trabarme.", "en": "I can say «How now, brown cow?»." }
+  ]
+}

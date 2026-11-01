@@ -1,0 +1,2159 @@
+{
+  "id": "R-02",
+  "block": "R",
+  "title": "REGLAS DEL ACENTO",
+  "file_title": "Reglas del acento (sufijos, familias y compuestos)",
+  "subtitle": "Stress rules · los finales mandan",
+  "icon": "🧲",
+  "map": {
+    "center": "Algunos <b>finales</b> mandan: con -TION, -IC o -ITY el golpe va <b>justo antes</b>; con -EE u -OO, ¡en el final!",
+    "listen": "photographer",
+    "nodes": [
+      {
+        "title": "Golpe justo antes",
+        "icon": "🧲",
+        "color": "green",
+        "chips": [
+          "-tion",
+          "-sion",
+          "-ic",
+          "-ity",
+          "-ian",
+          "-ial",
+          "-ious"
+        ],
+        "after": "infor<b>MA</b>tion, fan<b>TAS</b>tic"
+      },
+      {
+        "title": "El final se lo queda",
+        "icon": "🏁",
+        "color": "blue",
+        "chips": [
+          "-ee",
+          "-eer",
+          "-ese",
+          "-ique",
+          "-oo"
+        ],
+        "after": "sham<b>POO</b>, Japa<b>NESE</b>, engi<b>NEER</b>"
+      },
+      {
+        "title": "Familias que bailan",
+        "icon": "💃",
+        "color": "purple",
+        "rows": [
+          [
+            "<b>PHO</b>tograph",
+            "<code>fóurəgræf</code>"
+          ],
+          [
+            "pho<b>TOG</b>rapher",
+            "<code>fətágrəfer</code>"
+          ],
+          [
+            "photo<b>GRAPH</b>ic",
+            "<code>fourəgrǽfik</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Palabras compuestas",
+        "icon": "🧩",
+        "color": "orange",
+        "items": [
+          "<b>GREEN</b>house = invernadero",
+          "green <b>HOUSE</b> = casa verde",
+          "<b>BLACK</b>board = pizarra"
+        ]
+      },
+      {
+        "title": "¡Ojo con -ción e -idad!",
+        "icon": "🙊",
+        "color": "pink",
+        "items": [
+          "informa<b>CIÓN</b> → infor<b>MA</b>tion",
+          "universi<b>DAD</b> → uni<b>VER</b>sity",
+          "rebelde: <b>TEL</b>evision"
+        ]
+      },
+      {
+        "title": "Truco: la i imán",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Los finales con <b>i</b> (-tion, -ic, -ity…) son un imán: atraen el golpe a la sílaba de <b>justo antes</b>.",
+        "art": "🧲"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "<code>fóurəgræfer</code> 📷"
+      ],
+      "good": [
+        "<code>fətágrəfer</code> 📸"
+      ],
+      "note": "Al añadir -er, el golpe salta a TOG… ¡como en «fotógrafo»!"
+    },
+    "mini": {
+      "es": "Escribe la sílaba fuerte:",
+      "en": "Write the strong syllable.",
+      "items": [
+        {
+          "q": "ℹ️ information → ____",
+          "a": "MA (inferméishən)"
+        },
+        {
+          "q": "✨ fantastic → ____",
+          "a": "TAS (fæntǽstik)"
+        },
+        {
+          "q": "🎓 university → ____",
+          "a": "VER (iunəvérsəri)"
+        },
+        {
+          "q": "🧴 shampoo → ____",
+          "a": "POO (shæmpúu)"
+        },
+        {
+          "q": "📸 photographer → ____",
+          "a": "TOG (fətágrəfer)"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Para qué sirven estas reglas?",
+      "title_en": "Why learn these rules?",
+      "icon": "🔎",
+      "es": "En el mapa R-01 viste dónde cae el golpe en palabras de dos sílabas. Con las palabras largas (information, photographer, university…) la buena noticia es que <mark>muchas veces el final te chiva el golpe</mark>. Unos finales empujan el golpe a la sílaba de <b>justo antes</b>; otros se lo quedan <b>para ellos</b>. Y cuando una palabra cambia de final, el golpe <b>salta</b> de sitio. Con estas pocas reglas acertarás miles de palabras… ¡y sonarás mucho más americano!",
+      "en": "Many word endings tell you where the stress goes. Some push it to the syllable just before them (-tion, -ic, -ity), others keep it for themselves (-ee, -oo). When the ending changes, the stress can move.",
+      "formula": [
+        "infor + *MA* + tion → golpe *justo antes*",
+        "sham + *POO* → golpe *en el final*"
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · -TION y -SION: justo antes",
+      "title_en": "-tion and -sion: just before",
+      "icon": "ℹ️",
+      "es": "Es la regla más útil: hay miles de palabras así y casi todas se parecen al español. Pero ojo: en español el golpe cae en -CIÓN (informa<b>ción</b>); en inglés va <b>justo antes</b>, y el final se encoge a <code>shən</code> (o <code>yən</code> en algunas -sion). Cómo suena ese final lo verás en el mapa T-03.",
+      "en": "Words ending in -tion or -sion are stressed on the syllable just before the ending: inforMAtion, deCIsion.",
+      "formula": [
+        "infor + *MA* + tion → infer*méi*shən",
+        "de + *CI* + sion → di*sí*yən"
+      ],
+      "examples": [
+        {
+          "en": "information",
+          "say": "inferméishən",
+          "es": "información",
+          "icon": "ℹ️"
+        },
+        {
+          "en": "pronunciation",
+          "say": "prənansiéishən",
+          "es": "pronunciación",
+          "icon": "🗣️"
+        },
+        {
+          "en": "decision",
+          "say": "disíyən",
+          "es": "decisión",
+          "icon": "🤔"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · -IC y -ICAL: justo antes",
+      "title_en": "-ic and -ical: just before",
+      "icon": "✨",
+      "es": "Las palabras en <b>-ic</b> se parecen a nuestras esdrújulas en -ico… <mark>¡y llevan el golpe en la misma sílaba!</mark>: fan<b>TÁS</b>tico → fan<b>TAS</b>tic, e<b>LÉC</b>trico → e<b>LEC</b>tric. Con <b>-ical</b> pasa igual: po<b>LIT</b>ical. Rebeldes: <b>AR</b>abic, <b>POL</b>itics, <b>CATH</b>olic.",
+      "en": "Words ending in -ic or -ical are stressed just before the ending: fanTAStic, poLITical. Exceptions: Arabic, politics, Catholic.",
+      "formula": [
+        "fan + *TAS* + tic → fæn*tǽs*tik"
+      ],
+      "examples": [
+        {
+          "en": "fantastic",
+          "say": "fæntǽstik",
+          "es": "fantástico",
+          "icon": "✨"
+        },
+        {
+          "en": "electric",
+          "say": "iléktrik",
+          "es": "eléctrico",
+          "icon": "⚡"
+        },
+        {
+          "en": "political",
+          "say": "pəlírikəl",
+          "es": "político",
+          "icon": "🗳️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · -ITY, -IAN, -IAL, -IOUS: justo antes",
+      "title_en": "-ity, -ian, -ial, -ious: just before",
+      "icon": "🎓",
+      "es": "Más finales «imán», todos con <b>i</b>. ¡Aquí el español te engaña!: universi<b>DAD</b>, deli<b>CIO</b>so, espe<b>CIAL</b>, <b>MÚ</b>sico. En inglés el golpe va <b>justo antes</b> del final: uni<b>VER</b>sity, de<b>LI</b>cious, <b>SPE</b>cial, mu<b>SI</b>cian. Y el final se encoge: -ity = /əɾi/, -ious = /ʃəs/ o /iəs/.",
+      "en": "Words ending in -ity, -ian, -ial and -ious are stressed just before the ending: uniVERsity, deLIcious, muSIcian.",
+      "formula": [
+        "uni + *VER* + sity → iunə*vér*səri",
+        "mu + *SI* + cian → miu*sí*shən"
+      ],
+      "examples": [
+        {
+          "en": "university",
+          "say": "iunəvérsəri",
+          "es": "universidad",
+          "icon": "🎓"
+        },
+        {
+          "en": "musician",
+          "say": "miusíshən",
+          "es": "músico",
+          "icon": "🎻"
+        },
+        {
+          "en": "delicious",
+          "say": "dilíshəs",
+          "es": "delicioso",
+          "icon": "😋"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · El final se queda el golpe",
+      "title_en": "The ending keeps the stress",
+      "icon": "🏁",
+      "es": "Los finales <b>-ee, -eer, -ese, -ique</b> y <b>-oo</b> son unos acaparadores: <mark>se quedan el golpe para ellos</mark>. Muchos vienen del francés. Rebeldes: <b>COF</b>fee y com<b>MIT</b>tee (su -ee no es un final de este tipo) e <b>IG</b>loo. Y con <i>employee</i> hay dos opciones: muchos americanos dicen em<b>PLOY</b>ee.",
+      "en": "Words ending in -ee, -eer, -ese, -ique and -oo are stressed on the ending: guaranTEE, engiNEER, JapaNESE, uNIQUE, shamPOO.",
+      "formula": [
+        "sham + *POO* → shæm*púu*",
+        "Japa + *NESE* → yæpə*níis*"
+      ],
+      "examples": [
+        {
+          "en": "engineer",
+          "say": "enyənír",
+          "es": "ingeniero/a",
+          "icon": "👷"
+        },
+        {
+          "en": "Japanese",
+          "say": "yæpəníis",
+          "es": "japonés",
+          "icon": "🍣"
+        },
+        {
+          "en": "shampoo",
+          "say": "shæmpúu",
+          "es": "champú",
+          "icon": "🧴"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Familias: el golpe salta",
+      "title_en": "Word families: the stress jumps",
+      "icon": "💃",
+      "es": "Cuando una palabra crece, el golpe puede <b>saltar</b> de sílaba… ¡y las vocales cambian con él! La o fuerte de <b>PHO</b>tograph (<code>fóu</code>) se vuelve <code>ə</code> en pho<b>TOG</b>rapher. Ojo con <i>economy</i>: el golpe va en CON (e<b>CON</b>omy), y en <i>economic</i> salta a NOM.",
+      "en": "When a word gets a new ending, the stress can jump to another syllable, and the vowels change too.",
+      "formula": [
+        "*PHO*tograph → pho*TOG*rapher → photo*GRAPH*ic"
+      ],
+      "examples": [
+        {
+          "en": "photograph",
+          "say": "fóurəgræf",
+          "es": "fotografía (la foto)",
+          "icon": "🖼️"
+        },
+        {
+          "en": "photographer",
+          "say": "fətágrəfer",
+          "es": "fotógrafo/a",
+          "icon": "📸"
+        },
+        {
+          "en": "photographic",
+          "say": "fourəgrǽfik",
+          "es": "fotográfico",
+          "icon": "🎞️"
+        },
+        {
+          "en": "economy",
+          "say": "ikánəmi",
+          "es": "economía",
+          "icon": "📊"
+        },
+        {
+          "en": "economic",
+          "say": "ekənámik",
+          "es": "económico",
+          "icon": "💰"
+        },
+        {
+          "en": "economist",
+          "say": "ikánəmist",
+          "es": "economista",
+          "icon": "👔"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · Compuestos: golpe en la primera",
+      "title_en": "Compound nouns: stress the first part",
+      "icon": "🧩",
+      "es": "Cuando dos palabras se unen para nombrar <b>una cosa nueva</b>, el golpe va en la <b>primera</b>: <b>GREEN</b>house (invernadero), <b>BED</b>room, <b>BIRTH</b>day. Si es un adjetivo + nombre normal, el golpe va en el <b>nombre</b>: a green <b>HOUSE</b> (una casa verde). <mark>¡El golpe cambia el significado!</mark>",
+      "en": "Compound nouns are stressed on the first part: GREENhouse. An adjective + noun is stressed on the noun: a green HOUSE.",
+      "formula": [
+        "*GREEN* + house = invernadero",
+        "green + *HOUSE* = casa verde"
+      ],
+      "examples": [
+        {
+          "en": "a greenhouse",
+          "say": "ə gríinjaus",
+          "es": "un invernadero",
+          "icon": "🪴"
+        },
+        {
+          "en": "a green house",
+          "say": "ə griin jáus",
+          "es": "una casa verde",
+          "icon": "🏠"
+        },
+        {
+          "en": "a blackboard",
+          "say": "ə blǽkbord",
+          "es": "una pizarra",
+          "icon": "🧑‍🏫"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "fantastic",
+          "ipa": "fænˈtæstɪk",
+          "say": "fæntǽstik",
+          "es": "fantástico",
+          "icon": "✨",
+          "anchor": "fan<b>tás</b>tico ✨",
+          "tip": "Las palabras en -ic son como nuestras esdrújulas en -ico: golpe en la misma sílaba. Quita la -o: fæn-TǼS-tik."
+        },
+        {
+          "en": "economic",
+          "ipa": "ˌɛkəˈnɑmɪk",
+          "say": "ekənámik",
+          "es": "económico",
+          "icon": "💰",
+          "anchor": "eco<b>nó</b>mico 💰",
+          "tip": "Mismo golpe que «económico»: e-kə-NÁ-mik. ¡Pero economy es i-KÁ-nə-mi!"
+        },
+        {
+          "en": "photographer",
+          "ipa": "fəˈtɑɡrəfɚ",
+          "say": "fətágrəfer",
+          "es": "fotógrafo/a",
+          "icon": "📸",
+          "anchor": "fo<b>tó</b>grafo 📸",
+          "tip": "Como «fotógrafo»: fə-TÁ-grə-fer. En cambio, photograph lleva el golpe delante: FÓU-rə-græf."
+        },
+        {
+          "en": "Japanese",
+          "ipa": "ˌdʒæpəˈniːz",
+          "say": "yæpəníis",
+          "es": "japonés",
+          "icon": "🍣",
+          "anchor": "japo<b>nés</b> 🍣",
+          "tip": "Como en español, el golpe al final: yæ-pə-NÍIS. Igual que Chinese: chai-NÍIS."
+        },
+        {
+          "en": "guarantee",
+          "ipa": "ˌɡærənˈtiː",
+          "say": "gærəntíi",
+          "es": "garantía",
+          "icon": "✅",
+          "anchor": "garan<b>tí</b>a 🛡️",
+          "tip": "Di «garantía» sin la a final: gæ-rən-TÍI. El -ee se queda el golpe."
+        },
+        {
+          "en": "engineer",
+          "ipa": "ˌɛndʒəˈnɪr",
+          "say": "enyənír",
+          "es": "ingeniero/a",
+          "icon": "👷",
+          "anchor": "inge<b>nier</b>o 👷",
+          "tip": "El golpe cae en la misma sílaba que en «ingeniero»: en-yə-NÍR."
+        },
+        {
+          "en": "shampoo",
+          "ipa": "ʃæmˈpuː",
+          "say": "shæmpúu",
+          "es": "champú",
+          "icon": "🧴",
+          "anchor": "<b>champú</b> 🧴",
+          "tip": "¡Casi igual que en español! Con sh suave y u larga: shæm-PÚU."
+        },
+        {
+          "en": "information",
+          "ipa": "ˌɪnfɚˈmeɪʃən",
+          "say": "inferméishən",
+          "es": "información",
+          "icon": "ℹ️",
+          "anchor": "<s>información</s> → infer<b>MÉI</b>shən",
+          "tip": "En español el golpe va en -CIÓN; en inglés, justo antes: in-fer-MÉI-shən."
+        },
+        {
+          "en": "university",
+          "ipa": "ˌjuːnəˈvɝsəɾi",
+          "say": "iunəvérsəri",
+          "es": "universidad",
+          "icon": "🎓",
+          "anchor": "<s>universidad</s> → iunə<b>VÉR</b>səri",
+          "tip": "El -idad español se queda el golpe; el -ity inglés lo empuja hacia atrás: iu-nə-VÉR-sə-ri."
+        },
+        {
+          "en": "delicious",
+          "ipa": "dɪˈlɪʃəs",
+          "say": "dilíshəs",
+          "es": "delicioso",
+          "icon": "😋",
+          "anchor": "<s>delicioso</s> → di<b>LÍ</b>shəs",
+          "tip": "Solo tres sílabas y el golpe en LI: di-LÍ-shəs."
+        },
+        {
+          "en": "special",
+          "ipa": "ˈspɛʃəl",
+          "say": "spéshəl",
+          "es": "especial",
+          "icon": "⭐",
+          "anchor": "<s>especial</s> → <b>SPÉ</b>shəl",
+          "tip": "Dos sílabas, golpe delante y sin «e» al principio (lo verás en el mapa C-11)."
+        },
+        {
+          "en": "unique",
+          "ipa": "juˈniːk",
+          "say": "iuníik",
+          "es": "único",
+          "icon": "🦄",
+          "anchor": "<s>único</s> → iu<b>NÍIK</b>",
+          "tip": "Al revés que «único»: el golpe va al final, iu-NÍIK."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "information",
+          "es": "información"
+        },
+        {
+          "q": "photographer",
+          "es": "fotógrafo/a"
+        },
+        {
+          "q": "economic",
+          "es": "económico"
+        },
+        {
+          "q": "Japanese",
+          "es": "japonés"
+        },
+        {
+          "q": "shampoo",
+          "es": "champú"
+        },
+        {
+          "q": "greenhouse",
+          "es": "invernadero"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Chuleta de finales",
+      "title_en": "Endings cheat sheet",
+      "icon": "🧭",
+      "head": [
+        "Final · Ending",
+        "¿Dónde va el golpe?",
+        "Ejemplo",
+        "Suena",
+        "🇪🇸 En español"
+      ],
+      "rows": [
+        [
+          "-tion / -sion",
+          "justo antes",
+          "infor<b>MA</b>tion, de<b>CI</b>sion",
+          "<code>inferméishən</code>, <code>disíyən</code>",
+          "informa<b>CIÓN</b> ❌ cambia"
+        ],
+        [
+          "-ic / -ical",
+          "justo antes",
+          "fan<b>TAS</b>tic, po<b>LIT</b>ical",
+          "<code>fæntǽstik</code>, <code>pəlírikəl</code>",
+          "fan<b>TÁS</b>tico ✅ igual"
+        ],
+        [
+          "-ity",
+          "justo antes",
+          "uni<b>VER</b>sity",
+          "<code>iunəvérsəri</code>",
+          "universi<b>DAD</b> ❌ cambia"
+        ],
+        [
+          "-ian",
+          "justo antes",
+          "mu<b>SI</b>cian",
+          "<code>miusíshən</code>",
+          "<b>MÚ</b>sico ❌ cambia"
+        ],
+        [
+          "-ial",
+          "justo antes",
+          "of<b>FI</b>cial",
+          "<code>əfíshəl</code>",
+          "ofi<b>CIAL</b> ❌ cambia"
+        ],
+        [
+          "-ious",
+          "justo antes",
+          "de<b>LI</b>cious",
+          "<code>dilíshəs</code>",
+          "deli<b>CIO</b>so ❌ cambia"
+        ],
+        [
+          "-ee",
+          "en el final",
+          "guaran<b>TEE</b>",
+          "<code>gærəntíi</code>",
+          "garan<b>TÍ</b>a ✅ igual"
+        ],
+        [
+          "-eer",
+          "en el final",
+          "engi<b>NEER</b>",
+          "<code>enyənír</code>",
+          "inge<b>NIE</b>ro ✅ igual"
+        ],
+        [
+          "-ese",
+          "en el final",
+          "Japa<b>NESE</b>",
+          "<code>yæpəníis</code>",
+          "japo<b>NÉS</b> ✅ igual"
+        ],
+        [
+          "-ique",
+          "en el final",
+          "u<b>NIQUE</b>",
+          "<code>iuníik</code>",
+          "<b>Ú</b>nico ❌ cambia"
+        ],
+        [
+          "-oo",
+          "en el final",
+          "sham<b>POO</b>",
+          "<code>shæmpúu</code>",
+          "cham<b>PÚ</b> ✅ igual"
+        ]
+      ],
+      "note": "✅ = el golpe cae donde en español: ¡aprovéchalo! ❌ = cambia: ahí es donde fallan casi todos los hispanohablantes.",
+      "note_en": "✅ same stress as in Spanish · ❌ different stress: be careful!"
+    },
+    {
+      "t": "stress",
+      "title": "Golpe justo antes del final",
+      "title_en": "Stress just before the ending",
+      "icon": "🧲",
+      "es": "Busca el final «imán» y da la palmada en la sílaba de justo antes.",
+      "en": "Find the magnet ending and clap on the syllable before it.",
+      "items": [
+        {
+          "syl": [
+            "com",
+            "pe",
+            "ti",
+            "tion"
+          ],
+          "s": 2,
+          "say": "kampətíshən",
+          "es": "competición",
+          "icon": "🏆"
+        },
+        {
+          "syl": [
+            "sci",
+            "en",
+            "tif",
+            "ic"
+          ],
+          "s": 2,
+          "say": "saiəntífik",
+          "es": "científico",
+          "icon": "🔬"
+        },
+        {
+          "syl": [
+            "ma",
+            "jor",
+            "i",
+            "ty"
+          ],
+          "s": 1,
+          "say": "məyórəri",
+          "es": "mayoría",
+          "icon": "🙋"
+        },
+        {
+          "syl": [
+            "cu",
+            "ri",
+            "os",
+            "i",
+            "ty"
+          ],
+          "s": 2,
+          "say": "kiuriásəri",
+          "es": "curiosidad",
+          "icon": "🔍"
+        },
+        {
+          "syl": [
+            "mys",
+            "te",
+            "ri",
+            "ous"
+          ],
+          "s": 1,
+          "say": "mistíriəs",
+          "es": "misterioso",
+          "icon": "🕵️"
+        },
+        {
+          "syl": [
+            "co",
+            "me",
+            "di",
+            "an"
+          ],
+          "s": 1,
+          "say": "kəmíidiən",
+          "es": "humorista",
+          "icon": "🤡"
+        },
+        {
+          "syl": [
+            "es",
+            "sen",
+            "tial"
+          ],
+          "s": 1,
+          "say": "isénshəl",
+          "es": "esencial",
+          "icon": "🔑"
+        },
+        {
+          "syl": [
+            "li",
+            "brar",
+            "i",
+            "an"
+          ],
+          "s": 1,
+          "say": "laibrériən",
+          "es": "bibliotecario/a",
+          "icon": "📚"
+        }
+      ],
+      "wide": true,
+      "cols": 4
+    },
+    {
+      "t": "stress",
+      "title": "El final se queda el golpe",
+      "title_en": "The ending is strong",
+      "icon": "🏁",
+      "es": "Las primeras sílabas, de puntillas; el final, ¡fuerte y largo!",
+      "en": "Tiptoe on the first syllables and hit the ending.",
+      "items": [
+        {
+          "syl": [
+            "ref",
+            "er",
+            "ee"
+          ],
+          "s": 2,
+          "say": "refəríi",
+          "es": "árbitro",
+          "icon": "⚽"
+        },
+        {
+          "syl": [
+            "vol",
+            "un",
+            "teer"
+          ],
+          "s": 2,
+          "say": "valəntír",
+          "es": "voluntario/a",
+          "icon": "🙌"
+        },
+        {
+          "syl": [
+            "ca",
+            "reer"
+          ],
+          "s": 1,
+          "say": "kərír",
+          "es": "carrera profesional",
+          "icon": "💼"
+        },
+        {
+          "syl": [
+            "Chi",
+            "nese"
+          ],
+          "s": 1,
+          "say": "chainíis",
+          "es": "chino/a",
+          "icon": "🥢"
+        },
+        {
+          "syl": [
+            "train",
+            "ee"
+          ],
+          "s": 1,
+          "say": "treiníi",
+          "es": "becario/a",
+          "icon": "🧑‍💻"
+        },
+        {
+          "syl": [
+            "tech",
+            "nique"
+          ],
+          "s": 1,
+          "say": "tekníik",
+          "es": "técnica",
+          "icon": "🥋"
+        },
+        {
+          "syl": [
+            "tat",
+            "too"
+          ],
+          "s": 1,
+          "say": "tætúu",
+          "es": "tatuaje",
+          "icon": "🐉"
+        },
+        {
+          "syl": [
+            "car",
+            "toon"
+          ],
+          "s": 1,
+          "say": "kartúun",
+          "es": "dibujos animados",
+          "icon": "📺"
+        }
+      ],
+      "wide": true,
+      "cols": 4
+    },
+    {
+      "t": "stress",
+      "wide": true,
+      "cols": 3,
+      "title": "Familias que bailan",
+      "title_en": "Dancing families",
+      "icon": "💃",
+      "es": "Lee cada fila de izquierda a derecha y nota cómo el golpe salta de sílaba.",
+      "en": "Read each row and feel the stress jump.",
+      "items": [
+        {
+          "syl": [
+            "mu",
+            "sic"
+          ],
+          "s": 0,
+          "say": "miúusik",
+          "es": "música",
+          "icon": "🎵"
+        },
+        {
+          "syl": [
+            "mu",
+            "si",
+            "cal"
+          ],
+          "s": 0,
+          "say": "miúusikəl",
+          "es": "musical",
+          "icon": "🎶"
+        },
+        {
+          "syl": [
+            "mu",
+            "si",
+            "cian"
+          ],
+          "s": 1,
+          "say": "miusíshən",
+          "es": "músico/a",
+          "icon": "🎻"
+        },
+        {
+          "syl": [
+            "his",
+            "to",
+            "ry"
+          ],
+          "s": 0,
+          "say": "jístəri",
+          "es": "historia",
+          "icon": "📜"
+        },
+        {
+          "syl": [
+            "his",
+            "tor",
+            "i",
+            "cal"
+          ],
+          "s": 1,
+          "say": "jistórikəl",
+          "es": "histórico",
+          "icon": "🏰"
+        },
+        {
+          "syl": [
+            "his",
+            "to",
+            "ri",
+            "an"
+          ],
+          "s": 1,
+          "say": "jistóriən",
+          "es": "historiador/a",
+          "icon": "🧐"
+        },
+        {
+          "syl": [
+            "per",
+            "son"
+          ],
+          "s": 0,
+          "say": "pérsən",
+          "es": "persona",
+          "icon": "🧍"
+        },
+        {
+          "syl": [
+            "per",
+            "son",
+            "al"
+          ],
+          "s": 0,
+          "say": "pérsənəl",
+          "es": "personal",
+          "icon": "🪪"
+        },
+        {
+          "syl": [
+            "per",
+            "son",
+            "al",
+            "i",
+            "ty"
+          ],
+          "s": 2,
+          "say": "persənǽləri",
+          "es": "personalidad",
+          "icon": "🤩"
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "title": "Compuestos: golpe delante",
+      "title_en": "Compounds: stress first",
+      "icon": "🧩",
+      "es": "Dos palabras, una sola cosa: la primera parte manda.",
+      "en": "Two words, one thing: the first part is strong.",
+      "items": [
+        {
+          "syl": [
+            "bed",
+            "room"
+          ],
+          "s": 0,
+          "say": "bédruum",
+          "es": "dormitorio",
+          "icon": "🛏️"
+        },
+        {
+          "syl": [
+            "birth",
+            "day"
+          ],
+          "s": 0,
+          "say": "bérzdei",
+          "es": "cumpleaños",
+          "icon": "🎂"
+        },
+        {
+          "syl": [
+            "air",
+            "port"
+          ],
+          "s": 0,
+          "say": "érport",
+          "es": "aeropuerto",
+          "icon": "✈️"
+        },
+        {
+          "syl": [
+            "snow",
+            "man"
+          ],
+          "s": 0,
+          "say": "snóumæn",
+          "es": "muñeco de nieve",
+          "icon": "⛄"
+        },
+        {
+          "syl": [
+            "home",
+            "work"
+          ],
+          "s": 0,
+          "say": "jóumwerk",
+          "es": "deberes",
+          "icon": "📝"
+        },
+        {
+          "syl": [
+            "pop",
+            "corn"
+          ],
+          "s": 0,
+          "say": "pápkorn",
+          "es": "palomitas",
+          "icon": "🍿"
+        },
+        {
+          "syl": [
+            "tooth",
+            "brush"
+          ],
+          "s": 0,
+          "say": "túuzbrash",
+          "es": "cepillo de dientes",
+          "icon": "🪥"
+        },
+        {
+          "syl": [
+            "sun",
+            "glass",
+            "es"
+          ],
+          "s": 0,
+          "say": "sánglæsis",
+          "es": "gafas de sol",
+          "icon": "🕶️"
+        }
+      ],
+      "wide": true,
+      "cols": 4
+    },
+    {
+      "t": "pairs",
+      "title": "El golpe cambia la cosa",
+      "title_en": "Stress changes the meaning",
+      "icon": "🧩",
+      "items": [
+        {
+          "a": {
+            "en": "greenhouse",
+            "ipa": "ˈɡriːnˌhaʊs",
+            "say": "gríinjaus",
+            "es": "invernadero",
+            "icon": "🪴"
+          },
+          "b": {
+            "en": "green house",
+            "ipa": "ˌɡriːn ˈhaʊs",
+            "say": "griin jáus",
+            "es": "casa verde",
+            "icon": "🏠"
+          },
+          "tip": "Golpe delante = una cosa nueva (invernadero). Golpe detrás = adjetivo + nombre."
+        },
+        {
+          "a": {
+            "en": "blackbird",
+            "ipa": "ˈblækˌbɝd",
+            "say": "blǽkberd",
+            "es": "mirlo",
+            "icon": "🐦‍⬛"
+          },
+          "b": {
+            "en": "black bird",
+            "ipa": "ˌblæk ˈbɝd",
+            "say": "blæk bérd",
+            "es": "pájaro negro",
+            "icon": "⚫"
+          },
+          "tip": "Todos los mirlos son negros… ¡pero no todos los pájaros negros son mirlos! 😉"
+        },
+        {
+          "a": {
+            "en": "hot dog",
+            "ipa": "ˈhɑt ˌdɔɡ",
+            "say": "ját dog",
+            "es": "perrito caliente",
+            "icon": "🌭"
+          },
+          "b": {
+            "en": "hot dog",
+            "ipa": "ˌhɑt ˈdɔɡ",
+            "say": "jat dóg",
+            "es": "perro con calor",
+            "icon": "🥵"
+          },
+          "tip": "Un HOT dog lleva kétchup; un hot DOG busca la sombra."
+        },
+        {
+          "a": {
+            "en": "the White House",
+            "ipa": "ðə ˈwaɪt ˌhaʊs",
+            "say": "də wáit jaus",
+            "es": "la Casa Blanca",
+            "icon": "🏛️"
+          },
+          "b": {
+            "en": "a white house",
+            "ipa": "ə ˌwaɪt ˈhaʊs",
+            "say": "ə wait jáus",
+            "es": "una casa blanca",
+            "icon": "🏠"
+          },
+          "tip": "La casa del presidente es un nombre propio: golpe en WHITE."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "Can I have some infor<b>MA</b>tion, please?",
+          "say": "kən ai jæv səm inferméishən, pliis?",
+          "es": "¿Me da información, por favor?",
+          "icon": "ℹ️"
+        },
+        {
+          "en": "We had a long conver<b>SA</b>tion.",
+          "say": "wi jæd ə long kanverséishən",
+          "es": "Tuvimos una conversación larga.",
+          "icon": "💬"
+        },
+        {
+          "en": "That's a fan<b>TAS</b>tic i<b>DE</b>a!",
+          "say": "dæts ə fæntǽstik aidíiə!",
+          "es": "¡Es una idea fantástica!",
+          "icon": "💡"
+        },
+        {
+          "en": "My <b>COUS</b>in is a pho<b>TOG</b>rapher.",
+          "say": "mai kásən is ə fətágrəfer",
+          "es": "Mi primo es fotógrafo.",
+          "icon": "📸"
+        },
+        {
+          "en": "Look at this old <b>PHO</b>tograph.",
+          "say": "lúk ət dis óuld fóurəgræf",
+          "es": "Mira esta foto antigua.",
+          "icon": "🖼️"
+        },
+        {
+          "en": "She studies at the uni<b>VER</b>sity.",
+          "say": "shi stádis ət də iunəvérsəri",
+          "es": "Ella estudia en la universidad.",
+          "icon": "🎓"
+        },
+        {
+          "en": "This cake is de<b>LI</b>cious!",
+          "say": "dis kéik is dilíshəs!",
+          "es": "¡Esta tarta está deliciosa!",
+          "icon": "🎂"
+        },
+        {
+          "en": "My <b>UN</b>cle is a mu<b>SI</b>cian.",
+          "say": "mai ánkəl is ə miusíshən",
+          "es": "Mi tío es músico.",
+          "icon": "🎻"
+        },
+        {
+          "en": "My friend Kenji is Japa<b>NESE</b>.",
+          "say": "mai frénd kényi is yæpəníis",
+          "es": "Mi amigo Kenji es japonés.",
+          "icon": "🍣"
+        },
+        {
+          "en": "Where's the sham<b>POO</b>?",
+          "say": "wérs də shæmpúu?",
+          "es": "¿Dónde está el champú?",
+          "icon": "🧴"
+        },
+        {
+          "en": "My <b>BED</b>room is next to the <b>BATH</b>room.",
+          "say": "mai bédruum is nékst tə də bǽzruum",
+          "es": "Mi cuarto está al lado del baño.",
+          "icon": "🛏️"
+        },
+        {
+          "en": "A kanga<b>ROO</b> in the <b>GREEN</b>house!",
+          "say": "ə kængərúu in də gríinjaus!",
+          "es": "¡Un canguro en el invernadero!",
+          "icon": "🦘"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "information → <code>informeishón</code>",
+          "good": "<code>inferméishən</code>",
+          "why": "Ese es el golpe de «información». En inglés va justo antes de -tion.",
+          "why_en": "Stress the syllable before -tion."
+        },
+        {
+          "bad": "university → <code>iunivərsirí</code>",
+          "good": "<code>iunəvérsəri</code>",
+          "why": "Con -ity, el golpe va justo antes: VER.",
+          "why_en": "With -ity, stress the syllable before it."
+        },
+        {
+          "bad": "photographer → <code>fóurəgræfer</code>",
+          "good": "<code>fətágrəfer</code>",
+          "why": "Al añadir -er el golpe salta a TOG… ¡como en «fotógrafo»!",
+          "why_en": "The stress jumps to TOG."
+        },
+        {
+          "bad": "economy → <code>ekonómi</code>",
+          "good": "<code>ikánəmi</code>",
+          "why": "Economic sí va en NOM, pero economy va en CON: i-KÁ-nə-mi.",
+          "why_en": "eCONomy, but ecoNOMic."
+        },
+        {
+          "bad": "delicious → <code>delisióus</code>",
+          "good": "<code>dilíshəs</code>",
+          "why": "Tres sílabas y el golpe en LI. ¡Nada de «delicioso»!",
+          "why_en": "Three syllables, stress on LI."
+        },
+        {
+          "bad": "greenhouse (invernadero) → <code>griin jáus</code>",
+          "good": "<code>gríinjaus</code>",
+          "why": "Así dices «casa verde». El compuesto lleva el golpe delante.",
+          "why_en": "Compound nouns are stressed on the first part."
+        },
+        {
+          "bad": "television → <code>teləvíyən</code>",
+          "good": "<code>téləviyən</code>",
+          "why": "Es rebelde: aunque acaba en -sion, el golpe va al principio.",
+          "why_en": "Television is an exception: TELevision."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el zoo",
+      "title_en": "At the zoo",
+      "lines": [
+        {
+          "who": "Tyler",
+          "en": "Look! A photographer from the university.",
+          "say": "lúk! ə fətágrəfer frəm də iunəvérsəri",
+          "es": "¡Mira! Una fotógrafa de la universidad."
+        },
+        {
+          "who": "Mario",
+          "en": "Fantastic! She's taking photographs of the kangaroo.",
+          "say": "fæntǽstik! shiis téiking fóurəgræfs əv də kængərúu",
+          "es": "¡Fantástico! Está haciendo fotos al canguro."
+        },
+        {
+          "who": "Tyler",
+          "en": "It's for a competition. The prize is a trip to Japan.",
+          "say": "its fer ə kampətíshən. də práis is ə tríp tə yəpǽn",
+          "es": "Es para un concurso. El premio es un viaje a Japón."
+        },
+        {
+          "who": "Mario",
+          "en": "I'm curious… Is she Japanese?",
+          "say": "aim kiúriəs… is shi yæpəníis?",
+          "es": "Tengo curiosidad… ¿Es japonesa?"
+        },
+        {
+          "who": "Tyler",
+          "en": "No, she's Canadian. She's also a musician!",
+          "say": "nóu, shiis kənéidiən. shiis ólsou ə miusíshən!",
+          "es": "No, es canadiense. ¡También es música!"
+        },
+        {
+          "who": "Mario",
+          "en": "What a personality! I want to be a photographer too.",
+          "say": "warə persənǽləri! ai wánt tə bi ə fətágrəfer túu",
+          "es": "¡Qué personalidad! Yo también quiero ser fotógrafo."
+        },
+        {
+          "who": "Tyler",
+          "en": "Then you need a good camera and a lot of curiosity.",
+          "say": "den iu níid ə gud kǽmərə ən ə lárə kiuriásəri",
+          "es": "Entonces necesitas una buena cámara y mucha curiosidad."
+        },
+        {
+          "who": "Mario",
+          "en": "Good information! Thanks, Tyler.",
+          "say": "gud inferméishən! zǽnks, táiler",
+          "es": "¡Buena información! Gracias, Tyler."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Antes de decir una palabra larga, mira su <b>final</b>: ¿-tion, -ic, -ity? ¿-ee, -oo?",
+          "en": "Before you say a long word, look at its ending."
+        },
+        {
+          "es": "Si es un final «imán» (con i), da el golpe <b>justo antes</b>: infor-<b>MA</b>-tion.",
+          "en": "With a magnet ending, stress the syllable just before it."
+        },
+        {
+          "es": "Si es -ee, -eer, -ese, -ique u -oo, el golpe va <b>al final</b>: sham-<b>POO</b>.",
+          "en": "With -ee, -eer, -ese, -ique or -oo, stress the ending."
+        },
+        {
+          "es": "Di las familias seguidas para notar el salto: <b>PHO</b>tograph, pho<b>TOG</b>rapher, photo<b>GRAPH</b>ic.",
+          "en": "Say word families in a row and feel the stress jump."
+        },
+        {
+          "es": "Haz parejas de compuestos y grábate: <b>GREEN</b>house / green <b>HOUSE</b>. Compara con los QR.",
+          "en": "Practice compound pairs, record yourself and compare with the QR videos."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "A fantastic photographer took photographic photographs.",
+          "say": "ə fæntǽstik fətágrəfer túk fourəgrǽfik fóurəgræfs",
+          "es": "Una fotógrafa fantástica hizo fotografías fotográficas."
+        },
+        {
+          "en": "The engineer is Japanese, and the kangaroo loves shampoo.",
+          "say": "di enyənír is yæpəníis, ən də kængərúu lavs shæmpúu",
+          "es": "La ingeniera es japonesa y al canguro le encanta el champú."
+        },
+        {
+          "en": "My blackboard isn't a black board: it's green!",
+          "say": "mai blǽkbord ísənt ə blæk bórd: its gríin!",
+          "es": "Mi pizarra no es una tabla negra: ¡es verde!"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "La i imán 🧲",
+      "title_en": "The magnet i",
+      "es": "Casi todos los finales que empujan el golpe hacia atrás llevan una <b>i</b>: -t<b>i</b>on, -s<b>i</b>on, -<b>i</b>c, -<b>i</b>ty, -<b>i</b>an, -<b>i</b>al, -<b>i</b>ous. Piensa en esa i como un <b>imán</b> que atrae el golpe a la sílaba de justo antes. Y los finales con <b>vocal doble</b> (-ee, -oo, -eer) son tan presumidos que se quedan el golpe para ellos.",
+      "en": "Most endings that pull the stress to the syllable before them have an i. Endings with a double vowel (-ee, -oo, -eer) keep the stress."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Antes o en el final?",
+      "title_en": "Before or on the ending?",
+      "icon": "👂",
+      "es": "Mira el final de la palabra y rodea dónde va el golpe. Después, dila en voz alta.",
+      "en": "Look at the ending and circle where the stress goes.",
+      "items": [
+        {
+          "q": "ℹ️ information → [justo antes|en el final]",
+          "a": "justo antes"
+        },
+        {
+          "q": "🧴 shampoo → [justo antes|en el final]",
+          "a": "en el final"
+        },
+        {
+          "q": "⚡ electric → [justo antes|en el final]",
+          "a": "justo antes"
+        },
+        {
+          "q": "🍣 Japanese → [justo antes|en el final]",
+          "a": "en el final"
+        },
+        {
+          "q": "🎓 university → [justo antes|en el final]",
+          "a": "justo antes"
+        },
+        {
+          "q": "👷 engineer → [justo antes|en el final]",
+          "a": "en el final"
+        },
+        {
+          "q": "😋 delicious → [justo antes|en el final]",
+          "a": "justo antes"
+        },
+        {
+          "q": "🦄 unique → [justo antes|en el final]",
+          "a": "en el final"
+        },
+        {
+          "q": "🎻 musician → [justo antes|en el final]",
+          "a": "justo antes"
+        },
+        {
+          "q": "⚽ referee → [justo antes|en el final]",
+          "a": "en el final"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "🧲 Golpe justo antes del final",
+          "words": [
+            "decision",
+            "scientific",
+            "activity",
+            "librarian",
+            "official",
+            "curious"
+          ]
+        },
+        {
+          "name": "🏁 Golpe en el final",
+          "words": [
+            "volunteer",
+            "Chinese",
+            "technique",
+            "tattoo",
+            "guarantee",
+            "career"
+          ]
+        },
+        {
+          "name": "🧩 Compuesto: golpe delante",
+          "words": [
+            "bedroom",
+            "airport",
+            "popcorn",
+            "snowman",
+            "toothbrush",
+            "homework"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada. La tilde marca el golpe.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "information",
+          "<code>inferméishən</code>"
+        ],
+        [
+          "photographer",
+          "<code>fətágrəfer</code>"
+        ],
+        [
+          "economic",
+          "<code>ekənámik</code>"
+        ],
+        [
+          "university",
+          "<code>iunəvérsəri</code>"
+        ],
+        [
+          "Japanese",
+          "<code>yæpəníis</code>"
+        ],
+        [
+          "guarantee",
+          "<code>gærəntíi</code>"
+        ],
+        [
+          "delicious",
+          "<code>dilíshəs</code>"
+        ],
+        [
+          "greenhouse",
+          "<code>gríinjaus</code>"
+        ]
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Mira el final, decide la regla y rodea la sílaba fuerte.",
+      "en": "Look at the ending and circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "in",
+            "for",
+            "ma",
+            "tion"
+          ],
+          "s": 2,
+          "es": "información"
+        },
+        {
+          "syl": [
+            "fan",
+            "tas",
+            "tic"
+          ],
+          "s": 1,
+          "es": "fantástico"
+        },
+        {
+          "syl": [
+            "u",
+            "ni",
+            "ver",
+            "si",
+            "ty"
+          ],
+          "s": 2,
+          "es": "universidad"
+        },
+        {
+          "syl": [
+            "de",
+            "li",
+            "cious"
+          ],
+          "s": 1,
+          "es": "delicioso"
+        },
+        {
+          "syl": [
+            "en",
+            "gi",
+            "neer"
+          ],
+          "s": 2,
+          "es": "ingeniero"
+        },
+        {
+          "syl": [
+            "Jap",
+            "a",
+            "nese"
+          ],
+          "s": 2,
+          "es": "japonés"
+        },
+        {
+          "syl": [
+            "u",
+            "nique"
+          ],
+          "s": 1,
+          "es": "único"
+        },
+        {
+          "syl": [
+            "sham",
+            "poo"
+          ],
+          "s": 1,
+          "es": "champú"
+        },
+        {
+          "syl": [
+            "mu",
+            "si",
+            "cian"
+          ],
+          "s": 1,
+          "es": "músico"
+        },
+        {
+          "syl": [
+            "con",
+            "ver",
+            "sa",
+            "tion"
+          ],
+          "s": 2,
+          "es": "conversación"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Familias: ¿dónde salta?",
+      "title_en": "Families: where does it jump?",
+      "icon": "💃",
+      "es": "Rodea la sílaba fuerte de cada palabra. ¡En la misma familia el golpe salta!",
+      "en": "Circle the stressed syllable. Watch it jump inside each family.",
+      "items": [
+        {
+          "syl": [
+            "pho",
+            "to",
+            "graph"
+          ],
+          "s": 0,
+          "es": "foto, fotografía"
+        },
+        {
+          "syl": [
+            "pho",
+            "tog",
+            "ra",
+            "pher"
+          ],
+          "s": 1,
+          "es": "fotógrafo"
+        },
+        {
+          "syl": [
+            "pho",
+            "to",
+            "graph",
+            "ic"
+          ],
+          "s": 2,
+          "es": "fotográfico"
+        },
+        {
+          "syl": [
+            "e",
+            "con",
+            "o",
+            "my"
+          ],
+          "s": 1,
+          "es": "economía"
+        },
+        {
+          "syl": [
+            "ec",
+            "o",
+            "nom",
+            "ic"
+          ],
+          "s": 2,
+          "es": "económico"
+        },
+        {
+          "syl": [
+            "mu",
+            "sic"
+          ],
+          "s": 0,
+          "es": "música"
+        },
+        {
+          "syl": [
+            "mu",
+            "si",
+            "cian"
+          ],
+          "s": 1,
+          "es": "músico"
+        },
+        {
+          "syl": [
+            "his",
+            "to",
+            "ry"
+          ],
+          "s": 0,
+          "es": "historia"
+        },
+        {
+          "syl": [
+            "his",
+            "tor",
+            "i",
+            "cal"
+          ],
+          "s": 1,
+          "es": "histórico"
+        },
+        {
+          "syl": [
+            "per",
+            "son",
+            "al",
+            "i",
+            "ty"
+          ],
+          "s": 2,
+          "es": "personalidad"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada con la <b>tilde</b> en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds and mark the stress.",
+      "items": [
+        {
+          "q": "🤔 decision → ____",
+          "a": "disíyən"
+        },
+        {
+          "q": "⚡ electric → ____",
+          "a": "iléktrik"
+        },
+        {
+          "q": "🍁 Canadian → ____",
+          "a": "kənéidiən"
+        },
+        {
+          "q": "📜 official → ____",
+          "a": "əfíshəl"
+        },
+        {
+          "q": "👷 engineer → ____",
+          "a": "enyənír"
+        },
+        {
+          "q": "🦄 unique → ____",
+          "a": "iuníik"
+        },
+        {
+          "q": "🦘 kangaroo → ____",
+          "a": "kængərúu"
+        },
+        {
+          "q": "📊 economy → ____",
+          "a": "ikánəmi"
+        },
+        {
+          "q": "✈️ airport → ____",
+          "a": "érport"
+        },
+        {
+          "q": "🎂 birthday → ____",
+          "a": "bérzdei"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "In «information», the stress is on the last syllable, like in Spanish.",
+          "a": false,
+          "why": "infor-MA-tion"
+        },
+        {
+          "q": "Words ending in -ee, -eer and -oo are usually stressed on the ending.",
+          "a": true
+        },
+        {
+          "q": "«Photograph» and «photographer» are stressed on the same syllable.",
+          "a": false,
+          "why": "PHO-tograph / pho-TOG-rapher"
+        },
+        {
+          "q": "Words ending in -ic are stressed on the syllable just before -ic.",
+          "a": true
+        },
+        {
+          "q": "«Coffee» follows the -ee rule.",
+          "a": false,
+          "why": "KÁ-fi: su -ee no es ese final"
+        },
+        {
+          "q": "A «greenhouse» and a «green house» are the same thing.",
+          "a": false,
+          "why": "invernadero / casa verde"
+        },
+        {
+          "q": "Compound nouns like «bedroom» are usually stressed on the first part.",
+          "a": true
+        },
+        {
+          "q": "«Television» follows the -sion rule.",
+          "a": false,
+          "why": "es rebelde: TEL-evision"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Compuesto o no?",
+      "title_en": "Compound or not?",
+      "icon": "🧩",
+      "es": "Lee la frase, piensa en el significado y rodea cómo se dice.",
+      "en": "Read the sentence and circle the right stress.",
+      "items": [
+        {
+          "q": "🌭 I'd like a hot dog with ketchup. → [HOT dog|hot DOG]",
+          "a": "HOT dog"
+        },
+        {
+          "q": "🥵 It's so hot today! Rocky is a very hot dog! → [HOT dog|hot DOG]",
+          "a": "hot DOG"
+        },
+        {
+          "q": "🍅 Tomatoes grow in the greenhouse. → [GREENhouse|green HOUSE]",
+          "a": "GREENhouse"
+        },
+        {
+          "q": "🏠 They live in a green house with a red door. → [GREENhouse|green HOUSE]",
+          "a": "green HOUSE"
+        },
+        {
+          "q": "🏛️ The President lives in the White House. → [WHITE House|white HOUSE]",
+          "a": "WHITE House"
+        },
+        {
+          "q": "🧑‍🏫 Write it on the blackboard. → [BLACKboard|black BOARD]",
+          "a": "BLACKboard"
+        },
+        {
+          "q": "🐦 Listen! A blackbird is singing. → [BLACKbird|black BIRD]",
+          "a": "BLACKbird"
+        },
+        {
+          "q": "🎨 I saw a black bird and a white bird. → [BLACKbird|black BIRD]",
+          "a": "black BIRD"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige el golpe",
+      "title_en": "Fix the stress",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene el golpe (la tilde) en mal sitio. Escríbela bien.",
+      "en": "The stress is in the wrong place. Fix it.",
+      "items": [
+        {
+          "q": "information → <code>informeishón</code>",
+          "a": "inferméishən"
+        },
+        {
+          "q": "fantastic → <code>fǽntæstik</code>",
+          "a": "fæntǽstik"
+        },
+        {
+          "q": "university → <code>iúnivərsiri</code>",
+          "a": "iunəvérsəri"
+        },
+        {
+          "q": "Japanese → <code>yǽpəniis</code>",
+          "a": "yæpəníis"
+        },
+        {
+          "q": "shampoo → <code>shǽmpuu</code>",
+          "a": "shæmpúu"
+        },
+        {
+          "q": "photographer → <code>fóurəgræfer</code>",
+          "a": "fətágrəfer"
+        },
+        {
+          "q": "economy → <code>ekonómi</code>",
+          "a": "ikánəmi"
+        },
+        {
+          "q": "greenhouse → <code>griin jáus</code>",
+          "a": "gríinjaus"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa: el final, dónde va el golpe y cómo suena.",
+      "en": "Fill in the ending, the stress and the sound.",
+      "head": [
+        "Palabra",
+        "Final",
+        "¿Dónde va el golpe?",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "decision",
+          "-sion",
+          "?justo antes (CI)",
+          "?disíyən"
+        ],
+        [
+          "volunteer",
+          "?-eer",
+          "en el final (TEER)",
+          "?valəntír"
+        ],
+        [
+          "scientific",
+          "?-ic",
+          "?justo antes (TIF)",
+          "saiəntífik"
+        ],
+        [
+          "community",
+          "-ity",
+          "?justo antes (MU)",
+          "?kəmiúunəri"
+        ],
+        [
+          "Chinese",
+          "?-ese",
+          "?en el final (NESE)",
+          "chainíis"
+        ],
+        [
+          "comedian",
+          "?-ian",
+          "justo antes (ME)",
+          "?kəmíidiən"
+        ],
+        [
+          "technique",
+          "-ique",
+          "?en el final (NIQUE)",
+          "?tekníik"
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Haz crecer la familia",
+      "title_en": "Grow the family",
+      "icon": "🌱",
+      "es": "Escribe la palabra de la misma familia y pon en MAYÚSCULAS su sílaba fuerte.",
+      "en": "Write the family word and its stressed syllable in capitals.",
+      "items": [
+        {
+          "q": "electric → (la electricidad)",
+          "a": "elecTRICity"
+        },
+        {
+          "q": "music → (persona que toca música)",
+          "a": "muSIcian"
+        },
+        {
+          "q": "Canada → (persona de Canadá)",
+          "a": "caNAdian"
+        },
+        {
+          "q": "economy → (adjetivo: económico)",
+          "a": "ecoNOMic"
+        },
+        {
+          "q": "history → (adjetivo: histórico)",
+          "a": "hisTORical"
+        },
+        {
+          "q": "photograph → (persona que hace fotos)",
+          "a": "phoTOGrapher"
+        },
+        {
+          "q": "personal → (la personalidad)",
+          "a": "persoNALity"
+        },
+        {
+          "q": "Japan → (de Japón)",
+          "a": "JapaNESE"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) con palmada en cada golpe. Marca una casilla cada vez.",
+      "en": "Read each sentence three times, clapping on the stressed syllables.",
+      "items": [
+        {
+          "q": "What a fantastic conversation!",
+          "say": "warə fæntǽstik kanverséishən!"
+        },
+        {
+          "q": "The engineer is Chinese.",
+          "say": "di enyənír is chainíis"
+        },
+        {
+          "q": "I need information about the university.",
+          "say": "ai níid inferméishən əbáut də iunəvérsəri"
+        },
+        {
+          "q": "This shampoo is unique.",
+          "say": "dis shæmpúu is iuníik"
+        },
+        {
+          "q": "My uncle is a creative photographer.",
+          "say": "mai ánkəl is ə kriéiriv fətágrəfer"
+        },
+        {
+          "q": "The referee made a decision.",
+          "say": "də refəríi méid ə disíyən"
+        },
+        {
+          "q": "Don't eat popcorn in the bedroom!",
+          "say": "dóunt íit pápkorn in də bédruum!"
+        },
+        {
+          "q": "Electricity is essential.",
+          "say": "ilektrísəri is isénshəl"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés y dilo con el golpe en su sitio.",
+      "en": "Translate into English and say it with the right stress.",
+      "items": [
+        {
+          "q": "información",
+          "a": "information (inferméishən)"
+        },
+        {
+          "q": "fotógrafo",
+          "a": "photographer (fətágrəfer)"
+        },
+        {
+          "q": "universidad",
+          "a": "university (iunəvérsəri)"
+        },
+        {
+          "q": "delicioso",
+          "a": "delicious (dilíshəs)"
+        },
+        {
+          "q": "ingeniero",
+          "a": "engineer (enyənír)"
+        },
+        {
+          "q": "japonés",
+          "a": "Japanese (yæpəníis)"
+        },
+        {
+          "q": "champú",
+          "a": "shampoo (shæmpúu)"
+        },
+        {
+          "q": "invernadero",
+          "a": "greenhouse (gríinjaus)"
+        },
+        {
+          "q": "músico",
+          "a": "musician (miusíshən)"
+        },
+        {
+          "q": "cumpleaños",
+          "a": "birthday (bérzdei)"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de finales",
+      "title_en": "Endings word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Cuando encuentres una, dila con el golpe en su sitio.",
+      "en": "Find 10 words and say them with the right stress.",
+      "words": [
+        "fantastic",
+        "engineer",
+        "shampoo",
+        "kangaroo",
+        "unique",
+        "Chinese",
+        "musician",
+        "delicious",
+        "airport",
+        "popcorn"
+      ],
+      "clues": [
+        "fantastic · fantástico (TAS)",
+        "engineer · ingeniero (NEER)",
+        "shampoo · champú (POO)",
+        "kangaroo · canguro (ROO)",
+        "unique · único (NIQUE)",
+        "Chinese · chino (NESE)",
+        "musician · músico (SI)",
+        "delicious · delicioso (LI)",
+        "airport · aeropuerto (AIR)",
+        "popcorn · palomitas (POP)"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza los golpes",
+      "title_en": "Read and find the stress",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Ashley's first job",
+      "text": [
+        "Ashley is Canadian. She studied photography at the university, and now she's a photographer for a fantastic magazine.",
+        "Her first job: taking photographs of a kangaroo at the zoo. The kangaroo was very curious. It jumped on her camera… and Ashley took a unique photograph!"
+      ],
+      "items": [
+        {
+          "q": "Where is Ashley from?",
+          "a": "From Canada: she's Canadian (<code>kənéidiən</code>)."
+        },
+        {
+          "q": "What is Ashley's job?",
+          "a": "She's a photographer (<code>fətágrəfer</code>)."
+        },
+        {
+          "q": "Find two words stressed on the ending.",
+          "a": "kangaroo (kængə-RÚU), unique (iu-NÍIK)"
+        },
+        {
+          "q": "«Photography» and «photographer» are stressed on the same syllable.",
+          "tf": true,
+          "a": true,
+          "why": "pho-TOG-raphy, pho-TOG-rapher"
+        },
+        {
+          "q": "«Curious» is stressed on the first syllable.",
+          "tf": true,
+          "a": true,
+          "why": "CU-ri-ous: justo antes de -ious"
+        },
+        {
+          "q": "«Fantastic» is stressed on the first syllable.",
+          "tf": true,
+          "a": false,
+          "why": "fan-TAS-tic"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe tus frases, marca en MAYÚSCULAS las sílabas fuertes y léelas en voz alta. ¡Grábate!",
+      "en": "Write your own sentences, mark the stress and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con una palabra en -tion y otra en -ic.",
+          "lines": 2,
+          "a": "Ej.: It was a fanTAStic converSAtion."
+        },
+        {
+          "q": "Una frase con una familia (photograph / photographer…).",
+          "lines": 2,
+          "a": "Ej.: The phoTOGrapher took a PHOtograph."
+        },
+        {
+          "q": "Una frase con un compuesto (bedroom, birthday, airport…).",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Pongo el golpe <b>justo antes</b> de -tion, -sion, -ic, -ity, -ian, -ial, -ious.",
+      "en": "I stress the syllable before -tion, -ic, -ity…"
+    },
+    {
+      "es": "Pongo el golpe <b>en el final</b> con -ee, -eer, -ese, -ique, -oo.",
+      "en": "I stress -ee, -eer, -ese, -ique and -oo."
+    },
+    {
+      "es": "Digo <code>inferméishən</code> y <code>iunəvérsəri</code>, no como en español.",
+      "en": "I don't use Spanish stress in information or university."
+    },
+    {
+      "es": "Noto el salto en <b>PHO</b>tograph, pho<b>TOG</b>rapher, photo<b>GRAPH</b>ic.",
+      "en": "I can feel the stress jump in word families."
+    },
+    {
+      "es": "Distingo un <b>GREEN</b>house de una green <b>HOUSE</b>.",
+      "en": "I can tell a greenhouse from a green house."
+    },
+    {
+      "es": "Me sé las rebeldes: <b>TEL</b>evision, <b>COF</b>fee, <b>POL</b>itics.",
+      "en": "I know the exceptions: television, coffee, politics."
+    }
+  ]
+}

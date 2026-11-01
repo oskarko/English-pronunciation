@@ -1,0 +1,1753 @@
+{
+  "id": "C-02",
+  "block": "C",
+  "title": "LA T QUE SUENA <em>R</em>",
+  "file_title": "La T que suena R (flap T)",
+  "subtitle": "The American flap T · water = «wárer»",
+  "icon": "💧",
+  "map": {
+    "center": "En inglés americano, la <b>T entre vocales</b> suena como la <b>r</b> de «pe<b>r</b>o»: water = <code>wárer</code>.",
+    "listen": "water",
+    "nodes": [
+      {
+        "title": "¿Cuándo pasa?",
+        "icon": "⏱️",
+        "color": "green",
+        "items": [
+          "<b>T</b> o <b>TT</b> entre dos vocales",
+          "la sílaba de detrás es <b>débil</b>",
+          "con la <b>D</b> igual: body, ready"
+        ]
+      },
+      {
+        "title": "Suena como…",
+        "icon": "🇪🇸",
+        "color": "blue",
+        "rows": [
+          [
+            "water",
+            "<code>wárer</code>"
+          ],
+          [
+            "city",
+            "<code>síri</code> (¡Siri!)"
+          ],
+          [
+            "better",
+            "<code>bérer</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Entre palabras",
+        "icon": "🔗",
+        "color": "purple",
+        "rows": [
+          [
+            "get it",
+            "<code>guérit</code>"
+          ],
+          [
+            "got it",
+            "<code>gárit</code>"
+          ],
+          [
+            "shut up",
+            "<code>sharáp</code>"
+          ]
+        ]
+      },
+      {
+        "title": "¡Aquí NO cambia!",
+        "icon": "✋",
+        "color": "orange",
+        "items": [
+          "al empezar: <b>t</b>able, <b>t</b>oday",
+          "sílaba fuerte: ho<b>TEL</b>, I<b>TA</b>lian",
+          "tras consonante: af<b>t</b>er"
+        ]
+      },
+      {
+        "title": "Con R delante",
+        "icon": "🎉",
+        "color": "pink",
+        "rows": [
+          [
+            "party",
+            "<code>párdi</code>"
+          ],
+          [
+            "thirty",
+            "<code>zérdi</code>"
+          ]
+        ],
+        "after": "casi una <b>d</b> suave"
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Dila como si fuera español, con <b>una sola r</b> suave: <code>kíri</code>, <code>lírəl</code>.",
+        "art": "🏙️"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "<code>wáter</code> con T fuerte"
+      ],
+      "good": [
+        "<code>wárer</code> 💧"
+      ],
+      "note": "Con T española, water suena a «váter» 🚽"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "💧 water → ____",
+          "a": "wárer"
+        },
+        {
+          "q": "🏙️ city → ____",
+          "a": "síri"
+        },
+        {
+          "q": "👍 better → ____",
+          "a": "bérer"
+        },
+        {
+          "q": "🧈 butter → ____",
+          "a": "bárer"
+        },
+        {
+          "q": "❄️ let it go → ____",
+          "a": "lérigóu"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la flap T?",
+      "title_en": "What is the flap T?",
+      "icon": "🔎",
+      "es": "Si has oído a un americano pedir <code>wárer</code> en vez de «water», ya conoces la T más famosa de Estados Unidos. Se llama <b>flap T</b> (T de toque): la lengua da <b>un golpecito rápido</b> detrás de los dientes de arriba, exactamente igual que la <b>r</b> de «pe<b>r</b>o», «ca<b>r</b>a» o «pa<b>r</b>a». <mark>No es una T mal dicha</mark>: es como habla cualquier americano, desde un niño de 5 años hasta el presidente. En el alfabeto fonético se escribe /ɾ/.",
+      "en": "In American English, a T between vowels usually becomes a quick tap /ɾ/, just like the Spanish r in «pero». So <b>water</b> sounds like «wárer» and <b>city</b> sounds like «Siri».",
+      "formula": [
+        "vocal + *T* + vocal débil → *r suave*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "tongue",
+          "es": "La punta toca <b>un instante</b> la encía de arriba (justo detrás de los dientes) y se suelta. Un solo toque, sin fuerza, como en «pero».",
+          "en": "The tongue tip taps the ridge behind your top teeth once, very fast."
+        },
+        {
+          "part": "air",
+          "es": "<b>No hay soplido.</b> La T normal de <b>table</b> tiene una explosión de aire; esta no.",
+          "en": "No puff of air, unlike the T in table."
+        },
+        {
+          "part": "voice",
+          "es": "La garganta <b>vibra todo el rato</b> (pon la mano en el cuello). Por eso suena a r o a d suave.",
+          "en": "Your voice keeps vibrating, so it sounds like a soft r or d."
+        },
+        {
+          "part": "jaw",
+          "es": "Mandíbula relajada: no cierres la boca entre las dos vocales. Todo va <b>pegado</b>.",
+          "en": "Keep your jaw relaxed and connect the two vowels."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · T entre vocales",
+      "title_en": "T between vowels",
+      "icon": "💧",
+      "es": "Cuando una <b>T</b> (o <b>TT</b>) está <b>entre dos sonidos vocálicos</b> y la sílaba de detrás es <b>débil</b> (sin acento), se convierte en una r suave. Es lo que pasa en la inmensa mayoría de palabras como water, city, better, pretty o computer.",
+      "en": "When T or TT is between two vowel sounds and the next syllable is unstressed, it becomes a tap.",
+      "formula": [
+        "wa + *T* + er → wá*r*er",
+        "ci + *T* + y → sí*r*i"
+      ],
+      "examples": [
+        {
+          "en": "water",
+          "say": "wárer",
+          "es": "agua",
+          "icon": "💧"
+        },
+        {
+          "en": "city",
+          "say": "síri",
+          "es": "ciudad",
+          "icon": "🏙️"
+        },
+        {
+          "en": "computer",
+          "say": "kəmpiúrer",
+          "es": "ordenador",
+          "icon": "💻"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · La D también",
+      "title_en": "D does it too",
+      "icon": "🪜",
+      "es": "La <b>D</b> entre vocales hace exactamente lo mismo. Por eso, en americano, <b>ladder</b> (escalera) y <b>latter</b> (este último) suenan <mark>igual</mark>: <code>lǽrer</code>. El contexto te dice cuál es.",
+      "en": "D between vowels also becomes a tap, so ladder and latter sound the same.",
+      "examples": [
+        {
+          "en": "body",
+          "say": "bári",
+          "es": "cuerpo",
+          "icon": "🧍"
+        },
+        {
+          "en": "ready",
+          "say": "réri",
+          "es": "listo",
+          "icon": "✅"
+        },
+        {
+          "en": "nobody",
+          "say": "nóubari",
+          "es": "nadie",
+          "icon": "🙅"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Con R delante",
+      "title_en": "After R",
+      "icon": "🎉",
+      "es": "Si antes de la T hay una <b>R americana</b> (party, forty, thirty, dirty), también hay toque. Como la lengua ya viene de la r, el toque suena <b>casi como una d suave</b>: <code>párdi</code>, <code>fórdi</code>. ¡Nada de «par-ti» con T fuerte!",
+      "en": "After an American R, the T also becomes a tap. It sounds almost like a soft d: party, forty.",
+      "examples": [
+        {
+          "en": "party",
+          "say": "párdi",
+          "es": "fiesta",
+          "icon": "🎉"
+        },
+        {
+          "en": "forty",
+          "say": "fórdi",
+          "es": "cuarenta",
+          "icon": "4️⃣"
+        },
+        {
+          "en": "dirty",
+          "say": "dérdi",
+          "es": "sucio",
+          "icon": "🧦"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Entre dos palabras",
+      "title_en": "Across words",
+      "icon": "🔗",
+      "es": "Los americanos <b>pegan las palabras</b>. Si una palabra acaba en T y la siguiente empieza por vocal, la T queda «entre vocales» y también hace el toque. Así nacen joyas como <code>gárit</code> (got it) o <code>lérigóu</code> (let it go).",
+      "en": "If a word ends in T and the next word starts with a vowel, the T becomes a tap: got it, let it go.",
+      "formula": [
+        "palabra con *T* final + palabra con *vocal* → *r suave*"
+      ],
+      "examples": [
+        {
+          "en": "Got it!",
+          "say": "gárit",
+          "es": "¡Entendido!",
+          "icon": "💡"
+        },
+        {
+          "en": "Let it go!",
+          "say": "lérigóu",
+          "es": "¡Suéltalo!",
+          "icon": "❄️"
+        },
+        {
+          "en": "Shut up!",
+          "say": "sharáp",
+          "es": "¡Calla! / ¡No me digas!",
+          "icon": "🤐"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "city",
+          "ipa": "ˈsɪɾi",
+          "say": "síri",
+          "es": "ciudad",
+          "icon": "🏙️",
+          "anchor": "<b>Siri</b> 📱",
+          "tip": "Igualito que el asistente del iPhone. ¡Pídele a Siri una «city»!"
+        },
+        {
+          "en": "kitty",
+          "ipa": "ˈkɪɾi",
+          "say": "kíri",
+          "es": "gatito",
+          "icon": "🐱",
+          "anchor": "queso <b>Kiri</b> 🧀",
+          "tip": "Un gatito comiendo queso Kiri: kitty = Kiri."
+        },
+        {
+          "en": "naughty",
+          "ipa": "ˈnɑɾi",
+          "say": "nári",
+          "es": "travieso",
+          "icon": "😜",
+          "anchor": "<b>nari</b>z 👃",
+          "tip": "Di «nariz» y quítale la z final: «nari». ¡Un niño travieso con la nariz sucia!"
+        },
+        {
+          "en": "got it",
+          "ipa": "ˈɡɑɾɪt",
+          "say": "gárit",
+          "es": "entendido / lo tengo",
+          "icon": "💡",
+          "anchor": "<b>garit</b>o 🍺",
+          "tip": "Di «garito» sin la o final. Got it!"
+        },
+        {
+          "en": "shut up",
+          "ipa": "ʃʌˈɾʌp",
+          "say": "sharáp",
+          "es": "¡calla! / ¡no me digas!",
+          "icon": "🤐",
+          "anchor": "sha + <b>rap</b> 🎤",
+          "tip": "Como si dijeras «sha» y luego «rap». El golpe va en «RAP»."
+        },
+        {
+          "en": "water",
+          "ipa": "ˈwɑɾɚ",
+          "say": "wárer",
+          "es": "agua",
+          "icon": "💧",
+          "anchor": "<s>váter</s> 🚽 → <b>wárer</b>",
+          "tip": "Con T fuerte suena a «váter». Con toque, a agua. ¡Elige bien!"
+        },
+        {
+          "en": "better",
+          "ipa": "ˈbɛɾɚ",
+          "say": "bérer",
+          "es": "mejor",
+          "icon": "👍",
+          "anchor": "<b>be</b>so + <b>rer</b>",
+          "tip": "Dos sílabas suaves, la fuerza en «BE»: BÉ-rer."
+        },
+        {
+          "en": "butter",
+          "ipa": "ˈbʌɾɚ",
+          "say": "bárer",
+          "es": "mantequilla",
+          "icon": "🧈",
+          "anchor": "<b>ba</b>r + <b>rer</b>",
+          "tip": "La u de butter suena a «a» corta (lo verás en el mapa V-04)."
+        },
+        {
+          "en": "pretty",
+          "ipa": "ˈprɪɾi",
+          "say": "príri",
+          "es": "bonito / bastante",
+          "icon": "🌸",
+          "anchor": "<b>pri</b>mo + <b>ri</b>",
+          "tip": "«Pretty good» = <code>príri gud</code>, «bastante bien»."
+        },
+        {
+          "en": "beautiful",
+          "ipa": "ˈbjuːɾəfəl",
+          "say": "biúrəfəl",
+          "es": "precioso",
+          "icon": "🌅",
+          "anchor": "<b>biu</b> + <b>rə</b> + <b>fəl</b>",
+          "tip": "Nada de «bio-ti-ful»: BIÚ-rə-fəl, con la fuerza al principio."
+        },
+        {
+          "en": "Let it go",
+          "ipa": "ˌlɛɾɪˈɡoʊ",
+          "say": "lérigóu",
+          "es": "suéltalo",
+          "icon": "❄️",
+          "anchor": "canción de <b>Frozen</b> 🎶",
+          "tip": "Cántala: «lé-ri-góu, lé-ri-góu». Tienes dos T y ninguna suena a T."
+        },
+        {
+          "en": "Saturday",
+          "ipa": "ˈsæɾɚdeɪ",
+          "say": "sǽrerdei",
+          "es": "sábado",
+          "icon": "📅",
+          "anchor": "<b>sa</b>l + <b>rer</b> + <b>dei</b>",
+          "tip": "SǼ-rer-dei. La «day» final suena «dei», como en «deidad»."
+        },
+        {
+          "en": "hospital",
+          "ipa": "ˈhɑspɪɾəl",
+          "say": "jáspirəl",
+          "es": "hospital",
+          "icon": "🏥",
+          "anchor": "<s>hos-pi-TAL</s> → <b>JÁS</b>pirəl",
+          "tip": "La fuerza va al principio y la T se suaviza: JÁS-pi-rəl."
+        },
+        {
+          "en": "totally",
+          "ipa": "ˈtoʊɾəli",
+          "say": "tóurəli",
+          "es": "totalmente",
+          "icon": "💯",
+          "anchor": "<b>tou</b> + <b>rə</b> + <b>li</b>",
+          "tip": "La primera T es normal (empieza la palabra); la segunda hace el toque."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "water",
+          "es": "agua"
+        },
+        {
+          "q": "city",
+          "es": "ciudad"
+        },
+        {
+          "q": "better",
+          "es": "mejor"
+        },
+        {
+          "q": "a lot of",
+          "es": "mucho"
+        },
+        {
+          "q": "let it go",
+          "es": "suéltalo"
+        },
+        {
+          "q": "Saturday",
+          "es": "sábado"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Toque o T normal?",
+      "title_en": "Tap or regular T?",
+      "icon": "🧭",
+      "head": [
+        "Palabra · Word",
+        "¿Dónde está la T?",
+        "¿Toque?",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "water",
+          "entre vocales, sílaba de detrás débil",
+          "✅ sí",
+          "<code>wárer</code>"
+        ],
+        [
+          "Italy",
+          "entre vocales, sílaba de detrás débil",
+          "✅ sí",
+          "<code>írəli</code>"
+        ],
+        [
+          "Italian",
+          "empieza la sílaba fuerte (i-TA-lian)",
+          "❌ no",
+          "<code>itǽliən</code>"
+        ],
+        [
+          "hotel",
+          "empieza la sílaba fuerte (ho-TEL)",
+          "❌ no",
+          "<code>joutél</code>"
+        ],
+        [
+          "table",
+          "al principio de la palabra",
+          "❌ no",
+          "<code>téibəl</code>"
+        ],
+        [
+          "after",
+          "detrás de una consonante (f)",
+          "❌ no",
+          "<code>ǽfter</code>"
+        ],
+        [
+          "doctor",
+          "detrás de una consonante (k)",
+          "❌ no",
+          "<code>dákter</code>"
+        ],
+        [
+          "party",
+          "detrás de R",
+          "✅ sí (casi d)",
+          "<code>párdi</code>"
+        ],
+        [
+          "atom",
+          "entre vocales, sílaba de detrás débil",
+          "✅ sí",
+          "<code>ǽrəm</code>"
+        ],
+        [
+          "atomic",
+          "empieza la sílaba fuerte (a-TO-mic)",
+          "❌ no",
+          "<code>ətámik</code>"
+        ],
+        [
+          "get it",
+          "final de palabra + vocal",
+          "✅ sí",
+          "<code>guérit</code>"
+        ],
+        [
+          "get me",
+          "final de palabra + consonante",
+          "❌ no",
+          "<code>gue' mi</code>"
+        ]
+      ],
+      "note": "La regla de oro: <b>vocal + T + vocal débil = toque</b>. Si la T abre la sílaba fuerte, se queda como T. (La T después de N, como en twenty, la verás en el mapa C-03.)",
+      "note_en": "Golden rule: vowel + T + weak vowel = tap. If T starts the stressed syllable, it stays a T."
+    },
+    {
+      "t": "stress",
+      "title": "La sílaba fuerte manda",
+      "title_en": "Stress decides",
+      "icon": "🥁",
+      "es": "Mira dónde cae el golpe (●). Si la T va <b>justo antes</b> de la sílaba fuerte, no hay toque.",
+      "en": "If the T starts the stressed syllable, there is no tap.",
+      "items": [
+        {
+          "syl": [
+            "I",
+            "ta",
+            "ly"
+          ],
+          "s": 0,
+          "say": "írəli",
+          "es": "Italia · toque ✅"
+        },
+        {
+          "syl": [
+            "I",
+            "ta",
+            "lian"
+          ],
+          "s": 1,
+          "say": "itǽliən",
+          "es": "italiano · T ❌"
+        },
+        {
+          "syl": [
+            "pho",
+            "to"
+          ],
+          "s": 0,
+          "say": "fóurou",
+          "es": "foto · toque ✅"
+        },
+        {
+          "syl": [
+            "pho",
+            "to",
+            "gra",
+            "phy"
+          ],
+          "s": 1,
+          "say": "fətágrəfi",
+          "es": "fotografía · T ❌"
+        },
+        {
+          "syl": [
+            "a",
+            "tom"
+          ],
+          "s": 0,
+          "say": "ǽrəm",
+          "es": "átomo · toque ✅"
+        },
+        {
+          "syl": [
+            "a",
+            "to",
+            "mic"
+          ],
+          "s": 1,
+          "say": "ətámik",
+          "es": "atómico · T ❌"
+        },
+        {
+          "syl": [
+            "po",
+            "ta",
+            "to"
+          ],
+          "s": 1,
+          "say": "pətéirou",
+          "es": "patata · 1.ª T ❌, 2.ª ✅"
+        },
+        {
+          "syl": [
+            "to",
+            "ma",
+            "to"
+          ],
+          "s": 1,
+          "say": "təméirou",
+          "es": "tomate · 1.ª T ❌, 2.ª ✅"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Británico vs. americano",
+      "title_en": "British vs. American",
+      "icon": "🌍",
+      "es": "En este libro aprendemos el inglés de <b>Estados Unidos</b>. Los británicos casi nunca hacen el toque.",
+      "en": "In this book we learn American English. British speakers rarely use the tap.",
+      "cols": [
+        {
+          "head": "🇬🇧 Reino Unido",
+          "color": "blue",
+          "items": [
+            "water → <code>wóota</code> (T clara)",
+            "city → <code>síti</code>",
+            "better → <code>béta</code>",
+            "a veces la T se «traga»: <code>wó'a</code>"
+          ]
+        },
+        {
+          "head": "🇺🇸 Estados Unidos",
+          "color": "red",
+          "items": [
+            "water → <code>wárer</code>",
+            "city → <code>síri</code>",
+            "better → <code>bérer</code>",
+            "¡y la R final se pronuncia!"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "Suenan igual en americano",
+      "title_en": "Same sound in American English",
+      "icon": "👯",
+      "items": [
+        {
+          "a": {
+            "en": "ladder",
+            "ipa": "ˈlæɾɚ",
+            "say": "lǽrer",
+            "es": "escalera",
+            "icon": "🪜"
+          },
+          "b": {
+            "en": "latter",
+            "ipa": "ˈlæɾɚ",
+            "say": "lǽrer",
+            "es": "este último",
+            "icon": "👉"
+          },
+          "tip": "Idénticas. Solo el contexto te dice cuál es."
+        },
+        {
+          "a": {
+            "en": "metal",
+            "ipa": "ˈmɛɾəl",
+            "say": "mérəl",
+            "es": "metal",
+            "icon": "🔩"
+          },
+          "b": {
+            "en": "medal",
+            "ipa": "ˈmɛɾəl",
+            "say": "mérəl",
+            "es": "medalla",
+            "icon": "🥇"
+          },
+          "tip": "Una medalla de metal: <code>ə mérəl mérəl</code>. 😄"
+        },
+        {
+          "a": {
+            "en": "atom",
+            "ipa": "ˈæɾəm",
+            "say": "ǽrəm",
+            "es": "átomo",
+            "icon": "⚛️"
+          },
+          "b": {
+            "en": "Adam",
+            "ipa": "ˈæɾəm",
+            "say": "ǽrəm",
+            "es": "Adán",
+            "icon": "🍎"
+          },
+          "tip": "El nombre Adam y la palabra atom suenan igual."
+        },
+        {
+          "a": {
+            "en": "writer",
+            "ipa": "ˈraɪɾɚ",
+            "say": "ráirer",
+            "es": "escritor",
+            "icon": "✍️"
+          },
+          "b": {
+            "en": "rider",
+            "ipa": "ˈraɪɾɚ",
+            "say": "ráirer",
+            "es": "jinete",
+            "icon": "🏇"
+          },
+          "tip": "Casi iguales: en «rider» la «ai» dura un pelín más."
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "Not at all.",
+          "spoken": "Nodda-dall",
+          "say": "nárəról",
+          "es": "Para nada / De nada."
+        },
+        {
+          "written": "Check it out!",
+          "spoken": "Checki-dout!",
+          "say": "chekiráut",
+          "es": "¡Míralo! / ¡Échale un ojo!"
+        },
+        {
+          "written": "Put it on.",
+          "spoken": "Puddi-don",
+          "say": "purirán",
+          "es": "Póntelo."
+        },
+        {
+          "written": "A lot of water",
+          "spoken": "A lodda water",
+          "say": "əlárə wárer",
+          "es": "Mucha agua"
+        },
+        {
+          "written": "Wait a minute!",
+          "spoken": "Waida minute!",
+          "say": "wéirə mínit",
+          "es": "¡Espera un momento!"
+        },
+        {
+          "written": "What about Saturday?",
+          "spoken": "Whadda-bout Saturday?",
+          "say": "warəbáut sǽrerdei",
+          "es": "¿Qué tal el sábado?"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I need a bottle of water.",
+          "say": "ai níid ə bárələv wárer",
+          "es": "Necesito una botella de agua.",
+          "icon": "💧"
+        },
+        {
+          "en": "New York is a big city.",
+          "say": "nu iórk isə big síri",
+          "es": "Nueva York es una ciudad grande.",
+          "icon": "🗽"
+        },
+        {
+          "en": "This one is better.",
+          "say": "dis wan is bérer",
+          "es": "Este es mejor.",
+          "icon": "👍"
+        },
+        {
+          "en": "Pass me the butter, please.",
+          "say": "pǽs mi də bárer, pliis",
+          "es": "Pásame la mantequilla, por favor.",
+          "icon": "🧈"
+        },
+        {
+          "en": "What a pretty dog!",
+          "say": "warə príri dog",
+          "es": "¡Qué perro tan bonito!",
+          "icon": "🐶"
+        },
+        {
+          "en": "We have a meeting on Saturday.",
+          "say": "wi jǽv ə míiring an sǽrerdei",
+          "es": "Tenemos una reunión el sábado.",
+          "icon": "📅"
+        },
+        {
+          "en": "My computer is old.",
+          "say": "mai kəmpiúrer is óuld",
+          "es": "Mi ordenador es viejo.",
+          "icon": "💻"
+        },
+        {
+          "en": "It doesn't matter.",
+          "say": "it dás'n mǽrer",
+          "es": "No importa.",
+          "icon": "🤷"
+        },
+        {
+          "en": "Put it on the table.",
+          "say": "purirán də téibəl",
+          "es": "Ponlo en la mesa.",
+          "icon": "🍽️"
+        },
+        {
+          "en": "I'm totally ready!",
+          "say": "aim tóurəli réri",
+          "es": "¡Estoy totalmente listo!",
+          "icon": "✅"
+        },
+        {
+          "en": "Eat a little bit.",
+          "say": "íirə lírəl bit",
+          "es": "Come un poquito.",
+          "icon": "🍪"
+        },
+        {
+          "en": "Let's meet at eight.",
+          "say": "lets míirəréit",
+          "es": "Quedemos a las ocho.",
+          "icon": "🕗"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "water → <code>wáter</code> (T explosiva)",
+          "good": "<code>wárer</code>",
+          "why": "Con T española suena a «váter». Un toque suave, como en «pero».",
+          "why_en": "Use a soft tap, not a hard T."
+        },
+        {
+          "bad": "better → <code>bérrer</code> (rr fuerte)",
+          "good": "<code>bérer</code>",
+          "why": "Es una r <b>simple</b>, un solo toque. Nada de vibrar como en «perro».",
+          "why_en": "One single tap, never a trilled rr."
+        },
+        {
+          "bad": "hotel → <code>jourél</code>",
+          "good": "<code>joutél</code>",
+          "why": "La T empieza la sílaba fuerte (ho-TEL): se queda como T.",
+          "why_en": "T starts the stressed syllable, so it stays a T."
+        },
+        {
+          "bad": "Italian → <code>irǽliən</code>",
+          "good": "<code>itǽliən</code>",
+          "why": "Italy sí lleva toque (<code>írəli</code>), pero Italian no: la fuerza está en TA.",
+          "why_en": "Italy has a tap; Italian doesn't."
+        },
+        {
+          "bad": "after → <code>ǽrer</code>",
+          "good": "<code>ǽfter</code>",
+          "why": "Detrás de una consonante (f) la T no cambia.",
+          "why_en": "After a consonant, the T doesn't change."
+        },
+        {
+          "bad": "city → <code>síti</code>",
+          "good": "<code>síri</code>",
+          "why": "Así lo dice un británico. En Estados Unidos, ¡como Siri!",
+          "why_en": "That's British. Americans say it like Siri."
+        },
+        {
+          "bad": "party → <code>pár-ti</code>",
+          "good": "<code>párdi</code>",
+          "why": "Después de R también hay toque; suena casi como una d suave.",
+          "why_en": "After R, the T is a tap too."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En la cafetería",
+      "title_en": "At the café",
+      "lines": [
+        {
+          "who": "Jenny",
+          "en": "Hey Mario! What are you eating?",
+          "say": "jei mário! wárər iu íiring?",
+          "es": "¡Eh, Mario! ¿Qué estás comiendo?"
+        },
+        {
+          "who": "Mario",
+          "en": "A potato with a little bit of butter.",
+          "say": "ə pətéirou wid ə lírəl bírəv bárer",
+          "es": "Una patata con un poquito de mantequilla."
+        },
+        {
+          "who": "Jenny",
+          "en": "That's a lot of butter!",
+          "say": "dæts ə lárəv bárer!",
+          "es": "¡Eso es mucha mantequilla!"
+        },
+        {
+          "who": "Mario",
+          "en": "It's better with butter. Want a bit?",
+          "say": "its bérer wid bárer. wánə bit?",
+          "es": "Está mejor con mantequilla. ¿Quieres un poco?"
+        },
+        {
+          "who": "Jenny",
+          "en": "No thanks. I'll get a bottle of water.",
+          "say": "nóu zænks. ail guérə bárələv wárer",
+          "es": "No, gracias. Voy a pedir una botella de agua."
+        },
+        {
+          "who": "Mario",
+          "en": "Get me one too! It's hot in this city.",
+          "say": "gue' mi wan tuu! its járin dis síri",
+          "es": "¡Tráeme otra! Hace calor en esta ciudad."
+        },
+        {
+          "who": "Jenny",
+          "en": "Totally! Let's meet at the park on Saturday.",
+          "say": "tóurəli! lets míirət də párk an sǽrerdei",
+          "es": "¡Totalmente! Quedemos en el parque el sábado."
+        },
+        {
+          "who": "Mario",
+          "en": "Great! See you later!",
+          "say": "gréit! sii iu léirer!",
+          "es": "¡Genial! ¡Hasta luego!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di en español «pe<b>r</b>o, ca<b>r</b>a, pa<b>r</b>a» y fíjate en el toque de la lengua.",
+          "en": "Say «pero, cara, para» and feel the tap."
+        },
+        {
+          "es": "Sustituye la T por ese toque: «wa-<b>r</b>er», «si-<b>r</b>i», «be-<b>r</b>er».",
+          "en": "Replace the T with that tap."
+        },
+        {
+          "es": "Ahora más rápido y <b>pegado</b>, con la fuerza en la primera sílaba: <code>WÁrer</code>, <code>SÍri</code>.",
+          "en": "Say it faster, stressing the first syllable."
+        },
+        {
+          "es": "Pasa a frases: <code>gárit</code>, <code>lérigóu</code>, <code>chekiráut</code>.",
+          "en": "Move on to phrases: got it, let it go, check it out."
+        },
+        {
+          "es": "Escanea los QR, escucha 3 vídeos y <b>grábate</b> repitiendo. Compara.",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Betty Botter bought some butter, but she said, “The butter's bitter.”",
+          "say": "béri bárer bát səm bárer, bət shi sed, də bárers bírer",
+          "es": "Betty Botter compró mantequilla, pero dijo: «La mantequilla está amarga»."
+        },
+        {
+          "en": "A little kitty in the city ate a lot of butter.",
+          "say": "ə lírəl kíri in də síri éirə lárəv bárer",
+          "es": "Un gatito de la ciudad se comió mucha mantequilla."
+        },
+        {
+          "en": "Get it, got it, put it in the bottle of water.",
+          "say": "guérit, gárit, púririn də bárələv wárer",
+          "es": "Cógelo, lo tengo, mételo en la botella de agua."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de Siri",
+      "title_en": "The Siri trick",
+      "es": "Cuando dudes, piensa en <b>Siri</b>: si la T está entre vocales y no empieza la sílaba fuerte, dila como la r de «Siri». Y si alguna vez pides agua y te miran raro… ¡acuérdate del <s>váter</s>! 🚽💧",
+      "en": "When in doubt, think of Siri: a T between vowels before a weak syllable sounds like the r in «Siri»."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Toque o T?",
+      "title_en": "Tap or T?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea cómo suena la T: <b>r</b> (toque) o <b>t</b> (T normal).",
+      "en": "Say the word and circle how the T sounds.",
+      "items": [
+        {
+          "q": "water → [r|t]",
+          "a": "r"
+        },
+        {
+          "q": "hotel → [r|t]",
+          "a": "t"
+        },
+        {
+          "q": "city → [r|t]",
+          "a": "r"
+        },
+        {
+          "q": "table → [r|t]",
+          "a": "t"
+        },
+        {
+          "q": "better → [r|t]",
+          "a": "r"
+        },
+        {
+          "q": "Italian → [r|t]",
+          "a": "t"
+        },
+        {
+          "q": "Italy → [r|t]",
+          "a": "r"
+        },
+        {
+          "q": "after → [r|t]",
+          "a": "t"
+        },
+        {
+          "q": "pretty → [r|t]",
+          "a": "r"
+        },
+        {
+          "q": "attack → [r|t]",
+          "a": "t"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "🔄 T = r suave (toque)",
+          "words": [
+            "water",
+            "city",
+            "butter",
+            "meeting",
+            "Saturday",
+            "beautiful",
+            "computer",
+            "totally"
+          ]
+        },
+        {
+          "name": "🅃 T normal",
+          "words": [
+            "table",
+            "hotel",
+            "attack",
+            "after",
+            "Italian",
+            "return",
+            "today",
+            "doctor"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "water",
+          "<code>wárer</code>"
+        ],
+        [
+          "city",
+          "<code>síri</code>"
+        ],
+        [
+          "better",
+          "<code>bérer</code>"
+        ],
+        [
+          "butter",
+          "<code>bárer</code>"
+        ],
+        [
+          "pretty",
+          "<code>príri</code>"
+        ],
+        [
+          "kitty",
+          "<code>kíri</code>"
+        ],
+        [
+          "got it",
+          "<code>gárit</code>"
+        ],
+        [
+          "shut up",
+          "<code>sharáp</code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Usa una sola <b>r</b> para el toque y pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "🧈 butter → ____",
+          "a": "bárer"
+        },
+        {
+          "q": "🐱 kitty → ____",
+          "a": "kíri"
+        },
+        {
+          "q": "🗓️ meeting → ____",
+          "a": "míiring"
+        },
+        {
+          "q": "📅 Saturday → ____",
+          "a": "sǽrerdei"
+        },
+        {
+          "q": "📸 photo → ____",
+          "a": "fóurou"
+        },
+        {
+          "q": "💯 totally → ____",
+          "a": "tóurəli"
+        },
+        {
+          "q": "🍕 eighty → ____",
+          "a": "éiri"
+        },
+        {
+          "q": "🙅 nobody → ____",
+          "a": "nóubari"
+        },
+        {
+          "q": "✉️ letter → ____",
+          "a": "lérer"
+        },
+        {
+          "q": "🤏 little → ____",
+          "a": "lírəl"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Después decide: si la T va justo antes de la sílaba fuerte, ¡no hay toque!",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        {
+          "syl": [
+            "I",
+            "ta",
+            "ly"
+          ],
+          "s": 0,
+          "es": "Italia"
+        },
+        {
+          "syl": [
+            "I",
+            "ta",
+            "lian"
+          ],
+          "s": 1,
+          "es": "italiano"
+        },
+        {
+          "syl": [
+            "a",
+            "tom"
+          ],
+          "s": 0,
+          "es": "átomo"
+        },
+        {
+          "syl": [
+            "a",
+            "to",
+            "mic"
+          ],
+          "s": 1,
+          "es": "atómico"
+        },
+        {
+          "syl": [
+            "pho",
+            "to"
+          ],
+          "s": 0,
+          "es": "foto"
+        },
+        {
+          "syl": [
+            "pho",
+            "to",
+            "gra",
+            "phy"
+          ],
+          "s": 1,
+          "es": "fotografía"
+        },
+        {
+          "syl": [
+            "ho",
+            "tel"
+          ],
+          "s": 1,
+          "es": "hotel"
+        },
+        {
+          "syl": [
+            "wa",
+            "ter"
+          ],
+          "s": 0,
+          "es": "agua"
+        },
+        {
+          "syl": [
+            "com",
+            "pu",
+            "ter"
+          ],
+          "s": 1,
+          "es": "ordenador"
+        },
+        {
+          "syl": [
+            "Sat",
+            "ur",
+            "day"
+          ],
+          "s": 0,
+          "es": "sábado"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "The flap T sounds like the Spanish r in «pero».",
+          "a": true
+        },
+        {
+          "q": "In American English, «water» sounds like the Spanish «váter».",
+          "a": false,
+          "why": "suena «wárer»"
+        },
+        {
+          "q": "The T in «hotel» is a tap.",
+          "a": false,
+          "why": "ho-TEL: la T empieza la sílaba fuerte"
+        },
+        {
+          "q": "«Ladder» and «latter» sound the same in American English.",
+          "a": true
+        },
+        {
+          "q": "The T in «table» is a tap.",
+          "a": false,
+          "why": "empieza la palabra"
+        },
+        {
+          "q": "In «get it», the T of «get» becomes a tap.",
+          "a": true
+        },
+        {
+          "q": "British speakers usually say «city» as «síri».",
+          "a": false,
+          "why": "es típico de EE. UU."
+        },
+        {
+          "q": "The flap T is a lazy mistake.",
+          "a": false,
+          "why": "es la pronunciación normal en EE. UU."
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "En inglés americano, ¿estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "In American English, do they sound the same or different?",
+      "items": [
+        {
+          "q": "ladder · latter → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "metal · medal → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "atom · Adam → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "petal · pedal → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "water · waiter → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "city · silly → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "bitter · bidder → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "hotel · hot tell → [igual|diferente]",
+          "a": "diferente"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pega las palabras",
+      "title_en": "Link the words",
+      "icon": "🔗",
+      "es": "Escribe cómo suena la frase entera, pegando las palabras como un americano.",
+      "en": "Write how the whole phrase sounds.",
+      "items": [
+        {
+          "q": "Get up!",
+          "a": "gueráp"
+        },
+        {
+          "q": "Shut up!",
+          "a": "sharáp"
+        },
+        {
+          "q": "I got it.",
+          "a": "ai gárit"
+        },
+        {
+          "q": "Put it on.",
+          "a": "purirán"
+        },
+        {
+          "q": "Not at all.",
+          "a": "nárəról"
+        },
+        {
+          "q": "Check it out!",
+          "a": "chekiráut"
+        },
+        {
+          "q": "a lot of",
+          "a": "əlárəv / əlárə"
+        },
+        {
+          "q": "Wait a minute!",
+          "a": "wéirə mínit"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "water → <code>wáter</code>",
+          "a": "wárer"
+        },
+        {
+          "q": "city → <code>síti</code>",
+          "a": "síri"
+        },
+        {
+          "q": "hotel → <code>jourél</code>",
+          "a": "joutél"
+        },
+        {
+          "q": "Italian → <code>irǽliən</code>",
+          "a": "itǽliən"
+        },
+        {
+          "q": "after → <code>ǽrer</code>",
+          "a": "ǽfter"
+        },
+        {
+          "q": "better → <code>bérrer</code>",
+          "a": "bérer (una sola r)"
+        },
+        {
+          "q": "party → <code>párti</code>",
+          "a": "párdi"
+        },
+        {
+          "q": "doctor → <code>dárer</code>",
+          "a": "dákter"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Let it go!",
+          "say": "lérigóu"
+        },
+        {
+          "q": "Eat it!",
+          "say": "íirit"
+        },
+        {
+          "q": "Set it up.",
+          "say": "seriráp"
+        },
+        {
+          "q": "Get out!",
+          "say": "gueráut"
+        },
+        {
+          "q": "What a pity!",
+          "say": "warə píri"
+        },
+        {
+          "q": "Is it better?",
+          "say": "ísit bérer"
+        },
+        {
+          "q": "I bought a bottle of water.",
+          "say": "ai bárə bárələv wárer"
+        },
+        {
+          "q": "My kitty is pretty naughty.",
+          "say": "mai kíri is príri nári"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con el toque.",
+      "en": "Translate into English and say it with a tap.",
+      "items": [
+        {
+          "q": "agua",
+          "a": "water (wárer)"
+        },
+        {
+          "q": "ciudad",
+          "a": "city (síri)"
+        },
+        {
+          "q": "mejor",
+          "a": "better (bérer)"
+        },
+        {
+          "q": "mantequilla",
+          "a": "butter (bárer)"
+        },
+        {
+          "q": "sábado",
+          "a": "Saturday (sǽrerdei)"
+        },
+        {
+          "q": "ordenador",
+          "a": "computer (kəmpiúrer)"
+        },
+        {
+          "q": "reunión",
+          "a": "meeting (míiring)"
+        },
+        {
+          "q": "totalmente",
+          "a": "totally (tóurəli)"
+        },
+        {
+          "q": "fiesta",
+          "a": "party (párdi)"
+        },
+        {
+          "q": "un poquito",
+          "a": "a little bit (ə lírəl bit)"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «¿Toque?» escribe sí o no.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Inglés",
+        "Español",
+        "Suena",
+        "¿Toque?"
+      ],
+      "rows": [
+        [
+          "water",
+          "agua",
+          "?wárer",
+          "?sí"
+        ],
+        [
+          "hotel",
+          "?hotel",
+          "joutél",
+          "?no"
+        ],
+        [
+          "?city",
+          "ciudad",
+          "síri",
+          "sí"
+        ],
+        [
+          "better",
+          "?mejor",
+          "?bérer",
+          "sí"
+        ],
+        [
+          "table",
+          "mesa",
+          "?téibəl",
+          "?no"
+        ],
+        [
+          "?party",
+          "fiesta",
+          "párdi",
+          "?sí"
+        ],
+        [
+          "after",
+          "?después",
+          "ǽfter",
+          "?no"
+        ],
+        [
+          "?butter",
+          "mantequilla",
+          "?bárer",
+          "sí"
+        ]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de toques",
+      "title_en": "Tap word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con T de toque. Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 words with a flap T.",
+      "words": [
+        "water",
+        "city",
+        "better",
+        "butter",
+        "pretty",
+        "kitty",
+        "metal",
+        "party",
+        "letter",
+        "matter"
+      ],
+      "clues": [
+        "water · agua",
+        "city · ciudad",
+        "better · mejor",
+        "butter · mantequilla",
+        "pretty · bonito",
+        "kitty · gatito",
+        "metal · metal",
+        "party · fiesta",
+        "letter · carta",
+        "matter · importar"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza los toques",
+      "title_en": "Read and find the taps",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Betty's Saturday",
+      "text": [
+        "Every Saturday, Betty gets up at eight. She eats a potato with a little bit of butter and drinks a lot of water.",
+        "Then she takes her kitty to the park. It's a pretty city park, and nobody is there. “Let it go!” she says, and the kitty runs."
+      ],
+      "items": [
+        {
+          "q": "When does Betty get up?",
+          "a": "At eight. «At eight» se pega con toque: <code>əréit</code>."
+        },
+        {
+          "q": "Write two words from the text with a tap in the middle.",
+          "a": "Saturday, Betty, potato, little, butter, water, kitty, pretty, city, nobody (cualquiera)."
+        },
+        {
+          "q": "How does «gets up» sound?",
+          "a": "<code>guetsáp</code> (aquí no hay toque: la T va antes de s)"
+        },
+        {
+          "q": "The kitty is in the park.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "In «potato», both T's are taps.",
+          "tf": true,
+          "a": false,
+          "why": "solo la segunda: po-TA-to"
+        },
+        {
+          "q": "«A lot of water» sounds like «əlárə wárer».",
+          "tf": true,
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con palabras de toque. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with flap T words and record yourself.",
+      "items": [
+        {
+          "q": "Una frase sobre comida (butter, potato, tomato…).",
+          "lines": 2,
+          "a": "Ej.: I like tomatoes with a little bit of butter."
+        },
+        {
+          "q": "Una frase sobre tu ciudad (city, pretty, beautiful…).",
+          "lines": 2,
+          "a": "Ej.: My city is pretty and beautiful."
+        },
+        {
+          "q": "Una frase con «Let it go», «Got it» o «Check it out».",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé decir <b>water</b> como <code>wárer</code> (¡y no como «váter»!).",
+      "en": "I can say water with a tap."
+    },
+    {
+      "es": "Sé cuándo la T suena r: entre vocales, antes de sílaba débil.",
+      "en": "I know when T becomes a tap."
+    },
+    {
+      "es": "Sé cuándo NO cambia: al empezar, en sílaba fuerte y tras consonante.",
+      "en": "I know when T stays a T."
+    },
+    {
+      "es": "Pego palabras como <code>gárit</code>, <code>lérigóu</code>, <code>chekiráut</code>.",
+      "en": "I can link words with a tap."
+    },
+    {
+      "es": "Sé que la D entre vocales hace lo mismo: <code>bári</code>, <code>réri</code>.",
+      "en": "I know D does the same."
+    },
+    {
+      "es": "Puedo leer el trabalenguas de Betty Botter sin trabarme.",
+      "en": "I can say the Betty Botter tongue twister."
+    }
+  ]
+}

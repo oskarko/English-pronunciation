@@ -1,0 +1,1921 @@
+{
+  "id": "P-07",
+  "block": "P",
+  "title": "EL ABECEDARIO",
+  "file_title": "El abecedario americano",
+  "subtitle": "The American ABC · ei, bii, sii",
+  "icon": "🔤",
+  "map": {
+    "center": "En inglés, las letras tienen <b>otro nombre</b>: A = <code>ei</code>, E = <code>ii</code>, I = <code>ai</code>. ¡Deletrea como un americano!",
+    "listen": "alphabet",
+    "nodes": [
+      {
+        "title": "Las vocales, cambiadas",
+        "icon": "🔄",
+        "color": "green",
+        "rows": [
+          [
+            "A",
+            "<code>ei</code>"
+          ],
+          [
+            "E",
+            "<code>ii</code>"
+          ],
+          [
+            "I",
+            "<code>ai</code>"
+          ],
+          [
+            "O",
+            "<code>ou</code>"
+          ],
+          [
+            "U",
+            "<code>iu</code>"
+          ]
+        ]
+      },
+      {
+        "title": "¡No las confundas!",
+        "icon": "⚠️",
+        "color": "blue",
+        "items": [
+          "<b>E</b> <code>ii</code> · <b>I</b> <code>ai</code>",
+          "<b>G</b> <code>yii</code> · <b>J</b> <code>yei</code>",
+          "<b>A</b> <code>ei</code> · <b>R</b> <code>ar</code>"
+        ]
+      },
+      {
+        "title": "Letras raras",
+        "icon": "🦄",
+        "color": "purple",
+        "rows": [
+          [
+            "H",
+            "<code>eich</code>"
+          ],
+          [
+            "W",
+            "<code>dábəliu</code>"
+          ],
+          [
+            "Y",
+            "<code>wai</code>"
+          ],
+          [
+            "Z",
+            "<code>sii</code> 🐝"
+          ]
+        ]
+      },
+      {
+        "title": "Emails",
+        "icon": "📧",
+        "color": "orange",
+        "rows": [
+          [
+            "@",
+            "at <code>æt</code>"
+          ],
+          [
+            ".",
+            "dot <code>dat</code>"
+          ],
+          [
+            "-",
+            "dash <code>dæsh</code>"
+          ],
+          [
+            "_",
+            "underscore"
+          ]
+        ]
+      },
+      {
+        "title": "Siglas",
+        "icon": "🏛️",
+        "color": "pink",
+        "items": [
+          "USA → <code>iu es éi</code>",
+          "OK → <code>oukéi</code>",
+          "golpe en la <b>última</b> letra 🥁"
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Muchas letras suenan como palabras: <b>C</b> = see, <b>I</b> = eye, <b>R</b> = are, <b>U</b> = you.",
+        "art": "🔤"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I dicha <code>i</code>, a la española"
+      ],
+      "good": [
+        "I = <code>ai</code> 😖"
+      ],
+      "note": "Si dices «i», un americano entiende E."
+    },
+    "mini": {
+      "es": "Escribe cómo suena la letra:",
+      "en": "Write how the letter sounds.",
+      "items": [
+        {
+          "q": "🔤 E → ____",
+          "a": "ii"
+        },
+        {
+          "q": "🔤 I → ____",
+          "a": "ai"
+        },
+        {
+          "q": "🔤 G → ____",
+          "a": "yii"
+        },
+        {
+          "q": "🔤 J → ____",
+          "a": "yei"
+        },
+        {
+          "q": "🔤 R → ____",
+          "a": "ar"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "Las mismas letras, otros nombres",
+      "title_en": "Same letters, new names",
+      "icon": "🔤",
+      "es": "El inglés usa las mismas letras que el español (sin la ñ), pero sus <b>nombres</b> son otros: la A se llama <code>ei</code>, la E <code>ii</code> y la I <code>ai</code>. Parece un detalle, pero lo usarás a todas horas: para <b>deletrear</b> tu nombre en un hotel, dar tu <b>email</b> por teléfono o entender <b>siglas</b> como USA, FBI u OK. <mark>Un abecedario bien dicho te ahorra muchos líos.</mark>",
+      "en": "English uses the same letters, but with different names: A = «ei», E = «ii», I = «ai». You'll need them to spell your name, give your email and understand acronyms."
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · La familia de la ii",
+      "title_en": "The «ee» family",
+      "icon": "🐝",
+      "es": "Nueve letras terminan en <code>ii</code>: <b>B C D E G P T V Z</b>. ¡Riman todas! Apréndetelas juntas, como una canción: <code>bii, sii, dii, ii, yii, pii, tii, vii, sii</code>. La más traicionera es la <b>E</b>: suena como nuestra I, alargada.",
+      "en": "Nine letters end in «ii»: B C D E G P T V Z. They all rhyme. The tricky one is E: it sounds like a Spanish i.",
+      "examples": [
+        {
+          "en": "B",
+          "say": "bii",
+          "es": "como bee (abeja)",
+          "icon": "🐝"
+        },
+        {
+          "en": "C",
+          "say": "sii",
+          "es": "como see (ver)",
+          "icon": "👀"
+        },
+        {
+          "en": "D",
+          "say": "dii",
+          "es": "como «día»",
+          "icon": "☀️"
+        },
+        {
+          "en": "E",
+          "say": "ii",
+          "es": "¡como nuestra i!",
+          "icon": "😮"
+        },
+        {
+          "en": "G",
+          "say": "yii",
+          "es": "y fuerte + ii",
+          "icon": "🦒"
+        },
+        {
+          "en": "T",
+          "say": "tii",
+          "es": "como tea (té)",
+          "icon": "🍵"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · La familia de la ei",
+      "title_en": "The «ay» family",
+      "icon": "👋",
+      "es": "Cuatro letras llevan el diptongo <code>ei</code>: <b>A, H, J, K</b>. La A no es «a»: es «¡ey!». La H no es «ache»: es <code>eich</code>. La J no es «jota»: es <code>yei</code>. Y la K ya la dices cada día al final de «<b>okey</b>».",
+      "en": "Four letters have the «ei» sound: A, H, J, K. A is not «a», H is not «ache» and J is not «jota».",
+      "examples": [
+        {
+          "en": "A",
+          "say": "ei",
+          "es": "como «¡ey!»",
+          "icon": "👋"
+        },
+        {
+          "en": "H",
+          "say": "eich",
+          "es": "¡nada de «ache»!",
+          "icon": "🏠"
+        },
+        {
+          "en": "J",
+          "say": "yei",
+          "es": "¡nada de «jota»!",
+          "icon": "🃏"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · La familia de la e",
+      "title_en": "The «e» family",
+      "icon": "✂️",
+      "es": "Seis letras empiezan por <code>e</code> y son facilísimas: <b>F, L, M, N, S, X</b>. Truco: coge su nombre español (efe, ele, eme, ene, ese) y <mark>córtale la e final</mark>: <code>ef, el, em, en, es</code>. La X es <code>eks</code>, como en «<b>ex</b>tra». Ojo con la L: suena oscura, con la lengua atrás (mapa C-12).",
+      "en": "Six letters start with «e»: F, L, M, N, S, X. Take the Spanish name and cut off the final e: efe → ef.",
+      "examples": [
+        {
+          "en": "F",
+          "say": "ef",
+          "es": "efe ✂️ ef",
+          "icon": "🐟"
+        },
+        {
+          "en": "L",
+          "say": "el",
+          "es": "ele ✂️ el",
+          "icon": "🦁"
+        },
+        {
+          "en": "M",
+          "say": "em",
+          "es": "eme ✂️ em",
+          "icon": "👩"
+        },
+        {
+          "en": "N",
+          "say": "en",
+          "es": "ene ✂️ en",
+          "icon": "👃"
+        },
+        {
+          "en": "S",
+          "say": "es",
+          "es": "ese ✂️ es",
+          "icon": "🐍"
+        },
+        {
+          "en": "X",
+          "say": "eks",
+          "es": "como «extra»",
+          "icon": "❌"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Las que van por libre",
+      "title_en": "The rest",
+      "icon": "🦄",
+      "es": "Las demás forman grupitos: <b>I</b> y <b>Y</b> acaban en <code>ai</code> (I = <code>ai</code>, Y = <code>wai</code>); la <b>O</b> es <code>ou</code>, nunca «o» a secas; <b>Q</b>, <b>U</b> y <b>W</b> acaban en <code>iu</code> (<code>kiu</code>, <code>iu</code>, <code>dábəliu</code>); y la <b>R</b> es <code>ar</code>, con R americana. ¡La W es la única letra de tres sílabas: «doble u»!",
+      "en": "I and Y end in «ai», O is «ou», Q, U and W end in «iu», and R is «ar». W is the only letter with three syllables.",
+      "examples": [
+        {
+          "en": "I",
+          "say": "ai",
+          "es": "como «¡ay!»",
+          "icon": "😖"
+        },
+        {
+          "en": "Y",
+          "say": "wai",
+          "es": "como why (por qué)",
+          "icon": "❓"
+        },
+        {
+          "en": "O",
+          "say": "ou",
+          "es": "o + u",
+          "icon": "⭕"
+        },
+        {
+          "en": "U",
+          "say": "iu",
+          "es": "como you (tú)",
+          "icon": "👉"
+        },
+        {
+          "en": "W",
+          "say": "dábəliu",
+          "es": "«doble u»",
+          "icon": "🌊"
+        },
+        {
+          "en": "R",
+          "say": "ar",
+          "es": "como are (son)",
+          "icon": "🏴‍☠️"
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "Letras que se cruzan",
+      "title_en": "Letters that get mixed up",
+      "icon": "🔀",
+      "items": [
+        {
+          "a": {
+            "en": "E",
+            "ipa": "iː",
+            "say": "ii",
+            "es": "letra E",
+            "icon": "😮",
+            "yg": false
+          },
+          "b": {
+            "en": "I",
+            "ipa": "aɪ",
+            "say": "ai",
+            "es": "letra I",
+            "icon": "😖",
+            "yg": false
+          },
+          "tip": "E suena como nuestra i; I suena «¡ay!»."
+        },
+        {
+          "a": {
+            "en": "G",
+            "ipa": "dʒiː",
+            "say": "yii",
+            "es": "letra G",
+            "icon": "🦒",
+            "yg": false
+          },
+          "b": {
+            "en": "J",
+            "ipa": "dʒeɪ",
+            "say": "yei",
+            "es": "letra J",
+            "icon": "🃏",
+            "yg": false
+          },
+          "tip": "G acaba en ii; J acaba en ei. ¡Justo al revés de lo que esperas!"
+        },
+        {
+          "a": {
+            "en": "A",
+            "ipa": "eɪ",
+            "say": "ei",
+            "es": "letra A",
+            "icon": "👋",
+            "yg": false
+          },
+          "b": {
+            "en": "R",
+            "ipa": "ɑr",
+            "say": "ar",
+            "es": "letra R",
+            "icon": "🏹",
+            "yg": false
+          },
+          "tip": "A es «¡ey!». Si oyes <code>ar</code>, no es una A: ¡es la R!"
+        },
+        {
+          "a": {
+            "en": "C",
+            "ipa": "siː",
+            "say": "sii",
+            "es": "letra C",
+            "icon": "👀",
+            "yg": false
+          },
+          "b": {
+            "en": "Z",
+            "ipa": "ziː",
+            "say": "sii",
+            "es": "letra Z",
+            "icon": "🐝",
+            "yg": false
+          },
+          "tip": "En la Z la garganta zumba 🐝. ¡Y nunca «zeta»!"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Las 26 letras",
+      "title_en": "The 26 letters",
+      "icon": "🔤",
+      "head": [
+        "Letra",
+        "IPA",
+        "Suena",
+        "Truco · ancla",
+        "Suena igual que…"
+      ],
+      "rows": [
+        [
+          "A",
+          "/eɪ/",
+          "<code>ei</code>",
+          "¡<b>ey</b>! (nunca «a»)",
+          "—"
+        ],
+        [
+          "B",
+          "/biː/",
+          "<code>bii</code>",
+          "<b>bi</b>ci",
+          "be, bee (abeja) 🐝"
+        ],
+        [
+          "C",
+          "/siː/",
+          "<code>sii</code>",
+          "¡<b>sí</b>!",
+          "see (ver), sea (mar)"
+        ],
+        [
+          "D",
+          "/diː/",
+          "<code>dii</code>",
+          "<b>dí</b>a",
+          "—"
+        ],
+        [
+          "E",
+          "/iː/",
+          "<code>ii</code>",
+          "¡como nuestra <b>i</b>!",
+          "—"
+        ],
+        [
+          "F",
+          "/ɛf/",
+          "<code>ef</code>",
+          "<b>ef</b>e sin la e ✂️",
+          "—"
+        ],
+        [
+          "G",
+          "/dʒiː/",
+          "<code>yii</code>",
+          "y fuerte + <code>ii</code>",
+          "gee (¡jo!)"
+        ],
+        [
+          "H",
+          "/eɪtʃ/",
+          "<code>eich</code>",
+          "<b>ei</b> + <b>ch</b> (nada de «ache»)",
+          "—"
+        ],
+        [
+          "I",
+          "/aɪ/",
+          "<code>ai</code>",
+          "¡<b>ay</b>!",
+          "I (yo), eye (ojo) 👁️"
+        ],
+        [
+          "J",
+          "/dʒeɪ/",
+          "<code>yei</code>",
+          "y fuerte + <code>ei</code>",
+          "jay (arrendajo) 🐦"
+        ],
+        [
+          "K",
+          "/keɪ/",
+          "<code>kei</code>",
+          "o<b>key</b>",
+          "—"
+        ],
+        [
+          "L",
+          "/ɛl/",
+          "<code>el</code>",
+          "<b>el</b>e sin la e ✂️",
+          "—"
+        ],
+        [
+          "M",
+          "/ɛm/",
+          "<code>em</code>",
+          "<b>em</b>e sin la e ✂️",
+          "—"
+        ],
+        [
+          "N",
+          "/ɛn/",
+          "<code>en</code>",
+          "<b>en</b>e sin la e ✂️",
+          "—"
+        ],
+        [
+          "O",
+          "/oʊ/",
+          "<code>ou</code>",
+          "o + u (nunca «o» a secas)",
+          "oh, owe (deber)"
+        ],
+        [
+          "P",
+          "/piː/",
+          "<code>pii</code>",
+          "el número <b>pi</b> (π)",
+          "pea (guisante) 🫛"
+        ],
+        [
+          "Q",
+          "/kjuː/",
+          "<code>kiu</code>",
+          "k + <code>iu</code>",
+          "queue (cola), cue"
+        ],
+        [
+          "R",
+          "/ɑr/",
+          "<code>ar</code>",
+          "<b>ar</b>co + R americana",
+          "are (son, estáis)"
+        ],
+        [
+          "S",
+          "/ɛs/",
+          "<code>es</code>",
+          "<b>es</b>e sin la e ✂️",
+          "—"
+        ],
+        [
+          "T",
+          "/tiː/",
+          "<code>tii</code>",
+          "para <b>ti</b>",
+          "tea (té) 🍵"
+        ],
+        [
+          "U",
+          "/juː/",
+          "<code>iu</code>",
+          "i + u, deprisa",
+          "you (tú) 👉"
+        ],
+        [
+          "V",
+          "/viː/",
+          "<code>vii</code>",
+          "¡con dientes! (nada de «uve»)",
+          "—"
+        ],
+        [
+          "W",
+          "/ˈdʌbəljuː/",
+          "<code>dábəliu</code>",
+          "double u = «doble u»",
+          "—"
+        ],
+        [
+          "X",
+          "/ɛks/",
+          "<code>eks</code>",
+          "<b>ex</b>tra",
+          "—"
+        ],
+        [
+          "Y",
+          "/waɪ/",
+          "<code>wai</code>",
+          "g<b>uay</b> sin la g 😎",
+          "why (por qué)"
+        ],
+        [
+          "Z",
+          "/ziː/",
+          "<code>sii</code> 🐝",
+          "s que zumba (nada de «zeta»)",
+          "—"
+        ]
+      ],
+      "note": "¡Ojo! C y Z se escriben igual en la figurada (<code>sii</code>), porque nuestra s sirve para /s/ y /z/: en la Z la garganta <b>zumba</b> 🐝 (mapa C-08). En EE. UU. es zee; zed es británico.",
+      "note_en": "In the US, Z is «zee». «Zed» is British."
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas para las letras",
+      "title_en": "Anchors for the letters",
+      "items": [
+        {
+          "en": "A",
+          "ipa": "eɪ",
+          "say": "ei",
+          "es": "letra A",
+          "icon": "👋",
+          "anchor": "¡<b>ey</b>! 👋",
+          "tip": "Como cuando llamas a alguien: «¡ey!». Nunca «a» a secas.",
+          "yg": false
+        },
+        {
+          "en": "B",
+          "ipa": "biː",
+          "say": "bii",
+          "es": "letra B",
+          "icon": "🚲",
+          "anchor": "<b>bi</b>ci 🚲",
+          "tip": "La «bi» de bici, alargada. Be y bee (abeja) suenan igual.",
+          "yg": false
+        },
+        {
+          "en": "C",
+          "ipa": "siː",
+          "say": "sii",
+          "es": "letra C",
+          "icon": "👀",
+          "anchor": "¡<b>sí</b>! 👍",
+          "tip": "Un «sí» largo. Igual que see (ver) y sea (mar).",
+          "yg": false
+        },
+        {
+          "en": "E",
+          "ipa": "iː",
+          "say": "ii",
+          "es": "letra E",
+          "icon": "😮",
+          "anchor": "la <b>i</b> española",
+          "tip": "¡La gran trampa! La E inglesa suena como nuestra I, larga.",
+          "yg": false
+        },
+        {
+          "en": "I",
+          "ipa": "aɪ",
+          "say": "ai",
+          "es": "letra I",
+          "icon": "😖",
+          "anchor": "¡<b>ay</b>! 😖",
+          "tip": "Suena «¡ay!», igual que I (yo) y eye (ojo).",
+          "yg": false
+        },
+        {
+          "en": "K",
+          "ipa": "keɪ",
+          "say": "kei",
+          "es": "letra K",
+          "icon": "👌",
+          "anchor": "o<b>key</b> 👌",
+          "tip": "Ya la dices cada día: es el final de «okey».",
+          "yg": false
+        },
+        {
+          "en": "M",
+          "ipa": "ɛm",
+          "say": "em",
+          "es": "letra M",
+          "icon": "✂️",
+          "anchor": "<b>em</b>e ✂️",
+          "tip": "La M española sin la e final. ¡Igual con F, L, N y S!",
+          "yg": false
+        },
+        {
+          "en": "P",
+          "ipa": "piː",
+          "say": "pii",
+          "es": "letra P",
+          "icon": "🥧",
+          "anchor": "el número <b>pi</b> (π)",
+          "tip": "Como π, alargado y con un soplido en la p (mapa B-03).",
+          "yg": false
+        },
+        {
+          "en": "X",
+          "ipa": "ɛks",
+          "say": "eks",
+          "es": "letra X",
+          "icon": "❌",
+          "anchor": "<b>ex</b>tra ➕",
+          "tip": "La «ex» de «extra». ¡Nada de «equis»!",
+          "yg": false
+        },
+        {
+          "en": "Y",
+          "ipa": "waɪ",
+          "say": "wai",
+          "es": "letra Y",
+          "icon": "😎",
+          "anchor": "g<b>uay</b> 😎",
+          "tip": "«Guay» sin la g: <code>wai</code>. Y why (por qué) suena igual.",
+          "yg": false
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "alphabet",
+          "es": "abecedario"
+        },
+        {
+          "q": "spell it",
+          "es": "deletréalo"
+        },
+        {
+          "q": "at gmail dot com",
+          "es": "arroba gmail punto com"
+        },
+        {
+          "q": "ASAP",
+          "es": "lo antes posible"
+        },
+        {
+          "q": "FBI",
+          "es": "el FBI"
+        },
+        {
+          "q": "LOL",
+          "es": "me parto de risa"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Emails y webs",
+      "title_en": "Emails and websites",
+      "icon": "📧",
+      "head": [
+        "Símbolo",
+        "Se dice",
+        "Suena",
+        "Ejemplo"
+      ],
+      "rows": [
+        [
+          "@",
+          "at",
+          "<code>æt</code>",
+          "mario@… → mario <b>at</b>…"
+        ],
+        [
+          ".",
+          "dot",
+          "<code>dat</code>",
+          "gmail.com → gmail <b>dot</b> com"
+        ],
+        [
+          "-",
+          "dash",
+          "<code>dæsh</code>",
+          "ana-luz → ana <b>dash</b> luz"
+        ],
+        [
+          "_",
+          "underscore",
+          "<code>ánderskor</code>",
+          "rocky_dog → rocky <b>underscore</b> dog"
+        ],
+        [
+          "/",
+          "slash",
+          "<code>slæsh</code>",
+          "abc.com/photos → abc dot com <b>slash</b> photos"
+        ],
+        [
+          "#",
+          "hashtag",
+          "<code>jǽshtæg</code>",
+          "#tbt → <b>hashtag</b> T-B-T"
+        ],
+        [
+          "M",
+          "capital M",
+          "<code>kǽpirəl ém</code>",
+          "M mayúscula"
+        ],
+        [
+          "m",
+          "lowercase m",
+          "<code>lóuerkeis ém</code>",
+          "m minúscula"
+        ],
+        [
+          "ll",
+          "double L",
+          "<code>dábəl él</code>",
+          "Ella → E, <b>double L</b>, A"
+        ],
+        [
+          "…",
+          "all one word",
+          "<code>ol wan wérd</code>",
+          "todo junto, sin espacios"
+        ]
+      ],
+      "note": "En EE. UU., «.com» se dice <code>dat kám</code>, y el «www» casi nadie lo dice: ¡se lo saltan!",
+      "note_en": "«.com» is «dot com». Most Americans skip the «www»."
+    },
+    {
+      "t": "stress",
+      "title": "Siglas: el golpe, al final",
+      "title_en": "Acronyms: stress the last letter",
+      "icon": "🥁",
+      "es": "Cuando una sigla se deletrea, el golpe va en la <b>última letra</b>: U-S-<b>A</b>, F-B-<b>I</b>.",
+      "en": "When you spell out an acronym, stress the last letter.",
+      "items": [
+        {
+          "syl": [
+            "U",
+            "S",
+            "A"
+          ],
+          "s": 2,
+          "say": "iu es éi",
+          "es": "Estados Unidos",
+          "icon": "🇺🇸"
+        },
+        {
+          "syl": [
+            "F",
+            "B",
+            "I"
+          ],
+          "s": 2,
+          "say": "ef bii ái",
+          "es": "el FBI",
+          "icon": "🕵️"
+        },
+        {
+          "syl": [
+            "C",
+            "E",
+            "O"
+          ],
+          "s": 2,
+          "say": "sii ii óu",
+          "es": "director general",
+          "icon": "💼"
+        },
+        {
+          "syl": [
+            "D",
+            "I",
+            "Y"
+          ],
+          "s": 2,
+          "say": "dii ai wái",
+          "es": "hazlo tú mismo",
+          "icon": "🔨"
+        },
+        {
+          "syl": [
+            "T",
+            "V"
+          ],
+          "s": 1,
+          "say": "tii víi",
+          "es": "tele",
+          "icon": "📺"
+        },
+        {
+          "syl": [
+            "I",
+            "D"
+          ],
+          "s": 1,
+          "say": "ai díi",
+          "es": "carné, DNI",
+          "icon": "🪪"
+        },
+        {
+          "syl": [
+            "V",
+            "I",
+            "P"
+          ],
+          "s": 2,
+          "say": "vii ai píi",
+          "es": "VIP",
+          "icon": "⭐"
+        },
+        {
+          "syl": [
+            "O",
+            "K"
+          ],
+          "s": 1,
+          "say": "oukéi",
+          "es": "vale",
+          "icon": "👌"
+        }
+      ],
+      "wide": true,
+      "cols": 4
+    },
+    {
+      "t": "compare",
+      "title": "¿Se deletrea o se lee?",
+      "title_en": "Spelled out or read as a word?",
+      "icon": "🏛️",
+      "es": "Unas siglas se dicen letra a letra y otras se leen como una palabra. ¡Y algunas, de las dos maneras!",
+      "en": "Some acronyms are spelled out, some are read as words, and some both ways.",
+      "cols": [
+        {
+          "head": "🔤 Letra a letra",
+          "color": "blue",
+          "items": [
+            "USA → <code>iu es éi</code>",
+            "FBI → <code>ef bii ái</code>",
+            "CEO → <code>sii ii óu</code>",
+            "ATM → <code>ei tii ém</code>"
+          ]
+        },
+        {
+          "head": "📖 Como una palabra",
+          "color": "green",
+          "items": [
+            "NASA → <code>nǽsə</code>",
+            "NATO → <code>néirou</code>",
+            "FIFA → <code>fíifə</code>",
+            "scuba → <code>skúubə</code>"
+          ]
+        },
+        {
+          "head": "🤷 De las dos maneras",
+          "color": "orange",
+          "items": [
+            "ASAP → <code>ei es ei píi</code> · <code>éisæp</code>",
+            "LOL → <code>el ou él</code> · <code>lal</code>",
+            "FAQ → <code>ef ei kiú</code> · <code>fæk</code>"
+          ]
+        }
+      ],
+      "wide": true
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "mario_ruiz@gmail.com",
+          "spoken": "mario underscore ruiz at gmail dot com",
+          "say": "mário ánderskor ruíis æt yíimeil dat kám",
+          "es": "un email",
+          "yg": "at gmail dot com"
+        },
+        {
+          "written": "L M N O P (canción)",
+          "spoken": "elemeno-pee",
+          "say": "elemenoupíi",
+          "es": "¡en la canción parecen una sola palabra!",
+          "yg": "LMNOP"
+        },
+        {
+          "written": "C U L8R",
+          "spoken": "see you later",
+          "say": "sii iu léirer",
+          "es": "¡hasta luego! (en un mensaje)",
+          "yg": "see you later"
+        },
+        {
+          "written": "R U OK?",
+          "spoken": "are you okay?",
+          "say": "ar iu oukéi?",
+          "es": "¿estás bien?",
+          "yg": "are you okay"
+        },
+        {
+          "written": "IOU",
+          "spoken": "I owe you",
+          "say": "ai ou iú",
+          "es": "te debo una",
+          "yg": "I owe you"
+        },
+        {
+          "written": "B4",
+          "spoken": "before",
+          "say": "bifór",
+          "es": "antes",
+          "yg": "before"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para deletrear",
+      "title_en": "Spelling sentences",
+      "items": [
+        {
+          "en": "How do you spell your name?",
+          "say": "jáu də iə spél ier néim?",
+          "es": "¿Cómo se escribe tu nombre?",
+          "icon": "❓"
+        },
+        {
+          "en": "It's M-A-R-I-O.",
+          "say": "its em ei ar ai óu",
+          "es": "Es M-A-R-I-O.",
+          "icon": "👦"
+        },
+        {
+          "en": "Is that with a B or a V?",
+          "say": "is dæt wid ə bíi or ə víi?",
+          "es": "¿Es con B o con V?",
+          "icon": "🤔"
+        },
+        {
+          "en": "Ella is E, double L, A.",
+          "say": "élə is íi, dábəl él, éi",
+          "es": "Ella se escribe E, doble L, A.",
+          "icon": "👧"
+        },
+        {
+          "en": "My email is lucia at gmail dot com.",
+          "say": "mai íimeil is lusíiə æt yíimeil dat kám",
+          "es": "Mi email es lucia arroba gmail punto com.",
+          "icon": "📧"
+        },
+        {
+          "en": "Call me ASAP!",
+          "say": "kol mi éisæp!",
+          "es": "¡Llámame lo antes posible!",
+          "icon": "📞"
+        },
+        {
+          "en": "The FBI is in the USA.",
+          "say": "di ef bii ái isin də iu es éi",
+          "es": "El FBI está en EE. UU.",
+          "icon": "🕵️"
+        },
+        {
+          "en": "Can I see your ID, please?",
+          "say": "kən ai síi ier ai díi, pliis?",
+          "es": "¿Me enseña su carné, por favor?",
+          "icon": "🪪"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "E → <code>e</code>",
+          "good": "<code>ii</code>",
+          "why": "La E inglesa suena como nuestra I, larga.",
+          "why_en": "E sounds like a long Spanish i."
+        },
+        {
+          "bad": "I → <code>i</code>",
+          "good": "<code>ai</code>",
+          "why": "La I es «¡ay!». Si dices «i», entienden E.",
+          "why_en": "Say «ai», or they'll hear E."
+        },
+        {
+          "bad": "G → «ge»",
+          "good": "<code>yii</code>",
+          "why": "G acaba en ii; J acaba en ei.",
+          "why_en": "G ends in «ii», J in «ei»."
+        },
+        {
+          "bad": "H → <code>áche</code>",
+          "good": "<code>eich</code>",
+          "why": "Nada de «ache»: <code>eich</code>.",
+          "why_en": "H is «eich»."
+        },
+        {
+          "bad": "Y → «i griega»",
+          "good": "<code>wai</code>",
+          "why": "La Y suena como why.",
+          "why_en": "Y sounds like «why»."
+        },
+        {
+          "bad": "Z → <code>zéta</code>",
+          "good": "<code>sii</code> 🐝",
+          "why": "En EE. UU. es zee (zed es británico), con una s que zumba.",
+          "why_en": "American Z is «zee»."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En la recepción del hotel",
+      "title_en": "At the hotel front desk",
+      "lines": [
+        {
+          "who": "Mike",
+          "en": "Hi! What's your last name, please?",
+          "say": "jái! wats ier lǽst néim, pliis?",
+          "es": "¡Hola! ¿Su apellido, por favor?"
+        },
+        {
+          "who": "Lucía",
+          "en": "Ruiz. R-U-I-Z.",
+          "say": "ruíis. ar iu ai síi",
+          "es": "Ruiz. R-U-I-Z."
+        },
+        {
+          "who": "Mike",
+          "en": "Is that Z as in «zoo»?",
+          "say": "is dæt síi æs in súu?",
+          "es": "¿Es Z de «zoo»?"
+        },
+        {
+          "who": "Lucía",
+          "en": "Yes! And my first name is Lucía: L-U-C-I-A.",
+          "say": "iés! ænd mai férst néim is lusíiə: el iu sii ai éi",
+          "es": "¡Sí! Y mi nombre es Lucía: L-U-C-I-A."
+        },
+        {
+          "who": "Mike",
+          "en": "Great. Can I have your email?",
+          "say": "gréit. kən ai jǽv ier íimeil?",
+          "es": "Genial. ¿Me da su email?"
+        },
+        {
+          "who": "Lucía",
+          "en": "It's lucia underscore ruiz at gmail dot com.",
+          "say": "its lusíiə ánderskor ruíis æt yíimeil dat kám",
+          "es": "Es lucia guion bajo ruiz arroba gmail punto com."
+        },
+        {
+          "who": "Mike",
+          "en": "Perfect! Here's your key. Room B4.",
+          "say": "pérfikt! jirs ier kíi. ruum bii fór",
+          "es": "¡Perfecto! Aquí tiene su llave. Habitación B4."
+        },
+        {
+          "who": "Lucía",
+          "en": "Thanks! B as in «boy», right?",
+          "say": "zǽnks! bíi æs in bói, ráit?",
+          "es": "¡Gracias! B de «boy», ¿verdad?"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "El abecedario en 5 pasos",
+      "title_en": "The alphabet in 5 steps",
+      "icon": "🪜",
+      "items": [
+        {
+          "es": "Canta la canción del ABC (con la música de «Estrellita, ¿dónde estás?»).",
+          "en": "Sing the ABC song."
+        },
+        {
+          "es": "Apréndete las familias: <code>ii</code> (B C D E G P T V Z), <code>ei</code> (A H J K) y <code>e</code> (F L M N S X).",
+          "en": "Learn the letter families."
+        },
+        {
+          "es": "Repasa las trampas: E/I, G/J y A/R.",
+          "en": "Practice the tricky pairs: E/I, G/J, A/R."
+        },
+        {
+          "es": "Deletrea en voz alta tu nombre, tu apellido y tu email cada día.",
+          "en": "Spell your name and email aloud every day."
+        },
+        {
+          "es": "Juega con alguien: uno deletrea y el otro escribe. ¡Luego cambiad!",
+          "en": "Play with a friend: one spells, the other writes."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "La canción del ABC",
+      "title_en": "The ABC song",
+      "icon": "🎶",
+      "items": [
+        {
+          "en": "A B C D E F G, H I J K, L M N O P, Q R S, T U V, W X, Y and Z. Now I know my ABCs, next time won't you sing with me?",
+          "say": "ei bii sii dii ii ef yii, eich ai yei kei, el em en ou pii, kiu ar es, tii iu vii, dábəliu eks, wai ænd síi. náu ai nóu mai ei bii síis, nékst taim wóunchu síng wid míi?",
+          "es": "Canción tradicional: «Ya me sé el ABC, ¿la próxima vez cantas conmigo?»"
+        },
+        {
+          "en": "I see a bee in the sea. (I C a B in the C!)",
+          "say": "ai sii ə bii in də síi",
+          "es": "Veo una abeja en el mar. (¡Con letras: I C a B in the C!)"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del deletreo",
+      "title_en": "The spelling trick",
+      "es": "Si no te entienden una letra, di una palabra que empiece por ella: «B as in <b>boy</b>», «V as in <b>very</b>», «M as in <b>Mario</b>». Los americanos lo hacen todo el rato por teléfono. 📞",
+      "en": "If they don't understand a letter, add a word: «B as in boy», «V as in very». Americans do it all the time on the phone."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Qué letra es?",
+      "title_en": "Which letter is it?",
+      "icon": "🔍",
+      "es": "Lee en voz alta cómo suena y rodea la letra correcta.",
+      "en": "Read the sound aloud and circle the letter.",
+      "items": [
+        {
+          "q": "<code>ii</code> → [E|I]",
+          "a": "E"
+        },
+        {
+          "q": "<code>ai</code> → [E|I]",
+          "a": "I"
+        },
+        {
+          "q": "<code>yii</code> → [G|J]",
+          "a": "G"
+        },
+        {
+          "q": "<code>yei</code> → [G|J]",
+          "a": "J"
+        },
+        {
+          "q": "<code>ar</code> → [A|R]",
+          "a": "R"
+        },
+        {
+          "q": "<code>ei</code> → [A|E]",
+          "a": "A"
+        },
+        {
+          "q": "<code>wai</code> → [W|Y]",
+          "a": "Y"
+        },
+        {
+          "q": "<code>iu</code> → [U|W]",
+          "a": "U"
+        },
+        {
+          "q": "<code>eich</code> → [H|K]",
+          "a": "H"
+        },
+        {
+          "q": "<code>kiu</code> → [K|Q]",
+          "a": "Q"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Letra y sonido",
+      "title_en": "Letter and sound",
+      "icon": "🔗",
+      "es": "Une cada letra con cómo suena.",
+      "en": "Match each letter with its sound.",
+      "pairs": [
+        [
+          "A",
+          "<code>ei</code>"
+        ],
+        [
+          "E",
+          "<code>ii</code>"
+        ],
+        [
+          "I",
+          "<code>ai</code>"
+        ],
+        [
+          "G",
+          "<code>yii</code>"
+        ],
+        [
+          "J",
+          "<code>yei</code>"
+        ],
+        [
+          "H",
+          "<code>eich</code>"
+        ],
+        [
+          "W",
+          "<code>dábəliu</code>"
+        ],
+        [
+          "Y",
+          "<code>wai</code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada de cada letra.",
+      "en": "Write how each letter sounds.",
+      "items": [
+        {
+          "q": "🏹 R → ____",
+          "a": "ar"
+        },
+        {
+          "q": "🎱 Q → ____",
+          "a": "kiu"
+        },
+        {
+          "q": "👉 U → ____",
+          "a": "iu"
+        },
+        {
+          "q": "⭕ O → ____",
+          "a": "ou"
+        },
+        {
+          "q": "❌ X → ____",
+          "a": "eks"
+        },
+        {
+          "q": "👌 K → ____",
+          "a": "kei"
+        },
+        {
+          "q": "✌️ V → ____",
+          "a": "vii"
+        },
+        {
+          "q": "🐝 Z → ____",
+          "a": "sii (con zumbido)"
+        },
+        {
+          "q": "🐍 S → ____",
+          "a": "es"
+        },
+        {
+          "q": "🌊 W → ____",
+          "a": "dábəliu"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Familias de letras",
+      "title_en": "Letter families",
+      "icon": "👨‍👩‍👧",
+      "es": "Di cada letra en inglés y escríbela con su familia.",
+      "en": "Say each letter and sort it by its sound.",
+      "cats": [
+        {
+          "name": "🐝 acaban en ii",
+          "words": [
+            "B",
+            "C",
+            "D",
+            "E",
+            "G",
+            "P",
+            "T",
+            "V",
+            "Z"
+          ]
+        },
+        {
+          "name": "👋 llevan ei",
+          "words": [
+            "A",
+            "H",
+            "J",
+            "K"
+          ]
+        },
+        {
+          "name": "✂️ empiezan por e",
+          "words": [
+            "F",
+            "L",
+            "M",
+            "N",
+            "S",
+            "X"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Descifra el deletreo",
+      "title_en": "Decode the spelling",
+      "icon": "🕵️",
+      "es": "Un americano te deletrea una palabra. Léela, ordena las letras y escríbela.",
+      "en": "Someone spells a word for you. Write it.",
+      "items": [
+        {
+          "q": "🐱 <code>sii - ei - tii</code>",
+          "a": "cat"
+        },
+        {
+          "q": "🐶 <code>dii - ou - yii</code>",
+          "a": "dog"
+        },
+        {
+          "q": "👦 <code>bii - ou - wai</code>",
+          "a": "boy"
+        },
+        {
+          "q": "🔑 <code>kei - ii - wai</code>",
+          "a": "key"
+        },
+        {
+          "q": "🐝 <code>bii - ii - ii</code>",
+          "a": "bee"
+        },
+        {
+          "q": "🚙 <code>yei - ii - ii - pii</code>",
+          "a": "jeep"
+        },
+        {
+          "q": "🥚 <code>ii - yii - yii</code>",
+          "a": "egg"
+        },
+        {
+          "q": "👦 <code>em - ei - ar - ai - ou</code>",
+          "a": "Mario"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Suenan igual?",
+      "title_en": "Do they sound the same?",
+      "icon": "👂",
+      "es": "Di la letra y la palabra en voz alta. ¿Suenan igual o diferente?",
+      "en": "Say the letter and the word. Same or different?",
+      "items": [
+        {
+          "q": "C · see → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "I · eye → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "B · bee → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "E · I → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "R · are → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "G · J → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "U · you → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "A · R → [igual|diferente]",
+          "a": "diferente"
+        },
+        {
+          "q": "Y · why → [igual|diferente]",
+          "a": "igual"
+        },
+        {
+          "q": "T · tea → [igual|diferente]",
+          "a": "igual"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Golpe en las siglas",
+      "title_en": "Stress in acronyms",
+      "icon": "🥁",
+      "es": "Rodea la letra que pega más fuerte al decir cada sigla.",
+      "en": "Circle the stressed letter.",
+      "items": [
+        {
+          "syl": [
+            "U",
+            "S",
+            "A"
+          ],
+          "s": 2,
+          "es": "EE. UU."
+        },
+        {
+          "syl": [
+            "F",
+            "B",
+            "I"
+          ],
+          "s": 2,
+          "es": "el FBI"
+        },
+        {
+          "syl": [
+            "C",
+            "E",
+            "O"
+          ],
+          "s": 2,
+          "es": "director general"
+        },
+        {
+          "syl": [
+            "D",
+            "I",
+            "Y"
+          ],
+          "s": 2,
+          "es": "hazlo tú mismo"
+        },
+        {
+          "syl": [
+            "T",
+            "V"
+          ],
+          "s": 1,
+          "es": "tele"
+        },
+        {
+          "syl": [
+            "V",
+            "I",
+            "P"
+          ],
+          "s": 2,
+          "es": "VIP"
+        },
+        {
+          "syl": [
+            "N",
+            "B",
+            "A"
+          ],
+          "s": 2,
+          "es": "liga de baloncesto"
+        },
+        {
+          "syl": [
+            "A",
+            "T",
+            "M"
+          ],
+          "s": 2,
+          "es": "cajero automático"
+        },
+        {
+          "syl": [
+            "I",
+            "D"
+          ],
+          "s": 1,
+          "es": "carné"
+        },
+        {
+          "syl": [
+            "O",
+            "K"
+          ],
+          "s": 1,
+          "es": "vale"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "The English letter E sounds like a Spanish «i».",
+          "a": true
+        },
+        {
+          "q": "The letter I sounds like «¡ay!».",
+          "a": true
+        },
+        {
+          "q": "G and J sound the same in English.",
+          "a": false,
+          "why": "G = yii, J = yei"
+        },
+        {
+          "q": "Americans say «zed» for Z.",
+          "a": false,
+          "why": "dicen zee; zed es británico"
+        },
+        {
+          "q": "The letter R sounds like «ar».",
+          "a": true
+        },
+        {
+          "q": "In «USA», the stress goes on the U.",
+          "a": false,
+          "why": "va en la última: iu es ÉI"
+        },
+        {
+          "q": "In emails, @ is «at» and . is «dot».",
+          "a": true
+        },
+        {
+          "q": "W is the only letter with three syllables.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa el abecedario",
+      "title_en": "Complete the alphabet",
+      "icon": "📋",
+      "es": "Escribe cómo suena cada letra y su familia (ii, ei o e).",
+      "en": "Write the sound of each letter and its family.",
+      "head": [
+        "Letra",
+        "Suena",
+        "Familia"
+      ],
+      "rows": [
+        [
+          "B",
+          "?bii",
+          "?ii"
+        ],
+        [
+          "H",
+          "?eich",
+          "ei"
+        ],
+        [
+          "L",
+          "el",
+          "?e"
+        ],
+        [
+          "J",
+          "?yei",
+          "?ei"
+        ],
+        [
+          "X",
+          "?eks",
+          "?e"
+        ],
+        [
+          "K",
+          "?kei",
+          "?ei"
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Dicta el email",
+      "title_en": "Read the email aloud",
+      "icon": "📧",
+      "es": "Escribe cómo dirías cada email o web en voz alta, en inglés.",
+      "en": "Write how you'd say each email or website.",
+      "items": [
+        {
+          "q": "mario@gmail.com",
+          "a": "mario at gmail dot com"
+        },
+        {
+          "q": "lucia_ruiz@yahoo.com",
+          "a": "lucia underscore ruiz at yahoo dot com"
+        },
+        {
+          "q": "rocky-dog@mail.com",
+          "a": "rocky dash dog at mail dot com"
+        },
+        {
+          "q": "jenny.smith@school.edu",
+          "a": "jenny dot smith at school dot E-D-U"
+        },
+        {
+          "q": "mike_tyler@hotmail.com",
+          "a": "mike underscore tyler at hotmail dot com"
+        },
+        {
+          "q": "nasa.gov",
+          "a": "nasa dot gov (<code>nǽsə dat gav</code>)"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la figurada",
+      "title_en": "Fix the sound spelling",
+      "icon": "🩹",
+      "es": "Estas letras están dichas a la española. Escribe cómo suenan en inglés.",
+      "en": "These letters are said the Spanish way. Fix them.",
+      "items": [
+        {
+          "q": "E → <code>e</code>",
+          "a": "ii"
+        },
+        {
+          "q": "I → <code>i</code>",
+          "a": "ai"
+        },
+        {
+          "q": "H → <code>áche</code>",
+          "a": "eich"
+        },
+        {
+          "q": "J → <code>jóta</code>",
+          "a": "yei"
+        },
+        {
+          "q": "Y → <code>i griéga</code>",
+          "a": "wai"
+        },
+        {
+          "q": "Z → <code>zéta</code>",
+          "a": "sii (con zumbido 🐝)"
+        },
+        {
+          "q": "W → <code>úbe dóble</code>",
+          "a": "dábəliu"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada línea 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each line three times and tick a box each time.",
+      "items": [
+        {
+          "q": "A, B, C, D, E, F, G",
+          "say": "ei, bii, sii, dii, ii, ef, yii"
+        },
+        {
+          "q": "H, I, J, K",
+          "say": "eich, ai, yei, kei"
+        },
+        {
+          "q": "L, M, N, O, P",
+          "say": "el, em, en, ou, pii"
+        },
+        {
+          "q": "Q, R, S, T, U, V",
+          "say": "kiu, ar, es, tii, iu, vii"
+        },
+        {
+          "q": "W, X, Y, Z",
+          "say": "dábəliu, eks, wai, sii"
+        },
+        {
+          "q": "How do you spell your name?",
+          "say": "jáu də iə spél ier néim?"
+        },
+        {
+          "q": "My email is mario at gmail dot com.",
+          "say": "mai íimeil is mário æt yíimeil dat kám"
+        },
+        {
+          "q": "Call me ASAP!",
+          "say": "kol mi éisæp!"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa del deletreo",
+      "title_en": "Spelling word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras para deletrear y dar emails. Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 spelling and email words.",
+      "words": [
+        "alphabet",
+        "letter",
+        "spell",
+        "dot",
+        "dash",
+        "slash",
+        "capital",
+        "email",
+        "name",
+        "underscore"
+      ],
+      "clues": [
+        "alphabet · abecedario",
+        "letter · letra",
+        "spell · deletrear",
+        "dot · punto",
+        "dash · guion",
+        "slash · barra",
+        "capital · mayúscula",
+        "email · correo",
+        "name · nombre",
+        "underscore · guion bajo"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Tyler's message",
+      "text": [
+        "Tyler sends a lot of messages. This morning he wrote to Mario: «R U OK? C U L8R at the park. BTW, my new email is tyler_k@gmail.com. LOL!»",
+        "Mario didn't understand everything, so Lucía helped him. «R U OK?» means «Are you OK?», «C U L8R» means «See you later», and «BTW» means «by the way». Then Mario read Tyler's email aloud: «tyler underscore K at gmail dot com»."
+      ],
+      "items": [
+        {
+          "q": "What does «C U L8R» mean?",
+          "a": "See you later (<code>sii iu léirer</code>)."
+        },
+        {
+          "q": "How do you say Tyler's email?",
+          "a": "tyler underscore K at gmail dot com (<code>táiler ánderskor kéi æt yíimeil dat kám</code>)."
+        },
+        {
+          "q": "What does «BTW» mean?",
+          "a": "By the way."
+        },
+        {
+          "q": "Lucía helped Mario.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "«R U OK?» means «Are you OK?».",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Tyler's email has a dash.",
+          "tf": true,
+          "a": false,
+          "why": "tiene underscore (_)"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe y después dilo en voz alta. ¡Grábate!",
+      "en": "Write, then say it aloud and record yourself.",
+      "items": [
+        {
+          "q": "Deletrea tu nombre y apellido en inglés (en figurada).",
+          "lines": 2,
+          "a": "Ej.: Lucía Ruiz → el, iu, sii, ai, ei · ar, iu, ai, sii"
+        },
+        {
+          "q": "Escribe tu email (o uno inventado) tal como lo dirías en voz alta.",
+          "lines": 2,
+          "a": "Ej.: mario underscore ruiz at gmail dot com"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé decir las 26 letras en americano… ¡y cantar la canción del ABC!",
+      "en": "I can say the 26 letters and sing the ABC song."
+    },
+    {
+      "es": "No confundo E (<code>ii</code>) e I (<code>ai</code>), ni G (<code>yii</code>) y J (<code>yei</code>).",
+      "en": "I don't mix up E and I, or G and J."
+    },
+    {
+      "es": "Sé que la A es <code>ei</code> y que <code>ar</code> es la R.",
+      "en": "I know A is «ei» and «ar» is R."
+    },
+    {
+      "es": "Deletreo mi nombre y mi email: at, dot, dash, underscore.",
+      "en": "I can spell my name and my email."
+    },
+    {
+      "es": "Digo las siglas con el golpe al final: USA = <code>iu es éi</code>.",
+      "en": "I stress the last letter of acronyms."
+    },
+    {
+      "es": "Entiendo mensajes como C U L8R y R U OK?",
+      "en": "I understand texts like C U L8R."
+    }
+  ]
+}

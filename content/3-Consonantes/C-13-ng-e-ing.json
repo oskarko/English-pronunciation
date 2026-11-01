@@ -1,0 +1,1764 @@
+{
+  "id": "C-13",
+  "block": "C",
+  "title": "-NG <em>y</em> -ING",
+  "file_title": "-NG y -ING (el sonido /ŋ/)",
+  "subtitle": "The /ŋ/ sound · sing = «sing», going = «góuing»",
+  "icon": "🎤",
+  "map": {
+    "center": "<b>NG</b> es la n de «te<b>n</b>go», ¡sin la g! Y el <b>-ING</b> de los verbos suena <b>casi «-en»</b>: going = <code>góuing</code>.",
+    "listen": "something",
+    "nodes": [
+      {
+        "title": "La lengua",
+        "icon": "👅",
+        "color": "green",
+        "items": [
+          "la parte de <b>atrás</b> sube, como en «te<b>n</b>go»",
+          "la punta se queda <b>abajo</b>",
+          "el aire sale por la <b>nariz</b> 👃"
+        ]
+      },
+      {
+        "title": "Suena como…",
+        "icon": "🔊",
+        "color": "blue",
+        "rows": [
+          [
+            "sing",
+            "<code>sing</code>"
+          ],
+          [
+            "thing",
+            "<code>zing</code>"
+          ],
+          [
+            "long",
+            "<code>long</code>"
+          ]
+        ],
+        "after": "¡y la g <b>no suena</b>!"
+      },
+      {
+        "title": "-ING casi «-en»",
+        "icon": "🏃",
+        "color": "purple",
+        "rows": [
+          [
+            "going",
+            "<code>góuing</code>"
+          ],
+          [
+            "doing",
+            "<code>dúuing</code>"
+          ],
+          [
+            "talking",
+            "<code>tóking</code>"
+          ]
+        ],
+        "after": "i floja, casi e: «góu<b>en</b>»"
+      },
+      {
+        "title": "Relajado: -in'",
+        "icon": "😎",
+        "color": "orange",
+        "rows": [
+          [
+            "goin'",
+            "<code>góuin</code>"
+          ],
+          [
+            "nothin'",
+            "<code>názin</code>"
+          ],
+          [
+            "somethin'",
+            "<code>sámzin</code>"
+          ]
+        ],
+        "after": "en series, canciones y con amigos"
+      },
+      {
+        "title": "¡No es lo mismo!",
+        "icon": "👂",
+        "color": "pink",
+        "rows": [
+          [
+            "thin · thing",
+            "<code>zin</code> · <code>zing</code>"
+          ],
+          [
+            "sin · sing",
+            "<code>sin</code> · <code>sing</code>"
+          ],
+          [
+            "win · wing",
+            "<code>win</code> · <code>wing</code>"
+          ]
+        ]
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Di «te<b>n</b>go» y <b>frena</b> justo antes de la g: «ten…». ¡Esa n es la NG inglesa!",
+        "art": "🔔"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "going → <code>góing-g</code>"
+      ],
+      "good": [
+        "<code>góuing</code> ≈ «góuen»"
+      ],
+      "note": "La g no se dice: la lengua se queda atrás y el sonido se apaga por la nariz."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "🎤 sing → ____",
+          "a": "sing"
+        },
+        {
+          "q": "👉 going → ____",
+          "a": "góuing"
+        },
+        {
+          "q": "🧩 thing → ____",
+          "a": "zing"
+        },
+        {
+          "q": "🤷 nothing → ____",
+          "a": "názing"
+        },
+        {
+          "q": "🌅 morning → ____",
+          "a": "mórning"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la NG?",
+      "title_en": "What is NG?",
+      "icon": "🔎",
+      "es": "El sonido /ŋ/ (en la figurada, <code>ng</code>) es una <b>n que se hace atrás</b>, con la parte de atrás de la lengua pegada al fondo del paladar. ¡Ya lo dices en español sin darte cuenta! Es la n de «te<b>n</b>go», «ba<b>n</b>co» o «ci<b>n</b>co»: delante de g o k, nuestra n se va atrás. El truco es <mark>quedarte ahí y no decir la g</mark>. En inglés aparece al final de muchísimas palabras (sing, thing, long) y en el <b>-ING</b> de los verbos (going, doing, talking).",
+      "en": "The /ŋ/ sound is an n made at the back of the mouth, like the n in Spanish «tengo» or «banco». In English it appears at the end of many words (sing, thing) and in the -ing of verbs. Don't add a g!",
+      "formula": [
+        "te*n*go → «te*n*…» (frena antes de la g) → *ng*"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "tongue",
+          "es": "La <b>parte de atrás</b> de la lengua sube y se pega al fondo del paladar (donde haces la k y la g). La punta se queda <b>abajo</b>. Al final, <b>no la despegues de golpe</b>: deja que el sonido se apague, como una campana 🔔.",
+          "en": "The back of the tongue presses against the soft palate; the tip stays down. Let the sound fade: no g."
+        },
+        {
+          "part": "nose",
+          "es": "Como en la m y la n, el aire sale <b>por la nariz</b>. Tápatela un momento: si el sonido se corta, ¡lo haces bien!",
+          "en": "Air comes out through your nose."
+        },
+        {
+          "part": "voice",
+          "es": "Es <b>sonora</b>: la garganta vibra, como un zumbido «nnng» 🐝.",
+          "en": "It's voiced: a humming «nnng»."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · NG al final: ¡sin g!",
+      "title_en": "Final NG: no g!",
+      "icon": "🔔",
+      "es": "Cuando una palabra acaba en <b>NG</b> (sing, thing, long, king, young), la G <b>no se pronuncia</b>: solo queda la n de atrás. Truco: di «te<b>n</b>go» y frena justo antes de la g, con la lengua aún pegada atrás. Ese «ten…» es el final de sing: <code>sing</code>. Si se te escapa una g («sing-g»), suena a acento extranjero.",
+      "en": "When a word ends in NG, the G is silent: you only hear the back n. Say «tengo», stop before the g, and keep your tongue there.",
+      "formula": [
+        "te*n*go → te*n*… → si*ng*"
+      ],
+      "examples": [
+        {
+          "en": "sing",
+          "say": "sing",
+          "es": "cantar",
+          "icon": "🎤"
+        },
+        {
+          "en": "thing",
+          "say": "zing",
+          "es": "cosa",
+          "icon": "🧩"
+        },
+        {
+          "en": "long",
+          "say": "long",
+          "es": "largo",
+          "icon": "📏"
+        },
+        {
+          "en": "king",
+          "say": "king",
+          "es": "rey",
+          "icon": "🤴"
+        },
+        {
+          "en": "young",
+          "say": "iáng",
+          "es": "joven",
+          "icon": "👶"
+        },
+        {
+          "en": "song",
+          "say": "song",
+          "es": "canción",
+          "icon": "🎵"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · N + K: la NG que ya sabes",
+      "title_en": "N before a K sound",
+      "icon": "🏦",
+      "es": "Delante de un sonido <b>k</b> (K, C), la N también se va atrás: think, bank, pink, drink, uncle, monkey. Aquí no hay problema: ¡tu boca lo hace sola, igual que en «ba<b>nc</b>o» o «ci<b>nc</b>o»! Solo recuerda que la k final <b>sí</b> se dice: <code>zink</code>, <code>bænk</code>.",
+      "en": "Before a K sound, N also moves to the back: think, bank, pink. Your mouth does it automatically, just like in «banco».",
+      "examples": [
+        {
+          "en": "think",
+          "say": "zink",
+          "es": "pensar",
+          "icon": "🤔"
+        },
+        {
+          "en": "bank",
+          "say": "bænk",
+          "es": "banco",
+          "icon": "🏦"
+        },
+        {
+          "en": "pink",
+          "say": "pink",
+          "es": "rosa",
+          "icon": "🌸"
+        },
+        {
+          "en": "drink",
+          "say": "drink",
+          "es": "bebida / beber",
+          "icon": "🥤"
+        },
+        {
+          "en": "uncle",
+          "say": "ánkəl",
+          "es": "tío",
+          "icon": "👨"
+        },
+        {
+          "en": "monkey",
+          "say": "mánki",
+          "es": "mono",
+          "icon": "🐒"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · NG en medio: ¿con g o sin g?",
+      "title_en": "NG in the middle: g or no g?",
+      "icon": "🤔",
+      "es": "En mitad de palabra, unas veces la g suena y otras no. <b>Sin g</b>: cuando la palabra sale de otra acabada en NG (sing → singer, singing; ring → ringing). <b>Con g</b>: cuando el NG va «por dentro» (finger, English, hungry, angry) y en los comparativos longer, stronger, younger. Para recordártelo, en la figurada ponemos un guion cuando la g <b>no</b> suena: singer = <code>síng-er</code>, pero finger = <code>fínguer</code>.",
+      "en": "In the middle of a word: no g in words built on an -ng word (singer, singing); a real g in finger, English, hungry, and in longer, stronger, younger.",
+      "formula": [
+        "sing + er → *síng-er* (sin g)",
+        "fin + ger → *fínguer* (con g)"
+      ],
+      "examples": [
+        {
+          "en": "singer",
+          "say": "síng-er",
+          "es": "cantante",
+          "icon": "🧑‍🎤"
+        },
+        {
+          "en": "singing",
+          "say": "síng-ing",
+          "es": "cantando",
+          "icon": "🎶"
+        },
+        {
+          "en": "ringing",
+          "say": "ríng-ing",
+          "es": "sonando",
+          "icon": "📞"
+        },
+        {
+          "en": "finger",
+          "say": "fínguer",
+          "es": "dedo",
+          "icon": "☝️"
+        },
+        {
+          "en": "English",
+          "say": "ínglish",
+          "es": "inglés",
+          "icon": "🇬🇧"
+        },
+        {
+          "en": "longer",
+          "say": "lónguer",
+          "es": "más largo",
+          "icon": "📏"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · El -ING de los verbos: casi «-en»",
+      "title_en": "Verb -ING: almost «-en»",
+      "icon": "🏃",
+      "es": "El gran truco: el <b>-ING</b> de going, doing o talking <b>nunca lleva el golpe</b>, y su i es una <b>i floja y cortita</b>, a medio camino entre i y e. Tan floja que, a oídos españoles, <mark>suena casi «-en»</mark>: going suena casi «góu<b>en</b>»; talking, casi «tók<b>en</b>». En la figurada mantenemos la <code>i</code> (<code>góuing</code>), pero piensa en una e perezosa, nunca en una í fuerte. Y al final, nada de g: lengua atrás y el sonido se apaga por la nariz.",
+      "en": "The -ing of verbs is never stressed, and its i is short and relaxed, halfway between i and e. To Spanish ears it sounds almost like «-en»: going ≈ «góuen». And no g at the end!",
+      "formula": [
+        "go + *ing* → góu*ing* ≈ «góu*en*»",
+        "talk + *ing* → tók*ing* ≈ «tók*en*»"
+      ],
+      "examples": [
+        {
+          "en": "going",
+          "say": "góuing",
+          "es": "yendo",
+          "icon": "👉"
+        },
+        {
+          "en": "doing",
+          "say": "dúuing",
+          "es": "haciendo",
+          "icon": "🛠️"
+        },
+        {
+          "en": "talking",
+          "say": "tóking",
+          "es": "hablando",
+          "icon": "🗣️"
+        },
+        {
+          "en": "playing",
+          "say": "pléiing",
+          "es": "jugando",
+          "icon": "🎮"
+        },
+        {
+          "en": "eating",
+          "say": "íiring",
+          "es": "comiendo",
+          "icon": "🍕"
+        },
+        {
+          "en": "watching",
+          "say": "wáching",
+          "es": "viendo",
+          "icon": "📺"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Relajado: -ING → -in'",
+      "title_en": "Casual: -ing → -in'",
+      "icon": "😎",
+      "es": "En el habla relajada, en canciones y en series, muchos americanos cambian la NG final por una <b>n normal</b> (con la punta arriba): going → goin', nothing → nothin', something → somethin'. Hasta se escribe así, con apóstrofo. En la figurada: <code>góuin</code>, <code>názin</code>, <code>sámzin</code>. Entenderlo es imprescindible; usarlo, mejor con amigos (en un examen o una entrevista, -ing). <i>(Más formas relajadas en los mapas H-04 y H-07.)</i>",
+      "en": "In casual speech, songs and TV shows, many Americans turn final -ing into -in' with a normal n: goin', nothin', somethin'. Understand it; use it with friends.",
+      "examples": [
+        {
+          "en": "goin'",
+          "say": "góuin",
+          "es": "yendo",
+          "icon": "🚶"
+        },
+        {
+          "en": "nothin'",
+          "say": "názin",
+          "es": "nada",
+          "icon": "🤷"
+        },
+        {
+          "en": "somethin'",
+          "say": "sámzin",
+          "es": "algo",
+          "icon": "🎁"
+        },
+        {
+          "en": "doin'",
+          "say": "dúuin",
+          "es": "haciendo",
+          "icon": "🛠️"
+        },
+        {
+          "en": "comin'",
+          "say": "kámin",
+          "es": "viniendo",
+          "icon": "🏃"
+        },
+        {
+          "en": "rockin'",
+          "say": "rákin",
+          "es": "¡a tope!",
+          "icon": "🎸"
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "sing",
+          "ipa": "sɪŋ",
+          "say": "sing",
+          "es": "cantar",
+          "icon": "🎤",
+          "anchor": "<b>sin</b> ganas 😴",
+          "tip": "Di «sin ganas» de corrido: la n de «sin» ya se va atrás. Frena antes de la g: sing."
+        },
+        {
+          "en": "thing",
+          "ipa": "θɪŋ",
+          "say": "zing",
+          "es": "cosa",
+          "icon": "🧩",
+          "anchor": "<b>zin</b>c 🔩",
+          "tip": "Di «zinc» y corta antes de la c sin mover la lengua: zing. (Zinc entero = think, mapa C-04.)"
+        },
+        {
+          "en": "think",
+          "ipa": "θɪŋk",
+          "say": "zink",
+          "es": "pensar",
+          "icon": "🤔",
+          "anchor": "<b>zinc</b> 🔩",
+          "tip": "¡Igualito! Y si le quitas la k, sale thing."
+        },
+        {
+          "en": "bring",
+          "ipa": "brɪŋ",
+          "say": "bring",
+          "es": "traer",
+          "icon": "🎁",
+          "anchor": "<b>brin</b>co 🦘",
+          "tip": "«Brinco» sin «co»: la n ya está atrás. Bring it!"
+        },
+        {
+          "en": "tongue",
+          "ipa": "tʌŋ",
+          "say": "tang",
+          "es": "lengua",
+          "icon": "👅",
+          "anchor": "<b>tan</b>go 💃",
+          "tip": "«Tango» sin «go»: tongue. ¡Baila un tango con la lengua!"
+        },
+        {
+          "en": "bank",
+          "ipa": "bæŋk",
+          "say": "bænk",
+          "es": "banco",
+          "icon": "🏦",
+          "anchor": "<b>banc</b>o 🪑",
+          "tip": "«Banco» sin la o. La a es la de cat (mapa V-03); delante de NG, muchos americanos la cierran casi en «ei»."
+        },
+        {
+          "en": "uncle",
+          "ipa": "ˈʌŋkəl",
+          "say": "ánkəl",
+          "es": "tío",
+          "icon": "👨",
+          "anchor": "<b>ancl</b>a ⚓",
+          "tip": "Casi «ancla»: ÁN-kəl, con la L final oscura (mapa C-12)."
+        },
+        {
+          "en": "bingo",
+          "ipa": "ˈbɪŋɡoʊ",
+          "say": "bíngou",
+          "es": "bingo",
+          "icon": "🎱",
+          "anchor": "<b>bingo</b> 🎉",
+          "tip": "Aquí la g sí suena, como en español. Solo cambia el final: «ou»."
+        },
+        {
+          "en": "English",
+          "ipa": "ˈɪŋɡlɪʃ",
+          "say": "ínglish",
+          "es": "inglés",
+          "icon": "🇬🇧",
+          "anchor": "<s>in-GLÉS</s> → <b>ÍN</b>glish",
+          "tip": "La fuerza va delante y aquí la g sí suena: ÍN-glish."
+        },
+        {
+          "en": "camping",
+          "ipa": "ˈkæmpɪŋ",
+          "say": "kǽmping",
+          "es": "acampada",
+          "icon": "⛺",
+          "anchor": "«<b>cámpin</b>» 🏕️",
+          "tip": "Así lo decimos en español… ¡y así suena el inglés relajado (campin')! Para el normal, lengua atrás."
+        },
+        {
+          "en": "parking",
+          "ipa": "ˈpɑrkɪŋ",
+          "say": "párking",
+          "es": "aparcamiento",
+          "icon": "🅿️",
+          "anchor": "«<b>párkin</b>» 🚗",
+          "tip": "Igual: nuestro «párkin» es el parkin' relajado. Con NG: PÁR-king."
+        },
+        {
+          "en": "ping-pong",
+          "ipa": "ˈpɪŋpɑŋ",
+          "say": "píngpang",
+          "es": "pimpón",
+          "icon": "🏓",
+          "anchor": "<s>pimpón</s> → <b>PÍNG</b>pang",
+          "tip": "En español decimos «pimpón»; en inglés hay dos NG, con la lengua atrás."
+        },
+        {
+          "en": "ding-dong",
+          "ipa": "ˈdɪŋdɔŋ",
+          "say": "díngdong",
+          "es": "¡din don!",
+          "icon": "🔔",
+          "anchor": "<s>din don</s> → <b>DÍNG</b>dong",
+          "tip": "Nuestro timbre hace «din don»; el americano suena con NG, como una campana."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "something",
+          "es": "algo"
+        },
+        {
+          "q": "going",
+          "es": "yendo"
+        },
+        {
+          "q": "thing",
+          "es": "cosa"
+        },
+        {
+          "q": "singing",
+          "es": "cantando"
+        },
+        {
+          "q": "morning",
+          "es": "mañana"
+        },
+        {
+          "q": "nothing",
+          "es": "nada"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "¿Cómo suena la NG?",
+      "title_en": "How does NG sound?",
+      "icon": "🧭",
+      "head": [
+        "Se escribe · Spelling",
+        "Ejemplos · Examples",
+        "Sonido · Sound",
+        "Suena"
+      ],
+      "rows": [
+        [
+          "<b>NG</b> al final",
+          "sing, long, king",
+          "/ŋ/ (sin g)",
+          "<code>sing</code>, <code>long</code>, <code>king</code>"
+        ],
+        [
+          "<b>-ING</b> de los verbos",
+          "going, doing, talking",
+          "/ɪŋ/, casi «-en»",
+          "<code>góuing</code>, <code>dúuing</code>, <code>tóking</code>"
+        ],
+        [
+          "<b>-IN'</b> (relajado)",
+          "goin', nothin'",
+          "/ɪn/, n normal",
+          "<code>góuin</code>, <code>názin</code>"
+        ],
+        [
+          "<b>N</b> + sonido k",
+          "think, bank, uncle",
+          "/ŋk/",
+          "<code>zink</code>, <code>bænk</code>, <code>ánkəl</code>"
+        ],
+        [
+          "<b>NG</b> + -er, -ing",
+          "singer, singing, ringing",
+          "/ŋ/ (sin g)",
+          "<code>síng-er</code>, <code>síng-ing</code>, <code>ríng-ing</code>"
+        ],
+        [
+          "<b>NG</b> por dentro",
+          "finger, English, hungry",
+          "/ŋɡ/ (con g)",
+          "<code>fínguer</code>, <code>ínglish</code>, <code>jángri</code>"
+        ],
+        [
+          "comparativos",
+          "longer, stronger, younger",
+          "/ŋɡ/ (con g)",
+          "<code>lónguer</code>, <code>strónguer</code>, <code>iánguer</code>"
+        ]
+      ],
+      "note": "¡Ojo! «going to» + verbo se convierte casi siempre en <b>gonna</b> <code>gánə</code> (mapa H-04): I'm gonna sing. Y el guion de <code>síng-er</code> te recuerda que ahí la g no suena.",
+      "note_en": "«Going to» + verb usually becomes «gonna» (map H-04). The hyphen in «síng-er» reminds you there's no g."
+    },
+    {
+      "t": "pairs",
+      "title": "¿N o NG?",
+      "title_en": "N or NG?",
+      "icon": "👂",
+      "items": [
+        {
+          "a": {
+            "en": "thin",
+            "ipa": "θɪn",
+            "say": "zin",
+            "es": "delgado",
+            "icon": "🧍"
+          },
+          "b": {
+            "en": "thing",
+            "ipa": "θɪŋ",
+            "say": "zing",
+            "es": "cosa",
+            "icon": "🧩"
+          },
+          "tip": "Thin acaba con la punta arriba; thing, con la lengua atrás."
+        },
+        {
+          "a": {
+            "en": "sin",
+            "ipa": "sɪn",
+            "say": "sin",
+            "es": "pecado",
+            "icon": "😈"
+          },
+          "b": {
+            "en": "sing",
+            "ipa": "sɪŋ",
+            "say": "sing",
+            "es": "cantar",
+            "icon": "🎤"
+          },
+          "tip": "Sin: punta detrás de los dientes. Sing: punta abajo, lengua atrás."
+        },
+        {
+          "a": {
+            "en": "ban",
+            "ipa": "bæn",
+            "say": "bæn",
+            "es": "prohibir",
+            "icon": "🚫"
+          },
+          "b": {
+            "en": "bang",
+            "ipa": "bæŋ",
+            "say": "bæng",
+            "es": "¡pum! / golpe",
+            "icon": "💥"
+          },
+          "tip": "Bang suena hueco, como un gong."
+        },
+        {
+          "a": {
+            "en": "win",
+            "ipa": "wɪn",
+            "say": "win",
+            "es": "ganar",
+            "icon": "🏆"
+          },
+          "b": {
+            "en": "wing",
+            "ipa": "wɪŋ",
+            "say": "wing",
+            "es": "ala",
+            "icon": "🍗"
+          },
+          "tip": "Chicken wings (alitas de pollo): con la lengua atrás."
+        },
+        {
+          "a": {
+            "en": "ran",
+            "ipa": "ræn",
+            "say": "ræn",
+            "es": "corrió",
+            "icon": "🏃"
+          },
+          "b": {
+            "en": "rang",
+            "ipa": "ræŋ",
+            "say": "ræng",
+            "es": "sonó",
+            "icon": "🔔"
+          },
+          "tip": "The phone rang = sonó el teléfono."
+        },
+        {
+          "a": {
+            "en": "singer",
+            "ipa": "ˈsɪŋɚ",
+            "say": "síng-er",
+            "es": "cantante",
+            "icon": "🧑‍🎤"
+          },
+          "b": {
+            "en": "finger",
+            "ipa": "ˈfɪŋɡɚ",
+            "say": "fínguer",
+            "es": "dedo",
+            "icon": "☝️"
+          },
+          "tip": "¡Riman en el papel, pero no al oído! Singer sin g; finger con g."
+        }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        {
+          "written": "Where are you going?",
+          "spoken": "Where you goin'?",
+          "say": "wer iu góuin?",
+          "es": "¿Adónde vas?"
+        },
+        {
+          "written": "Nothing much.",
+          "spoken": "Nothin' much.",
+          "say": "názin mach",
+          "es": "Poca cosa."
+        },
+        {
+          "written": "Something's wrong.",
+          "spoken": "Somethin's wrong.",
+          "say": "sámzins rong",
+          "es": "Algo va mal."
+        },
+        {
+          "written": "I'm just kidding!",
+          "spoken": "I'm just kiddin'!",
+          "say": "aim yast kírin!",
+          "es": "¡Es broma!"
+        },
+        {
+          "written": "Good morning!",
+          "spoken": "Mornin'!",
+          "say": "mórnin!",
+          "es": "¡Buenos días!"
+        },
+        {
+          "written": "Are you coming?",
+          "spoken": "You comin'?",
+          "say": "iu kámin?",
+          "es": "¿Vienes?"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I'm going to the park.",
+          "say": "aim góuing tə də park",
+          "es": "Voy al parque.",
+          "icon": "🌳"
+        },
+        {
+          "en": "What are you doing?",
+          "say": "wárər iu dúuing?",
+          "es": "¿Qué estás haciendo?",
+          "icon": "🤔"
+        },
+        {
+          "en": "Ashley is singing a song.",
+          "say": "ǽshli is síng-ing ə song",
+          "es": "Ashley está cantando una canción.",
+          "icon": "🎤"
+        },
+        {
+          "en": "Good morning, everyone!",
+          "say": "gud mórning, évriwan!",
+          "es": "¡Buenos días a todos!",
+          "icon": "☀️"
+        },
+        {
+          "en": "I think it's a long song.",
+          "say": "ai zink its ə long song",
+          "es": "Creo que es una canción larga.",
+          "icon": "🎵"
+        },
+        {
+          "en": "The king is drinking pink lemonade.",
+          "say": "də king is drínking pink lemənéid",
+          "es": "El rey está bebiendo limonada rosa.",
+          "icon": "👑"
+        },
+        {
+          "en": "My uncle is young and strong.",
+          "say": "mai ánkəl is iáng ənd strong",
+          "es": "Mi tío es joven y fuerte.",
+          "icon": "💪"
+        },
+        {
+          "en": "We're playing ping-pong.",
+          "say": "wir pléiing píngpang",
+          "es": "Estamos jugando al pimpón.",
+          "icon": "🏓"
+        },
+        {
+          "en": "Bring me something to eat!",
+          "say": "bring mi sámzing tə iit!",
+          "es": "¡Tráeme algo de comer!",
+          "icon": "🍕"
+        },
+        {
+          "en": "Rocky is running and jumping.",
+          "say": "ráki is ráning ənd yámping",
+          "es": "Rocky está corriendo y saltando.",
+          "icon": "🐶"
+        },
+        {
+          "en": "Is everything OK?",
+          "say": "is évrizing oukéi?",
+          "es": "¿Va todo bien?",
+          "icon": "✅"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "sing → <code>sing-g</code> (con g)",
+          "good": "<code>sing</code>",
+          "why": "La g no suena: la lengua se queda pegada atrás y el sonido se apaga por la nariz.",
+          "why_en": "Don't release a g at the end."
+        },
+        {
+          "bad": "thing → <code>zin</code>",
+          "good": "<code>zing</code>",
+          "why": "Con la punta arriba dices thin (delgado). Lengua atrás, como en «tengo».",
+          "why_en": "With a front n, thing becomes thin."
+        },
+        {
+          "bad": "going → <code>goíng</code>",
+          "good": "<code>góuing</code>",
+          "why": "El -ING nunca lleva el golpe: GÓU-ing, casi «góuen».",
+          "why_en": "Never stress the -ing."
+        },
+        {
+          "bad": "singer → <code>sínguer</code>",
+          "good": "<code>síng-er</code>",
+          "why": "Singer viene de sing: sin g. (Finger sí la lleva: <code>fínguer</code>.)",
+          "why_en": "Singer has no g sound; finger does."
+        },
+        {
+          "bad": "English → <code>inglés</code>",
+          "good": "<code>ínglish</code>",
+          "why": "La fuerza va delante: ÍN-glish. Aquí la g sí suena.",
+          "why_en": "Stress the first syllable; here the g is pronounced."
+        },
+        {
+          "bad": "ping-pong → <code>pimpón</code>",
+          "good": "<code>píngpang</code>",
+          "why": "Nada de m ni n: dos NG con la lengua atrás.",
+          "why_en": "Two back NG sounds, not m or n."
+        },
+        {
+          "bad": "young → <code>yong</code>",
+          "good": "<code>iáng</code>",
+          "why": "Y suave (mapa C-10), la o suena a corta y NG sin g.",
+          "why_en": "Soft Y, short a sound, and NG with no g."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Noche de karaoke",
+      "title_en": "Karaoke night",
+      "lines": [
+        {
+          "who": "Jenny",
+          "en": "Hey, Mario! What are you doing tonight?",
+          "say": "jei, mário! wárər iu dúuing tənáit?",
+          "es": "¡Eh, Mario! ¿Qué haces esta noche?"
+        },
+        {
+          "who": "Mario",
+          "en": "Nothing. Why?",
+          "say": "názing. wai?",
+          "es": "Nada. ¿Por qué?"
+        },
+        {
+          "who": "Jenny",
+          "en": "We're going to a karaoke party! Are you coming?",
+          "say": "wir góuing tu ə kærióuki párdi! ar iu káming?",
+          "es": "¡Vamos a una fiesta de karaoke! ¿Vienes?"
+        },
+        {
+          "who": "Mario",
+          "en": "Singing? In English? I'm not a good singer!",
+          "say": "síng-ing? in ínglish? aim nat ə gud síng-er!",
+          "es": "¿Cantar? ¿En inglés? ¡No soy buen cantante!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Come on! It's just a fun thing to do.",
+          "say": "kəmán! its yast ə fan zing tə du",
+          "es": "¡Venga! Es solo algo divertido."
+        },
+        {
+          "who": "Mario",
+          "en": "OK! I'm bringing my uncle. He sings everything!",
+          "say": "oukéi! aim bríng-ing mai ánkəl. ji sings évrizing!",
+          "es": "¡Vale! Me traigo a mi tío. ¡Canta de todo!"
+        },
+        {
+          "who": "Jenny",
+          "en": "Awesome! We're singin' all night long!",
+          "say": "ósəm! wir síng-in ol nait long!",
+          "es": "¡Genial! ¡Vamos a cantar toda la noche!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Di «te<b>n</b>go», «ba<b>n</b>co», «ci<b>n</b>co». Fíjate dónde está la lengua en esa n: ¡atrás!",
+          "en": "Say «tengo», «banco»: feel where your tongue is on that n."
+        },
+        {
+          "es": "Di «ten…» y <b>congela</b> la lengua antes de la g. Alarga ese zumbido: «nnnng» 🐝.",
+          "en": "Say «ten…» and freeze before the g. Hum it."
+        },
+        {
+          "es": "Pon otras letras delante: «si-nnng» = <code>sing</code>, «zi-nnng» = <code>zing</code>, «lo-nnng» = <code>long</code>. Deja que se apague, sin soltar g.",
+          "en": "Add sounds before it: sing, thing, long. Let it fade."
+        },
+        {
+          "es": "Ahora el -ING: <code>góuing</code>, <code>dúuing</code>, <code>tóking</code>, con la i floja (casi «e») y el golpe siempre delante.",
+          "en": "Now -ing: relaxed i, almost e, and the stress always before it."
+        },
+        {
+          "es": "Escanea los QR, escucha 3 vídeos de «something» y <b>grábate</b> diciendo «Nothing is wrong». Compara.",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "The king keeps singing a long, long song.",
+          "say": "də king kiips síng-ing ə long, long song",
+          "es": "El rey sigue cantando una canción larga, larguísima."
+        },
+        {
+          "en": "Think thin things, not thick things!",
+          "say": "zink zin zings, nat zik zings!",
+          "es": "¡Piensa en cosas delgadas, no en cosas gruesas!"
+        },
+        {
+          "en": "Ding-dong! Who's ringing? Uncle Bing, bringing pink drinks!",
+          "say": "díngdong! juus ríng-ing? ánkəl bing, bríng-ing pink drinks!",
+          "es": "¡Din don! ¿Quién llama? ¡El tío Bing, que trae bebidas rosas!"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del «tengo»",
+      "title_en": "The «tengo» trick",
+      "es": "Cada vez que veas <b>NG</b>, piensa en «te<b>n</b>go» y frena antes de la g 🛑: lengua atrás, aire por la nariz. Y cuando veas el <b>-ING</b> de un verbo, piensa «casi -en»: corto, flojo y sin golpe. going = <code>góuing</code> ≈ «góuen». <mark>¡La g se queda en el papel!</mark>",
+      "en": "When you see NG, think «tengo» and stop before the g. When you see verb -ING, think «almost -en»: short, relaxed, unstressed. The g stays on paper!"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿N o NG?",
+      "title_en": "N or NG?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta. ¿Acaba en <b>n</b> (punta arriba) o en <b>ng</b> (lengua atrás)? Rodea. ¡Ojo con las trampas!",
+      "en": "Say the word. Does the n sound like n or ng?",
+      "items": [
+        {
+          "q": "thin → [n|ng]",
+          "a": "n"
+        },
+        {
+          "q": "thing → [n|ng]",
+          "a": "ng"
+        },
+        {
+          "q": "sin → [n|ng]",
+          "a": "n"
+        },
+        {
+          "q": "sing → [n|ng]",
+          "a": "ng"
+        },
+        {
+          "q": "win → [n|ng]",
+          "a": "n"
+        },
+        {
+          "q": "wing → [n|ng]",
+          "a": "ng"
+        },
+        {
+          "q": "ran → [n|ng]",
+          "a": "n"
+        },
+        {
+          "q": "rang → [n|ng]",
+          "a": "ng"
+        },
+        {
+          "q": "bank → [n|ng]",
+          "a": "ng"
+        },
+        {
+          "q": "pink → [n|ng]",
+          "a": "ng"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Suena la g?",
+      "title_en": "Do you hear the g?",
+      "icon": "👂",
+      "es": "Rodea si la g se pronuncia (<b>con g</b>) o no (<b>sin g</b>).",
+      "en": "Is the g pronounced or not?",
+      "items": [
+        {
+          "q": "sing → [con g|sin g]",
+          "a": "sin g"
+        },
+        {
+          "q": "finger → [con g|sin g]",
+          "a": "con g"
+        },
+        {
+          "q": "singer → [con g|sin g]",
+          "a": "sin g"
+        },
+        {
+          "q": "English → [con g|sin g]",
+          "a": "con g"
+        },
+        {
+          "q": "singing → [con g|sin g]",
+          "a": "sin g"
+        },
+        {
+          "q": "hungry → [con g|sin g]",
+          "a": "con g"
+        },
+        {
+          "q": "longer → [con g|sin g]",
+          "a": "con g"
+        },
+        {
+          "q": "king → [con g|sin g]",
+          "a": "sin g"
+        },
+        {
+          "q": "ringing → [con g|sin g]",
+          "a": "sin g"
+        },
+        {
+          "q": "angry → [con g|sin g]",
+          "a": "con g"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "🔔 /ŋ/ sin g",
+          "words": [
+            "sing",
+            "thing",
+            "long",
+            "singer",
+            "ringing",
+            "young"
+          ]
+        },
+        {
+          "name": "🎱 /ŋɡ/ con g",
+          "words": [
+            "finger",
+            "English",
+            "hungry",
+            "angry",
+            "bingo",
+            "younger"
+          ]
+        },
+        {
+          "name": "🏦 /ŋk/",
+          "words": [
+            "think",
+            "bank",
+            "pink",
+            "uncle",
+            "drink",
+            "monkey"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        [
+          "thing",
+          "<code>zing</code>"
+        ],
+        [
+          "going",
+          "<code>góuing</code>"
+        ],
+        [
+          "nothing",
+          "<code>názing</code>"
+        ],
+        [
+          "something",
+          "<code>sámzing</code>"
+        ],
+        [
+          "morning",
+          "<code>mórning</code>"
+        ],
+        [
+          "English",
+          "<code>ínglish</code>"
+        ],
+        [
+          "uncle",
+          "<code>ánkəl</code>"
+        ],
+        [
+          "young",
+          "<code>iáng</code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Usa <b>ng</b> para la NG, pon tilde en la sílaba fuerte y un guion si la g no suena en medio (<code>síng-er</code>).",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "🎶 singing → ____",
+          "a": "síng-ing"
+        },
+        {
+          "q": "🍗 wing → ____",
+          "a": "wing"
+        },
+        {
+          "q": "🤴 king → ____",
+          "a": "king"
+        },
+        {
+          "q": "👅 tongue → ____",
+          "a": "tang"
+        },
+        {
+          "q": "💍 ring → ____",
+          "a": "ring"
+        },
+        {
+          "q": "📏 long → ____",
+          "a": "long"
+        },
+        {
+          "q": "🌙 evening → ____",
+          "a": "íivning"
+        },
+        {
+          "q": "🏃 running → ____",
+          "a": "ráning"
+        },
+        {
+          "q": "🏊 swimming → ____",
+          "a": "swíming"
+        },
+        {
+          "q": "🍕 eating → ____",
+          "a": "íiring"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "In «sing», you pronounce the G.",
+          "a": false,
+          "why": "la g no suena: <code>sing</code>"
+        },
+        {
+          "q": "The n in Spanish «tengo» is like the English /ŋ/.",
+          "a": true
+        },
+        {
+          "q": "«Thin» and «thing» sound the same.",
+          "a": false,
+          "why": "thin = <code>zin</code>; thing = <code>zing</code>"
+        },
+        {
+          "q": "The -ING of «going» is stressed.",
+          "a": false,
+          "why": "GÓU-ing: el golpe va delante"
+        },
+        {
+          "q": "The i in verb -ING is relaxed, almost like an e.",
+          "a": true
+        },
+        {
+          "q": "In casual speech, «nothing» can sound like «nothin'».",
+          "a": true
+        },
+        {
+          "q": "«Finger» and «singer» rhyme perfectly.",
+          "a": false,
+          "why": "finger lleva g: <code>fínguer</code>"
+        },
+        {
+          "q": "For /ŋ/, the air comes out through your nose.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Fíjate: el -ING nunca lleva el golpe.",
+      "en": "Circle the stressed syllable. The -ing is never stressed.",
+      "items": [
+        {
+          "syl": [
+            "go",
+            "ing"
+          ],
+          "s": 0,
+          "es": "yendo"
+        },
+        {
+          "syl": [
+            "talk",
+            "ing"
+          ],
+          "s": 0,
+          "es": "hablando"
+        },
+        {
+          "syl": [
+            "morn",
+            "ing"
+          ],
+          "s": 0,
+          "es": "mañana"
+        },
+        {
+          "syl": [
+            "eve",
+            "ning"
+          ],
+          "s": 0,
+          "es": "tarde-noche"
+        },
+        {
+          "syl": [
+            "be",
+            "gin",
+            "ning"
+          ],
+          "s": 1,
+          "es": "principio"
+        },
+        {
+          "syl": [
+            "for",
+            "get",
+            "ting"
+          ],
+          "s": 1,
+          "es": "olvidando"
+        },
+        {
+          "syl": [
+            "a",
+            "maz",
+            "ing"
+          ],
+          "s": 1,
+          "es": "increíble"
+        },
+        {
+          "syl": [
+            "ex",
+            "cit",
+            "ing"
+          ],
+          "s": 1,
+          "es": "emocionante"
+        },
+        {
+          "syl": [
+            "un",
+            "der",
+            "stand",
+            "ing"
+          ],
+          "s": 2,
+          "es": "comprensivo"
+        },
+        {
+          "syl": [
+            "Eng",
+            "lish"
+          ],
+          "s": 0,
+          "es": "inglés"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Versión relajada",
+      "title_en": "Casual version",
+      "icon": "😎",
+      "es": "Escribe la versión relajada con <b>-in'</b> y cómo suena.",
+      "en": "Write the casual -in' version and how it sounds.",
+      "items": [
+        {
+          "q": "going",
+          "a": "goin' (góuin)"
+        },
+        {
+          "q": "nothing",
+          "a": "nothin' (názin)"
+        },
+        {
+          "q": "something",
+          "a": "somethin' (sámzin)"
+        },
+        {
+          "q": "doing",
+          "a": "doin' (dúuin)"
+        },
+        {
+          "q": "talking",
+          "a": "talkin' (tókin)"
+        },
+        {
+          "q": "coming",
+          "a": "comin' (kámin)"
+        },
+        {
+          "q": "morning",
+          "a": "mornin' (mórnin)"
+        },
+        {
+          "q": "kidding",
+          "a": "kiddin' (kírin)"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        {
+          "q": "thing → <code>zin</code>",
+          "a": "zing"
+        },
+        {
+          "q": "going → <code>goíng</code>",
+          "a": "góuing"
+        },
+        {
+          "q": "English → <code>inglés</code>",
+          "a": "ínglish"
+        },
+        {
+          "q": "singer → <code>sínguer</code>",
+          "a": "síng-er"
+        },
+        {
+          "q": "finger → <code>fíng-er</code>",
+          "a": "fínguer"
+        },
+        {
+          "q": "uncle → <code>únkle</code>",
+          "a": "ánkəl"
+        },
+        {
+          "q": "young → <code>yong</code>",
+          "a": "iáng"
+        },
+        {
+          "q": "nothing → <code>nóting</code>",
+          "a": "názing"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "Sing a song!",
+          "say": "sing ə song!"
+        },
+        {
+          "q": "What are you doing?",
+          "say": "wárər iu dúuing?"
+        },
+        {
+          "q": "I'm going home.",
+          "say": "aim góuing joum"
+        },
+        {
+          "q": "Nothing is wrong.",
+          "say": "názing is rong"
+        },
+        {
+          "q": "Good morning, everyone!",
+          "say": "gud mórning, évriwan!"
+        },
+        {
+          "q": "The king is drinking pink lemonade.",
+          "say": "də king is drínking pink lemənéid"
+        },
+        {
+          "q": "Somethin's wrong, man!",
+          "say": "sámzins rong, mæn!"
+        },
+        {
+          "q": "Ding-dong! Who's ringing?",
+          "say": "díngdong! juus ríng-ing?"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta: lengua atrás y ¡sin g!",
+      "en": "Translate into English and say it.",
+      "items": [
+        {
+          "q": "cantar",
+          "a": "sing (sing)"
+        },
+        {
+          "q": "cosa",
+          "a": "thing (zing)"
+        },
+        {
+          "q": "largo",
+          "a": "long (long)"
+        },
+        {
+          "q": "rey",
+          "a": "king (king)"
+        },
+        {
+          "q": "joven",
+          "a": "young (iáng)"
+        },
+        {
+          "q": "canción",
+          "a": "song (song)"
+        },
+        {
+          "q": "pensar",
+          "a": "think (zink)"
+        },
+        {
+          "q": "tío",
+          "a": "uncle (ánkəl)"
+        },
+        {
+          "q": "algo",
+          "a": "something (sámzing)"
+        },
+        {
+          "q": "nada",
+          "a": "nothing (názing)"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos: el verbo con -ING, cómo suena y su versión relajada.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Verbo",
+        "-ING",
+        "Suena",
+        "Relajado (-in')"
+      ],
+      "rows": [
+        [
+          "go",
+          "?going",
+          "góuing",
+          "?góuin"
+        ],
+        [
+          "do",
+          "doing",
+          "?dúuing",
+          "dúuin"
+        ],
+        [
+          "talk",
+          "?talking",
+          "tóking",
+          "?tókin"
+        ],
+        [
+          "come",
+          "coming",
+          "?káming",
+          "?kámin"
+        ],
+        [
+          "eat",
+          "?eating",
+          "íiring",
+          "íirin"
+        ],
+        [
+          "sing",
+          "singing",
+          "?síng-ing",
+          "?síng-in"
+        ],
+        [
+          "run",
+          "?running",
+          "ráning",
+          "?ránin"
+        ],
+        [
+          "kid",
+          "kidding",
+          "?kíring",
+          "kírin"
+        ]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de NG",
+      "title_en": "NG word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con NG. Dila en voz alta, sin g, cada vez que encuentres una.",
+      "en": "Find 10 words with the /ŋ/ sound.",
+      "words": [
+        "sing",
+        "song",
+        "king",
+        "long",
+        "thing",
+        "young",
+        "ring",
+        "wing",
+        "bank",
+        "pink"
+      ],
+      "clues": [
+        "sing · cantar",
+        "song · canción",
+        "king · rey",
+        "long · largo",
+        "thing · cosa",
+        "young · joven",
+        "ring · anillo",
+        "wing · ala",
+        "bank · banco",
+        "pink · rosa"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Uncle Bing's Songs",
+      "text": [
+        "Uncle Bing is a singer. Every morning, he's singing and dancing in the kitchen while he's cooking something yummy.",
+        "His long songs are about everything: kings, rings, wings and pink flamingos. «Stop singing!» says Aunt Jenny. «No way!» he answers, laughing."
+      ],
+      "items": [
+        {
+          "q": "What is Uncle Bing's job?",
+          "a": "He's a singer (<code>síng-er</code>, ¡sin g!)."
+        },
+        {
+          "q": "Find four verbs ending in -ING.",
+          "a": "singing, dancing, cooking, laughing."
+        },
+        {
+          "q": "Find a word where the g after NG is pronounced.",
+          "a": "flamingos (<code>fləmíngous</code>)."
+        },
+        {
+          "q": "In «singer», you pronounce a g.",
+          "tf": true,
+          "a": false,
+          "why": "<code>síng-er</code>, sin g"
+        },
+        {
+          "q": "«Morning» and «nothing» end with the same sound.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Uncle Bing sings about kings and rings.",
+          "tf": true,
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con NG e -ING. Léelas en voz alta (¡-ING casi «-en»!) y grábate.",
+      "en": "Write three sentences with NG and -ing and record yourself.",
+      "items": [
+        {
+          "q": "¿Qué estás haciendo ahora? (I'm …ing)",
+          "lines": 2,
+          "a": "Ej.: I'm reading and learning English."
+        },
+        {
+          "q": "Tres cosas que te gusta hacer (I like …ing).",
+          "lines": 2,
+          "a": "Ej.: I like singing, swimming and playing ping-pong."
+        },
+        {
+          "q": "Una frase con thing, something o nothing.",
+          "lines": 2,
+          "a": "Ej.: There's something in my bag."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Digo la NG con la lengua atrás, como en «te<b>n</b>go», ¡y sin g!: <code>sing</code>.",
+      "en": "I can say NG without a g."
+    },
+    {
+      "es": "Distingo thin/thing, sin/sing y win/wing.",
+      "en": "I can hear and say n vs. ng."
+    },
+    {
+      "es": "Digo el -ING flojo y sin golpe, casi «-en»: <code>góuing</code>.",
+      "en": "I can say a relaxed, unstressed -ing."
+    },
+    {
+      "es": "Entiendo el -in' relajado: goin', nothin', somethin'.",
+      "en": "I understand casual -in'."
+    },
+    {
+      "es": "Sé cuándo suena la g: singer sin g, finger con g.",
+      "en": "I know when the g is pronounced."
+    },
+    {
+      "es": "Puedo decir el trabalenguas del rey cantante sin trabarme. 🎤",
+      "en": "I can say the singing king tongue twister."
+    }
+  ]
+}

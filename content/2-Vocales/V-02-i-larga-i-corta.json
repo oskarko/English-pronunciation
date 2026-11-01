@@ -1,0 +1,932 @@
+{
+  "id": "V-02",
+  "block": "V",
+  "title": "I LARGA <em>e</em> I CORTA",
+  "file_title": "I larga e i corta",
+  "subtitle": "Long EE and short I · sheep o ship",
+  "icon": "🐑",
+  "map": {
+    "center": "Hay <b>dos íes</b>: la <b>larga</b> /iː/, con sonrisa (<code>shiip</code> 🐑), y la <b>corta</b> /ɪ/, floja, casi e (<code>ship</code> 🚢).",
+    "listen": "sheep",
+    "nodes": [
+      {
+        "title": "I larga /iː/",
+        "icon": "😁",
+        "color": "green",
+        "items": [
+          "sonrisa de foto: ¡<b>cheese!</b>",
+          "lengua alta y <b>tensa</b>",
+          "dura <b>el doble</b>: <code>shiip</code> 🐑"
+        ]
+      },
+      {
+        "title": "I corta /ɪ/",
+        "icon": "😌",
+        "color": "blue",
+        "items": [
+          "boca y lengua <b>relajadas</b>",
+          "rápida y <b>casi e</b>",
+          "un golpe corto: <code>ship</code> 🚢"
+        ]
+      },
+      {
+        "title": "Cambia el sentido",
+        "icon": "👂",
+        "color": "purple",
+        "rows": [
+          ["leave", "<code>liiv</code> irse"],
+          ["live", "<code>liv</code> vivir"],
+          ["eat", "<code>iit</code> comer"],
+          ["it", "<code>it</code> ello"]
+        ]
+      },
+      {
+        "title": "¿Cómo se escribe?",
+        "icon": "✍️",
+        "color": "orange",
+        "items": [
+          "larga: <b>ee</b>, <b>ea</b> (green, eat)",
+          "corta: <b>i</b> sola (sit, big)",
+          "corta también: <b>E</b>nglish, b<b>u</b>sy"
+        ]
+      },
+      {
+        "title": "La -y final",
+        "icon": "😊",
+        "color": "pink",
+        "rows": [
+          ["happy", "<code>jǽpi</code>"],
+          ["city", "<code>síri</code>"],
+          ["money", "<code>máni</code>"]
+        ],
+        "after": "una i española, cortita"
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "¿Larga? Cara de foto 😁 y estira. ¿Corta? Cara de «me da igual» 😑 y ¡rápido!",
+        "art": "📸"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["playa → <code>bech</code> (escabeche)"],
+      "good": ["<code>biich</code> 🏖️"],
+      "note": "«Bech» lleva i corta… ¡y suena a palabrota! (b*tch 🙊)"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "🐑 sheep → ____", "a": "shiip" },
+        { "q": "🚢 ship → ____", "a": "ship" },
+        { "q": "🏖️ beach → ____", "a": "biich" },
+        { "q": "🏠 live → ____", "a": "liv" },
+        { "q": "😊 happy → ____", "a": "jǽpi" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Una i o dos?",
+      "title_en": "One I or two?",
+      "icon": "🔎",
+      "es": "En español hay una sola i. En inglés hay <b>dos</b>, y cambian el significado: la <b>i larga</b> /iː/ de <b>sheep</b> (oveja) y la <b>i corta</b> /ɪ/ de <b>ship</b> (barco). La larga es una i española <b>estirada y con sonrisa</b>. La corta es <b>relajada y rápida</b>, a medio camino entre la i y la e. <mark>Si las mezclas, puedes decir «barco» en vez de «oveja»… ¡o algo mucho peor!</mark> 🙊",
+      "en": "English has two different I sounds: the long /iː/ in sheep and the short /ɪ/ in ship. Mixing them up changes the meaning of the word.",
+      "formula": [
+        "sonrisa + i *larga* → sh*ii*p 🐑",
+        "relax + i *corta* → sh*i*p 🚢"
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        {
+          "part": "lips",
+          "es": "/iː/: labios <b>estirados</b>, sonrisa de foto. /ɪ/: labios <b>sueltos</b>, sin sonreír.",
+          "en": "/iː/: spread lips, big smile. /ɪ/: relaxed lips."
+        },
+        {
+          "part": "tongue",
+          "es": "/iː/: lengua <b>alta y tensa</b>, casi rozando el paladar. /ɪ/: un poco <b>más baja y floja</b>.",
+          "en": "/iː/: tongue high and tense. /ɪ/: a bit lower and relaxed."
+        },
+        {
+          "part": "jaw",
+          "es": "/iː/: casi cerrada. /ɪ/: se abre <b>un pelín</b> más, como para decir «e».",
+          "en": "/iː/: almost closed. /ɪ/: a little more open, like for «e»."
+        },
+        {
+          "part": "voice",
+          "es": "/iː/ dura <b>el doble</b>: «iii». /ɪ/ es un golpe <b>cortito</b>.",
+          "en": "/iː/ is long. /ɪ/ is short and quick."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · La i larga /iː/",
+      "title_en": "The long EE",
+      "icon": "😁",
+      "es": "Es la i española, pero <b>más larga y más tensa</b>, con los labios en sonrisa. Casi siempre se escribe <b>ee</b> o <b>ea</b>; también e (me), ie (piece) o, a veces, i (pizza).",
+      "en": "It's like a Spanish i, but longer and tenser, with a smile. Usually spelled EE or EA.",
+      "examples": [
+        { "en": "sheep", "say": "shiip", "es": "oveja", "icon": "🐑" },
+        { "en": "tea", "say": "tii", "es": "té", "icon": "🫖" },
+        { "en": "green", "say": "griin", "es": "verde", "icon": "🟢" },
+        { "en": "beach", "say": "biich", "es": "playa", "icon": "🏖️" },
+        { "en": "teacher", "say": "tíicher", "es": "profe", "icon": "👩‍🏫" },
+        { "en": "key", "say": "kii", "es": "llave", "icon": "🔑" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · La i corta /ɪ/",
+      "title_en": "The short I",
+      "icon": "😌",
+      "es": "Relaja la boca y dila <b>rápido</b>: suena entre la i y la e. No es una i española (demasiado tensa) ni una e del todo. Casi siempre es una <b>i sola entre consonantes</b> (sit, big), pero también aparece en <b>E</b>nglish, w<b>o</b>men o b<b>u</b>sy.",
+      "en": "Relax your mouth and say it fast: it sounds between i and e. It's usually a single I between consonants.",
+      "examples": [
+        { "en": "ship", "say": "ship", "es": "barco", "icon": "🚢" },
+        { "en": "sit", "say": "sit", "es": "sentarse", "icon": "🪑" },
+        { "en": "fish", "say": "fish", "es": "pez, pescado", "icon": "🐟" },
+        { "en": "big", "say": "big", "es": "grande", "icon": "🐘" },
+        { "en": "milk", "say": "milk", "es": "leche", "icon": "🥛" },
+        { "en": "English", "say": "ínglish", "es": "inglés", "icon": "🇬🇧" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · La -y final",
+      "title_en": "Final -Y",
+      "icon": "😊",
+      "es": "Al final de palabra, la <b>-y</b> (y también -ey, -ie) suena como una <b>i española</b> normal: clara pero cortita. Ni tan larga como sheep ni tan floja como ship. ¡Y nunca lleva el golpe!",
+      "en": "Final -Y sounds like a normal Spanish i: clear but short. It is never stressed.",
+      "examples": [
+        { "en": "happy", "say": "jǽpi", "es": "feliz", "icon": "😊" },
+        { "en": "city", "say": "síri", "es": "ciudad", "icon": "🏙️" },
+        { "en": "baby", "say": "béibi", "es": "bebé", "icon": "👶" },
+        { "en": "money", "say": "máni", "es": "dinero", "icon": "💰" },
+        { "en": "coffee", "say": "káfi", "es": "café", "icon": "☕" },
+        { "en": "cookie", "say": "kúki", "es": "galleta", "icon": "🍪" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · ¡Cuidado con el escabeche!",
+      "title_en": "The «escabeche» trap",
+      "icon": "🙊",
+      "es": "Hay un truco muy famoso: «playa = beach = esca<b>bech</b>e sin la e → bech». ¡Cuidado! Ese «bech» suena a <b>i corta</b>… y con i corta, beach se convierte en una <b>palabrota</b> (b*tch) 🙊. Igual pasa con <b>sheet</b> (hoja, sábana) y sh*t. La solución: <mark>sonrisa enorme e i bien larga</mark>. (Más palabras peligrosas en el mapa P-04.)",
+      "en": "A famous trick says beach sounds like «bech». Careful: «bech» has a short /ɪ/, and that turns beach into a rude word! Use a long, smiley /iː/.",
+      "examples": [
+        { "en": "beach", "say": "biich", "es": "playa", "icon": "🏖️" },
+        { "en": "sheet", "say": "shiit", "es": "hoja, sábana", "icon": "📄" },
+        { "en": "a sheet of paper", "say": "ə shíirəv péiper", "es": "una hoja de papel", "icon": "📝" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "beach",
+          "ipa": "biːtʃ",
+          "say": "biich",
+          "es": "playa",
+          "icon": "🏖️",
+          "anchor": "<s>esca<b>bech</b>e</s> 🐟 → b<b>iii</b>ch",
+          "tip": "El escabeche da una i corta… ¡y una palabrota! 🙊 Sonríe y estira: biiich."
+        },
+        {
+          "en": "tea",
+          "ipa": "tiː",
+          "say": "tii",
+          "es": "té",
+          "icon": "🫖",
+          "anchor": "<b>tí</b>a 👵",
+          "tip": "«Tía» sin la a, y estirando la i: tiii. ¡Un té con tu tía!"
+        },
+        {
+          "en": "see",
+          "ipa": "siː",
+          "say": "sii",
+          "es": "ver",
+          "icon": "👀",
+          "anchor": "<b>sí</b> ✅",
+          "tip": "Un «sí» largo y sonriente: siii. «I see» = ya veo."
+        },
+        {
+          "en": "me",
+          "ipa": "miː",
+          "say": "mii",
+          "es": "me, a mí",
+          "icon": "🙋",
+          "anchor": "para <b>mí</b> 🙋",
+          "tip": "Como «mí», pero estirado: miii. «Me too!» = ¡yo también!"
+        },
+        {
+          "en": "key",
+          "ipa": "kiː",
+          "say": "kii",
+          "es": "llave",
+          "icon": "🔑",
+          "anchor": "a<b>quí</b> 📍",
+          "tip": "«¡La llave está aquí!» Quita la a y estira: kiii."
+        },
+        {
+          "en": "free",
+          "ipa": "friː",
+          "say": "frii",
+          "es": "gratis, libre",
+          "icon": "🆓",
+          "anchor": "<b>frí</b>o 🧊",
+          "tip": "«Frío» sin la o: friii. Casi: la r, a la americana (C-01)."
+        },
+        {
+          "en": "need",
+          "ipa": "niːd",
+          "say": "niid",
+          "es": "necesitar",
+          "icon": "🪺",
+          "anchor": "<b>nid</b>o 🪺",
+          "tip": "«Nido» sin la o y con la i bien larga: niiid."
+        },
+        {
+          "en": "cheese",
+          "ipa": "tʃiːz",
+          "say": "chiis",
+          "es": "queso",
+          "icon": "🧀",
+          "anchor": "<b>chis</b>te 😂",
+          "tip": "«Chiste» sin el -te y con sonrisa de foto: chiiis. ¡Por eso se dice en las fotos!"
+        },
+        {
+          "en": "team",
+          "ipa": "tiːm",
+          "say": "tiim",
+          "es": "equipo",
+          "icon": "⚽",
+          "anchor": "<b>tim</b>bre 🔔",
+          "tip": "«Timbre» sin el -bre y con la i estirada: tiiim."
+        },
+        {
+          "en": "this",
+          "ipa": "ðɪs",
+          "say": "dis",
+          "es": "esto, este",
+          "icon": "👇",
+          "anchor": "<b>dis</b>co 💿",
+          "tip": "«Disco» sin el -co, con d suave (C-05) y la i floja y rápida: dis."
+        },
+        {
+          "en": "list",
+          "ipa": "lɪst",
+          "say": "list",
+          "es": "lista",
+          "icon": "📝",
+          "anchor": "<b>list</b>o 🤓",
+          "tip": "«Listo» sin la o, con la i relajada: list."
+        },
+        {
+          "en": "mister",
+          "ipa": "ˈmɪstɚ",
+          "say": "míster",
+          "es": "señor",
+          "icon": "🧔",
+          "anchor": "el <b>mís</b>ter del equipo ⚽",
+          "tip": "Como el entrenador de fútbol, pero con la i floja y la r americana: MÍS-ter."
+        },
+        {
+          "en": "minute",
+          "ipa": "ˈmɪnɪt",
+          "say": "mínit",
+          "es": "minuto",
+          "icon": "⏱️",
+          "anchor": "<b>míni</b>mo ⏱️",
+          "tip": "«Mínimo» sin el -mo, más una t: MÍ-nit. Las dos i, cortas."
+        },
+        {
+          "en": "visit",
+          "ipa": "ˈvɪzɪt",
+          "say": "vísit",
+          "es": "visitar, visita",
+          "icon": "🧳",
+          "anchor": "<s>vi-SI-ta</s> → <b>VÍ</b>sit",
+          "tip": "Golpe delante, v de verdad (C-07) y dos i cortas: VÍ-sit."
+        },
+        {
+          "en": "chicken",
+          "ipa": "ˈtʃɪkən",
+          "say": "chíkən",
+          "es": "pollo",
+          "icon": "🐔",
+          "anchor": "<b>chic</b>o 👦",
+          "tip": "«Chico» con la i floja y el final en schwa (V-01): CHÍ-kən."
+        },
+        {
+          "en": "English",
+          "ipa": "ˈɪŋɡlɪʃ",
+          "say": "ínglish",
+          "es": "inglés",
+          "icon": "🇬🇧",
+          "anchor": "<s>in-GLÉS</s> → <b>ÍN</b>glish",
+          "tip": "¡El golpe va al principio, y las dos i son cortas!"
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "sheep", "es": "oveja" },
+        { "q": "ship", "es": "barco" },
+        { "q": "beach", "es": "playa" },
+        { "q": "I live in", "es": "vivo en" },
+        { "q": "leave", "es": "irse, dejar" },
+        { "q": "happy", "es": "feliz" }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "¿Cómo se escribe?",
+      "title_en": "How is it spelled?",
+      "icon": "🧭",
+      "head": ["Letras", "I larga /iː/", "I corta /ɪ/"],
+      "rows": [
+        ["<b>ee</b>", "sheep, green, three", "—"],
+        ["<b>ea</b>", "eat, beach, tea", "—"],
+        ["<b>e</b>", "me, she, we", "English, pretty"],
+        ["<b>ie</b>", "piece, field", "—"],
+        ["<b>i</b>", "pizza, police (pocas)", "it, sit, big, fish (¡casi todas!)"],
+        ["<b>y</b>", "—", "gym, myth"],
+        ["<b>o, u, ui</b>", "—", "women, busy, build"]
+      ],
+      "note": "La pista: con <b>ee</b> o <b>ea</b>, casi seguro que es larga (¡ojo!, ea a veces es e: bread, head). Con una <b>i sola</b> entre consonantes, casi seguro que es corta.",
+      "note_en": "Tip: EE or EA is almost always long. A single I between consonants is almost always short."
+    },
+    {
+      "t": "pairs",
+      "title": "Parejas que cambian el sentido",
+      "title_en": "Minimal pairs",
+      "icon": "👂",
+      "items": [
+        {
+          "a": { "en": "sheep", "ipa": "ʃiːp", "say": "shiip", "es": "oveja", "icon": "🐑" },
+          "b": { "en": "ship", "ipa": "ʃɪp", "say": "ship", "es": "barco", "icon": "🚢" },
+          "tip": "¡Una oveja no es un barco! Sonrisa larga para la oveja."
+        },
+        {
+          "a": { "en": "leave", "ipa": "liːv", "say": "liiv", "es": "irse, dejar", "icon": "🚪" },
+          "b": { "en": "live", "ipa": "lɪv", "say": "liv", "es": "vivir", "icon": "🏠" },
+          "tip": "«I live here» = vivo aquí. «I leave here» = me voy de aquí."
+        },
+        {
+          "a": { "en": "eat", "ipa": "iːt", "say": "iit", "es": "comer", "icon": "🍽️" },
+          "b": { "en": "it", "ipa": "ɪt", "say": "it", "es": "ello, lo", "icon": "👉" },
+          "tip": "«Eat it!» = <code>íirit</code>: larga y corta, una detrás de otra."
+        },
+        {
+          "a": { "en": "seat", "ipa": "siːt", "say": "siit", "es": "asiento", "icon": "💺" },
+          "b": { "en": "sit", "ipa": "sɪt", "say": "sit", "es": "sentarse", "icon": "🪑" },
+          "tip": "«Sit in your seat!» = ¡Siéntate en tu asiento!"
+        },
+        {
+          "a": { "en": "feel", "ipa": "fiːl", "say": "fiil", "es": "sentir", "icon": "🤗" },
+          "b": { "en": "fill", "ipa": "fɪl", "say": "fil", "es": "llenar", "icon": "🥛" },
+          "tip": "Feel, larga y con cariño. Fill, corta y rápida."
+        },
+        {
+          "a": { "en": "cheap", "ipa": "tʃiːp", "say": "chiip", "es": "barato", "icon": "🏷️" },
+          "b": { "en": "chip", "ipa": "tʃɪp", "say": "chip", "es": "patata frita de bolsa", "icon": "🍟" },
+          "tip": "En EE. UU., «chips» son las patatas fritas de bolsa."
+        },
+        {
+          "a": { "en": "sleep", "ipa": "sliːp", "say": "sliip", "es": "dormir", "icon": "😴" },
+          "b": { "en": "slip", "ipa": "slɪp", "say": "slip", "es": "resbalar", "icon": "🍌" },
+          "tip": "Sleep, larga como una buena siesta. Slip, rápida como un resbalón."
+        },
+        {
+          "a": { "en": "heel", "ipa": "hiːl", "say": "jiil", "es": "talón", "icon": "👠" },
+          "b": { "en": "hill", "ipa": "hɪl", "say": "jil", "es": "colina", "icon": "⛰️" },
+          "tip": "La h, suave como un vaho (C-06). La diferencia, en la i."
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿Playa o palabrota?",
+      "title_en": "Beach or bad word?",
+      "icon": "🙊",
+      "es": "El famoso truco del escabeche, explicado. ¡Una sola vocal lo cambia todo!",
+      "en": "The famous «escabeche» trick, explained. One vowel changes everything!",
+      "cols": [
+        {
+          "head": "🙊 I corta /ɪ/",
+          "color": "red",
+          "items": [
+            "esca<b>bech</b>e → «bech»",
+            "suena a b*tch (palabrota)",
+            "lo mismo con sh*t",
+            "¡no la uses para la playa!"
+          ]
+        },
+        {
+          "head": "🏖️ I larga /iː/",
+          "color": "green",
+          "items": [
+            "beach → <code>biich</code>",
+            "sheet → <code>shiit</code>",
+            "sonrisa + i estirada",
+            "¡a la playa sin sustos!"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "title": "Larga y corta juntas",
+      "title_en": "Long and short together",
+      "icon": "🥁",
+      "es": "Estas palabras tienen las dos íes. La larga (<code>ii</code>) lleva el golpe; la corta (<code>i</code>) es la de <b>-ing</b> (mapa C-13) o la de <b>six</b> y <b>fif</b>.",
+      "en": "Some words have both sounds. Spot the long one and the short one.",
+      "items": [
+        { "syl": ["meet", "ing"], "s": 0, "say": "míiring", "es": "reunión" },
+        { "syl": ["feel", "ing"], "s": 0, "say": "fíiling", "es": "sentimiento" },
+        { "syl": ["eve", "ning"], "s": 0, "say": "íivning", "es": "tarde-noche" },
+        { "syl": ["eat", "ing"], "s": 0, "say": "íiring", "es": "comiendo" },
+        { "syl": ["six", "teen"], "s": 1, "say": "sikstíin", "es": "dieciséis" },
+        { "syl": ["fif", "teen"], "s": 1, "say": "fiftíin", "es": "quince" },
+        { "syl": ["sleep", "ing"], "s": 0, "say": "slíiping", "es": "durmiendo" },
+        { "syl": ["read", "ing"], "s": 0, "say": "ríiring", "es": "leyendo" }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "Eat it!", "spoken": "EE-dit!", "say": "íirit", "es": "¡Cómetelo!" },
+        { "written": "Keep it.", "spoken": "KEE-pit", "say": "kíipit", "es": "Quédatelo." },
+        { "written": "Leave it!", "spoken": "LEE-vit!", "say": "líivit", "es": "¡Déjalo!" },
+        { "written": "Live it!", "spoken": "LI-vit!", "say": "lívit", "es": "¡Vívelo!" },
+        { "written": "Fill it up.", "spoken": "Fi-li-DUP", "say": "filiráp", "es": "Llénalo." },
+        { "written": "Is it big?", "spoken": "I-zit BIG?", "say": "ísit big", "es": "¿Es grande?" }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "The sheep is on the ship.", "say": "də shiip is an də ship", "es": "La oveja está en el barco.", "icon": "🐑" },
+        { "en": "I live in a big city.", "say": "ai liv in ə big síri", "es": "Vivo en una ciudad grande.", "icon": "🏙️" },
+        { "en": "Please leave the keys here.", "say": "pliis liiv də kiis jir", "es": "Por favor, deja las llaves aquí.", "icon": "🔑" },
+        { "en": "Let's go to the beach!", "say": "lets góu tə də biich", "es": "¡Vamos a la playa!", "icon": "🏖️" },
+        { "en": "Can I have a sheet of paper?", "say": "kən ai jǽv ə shíirəv péiper", "es": "¿Me das una hoja de papel?", "icon": "📄" },
+        { "en": "My sister is sixteen.", "say": "mai síster is sikstíin", "es": "Mi hermana tiene dieciséis años.", "icon": "👧" },
+        { "en": "This fish is very big.", "say": "dis fish is véri big", "es": "Este pez es muy grande.", "icon": "🐟" },
+        { "en": "I need a cup of tea.", "say": "ai niid ə kápə tii", "es": "Necesito una taza de té.", "icon": "🫖" },
+        { "en": "We eat cheese and chips.", "say": "wi iit chiis ən chips", "es": "Comemos queso y patatas fritas.", "icon": "🧀" },
+        { "en": "Sit in your seat, Mario!", "say": "sit in ior siit, mário!", "es": "¡Siéntate en tu asiento, Mario!", "icon": "💺" },
+        { "en": "Is it cheap?", "say": "ísit chiip?", "es": "¿Es barato?", "icon": "🏷️" },
+        { "en": "I'm so happy to see you!", "say": "aim sou jǽpi tə sii iu!", "es": "¡Qué contento estoy de verte!", "icon": "😊" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "beach → <code>bech</code> (truco del escabeche)",
+          "good": "<code>biich</code> 🏖️",
+          "why": "«Bech» suena a i corta: ¡palabrota! 🙊 Sonrisa e i larga.",
+          "why_en": "«Bech» sounds like a rude word. Use a long, smiley EE."
+        },
+        {
+          "bad": "sheet → con i cortita 🙊",
+          "good": "<code>shiit</code> 📄",
+          "why": "Con i corta se convierte en otra palabrota. ¡Estírala!",
+          "why_en": "With a short I it becomes a swear word. Make it long!"
+        },
+        {
+          "bad": "ship → <code>shiip</code> (i española larga)",
+          "good": "<code>ship</code> 🚢",
+          "why": "Así dices «oveja». El barco va con i floja y cortita.",
+          "why_en": "That's «sheep». Ship has a short, relaxed I."
+        },
+        {
+          "bad": "live → <code>liiv</code>",
+          "good": "<code>liv</code>",
+          "why": "Con i larga dices leave (irse). «I live in Spain» lleva i corta.",
+          "why_en": "With a long EE you say «leave»."
+        },
+        {
+          "bad": "it → <code>iit</code>",
+          "good": "<code>it</code>",
+          "why": "Con i larga suena a eat (comer).",
+          "why_en": "With a long EE it sounds like «eat»."
+        },
+        {
+          "bad": "this → <code>diis</code>",
+          "good": "<code>dis</code>",
+          "why": "Con i larga suena a these (estos). This, corta y rápida.",
+          "why_en": "With a long EE it sounds like «these»."
+        },
+        {
+          "bad": "English → <code>inglísh</code>",
+          "good": "<code>ínglish</code>",
+          "why": "Golpe al principio y dos i cortas.",
+          "why_en": "Stress the first syllable; both I's are short."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¿Barco u oveja?",
+      "title_en": "Ship or sheep?",
+      "lines": [
+        { "who": "Ashley", "en": "Hi, Mario! Do you want to go to the beach?", "say": "jai, mário! du iu wánt tə góu tə də biich?", "es": "¡Hola, Mario! ¿Quieres ir a la playa?" },
+        { "who": "Mario", "en": "Yes! Can we see the sheep on the sea?", "say": "iés! kən wi sii də shiip an də sii?", "es": "¡Sí! ¿Podemos ver la oveja en el mar?" },
+        { "who": "Ashley", "en": "A sheep? On the sea? That's silly!", "say": "ə shiip? an də sii? dæts síli!", "es": "¿Una oveja? ¿En el mar? ¡Qué tontería!" },
+        { "who": "Mario", "en": "No, no! I mean the big ship!", "say": "nóu, nóu! ai miin də big ship!", "es": "¡No, no! ¡Quiero decir el barco grande!" },
+        { "who": "Ashley", "en": "Ha! Ship, not sheep. Listen: ship… sheep.", "say": "ja! ship, nat shiip. lísən: ship… shiip.", "es": "¡Ja! Barco, no oveja. Escucha: ship… sheep." },
+        { "who": "Mario", "en": "Ship… sheep. Got it! Is it cheap?", "say": "ship… shiip. gárit! ísit chiip?", "es": "Ship… sheep. ¡Entendido! ¿Es barato?" },
+        { "who": "Ashley", "en": "It's free! Bring a towel and some cheese.", "say": "its frii! bring ə táuəl ən səm chiis.", "es": "¡Es gratis! Trae una toalla y algo de queso." },
+        { "who": "Mario", "en": "Perfect! Sea, sun and cheese!", "say": "pérfikt! sii, san ən chiis!", "es": "¡Perfecto! ¡Mar, sol y queso!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlas en 5 pasos",
+      "title_en": "Train them in 5 steps",
+      "items": [
+        {
+          "es": "Di «iii» con sonrisa de foto y cuenta hasta dos: <code>shiip</code>.",
+          "en": "Say «eee» with a big smile and count to two."
+        },
+        {
+          "es": "Suelta la sonrisa, baja un pelín la mandíbula y di una i rapidísima, casi «e»: <code>ship</code>.",
+          "en": "Relax your lips, drop your jaw a little and say a quick, short I."
+        },
+        {
+          "es": "Alterna despacio: sheep – ship – sheep – ship. Mírate en un espejo: ¿cambia la boca?",
+          "en": "Alternate slowly in front of a mirror."
+        },
+        {
+          "es": "Pasa a parejas: leave/live, eat/it, feel/fill, seat/sit.",
+          "en": "Practice minimal pairs."
+        },
+        {
+          "es": "Escanea los QR, escucha y <b>grábate</b>. Pide a alguien que adivine cuál dices.",
+          "en": "Scan the QR codes, record yourself and ask someone to guess."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Six sheep sleep on a big, cheap ship.",
+          "say": "siks shiip sliip an ə big, chiip ship",
+          "es": "Seis ovejas duermen en un barco grande y barato."
+        },
+        {
+          "en": "Tim's team eats fish and chips.",
+          "say": "tims tiim iits fish ən chips",
+          "es": "El equipo de Tim come pescado con patatas fritas."
+        },
+        {
+          "en": "Please sit in this seat, Steve.",
+          "say": "pliis sit in dis siit, stiiv",
+          "es": "Por favor, siéntate en este asiento, Steve."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de la foto",
+      "title_en": "The photo trick",
+      "es": "¿I larga? Pon cara de foto («cheese!» = <code>chiis</code>) y estira. ¿I corta? Pon cara de «me da igual» 😑 y dila rápido, casi «e». Y recuerda: para ir a la playa, ¡siempre con sonrisa! 🏖️😁",
+      "en": "Long EE? Smile for the photo and stretch it. Short I? Relax your face and say it fast. And always smile for the beach!"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Larga o corta?",
+      "title_en": "Long or short?",
+      "icon": "🔍",
+      "es": "Di la palabra en voz alta y rodea su sonido.",
+      "en": "Say the word and circle its sound.",
+      "items": [
+        { "q": "sheep → [/iː/|/ɪ/]", "a": "/iː/" },
+        { "q": "ship → [/iː/|/ɪ/]", "a": "/ɪ/" },
+        { "q": "beach → [/iː/|/ɪ/]", "a": "/iː/" },
+        { "q": "big → [/iː/|/ɪ/]", "a": "/ɪ/" },
+        { "q": "tea → [/iː/|/ɪ/]", "a": "/iː/" },
+        { "q": "sit → [/iː/|/ɪ/]", "a": "/ɪ/" },
+        { "q": "green → [/iː/|/ɪ/]", "a": "/iː/" },
+        { "q": "milk → [/iː/|/ɪ/]", "a": "/ɪ/" },
+        { "q": "fish → [/iː/|/ɪ/]", "a": "/ɪ/" },
+        { "q": "cheese → [/iː/|/ɪ/]", "a": "/iː/" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Di cada palabra y escríbela en su columna.",
+      "en": "Say each word and write it in the right column.",
+      "cats": [
+        {
+          "name": "🐑 I larga /iː/",
+          "words": ["sheep", "tea", "green", "cheese", "need", "free", "key", "teacher"]
+        },
+        {
+          "name": "🚢 I corta /ɪ/",
+          "words": ["ship", "big", "sit", "milk", "fish", "this", "list", "sister"]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "¿Estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "Do they sound the same or different?",
+      "items": [
+        { "q": "sheep · ship → [igual|diferente]", "a": "diferente" },
+        { "q": "sea · see → [igual|diferente]", "a": "igual" },
+        { "q": "meet · meat → [igual|diferente]", "a": "igual" },
+        { "q": "leave · live → [igual|diferente]", "a": "diferente" },
+        { "q": "week · weak → [igual|diferente]", "a": "igual" },
+        { "q": "feel · fill → [igual|diferente]", "a": "diferente" },
+        { "q": "piece · peace → [igual|diferente]", "a": "igual" },
+        { "q": "eat · it → [igual|diferente]", "a": "diferente" }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada. ¡Fíjate en ii o i!",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["sheep", "<code>shiip</code>"],
+        ["ship", "<code>ship</code>"],
+        ["leave", "<code>liiv</code>"],
+        ["live", "<code>liv</code>"],
+        ["eat", "<code>iit</code>"],
+        ["it", "<code>it</code>"],
+        ["feel", "<code>fiil</code>"],
+        ["fill", "<code>fil</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada: <b>ii</b> para la i larga, <b>i</b> para la corta, y tilde en la sílaba fuerte.",
+      "en": "Write how each word sounds: ii for long, i for short.",
+      "items": [
+        { "q": "🫖 tea → ____", "a": "tii" },
+        { "q": "🟢 green → ____", "a": "griin" },
+        { "q": "🧀 cheese → ____", "a": "chiis" },
+        { "q": "🐘 big → ____", "a": "big" },
+        { "q": "🥛 milk → ____", "a": "milk" },
+        { "q": "🐟 fish → ____", "a": "fish" },
+        { "q": "😊 happy → ____", "a": "jǽpi" },
+        { "q": "🏙️ city → ____", "a": "síri" },
+        { "q": "👩‍🏫 teacher → ____", "a": "tíicher" },
+        { "q": "⏱️ minute → ____", "a": "mínit" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "The long /iː/ is said with a big smile.", "a": true },
+        { "q": "The short /ɪ/ sounds a bit like a Spanish «e».", "a": true },
+        { "q": "«Sheep» and «ship» sound the same.", "a": false, "why": "oveja ≠ barco" },
+        { "q": "«Escabeche» is a good trick for «beach».", "a": false, "why": "da una i corta: ¡palabrota!" },
+        { "q": "EE (as in «green») is usually a long /iː/.", "a": true },
+        { "q": "«Live» (vivir) has a long /iː/.", "a": false, "why": "i corta: liv" },
+        { "q": "The -y in «happy» sounds like a Spanish i.", "a": true },
+        { "q": "«See» and «sea» sound the same.", "a": true }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Después subraya la i larga, si la hay.",
+      "en": "Circle the stressed syllable, then underline the long EE.",
+      "items": [
+        { "syl": ["meet", "ing"], "s": 0, "es": "reunión" },
+        { "syl": ["six", "teen"], "s": 1, "es": "dieciséis" },
+        { "syl": ["Eng", "lish"], "s": 0, "es": "inglés" },
+        { "syl": ["hap", "py"], "s": 0, "es": "feliz" },
+        { "syl": ["sis", "ter"], "s": 0, "es": "hermana" },
+        { "syl": ["min", "ute"], "s": 0, "es": "minuto" },
+        { "syl": ["teach", "er"], "s": 0, "es": "profe" },
+        { "syl": ["fif", "teen"], "s": 1, "es": "quince" },
+        { "syl": ["eve", "ning"], "s": 0, "es": "tarde-noche" },
+        { "syl": ["po", "lice"], "s": 1, "es": "policía" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "sheep → <code>ship</code>", "a": "shiip" },
+        { "q": "ship → <code>shiip</code>", "a": "ship" },
+        { "q": "beach → <code>bech</code>", "a": "biich" },
+        { "q": "live → <code>liiv</code>", "a": "liv" },
+        { "q": "it → <code>iit</code>", "a": "it" },
+        { "q": "green → <code>grin</code>", "a": "griin" },
+        { "q": "this → <code>diis</code>", "a": "dis" },
+        { "q": "English → <code>inglísh</code>", "a": "ínglish" }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "¿Cómo se escribe?",
+      "title_en": "How do you spell it?",
+      "icon": "🔡",
+      "es": "Escribe la palabra en inglés. Pista: la i larga suele ser ee o ea; la corta, una i sola.",
+      "en": "Write the English word.",
+      "items": [
+        { "q": "🐑 oveja", "a": "sheep" },
+        { "q": "🚢 barco", "a": "ship" },
+        { "q": "🏖️ playa", "a": "beach" },
+        { "q": "🧀 queso", "a": "cheese" },
+        { "q": "🐟 pez", "a": "fish" },
+        { "q": "🥛 leche", "a": "milk" },
+        { "q": "🔑 llave", "a": "key" },
+        { "q": "🟢 verde", "a": "green" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Cambia la i",
+      "title_en": "Change the I",
+      "icon": "🔄",
+      "es": "Cambia la i (larga ↔ corta) para conseguir la palabra que significa lo que pone. Escríbela y di las dos.",
+      "en": "Change the long/short I to get the new word. Write it and say both.",
+      "items": [
+        { "q": "sheep → barco", "a": "ship" },
+        { "q": "leave → vivir", "a": "live" },
+        { "q": "eat → ello, lo", "a": "it" },
+        { "q": "seat → sentarse", "a": "sit" },
+        { "q": "feel → llenar", "a": "fill" },
+        { "q": "chip → barato", "a": "cheap" },
+        { "q": "slip → dormir", "a": "sleep" },
+        { "q": "hill → talón", "a": "heel" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "sheep, ship, sheep, ship", "say": "shiip, ship, shiip, ship" },
+        { "q": "I live here. I leave now.", "say": "ai liv jir. ai liiv nau" },
+        { "q": "Eat it!", "say": "íirit" },
+        { "q": "Sit in your seat.", "say": "sit in ior siit" },
+        { "q": "Feel it, fill it.", "say": "fíilit, fílit" },
+        { "q": "Let's go to the beach!", "say": "lets góu tə də biich" },
+        { "q": "This is my sister.", "say": "dis is mai síster" },
+        { "q": "Cheap chips, please!", "say": "chiip chips, pliis" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta: ¿larga o corta?",
+      "en": "Translate into English and say it.",
+      "items": [
+        { "q": "vivir", "a": "live (liv)" },
+        { "q": "irse, dejar", "a": "leave (liiv)" },
+        { "q": "comer", "a": "eat (iit)" },
+        { "q": "sentarse", "a": "sit (sit)" },
+        { "q": "asiento", "a": "seat (siit)" },
+        { "q": "barato", "a": "cheap (chiip)" },
+        { "q": "dormir", "a": "sleep (sliip)" },
+        { "q": "equipo", "a": "team (tiim)" },
+        { "q": "hermana", "a": "sister (síster)" },
+        { "q": "minuto", "a": "minute (mínit)" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En la última columna escribe larga o corta.",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Español", "Suena", "¿Larga o corta?"],
+      "rows": [
+        ["sheep", "oveja", "?shiip", "?larga"],
+        ["ship", "?barco", "ship", "?corta"],
+        ["?beach", "playa", "biich", "larga"],
+        ["live", "vivir", "?liv", "?corta"],
+        ["leave", "?irse", "?liiv", "larga"],
+        ["?fish", "pez", "fish", "?corta"],
+        ["tea", "té", "?tii", "?larga"],
+        ["?milk", "leche", "?milk", "corta"]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de íes",
+      "title_en": "EE and I word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras. Dila en voz alta y di si es larga o corta.",
+      "en": "Find 10 words. Say each one: long or short?",
+      "words": ["sheep", "ship", "beach", "green", "fish", "milk", "cheese", "tea", "big", "sister"],
+      "clues": ["sheep · oveja", "ship · barco", "beach · playa", "green · verde", "fish · pez", "milk · leche", "cheese · queso", "tea · té", "big · grande", "sister · hermana"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las íes",
+      "title_en": "Read and find the I sounds",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Mario at the Beach",
+      "text": [
+        "It's a sunny day. Mario and his sister Lucía go to the beach. They eat cheese sandwiches and drink iced tea.",
+        "Lucía sees a big ship. “Look, Mario! A ship!” Mario laughs: “A ship, not a sheep! There are no sheep in the sea!” They sit on the sand and feel the sun."
+      ],
+      "items": [
+        { "q": "What do they eat?", "a": "Cheese sandwiches (<code>chiis</code>)." },
+        { "q": "Write two words from the text with a long /iː/.", "a": "beach, eat, cheese, tea, sees, sheep, sea, feel (cualquiera)." },
+        { "q": "Write two words from the text with a short /ɪ/.", "a": "it's, his, sister, drink, big, ship, sit, in (cualquiera)." },
+        { "q": "Lucía sees a sheep in the sea.", "tf": true, "a": false, "why": "a ship (un barco)" },
+        { "q": "They sit on the sand.", "tf": true, "a": true },
+        { "q": "«Beach» and «sea» have the same vowel sound.", "tf": true, "a": true }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con una i larga y una i corta. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with long and short I sounds and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con sheep y ship.",
+          "lines": 2,
+          "a": "Ej.: The sheep is on the ship."
+        },
+        {
+          "q": "Una frase con live o leave.",
+          "lines": 2,
+          "a": "Ej.: I live in Madrid, but I leave on Sunday."
+        },
+        {
+          "q": "Una frase sobre la playa (beach, sea, sit, fish…).",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Distingo la i larga (sonrisa, <code>shiip</code>) de la i corta (relajada, <code>ship</code>).", "en": "I can tell the long EE from the short I." },
+    { "es": "Digo bien sheep/ship, leave/live y eat/it.", "en": "I can say sheep/ship, leave/live and eat/it." },
+    { "es": "Digo <b>beach</b> como <code>biich</code>… ¡sin palabrotas! 🏖️", "en": "I say beach with a long, smiley EE." },
+    { "es": "Sé que ee y ea suelen ser i larga, y la i sola, i corta.", "en": "I know EE/EA is usually long and a single I is short." },
+    { "es": "Digo la -y final como una i española: <code>jǽpi</code>.", "en": "I say final -Y like a Spanish i." },
+    { "es": "Leo «Six sheep sleep on a big, cheap ship» sin trabarme.", "en": "I can say the sheep tongue twister." }
+  ]
+}

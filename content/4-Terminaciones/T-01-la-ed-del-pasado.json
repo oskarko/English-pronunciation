@@ -1,0 +1,1944 @@
+{
+  "id": "T-01",
+  "block": "T",
+  "title": "LA <em>-ED</em> DEL PASADO",
+  "file_title": "La -ed del pasado",
+  "subtitle": "The -ed ending · worked, played, wanted",
+  "icon": "⏪",
+  "map": {
+    "center": "La <b>-ed</b> del pasado casi nunca suena «ed»: tiene <b>3 sonidos</b>, <code>t</code>, <code>d</code> o <code>id</code>.",
+    "listen": "worked",
+    "nodes": [
+      {
+        "title": "Suena /t/",
+        "icon": "🤫",
+        "color": "green",
+        "rows": [
+          [
+            "worked",
+            "<code>werkt</code>"
+          ],
+          [
+            "stopped",
+            "<code>stapt</code>"
+          ],
+          [
+            "watched",
+            "<code>wacht</code>"
+          ]
+        ],
+        "after": "tras p, k, f, s, sh, ch"
+      },
+      {
+        "title": "Suena /d/",
+        "icon": "🐝",
+        "color": "blue",
+        "rows": [
+          [
+            "played",
+            "<code>pleid</code>"
+          ],
+          [
+            "lived",
+            "<code>livd</code>"
+          ],
+          [
+            "cleaned",
+            "<code>kliind</code>"
+          ]
+        ],
+        "after": "tras vocal o sonido que vibra"
+      },
+      {
+        "title": "Suena /ɪd/",
+        "icon": "➕",
+        "color": "purple",
+        "rows": [
+          [
+            "wanted",
+            "<code>wántid</code>"
+          ],
+          [
+            "ended",
+            "<code>éndid</code>"
+          ],
+          [
+            "rested",
+            "<code>réstid</code>"
+          ]
+        ],
+        "after": "solo tras t o d: ¡sílaba nueva!"
+      },
+      {
+        "title": "La prueba del cuello",
+        "icon": "🖐️",
+        "color": "orange",
+        "html": "Mano en el cuello y di el verbo sin -ed. ¿<b>Vibra</b> al final? → /d/. ¿<b>No vibra</b>? → /t/."
+      },
+      {
+        "title": "Adjetivos rebeldes",
+        "icon": "😳",
+        "color": "pink",
+        "rows": [
+          [
+            "naked",
+            "<code>néikid</code>"
+          ],
+          [
+            "wicked",
+            "<code>wíkid</code>"
+          ]
+        ],
+        "after": "suenan /ɪd/ sin t ni d"
+      },
+      {
+        "title": "Truco rápido",
+        "icon": "⚡",
+        "color": "yellow",
+        "html": "Cuenta sílabas: worked ☝️ una, wanted ✌️ dos. Solo hay sílaba nueva tras <b>t</b> o <b>d</b>.",
+        "art": "🕰️"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "worked → <code>wórked</code>"
+      ],
+      "good": [
+        "<code>werkt</code> 💼"
+      ],
+      "note": "Una sola sílaba: la e de -ed no suena."
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        {
+          "q": "💼 worked → ____",
+          "a": "werkt"
+        },
+        {
+          "q": "🎮 played → ____",
+          "a": "pleid"
+        },
+        {
+          "q": "🎁 wanted → ____",
+          "a": "wántid"
+        },
+        {
+          "q": "🛑 stopped → ____",
+          "a": "stapt"
+        },
+        {
+          "q": "🧹 cleaned → ____",
+          "a": "kliind"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué le pasa a la -ed?",
+      "title_en": "What happens to -ed?",
+      "icon": "🔎",
+      "es": "Casi todos los verbos ingleses hacen el pasado añadiendo <b>-ed</b>: work → worked, play → played, want → wanted. Y casi todos los hispanohablantes lo leemos tal cual: <s>wor‑ked</s>, <s>plei‑ed</s>, con una sílaba de más. ¡Error! La <b>-ed</b> tiene <mark>tres sonidos</mark> y solo en uno se oye una vocal: <code>t</code> (worked = <code>werkt</code>), <code>d</code> (played = <code>pleid</code>) o <code>id</code> (wanted = <code>wántid</code>). ¿Cuál toca? Lo decide <b>el último sonido</b> del verbo.",
+      "en": "Regular past verbs end in -ed, but -ed has three sounds: /t/, /d/ or /ɪd/. Only /ɪd/ adds a syllable. The last sound of the verb decides.",
+      "formula": [
+        "work + *ed* → werk*t*",
+        "play + *ed* → plei*d*",
+        "want + *ed* → wánt*id*"
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Resumen: ¿t, d o id?",
+      "title_en": "Summary: /t/, /d/ or /ɪd/?",
+      "icon": "🧭",
+      "es": "Mira el <b>último sonido</b> del verbo y elige columna.",
+      "en": "Look at the last sound of the verb and choose a column.",
+      "cols": [
+        {
+          "head": "🤫 /t/ <code>t</code>",
+          "color": "green",
+          "items": [
+            "tras p, k, f, s, sh, ch",
+            "stopped, worked, laughed",
+            "kissed, washed, watched",
+            "sin sílaba nueva"
+          ]
+        },
+        {
+          "head": "🐝 /d/ <code>d</code>",
+          "color": "blue",
+          "items": [
+            "tras vocal, b, g, v, z, m, n, l, r",
+            "played, lived, cleaned",
+            "called, opened, cried",
+            "sin sílaba nueva"
+          ]
+        },
+        {
+          "head": "➕ /ɪd/ <code>id</code>",
+          "color": "purple",
+          "items": [
+            "solo tras t o d",
+            "wanted, needed, ended",
+            "decided, visited, started",
+            "¡con sílaba nueva!"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "mouth",
+      "title": "Así lo nota tu cuerpo",
+      "title_en": "Feel it",
+      "items": [
+        {
+          "part": "voice",
+          "es": "Mano en el cuello y di el último sonido del verbo sin -ed. Si la garganta <b>vibra</b> (vocales, b, g, v, z, m, n, l, r), la -ed vibra también: <code>d</code>. Si <b>no vibra</b> (p, k, f, s, sh, ch), la -ed se apaga: <code>t</code>.",
+          "en": "If the last sound of the verb vibrates, -ed is /d/; if it doesn't, -ed is /t/."
+        },
+        {
+          "part": "tongue",
+          "es": "Para /t/ y /d/ la punta de la lengua sube a la encía de arriba y <b>se queda ahí</b>. No la sueltes con una «e»: es <code>werkt</code>, no «wer‑ke‑t».",
+          "en": "For /t/ and /d/, the tongue tip goes up and stays there. No extra «e»."
+        },
+        {
+          "part": "jaw",
+          "es": "Para /ɪd/ abre un poquito la boca: es una sílaba nueva con una i relajada, casi e: <code>wánt-id</code>.",
+          "en": "For /ɪd/, open your mouth a little: it's a new syllable with a relaxed i."
+        },
+        {
+          "part": "ear",
+          "es": "Al final de la frase, la t o la d de la -ed es cortita, pero <b>se oye</b>. Sin ella, ¡estás hablando en presente!",
+          "en": "The final /t/ or /d/ is short, but you can hear it. Without it, you're speaking in the present."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · Tras T o D: /ɪd/",
+      "title_en": "After T or D: /ɪd/",
+      "icon": "➕",
+      "es": "Si el verbo ya acaba en sonido <b>t</b> o <b>d</b>, no puedes pegarle otra t o d sin más: hace falta una vocal. Se añade la sílaba <code>id</code> (/ɪd/), con i relajada. Combo con el mapa C-02: si delante de esa t o d hay una vocal, hace el toque americano: needed = <code>níirid</code>, decided = <code>disáirid</code>. (Hablando rápido, wanted suena a menudo <code>wánid</code>: lo verás en C-03.)",
+      "en": "If the verb ends in a T or D sound, -ed adds a syllable: /ɪd/. After a vowel, that T or D becomes a quick tap: needed, decided.",
+      "formula": [
+        "wan*t* + ed → wánt*id*",
+        "nee*d* + ed → níir*id*"
+      ],
+      "examples": [
+        {
+          "en": "wanted",
+          "say": "wántid",
+          "es": "quiso / quería",
+          "icon": "🎁"
+        },
+        {
+          "en": "needed",
+          "say": "níirid",
+          "es": "necesitó",
+          "icon": "🙏"
+        },
+        {
+          "en": "decided",
+          "say": "disáirid",
+          "es": "decidió",
+          "icon": "🤔"
+        },
+        {
+          "en": "ended",
+          "say": "éndid",
+          "es": "terminó",
+          "icon": "🏁"
+        },
+        {
+          "en": "started",
+          "say": "stárdid",
+          "es": "empezó",
+          "icon": "🚦"
+        },
+        {
+          "en": "visited",
+          "say": "vísirid",
+          "es": "visitó",
+          "icon": "🏛️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · Tras sonido sordo: /t/",
+      "title_en": "After a voiceless sound: /t/",
+      "icon": "🤫",
+      "es": "Si el verbo acaba en un sonido <b>sordo</b> (p, k, f, s, sh, ch), la -ed se convierte en una <b>t</b> pegada. ¡Sin sílaba nueva!: worked tiene <b>una</b> sílaba, igual que work. Piensa en la t como un puntito final: werk‑t, stap‑t.",
+      "en": "After voiceless sounds (p, k, f, s, sh, ch), -ed sounds /t/. No extra syllable.",
+      "formula": [
+        "wor*k* + ed → werk*t*",
+        "sto*p* + ed → stap*t*"
+      ],
+      "examples": [
+        {
+          "en": "worked",
+          "say": "werkt",
+          "es": "trabajó",
+          "icon": "💼"
+        },
+        {
+          "en": "stopped",
+          "say": "stapt",
+          "es": "paró",
+          "icon": "🛑"
+        },
+        {
+          "en": "watched",
+          "say": "wacht",
+          "es": "vio (la tele)",
+          "icon": "📺"
+        },
+        {
+          "en": "laughed",
+          "say": "læft",
+          "es": "se rio",
+          "icon": "😂"
+        },
+        {
+          "en": "kissed",
+          "say": "kist",
+          "es": "besó",
+          "icon": "😘"
+        },
+        {
+          "en": "washed",
+          "say": "washt",
+          "es": "lavó",
+          "icon": "🧼"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · Tras sonido sonoro: /d/",
+      "title_en": "After a voiced sound: /d/",
+      "icon": "🐝",
+      "es": "Si el verbo acaba en <b>vocal</b> o en un sonido <b>sonoro</b> (b, g, v, z, m, n, l, r), la -ed es una <b>d</b> suave, pegada y sin sílaba nueva. Es el sonido más frecuente de los tres. Que no se te escape la e: played = <code>pleid</code>, ¡no «plei‑ed»!",
+      "en": "After vowels and voiced sounds (b, g, v, z, m, n, l, r), -ed sounds /d/. No extra syllable.",
+      "examples": [
+        {
+          "en": "played",
+          "say": "pleid",
+          "es": "jugó",
+          "icon": "🎮"
+        },
+        {
+          "en": "lived",
+          "say": "livd",
+          "es": "vivió",
+          "icon": "🏠"
+        },
+        {
+          "en": "cleaned",
+          "say": "kliind",
+          "es": "limpió",
+          "icon": "🧹"
+        },
+        {
+          "en": "called",
+          "say": "kold",
+          "es": "llamó",
+          "icon": "📞"
+        },
+        {
+          "en": "opened",
+          "say": "óupənd",
+          "es": "abrió",
+          "icon": "🚪"
+        },
+        {
+          "en": "cried",
+          "say": "kraid",
+          "es": "lloró",
+          "icon": "😭"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Manda el sonido, no la letra",
+      "title_en": "Sound, not spelling",
+      "icon": "👂",
+      "es": "Fíjate en cómo <b>suena</b> el final del verbo, no en cómo se escribe. like acaba en sonido /k/ (la e es muda) → <code>laikt</code>. fix acaba en /ks/ → <code>fikst</code>. dance acaba en /s/ → <code>dænst</code>. close acaba en /z/ → <code>klousd</code>. hate acaba en /t/ → <code>jéirid</code>.",
+      "en": "Look at the last sound, not the last letter: liked /t/, fixed /t/, closed /d/, hated /ɪd/.",
+      "examples": [
+        {
+          "en": "liked",
+          "say": "laikt",
+          "es": "le gustó",
+          "icon": "👍"
+        },
+        {
+          "en": "fixed",
+          "say": "fikst",
+          "es": "arregló",
+          "icon": "🔧"
+        },
+        {
+          "en": "danced",
+          "say": "dænst",
+          "es": "bailó",
+          "icon": "💃"
+        },
+        {
+          "en": "hoped",
+          "say": "joupt",
+          "es": "esperó (deseó)",
+          "icon": "🤞"
+        },
+        {
+          "en": "closed",
+          "say": "klousd",
+          "es": "cerró",
+          "icon": "🔒"
+        },
+        {
+          "en": "hated",
+          "say": "jéirid",
+          "es": "odió",
+          "icon": "😠"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 5,
+      "title": "5 · Adjetivos con -ed",
+      "title_en": "Adjectives with -ed",
+      "icon": "😳",
+      "es": "Muchos adjetivos de emociones acaban en -ed y siguen las mismas reglas: tired, bored, relaxed, excited, interested. Pero hay un club de <b>rebeldes</b> que suenan <code>id</code> aunque no acaben en t ni d: <b>naked</b> (desnudo), <b>wicked</b> (malvado), <b>beloved</b> (querido), <b>crooked</b> (torcido). Son pocos: ¡apréndetelos como palabras sueltas!",
+      "en": "Feeling adjectives follow the same rules. But a few rebels always say /ɪd/: naked, wicked, beloved, crooked.",
+      "examples": [
+        {
+          "en": "tired",
+          "say": "táierd",
+          "es": "cansado",
+          "icon": "😴"
+        },
+        {
+          "en": "bored",
+          "say": "bord",
+          "es": "aburrido",
+          "icon": "🥱"
+        },
+        {
+          "en": "interested",
+          "say": "íntrəstid",
+          "es": "interesado",
+          "icon": "🤓"
+        },
+        {
+          "en": "naked",
+          "say": "néikid",
+          "es": "desnudo",
+          "icon": "🛁"
+        },
+        {
+          "en": "wicked",
+          "say": "wíkid",
+          "es": "malvado",
+          "icon": "🧙"
+        },
+        {
+          "en": "beloved",
+          "say": "bilávid",
+          "es": "querido",
+          "icon": "❤️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 6,
+      "title": "6 · En la frase, se pega",
+      "title_en": "In sentences, it links",
+      "icon": "🔗",
+      "es": "En la frase, la t o la d de la -ed se <b>engancha</b> a la palabra siguiente si empieza por vocal (lo verás a fondo en H-01): liked it = <code>láiktit</code>, cleaned up = <code>kliindáp</code>. Y si la d queda entre vocales, hace el toque de C-02: played a game = <code>pléirə guéim</code>. Delante de consonante es cortita, <mark>¡pero no desaparece!</mark>",
+      "en": "In sentences, the -ed sound links to the next word: liked it, cleaned up.",
+      "examples": [
+        {
+          "en": "I liked it!",
+          "say": "ai láiktit!",
+          "es": "¡Me gustó!",
+          "icon": "👍"
+        },
+        {
+          "en": "We cleaned up.",
+          "say": "wi kliindáp",
+          "es": "Lo recogimos.",
+          "icon": "🧹"
+        },
+        {
+          "en": "He stopped at the door.",
+          "say": "ji stáptət də dor",
+          "es": "Se paró en la puerta.",
+          "icon": "🚪"
+        },
+        {
+          "en": "Rocky walked away.",
+          "say": "ráki wóktəwéi",
+          "es": "Rocky se fue.",
+          "icon": "🐕"
+        },
+        {
+          "en": "She opened it.",
+          "say": "shi óupəndit",
+          "es": "Lo abrió.",
+          "icon": "🎁"
+        },
+        {
+          "en": "We played a game.",
+          "say": "wi pléirə guéim",
+          "es": "Jugamos a un juego.",
+          "icon": "🎲"
+        }
+      ]
+    },
+    {
+      "t": "stress",
+      "title": "La -ed nunca manda",
+      "title_en": "-ed is never stressed",
+      "icon": "🥁",
+      "es": "Cuando la -ed suena <code>id</code>, es una sílaba <b>débil</b>: el golpe (●) se queda donde estaba en el verbo.",
+      "en": "When -ed sounds /ɪd/, it's a weak syllable. The stress stays on the verb.",
+      "items": [
+        {
+          "syl": [
+            "want",
+            "ed"
+          ],
+          "s": 0,
+          "say": "wántid",
+          "es": "quiso"
+        },
+        {
+          "syl": [
+            "need",
+            "ed"
+          ],
+          "s": 0,
+          "say": "níirid",
+          "es": "necesitó"
+        },
+        {
+          "syl": [
+            "start",
+            "ed"
+          ],
+          "s": 0,
+          "say": "stárdid",
+          "es": "empezó"
+        },
+        {
+          "syl": [
+            "vis",
+            "it",
+            "ed"
+          ],
+          "s": 0,
+          "say": "vísirid",
+          "es": "visitó"
+        },
+        {
+          "syl": [
+            "de",
+            "cid",
+            "ed"
+          ],
+          "s": 1,
+          "say": "disáirid",
+          "es": "decidió"
+        },
+        {
+          "syl": [
+            "in",
+            "vit",
+            "ed"
+          ],
+          "s": 1,
+          "say": "inváirid",
+          "es": "invitó"
+        },
+        {
+          "syl": [
+            "ex",
+            "cit",
+            "ed"
+          ],
+          "s": 1,
+          "say": "iksáirid",
+          "es": "emocionado"
+        },
+        {
+          "syl": [
+            "cel",
+            "e",
+            "brat",
+            "ed"
+          ],
+          "s": 0,
+          "say": "séləbreirid",
+          "es": "celebró"
+        }
+      ]
+    },
+    {
+      "t": "pairs",
+      "title": "Suenan igual",
+      "title_en": "Same sound",
+      "icon": "👯",
+      "items": [
+        {
+          "a": {
+            "en": "passed",
+            "ipa": "pæst",
+            "say": "pæst",
+            "es": "pasó / aprobó",
+            "icon": "✅"
+          },
+          "b": {
+            "en": "past",
+            "ipa": "pæst",
+            "say": "pæst",
+            "es": "pasado",
+            "icon": "⏪"
+          },
+          "tip": "La -ed de passed es solo una t: suena igual que past."
+        },
+        {
+          "a": {
+            "en": "guessed",
+            "ipa": "ɡɛst",
+            "say": "guest",
+            "es": "adivinó",
+            "icon": "🤔"
+          },
+          "b": {
+            "en": "guest",
+            "ipa": "ɡɛst",
+            "say": "guest",
+            "es": "invitado",
+            "icon": "🛎️"
+          },
+          "tip": "¡Una sola sílaba! Nada de «gue‑sed»."
+        },
+        {
+          "a": {
+            "en": "missed",
+            "ipa": "mɪst",
+            "say": "mist",
+            "es": "echó de menos",
+            "icon": "🥺"
+          },
+          "b": {
+            "en": "mist",
+            "ipa": "mɪst",
+            "say": "mist",
+            "es": "niebla",
+            "icon": "🌫️"
+          },
+          "tip": "I missed you = <code>ai místiu</code>. ¡Como mist + you!"
+        },
+        {
+          "a": {
+            "en": "allowed",
+            "ipa": "əˈlaʊd",
+            "say": "əláud",
+            "es": "permitido",
+            "icon": "✅"
+          },
+          "b": {
+            "en": "aloud",
+            "ipa": "əˈlaʊd",
+            "say": "əláud",
+            "es": "en voz alta",
+            "icon": "📣"
+          },
+          "tip": "La -ed de allowed es una d suave: igual que aloud."
+        },
+        {
+          "a": {
+            "en": "billed",
+            "ipa": "bɪld",
+            "say": "bild",
+            "es": "facturó",
+            "icon": "🧾"
+          },
+          "b": {
+            "en": "build",
+            "ipa": "bɪld",
+            "say": "bild",
+            "es": "construir",
+            "icon": "🏗️"
+          },
+          "tip": "Dos fantasmas: la e de billed y la u de build."
+        }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        {
+          "en": "mixed",
+          "ipa": "mɪkst",
+          "say": "mikst",
+          "es": "mezclado",
+          "icon": "🥪",
+          "anchor": "un <b>mixt</b>o 🥪",
+          "tip": "Di «mixto» sin la o: una sola sílaba, con t al final."
+        },
+        {
+          "en": "passed",
+          "ipa": "pæst",
+          "say": "pæst",
+          "es": "pasó / aprobó",
+          "icon": "✅",
+          "anchor": "<b>past</b>a 🍝",
+          "tip": "Di «pasta» sin la a y con boca de sonrisa (æ). ¡Suena igual que past!"
+        },
+        {
+          "en": "missed",
+          "ipa": "mɪst",
+          "say": "mist",
+          "es": "echó de menos / perdió",
+          "icon": "🚌",
+          "anchor": "el <b>míst</b>er ⚽",
+          "tip": "Di «míster» y frena en la t. Nada de «mi‑sed»."
+        },
+        {
+          "en": "clicked",
+          "ipa": "klɪkt",
+          "say": "klikt",
+          "es": "hizo clic",
+          "icon": "🖱️",
+          "anchor": "<b>clic</b> + t 🖱️",
+          "tip": "Un clic y una t pegada: una sola sílaba."
+        },
+        {
+          "en": "liked",
+          "ipa": "laɪkt",
+          "say": "laikt",
+          "es": "le gustó",
+          "icon": "👍",
+          "anchor": "dar <b>like</b> + t 👍",
+          "tip": "El «like» de las redes (laik) + t. ¡Nada de «lai‑ked»!"
+        },
+        {
+          "en": "relaxed",
+          "ipa": "rɪˈlækst",
+          "say": "rilǽkst",
+          "es": "relajado",
+          "icon": "🧘",
+          "anchor": "<b>relax</b> + t 🧘",
+          "tip": "Di «relax» con la a de sonrisa (æ) y pon una t final: ri‑LǼKST."
+        },
+        {
+          "en": "played",
+          "ipa": "pleɪd",
+          "say": "pleid",
+          "es": "jugó",
+          "icon": "🎮",
+          "anchor": "la <b>Play</b> + d 🎮",
+          "tip": "La consola (plei) + una d suave. Una sílaba."
+        },
+        {
+          "en": "bored",
+          "ipa": "bɔrd",
+          "say": "bord",
+          "es": "aburrido",
+          "icon": "🥱",
+          "anchor": "<b>bord</b>e 😒",
+          "tip": "Casi: di «borde» sin la e y con R americana. ¡Nada de «bo‑red»!"
+        },
+        {
+          "en": "added",
+          "ipa": "ˈæɾɪd",
+          "say": "ǽrid",
+          "es": "añadió",
+          "icon": "➕",
+          "anchor": "<b>árid</b>o 🏜️",
+          "tip": "Di «árido» sin la o. La d de add hace el toque (C-02) y aquí sí hay sílaba nueva."
+        },
+        {
+          "en": "wicked",
+          "ipa": "ˈwɪkɪd",
+          "say": "wíkid",
+          "es": "malvado / genial",
+          "icon": "🧙",
+          "anchor": "<b>Wiki</b> + d 📚",
+          "tip": "Como «Wiki» + d. Adjetivo rebelde: suena /ɪd/ aunque no acabe en t."
+        },
+        {
+          "en": "worked",
+          "ipa": "wɝkt",
+          "say": "werkt",
+          "es": "trabajó",
+          "icon": "💼",
+          "anchor": "<s>wor‑ked</s> → <b>werkt</b>",
+          "tip": "Una sola sílaba. La e de -ed no suena."
+        },
+        {
+          "en": "naked",
+          "ipa": "ˈneɪkɪd",
+          "say": "néikid",
+          "es": "desnudo",
+          "icon": "🛁",
+          "anchor": "<s>neikt</s> → <b>NÉI</b>kid",
+          "tip": "Rebelde: aquí la -ed sí suena «id»."
+        },
+        {
+          "en": "interested",
+          "ipa": "ˈɪntrəstɪd",
+          "say": "íntrəstid",
+          "es": "interesado",
+          "icon": "🤓",
+          "anchor": "<s>in‑te‑res‑ted</s> → <b>ÍN</b>trəstid",
+          "tip": "Tres sílabas y la fuerza en IN: ÍN‑trəs‑tid."
+        }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        {
+          "q": "worked",
+          "es": "trabajó"
+        },
+        {
+          "q": "played",
+          "es": "jugó"
+        },
+        {
+          "q": "wanted",
+          "es": "quiso"
+        },
+        {
+          "q": "stopped",
+          "es": "paró"
+        },
+        {
+          "q": "needed",
+          "es": "necesitó"
+        },
+        {
+          "q": "decided",
+          "es": "decidió"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Verbos del día a día",
+      "title_en": "Everyday verbs",
+      "icon": "📅",
+      "head": [
+        "Verbo · Verb",
+        "Pasado · Past",
+        "Suena",
+        "Sonido -ed"
+      ],
+      "rows": [
+        [
+          "work · trabajar",
+          "worked",
+          "<code>werkt</code>",
+          "/t/"
+        ],
+        [
+          "help · ayudar",
+          "helped",
+          "<code>jelpt</code>",
+          "/t/"
+        ],
+        [
+          "walk · caminar",
+          "walked",
+          "<code>wokt</code>",
+          "/t/"
+        ],
+        [
+          "cook · cocinar",
+          "cooked",
+          "<code>kukt</code>",
+          "/t/"
+        ],
+        [
+          "dance · bailar",
+          "danced",
+          "<code>dænst</code>",
+          "/t/"
+        ],
+        [
+          "play · jugar",
+          "played",
+          "<code>pleid</code>",
+          "/d/"
+        ],
+        [
+          "listen · escuchar",
+          "listened",
+          "<code>lísənd</code>",
+          "/d/"
+        ],
+        [
+          "love · encantar",
+          "loved",
+          "<code>lavd</code>",
+          "/d/"
+        ],
+        [
+          "stay · quedarse",
+          "stayed",
+          "<code>steid</code>",
+          "/d/"
+        ],
+        [
+          "call · llamar",
+          "called",
+          "<code>kold</code>",
+          "/d/"
+        ],
+        [
+          "want · querer",
+          "wanted",
+          "<code>wántid</code>",
+          "/ɪd/"
+        ],
+        [
+          "need · necesitar",
+          "needed",
+          "<code>níirid</code>",
+          "/ɪd/"
+        ],
+        [
+          "visit · visitar",
+          "visited",
+          "<code>vísirid</code>",
+          "/ɪd/"
+        ],
+        [
+          "paint · pintar",
+          "painted",
+          "<code>péintid</code>",
+          "/ɪd/"
+        ]
+      ],
+      "note": "Fíjate: todos los verbos de /ɪd/ acaban en t o d. Los demás, ¡una sola sílaba!",
+      "note_en": "All the /ɪd/ verbs end in T or D. The rest have just one syllable."
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        {
+          "en": "I worked all day.",
+          "say": "ai wérktol déi",
+          "es": "Trabajé todo el día.",
+          "icon": "💼"
+        },
+        {
+          "en": "We played soccer yesterday.",
+          "say": "wi pleid sáker iésterdei",
+          "es": "Ayer jugamos al fútbol.",
+          "icon": "⚽"
+        },
+        {
+          "en": "Mario wanted pizza.",
+          "say": "mário wántid píitsə",
+          "es": "Mario quería pizza.",
+          "icon": "🍕"
+        },
+        {
+          "en": "Jenny cleaned her room.",
+          "say": "yéni kliindər ruum",
+          "es": "Jenny limpió su habitación.",
+          "icon": "🧹"
+        },
+        {
+          "en": "The movie ended late.",
+          "say": "də múuvi éndid léit",
+          "es": "La peli terminó tarde.",
+          "icon": "🎬"
+        },
+        {
+          "en": "I watched TV and laughed.",
+          "say": "ai wacht tiiví ən læft",
+          "es": "Vi la tele y me reí.",
+          "icon": "📺"
+        },
+        {
+          "en": "She kissed the baby.",
+          "say": "shi kist də béibi",
+          "es": "Besó al bebé.",
+          "icon": "😘"
+        },
+        {
+          "en": "We stopped at the store.",
+          "say": "wi stáptət də stor",
+          "es": "Paramos en la tienda.",
+          "icon": "🛒"
+        },
+        {
+          "en": "Rocky needed water.",
+          "say": "ráki níirid wárer",
+          "es": "Rocky necesitaba agua.",
+          "icon": "🐕"
+        },
+        {
+          "en": "I'm so bored!",
+          "say": "aim sou bord!",
+          "es": "¡Qué aburrido estoy!",
+          "icon": "🥱"
+        },
+        {
+          "en": "Are you tired?",
+          "say": "ar iu táierd?",
+          "es": "¿Estás cansado?",
+          "icon": "😴"
+        },
+        {
+          "en": "They decided to stay.",
+          "say": "dei disáirid tə stéi",
+          "es": "Decidieron quedarse.",
+          "icon": "🏠"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        {
+          "bad": "worked → <code>wórked</code>",
+          "good": "<code>werkt</code>",
+          "why": "La e no suena: una sola sílaba, con t final.",
+          "why_en": "One syllable, ending in /t/."
+        },
+        {
+          "bad": "played → <code>pléied</code>",
+          "good": "<code>pleid</code>",
+          "why": "Tras vocal, la -ed es solo una d suave.",
+          "why_en": "After a vowel, -ed is just /d/."
+        },
+        {
+          "bad": "stopped → <code>stóped</code>",
+          "good": "<code>stapt</code>",
+          "why": "Tras p, la -ed suena t, pegada. Y la o suena a (V-05).",
+          "why_en": "After P, -ed sounds /t/."
+        },
+        {
+          "bad": "wanted → <code>want</code>",
+          "good": "<code>wántid</code>",
+          "why": "Si te comes la -ed, hablas en presente. Aquí sí hay sílaba nueva.",
+          "why_en": "Without -ed it's the present."
+        },
+        {
+          "bad": "liked → <code>láiked</code>",
+          "good": "<code>laikt</code>",
+          "why": "La e de like ya era muda: like + t.",
+          "why_en": "Like + /t/."
+        },
+        {
+          "bad": "naked → <code>neikt</code>",
+          "good": "<code>néikid</code>",
+          "why": "Es un adjetivo rebelde: suena «id».",
+          "why_en": "Naked is a rebel: /ɪd/."
+        },
+        {
+          "bad": "interested → <code>interestéd</code>",
+          "good": "<code>íntrəstid</code>",
+          "why": "Tres sílabas y la fuerza al principio.",
+          "why_en": "Three syllables, stress on IN."
+        },
+        {
+          "bad": "cleaned → <code>klíined</code>",
+          "good": "<code>kliind</code>",
+          "why": "Tras n, la -ed es una d pegada: una sola sílaba.",
+          "why_en": "After N, -ed is /d/: one syllable."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¿Qué hiciste el finde?",
+      "title_en": "What did you do this weekend?",
+      "lines": [
+        {
+          "who": "Tyler",
+          "en": "Hi Lucía! What did you do this weekend?",
+          "say": "jai lusíə! wat did iu duu dis wíikend?",
+          "es": "¡Hola, Lucía! ¿Qué hiciste el fin de semana?"
+        },
+        {
+          "who": "Lucía",
+          "en": "I visited my grandma and we baked a cake.",
+          "say": "ai vísirid mai grǽnma ən wi béiktə kéik",
+          "es": "Visité a mi abuela e hicimos una tarta."
+        },
+        {
+          "who": "Tyler",
+          "en": "Cool! I watched a movie and played video games.",
+          "say": "kuul! ai wáchtə múuvi ən pleid vídiou guéims",
+          "es": "¡Qué bien! Yo vi una peli y jugué a videojuegos."
+        },
+        {
+          "who": "Lucía",
+          "en": "Did you like it?",
+          "say": "díd iu láikit?",
+          "es": "¿Te gustó?"
+        },
+        {
+          "who": "Tyler",
+          "en": "I loved it! But I was so tired.",
+          "say": "ai lávdit! bərai wəs sou táierd",
+          "es": "¡Me encantó! Pero estaba muy cansado."
+        },
+        {
+          "who": "Lucía",
+          "en": "Me too! I walked a lot, so I needed some sleep.",
+          "say": "mi tuu! ai wóktə lat, sou ai níirid səm slíip",
+          "es": "¡Yo también! Caminé mucho, así que necesitaba dormir."
+        },
+        {
+          "who": "Tyler",
+          "en": "Ha! I stayed in bed until noon.",
+          "say": "ja! ai stéidin bed əntíl nuun",
+          "es": "¡Ja! Yo me quedé en la cama hasta el mediodía."
+        },
+        {
+          "who": "Lucía",
+          "en": "Lucky you!",
+          "say": "láki iu!",
+          "es": "¡Qué suerte!"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        {
+          "es": "Quita la -ed y di el final del verbo: work… <b>k</b>, play… <b>ei</b>, want… <b>t</b>.",
+          "en": "Remove -ed and say the last sound of the verb."
+        },
+        {
+          "es": "¿Acaba en t o d? → añade <code>id</code>: <code>wánt-id</code>, <code>níir-id</code>.",
+          "en": "Ends in T or D? Add /ɪd/."
+        },
+        {
+          "es": "Si no, mano en el cuello: ¿vibra? → <code>d</code> (<code>pleid</code>). ¿No vibra? → <code>t</code> (<code>werkt</code>).",
+          "en": "If not, check the vibration: /d/ or /t/."
+        },
+        {
+          "es": "Pégala sin abrir la boca: «werk‑t», no «wer‑ked». Cuenta las sílabas con los dedos.",
+          "en": "Attach it without an extra vowel. Count syllables on your fingers."
+        },
+        {
+          "es": "Escanea los QR, escucha y <b>grábate</b> leyendo el diálogo. ¿Se te ha escapado alguna «ed»? 🕵️",
+          "en": "Scan the QR codes, listen and record yourself."
+        }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        {
+          "en": "Tom stopped, dropped and hopped, then walked and talked.",
+          "say": "tam stapt, drapt ən japt, den wokt ən tokt",
+          "es": "Tom paró, se tiró y saltó; luego caminó y habló."
+        },
+        {
+          "en": "Jenny played and stayed, then smiled and cried.",
+          "say": "yéni pleid ən steid, den smaild ən kraid",
+          "es": "Jenny jugó y se quedó; luego sonrió y lloró."
+        },
+        {
+          "en": "Ned needed, Ted tested, and Ed ended.",
+          "say": "ned níirid, ted téstid, ən ed éndid",
+          "es": "Ned necesitó, Ted probó y Ed terminó."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco de los dedos",
+      "title_en": "The finger trick",
+      "es": "Cuenta sílabas con los dedos: worked ☝️ (una), played ☝️ (una), wanted ✌️ (dos). Solo hay sílaba nueva cuando el verbo ya acaba en <b>t</b> o <b>d</b>. En los demás casos, la e de -ed es una <b>letra muda disfrazada</b> 🎭.",
+      "en": "Count syllables on your fingers: worked (one), played (one), wanted (two). Only T or D endings get an extra syllable."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Qué sonido?",
+      "title_en": "Which sound?",
+      "icon": "🔍",
+      "es": "Di el verbo en voz alta y rodea cómo suena la -ed.",
+      "en": "Say the verb and circle the sound of -ed.",
+      "items": [
+        {
+          "q": "worked → [/t/|/d/|/ɪd/]",
+          "a": "/t/"
+        },
+        {
+          "q": "played → [/t/|/d/|/ɪd/]",
+          "a": "/d/"
+        },
+        {
+          "q": "wanted → [/t/|/d/|/ɪd/]",
+          "a": "/ɪd/"
+        },
+        {
+          "q": "stopped → [/t/|/d/|/ɪd/]",
+          "a": "/t/"
+        },
+        {
+          "q": "lived → [/t/|/d/|/ɪd/]",
+          "a": "/d/"
+        },
+        {
+          "q": "needed → [/t/|/d/|/ɪd/]",
+          "a": "/ɪd/"
+        },
+        {
+          "q": "laughed → [/t/|/d/|/ɪd/]",
+          "a": "/t/"
+        },
+        {
+          "q": "cleaned → [/t/|/d/|/ɪd/]",
+          "a": "/d/"
+        },
+        {
+          "q": "decided → [/t/|/d/|/ɪd/]",
+          "a": "/ɪd/"
+        },
+        {
+          "q": "watched → [/t/|/d/|/ɪd/]",
+          "a": "/t/"
+        },
+        {
+          "q": "called → [/t/|/d/|/ɪd/]",
+          "a": "/d/"
+        },
+        {
+          "q": "ended → [/t/|/d/|/ɪd/]",
+          "a": "/ɪd/"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica los verbos",
+      "title_en": "Sort the verbs",
+      "icon": "🗂️",
+      "es": "Di cada verbo y escríbelo en la columna de su sonido.",
+      "en": "Say each verb and sort it by its -ed sound.",
+      "cats": [
+        {
+          "name": "🤫 /t/",
+          "words": [
+            "helped",
+            "looked",
+            "kissed",
+            "washed",
+            "cooked",
+            "danced",
+            "fixed",
+            "liked"
+          ]
+        },
+        {
+          "name": "🐝 /d/",
+          "words": [
+            "played",
+            "loved",
+            "stayed",
+            "opened",
+            "listened",
+            "cried",
+            "rained",
+            "smiled"
+          ]
+        },
+        {
+          "name": "➕ /ɪd/",
+          "words": [
+            "wanted",
+            "needed",
+            "visited",
+            "painted",
+            "started",
+            "waited",
+            "hated",
+            "invited"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Cuántas sílabas?",
+      "title_en": "How many syllables?",
+      "icon": "✌️",
+      "es": "Cuenta las sílabas con los dedos y rodea.",
+      "en": "Count the syllables and circle.",
+      "items": [
+        {
+          "q": "worked → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "wanted → [1|2]",
+          "a": "2"
+        },
+        {
+          "q": "played → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "needed → [1|2]",
+          "a": "2"
+        },
+        {
+          "q": "stopped → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "ended → [1|2]",
+          "a": "2"
+        },
+        {
+          "q": "laughed → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "started → [1|2]",
+          "a": "2"
+        },
+        {
+          "q": "liked → [1|2]",
+          "a": "1"
+        },
+        {
+          "q": "waited → [1|2]",
+          "a": "2"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada verbo con su sonido",
+      "title_en": "Match verb and sound",
+      "icon": "🔗",
+      "es": "Une cada verbo con su pronunciación figurada.",
+      "en": "Match each verb with how it sounds.",
+      "pairs": [
+        [
+          "worked",
+          "<code>werkt</code>"
+        ],
+        [
+          "played",
+          "<code>pleid</code>"
+        ],
+        [
+          "wanted",
+          "<code>wántid</code>"
+        ],
+        [
+          "stopped",
+          "<code>stapt</code>"
+        ],
+        [
+          "needed",
+          "<code>níirid</code>"
+        ],
+        [
+          "cleaned",
+          "<code>kliind</code>"
+        ],
+        [
+          "laughed",
+          "<code>læft</code>"
+        ],
+        [
+          "liked",
+          "<code>laikt</code>"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Pon tilde en la sílaba fuerte (puedes escribir e/a en vez de ə/æ).",
+      "en": "Write how each verb sounds, Spanish-style.",
+      "items": [
+        {
+          "q": "👍 liked → ____",
+          "a": "laikt"
+        },
+        {
+          "q": "📞 called → ____",
+          "a": "kold"
+        },
+        {
+          "q": "🏁 ended → ____",
+          "a": "éndid"
+        },
+        {
+          "q": "😘 kissed → ____",
+          "a": "kist"
+        },
+        {
+          "q": "🏠 lived → ____",
+          "a": "livd"
+        },
+        {
+          "q": "🤔 decided → ____",
+          "a": "disáirid"
+        },
+        {
+          "q": "🔧 fixed → ____",
+          "a": "fikst"
+        },
+        {
+          "q": "🚪 opened → ____",
+          "a": "óupənd"
+        },
+        {
+          "q": "🧼 washed → ____",
+          "a": "washt"
+        },
+        {
+          "q": "🏛️ visited → ____",
+          "a": "vísirid"
+        }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Comprueba que la -ed nunca la lleva.",
+      "en": "Circle the stressed syllable. -ed is never stressed.",
+      "items": [
+        {
+          "syl": [
+            "want",
+            "ed"
+          ],
+          "s": 0,
+          "es": "quiso"
+        },
+        {
+          "syl": [
+            "de",
+            "cid",
+            "ed"
+          ],
+          "s": 1,
+          "es": "decidió"
+        },
+        {
+          "syl": [
+            "vis",
+            "it",
+            "ed"
+          ],
+          "s": 0,
+          "es": "visitó"
+        },
+        {
+          "syl": [
+            "in",
+            "vit",
+            "ed"
+          ],
+          "s": 1,
+          "es": "invitó"
+        },
+        {
+          "syl": [
+            "ex",
+            "cit",
+            "ed"
+          ],
+          "s": 1,
+          "es": "emocionado"
+        },
+        {
+          "syl": [
+            "cel",
+            "e",
+            "brat",
+            "ed"
+          ],
+          "s": 0,
+          "es": "celebró"
+        },
+        {
+          "syl": [
+            "ex",
+            "pect",
+            "ed"
+          ],
+          "s": 1,
+          "es": "esperado"
+        },
+        {
+          "syl": [
+            "com",
+            "plet",
+            "ed"
+          ],
+          "s": 1,
+          "es": "completó"
+        },
+        {
+          "syl": [
+            "re",
+            "peat",
+            "ed"
+          ],
+          "s": 1,
+          "es": "repitió"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        {
+          "q": "The -ed in «worked» sounds /t/.",
+          "a": true
+        },
+        {
+          "q": "«Played» has two syllables.",
+          "a": false,
+          "why": "una: <code>pleid</code>"
+        },
+        {
+          "q": "After T or D, -ed adds a syllable: /ɪd/.",
+          "a": true
+        },
+        {
+          "q": "«Liked» ends in a /d/ sound.",
+          "a": false,
+          "why": "like acaba en /k/ → <code>laikt</code>"
+        },
+        {
+          "q": "In «needed», the first D sounds like a quick tap.",
+          "a": true
+        },
+        {
+          "q": "«Naked» rhymes with «baked».",
+          "a": false,
+          "why": "naked = <code>néikid</code>; baked = <code>beikt</code>"
+        },
+        {
+          "q": "To choose /t/ or /d/, look at the last sound, not the last letter.",
+          "a": true
+        },
+        {
+          "q": "If you don't say the -ed, it sounds like the present.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «Sonido» escribe /t/, /d/ o /ɪd/.",
+      "en": "Fill in the gaps.",
+      "head": [
+        "Verbo",
+        "Pasado",
+        "Suena",
+        "Sonido"
+      ],
+      "rows": [
+        [
+          "work",
+          "worked",
+          "?werkt",
+          "?/t/"
+        ],
+        [
+          "play",
+          "?played",
+          "pleid",
+          "?/d/"
+        ],
+        [
+          "want",
+          "wanted",
+          "?wántid",
+          "/ɪd/"
+        ],
+        [
+          "stop",
+          "?stopped",
+          "?stapt",
+          "/t/"
+        ],
+        [
+          "clean",
+          "cleaned",
+          "?kliind",
+          "?/d/"
+        ],
+        [
+          "need",
+          "?needed",
+          "níirid",
+          "?/ɪd/"
+        ],
+        [
+          "laugh",
+          "laughed",
+          "?læft",
+          "?/t/"
+        ],
+        [
+          "open",
+          "?opened",
+          "?óupənd",
+          "/d/"
+        ]
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Alguien ha leído la -ed como se escribe. Escribe la figurada correcta.",
+      "en": "Someone read -ed as it's written. Fix it.",
+      "items": [
+        {
+          "q": "worked → <code>wórked</code>",
+          "a": "werkt"
+        },
+        {
+          "q": "played → <code>pléied</code>",
+          "a": "pleid"
+        },
+        {
+          "q": "stopped → <code>stóped</code>",
+          "a": "stapt"
+        },
+        {
+          "q": "liked → <code>láiked</code>",
+          "a": "laikt"
+        },
+        {
+          "q": "wanted → <code>want</code>",
+          "a": "wántid"
+        },
+        {
+          "q": "cleaned → <code>klíined</code>",
+          "a": "kliind"
+        },
+        {
+          "q": "naked → <code>neikt</code>",
+          "a": "néikid"
+        },
+        {
+          "q": "laughed → <code>láugued</code>",
+          "a": "læft"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pásalo a pasado",
+      "title_en": "Change it to the past",
+      "icon": "⏪",
+      "es": "Escribe la frase en pasado y, entre paréntesis, cómo suena el verbo.",
+      "en": "Write the sentence in the past and how the verb sounds.",
+      "items": [
+        {
+          "q": "I play soccer.",
+          "a": "I played soccer. (pleid)"
+        },
+        {
+          "q": "We walk to school.",
+          "a": "We walked to school. (wokt)"
+        },
+        {
+          "q": "They want pizza.",
+          "a": "They wanted pizza. (wántid)"
+        },
+        {
+          "q": "She cleans her room.",
+          "a": "She cleaned her room. (kliind)"
+        },
+        {
+          "q": "He needs help.",
+          "a": "He needed help. (níirid)"
+        },
+        {
+          "q": "I watch TV.",
+          "a": "I watched TV. (wacht)"
+        },
+        {
+          "q": "Rocky stops at the door.",
+          "a": "Rocky stopped at the door. (stapt)"
+        },
+        {
+          "q": "We visit Grandma.",
+          "a": "We visited Grandma. (vísirid)"
+        }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez. Cuenta las sílabas de cada verbo.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        {
+          "q": "I worked a lot.",
+          "say": "ai wérktə lat"
+        },
+        {
+          "q": "We played and laughed.",
+          "say": "wi pleid ən læft"
+        },
+        {
+          "q": "She wanted to dance.",
+          "say": "shi wántid tə dæns"
+        },
+        {
+          "q": "I liked it!",
+          "say": "ai láiktit!"
+        },
+        {
+          "q": "He stopped and waited.",
+          "say": "ji stapt ən wéirid"
+        },
+        {
+          "q": "They cleaned up.",
+          "say": "dei kliindáp"
+        },
+        {
+          "q": "I'm so excited!",
+          "say": "aim sou iksáirid!"
+        },
+        {
+          "q": "Mario visited Spain.",
+          "say": "mário vísirid spéin"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con la -ed correcta.",
+      "en": "Translate into English and say it with the right -ed.",
+      "items": [
+        {
+          "q": "trabajé",
+          "a": "I worked (ai werkt)"
+        },
+        {
+          "q": "jugamos",
+          "a": "we played (wi pleid)"
+        },
+        {
+          "q": "quería",
+          "a": "I wanted (ai wántid)"
+        },
+        {
+          "q": "paró",
+          "a": "it stopped (it stapt)"
+        },
+        {
+          "q": "necesitaba",
+          "a": "I needed (ai níirid)"
+        },
+        {
+          "q": "limpió",
+          "a": "she cleaned (shi kliind)"
+        },
+        {
+          "q": "se rio",
+          "a": "he laughed (ji læft)"
+        },
+        {
+          "q": "decidimos",
+          "a": "we decided (wi disáirid)"
+        },
+        {
+          "q": "cansado",
+          "a": "tired (táierd)"
+        },
+        {
+          "q": "aburrido",
+          "a": "bored (bord)"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa del pasado",
+      "title_en": "Past tense word search",
+      "icon": "🔎",
+      "es": "Busca 10 verbos en pasado. Cada vez que encuentres uno, dilo: ¿/t/, /d/ o /ɪd/?",
+      "en": "Find 10 past verbs and say each one.",
+      "words": [
+        "worked",
+        "played",
+        "wanted",
+        "stopped",
+        "needed",
+        "liked",
+        "cleaned",
+        "kissed",
+        "ended",
+        "laughed"
+      ],
+      "clues": [
+        "worked · trabajó",
+        "played · jugó",
+        "wanted · quiso",
+        "stopped · paró",
+        "needed · necesitó",
+        "liked · le gustó",
+        "cleaned · limpió",
+        "kissed · besó",
+        "ended · terminó",
+        "laughed · se rio"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza las -ed",
+      "title_en": "Read and find the -ed",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Lucía's Busy Saturday",
+      "text": [
+        "Last Saturday, Lucía cleaned her room and washed the dishes. Then she visited her friend Ashley.",
+        "They baked cookies, watched a movie and laughed a lot. Lucía wanted to stay, but she needed to go home. She was tired, but happy!"
+      ],
+      "items": [
+        {
+          "q": "What did Lucía do first?",
+          "a": "She cleaned her room. cleaned = <code>kliind</code>"
+        },
+        {
+          "q": "Find two verbs in the text with the /t/ sound.",
+          "a": "washed, baked, watched, laughed (cualquiera)"
+        },
+        {
+          "q": "Find two verbs with an extra syllable /ɪd/.",
+          "a": "visited, wanted, needed"
+        },
+        {
+          "q": "«Cleaned» has two syllables.",
+          "tf": true,
+          "a": false,
+          "why": "una: <code>kliind</code>"
+        },
+        {
+          "q": "«Visited» ends in /ɪd/.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Lucía was bored.",
+          "tf": true,
+          "a": false,
+          "why": "estaba cansada (tired), pero contenta"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases sobre lo que hiciste ayer. Léelas en voz alta, cuenta las sílabas de cada verbo y grábate.",
+      "en": "Write three sentences about yesterday and record yourself.",
+      "items": [
+        {
+          "q": "Una frase con un verbo de /t/ (worked, watched, walked…).",
+          "lines": 2,
+          "a": "Ej.: I watched a movie with my dad."
+        },
+        {
+          "q": "Una frase con un verbo de /d/ (played, cleaned, called…).",
+          "lines": 2,
+          "a": "Ej.: I played with Rocky in the park."
+        },
+        {
+          "q": "Una frase con un verbo de /ɪd/ (wanted, needed, visited…).",
+          "lines": 2
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé que la -ed tiene 3 sonidos: <code>t</code>, <code>d</code> e <code>id</code>.",
+      "en": "I know -ed has three sounds."
+    },
+    {
+      "es": "Digo <b>worked</b>, <b>stopped</b> y <b>watched</b> en una sílaba, con t.",
+      "en": "I can say worked, stopped and watched in one syllable."
+    },
+    {
+      "es": "Digo <b>played</b>, <b>lived</b> y <b>cleaned</b> en una sílaba, con d.",
+      "en": "I can say played, lived and cleaned in one syllable."
+    },
+    {
+      "es": "Solo añado sílaba tras t o d: <code>wántid</code>, <code>níirid</code>.",
+      "en": "I only add a syllable after T or D."
+    },
+    {
+      "es": "Uso la prueba del cuello para elegir entre /t/ y /d/.",
+      "en": "I use the throat test to choose /t/ or /d/."
+    },
+    {
+      "es": "Conozco los adjetivos rebeldes: naked, wicked, beloved.",
+      "en": "I know the rebel adjectives."
+    }
+  ]
+}

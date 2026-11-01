@@ -1,0 +1,627 @@
+{
+  "id": "V-09",
+  "block": "V",
+  "title": "LA VOCAL CON <em>R</em>",
+  "file_title": "La vocal con R (/ɝ/ y /ɚ/)",
+  "subtitle": "The R-colored vowel · bird = «berd»",
+  "icon": "🐦",
+  "map": {
+    "center": "<b>ER, IR, UR</b>, <b>WOR</b> y <b>EAR</b> suenan igual: una vocal hecha con la <b>R</b>, sin i, sin o, sin u. bird = <code>berd</code>.",
+    "listen": "bird",
+    "nodes": [
+      { "title": "¿Qué es?", "icon": "🔎", "color": "green", "items": ["una vocal <b>hecha con la R</b>", "la lengua va <b>atrás</b> y no toca nada", "/ɝ/ fuerte · /ɚ/ débil"] },
+      { "title": "IR = ER = UR", "icon": "🎯", "color": "blue", "rows": [["bird", "<code>berd</code>"], ["her", "<code>jer</code>"], ["nurse", "<code>ners</code>"]] },
+      { "title": "W + OR", "icon": "🌍", "color": "purple", "rows": [["work", "<code>werk</code>"], ["word", "<code>werd</code>"], ["world", "<code>werld</code>"]] },
+      { "title": "Débil, al final", "icon": "🔉", "color": "orange", "rows": [["teacher", "<code>tíicher</code>"], ["doctor", "<code>dákter</code>"], ["color", "<code>káler</code>"]], "after": "¡la fuerza, al principio!" },
+      { "title": "EAR + consonante", "icon": "📚", "color": "pink", "rows": [["early", "<code>érli</code>"], ["learn", "<code>lern</code>"]], "after": "¡ojo! heart = <code>jart</code>" },
+      { "title": "Truco: el gruñido", "icon": "🐶", "color": "yellow", "html": "Gruñe como Rocky <b>sin vibrar</b> la lengua: «grrr». ¡Ese es el sonido!", "art": "🐕" }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["<code>uórk</code> (leer la O)"],
+      "good": ["<code>werk</code> 💼"],
+      "note": "Con O, work suena casi a walk (andar) 🚶"
+    },
+    "mini": {
+      "es": "Escribe cómo suena:",
+      "en": "Write how it sounds.",
+      "items": [
+        { "q": "🐦 bird → ____", "a": "berd" },
+        { "q": "👧 girl → ____", "a": "guerl" },
+        { "q": "💼 work → ____", "a": "werk" },
+        { "q": "🏥 nurse → ____", "a": "ners" },
+        { "q": "🩺 doctor → ____", "a": "dákter" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "¿Qué es la vocal con R?",
+      "title_en": "What is the R-colored vowel?",
+      "icon": "🔎",
+      "es": "Escucha a un americano decir <b>bird</b>, <b>girl</b> o <b>work</b>: no oyes ni i, ni o, ni u. Oyes un sonido que el español no tiene: una <b>vocal hecha con la R</b>, como si la e y la R se fundieran en una sola pieza. Se escribe /ɝ/ en las sílabas fuertes y /ɚ/ en las débiles (teacher, doctor). <mark>Cinco disfraces, un solo sonido</mark>: h<b>er</b>, b<b>ir</b>d, n<b>ur</b>se, <b>wor</b>k y <b>ear</b>ly. En la figurada lo escribimos <code>er</code>.",
+      "en": "In American English, ER, IR, UR, WOR and EAR (before a consonant) usually make the same sound: an R-colored vowel, /ɝ/ when stressed and /ɚ/ when weak. Bird, word and heard all rhyme.",
+      "formula": ["h*er* = b*ir*d = n*ur*se = w*or*k → *er*"]
+    },
+    {
+      "t": "mouth",
+      "title": "Así se pone la boca",
+      "title_en": "Mouth position",
+      "items": [
+        { "part": "tongue", "es": "Echa la lengua <b>hacia atrás</b> y sube un poco los lados, como una cuchara. La punta <b>no toca nada</b>: en español la r da un golpecito; aquí, no.", "en": "Pull your tongue back and raise its sides a little. The tip touches nothing." },
+        { "part": "lips", "es": "Labios un poco <b>redondeados</b> y hacia delante, como para dar un besito flojo.", "en": "Round your lips a little and push them forward." },
+        { "part": "jaw", "es": "Mandíbula <b>medio cerrada</b> y relajada. No abras la boca como para decir «a».", "en": "Keep your jaw half closed and relaxed." },
+        { "part": "voice", "es": "Es una <b>vocal</b>: la garganta vibra y puedes alargarla todo lo que quieras, como un gruñido suave. Si la lengua vibra o da un golpe, no es esto.", "en": "It's a vowel: your voice vibrates and you can make it long. No tapping, no trilling." }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 1,
+      "title": "1 · ER, IR, UR suenan igual",
+      "title_en": "ER, IR, UR sound the same",
+      "icon": "🎯",
+      "es": "Da igual que veas <b>ER</b>, <b>IR</b> o <b>UR</b>: en la sílaba fuerte suenan exactamente igual, <code>er</code>. Por eso <b>her</b>, <b>sir</b> y <b>fur</b> riman, y <b>bird</b>, <b>heard</b> y <b>word</b> también. No intentes decir la i de bird ni la u de nurse: <mark>la vocal escrita desaparece dentro de la R</mark>.",
+      "en": "ER, IR and UR in a stressed syllable all sound /ɝ/: her, sir and fur rhyme.",
+      "formula": ["b + *ir* + d → b*er*d", "n + *ur* + se → n*er*s"],
+      "examples": [
+        { "en": "her", "say": "jer", "es": "de ella / a ella", "icon": "👩" },
+        { "en": "bird", "say": "berd", "es": "pájaro", "icon": "🐦" },
+        { "en": "nurse", "say": "ners", "es": "enfermero/a", "icon": "🏥" },
+        { "en": "girl", "say": "guerl", "es": "chica", "icon": "👧" },
+        { "en": "first", "say": "ferst", "es": "primero", "icon": "🥇" },
+        { "en": "Thursday", "say": "zérsdei", "es": "jueves", "icon": "📅" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 2,
+      "title": "2 · W + OR = wer",
+      "title_en": "W + OR = /wɝ/",
+      "icon": "🌍",
+      "es": "Después de <b>W</b>, la <b>OR</b> casi siempre suena <code>er</code>: work, word, world, worm, worse. Es un error muy típico decir «uork» o «uorld». Fíjate bien: en <b>work</b> <mark>no hay ninguna o</mark>. <i>(Rarezas: worn y sword sí suenan or.)</i>",
+      "en": "After W, OR usually sounds /ɝ/: work, word, world. There's no O sound in work.",
+      "examples": [
+        { "en": "work", "say": "werk", "es": "trabajo / trabajar", "icon": "💼" },
+        { "en": "word", "say": "werd", "es": "palabra", "icon": "💬" },
+        { "en": "world", "say": "werld", "es": "mundo", "icon": "🌍" },
+        { "en": "worm", "say": "werm", "es": "gusano", "icon": "🪱" },
+        { "en": "worse", "say": "wers", "es": "peor", "icon": "👎" },
+        { "en": "homework", "say": "jóumwerk", "es": "deberes", "icon": "📚" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 3,
+      "title": "3 · EAR + consonante",
+      "title_en": "EAR + consonant",
+      "icon": "📖",
+      "es": "Cuando <b>EAR</b> va seguida de una consonante, suele sonar también <code>er</code>: early, learn, earth, heard, search. ¡Cuidado! Al final de palabra EAR es otra cosa: ear suena <code>íer</code> y bear, <code>béer</code> (mapa V-10). Y <b>heart</b> es la gran rebelde: <code>jart</code>.",
+      "en": "EAR + consonant usually sounds /ɝ/: early, learn, heard. At the end of a word it changes (ear, bear: map V-10). Heart is an exception.",
+      "examples": [
+        { "en": "early", "say": "érli", "es": "temprano", "icon": "⏰" },
+        { "en": "learn", "say": "lern", "es": "aprender", "icon": "🧠" },
+        { "en": "earth", "say": "erz", "es": "la Tierra", "icon": "🌎" },
+        { "en": "heard", "say": "jerd", "es": "oí / oído", "icon": "👂" },
+        { "en": "search", "say": "serch", "es": "buscar", "icon": "🔍" },
+        { "en": "pearl", "say": "perl", "es": "perla", "icon": "🦪" }
+      ]
+    },
+    {
+      "t": "rule",
+      "num": 4,
+      "title": "4 · Al final y sin fuerza",
+      "title_en": "The weak R vowel /ɚ/",
+      "icon": "🔉",
+      "es": "Al final de muchas palabras, <b>-ER</b>, <b>-OR</b> y <b>-AR</b> sin acento suenan igual: una <code>er</code> cortita y débil, /ɚ/. El golpe va en otra sílaba: <b>DOC</b>tor, <b>CO</b>lor, <b>DO</b>llar. El error típico es decirlas como en español, «doc-TOR», «co-LOR», con una o clarita y la fuerza al final.",
+      "en": "Unstressed -ER, -OR and -AR at the end of a word all sound /ɚ/: teacher, doctor, dollar. Stress the first syllable.",
+      "examples": [
+        { "en": "teacher", "say": "tíicher", "es": "profe", "icon": "🍎" },
+        { "en": "doctor", "say": "dákter", "es": "médico", "icon": "🩺" },
+        { "en": "dollar", "say": "dáler", "es": "dólar", "icon": "💵" },
+        { "en": "sister", "say": "síster", "es": "hermana", "icon": "👭" },
+        { "en": "color", "say": "káler", "es": "color", "icon": "🎨" },
+        { "en": "sugar", "say": "shúguer", "es": "azúcar", "icon": "🍬" }
+      ]
+    },
+    {
+      "t": "anchors",
+      "title": "Anclas en español",
+      "title_en": "Spanish anchors",
+      "items": [
+        { "en": "first", "ipa": "fɝst", "say": "ferst", "es": "primero", "icon": "🥇", "anchor": "«<b>First</b> Dates» 💘", "tip": "Ya lo dices así en la tele. Solo cambia la R: sin golpe, con la lengua atrás." },
+        { "en": "nerd", "ipa": "nɝd", "say": "nerd", "es": "empollón", "icon": "🤓", "anchor": "un <b>nerd</b> 🤓", "tip": "Ya la usas en español. Rima con bird, word y heard." },
+        { "en": "surf", "ipa": "sɝf", "say": "serf", "es": "surf", "icon": "🏄", "anchor": "<s>surf</s> con u → <b>serf</b>", "tip": "En español dices la u. En inglés la U desaparece dentro de la R." },
+        { "en": "burger", "ipa": "ˈbɝɡɚ", "say": "bérguer", "es": "hamburguesa", "icon": "🍔", "anchor": "<s>búrguer</s> → <b>bérguer</b>", "tip": "Las dos sílabas llevan el mismo sonido: BÉR-guer." },
+        { "en": "world", "ipa": "wɝld", "say": "werld", "es": "mundo", "icon": "🌍", "anchor": "Disney <s>Uorld</s> 🏰 → <b>werld</b>", "tip": "Nada de «uor»: w + er + L oscura + d, en una sola sílaba." },
+        { "en": "girl", "ipa": "ɡɝl", "say": "guerl", "es": "chica", "icon": "👧", "anchor": "«<b>Girl</b> power» 💪", "tip": "Casi: funde la e con la R y acaba en L oscura (mapa C-12)." },
+        { "en": "super", "ipa": "ˈsuːpɚ", "say": "súuper", "es": "súper", "icon": "🦸", "anchor": "¡<b>súper</b>! 🦸", "tip": "Alarga la u y termina en R americana, sin golpe: SÚU-per." },
+        { "en": "hamster", "ipa": "ˈhæmstɚ", "say": "jǽmster", "es": "hámster", "icon": "🐹", "anchor": "<b>hámster</b> 🐹", "tip": "Tu hámster ya casi suena. Abre la a (mapa V-03) y acaba en er débil." },
+        { "en": "doctor", "ipa": "ˈdɑktɚ", "say": "dákter", "es": "médico", "icon": "🩺", "anchor": "<s>doc-TOR</s> → <b>DÁK</b>ter", "tip": "Al revés que en español: la fuerza al principio y la -or final, débil." },
+        { "en": "color", "ipa": "ˈkʌlɚ", "say": "káler", "es": "color", "icon": "🎨", "anchor": "<s>co-LOR</s> → <b>KÁ</b>ler", "tip": "La o de «co» suena a corta (mapa V-04) y «-lor» es una er débil." },
+        { "en": "Oscar", "ipa": "ˈɑskɚ", "say": "ásker", "es": "Óscar (el premio)", "icon": "🏆", "anchor": "los <s>Óscar</s> → <b>ásker</b>", "tip": "En americano la O suena a (mapa V-05) y la -ar final es er débil." },
+        { "en": "error", "ipa": "ˈɛrɚ", "say": "érer", "es": "error", "icon": "❌", "anchor": "<s>e-RROR</s> → <b>É</b>rer", "tip": "Fuerza en la E y ninguna erre fuerte: É-rer." }
+      ]
+    },
+    {
+      "t": "listen",
+      "items": [
+        { "q": "bird", "es": "pájaro" },
+        { "q": "girl", "es": "chica" },
+        { "q": "world", "es": "mundo" },
+        { "q": "work", "es": "trabajo" },
+        { "q": "early", "es": "temprano" },
+        { "q": "Thursday", "es": "jueves" }
+      ]
+    },
+    {
+      "t": "table",
+      "wide": true,
+      "title": "Un sonido, muchos disfraces",
+      "title_en": "One sound, many spellings",
+      "icon": "🎭",
+      "head": ["Letras · Spelling", "Ejemplos · Words", "Suena", "¡Ojo! · Watch out"],
+      "rows": [
+        ["ER", "her, term, person", "<code>jer</code>, <code>term</code>, <code>pérsən</code>", "con vocal detrás cambia: very = <code>véri</code>"],
+        ["IR", "bird, girl, first", "<code>berd</code>, <code>guerl</code>, <code>ferst</code>", "IRE es otra cosa: fire = <code>fáier</code> (V-10)"],
+        ["UR", "nurse, turn, Thursday", "<code>ners</code>, <code>tern</code>, <code>zérsdei</code>", "URE es otra cosa: sure = <code>shur</code> (V-10)"],
+        ["WOR", "work, word, world", "<code>werk</code>, <code>werd</code>, <code>werld</code>", "WAR suena or: warm = <code>worm</code>"],
+        ["EAR + consonante", "early, learn, heard", "<code>érli</code>, <code>lern</code>, <code>jerd</code>", "heart = <code>jart</code> (¡rebelde!)"],
+        ["OUR (a veces)", "journey, journal", "<code>yérni</code>, <code>yérnəl</code>", "four y hour, no (V-10)"],
+        ["-ER, -OR, -AR débiles", "teacher, doctor, dollar", "<code>tíicher</code>, <code>dákter</code>, <code>dáler</code>", "aquí nunca va la fuerza"],
+        ["-URE débil", "picture, nature", "<code>píkcher</code>, <code>néicher</code>", "más en el mapa T-03"]
+      ],
+      "note": "Cuando veas una de estas letras + R, <b>no leas la vocal</b>: di <code>er</code>.",
+      "note_en": "When you see these letters + R, don't read the vowel: just say /ɝ/."
+    },
+    {
+      "t": "pairs",
+      "title": "¡No te confundas!",
+      "title_en": "Don't mix them up!",
+      "icon": "👂",
+      "items": [
+        { "a": { "en": "work", "ipa": "wɝk", "say": "werk", "es": "trabajar", "icon": "💼" }, "b": { "en": "walk", "ipa": "wɔk", "say": "wok", "es": "andar", "icon": "🚶" }, "tip": "Walk tiene la L muda y una o abierta; work no tiene o: solo R." },
+        { "a": { "en": "word", "ipa": "wɝd", "say": "werd", "es": "palabra", "icon": "💬" }, "b": { "en": "world", "ipa": "wɝld", "say": "werld", "es": "mundo", "icon": "🌍" }, "tip": "Iguales hasta el final: world mete una L oscura antes de la d." },
+        { "a": { "en": "shirt", "ipa": "ʃɝt", "say": "shert", "es": "camisa", "icon": "👕" }, "b": { "en": "short", "ipa": "ʃɔrt", "say": "short", "es": "corto", "icon": "🩳" }, "tip": "En short sí hay una o; en shirt, la i desaparece." },
+        { "a": { "en": "burn", "ipa": "bɝn", "say": "bern", "es": "quemar", "icon": "🔥" }, "b": { "en": "born", "ipa": "bɔrn", "say": "born", "es": "nacido", "icon": "👶" }, "tip": "I was born… (nací), no I was burn. 😅" },
+        { "a": { "en": "heard", "ipa": "hɝd", "say": "jerd", "es": "oí / oído", "icon": "👂" }, "b": { "en": "hard", "ipa": "hɑrd", "say": "jard", "es": "duro / difícil", "icon": "🪨" }, "tip": "Hard abre la boca para la a; heard la deja medio cerrada." },
+        { "a": { "en": "fur", "ipa": "fɝ", "say": "fer", "es": "pelaje", "icon": "🐻" }, "b": { "en": "far", "ipa": "fɑr", "say": "far", "es": "lejos", "icon": "🔭" }, "tip": "Rocky tiene fur, no far. 🐶" }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "R española vs. vocal con R",
+      "title_en": "Spanish R vs. R-colored vowel",
+      "icon": "⚖️",
+      "es": "En español, «ser» tiene <b>dos piezas</b>: una e clara y un golpe de lengua. En inglés, «sir» es <b>una sola pieza</b>.",
+      "en": "Spanish «ser» has two parts: a clear e and a tap. English «sir» is one single sound.",
+      "cols": [
+        { "head": "🇪🇸 En español", "color": "blue", "items": ["«ser», «ver», «por»", "vocal clara + golpe de lengua", "la punta toca el paladar", "la r dura un instante"] },
+        { "head": "🇺🇸 En inglés", "color": "red", "items": ["sir, were, fur", "la vocal y la R a la vez", "la lengua no toca nada", "se puede alargar: es una vocal"] }
+      ]
+    },
+    {
+      "t": "stress",
+      "wide": true,
+      "cols": 4,
+      "title": "La R débil nunca lleva el golpe",
+      "title_en": "The weak R vowel is never stressed",
+      "icon": "🥁",
+      "es": "Mira dónde cae el golpe (●). La <code>er</code> débil va siempre en una sílaba pequeña (•).",
+      "en": "The weak /ɚ/ always goes in an unstressed syllable.",
+      "items": [
+        { "syl": ["doc", "tor"], "s": 0, "say": "dákter", "es": "médico" },
+        { "syl": ["co", "lor"], "s": 0, "say": "káler", "es": "color" },
+        { "syl": ["tea", "cher"], "s": 0, "say": "tíicher", "es": "profe" },
+        { "syl": ["Sat", "ur", "day"], "s": 0, "say": "sǽrerdei", "es": "sábado" },
+        { "syl": ["ham", "bur", "ger"], "s": 0, "say": "jǽmberguer", "es": "hamburguesa" },
+        { "syl": ["yes", "ter", "day"], "s": 0, "say": "iésterdei", "es": "ayer" },
+        { "syl": ["com", "pu", "ter"], "s": 1, "say": "kəmpiúrer", "es": "ordenador" },
+        { "syl": ["un", "der", "stand"], "s": 2, "say": "anderstǽnd", "es": "entender" }
+      ]
+    },
+    {
+      "t": "vocab",
+      "wide": true,
+      "cols": 4,
+      "title": "Palabras con la vocal con R",
+      "title_en": "Words with the R-colored vowel",
+      "icon": "🧩",
+      "items": [
+        { "en": "bird", "es": "pájaro · <code>berd</code>", "icon": "🐦" },
+        { "en": "girl", "es": "chica · <code>guerl</code>", "icon": "👧" },
+        { "en": "nurse", "es": "enfermera · <code>ners</code>", "icon": "🏥" },
+        { "en": "shirt", "es": "camisa · <code>shert</code>", "icon": "👕" },
+        { "en": "skirt", "es": "falda · <code>skert</code>", "icon": "👗" },
+        { "en": "turtle", "es": "tortuga · <code>térdəl</code>", "icon": "🐢" },
+        { "en": "burger", "es": "hamburguesa · <code>bérguer</code>", "icon": "🍔" },
+        { "en": "purple", "es": "morado · <code>pérpəl</code>", "icon": "🟣" },
+        { "en": "church", "es": "iglesia · <code>cherch</code>", "icon": "⛪" },
+        { "en": "circle", "es": "círculo · <code>sérkəl</code>", "icon": "⭕" },
+        { "en": "birthday", "es": "cumpleaños · <code>bérzdei</code>", "icon": "🎂" },
+        { "en": "thirsty", "es": "sediento · <code>zérsti</code>", "icon": "🥤" }
+      ]
+    },
+    {
+      "t": "spoken",
+      "title": "Así se escribe → así se dice",
+      "title_en": "Written vs. spoken",
+      "items": [
+        { "written": "The early bird gets the worm.", "spoken": "Thee urly burd gets the wurm.", "say": "di érli berd guets də werm", "es": "A quien madruga, Dios le ayuda." },
+        { "written": "Her first word", "spoken": "Hur furst wurd", "say": "jer ferst werd", "es": "Su primera palabra" },
+        { "written": "Girl power!", "spoken": "Gurl power!", "say": "guerl páuer", "es": "¡Poder de chica!" },
+        { "written": "I heard a bird.", "spoken": "I hurd a burd.", "say": "ai jerd ə berd", "es": "Oí un pájaro." },
+        { "written": "Were you at work?", "spoken": "Wur you at wurk?", "say": "wer iu ət werk", "es": "¿Estabas en el trabajo?" },
+        { "written": "Thirty-third birthday", "spoken": "Thurdy-thurd burthday", "say": "zérdi zerd bérzdei", "es": "Trigésimo tercer cumpleaños" }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Frases para leer en voz alta",
+      "title_en": "Sentences to read aloud",
+      "items": [
+        { "en": "The girl has a bird.", "say": "də guerl jæs ə berd", "es": "La niña tiene un pájaro.", "icon": "🐦" },
+        { "en": "My sister is a nurse.", "say": "mai síster isə ners", "es": "Mi hermana es enfermera.", "icon": "🏥" },
+        { "en": "I work on Thursday.", "say": "ai werk an zérsdei", "es": "Trabajo el jueves.", "icon": "💼" },
+        { "en": "Her first word was «bird».", "say": "jer ferst werd wəs berd", "es": "Su primera palabra fue «pájaro».", "icon": "👶" },
+        { "en": "Turn left at the church.", "say": "tern left ət də cherch", "es": "Gira a la izquierda en la iglesia.", "icon": "⛪" },
+        { "en": "The doctor is early today.", "say": "də dákter is érli tədéi", "es": "El médico llega pronto hoy.", "icon": "🩺" },
+        { "en": "Her shirt is purple.", "say": "jer shert is pérpəl", "es": "Su camisa es morada.", "icon": "👕" },
+        { "en": "I learn new words every day.", "say": "ai lern nuu werds évri dei", "es": "Aprendo palabras nuevas cada día.", "icon": "📚" },
+        { "en": "We had burgers for dinner.", "say": "wi jæd bérguers fer díner", "es": "Cenamos hamburguesas.", "icon": "🍔" },
+        { "en": "Thirty-three birds!", "say": "zérdi zrii berds", "es": "¡Treinta y tres pájaros!", "icon": "🔢" },
+        { "en": "My mother and father work hard.", "say": "mai máder ən fáder werk jard", "es": "Mi madre y mi padre trabajan mucho.", "icon": "💪" },
+        { "en": "Is the world round?", "say": "is də werld raund", "es": "¿El mundo es redondo?", "icon": "🌍" }
+      ]
+    },
+    {
+      "t": "errors",
+      "title": "¡Así no se dice!",
+      "title_en": "Don't say it like this",
+      "items": [
+        { "bad": "bird → <code>bird</code> (i española)", "good": "<code>berd</code>", "why": "La I no suena: se funde con la R. Bird rima con word.", "why_en": "Don't say an I: bird rhymes with word." },
+        { "bad": "work → <code>uórk</code>", "good": "<code>werk</code>", "why": "Con una o clara suena casi a walk (andar). En work no hay o.", "why_en": "There's no O sound in work." },
+        { "bad": "doctor → <code>doktór</code>", "good": "<code>dákter</code>", "why": "La fuerza va al principio y la -or final es una er débil.", "why_en": "Stress the first syllable; -or is a weak /ɚ/." },
+        { "bad": "her → <code>jerr</code> (r que vibra)", "good": "<code>jer</code>", "why": "La lengua no toca nada: es una vocal, no un golpe.", "why_en": "Don't tap or trill: the tongue touches nothing." },
+        { "bad": "early → <code>eárli</code>", "good": "<code>érli</code>", "why": "No leas la e y la a por separado: EAR + consonante = er.", "why_en": "EAR + consonant = /ɝ/." },
+        { "bad": "world → <code>uórld</code>", "good": "<code>werld</code>", "why": "W + er + L oscura + d, todo en una sílaba.", "why_en": "One syllable: w + /ɝ/ + dark L + d." },
+        { "bad": "burger → <code>búrguer</code>", "good": "<code>bérguer</code>", "why": "La U no suena u, y las dos sílabas llevan el mismo sonido.", "why_en": "Both syllables have the R-colored vowel." }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "El pájaro de Mario",
+      "title_en": "Mario's bird",
+      "lines": [
+        { "who": "Jenny", "en": "Mario, is that a new bird?", "say": "mário, is dæt ə nuu berd?", "es": "Mario, ¿es un pájaro nuevo?" },
+        { "who": "Mario", "en": "Yes! She's a girl. Her name is Pearl.", "say": "iés! shiis ə guerl. jer neim is perl", "es": "¡Sí! Es chica. Se llama Pearl." },
+        { "who": "Jenny", "en": "She's so pretty! Does she talk?", "say": "shiis sou príri! das shi tok?", "es": "¡Qué bonita! ¿Habla?" },
+        { "who": "Mario", "en": "Yes! Her first word was «burger».", "say": "iés! jer ferst werd wəs bérguer", "es": "¡Sí! Su primera palabra fue «hamburguesa»." },
+        { "who": "Jenny", "en": "Ha! That's a funny first word.", "say": "ja! dæts ə fáni ferst werd", "es": "¡Ja! Qué primera palabra tan graciosa." },
+        { "who": "Mario", "en": "Now she's learning «Thursday» and «thirty».", "say": "nau shiis lérning zérsdei ən zérdi", "es": "Ahora está aprendiendo «jueves» y «treinta»." },
+        { "who": "Jenny", "en": "Wow, that's hard work for a bird!", "say": "wau, dæts jard werk fer ə berd!", "es": "¡Hala, eso es mucho trabajo para un pájaro!" },
+        { "who": "Mario", "en": "I know. She works harder than me!", "say": "ai nou. shi werks járder dən mi!", "es": "Ya. ¡Trabaja más que yo!" }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Cómo entrenarlo en 5 pasos",
+      "title_en": "Train it in 5 steps",
+      "items": [
+        { "es": "Gruñe como Rocky <b>sin vibrar</b> la lengua: «grrr». Nota la lengua atrás, flotando.", "en": "Growl like a dog without trilling: grrr." },
+        { "es": "Quita la g y quédate solo con el sonido. Alárgalo: eso es la vocal con R.", "en": "Drop the g and hold the sound: that's the R-colored vowel." },
+        { "es": "Ponle consonantes delante y detrás: b + er + d = <code>berd</code>; w + er + k = <code>werk</code>.", "en": "Add consonants: bird, work." },
+        { "es": "Practica las parejas: work/walk, shirt/short, heard/hard. Exagera la diferencia.", "en": "Practice the pairs and exaggerate the difference." },
+        { "es": "Lee «The early bird gets the worm», escanea los QR y <b>grábate</b>. Compara.", "en": "Read the proverb, listen and record yourself." }
+      ]
+    },
+    {
+      "t": "twister",
+      "title": "Trabalenguas",
+      "title_en": "Tongue twisters",
+      "items": [
+        { "en": "Thirty-three thirsty birds work on Thursday.", "say": "zérdi zrii zérsti berds werk an zérsdei", "es": "Treinta y tres pájaros sedientos trabajan el jueves." },
+        { "en": "Pearl the purple turtle learned her first word.", "say": "perl də pérpəl térdəl lernd jer ferst werd", "es": "Pearl, la tortuga morada, aprendió su primera palabra." },
+        { "en": "A nurse with a purse heard a bird in the church.", "say": "ə ners wid ə pers jerd ə berd in də cherch", "es": "Una enfermera con un bolso oyó un pájaro en la iglesia." }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "El truco del gruñido",
+      "title_en": "The growl trick",
+      "es": "Cuando veas <b>ER, IR, UR, WOR</b> o <b>EAR</b> + consonante, no leas la vocal: gruñe flojito como Rocky («grrr», sin vibrar) y añade las consonantes. Y recuerda: <b>bird</b>, <b>word</b>, <b>heard</b> y <b>nerd</b> riman. 🐶",
+      "en": "When you see ER, IR, UR, WOR or EAR + consonant, don't read the vowel: growl softly and add the consonants. Bird, word, heard and nerd all rhyme."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Cuál no tiene <code>er</code>?",
+      "title_en": "Which one is different?",
+      "icon": "🔍",
+      "es": "Di las tres palabras en voz alta y rodea la que <b>no</b> tiene la vocal con R.",
+      "en": "Say the three words and circle the one without the R-colored vowel.",
+      "items": [
+        { "q": "[bird|word|board]", "a": "board" },
+        { "q": "[her|hair|fur]", "a": "hair" },
+        { "q": "[girl|first|fire]", "a": "fire" },
+        { "q": "[turn|torn|burn]", "a": "torn" },
+        { "q": "[work|walk|word]", "a": "walk" },
+        { "q": "[learn|early|ear]", "a": "ear" },
+        { "q": "[heard|heart|herd]", "a": "heart" },
+        { "q": "[shirt|short|skirt]", "a": "short" },
+        { "q": "[nurse|purse|horse]", "a": "horse" },
+        { "q": "[world|worm|warm]", "a": "warm" }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Fuerte o débil?",
+      "title_en": "Strong or weak?",
+      "icon": "🗂️",
+      "es": "Di cada palabra. ¿La <code>er</code> lleva el golpe (fuerte) o va al final sin fuerza (débil)? Escríbela en su columna.",
+      "en": "Is the R-colored vowel stressed or weak? Write each word in the right column.",
+      "cats": [
+        { "name": "🔊 er fuerte /ɝ/", "words": ["bird", "nurse", "work", "first", "early", "learn", "turn", "girl"] },
+        { "name": "🔉 er débil /ɚ/", "words": ["teacher", "doctor", "color", "sister", "dollar", "sugar", "water", "never"] }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada palabra con su sonido",
+      "title_en": "Match word and sound",
+      "icon": "🔗",
+      "es": "Une la palabra con su pronunciación figurada.",
+      "en": "Match each word with how it sounds.",
+      "pairs": [
+        ["bird", "<code>berd</code>"],
+        ["girl", "<code>guerl</code>"],
+        ["work", "<code>werk</code>"],
+        ["world", "<code>werld</code>"],
+        ["nurse", "<code>ners</code>"],
+        ["early", "<code>érli</code>"],
+        ["doctor", "<code>dákter</code>"],
+        ["color", "<code>káler</code>"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe cómo suena",
+      "title_en": "Write how it sounds",
+      "icon": "✍️",
+      "es": "Escribe la pronunciación figurada. Para la vocal con R escribe siempre <b>er</b> y pon tilde en la sílaba fuerte.",
+      "en": "Write how each word sounds, Spanish-style.",
+      "items": [
+        { "q": "👩 her → ____", "a": "jer" },
+        { "q": "🥇 first → ____", "a": "ferst" },
+        { "q": "👕 shirt → ____", "a": "shert" },
+        { "q": "↩️ turn → ____", "a": "tern" },
+        { "q": "🧠 learn → ____", "a": "lern" },
+        { "q": "💬 word → ____", "a": "werd" },
+        { "q": "🟣 purple → ____", "a": "pérpəl" },
+        { "q": "👭 sister → ____", "a": "síster" },
+        { "q": "💵 dollar → ____", "a": "dáler" },
+        { "q": "📅 Thursday → ____", "a": "zérsdei" }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Igual o diferente?",
+      "title_en": "Same or different?",
+      "icon": "👂",
+      "es": "En inglés americano, ¿estas dos palabras suenan igual o diferente? Rodea.",
+      "en": "In American English, do they sound the same or different?",
+      "items": [
+        { "q": "heard (oí) · herd (rebaño) → [igual|diferente]", "a": "igual" },
+        { "q": "fur (pelaje) · fir (abeto) → [igual|diferente]", "a": "igual" },
+        { "q": "earn (ganar) · urn (urna) → [igual|diferente]", "a": "igual" },
+        { "q": "work · walk → [igual|diferente]", "a": "diferente" },
+        { "q": "word · world → [igual|diferente]", "a": "diferente" },
+        { "q": "shirt · short → [igual|diferente]", "a": "diferente" },
+        { "q": "were · where → [igual|diferente]", "a": "diferente" },
+        { "q": "burn · born → [igual|diferente]", "a": "diferente" }
+      ]
+    },
+    {
+      "t": "stressmark",
+      "title": "Rodea la sílaba fuerte",
+      "title_en": "Circle the stressed syllable",
+      "icon": "🥁",
+      "es": "Rodea la sílaba fuerte. Recuerda: la <code>er</code> débil del final nunca lleva el golpe.",
+      "en": "Circle the stressed syllable.",
+      "items": [
+        { "syl": ["doc", "tor"], "s": 0, "es": "médico" },
+        { "syl": ["co", "lor"], "s": 0, "es": "color" },
+        { "syl": ["tea", "cher"], "s": 0, "es": "profe" },
+        { "syl": ["sis", "ter"], "s": 0, "es": "hermana" },
+        { "syl": ["Thurs", "day"], "s": 0, "es": "jueves" },
+        { "syl": ["sur", "prise"], "s": 1, "es": "sorpresa" },
+        { "syl": ["ham", "bur", "ger"], "s": 0, "es": "hamburguesa" },
+        { "syl": ["Sat", "ur", "day"], "s": 0, "es": "sábado" },
+        { "syl": ["un", "der", "stand"], "s": 2, "es": "entender" },
+        { "syl": ["per", "son"], "s": 0, "es": "persona" }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Rodea T (true, verdadero) o F (false, falso).",
+      "en": "Circle T or F.",
+      "items": [
+        { "q": "In «bird», the I sounds like the Spanish i.", "a": false, "why": "suena <code>berd</code>" },
+        { "q": "«Her», «bird» and «nurse» have the same vowel sound.", "a": true },
+        { "q": "The American R vibrates like the Spanish rr.", "a": false, "why": "la lengua no toca nada" },
+        { "q": "«Work» and «walk» sound the same.", "a": false, "why": "<code>werk</code> / <code>wok</code>" },
+        { "q": "In «doctor», the stress is on the first syllable.", "a": true },
+        { "q": "«Early» starts with the sound /ɝ/.", "a": true },
+        { "q": "In «world», you can hear an L.", "a": true },
+        { "q": "«Heart» has the same vowel as «heard».", "a": false, "why": "heart = <code>jart</code>" }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Ordena las letras",
+      "title_en": "Unscramble the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra. Ojo: el mismo sonido se escribe ER, IR, UR, OR o EAR.",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        { "q": "🐦 pájaro", "a": "bird" },
+        { "q": "👧 chica", "a": "girl" },
+        { "q": "🏥 enfermera", "a": "nurse" },
+        { "q": "👕 camisa", "a": "shirt" },
+        { "q": "💬 palabra", "a": "word" },
+        { "q": "🌍 mundo", "a": "world" },
+        { "q": "⏰ temprano", "a": "early" },
+        { "q": "🐢 tortuga", "a": "turtle" }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Corrige la pronunciación",
+      "title_en": "Fix the pronunciation",
+      "icon": "🩹",
+      "es": "Cada pronunciación figurada tiene un fallo. Escríbela bien.",
+      "en": "Each sound-alike spelling has a mistake. Fix it.",
+      "items": [
+        { "q": "bird → <code>bírd</code>", "a": "berd" },
+        { "q": "work → <code>uórk</code>", "a": "werk" },
+        { "q": "girl → <code>guírl</code>", "a": "guerl" },
+        { "q": "nurse → <code>nurs</code>", "a": "ners" },
+        { "q": "world → <code>uórld</code>", "a": "werld" },
+        { "q": "doctor → <code>doktór</code>", "a": "dákter" },
+        { "q": "color → <code>kolór</code>", "a": "káler" },
+        { "q": "Thursday → <code>túrsdei</code>", "a": "zérsdei" }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe la frase como suena",
+      "title_en": "Write the phrase as it sounds",
+      "icon": "🗣️",
+      "es": "Escribe cómo suena cada frase con la figurada.",
+      "en": "Write how each phrase sounds.",
+      "items": [
+        { "q": "Her first word.", "a": "jer ferst werd" },
+        { "q": "I heard a bird.", "a": "ai jerd ə berd" },
+        { "q": "The girl works.", "a": "də guerl werks" },
+        { "q": "Turn left.", "a": "tern left" },
+        { "q": "My sister is a nurse.", "a": "mai síster isə ners" },
+        { "q": "Thirty birds", "a": "zérdi berds" },
+        { "q": "The world is round.", "a": "də werld is raund" },
+        { "q": "Were you at work?", "a": "wer iu ət werk" }
+      ]
+    },
+    {
+      "t": "readaloud",
+      "title": "Lee en voz alta",
+      "title_en": "Read aloud",
+      "icon": "📣",
+      "es": "Lee cada frase 3 veces (despacio, normal, rápido) y marca una casilla cada vez.",
+      "en": "Read each sentence three times and tick a box each time.",
+      "items": [
+        { "q": "Her first word", "say": "jer ferst werd" },
+        { "q": "Thirty-three birds", "say": "zérdi zrii berds" },
+        { "q": "The girl and the turtle", "say": "də guerl ən də térdəl" },
+        { "q": "I work on Thursday.", "say": "ai werk an zérsdei" },
+        { "q": "The nurse has a purple purse.", "say": "də ners jæs ə pérpəl pers" },
+        { "q": "My sister is a teacher.", "say": "mai síster isə tíicher" },
+        { "q": "The early bird gets the worm.", "say": "di érli berd guets də werm" },
+        { "q": "Doctor, it hurts!", "say": "dákter, it jerts" }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce y dilo",
+      "title_en": "Translate and say it",
+      "icon": "🌍",
+      "es": "Traduce al inglés. Después dilo en voz alta con la vocal con R.",
+      "en": "Translate into English and say it aloud.",
+      "items": [
+        { "q": "pájaro", "a": "bird (berd)" },
+        { "q": "chica", "a": "girl (guerl)" },
+        { "q": "trabajo", "a": "work (werk)" },
+        { "q": "mundo", "a": "world (werld)" },
+        { "q": "palabra", "a": "word (werd)" },
+        { "q": "enfermera", "a": "nurse (ners)" },
+        { "q": "primero", "a": "first (ferst)" },
+        { "q": "jueves", "a": "Thursday (zérsdei)" },
+        { "q": "hermana", "a": "sister (síster)" },
+        { "q": "aprender", "a": "learn (lern)" }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa los huecos. En «Letras» escribe cómo se escribe el sonido (ER, IR, UR, WOR, EAR…).",
+      "en": "Fill in the gaps.",
+      "head": ["Inglés", "Español", "Letras", "Suena"],
+      "rows": [
+        ["bird", "?pájaro", "IR", "?berd"],
+        ["?nurse", "enfermera", "?UR", "ners"],
+        ["work", "?trabajo", "?WOR", "werk"],
+        ["?her", "de ella", "ER", "?jer"],
+        ["early", "?temprano", "EAR", "?érli"],
+        ["doctor", "médico", "?OR (débil)", "?dákter"],
+        ["?girl", "chica", "?IR", "guerl"],
+        ["Thursday", "?jueves", "UR", "?zérsdei"]
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras con R",
+      "title_en": "R-vowel word search",
+      "icon": "🔎",
+      "es": "Busca 10 palabras con la vocal con R. Dila en voz alta cada vez que encuentres una.",
+      "en": "Find 10 words with the R-colored vowel.",
+      "words": ["bird", "girl", "work", "world", "nurse", "shirt", "turtle", "early", "purple", "burger"],
+      "clues": ["bird · pájaro", "girl · chica", "work · trabajo", "world · mundo", "nurse · enfermera", "shirt · camisa", "turtle · tortuga", "early · temprano", "purple · morado", "burger · hamburguesa"]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y caza la vocal con R",
+      "title_en": "Read and find the R vowel",
+      "icon": "📖",
+      "es": "Lee el texto en voz alta. Después contesta.",
+      "en": "Read the text aloud, then answer.",
+      "text_title": "Pearl the Nurse",
+      "text": [
+        "Pearl is a nurse. She works at a big hospital. On Thursdays, she gets up early and puts on her purple shirt.",
+        "After work, she visits her sister Shirley. They eat burgers and talk about birds. Shirley's bird can say thirty words!"
+      ],
+      "items": [
+        { "q": "What is Pearl's job?", "a": "She's a nurse (<code>ners</code>)." },
+        { "q": "Write three words from the text with the sound <code>er</code>.", "a": "Pearl, nurse, works, Thursdays, early, her, purple, shirt, work, Shirley, burgers, birds, thirty, words… (cualquiera)." },
+        { "q": "How does «early» sound?", "a": "<code>érli</code>" },
+        { "q": "Pearl gets up early on Thursdays.", "tf": true, "a": true },
+        { "q": "Shirley's bird can say thirteen words.", "tf": true, "a": false, "why": "thirty (<code>zérdi</code>), treinta" },
+        { "q": "«Burgers» has two R-colored vowels.", "tf": true, "a": true, "why": "<code>bérguers</code>" }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Tu turno",
+      "title_en": "Your turn",
+      "icon": "🎤",
+      "es": "Escribe 3 frases tuyas con palabras de este mapa. Léelas en voz alta y grábate.",
+      "en": "Write three sentences with words from this map and record yourself.",
+      "items": [
+        { "q": "Una frase sobre tu familia (sister, brother, mother, father…).", "lines": 2, "a": "Ej.: My sister is a nurse and my brother is a teacher." },
+        { "q": "Una frase con work o world.", "lines": 2, "a": "Ej.: I want to travel around the world." },
+        { "q": "Una frase con tres palabras de este mapa (bird, girl, first, Thursday…).", "lines": 2 }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé decir <b>bird</b>, <b>girl</b> y <b>work</b> sin leer la vocal.", "en": "I can say bird, girl and work without reading the vowel." },
+    { "es": "Sé que ER, IR, UR, WOR y EAR + consonante suenan <code>er</code>.", "en": "I know these spellings sound /ɝ/." },
+    { "es": "Digo la R sin vibrar, con la lengua hacia atrás.", "en": "I say the R without trilling, tongue back." },
+    { "es": "Distingo work/walk, shirt/short y heard/hard.", "en": "I can hear and say the difference in these pairs." },
+    { "es": "Digo doctor, color y teacher con la fuerza al principio.", "en": "I stress the first syllable in doctor, color and teacher." },
+    { "es": "Puedo decir «The early bird gets the worm» de corrido.", "en": "I can say the early bird proverb smoothly." }
+  ]
+}
